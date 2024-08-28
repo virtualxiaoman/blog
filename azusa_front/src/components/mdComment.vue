@@ -3,7 +3,7 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/styles/default.min.css">
         <link rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
-        <textarea v-model="comment" placeholder="Write your comment in Markdown...该功能正在写。。发不了评论。"></textarea>
+        <textarea v-model="comment" placeholder="Write your comment in Markdown...该功能的后端还没写。。发不了评论。"></textarea>
         <div v-html="parsedComment" class="markdown-body"></div>
     </div>
 </template>

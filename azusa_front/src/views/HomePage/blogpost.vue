@@ -21,10 +21,10 @@
             <p>文章内容简介...</p>
         </div>
     </div>
-    <div class="blog-post" @click="goToArticle('/article/机器学习')">
-        <img src="/article_cover/机器学习.jpg" alt="博客图片">
+    <div class="blog-post" @click="goToArticle('/article/choice')">
+        <img src="/article_cover/其他文章.png" alt="博客图片">
         <div class="post-info">
-            <h3>机器学习</h3>
+            <h3>其他文章</h3>
             <p>文章内容简介...</p>
         </div>
     </div>

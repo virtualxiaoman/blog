@@ -87,7 +87,8 @@ function generateUniqueId(text: string, i: number) {
 
 onMounted(async () => {
     console.log("mdViewer.vue", props.fileName);
-    const md_url = `/md_article/${props.fileName}.md`;
+    const md_url = `/article_md/${props.fileName}.md`;
+    console.log("mdViewer.vue", md_url);
     const response = await axios.get(md_url);
     console.log("mdViewer.vue", response.data);
 

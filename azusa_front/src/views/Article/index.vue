@@ -15,8 +15,8 @@ const fileName = ref('');
 onMounted(async () => {
     // 使用路由参数来获取文件名
     const articleName = route.params.name;
-    console.log("test.vue", articleName);
+    console.log("article/index.vue", articleName);
     fileName.value = articleName.toString();
-    console.log("test.vue", fileName.value);
+    console.log("article/index.vue", fileName.value);
 });
 </script>
