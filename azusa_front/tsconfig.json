@@ -18,8 +18,18 @@
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true
+    "noFallthroughCasesInSwitch": true,
+
+    /* Additional Options */
+    "allowJs": true,  // 允许编译 .js 和 .vue 文件
+    "checkJs": true,  // 启用 JavaScript 文件类型检查
+    "baseUrl": ".",  // 设置基础路径
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "src/**/*.js"  // 确保 .js 文件也被包括
+  ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

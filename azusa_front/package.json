@@ -1,5 +1,5 @@
 {
-  "name": "azusa_front",
+  "name": "vue_front",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "@types/marked": "^5.0.2",
+    "axios": "^1.7.3",
+    "buffer": "^6.0.3",
+    "element-plus": "^2.8.0",
+    "github-markdown-css": "^5.6.1",
+    "highlight.js": "^11.10.0",
+    "katex": "^0.16.11",
+    "marked": "^14.0.0",
+    "pinia": "^2.2.1",
+    "remixicon": "^4.3.0",
+    "vue": "^3.4.21",
+    "vue-markdown": "^2.2.4",
+    "vue-router": "^4.4.3"
   },
   "devDependencies": {
+    "@types/katex": "^0.16.7",
     "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",
     "vue-tsc": "^2.0.6"
