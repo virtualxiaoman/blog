@@ -21,6 +21,8 @@ const articles = [
   { name: 'vue.md', label: 'Vue' },
   { name: 'plt.md', label: 'Plt' },
   { name: 'git.md', label: 'Git' },
+  { name: '计算机视觉.md', label: 'CV' },
+  { name: '强化学习.md', label: 'RL'}
 ];
 
 const router = useRouter();

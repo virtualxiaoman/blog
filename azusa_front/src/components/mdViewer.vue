@@ -27,15 +27,15 @@ const headings: Record<string, string> = {};
 
 // 第一步，把markdown中的数学公式转换为base64编码
 function md2katex(md: string) {
-    let mdWithPlaceholders = md.replace(/\$\$(.*?)\$\$/gs, (match, p1) => {
+    let mdWithPlaceholders = md.replace(/\$\$(.*?)\$\$/gs, (_, p1) => {
         return `{{katex_block:${Buffer.from(p1).toString('base64')}}}`;
-    }).replace(/\$(.*?)\$/g, (match, p1) => {
+    }).replace(/\$(.*?)\$/g, (_, p1) => {
         return `{{katex_inline:${Buffer.from(p1).toString('base64')}}}`;
     });
     return mdWithPlaceholders;
 }
 
-// 第二步，把md转化为heml
+// 第二步，把md转化为html
 async function md2html(md: string) {
     // 注释掉的方法无法处理高亮代码块
     // let renderedContent = marked(md, {
@@ -55,12 +55,12 @@ async function md2html(md: string) {
 
 // 第三步，替换html中的数学公式
 function katex2html(html: string) {
-    let processedContent = html.replace(/{{katex_block:(.*?)}}/g, (match, p1) => {
+    let processedContent = html.replace(/{{katex_block:(.*?)}}/g, (_, p1) => {
         return katex.renderToString(Buffer.from(p1, 'base64').toString(), {
             throwOnError: false,
             displayMode: true
         });
-    }).replace(/{{katex_inline:(.*?)}}/g, (match, p1) => {
+    }).replace(/{{katex_inline:(.*?)}}/g, (_, p1) => {
         return katex.renderToString(Buffer.from(p1, 'base64').toString(), {
             throwOnError: false
         });
@@ -71,7 +71,7 @@ function katex2html(html: string) {
 // 第四步，为h标签生成id
 function generate_h_id(html: string, i: number) {
     // 替换renderedContent中的h标签，并生成id
-    let processedContent = html.replace(/<(h[1-6])>(.*?)<\/\1>/gi, (match, p1, p2) => {
+    let processedContent = html.replace(/<(h[1-6])>(.*?)<\/\1>/gi, (_, p1, p2) => {
         const id = generateUniqueId(p2.trim(), i++);  // 生成id
         headings[id] = p2.trim();  // 记录原始内容和生成的id
         return `<${p1} id="${id}">${p2}</${p1}>`;
@@ -101,7 +101,19 @@ onMounted(async () => {
 
     content.value = processedContent;
     console.log("mdViewer.vue: processedContent", processedContent);
+
+
+    // // 将html保存到`article_md2html/${props.fileName}.html`中
+    // const html_url = `/article_md2html/${props.fileName}.html`;
+    // await axios.post(html_url, { html: processedContent });
+    // // 将大纲保存到`article_md2html/${props.fileName}.json`中
+    // const json_url = `/article_md2html/${props.fileName}.json`;
+    // await axios.post(json_url, headings);
+    // alert("mdViewer.vue: html and json saved");
+
     emit('contentLoaded', processedContent);  // 触发 contentLoaded 事件并传递渲染后的内容
+
+
 });
 
 

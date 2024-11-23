@@ -22,7 +22,7 @@
 
 
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref } from 'vue';
 import MarkdownViewer from './mdViewer.vue';
 import OutlineGenerator from './OutlineGenerator.vue';
 import MarkdownComment from './mdComment.vue';

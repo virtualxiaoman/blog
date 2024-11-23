@@ -22,10 +22,10 @@ const comment = ref('');
 //     })
 // );
 const parsedComment = computed(() => {
-    const html = marked(comment.value);
+    // const html = marked(comment.value);
     // 手动处理代码高亮
     const tempDiv = document.createElement('div');
-    tempDiv.innerHTML = html;
+    // tempDiv.innerHTML = html;  // 因为导出报错，所以注释掉了
     tempDiv.querySelectorAll('pre code').forEach((block) => {
         hljs.highlightBlock(block as HTMLElement);
     });

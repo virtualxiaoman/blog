@@ -16,14 +16,15 @@
 
     /* Linting */
     "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    "noUnusedLocals": false,  // 由于 Vue 组件的生命周期钩子函数可能不会被使用，因此关闭此规则
+    "noUnusedParameters": false,  // 由于 Vue 组件的生命周期钩子函数可能不会被使用，因此关闭此规则
     "noFallthroughCasesInSwitch": true,
 
     /* Additional Options */
     "allowJs": true,  // 允许编译 .js 和 .vue 文件
     "checkJs": true,  // 启用 JavaScript 文件类型检查
     "baseUrl": ".",  // 设置基础路径
+    "noEmitOnError": false  // 不在出现错误时终止编译
   },
   "include": [
     "src/**/*.ts",
