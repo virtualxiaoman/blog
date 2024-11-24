@@ -4,21 +4,25 @@ import ArticleChoice from '../views/Article/misc.vue';
 
 const routes = [
     {
-        path: '/',
-        name: 'home',  // 主页
+        path: import.meta.env.BASE_URL, // 动态基地址，开发环境和生产环境自适应
+        name: 'home',
         component: Home,
     },
     {
-        path: '/article/:name',
-        name: 'article',  // 文章页(Markdown)
+        path: `${import.meta.env.BASE_URL}article/:name`,
+        name: 'article',
         component: () => import('../views/Article/index.vue'),
     },
     {
-        path: '/article/choice',
-        name: 'article-choice',  // 文章选择页(Markdown+PDF)
+        path: `${import.meta.env.BASE_URL}article/choice`,
+        name: 'article-choice',
         component: ArticleChoice,
     }
 ];
+
+// console.log(routes);
+console.log(import.meta.env.BASE_URL);
+
 
 const router = createRouter({
     history: createWebHistory(),

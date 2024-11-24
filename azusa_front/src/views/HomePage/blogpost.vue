@@ -7,10 +7,10 @@
             <p>文章内容简介...</p>
         </div>
     </div>
-    <div class="blog-post" @click="goToArticle('/article/自然语言处理')">
-        <img src="/article_cover/自然语言处理.jpeg" alt="博客图片">
+    <div class="blog-post" @click="goToArticle('/article/机器学习')">
+        <img src="/article_cover/机器学习.jpg" alt="博客图片">
         <div class="post-info">
-            <h3>自然语言处理</h3>
+            <h3>机器学习</h3>
             <p>文章内容简介...</p>
         </div>
     </div>
@@ -18,6 +18,13 @@
         <img src="/article_cover/推荐系统.jpeg" alt="博客图片">
         <div class="post-info">
             <h3>推荐系统</h3>
+            <p>文章内容简介...</p>
+        </div>
+    </div>
+    <div class="blog-post" @click="goToArticle('/article/自然语言处理')">
+        <img src="/article_cover/自然语言处理.jpeg" alt="博客图片">
+        <div class="post-info">
+            <h3>自然语言处理</h3>
             <p>文章内容简介...</p>
         </div>
     </div>
@@ -42,8 +49,9 @@ const router = useRouter();
 //     router.push('/article/深度学习');
 // };
 const goToArticle = (path: string) => {
-    router.push(path);
+    router.push(`${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`); // 确保路径前缀正确(防止//article/...的情况)
 };
+
 </script>
 
 <style scoped>

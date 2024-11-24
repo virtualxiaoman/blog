@@ -87,7 +87,7 @@ function generateUniqueId(text: string, i: number) {
 
 onMounted(async () => {
     console.log("mdViewer.vue", props.fileName);
-    const md_url = `/article_md/${props.fileName}.md`;
+    const md_url = `${import.meta.env.BASE_URL}article_md/${props.fileName}.md`;
     console.log("mdViewer.vue", md_url);
     const response = await axios.get(md_url);
     console.log("mdViewer.vue", response.data);
@@ -102,7 +102,7 @@ onMounted(async () => {
     content.value = processedContent;
     console.log("mdViewer.vue: processedContent", processedContent);
 
-
+    console.log("mdViewer.vue: headings", headings);
     // // 将html保存到`article_md2html/${props.fileName}.html`中
     // const html_url = `/article_md2html/${props.fileName}.html`;
     // await axios.post(html_url, { html: processedContent });

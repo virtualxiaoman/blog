@@ -31,7 +31,8 @@ function navigateToArticle(articleName: string) {
   // 如果articleName以md结尾，则跳转到article/articleName(去掉md后缀)
   if (articleName.endsWith('.md')) {
     const articlePath = articleName.slice(0, -3);
-    router.push(`/article/${articlePath}`);
+    const path = '/article/' + articlePath;
+    router.push(`${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`);
   }
   else {
     console.error('文章名必须以.md结尾');
