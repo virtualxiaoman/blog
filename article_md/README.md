@@ -1,53 +1,85 @@
-PDF与Word的内容一般是一样的，但PDF可能落后一些版本，因为我懒得每次写完转PDF，但是PDF确实方便阅读。
+Hello！这是我的学习笔记，主要是ML、DL、RL、CV、NLP、RS等AI相关的内容。笔记的仓库**可以直接下载下来看，无需经由我同意**。但是**请不要用于学习之外的用途**（比如不标注出处的转载、商业用途、大篇幅抄袭等），少量引用可以不注明出处，引用多了还是希望能注明出处是`virtual小满  https://github.com/virtualxiaoman/MLDLRL`。
 
-html是markdown直接导出的，方便阅读。
+- PDF与Word的内容一般是一样的，但PDF可能落后一些版本，因为我懒得每次写完转PDF，可以下载word后自行转为PDF。
+- html是markdown直接导出的，方便阅读，未来可能上线**在线阅读版**，目前已经能在本地阅读了，我还没买服务器，所以暂时没法在线阅读。
+~~现已将仓库里的部分html文件删除了，如果需要可以查看`Sep 13, 2024`的`95515f535d8721fd4e997397628f643faf426116`这个commit以及之前的版本。因为md转PDF的时候用html作为中转站的话CSS不容易丢失，所以留存了部分html，html转PDF的代码在[easier_tools/html2pdf.py](https://github.com/virtualxiaoman/Easier_DataScience/blob/master/easier_tools/html2pdf.py)中。~~ 建议使用Typora。
 
-以PDF为例，本笔记的整个结构与描述是：
+md内统一使用的语法有：
+```
+小标题：
+<p style="color:#EC407A; font-weight:bold">1. 小标题</p>
+
+图片：
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
+        <img src="assets/···/···/···.png" style="width: 60%;"/>
+        <p style="font-size: small; color: gray;">注释</p>
+    </div>
+</div>
+
+代码：
+<div style="display: flex; justify-content: center; align-items: center;">
+<div style=" max-height: 200px; max-width: 90%; overflow-y: auto; border: 1px solid #39c5bb; border-radius: 10px;">
+```python
+很长的一段代码
+```
+</div>
+</div>
+
+```
+
+以PDF、md为例，本笔记的整个结构与描述是：
 ```
 .
 ├── 数学基础.pdf        [√]主要是线代与概率论，参考的鸢尾花书、雷明
 ├── 数据分析-Code.pdf   [√]之前的练手的，能run，但是正在整理与重构中，请参考我的Easier_DataScience仓库
 ├── 机器学习.pdf        [正在更新]机器学习(含DL)的原理推导(一般不推导纯数学公式)
-├── 推荐系统.md         [正在更新]推荐系统的一些原理
-├── 深度学习.md         [正在更新]对深度学习的一些总结，具体部分是在机器学习.pdf中
-├── LaTex.md           记录一些LaTeX语法
-├── git.md             记录一些git语法
+├── 深度学习.md         [正在更新]对深度学习的一些总结，正在机器学习.pdf中迁移出来
+├── 推荐系统.md         [暂缓更新]
+├── 扩散模型.md         [暂缓更新]
+├── 自然语言处理.md     [暂缓更新]
+├── LaTex.md           [偶尔更新]
+├── git.md             [偶尔更新]
 ├── 代码基础.pdf        [×]刚学的时候记录的，还没翻新，逻辑可能混乱
 ├── 数据处理-Code.pdf   [×]虽然数据处理很重要，但是我比较懒，还没翻新，而且也可以在Easier_DataScience中找到
 ```
-建议将**数学基础**当做查阅，
+建议将**数学基础**当做查阅；
 
-**机器学习**的还是可以的(自认为)，
+**机器学习**的还是可以的(自认为)，算是比较基础的，因为当初学的时候也是从这个开始的；
 
-**数据分析**的代码请参考[Easier_DataScience](https://github.com/virtualxiaoman/Easier_DataScience)(基本所有的机器学习、深度学习等的代码都会整合到里面去，形成统一而便捷的api调用或是demo)，
+**数据分析**的代码请参考[Easier_DataScience](https://github.com/virtualxiaoman/Easier_DataScience)(基本所有的机器学习、深度学习等的代码都会整合到里面去，形成统一而便捷的api调用或是demo)；
 
-**推荐系统**正在学习中。
+**深度学习**是我自己的一些总结，正在持续更新中，不过可能不适合初学者，初学可以看下文的推荐资料；
+
+**推荐系统**、**扩散模型**、**自然语言处理**只是浅浅学了一点。
 
 
-## 1.最主要、最好的的参考资料与个人的一点推荐：
+## 1.最主要、最好的的参考资料与个人的一点推荐
 1. [《鸢尾花书》](https://github.com/Visualize-ML) - 从加减乘除到机器学习
-    - **推荐理由**：配图极其优秀，整体逻辑比较连贯，原理讲解很棒。
+    - **推荐理由**：配图极其优秀，整体逻辑比较连贯，原理讲解很棒。我所见过的最想让你看懂的书籍，能看出作者的用心。
     - **缺陷**：有些啰嗦，没办法速通，代码写的也是一坨，甚至不肯格式化一下。
 2. [《动手学深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书，简称d2l
     - **推荐理由**：深度学习实操，除了部分大一点的模型我的电脑太辣鸡直接爆显存之外，基本都能直接运行，而且原理的讲解确实牛逼，社区也不错。
     - **缺陷**：虽然是中文，但是很有机翻的感觉。什么都放在d2l.py里了，代码逻辑比较混乱，需要自己重构一部分代码，但是起码也算是我目前见过的代码写得比较好的了。
-3. [Easier_DataScience](https://github.com/virtualxiaoman/Easier_DataScience) - [自荐]我写的一些便于MLDL等AI相关的module或是一些demo，希望调用或复用的时候更方便
+3. [李宏毅深度学习教程 LeeDL Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 李宏毅的深度学习课程
+    - **推荐理由**：不是入门书，可以先看[d2l]((https://zh.d2l.ai/))再看这个。这个书提及了很多细节与问题，更多的是启发性思考，主要是讲解一些深度学习的原理。
+    - **缺陷**：没有代码实现，然后感觉就是他的课的文字版，有些地方都没校验就直接放上去了，需要自己去看源视频。（因为我自己不喜欢看视频来学习，所以我看的是这个书，视频还是很不错的）
+4. [Easier_DataScience](https://github.com/virtualxiaoman/Easier_DataScience) - [自荐]我写的一些便于MLDL等AI相关的module或是一些demo，希望调用或复用的时候更方便
     - **推荐理由**：方便调用，不用每次都写一遍
-    - **缺陷**：还在更新中，有些模块还没写完或者还没测试，部分代码逻辑可能不够清晰
-4. [雷明-机器学习的数学](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) - 机器学习的数学基础
+    - **缺陷**：还在更新中，有些模块还没写完或者还没测试，部分代码逻辑可能不够清晰，就当是自己的练手了。
+5. [雷明-机器学习的数学](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) - 机器学习的数学基础
     - **推荐理由**：数学推导比较详细，适合想要深入了解的人。
     - **缺陷**：没图，全是公式。另外目前还没在网上找到电子书，我是买的纸质的。
 
+(好像我格外喜欢电子书，逃~~)(我是Datawhale和d2l的狗~)
 
-## 2.其余推荐资料 (我是动手学的狗)：
-**没**打○的就是我**没看过**，阿巴阿巴~
+
+## 2.其余推荐资料
+**没**打○的就是我**没看过**，阿巴阿巴~（没看的未来应该会看的，看完了再更新评价）。
 
 中文社区的资料就这鬼样子，真的烂大街的我肯定不会放上来了。
 
 以下排名分先后（我没看的不算）：
-1. ○[李宏毅深度学习教程 LeeDL Tutorial](https://github.com/datawhalechina/leedl-tutorial)
-    - 不是入门书，可以先看[d2l]((https://zh.d2l.ai/))再看这个。这个书提及了很多**细节**与问题，更多的是启发性思考，书中主要是讲解一些深度学习的原理，不过没有代码实现。
-    - 我的评价是神中神！
 1. ○[AI数学笔记 Liang's Blog](https://wangliangster.github.io/#/) 
    ○[AI算法工程师手册 huaxiaozhuan](https://www.huaxiaozhuan.com/)
     - **比较难的公式推导都有**，按需查阅。
@@ -84,19 +116,19 @@ html是markdown直接导出的，方便阅读。
 
 ## 3.部分大型的开源学习资源
 1. [Datawhale-github](https://github.com/datawhalechina)或者[Datawhale-官网](https://datawhale.cn/learn)
-好像都是免费，质量还挺不错的(但是因为显然每一章节的作者不相同，导致逻辑连贯性不够强、符号使用不太统一)，但是感觉最近更新的不多。整体来说，我觉得Datawhale的质量还是比较高的，并且有些教程确实是**独一无二**的，比如plt的我就没在其他地方看到研究得这么细致的。
+好像都是免费，质量还挺不错的(但是因为显然每一章节的作者不相同，导致逻辑连贯性不够强、符号使用不太统一)，但是感觉最近更新的不多，好的教程似乎都已经是一两年前的了。整体来说，我觉得Datawhale的质量还是比较高的，并且有些教程确实是**独一无二**的，比如`plt`的我就没在其他地方看到研究得这么细致的。
 2. [boyuai-github](https://github.com/boyu-ai)或者[boyuai-官网](https://www.boyuai.com)
-有付费内容，但是动手学系列都是免费的，但是动手学NLP,CV的不知道为什么没有电子书了。
+有付费内容，但是动手学系列都是免费的，但是动手学NLP,CV的不知道为什么没有电子书了，所以只有ML,RL有电子书了，唉。
 
 
 ## 4.视频
 1. [B站-这是我已经看完了的视频教程的一个收藏夹](https://space.bilibili.com/506925078/favlist?fid=2648566378)
 主要包括：
-- [BV1T84y167U9](https://www.bilibili.com/video/BV1T84y167U9/)  机器学习(传统的机器学习算法基本都有)。虽然我不推荐看唐宇迪的视频来学机器学习，但是他的视频确实简单，拿个二倍速过一遍当**入门**就行。
+- [BV1T84y167U9](https://www.bilibili.com/video/BV1T84y167U9/)  机器学习(传统的机器学习算法基本都有)。虽然我不推荐看唐宇迪的视频来学机器学习，但是他的视频确实简单，拿个二倍速过一遍当**入门**就行，不要去纠结其中的代码是怎么写的或者去纠结他公式推导的细节。
 - [BV1RT411G7jJ](https://www.bilibili.com/video/BV1RT411G7jJ)  机器学习(侧重统计学习)。内容不是很多，但是讲的都很好
 - [BV15V411W7VB](https://www.bilibili.com/video/BV15V411W7VB/)  机器学习(侧重神经网络)。跟上面一个一样，内容讲的很不错，能启发思考。
 
-2. 李沐、李宏毅、吴恩达等大佬的视频，这里不给出链接了，我自己还没看多少。
+2. 李沐、李宏毅、吴恩达等大佬的视频，这里不给出链接了，B站一搜就有的，去Youtube看也行。真的比唐宇迪的强很多。
 
 
 ## 5.对于我阅读较久的书籍&视频的一些打分
@@ -104,6 +136,7 @@ html是markdown直接导出的，方便阅读。
 | 书籍 | 整体印象[^1] | 阅读舒适度[^2] | 实用性[^3] | 逻辑性[^4] | 启发性[^5] | 语言[^6] |
 |------|---------|-----------|-------|--------|-------|-------------------------------|
 | [《动手学深度学习》](https://zh.d2l.ai/)|9| ★★★★★  | ★★★★☆ | ★★★★☆ | ★★★★☆ |★★★☆☆|
+|  [李宏毅深度学习教程 LeeDL Tutorial](https://github.com/datawhalechina/leedl-tutorial) |9| ★★★★★ | ★★★☆☆ | ★★★★☆ | ★★★★★ |★★★☆☆ |
 | [《鸢尾花书》](https://github.com/Visualize-ML)|8.5| ★★★★☆  | ★★★☆☆ | ★★★★☆ | ★★★★★ |★★★★★ |
 | [《机器学习的数学》](https://www.epubit.com/bookDetails?id=UB7812edb26d3f9) |8| ★★★☆☆  | ★★★★☆ | ★★★★☆ | ★★★☆☆ |★★★★☆ |
 | [动手学ML](https://github.com/boyu-ai/Hands-on-ML) |7| ★★★☆☆  | ★★★☆☆ | ★★★★☆ | ★★★☆☆ |★★★☆☆ |
