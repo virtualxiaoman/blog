@@ -4,42 +4,42 @@
       <img src="/article_cover/深度学习.jpeg" alt="博客图片">
       <div class="post-info">
         <h3>深度学习</h3>
-        <p>文章内容简介...</p>
+        <p>深度学习总结</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/机器学习')">
       <img src="/article_cover/机器学习.jpg" alt="博客图片">
       <div class="post-info">
         <h3>机器学习</h3>
-        <p>文章内容简介...</p>
+        <p>机器学习原理</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/机器学习实践')">
       <img src="/article_cover/机器学习实践.png" alt="博客图片">
       <div class="post-info">
-        <h3>计算机视觉</h3>
-        <p>文章内容简介...</p>
+        <h3>机器学习实践</h3>
+        <p>全流程的深度学习实践</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/推荐系统')">
       <img src="/article_cover/推荐系统.jpeg" alt="博客图片">
       <div class="post-info">
         <h3>推荐系统</h3>
-        <p>文章内容简介...</p>
+        <p>推广搜，第一位就是推</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/自然语言处理')">
       <img src="/article_cover/自然语言处理.jpeg" alt="博客图片">
       <div class="post-info">
         <h3>自然语言处理</h3>
-        <p>文章内容简介...</p>
+        <p>似乎当下很火</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/choice')">
       <img src="/article_cover/其他文章.png" alt="博客图片">
       <div class="post-info">
         <h3>其他文章</h3>
-        <p>文章内容简介...</p>
+        <p>其他内容</p>
       </div>
     </div>
   </div>
