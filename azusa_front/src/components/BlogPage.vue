@@ -124,4 +124,15 @@ function updateContent(newContent: string) {
 .main-comment {
     margin-bottom: 30px;
 }
+
+.main-md ::v-deep(h1) {
+    color: #EE0000;
+}
+.main-md ::v-deep(h2) {
+    color: #66CCFF;
+}
+.main-md ::v-deep(h3) {
+    color: #39C5BB;
+}
+
 </style>

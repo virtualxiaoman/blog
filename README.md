@@ -10,3 +10,9 @@ cd azusa_front
 npm run build
 npm run deploy 
 ```
+
+本地启动方法是：
+```bash
+cd azusa_front
+npm run dev
+```
