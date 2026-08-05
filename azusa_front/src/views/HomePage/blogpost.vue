@@ -7,6 +7,13 @@
         <p>深度学习总结</p>
       </div>
     </div>
+    <div class="blog-post" @click="goToArticle('/article/AI/深度学习实践')">
+      <img :src="`${base}article/cover/深度学习实践.jpg`" alt="博客图片">
+      <div class="post-info">
+        <h3>深度学习实践</h3>
+        <p>一些实践内容</p>
+      </div>
+    </div>
     <div class="blog-post" @click="goToArticle('/article/AI/机器学习')">
       <img :src="`${base}article/cover/机器学习.jpg`" alt="博客图片">
       <div class="post-info">
@@ -18,7 +25,14 @@
       <img :src="`${base}article/cover/机器学习实践.png`" alt="博客图片">
       <div class="post-info">
         <h3>机器学习实践</h3>
-        <p>全流程的深度学习实践</p>
+        <p>全流程的机器学习实践</p>
+      </div>
+    </div>
+    <div class="blog-post" @click="goToArticle('/article/AI/论文阅读')">
+      <img :src="`${base}article/cover/论文阅读.png`" alt="博客图片">
+      <div class="post-info">
+        <h3>论文阅读</h3>
+        <p>阅读论文</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/推荐系统')">
