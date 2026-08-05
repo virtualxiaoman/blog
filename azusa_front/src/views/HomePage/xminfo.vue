@@ -1,7 +1,7 @@
 <template>
     <div class="info-container">
         <div class="avatar">
-            <img src="/avatar.jpg" alt="Avatar" />
+            <img :src="`${base}avatar.jpg`" alt="Avatar" />
         </div>
         <div class="name">virtual小满</div>
         <div class="signature">
@@ -15,6 +15,7 @@
 </template>
 
 <script setup>
+const base = import.meta.env.BASE_URL;
 </script>
 
 <style scoped>

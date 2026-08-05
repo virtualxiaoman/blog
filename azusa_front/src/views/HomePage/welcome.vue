@@ -1,5 +1,5 @@
 <template>
-  <div class="welcome-section">
+  <div class="welcome-section" :style="{ backgroundImage: `url(${base}BG_Shiroko.png)` }">
     <div class="welcome-content">
       <div class="blog-center-name">Azusa's blog</div>
     </div>
@@ -10,6 +10,7 @@
 </template>
 
 <script setup>
+const base = import.meta.env.BASE_URL;
 
 const scrollToMain = () => {
   const mainPage = document.querySelector('.main-section');
@@ -28,7 +29,6 @@ const scrollToMain = () => {
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background-image: url('/BG_Shiroko.png');
   background-size: cover;
   background-position: center;
   color: white;

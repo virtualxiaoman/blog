@@ -14,29 +14,28 @@
 
 <script setup lang="ts">
 import { useRouter } from 'vue-router';
-
-// 定义文章列表
-const articles = [
-  { name: 'LaTeX.md', label: 'LaTeX' },
-  { name: 'vue.md', label: 'Vue' },
-  { name: 'plt.md', label: 'Plt' },
-  { name: 'git.md', label: 'Git' },
-  { name: '计算机视觉.md', label: 'CV' },
-  { name: '强化学习.md', label: 'RL'}
-];
+import { findCategory } from '../../articles';
 
 const router = useRouter();
 
+// 定义文章列表（Others 分类下的杂项文章）
+const articles = [
+  { name: 'LaTeX', label: 'LaTeX' },
+  { name: 'vue', label: 'Vue' },
+  { name: 'plt', label: 'Plt' },
+  { name: 'git', label: 'Git' },
+  { name: '计算机视觉', label: 'CV' },
+  { name: '强化学习', label: 'RL'}
+];
+
 function navigateToArticle(articleName: string) {
-  // 如果articleName以md结尾，则跳转到article/articleName(去掉md后缀)
-  if (articleName.endsWith('.md')) {
-    const articlePath = articleName.slice(0, -3);
-    const path = '/article/' + articlePath;
-    router.push(`${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`);
+  const category = findCategory(articleName);
+  if (!category) {
+    console.error('文章未登记分类：', articleName);
+    return;
   }
-  else {
-    console.error('文章名必须以.md结尾');
-  }
+  // 跳转到 /article/<分类>/<文章名>，hash 模式下 base 前缀自动处理
+  router.push(`/article/${category}/${articleName}`);
 }
 </script>
 

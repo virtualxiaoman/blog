@@ -5,7 +5,7 @@
         </div>
         <div class="main-content">
             <div class="main-title">
-                {{ fileName }}
+                {{ displayName }}
             </div>
             <div class="main-md">
                 <MarkdownViewer :fileName="fileName" @contentLoaded="updateContent" />
@@ -22,7 +22,7 @@
 
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
 import MarkdownViewer from './mdViewer.vue';
 import OutlineGenerator from './OutlineGenerator.vue';
 import MarkdownComment from './mdComment.vue';
@@ -33,6 +33,16 @@ const props = defineProps({
         required: true,
     },
 });
+
+const displayName = ref('');
+// fileName 形如 "AI/强化学习"，取出最后一个 / 之后的部分作为标题
+watch(
+    () => props.fileName,
+    (name) => {
+        displayName.value = name.split('/').pop() || name;
+    },
+    { immediate: true }
+);
 
 const content = ref('');
 const contentReady = ref(false);

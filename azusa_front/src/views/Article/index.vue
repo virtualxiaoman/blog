@@ -13,10 +13,11 @@ const route = useRoute();
 const fileName = ref('');
 
 onMounted(async () => {
-    // 使用路由参数来获取文件名
-    const articleName = route.params.name;
-    console.log("article/index.vue", articleName);
-    fileName.value = articleName.toString();
+    // 使用路由参数来获取文件名，路径形如 /article/AI/强化学习
+    const category = route.params.category;
+    const name = route.params.name;
+    console.log("article/index.vue", category, name);
+    fileName.value = `${category}/${name}`;
     console.log("article/index.vue", fileName.value);
 });
 </script>

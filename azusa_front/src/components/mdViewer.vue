@@ -53,6 +53,22 @@ async function md2html(md: string) {
   return tempDiv.innerHTML;
 }
 
+// 将文章内相对路径的图片（assets/xxx/...）重写为带 base 前缀的绝对路径，
+// 使图片在本地（/）和 GitHub Pages（/blog/）下都能正确加载
+function fixArticleImagePaths(html: string) {
+  const tempDiv = document.createElement('div');
+  tempDiv.innerHTML = html;
+  tempDiv.querySelectorAll('img').forEach((img) => {
+    const src = img.getAttribute('src') || '';
+    // 只处理 assets/ 开头的相对路径，跳过 http(s)、//、#、data: 和 / 开头的地址
+    if (/^(\.\/)?assets\//.test(src)) {
+      const rest = src.replace(/^(\.\/)?assets\//, '');
+      img.setAttribute('src', `${import.meta.env.BASE_URL}article/assets/${rest}`);
+    }
+  });
+  return tempDiv.innerHTML;
+}
+
 // 第三步，替换html中的数学公式
 function katex2html(html: string) {
   let processedContent = html.replace(/{{katex_block:(.*?)}}/g, (_, p1) => {
@@ -87,13 +103,15 @@ function generateUniqueId(text: string, i: number) {
 
 onMounted(async () => {
   console.log("mdViewer.vue", props.fileName);
-  const md_url = `${import.meta.env.BASE_URL}article_md/${props.fileName}.md`;
+  // fileName 形如 "AI/强化学习"，对应的 md 文件在 article/md/<分类>/<文章名>.md
+  const md_url = `${import.meta.env.BASE_URL}article/md/${props.fileName}.md`;
   console.log("mdViewer.vue", md_url);
   const response = await axios.get(md_url);
   console.log("mdViewer.vue", response.data);
 
   const mdWithPlaceholders = md2katex(response.data);
   let renderedContent = await md2html(mdWithPlaceholders);
+  renderedContent = fixArticleImagePaths(renderedContent);  // 修复文章内图片路径
   renderedContent = katex2html(renderedContent);
 
   let i = 0;  // 用于生成递增序列的变量

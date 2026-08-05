@@ -40,7 +40,7 @@ function navigateToPDF(pdfName: string) {
   if (pdfName.endsWith('.pdf')) {
     const pdfPath = pdfName.slice(0, -4);
     // 使用 window.open 在新标签页中打开链接
-    const path = '/article_pdf/' + pdfPath;
+    const path = '/article/pdf/' + pdfPath;
     window.open(`${import.meta.env.BASE_URL}${path.replace(/^\//, '')}.pdf`, '_blank');
     // window.open(`${import.meta.env.BASE_URL}article_pdf/${pdfPath}.pdf`, '_blank');
   } else {
