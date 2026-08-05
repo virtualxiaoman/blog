@@ -1,56 +1,56 @@
 <template>
   <div class="blog-section">
     <div class="blog-post" @click="goToArticle('/article/AI/深度学习')">
-      <img :src="`${base}article/cover/深度学习.jpeg`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/深度学习.jpeg`" alt="博客图片">
       <div class="post-info">
         <h3>深度学习</h3>
         <p>深度学习总结</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/深度学习实践')">
-      <img :src="`${base}article/cover/深度学习实践.jpg`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/深度学习实践.jpg`" alt="博客图片">
       <div class="post-info">
         <h3>深度学习实践</h3>
         <p>一些实践内容</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/机器学习')">
-      <img :src="`${base}article/cover/机器学习.jpg`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/机器学习.png`" alt="博客图片">
       <div class="post-info">
         <h3>机器学习</h3>
         <p>机器学习原理</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/机器学习实践')">
-      <img :src="`${base}article/cover/机器学习实践.png`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/机器学习实践.jpg`" alt="博客图片">
       <div class="post-info">
         <h3>机器学习实践</h3>
         <p>全流程的机器学习实践</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/论文阅读')">
-      <img :src="`${base}article/cover/论文阅读.png`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/论文阅读.png`" alt="博客图片">
       <div class="post-info">
         <h3>论文阅读</h3>
         <p>阅读论文</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/推荐系统')">
-      <img :src="`${base}article/cover/推荐系统.jpeg`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/推荐系统.jpg`" alt="博客图片">
       <div class="post-info">
         <h3>推荐系统</h3>
         <p>推广搜，第一位就是推</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/AI/自然语言处理')">
-      <img :src="`${base}article/cover/自然语言处理.jpeg`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/自然语言处理.jpg`" alt="博客图片">
       <div class="post-info">
         <h3>自然语言处理</h3>
         <p>似乎当下很火</p>
       </div>
     </div>
     <div class="blog-post" @click="goToArticle('/article/choice')">
-      <img :src="`${base}article/cover/其他文章.png`" alt="博客图片">
+      <img loading="lazy" :src="`${base}article/cover/其他文章.jpg`" alt="博客图片">
       <div class="post-info">
         <h3>其他文章</h3>
         <p>其他内容</p>

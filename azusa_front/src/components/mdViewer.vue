@@ -6,7 +6,7 @@
 import {ref, onMounted} from 'vue';
 import axios from 'axios';
 import {marked} from 'marked';
-import hljs from 'highlight.js';
+import hljs from 'highlight.js/lib/common';
 import "github-markdown-css";
 import katex from 'katex';
 import 'katex/dist/katex.min.css';
@@ -37,18 +37,12 @@ function md2katex(md: string) {
 
 // 第二步，把md转化为html
 async function md2html(md: string) {
-  // 注释掉的方法无法处理高亮代码块
-  // let renderedContent = marked(md, {
-  //     highlight: (code: string) => hljs.highlightAuto(code).value,
-  //     renderer: new marked.Renderer(),
-  // });
-  // return renderedContent;
   const html = await marked(md);
   // 手动处理代码高亮
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
   tempDiv.querySelectorAll('pre code').forEach((block) => {
-    hljs.highlightBlock(block as HTMLElement);
+    hljs.highlightElement(block as HTMLElement);
   });
   return tempDiv.innerHTML;
 }
@@ -65,6 +59,9 @@ function fixArticleImagePaths(html: string) {
       const rest = src.replace(/^(\.\/)?assets\//, '');
       img.setAttribute('src', `${import.meta.env.BASE_URL}article/assets/${rest}`);
     }
+    // 文章内图片启用懒加载与异步解码，避免长文章一次性加载全部大图
+    img.setAttribute('loading', 'lazy');
+    img.setAttribute('decoding', 'async');
   });
   return tempDiv.innerHTML;
 }
@@ -97,17 +94,14 @@ function generate_h_id(html: string, i: number) {
 
 // 定义一个函数来生成唯一的id
 function generateUniqueId(text: string, i: number) {
-  const sanitizedText = text.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]+/g, ''); // 替换所有非字母数字字符为下划线
+  const sanitizedText = text.replace(/[^a-zA-Z0-9一-龥]+/g, ''); // 替换所有非字母数字字符为下划线
   return `${sanitizedText}_${i}`;
 }
 
 onMounted(async () => {
-  console.log("mdViewer.vue", props.fileName);
   // fileName 形如 "AI/强化学习"，对应的 md 文件在 article/md/<分类>/<文章名>.md
   const md_url = `${import.meta.env.BASE_URL}article/md/${props.fileName}.md`;
-  console.log("mdViewer.vue", md_url);
   const response = await axios.get(md_url);
-  console.log("mdViewer.vue", response.data);
 
   const mdWithPlaceholders = md2katex(response.data);
   let renderedContent = await md2html(mdWithPlaceholders);
@@ -118,16 +112,6 @@ onMounted(async () => {
   let processedContent = generate_h_id(renderedContent, i);  // 替换renderedContent中的h标签，并生成id
 
   content.value = processedContent;
-  console.log("mdViewer.vue: processedContent", processedContent);
-
-  console.log("mdViewer.vue: headings", headings);
-  // // 将html保存到`article_md2html/${props.fileName}.html`中
-  // const html_url = `/article_md2html/${props.fileName}.html`;
-  // await axios.post(html_url, { html: processedContent });
-  // // 将大纲保存到`article_md2html/${props.fileName}.json`中
-  // const json_url = `/article_md2html/${props.fileName}.json`;
-  // await axios.post(json_url, headings);
-  // alert("mdViewer.vue: html and json saved");
 
   emit('contentLoaded', processedContent);  // 触发 contentLoaded 事件并传递渲染后的内容
 

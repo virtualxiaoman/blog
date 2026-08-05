@@ -8,7 +8,6 @@
             即使一切都是虚无，<br/>也不应该放弃抵抗
         </div>
         <a class="github-button" href="https://github.com/virtualxiaoman" target="_blank">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
             <i class="fab fa-github"></i> Follow Me
         </a>
     </div>
