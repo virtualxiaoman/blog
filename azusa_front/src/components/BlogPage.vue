@@ -134,5 +134,8 @@ function updateContent(newContent: string) {
 .main-md ::v-deep(h3) {
     color: #39C5BB;
 }
+.main-md ::v-deep(h4) {
+    color: #ECAD9E;
+}
 
 </style>
