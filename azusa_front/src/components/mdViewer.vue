@@ -3,14 +3,12 @@
 </template>
 
 <script setup lang="ts">
-import {ref, watch} from 'vue';
+import { ref, watch } from 'vue';
 import axios from 'axios';
-import {marked} from 'marked';
+import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
-import "github-markdown-css";
+import 'github-markdown-css';
 import katex from 'katex';
-import 'katex/dist/katex.min.css';
-import {Buffer} from 'buffer';
 
 const props = defineProps({
   fileName: {
@@ -20,10 +18,26 @@ const props = defineProps({
 });
 const emit = defineEmits(['contentLoaded']);
 
-
 const content = ref('');
-// 大纲的键是id，值是标题文本加上递增的i
-const headings: Record<string, string> = {};
+
+// UTF-8 安全的 base64 编码/解码，替代 Buffer polyfill。
+// btoa/atob 只接受 ASCII，而公式里可能有中文或 Unicode 符号（如 ∀、∈），必须先转成字节。
+function encodeBase64(text: string): string {
+  const bytes = new TextEncoder().encode(text);
+  let binary = '';
+  for (const byte of bytes) {
+    binary += String.fromCharCode(byte);
+  }
+  return btoa(binary);
+}
+function decodeBase64(b64: string): string {
+  const binary = atob(b64);
+  const bytes = new Uint8Array(binary.length);
+  for (let i = 0; i < binary.length; i++) {
+    bytes[i] = binary.charCodeAt(i);
+  }
+  return new TextDecoder().decode(bytes);
+}
 
 // 第一步，把markdown中的数学公式转换为base64编码。
 // 先保护代码块（fenced code block）与行内代码——其中的 $ 是代码而不是公式，
@@ -43,9 +57,9 @@ function md2katex(md: string) {
   });
   // 3. 替换公式（此时代码已被保护）
   processed = processed.replace(/\$\$([\s\S]+?)\$\$/g, (_, p1) => {
-    return `{{katex_block:${Buffer.from(p1).toString('base64')}}}`;
+    return `{{katex_block:${encodeBase64(p1)}}}`;
   }).replace(/\$([^$\n]+)\$/g, (_, p1) => {
-    return `{{katex_inline:${Buffer.from(p1).toString('base64')}}}`;
+    return `{{katex_inline:${encodeBase64(p1)}}}`;
   });
   // 4. 还原行内代码与代码块
   processed = processed.replace(/~!~IC~!~(\d+)~!~/g, (_, i) => inlineCodes[+i]);
@@ -87,32 +101,31 @@ function fixArticleImagePaths(html: string) {
 // 第三步，替换html中的数学公式
 function katex2html(html: string) {
   let processedContent = html.replace(/{{katex_block:(.*?)}}/g, (_, p1) => {
-    return katex.renderToString(Buffer.from(p1, 'base64').toString(), {
+    return katex.renderToString(decodeBase64(p1), {
       throwOnError: false,
-      displayMode: true
+      displayMode: true,
     });
   }).replace(/{{katex_inline:(.*?)}}/g, (_, p1) => {
-    return katex.renderToString(Buffer.from(p1, 'base64').toString(), {
-      throwOnError: false
+    return katex.renderToString(decodeBase64(p1), {
+      throwOnError: false,
     });
   });
   return processedContent;
 }
 
 // 第四步，为h标签生成id
-function generate_h_id(html: string, i: number) {
-  // 替换renderedContent中的h标签，并生成id
-  let processedContent = html.replace(/<(h[1-6])>(.*?)<\/\1>/gi, (_, p1, p2) => {
-    const id = generateUniqueId(p2.trim(), i++);  // 生成id
-    headings[id] = p2.trim();  // 记录原始内容和生成的id
+function generate_h_id(html: string) {
+  let counter = 0; // 递增计数器，保证同名标题也能拿到唯一 id
+  const processedContent = html.replace(/<(h[1-6])>(.*?)<\/\1>/gi, (_, p1, p2) => {
+    const id = generateUniqueId(p2.trim(), counter++);
     return `<${p1} id="${id}">${p2}</${p1}>`;
   });
   return processedContent;
 }
 
-// 定义一个函数来生成唯一的id
+// 生成唯一的id
 function generateUniqueId(text: string, i: number) {
-  const sanitizedText = text.replace(/[^a-zA-Z0-9一-龥]+/g, ''); // 替换所有非字母数字字符为下划线
+  const sanitizedText = text.replace(/[^a-zA-Z0-9一-龥]+/g, ''); // 替换所有非字母数字字符
   return `${sanitizedText}_${i}`;
 }
 
@@ -126,7 +139,7 @@ function onContentClick(event: MouseEvent) {
   const anchor = (event.target as Element | null)?.closest?.('a[href^="#"]');
   if (!anchor) return;
   const href = anchor.getAttribute('href') || '';
-  if (href.startsWith('#/')) return;  // 路由链接交给 Vue Router
+  if (href.startsWith('#/')) return; // 路由链接交给 Vue Router
   const id = href.slice(1);
   if (!id) {
     // href="#" 视为回到页面顶部
@@ -142,29 +155,27 @@ function onContentClick(event: MouseEvent) {
 
 // fileName 形如 "AI/强化学习"，对应的 md 文件在 article/md/<分类>/<文章名>.md。
 // 用 watch 而非 onMounted：路由复用组件实例时（从一篇切到另一篇）能自动重新加载。
-let loadId = 0;  // 请求序号，用于丢弃过期响应
+let loadId = 0; // 请求序号，每次切换文章时单调递增，用于丢弃过期响应
 
 async function loadContent(fileName: string) {
   const id = ++loadId;
   content.value = '';
-  emit('contentLoaded', '');  // 先清空旧内容，避免短暂显示上一篇文章
+  emit('contentLoaded', ''); // 先清空旧内容，避免短暂显示上一篇文章
 
   try {
     const md_url = `${import.meta.env.BASE_URL}article/md/${fileName}.md`;
     const response = await axios.get(md_url);
-    if (id !== loadId) return;  // 已有更新的请求发出，丢弃本次结果
+    if (id !== loadId) return; // 已有更新的请求发出，丢弃本次结果
 
     const mdWithPlaceholders = md2katex(response.data);
-    let renderedContent = await md2html(mdWithPlaceholders);
-    renderedContent = fixArticleImagePaths(renderedContent);  // 修复文章内图片路径
-    renderedContent = katex2html(renderedContent);
-
-    let i = 0;  // 用于生成递增序列的变量
-    let processedContent = generate_h_id(renderedContent, i);  // 替换renderedContent中的h标签，并生成id
-    if (id !== loadId) return;  // await 之后再次检查竞态
+    const renderedContent = await md2html(mdWithPlaceholders);
+    let processedContent = fixArticleImagePaths(renderedContent); // 修复文章内图片路径
+    processedContent = katex2html(processedContent);
+    processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
+    if (id !== loadId) return; // await 之后再次检查竞态
 
     content.value = processedContent;
-    emit('contentLoaded', processedContent);  // 触发 contentLoaded 事件并传递渲染后的内容
+    emit('contentLoaded', processedContent); // 触发 contentLoaded 事件并传递渲染后的内容
   } catch (error) {
     if (id !== loadId) return;
     content.value = '';
@@ -174,13 +185,4 @@ async function loadContent(fileName: string) {
 }
 
 watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true });
-
-
 </script>
-
-<style scoped>
-/* .markdown-body {
-    padding: 20px;
-    border: 1px solid #e1e4e8;
-} */
-</style>

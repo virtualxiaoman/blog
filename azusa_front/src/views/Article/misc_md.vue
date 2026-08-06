@@ -5,7 +5,7 @@
       <li v-for="article in articles" :key="article.name">
         <!-- 每个按钮会导航到对应的文章页面 -->
         <button @click="navigateToArticle(article.name)">
-          {{ article.label }}
+          {{ article.name }}
         </button>
       </li>
     </ul>
@@ -14,19 +14,16 @@
 
 <script setup lang="ts">
 import { useRouter } from 'vue-router';
-import { findCategory } from '../../articles';
+import { articleCategories, findCategory, getCover } from '../../articles';
 
 const router = useRouter();
 
-// 定义文章列表（Others 分类下的杂项文章）
+// 杂项文章列表：Others 分类全部 + AI 分类没有首页封面（未在首页展示）的文章，
+// 直接从文章注册表派生，避免两处维护不一致
 const articles = [
-  { name: 'LaTeX', label: 'LaTeX' },
-  { name: 'vue', label: 'Vue' },
-  { name: 'plt', label: 'Plt' },
-  { name: 'git', label: 'Git' },
-  { name: '计算机视觉', label: 'CV' },
-  { name: '强化学习', label: 'RL'}
-];
+  ...articleCategories.Others,
+  ...articleCategories.AI.filter((a) => getCover(a.name) === null),
+].map((a) => ({ name: a.name }));
 
 function navigateToArticle(articleName: string) {
   const category = findCategory(articleName);

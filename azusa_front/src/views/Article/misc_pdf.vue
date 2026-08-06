@@ -13,8 +13,6 @@
 </template>
 
 <script setup lang="ts">
-import { useRouter } from 'vue-router';
-
 // 定义PDF文章列表
 const pdfs = [
   { name: '代码基础.pdf', label: '代码基础' },
@@ -24,25 +22,11 @@ const pdfs = [
   { name: '机器学习.pdf', label: '机器学习' },
 ];
 
-// const router = useRouter();
-
-// function navigateToPDF(pdfName: string) {
-//   // 如果pdfName以pdf结尾，则跳转到pdf/pdfName(去掉pdf后缀)
-//   if (pdfName.endsWith('.pdf')) {
-//     const pdfPath = pdfName.slice(0, -4);
-//     router.push(`/article_pdf/${pdfPath}.pdf`);
-//   } else {
-//     console.error('文章名必须以.pdf结尾');
-//   }
-// }
 function navigateToPDF(pdfName: string) {
-  // 如果pdfName以pdf结尾，则在新标签页中打开 pdf/pdfName (去掉 pdf 后缀)
+  // 在新标签页中打开 article/pdf/<名称>.pdf
   if (pdfName.endsWith('.pdf')) {
     const pdfPath = pdfName.slice(0, -4);
-    // 使用 window.open 在新标签页中打开链接
-    const path = '/article/pdf/' + pdfPath;
-    window.open(`${import.meta.env.BASE_URL}${path.replace(/^\//, '')}.pdf`, '_blank');
-    // window.open(`${import.meta.env.BASE_URL}article_pdf/${pdfPath}.pdf`, '_blank');
+    window.open(`${import.meta.env.BASE_URL}article/pdf/${pdfPath}.pdf`, '_blank', 'noopener');
   } else {
     console.error('文章名必须以.pdf结尾');
   }
