@@ -70,9 +70,9 @@ function updateContent(newContent: string) {
   padding-top: 24px;
   width: 14%;
 
+  /* 注意：不能设置 overflow，否则会裁掉向左弹出的导航菜单与悬浮提示 */
   position: fixed;
   right: 0;
-  overflow-y: auto;
   height: 100%;
 }
 

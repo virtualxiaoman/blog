@@ -12,12 +12,16 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
       "cover": "深度学习.jpeg"
     },
     {
-      "name": "深度学习实践",
-      "cover": "深度学习实践.jpg"
-    },
-    {
       "name": "机器学习",
       "cover": "机器学习.png"
+    },
+    {
+      "name": "论文阅读",
+      "cover": "论文阅读.png"
+    },
+    {
+      "name": "深度学习实践",
+      "cover": "深度学习实践.jpg"
     },
     {
       "name": "机器学习实践",
@@ -30,10 +34,6 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
     {
       "name": "自然语言处理",
       "cover": "自然语言处理.jpg"
-    },
-    {
-      "name": "论文阅读",
-      "cover": "论文阅读.png"
     },
     {
       "name": "强化学习",
