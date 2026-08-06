@@ -72,7 +72,7 @@ function md2katex(md: string) {
 // 第二步，把md转化为html
 async function md2html(md: string) {
   const html = await marked(md);
-  // 手动处理代码高亮，并给每个代码块包裹容器 + 复制按钮
+  // 手动处理代码高亮，并给每个代码块加右上角复制按钮
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
   tempDiv.querySelectorAll('pre').forEach((pre) => {
@@ -80,7 +80,8 @@ async function md2html(md: string) {
     if (!code) return;
     hljs.highlightElement(code as HTMLElement);
 
-    // 复制按钮（右上角），点击复制整个代码块文本
+    // 复制按钮：只负责展示。点击逻辑由根容器事件委托处理（见 onContentClick）。
+    // 注意不能在这里 addEventListener——按钮会经 innerHTML 序列化后由浏览器重建，监听器会丢失。
     const button = document.createElement('button');
     button.className = 'code-copy-btn';
     button.type = 'button';
@@ -88,11 +89,6 @@ async function md2html(md: string) {
     button.innerHTML =
       '<svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">' +
       '<path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>';
-    button.addEventListener('click', (e) => {
-      e.stopPropagation(); // 不触发文章锚点点击处理
-      copyText(code.textContent ?? '');
-      showCopied(button);
-    });
     pre.appendChild(button);
   });
   return tempDiv.innerHTML;
@@ -183,14 +179,28 @@ function generateUniqueId(text: string, i: number) {
   return `${sanitizedText}_${i}`;
 }
 
-// 处理文章内的页内锚点链接（如 [流形](#manifold-comment)）：
-// hash 路由下 href="#xxx" 会被浏览器当作整个 hash 的变化，被 Vue Router 当成
-// 路由路径（#/manifold-comment）而跳转失败。这里拦截纯锚点点击，
-// 改为 scrollIntoView 平滑滚动，不改变路由。
+// 处理文章内点击：
+// 1. 代码块复制按钮 → 复制整个代码块（事件委托，按钮是 v-html 重建的 DOM，不能直接绑监听器）
+// 2. 页内锚点链接（如 [流形](#manifold-comment)）→ scrollIntoView 平滑滚动
 function onContentClick(event: MouseEvent) {
   // 放行修饰键点击与非左键点击，保留用户"新标签页打开"等意图
   if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
-  const anchor = (event.target as Element | null)?.closest?.('a[href^="#"]');
+  const target = event.target as Element | null;
+
+  // 代码块复制按钮
+  const copyBtn = target?.closest?.('.code-copy-btn');
+  if (copyBtn) {
+    const pre = copyBtn.closest('pre');
+    const code = pre?.querySelector('code');
+    if (pre && code) {
+      copyText(code.textContent ?? '');
+      showCopied(copyBtn as HTMLElement);
+    }
+    return;
+  }
+
+  // 页内锚点链接
+  const anchor = target?.closest?.('a[href^="#"]');
   if (!anchor) return;
   const href = anchor.getAttribute('href') || '';
   if (href.startsWith('#/')) return; // 路由链接交给 Vue Router
@@ -201,10 +211,10 @@ function onContentClick(event: MouseEvent) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
     return;
   }
-  const target = document.getElementById(id);
-  if (!target) return;
+  const el = document.getElementById(id);
+  if (!el) return;
   event.preventDefault();
-  target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // fileName 形如 "AI/强化学习"，对应的 md 文件在 article/md/<分类>/<文章名>.md。
@@ -245,7 +255,7 @@ watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true 
 /* 代码块：浅蓝背景区分正文，圆角，带右上角复制按钮 */
 .markdown-body pre {
   position: relative;
-  font-size: 0.9em; /* 代码块字体相对于正文的缩小比例 */
+  font-size: 0.712em; /* 代码块字体相对于正文的缩小比例 */
   background-color: rgba(178, 216, 232, 0.05); /* 浅蓝背景，区分正文但不会印刷成大面积黑块 */
   box-shadow: none; /* 去掉阴影，打印更清晰 */
 }
