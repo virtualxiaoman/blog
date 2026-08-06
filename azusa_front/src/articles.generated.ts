@@ -8,6 +8,14 @@ export interface ArticleInfo {
 export const articleCategories: Record<string, ArticleInfo[]> = {
   "AI": [
     {
+      "name": "深度学习",
+      "cover": "深度学习.jpeg"
+    },
+    {
+      "name": "深度学习实践",
+      "cover": "深度学习实践.jpg"
+    },
+    {
       "name": "机器学习",
       "cover": "机器学习.png"
     },
@@ -16,12 +24,12 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
       "cover": "机器学习实践.jpg"
     },
     {
-      "name": "计算机视觉",
-      "cover": null
+      "name": "推荐系统",
+      "cover": "推荐系统.jpg"
     },
     {
-      "name": "扩散模型",
-      "cover": null
+      "name": "自然语言处理",
+      "cover": "自然语言处理.jpg"
     },
     {
       "name": "论文阅读",
@@ -32,20 +40,12 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
       "cover": null
     },
     {
-      "name": "深度学习",
-      "cover": "深度学习.jpeg"
+      "name": "扩散模型",
+      "cover": null
     },
     {
-      "name": "深度学习实践",
-      "cover": "深度学习实践.jpg"
-    },
-    {
-      "name": "推荐系统",
-      "cover": "推荐系统.jpg"
-    },
-    {
-      "name": "自然语言处理",
-      "cover": "自然语言处理.jpg"
+      "name": "计算机视觉",
+      "cover": null
     }
   ],
   "Others": [

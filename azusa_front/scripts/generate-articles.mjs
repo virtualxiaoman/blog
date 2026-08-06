@@ -17,6 +17,12 @@ const DEFAULT_COVER = 'default.png';
 // 排除的非文章文件（大小写不敏感）：README 是站主说明，不是文章
 const IGNORED = ['readme']; // 不含 .md 后缀的文章名
 
+// 手动排序表：key 是分类名，value 是期望的文章显示顺序（文章名，不含 .md 后缀）。
+// 没列到的文章自动按字典序排在已列出的之后。新增文章想固定位置就加进来，否则自动追加。
+const ARTICLE_ORDER = {
+  AI: ['深度学习', '深度学习实践', '机器学习', '机器学习实践', '推荐系统', '自然语言处理', '论文阅读', '强化学习', '扩散模型', '计算机视觉'],
+};
+
 function scanCovers() {
   if (!existsSync(coverDir)) return [];
   return readdirSync(coverDir).filter((f) => /\.(jpg|jpeg|png|webp|gif)$/i.test(f));
@@ -31,6 +37,23 @@ function coverFor(name, coverFiles) {
   return null;
 }
 
+// 返回文章名的排序权重：手动排序表里靠前，未列出的按字典序排在后面
+function sortNames(names, category) {
+  const order = ARTICLE_ORDER[category] ?? [];
+  const indexOf = (name) => {
+    const i = order.indexOf(name);
+    return i === -1 ? order.length + 1 : i;
+  };
+  // 已列出的按手动顺序，未列出的按字典序排在其后
+  return names
+    .map((name) => ({ name, key: indexOf(name) }))
+    .sort((a, b) => {
+      if (a.key !== b.key) return a.key - b.key;
+      return a.name.localeCompare(b.name, 'zh');
+    })
+    .map(({ name }) => name);
+}
+
 function main() {
   if (!existsSync(mdDir)) {
     console.warn('[generate-articles] 未找到 public/article/md 目录，跳过生成');
@@ -43,11 +66,13 @@ function main() {
     const dir = join(mdDir, category);
     if (!existsSync(dir)) continue;
     if (!statSync(dir).isDirectory()) continue;
-    const names = readdirSync(dir)
-      .filter((f) => f.endsWith('.md'))
-      .map((f) => f.slice(0, -3))
-      .filter((name) => !IGNORED.includes(name.toLowerCase()))
-      .sort((a, b) => a.localeCompare(b, 'zh'));
+    const names = sortNames(
+      readdirSync(dir)
+        .filter((f) => f.endsWith('.md'))
+        .map((f) => f.slice(0, -3))
+        .filter((name) => !IGNORED.includes(name.toLowerCase())),
+      category
+    );
     if (names.length > 0) {
       categories[category] = names.map((name) => ({
         name,
