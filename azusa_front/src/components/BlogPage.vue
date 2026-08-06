@@ -11,6 +11,9 @@
         <MarkdownViewer :fileName="fileName" @contentLoaded="updateContent" />
       </div>
     </div>
+    <div class="right-content">
+      <ArticleNav />
+    </div>
   </div>
 </template>
 
@@ -18,6 +21,7 @@
 import { computed, ref } from 'vue';
 import MarkdownViewer from './mdViewer.vue';
 import OutlineGenerator from './OutlineGenerator.vue';
+import ArticleNav from './ArticleNav.vue';
 
 const props = defineProps({
   fileName: {
@@ -57,6 +61,22 @@ function updateContent(newContent: string) {
 }
 
 .left-content::-webkit-scrollbar {
+  background: transparent;
+}
+
+.right-content {
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 24px;
+  width: 14%;
+
+  position: fixed;
+  right: 0;
+  overflow-y: auto;
+  height: 100%;
+}
+
+.right-content::-webkit-scrollbar {
   background: transparent;
 }
 

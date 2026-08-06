@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predev": "node scripts/generate-articles.mjs",
     "dev": "vite",
+    "prebuild": "node scripts/generate-articles.mjs",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"

@@ -1,48 +1,50 @@
 <template>
   <div>
     <h2>选择Markdown文章</h2>
-    <ul>
-      <li v-for="article in articles" :key="article.name">
-        <!-- 每个按钮会导航到对应的文章页面 -->
-        <button @click="navigateToArticle(article.name)">
-          {{ article.name }}
-        </button>
-      </li>
-    </ul>
+    <div v-for="cat in categories" :key="cat" class="category-group">
+      <h3>{{ cat }}</h3>
+      <ul>
+        <li v-for="article in articlesByCategory(cat)" :key="article.name">
+          <button @click="navigateToArticle(cat, article.name)">
+            {{ article.name }}
+          </button>
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
 import { useRouter } from 'vue-router';
-import { articleCategories, findCategory, getCover } from '../../articles';
+import { articlesByCategory, categoryNames } from '../../articles';
 
 const router = useRouter();
+const categories = categoryNames();
 
-// 杂项文章列表：Others 分类全部 + AI 分类没有首页封面（未在首页展示）的文章，
-// 直接从文章注册表派生，避免两处维护不一致
-const articles = [
-  ...articleCategories.Others,
-  ...articleCategories.AI.filter((a) => getCover(a.name) === null),
-].map((a) => ({ name: a.name }));
-
-function navigateToArticle(articleName: string) {
-  const category = findCategory(articleName);
-  if (!category) {
-    console.error('文章未登记分类：', articleName);
-    return;
-  }
+function navigateToArticle(category: string, articleName: string) {
   // 跳转到 /article/<分类>/<文章名>，hash 模式下 base 前缀自动处理
   router.push(`/article/${category}/${articleName}`);
 }
 </script>
 
 <style scoped>
+.category-group {
+  margin-bottom: 1.5rem;
+}
+
+.category-group h3 {
+  margin: 0 0 0.5rem;
+  font-size: 16px;
+  color: #409eff;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
 li {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 button {
   padding: 0.5rem 1rem;

@@ -9,6 +9,7 @@ import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
 import 'github-markdown-css';
 import katex from 'katex';
+import 'katex/dist/katex.min.css'; // 公式渲染必需的样式（字体、间距、上下标定位）
 
 const props = defineProps({
   fileName: {
