@@ -59,19 +59,54 @@
         </div>
       </div>
 
-      <!-- 工具箱 -->
-      <button
-        type="button"
-        class="nav-btn"
-        :class="{ 'is-active': isToolRoute }"
-        aria-label="工具箱"
-        data-tooltip="工具箱"
-        @click="goTool"
-      >
-        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
-          <path fill="currentColor" d="M22.7 19 13.6 9.9c.8-1.4 1.1-3 .8-4.6-.4-2.2-1.9-4.1-4-4.8C9-.1 7.5.3 6.4 1.4L10.6 5.6l-2 2-4.2-4.2C3.3 4.5 2.9 6 3.3 7.5c.7 2.1 2.6 3.6 4.8 4 .1 0 .1 0 .2.1l2.8 2.8-1.2 1.2-2.8-2.8c-2.3-.8-4.9-.3-6.7 1.5L6 18.3l1.4-1.4 2.1 2.1-1.4 1.4 4.2 4.2c2-2 2.5-4.6 1.6-7l2.9 2.9a2 2 0 0 0 2.8-2.8L23.9 18.3a2 2 0 0 1-1.2 2.9 2 2 0 0 1-2.8-1.2h.8z" />
-        </svg>
-      </button>
+      <!-- 工具箱：级联菜单（首页 → 分类 → 工具），与文章导航一致 -->
+      <div class="nav-btn-wrap">
+        <button
+          type="button"
+          class="nav-btn"
+          :class="{ 'is-open': toolMenuOpen, 'is-active': isToolRoute }"
+          aria-label="工具箱"
+          data-tooltip="工具箱"
+          @click="toggleToolMenu"
+        >
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <path fill="currentColor" d="M22.7 19 13.6 9.9c.8-1.4 1.1-3 .8-4.6-.4-2.2-1.9-4.1-4-4.8C9-.1 7.5.3 6.4 1.4L10.6 5.6l-2 2-4.2-4.2C3.3 4.5 2.9 6 3.3 7.5c.7 2.1 2.6 3.6 4.8 4 .1 0 .1 0 .2.1l2.8 2.8-1.2 1.2-2.8-2.8c-2.3-.8-4.9-.3-6.7 1.5L6 18.3l1.4-1.4 2.1 2.1-1.4 1.4 4.2 4.2c2-2 2.5-4.6 1.6-7l2.9 2.9a2 2 0 0 0 2.8-2.8L23.9 18.3a2 2 0 0 1-1.2 2.9 2 2 0 0 1-2.8-1.2h.8z" />
+          </svg>
+        </button>
+
+        <!-- 工具级联菜单：第一级 工具箱首页 + 分类，第二级 工具列表 -->
+        <div v-if="toolMenuOpen" class="nav-menu">
+          <div v-if="toolCategory" class="menu-head">
+            <button type="button" class="menu-back" aria-label="返回分类" @click="backToToolCategories">
+              <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+                <path fill="currentColor" d="M15.4 7.4 14 6l-6 6 6 6 1.4-1.4L10.8 12l4.6-4.6z" />
+              </svg>
+            </button>
+            <span class="menu-head-title">{{ toolCategory }}</span>
+          </div>
+          <ul class="menu-list">
+            <template v-if="!toolCategory">
+              <li>
+                <button type="button" class="menu-item level-home" @click="goToolHome">
+                  工具箱首页
+                </button>
+              </li>
+              <li v-for="cat in toolCategories" :key="cat">
+                <button type="button" class="menu-item level-category" @click="selectToolCategory(cat)">
+                  {{ cat }}
+                </button>
+              </li>
+            </template>
+            <template v-else>
+              <li v-for="tool in currentTools" :key="tool.name">
+                <button type="button" class="menu-item level-article" @click="goToTool(tool.name)">
+                  {{ tool.name }}
+                </button>
+              </li>
+            </template>
+          </ul>
+        </div>
+      </div>
     </div>
 
     <!-- 返回顶部按钮 + 阅读进度环：固定于视口右下角（首页开屏不显示） -->
@@ -105,6 +140,7 @@
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import { articlesByCategory, categoryNames } from '../articles';
+import { toolCategoryNames, toolsByCategory } from '../tools';
 
 const props = defineProps({
   // 文章内容是否已加载：切换文章后内容会先被清空再重新加载，
@@ -119,6 +155,7 @@ const router = useRouter();
 const route = useRoute();
 
 const categories = categoryNames();
+const toolCategories = toolCategoryNames();
 
 // 当前是否在首页：首页开屏是全屏图片，导航栏要等滚过开屏再固定（见 navStuck）
 const isHome = computed(() => route.name === 'home');
@@ -127,9 +164,15 @@ const isToolRoute = computed(() => String(route.path).startsWith('/tool'));
 
 const menuOpen = ref(false);
 const currentCategory = ref<string | null>(null);
+// 工具箱级联菜单：独立于文章菜单，打开时互斥（见 closeAllMenus）
+const toolMenuOpen = ref(false);
+const toolCategory = ref<string | null>(null);
 
 const currentArticles = computed(() =>
   currentCategory.value ? articlesByCategory(currentCategory.value) : []
+);
+const currentTools = computed(() =>
+  toolCategory.value ? toolsByCategory(toolCategory.value) : []
 );
 
 // 阅读进度环：进度 = 页面滚动位置 / (文档可滚动高度 - 视口高度)，转成圆环周长比例。
@@ -182,21 +225,34 @@ function goHome() {
   router.push('/');
 }
 
-function goTool() {
-  router.push('/tool');
-}
-
 function toggleMenu() {
+  // 打开文章菜单时关闭工具菜单，保证两个菜单互斥
+  if (!menuOpen.value) closeToolMenu();
   menuOpen.value = !menuOpen.value;
   if (!menuOpen.value) currentCategory.value = null;
+}
+
+function toggleToolMenu() {
+  // 打开工具菜单时关闭文章菜单
+  if (!toolMenuOpen.value) closeMenu();
+  toolMenuOpen.value = !toolMenuOpen.value;
+  if (!toolMenuOpen.value) toolCategory.value = null;
 }
 
 function selectCategory(cat: string) {
   currentCategory.value = cat;
 }
 
+function selectToolCategory(cat: string) {
+  toolCategory.value = cat;
+}
+
 function backToCategories() {
   currentCategory.value = null;
+}
+
+function backToToolCategories() {
+  toolCategory.value = null;
 }
 
 function goToArticle(name: string) {
@@ -206,14 +262,36 @@ function goToArticle(name: string) {
   closeMenu();
 }
 
+function goToTool(name: string) {
+  if (!toolCategory.value) return;
+  // 跳到 /tool/<分类>/<工具名>
+  router.push(`/tool/${toolCategory.value}/${name}`);
+  closeToolMenu();
+}
+
+function goToolHome() {
+  router.push('/tool');
+  closeToolMenu();
+}
+
 function closeMenu() {
   menuOpen.value = false;
   currentCategory.value = null;
 }
 
+function closeToolMenu() {
+  toolMenuOpen.value = false;
+  toolCategory.value = null;
+}
+
+function closeAllMenus() {
+  closeMenu();
+  closeToolMenu();
+}
+
 // 点击导航栏以外的区域时关闭菜单
 function onDocClick() {
-  closeMenu();
+  closeAllMenus();
 }
 
 onMounted(() => {
@@ -491,6 +569,16 @@ watch(
 
 .level-category:hover {
   background-color: #2eaaa0;
+}
+
+/* 工具菜单第一级的「工具箱首页」：66CCFF 底色，与分类项同属一级但加以区分 */
+.level-home {
+  background-color: #66ccff;
+  color: #fff;
+}
+
+.level-home:hover {
+  background-color: #4bbdf5;
 }
 
 /* 第二级（文章）：B2D8E8 底色 */
