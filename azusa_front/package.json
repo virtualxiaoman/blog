@@ -18,11 +18,15 @@
     "katex": "^0.16.11",
     "marked": "^14.0.0",
     "mermaid": "^11.16.1",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2",
     "vue": "^3.4.21",
-    "vue-router": "^4.4.3"
+    "vue-router": "^4.4.3",
+    "yaml": "^2.9.0"
   },
   "devDependencies": {
     "@types/katex": "^0.16.8",
+    "@types/turndown": "^5.0.6",
     "@vitejs/plugin-vue": "^5.0.4",
     "gh-pages": "^6.2.0",
     "typescript": "^5.2.2",

@@ -133,14 +133,34 @@
         />
       </svg>
     </button>
+
+    <!-- 文章页：复制Markdown全文 按钮 + 字数（显示在返回顶部按钮下方） -->
+    <div v-if="isArticle" class="md-actions">
+      <button
+        type="button"
+        class="nav-btn copy-md-btn"
+        :class="{ 'is-copied': mdCopied }"
+        aria-label="复制Markdown全文"
+        data-tooltip="复制Markdown全文"
+        @click="copyMarkdown"
+      >
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+        </svg>
+      </button>
+      <span class="word-count">{{ wordCount }} 字</span>
+    </div>
   </aside>
 </template>
 
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
+import axios from 'axios';
 import { articlesByCategory, categoryNames } from '../articles';
 import { toolCategoryNames, toolsByCategory } from '../tools';
+import { countHanzi, countWords, stripMarkdown } from '../utils/textStats';
+import { copyText } from '../utils/clipboard';
 
 const props = defineProps({
   // 文章内容是否已加载：切换文章后内容会先被清空再重新加载，
@@ -148,6 +168,11 @@ const props = defineProps({
   contentReady: {
     type: Boolean,
     default: false,
+  },
+  // 当前文章名（形如 "AI/强化学习"）。仅文章页传入，用于显示字数和复制Markdown全文。
+  fileName: {
+    type: String,
+    default: '',
   },
 });
 
@@ -159,6 +184,8 @@ const toolCategories = toolCategoryNames();
 
 // 当前是否在首页：首页开屏是全屏图片，导航栏要等滚过开屏再固定（见 navStuck）
 const isHome = computed(() => route.name === 'home');
+// 当前是否在文章详情页：显示复制Markdown全文 按钮与字数
+const isArticle = computed(() => route.name === 'article');
 // 当前是否在工具页：高亮"工具箱"按钮
 const isToolRoute = computed(() => String(route.path).startsWith('/tool'));
 
@@ -174,6 +201,45 @@ const currentArticles = computed(() =>
 const currentTools = computed(() =>
   toolCategory.value ? toolsByCategory(toolCategory.value) : []
 );
+
+// 文章字数：汉字数 + 英文单词数（一个汉字或一个单词都算 1 字）。
+// 在文章页显示于返回顶部按钮下方；其他页面无 fileName 时不显示。
+const wordCount = ref(0);
+
+// fileName 变化时重新抓取文章并统计字数
+watch(
+  () => props.fileName,
+  async (name) => {
+    wordCount.value = 0;
+    if (!name) return;
+    try {
+      const url = `${import.meta.env.BASE_URL}article/md/${name}.md`;
+      const resp = await axios.get(url);
+      const text = stripMarkdown(String(resp.data));
+      wordCount.value = countHanzi(text) + countWords(text);
+    } catch {
+      wordCount.value = 0;
+    }
+  }
+);
+
+const mdCopied = ref(false);
+
+// 复制当前文章的源 Markdown（复制时保留原始格式，方便粘贴到别处）
+async function copyMarkdown() {
+  if (!props.fileName) return;
+  try {
+    const url = `${import.meta.env.BASE_URL}article/md/${props.fileName}.md`;
+    const resp = await axios.get(url);
+    const ok = await copyText(String(resp.data));
+    if (ok) {
+      mdCopied.value = true;
+      setTimeout(() => (mdCopied.value = false), 1500);
+    }
+  } catch {
+    // 忽略复制失败
+  }
+}
 
 // 阅读进度环：进度 = 页面滚动位置 / (文档可滚动高度 - 视口高度)，转成圆环周长比例。
 // 周长为 0 时圆环完全隐藏，100% 时闭合为整圆，符合"进度环"语义。
@@ -420,6 +486,55 @@ watch(
 
 .back-top-btn:hover {
   background: #f2fbff;
+}
+
+/* 文章页：复制Markdown全文 按钮 + 字数，显示在返回顶部按钮下方 */
+.md-actions {
+  position: fixed;
+  right: calc(1vw + 2px);
+  bottom: 84px;
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  pointer-events: none;
+}
+
+.copy-md-btn {
+  pointer-events: auto;
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.copy-md-btn:hover {
+  background: #f2fbff;
+}
+
+.copy-md-btn svg {
+  color: #66ccff;
+}
+
+.copy-md-btn.is-copied {
+  background: #e6fbf8;
+}
+
+.copy-md-btn.is-copied svg {
+  color: #39c5bb;
+}
+
+.word-count {
+  font-size: 13px;
+  font-weight: 600;
+  color: #39c5bb;
+  background: rgba(255, 255, 255, 0.92);
+  padding: 2px 8px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  white-space: nowrap;
 }
 
 /* 箭头：66CCFF，悬浮时轻微上浮 */

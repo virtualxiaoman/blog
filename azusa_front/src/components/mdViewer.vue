@@ -1,5 +1,5 @@
 <template>
-  <div v-html="content" class="markdown-body" @click="onContentClick"></div>
+  <div v-html="content" class="markdown-body" @click="onContentClick" @copy="onContentCopy"></div>
 </template>
 
 <script setup lang="ts">
@@ -11,6 +11,8 @@ import 'github-markdown-css';
 import 'highlight.js/styles/github.css'; // 代码高亮配色（浅色主题，适合正文）
 import katex from 'katex';
 import 'katex/dist/katex.min.css'; // 公式渲染必需的样式（字体、间距、上下标定位）
+import TurndownService from 'turndown';
+import { gfm } from 'turndown-plugin-gfm';
 
 const props = defineProps({
   fileName: {
@@ -114,24 +116,29 @@ let mermaidRenderId = 0;
 
 // 把 mermaid 占位元素渲染成 SVG 图表。
 // mermaid 体积很大，只在文章确实包含图表时才动态加载，避免拖慢首屏。
-async function renderMermaid(mermaidTexts: string[], html: string): Promise<string> {
-  if (!mermaidTexts.length) return html;
+// 当前文章的所有 mermaid 源码，按渲染顺序存（data-idx 索引）。
+// 供"选中区域复制为 Markdown"把已渲染的图表还原回 ```mermaid 代码块。
+let mermaidTexts: string[] = [];
+
+async function renderMermaid(texts: string[], html: string): Promise<string> {
+  mermaidTexts = texts;
+  if (!texts.length) return html;
   const { default: mermaid } = await import('mermaid');
   mermaid.initialize({ startOnLoad: false, securityLevel: 'loose', theme: 'default' });
 
   let result = html;
-  for (let i = 0; i < mermaidTexts.length; i++) {
+  for (let i = 0; i < texts.length; i++) {
     const slot = `<div class="mermaid-slot" data-idx="${i}"></div>`;
     try {
-      const { svg } = await mermaid.render(`mermaid-svg-${mermaidRenderId++}`, mermaidTexts[i]);
-      const svgWithClass = svg.replace('<svg', '<svg class="mermaid-diagram"');
+      const { svg } = await mermaid.render(`mermaid-svg-${mermaidRenderId++}`, texts[i]);
+      const svgWithClass = svg.replace('<svg', `<svg class="mermaid-diagram" data-idx="${i}"`);
       // 用函数形式替换，避免 SVG 内容里的 $ 被当作字符串替换的模板模式解释
       result = result.replace(slot, () => svgWithClass);
     } catch (error) {
       console.error('mermaid 渲染失败：', error);
       // 回退为展示原始代码，避免图表内容丢失
       result = result.replace(slot, () =>
-        `<pre class="mermaid-error"><code>${escapeHtml(mermaidTexts[i])}</code></pre>`
+        `<pre class="mermaid-error"><code>${escapeHtml(texts[i])}</code></pre>`
       );
     }
   }
@@ -196,19 +203,30 @@ function fixArticleImagePaths(html: string) {
   return tempDiv.innerHTML;
 }
 
-// 第三步，替换html中的数学公式
+// 第三步，替换html中的数学公式。
+// 渲染结果外层包 <span class="katex-wrap" data-src="...">，data-src 存公式源码，
+// 供"选中区域复制为 Markdown"把渲染后的公式还原回 $...$ / $$...$$。
 function katex2html(html: string) {
   let processedContent = html.replace(/{{katex_block:(.*?)}}/g, (_, p1) => {
-    return katex.renderToString(decodeBase64(p1), {
+    const src = decodeBase64(p1);
+    const rendered = katex.renderToString(src, {
       throwOnError: false,
       displayMode: true,
     });
+    return `<span class="katex-wrap" data-src="${escapeAttr(`$$${src}$$`)}">${rendered}</span>`;
   }).replace(/{{katex_inline:(.*?)}}/g, (_, p1) => {
-    return katex.renderToString(decodeBase64(p1), {
+    const src = decodeBase64(p1);
+    const rendered = katex.renderToString(src, {
       throwOnError: false,
     });
+    return `<span class="katex-wrap" data-src="${escapeAttr(`$${src}$`)}">${rendered}</span>`;
   });
   return processedContent;
+}
+
+// HTML 属性值转义：& 和 " 必须转，getAttribute 时会自动解码回原文
+function escapeAttr(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
 }
 
 // 第四步，为h标签生成id
@@ -297,6 +315,69 @@ function onContentClick(event: MouseEvent) {
   if (!el) return;
   event.preventDefault();
   el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// 选中区域复制为 Markdown：
+// 拦截 copy 事件，用 turndown 把选中范围的 HTML 还原成 markdown 写入剪贴板。
+// 这样鼠标选中一段正文 Ctrl+C，粘贴出来是 markdown（公式还原为 $...$、表格还原为 | 表格等），
+// 而不是渲染后的纯文本。TurndownService 构建成本高，惰性创建并复用。
+let mdConverter: TurndownService | null = null;
+
+function getMdConverter(): TurndownService {
+  if (mdConverter) return mdConverter;
+  mdConverter = new TurndownService({
+    codeBlockStyle: 'fenced',
+    bulletListMarker: '-',
+    headingStyle: 'atx',
+    emDelimiter: '*',
+    strongDelimiter: '**',
+  });
+  mdConverter.use(gfm);
+  // 公式：优先用 data-src 还原源码，回退到纯文本
+  mdConverter.addRule('katex', {
+    filter: (node: HTMLElement) => node.nodeName === 'SPAN' && node.classList.contains('katex-wrap'),
+    replacement: (content: string, node: HTMLElement) => node.getAttribute('data-src') || content,
+  });
+  // mermaid 图表还原为 fenced code block（渲染后 SVG 带 data-idx）
+  mdConverter.addRule('mermaid', {
+    filter: (node: HTMLElement) =>
+      (node.nodeName === 'DIV' && node.classList.contains('mermaid-slot')) ||
+      (node.nodeName === 'SVG' && node.hasAttribute?.('data-idx') === true),
+    replacement: (content: string, node: HTMLElement) => {
+      const idx = node.getAttribute('data-idx');
+      return idx !== null && mermaidTexts[+idx]
+        ? `\n\`\`\`mermaid\n${mermaidTexts[+idx]}\n\`\`\`\n`
+        : content;
+    },
+  });
+  return mdConverter;
+}
+
+function onContentCopy(event: ClipboardEvent) {
+  // 只有真正的选区复制才转换；无选区（如点击复制按钮）交给默认行为
+  const selection = window.getSelection();
+  const text = selection ? selection.toString() : '';
+  if (!text || text.trim() === '') return;
+  if (!selection || selection.rangeCount === 0) return;
+
+  // 选中范围必须落在文章容器内（选中代码块等不应被改写）
+  const container = event.currentTarget as HTMLElement;
+  const range = selection.getRangeAt(0);
+  if (!range || !container.contains(range.commonAncestorContainer)) return;
+
+  // 用选中范围 clone 出一份 HTML，交给 turndown 转换
+  const frag = range.cloneContents();
+  const holder = document.createElement('div');
+  holder.appendChild(frag);
+  let markdown = getMdConverter().turndown(holder.innerHTML);
+  // 标题行首的数字序号点（如 "1\."）是 turndown 为避免有序列表歧义的转义，还原为 "1."
+  markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
+
+  event.preventDefault();
+  navigator.clipboard.writeText(markdown).catch(() => {
+    // 降级：直接放回选区字符串
+    copyText(text);
+  });
 }
 
 // fileName 形如 "AI/强化学习"，对应的 md 文件在 article/md/<分类>/<文章名>.md。

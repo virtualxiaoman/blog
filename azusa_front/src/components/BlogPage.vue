@@ -12,7 +12,7 @@
       </div>
     </div>
     <!-- 右侧导航栏自包含固定定位，无需外层容器 -->
-    <ArticleNav :contentReady="contentReady" />
+    <ArticleNav :contentReady="contentReady" :fileName="fileName" />
   </div>
 </template>
 
