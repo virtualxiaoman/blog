@@ -1,7 +1,8 @@
 <template>
-  <div class="nav-rail" @click.stop>
+  <aside class="article-nav" :class="{ 'is-floating': isFloating }" @click.stop>
     <!-- 顶级导航栏：图标按钮，悬浮显示文字 -->
     <div class="nav-bar">
+      <!-- 回到主页（首页也保留） -->
       <button
         type="button"
         class="nav-btn"
@@ -57,37 +58,52 @@
           </ul>
         </div>
       </div>
-    </div>
-  </div>
 
-  <!-- 返回顶部按钮 + 阅读进度环：固定于视口右下角 -->
-  <button
-    type="button"
-    class="nav-btn back-top-btn"
-    aria-label="回到顶部"
-    data-tooltip="回到顶部"
-    @click="scrollToTop"
-  >
-    <svg class="back-top-arrow" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
-      <path fill="currentColor" d="M12 4l8 8-1.4 1.4L13 7.8V20h-2V7.8l-5.6 5.6L4 12l8-8z" />
-    </svg>
-    <svg class="progress-ring" viewBox="0 0 44 44" width="44" height="44" aria-hidden="true">
-      <circle
-        class="ring-fg"
-        cx="22"
-        cy="22"
-        r="19"
-        fill="none"
-        :stroke-dasharray="CIRCUMFERENCE"
-        :stroke-dashoffset="dashOffset"
-      />
-    </svg>
-  </button>
+      <!-- 工具箱 -->
+      <button
+        type="button"
+        class="nav-btn"
+        :class="{ 'is-active': isToolRoute }"
+        aria-label="工具箱"
+        data-tooltip="工具箱"
+        @click="goTool"
+      >
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+          <path fill="currentColor" d="M22.7 19 13.6 9.9c.8-1.4 1.1-3 .8-4.6-.4-2.2-1.9-4.1-4-4.8C9-.1 7.5.3 6.4 1.4L10.6 5.6l-2 2-4.2-4.2C3.3 4.5 2.9 6 3.3 7.5c.7 2.1 2.6 3.6 4.8 4 .1 0 .1 0 .2.1l2.8 2.8-1.2 1.2-2.8-2.8c-2.3-.8-4.9-.3-6.7 1.5L6 18.3l1.4-1.4 2.1 2.1-1.4 1.4 4.2 4.2c2-2 2.5-4.6 1.6-7l2.9 2.9a2 2 0 0 0 2.8-2.8L23.9 18.3a2 2 0 0 1-1.2 2.9 2 2 0 0 1-2.8-1.2h.8z" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- 返回顶部按钮 + 阅读进度环：固定于视口右下角（首页开屏不显示） -->
+    <button
+      v-if="showBackTop"
+      type="button"
+      class="nav-btn back-top-btn"
+      aria-label="回到顶部"
+      data-tooltip="回到顶部"
+      @click="scrollToTop"
+    >
+      <svg class="back-top-arrow" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+        <path fill="currentColor" d="M12 4l8 8-1.4 1.4L13 7.8V20h-2V7.8l-5.6 5.6L4 12l8-8z" />
+      </svg>
+      <svg class="progress-ring" viewBox="0 0 44 44" width="44" height="44" aria-hidden="true">
+        <circle
+          class="ring-fg"
+          cx="22"
+          cy="22"
+          r="19"
+          fill="none"
+          :stroke-dasharray="CIRCUMFERENCE"
+          :stroke-dashoffset="dashOffset"
+        />
+      </svg>
+    </button>
+  </aside>
 </template>
 
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
-import { useRouter } from 'vue-router';
+import { useRoute, useRouter } from 'vue-router';
 import { articlesByCategory, categoryNames } from '../articles';
 
 const props = defineProps({
@@ -100,8 +116,14 @@ const props = defineProps({
 });
 
 const router = useRouter();
+const route = useRoute();
 
 const categories = categoryNames();
+
+// 当前是否在首页：首页开屏是全屏图片，导航栏要等滚过开屏再固定（见 navStuck）
+const isHome = computed(() => route.name === 'home');
+// 当前是否在工具页：高亮"工具箱"按钮
+const isToolRoute = computed(() => String(route.path).startsWith('/tool'));
 
 const menuOpen = ref(false);
 const currentCategory = ref<string | null>(null);
@@ -115,6 +137,17 @@ const currentArticles = computed(() =>
 const CIRCUMFERENCE = 2 * Math.PI * 19; // r=19，周长 ≈ 119.38
 const progress = ref(0);
 let scrollRaf = 0; // 滚动节流：requestAnimationFrame 的 id，0 表示空闲
+
+// 首页导航栏吸顶逻辑：开屏是全屏图片，导航栏先浮在开屏底部（与文章区顶部平齐），
+// 滚动越过开屏（>100vh）后固定到视口右上角（与文章/工具页位置一致）。
+// 非首页时始终固定。
+const isFloating = ref(false);
+const HOME_SPLASH_H = window.innerHeight;
+
+function updateNavState() {
+  const next = isHome.value && window.scrollY < HOME_SPLASH_H - 1;
+  if (next !== isFloating.value) isFloating.value = next;
+}
 
 function updateProgress() {
   const docEl = document.documentElement;
@@ -132,10 +165,14 @@ function onScroll() {
   scrollRaf = requestAnimationFrame(() => {
     scrollRaf = 0;
     updateProgress();
+    updateNavState();
   });
 }
 
 const dashOffset = computed(() => CIRCUMFERENCE * (1 - progress.value));
+
+// 返回顶部按钮：首页开屏（导航栏浮在底部）时隐藏，其余情况显示
+const showBackTop = computed(() => !isFloating.value);
 
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -143,6 +180,10 @@ function scrollToTop() {
 
 function goHome() {
   router.push('/');
+}
+
+function goTool() {
+  router.push('/tool');
 }
 
 function toggleMenu() {
@@ -179,6 +220,7 @@ onMounted(() => {
   document.addEventListener('click', onDocClick);
   window.addEventListener('scroll', onScroll, { passive: true });
   updateProgress(); // 首帧测量一次，避免初始时进度环空转
+  updateNavState(); // 首帧确定导航栏是浮空还是固定
   window.addEventListener('resize', updateProgress); // 窗口尺寸变化后重新测量可滚动高度
 });
 
@@ -197,13 +239,50 @@ watch(
     requestAnimationFrame(updateProgress);
   }
 );
+
+// 路由切换（如从文章页返回首页）后，滚动位置变化，重新确定导航栏是浮动还是固定。
+// ArticleNav 在页面间复用，不能只依赖 onMounted 初始化。
+watch(
+  () => route.name,
+  () => {
+    requestAnimationFrame(() => {
+      updateNavState();
+      updateProgress();
+    });
+  }
+);
 </script>
 
 <style scoped>
-.nav-rail {
+/* 右侧导航栏容器：默认固定在视口右上角（文章/工具/其他页通用）。
+   首页开屏（is-floating）时改为绝对定位于开屏底部，随滚动上滑直至固定。 */
+.article-nav {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 14%;
+  height: 100vh;
+  padding: 24px 1% 0;
+  box-sizing: border-box;
   display: flex;
   justify-content: flex-end;
-  pointer-events: auto; /* 右栏容器 pointer-events:none，这里恢复导航栏可点击 */
+  align-items: flex-start; /* 关键：导航栏按内容高度排布，不被拉伸成一长条 */
+  pointer-events: none; /* 空白区域不拦截点击，穿透到下方正文 */
+}
+
+/* 首页开屏阶段：导航栏浮在开屏图片底部（视口 100vh 处），
+   与文章区（main-section）顶部平齐；滚过开屏后 is-floating 移除，回到右上角固定 */
+.article-nav.is-floating {
+  position: absolute;
+  top: 100vh;
+  height: auto;
+  align-items: flex-start;
+}
+
+/* 导航栏与返回顶部按钮自身可点击 */
+.nav-bar,
+.back-top-btn {
+  pointer-events: auto;
 }
 
 /* 顶级导航栏：66CCFF 底色 */
@@ -240,8 +319,13 @@ watch(
   background-color: rgba(255, 255, 255, 0.25);
 }
 
-/* 返回顶部 + 进度环按钮：固定于视口右下角。
-   右边缘与顶部导航栏对齐（右侧栏 padding-right 为 1%），底部留 28px */
+/* 当前所在页面对应的导航按钮高亮 */
+.nav-btn.is-active {
+  background-color: rgba(255, 255, 255, 0.28);
+}
+
+/* 返回顶部 + 进度环按钮：固定在视口右下角。
+   右边缘与顶部导航栏对齐，底部留 28px */
 .back-top-btn {
   position: fixed;
   right: 1vw;

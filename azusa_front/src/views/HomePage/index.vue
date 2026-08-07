@@ -1,5 +1,6 @@
 <template>
     <div>
+        <ArticleNav />
         <Welcome />
         <MainPage />
     </div>
@@ -8,6 +9,7 @@
 <script setup>
 import Welcome from './welcome.vue';
 import MainPage from './mainpage.vue';
+import ArticleNav from '../../components/ArticleNav.vue';
 </script>
 
 <style>

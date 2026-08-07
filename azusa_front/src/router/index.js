@@ -20,6 +20,17 @@ const routes = [
     name: 'article-choice',
     component: () => import('../views/Article/misc.vue'),
   },
+  {
+    path: '/tool', // 工具箱首页
+    name: 'tool',
+    component: () => import('../views/Tool/index.vue'),
+  },
+  {
+    // 具体工具页，路径形如 #/tool/coding/文本替换
+    path: '/tool/:category/:name',
+    name: 'tool-detail',
+    component: () => import('../views/Tool/detail.vue'),
+  },
 ];
 
 const router = createRouter({
