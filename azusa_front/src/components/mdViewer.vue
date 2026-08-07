@@ -227,6 +227,40 @@ function generateUniqueId(text: string, i: number) {
   return `${sanitizedText}_${i}`;
 }
 
+// 匹配标题开头的已有序号："1. " "1.1 " "1.1.1 " "一、 " "第一章 " 等
+// 有序号 → 返回 null（跳过不处理）；无序号 → 返回标题文本
+const HEADING_ORDER_RE = /^\s*(\d+(?:[.．]\d+)*[.．]?\s+|\d+[、.]\s*|[一二三四五六七八九十]+[、.]\s*|第[一二三四五六七八九十百千]+[章节篇]\s+)/;
+
+// 自动为无序号标题补上层级式序号（1. / 1.1 / 1.1.1 ...）。
+// 已有序号的标题原样保留。只改标题显示文本，复用 generate_h_id 生成的 id，
+// 这样文章里的页内锚点链接与大刚跳转（按 id 定位）不会失效。
+function autoNumberHeadings(html: string) {
+  // 各层级当前计数（h1~h6 用数组下标 1~6 表示）
+  const counters = [0, 0, 0, 0, 0, 0, 0];
+  return html.replace(/<(h[1-6])\s+id="([^"]+)">(.*?)<\/\1>/gi, (_, tag, id, inner) => {
+    const level = Number(tag[1]);
+    const text = inner.trim();
+    // 已有层级式/中文章节号/数字点号序号的标题，不处理
+    if (HEADING_ORDER_RE.test(text)) return `<${tag} id="${id}">${inner}</${tag}>`;
+
+    // 本级计数 +1，低层级计数清零
+    counters[level]++;
+    for (let l = level + 1; l <= 6; l++) counters[l] = 0;
+
+    // 组装序号：只有一段时用 "1."（如 h1，或没有更上层标题时的第一个 h2），
+    // 多段时用 "1.1"、"1.1.1"（末级不带点）
+    const parts: string[] = [];
+    for (let l = 1; l <= level; l++) {
+      if (counters[l] > 0) parts.push(String(counters[l]));
+    }
+    const single = parts.length === 1;
+    const prefix = parts.join('.') + (single ? '. ' : ' ');
+
+    // 只加序号前缀，id 保持不变
+    return `<${tag} id="${id}">${prefix}${inner}</${tag}>`;
+  });
+}
+
 // 处理文章内点击：
 // 1. 代码块复制按钮 → 复制整个代码块（事件委托，按钮是 v-html 重建的 DOM，不能直接绑监听器）
 // 2. 页内锚点链接（如 [流形](#manifold-comment)）→ scrollIntoView 平滑滚动
@@ -284,6 +318,7 @@ async function loadContent(fileName: string) {
     let processedContent = fixArticleImagePaths(html); // 修复文章内图片路径
     processedContent = katex2html(processedContent);
     processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
+    processedContent = autoNumberHeadings(processedContent); // 为无序号标题自动补层级序号
     // 最后渲染 mermaid 图表（katex 与标题 id 处理完成后，避免图表 SVG 被这些正则误伤）
     processedContent = await renderMermaid(mermaidTexts, processedContent);
     if (id !== loadId) return; // await 之后再次检查竞态
