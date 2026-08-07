@@ -1,9 +1,6 @@
 <template>
   <div class="review-tool">
     <h2 class="tool-title">好评模板</h2>
-    <p class="tool-desc">
-      从 <code>tool/daily/好评模板.txt</code> 读取模板。每行格式「概要:好评正文」，复制时只复制正文。
-    </p>
 
     <div class="product-row">
       <label class="product-label" for="product-name">商品名</label>
@@ -20,9 +17,8 @@
 
     <ul v-else class="template-list">
       <li v-for="(t, i) in templates" :key="i" class="template-item">
-        <span class="summary-badge">{{ t.summary }}</span>
-        <p class="template-text">{{ fill(t.body) }}</p>
-        <div class="template-meta">
+        <div class="template-top">
+          <span class="summary-badge">{{ t.summary }}</span>
           <span class="char-count">{{ charCount(t.body) }} 字</span>
           <button
             type="button"
@@ -33,6 +29,7 @@
             {{ copiedIdx === i ? '已复制' : '复制' }}
           </button>
         </div>
+        <p class="template-text">{{ fill(t.body) }}</p>
       </li>
     </ul>
   </div>
@@ -170,10 +167,17 @@ async function onCopy(i: number) {
   margin-bottom: 12px;
 }
 
+/* 第一行：摘要 + 字数 + 复制按钮（横向排布，节省一行空间） */
+.template-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
 .summary-badge {
   display: inline-block;
   padding: 2px 10px;
-  margin-bottom: 8px;
   border-radius: 999px;
   background-color: rgba(102, 204, 255, 0.18);
   color: #409eff;
@@ -182,17 +186,10 @@ async function onCopy(i: number) {
 }
 
 .template-text {
-  margin: 0 0 10px;
+  margin: 0;
   line-height: 1.7;
   color: #333;
   font-size: 15px;
-}
-
-.template-meta {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px;
 }
 
 .char-count {
@@ -200,7 +197,9 @@ async function onCopy(i: number) {
   color: #73767a;
 }
 
+/* 复制按钮推到最右 */
 .copy-btn {
+  margin-left: auto;
   padding: 5px 16px;
   border: none;
   border-radius: 7px;
