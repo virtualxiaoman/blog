@@ -69,15 +69,30 @@ function md2katex(md: string) {
   return processed;
 }
 
-// 第二步，把md转化为html
+// 第二步，把md转化为html。
+// 返回 { html, mermaidTexts }：mermaid 图表定义文本单独抽出，代码块用占位元素标记，
+// 后续由 renderMermaid 异步渲染成 SVG。
 async function md2html(md: string) {
   const html = await marked(md);
-  // 手动处理代码高亮，并给每个代码块加右上角复制按钮
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
+  const mermaidTexts: string[] = [];
+
   tempDiv.querySelectorAll('pre').forEach((pre) => {
     const code = pre.querySelector('code');
     if (!code) return;
+
+    // mermaid 图表：只抽取定义文本，用占位元素替换（图表由 mermaid 渲染，不走代码高亮）
+    if (code.classList.contains('language-mermaid')) {
+      mermaidTexts.push(code.textContent ?? '');
+      const slot = document.createElement('div');
+      slot.className = 'mermaid-slot';
+      slot.dataset.idx = String(mermaidTexts.length - 1);
+      pre.replaceWith(slot);
+      return;
+    }
+
+    // 手动处理代码高亮，并给每个代码块加右上角复制按钮
     hljs.highlightElement(code as HTMLElement);
 
     // 复制按钮：只负责展示。点击逻辑由根容器事件委托处理（见 onContentClick）。
@@ -91,7 +106,40 @@ async function md2html(md: string) {
       '<path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>';
     pre.appendChild(button);
   });
-  return tempDiv.innerHTML;
+  return { html: tempDiv.innerHTML, mermaidTexts };
+}
+
+// 全局递增，mermaid.render 不允许重复使用相同的图表 id，跨文章切换也不能复用
+let mermaidRenderId = 0;
+
+// 把 mermaid 占位元素渲染成 SVG 图表。
+// mermaid 体积很大，只在文章确实包含图表时才动态加载，避免拖慢首屏。
+async function renderMermaid(mermaidTexts: string[], html: string): Promise<string> {
+  if (!mermaidTexts.length) return html;
+  const { default: mermaid } = await import('mermaid');
+  mermaid.initialize({ startOnLoad: false, securityLevel: 'loose', theme: 'default' });
+
+  let result = html;
+  for (let i = 0; i < mermaidTexts.length; i++) {
+    const slot = `<div class="mermaid-slot" data-idx="${i}"></div>`;
+    try {
+      const { svg } = await mermaid.render(`mermaid-svg-${mermaidRenderId++}`, mermaidTexts[i]);
+      const svgWithClass = svg.replace('<svg', '<svg class="mermaid-diagram"');
+      // 用函数形式替换，避免 SVG 内容里的 $ 被当作字符串替换的模板模式解释
+      result = result.replace(slot, () => svgWithClass);
+    } catch (error) {
+      console.error('mermaid 渲染失败：', error);
+      // 回退为展示原始代码，避免图表内容丢失
+      result = result.replace(slot, () =>
+        `<pre class="mermaid-error"><code>${escapeHtml(mermaidTexts[i])}</code></pre>`
+      );
+    }
+  }
+  return result;
+}
+
+function escapeHtml(text: string): string {
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
 // 复制文本到剪贴板（带降级方案，兼容非 HTTPS 的本地开发环境）
@@ -232,10 +280,12 @@ async function loadContent(fileName: string) {
     if (id !== loadId) return; // 已有更新的请求发出，丢弃本次结果
 
     const mdWithPlaceholders = md2katex(response.data);
-    const renderedContent = await md2html(mdWithPlaceholders);
-    let processedContent = fixArticleImagePaths(renderedContent); // 修复文章内图片路径
+    const { html, mermaidTexts } = await md2html(mdWithPlaceholders);
+    let processedContent = fixArticleImagePaths(html); // 修复文章内图片路径
     processedContent = katex2html(processedContent);
     processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
+    // 最后渲染 mermaid 图表（katex 与标题 id 处理完成后，避免图表 SVG 被这些正则误伤）
+    processedContent = await renderMermaid(mermaidTexts, processedContent);
     if (id !== loadId) return; // await 之后再次检查竞态
 
     content.value = processedContent;
@@ -303,6 +353,8 @@ watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true 
   border-radius: 2px; /* 轻微圆角 */
   border: 1px solid #ddd; /* 细线边框，突出"代码块"感 */
   font-family: Consolas, 'Courier New', monospace;
+  /* 覆盖 github-markdown-css 的 85% 缩小，行内代码与正文等大 */
+  font-size: 1em;
   box-sizing: border-box;
   margin: 0 2px;
 }
@@ -317,6 +369,8 @@ watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true 
   padding-right: 2em;
   /* 左边框离页面边的距离 */
   margin-left: 0;
+  /* 覆盖 github-markdown-css 默认的灰色左竖线：单 > 只保留淡黄背景，不加线 */
+  border-left: none;
   background-color: rgba(255, 248, 220, 0.2);
 }
 
@@ -330,5 +384,18 @@ watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true 
   padding-right: 0;
   margin-left: -4px;
   border-radius: 0;
+}
+
+/* mermaid 图表：居中，水平方向可滚动避免窄屏挤压 */
+.mermaid-slot,
+.mermaid-diagram {
+  display: block;
+  margin: 16px auto;
+  overflow-x: auto;
+}
+
+/* 渲染失败的兜底展示 */
+.mermaid-error {
+  background-color: rgba(255, 248, 220, 0.3);
 }
 </style>

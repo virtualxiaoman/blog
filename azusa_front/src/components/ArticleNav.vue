@@ -59,12 +59,45 @@
       </div>
     </div>
   </div>
+
+  <!-- 返回顶部按钮 + 阅读进度环：固定于视口右下角 -->
+  <button
+    type="button"
+    class="nav-btn back-top-btn"
+    aria-label="回到顶部"
+    data-tooltip="回到顶部"
+    @click="scrollToTop"
+  >
+    <svg class="back-top-arrow" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+      <path fill="currentColor" d="M12 4l8 8-1.4 1.4L13 7.8V20h-2V7.8l-5.6 5.6L4 12l8-8z" />
+    </svg>
+    <svg class="progress-ring" viewBox="0 0 44 44" width="44" height="44" aria-hidden="true">
+      <circle
+        class="ring-fg"
+        cx="22"
+        cy="22"
+        r="19"
+        fill="none"
+        :stroke-dasharray="CIRCUMFERENCE"
+        :stroke-dashoffset="dashOffset"
+      />
+    </svg>
+  </button>
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted, ref } from 'vue';
+import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
 import { useRouter } from 'vue-router';
 import { articlesByCategory, categoryNames } from '../articles';
+
+const props = defineProps({
+  // 文章内容是否已加载：切换文章后内容会先被清空再重新加载，
+  // 用这个 prop 触发重新测量滚动容器，避免进度环停留在上一篇文章的数值上。
+  contentReady: {
+    type: Boolean,
+    default: false,
+  },
+});
 
 const router = useRouter();
 
@@ -76,6 +109,37 @@ const currentCategory = ref<string | null>(null);
 const currentArticles = computed(() =>
   currentCategory.value ? articlesByCategory(currentCategory.value) : []
 );
+
+// 阅读进度环：进度 = 页面滚动位置 / (文档可滚动高度 - 视口高度)，转成圆环周长比例。
+// 周长为 0 时圆环完全隐藏，100% 时闭合为整圆，符合"进度环"语义。
+const CIRCUMFERENCE = 2 * Math.PI * 19; // r=19，周长 ≈ 119.38
+const progress = ref(0);
+let scrollRaf = 0; // 滚动节流：requestAnimationFrame 的 id，0 表示空闲
+
+function updateProgress() {
+  const docEl = document.documentElement;
+  const scrollable = docEl.scrollHeight - window.innerHeight;
+  if (scrollable <= 0) {
+    progress.value = 0;
+    return;
+  }
+  progress.value = Math.min(1, Math.max(0, window.scrollY / scrollable));
+}
+
+function onScroll() {
+  // requestAnimationFrame 节流：滚动事件高频触发，避免每次重排计算进度
+  if (scrollRaf) return;
+  scrollRaf = requestAnimationFrame(() => {
+    scrollRaf = 0;
+    updateProgress();
+  });
+}
+
+const dashOffset = computed(() => CIRCUMFERENCE * (1 - progress.value));
+
+function scrollToTop() {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
 
 function goHome() {
   router.push('/');
@@ -111,14 +175,35 @@ function onDocClick() {
   closeMenu();
 }
 
-onMounted(() => document.addEventListener('click', onDocClick));
-onUnmounted(() => document.removeEventListener('click', onDocClick));
+onMounted(() => {
+  document.addEventListener('click', onDocClick);
+  window.addEventListener('scroll', onScroll, { passive: true });
+  updateProgress(); // 首帧测量一次，避免初始时进度环空转
+  window.addEventListener('resize', updateProgress); // 窗口尺寸变化后重新测量可滚动高度
+});
+
+onUnmounted(() => {
+  document.removeEventListener('click', onDocClick);
+  window.removeEventListener('scroll', onScroll);
+  window.removeEventListener('resize', updateProgress);
+  if (scrollRaf) cancelAnimationFrame(scrollRaf);
+});
+
+// 文章内容切换（加载中/加载完成/失败清空）后，文档高度变化，重新测量进度
+watch(
+  () => props.contentReady,
+  () => {
+    // 等 DOM 更新完成、文档有了新高度再测量
+    requestAnimationFrame(updateProgress);
+  }
+);
 </script>
 
 <style scoped>
 .nav-rail {
   display: flex;
   justify-content: flex-end;
+  pointer-events: auto; /* 右栏容器 pointer-events:none，这里恢复导航栏可点击 */
 }
 
 /* 顶级导航栏：66CCFF 底色 */
@@ -153,6 +238,55 @@ onUnmounted(() => document.removeEventListener('click', onDocClick));
 
 .nav-btn.is-open {
   background-color: rgba(255, 255, 255, 0.25);
+}
+
+/* 返回顶部 + 进度环按钮：固定于视口右下角。
+   右边缘与顶部导航栏对齐（右侧栏 padding-right 为 1%），底部留 28px */
+.back-top-btn {
+  position: fixed;
+  right: 1vw;
+  bottom: 28px;
+  z-index: 90;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  pointer-events: auto; /* 右栏容器 pointer-events:none，这里恢复按钮可点击 */
+}
+
+.back-top-btn:hover {
+  background: #f2fbff;
+}
+
+/* 箭头：66CCFF，悬浮时轻微上浮 */
+.back-top-arrow {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #66ccff;
+  transition: transform 0.2s ease;
+}
+
+.back-top-btn:hover .back-top-arrow {
+  transform: translate(-50%, -56%);
+}
+
+/* 进度环：39C5BB 描边，圆心留空，逆时针起于顶部 */
+.progress-ring {
+  position: absolute;
+  inset: 0;
+  transform: rotate(-90deg); /* 起点转到顶部，否则从 3 点钟方向开始 */
+  pointer-events: none;
+}
+
+.ring-fg {
+  stroke: #39c5bb;
+  stroke-width: 3;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.1s linear; /* 滚动时平滑过渡 */
 }
 
 /* 悬浮提示：显示在按钮左侧 */

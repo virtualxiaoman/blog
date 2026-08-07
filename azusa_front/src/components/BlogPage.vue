@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="right-content">
-      <ArticleNav />
+      <ArticleNav :contentReady="contentReady" />
     </div>
   </div>
 </template>
@@ -74,6 +74,10 @@ function updateContent(newContent: string) {
   position: fixed;
   right: 0;
   height: 100%;
+
+  /* 整个右栏容器不拦截点击，让鼠标穿透到下方正文（否则会挡住正文溢出到右栏的代码块复制按钮）。
+     可交互的子元素（导航栏、返回顶部按钮）在 ArticleNav 内显式恢复 pointer-events。 */
+  pointer-events: none;
 }
 
 .right-content::-webkit-scrollbar {
