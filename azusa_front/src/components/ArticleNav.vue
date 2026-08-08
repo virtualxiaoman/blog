@@ -98,8 +98,8 @@
               </li>
             </template>
             <template v-else>
-              <li v-for="tool in currentTools" :key="tool.name">
-                <button type="button" class="menu-item level-article" @click="goToTool(tool.name)">
+              <li v-for="tool in currentTools" :key="tool.slug">
+                <button type="button" class="menu-item level-article" @click="goToTool(tool.slug)">
                   {{ tool.name }}
                 </button>
               </li>
