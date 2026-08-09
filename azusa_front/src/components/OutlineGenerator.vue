@@ -21,8 +21,9 @@ const props = defineProps({
 // 从渲染后的 HTML 中解析标题，生成大纲数据
 const headers = computed(() => {
   const headersArray = [];
-  // 正则表达式匹配h1到h6标签，同时捕获id属性和标题文本
-  const regex = /<h([1-6])\s+id="([^"]+)">(.*?)<\/h\1>/gi;
+  // 正则表达式匹配h1到h6标签，同时捕获id属性和标题文本。
+  // 标题标签可能带额外属性（如 data-sec 序号），id 后不一定是 >，用 [^>]* 容忍。
+  const regex = /<h([1-6])\s+id="([^"]+)"[^>]*>(.*?)<\/h\1>/gi;
   let match;
   while ((match = regex.exec(props.content)) !== null) {
     const level = parseInt(match[1]); // 将字符串转换为数字，表示标题级别

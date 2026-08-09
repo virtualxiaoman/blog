@@ -229,12 +229,18 @@ function escapeAttr(s: string): string {
   return s.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
 }
 
-// 第四步，为h标签生成id
+// 第四步，为h标签生成id。同时记录标题在文章内的序号（data-sec），
+// 供全局搜索"跳转到文章内对应区域"精确定位：序号与 scripts/generate-articles.mjs
+// 生成的 headings 数组顺序一致（1 开始），渲染后把 data-sec 写在标题标签上。
+let headingSeq = 0; // 标题序号：跨标题递增，与生成脚本的 headings 顺序对应
+
 function generate_h_id(html: string) {
   let counter = 0; // 递增计数器，保证同名标题也能拿到唯一 id
+  headingSeq = 0;
   const processedContent = html.replace(/<(h[1-6])>(.*?)<\/\1>/gi, (_, p1, p2) => {
     const id = generateUniqueId(p2.trim(), counter++);
-    return `<${p1} id="${id}">${p2}</${p1}>`;
+    const sec = ++headingSeq;
+    return `<${p1} id="${id}" data-sec="${sec}">${p2}</${p1}>`;
   });
   return processedContent;
 }
@@ -252,14 +258,15 @@ const HEADING_ORDER_RE = /^\s*(\d+(?:[.．]\d+)*[.．]?\s+|\d+[、.]\s*|[一二�
 // 自动为无序号标题补上层级式序号（1. / 1.1 / 1.1.1 ...）。
 // 已有序号的标题原样保留。只改标题显示文本，复用 generate_h_id 生成的 id，
 // 这样文章里的页内锚点链接与大刚跳转（按 id 定位）不会失效。
+// 保留 data-sec 属性：它与 id 一起用于全局搜索定位（id 不可预测，data-sec 序号可精确对应索引）。
 function autoNumberHeadings(html: string) {
   // 各层级当前计数（h1~h6 用数组下标 1~6 表示）
   const counters = [0, 0, 0, 0, 0, 0, 0];
-  return html.replace(/<(h[1-6])\s+id="([^"]+)">(.*?)<\/\1>/gi, (_, tag, id, inner) => {
+  return html.replace(/<(h[1-6])\s+id="([^"]+)"([^>]*)>(.*?)<\/\1>/gi, (_, tag, id, attrs, inner) => {
     const level = Number(tag[1]);
     const text = inner.trim();
     // 已有层级式/中文章节号/数字点号序号的标题，不处理
-    if (HEADING_ORDER_RE.test(text)) return `<${tag} id="${id}">${inner}</${tag}>`;
+    if (HEADING_ORDER_RE.test(text)) return `<${tag} id="${id}"${attrs}>${inner}</${tag}>`;
 
     // 本级计数 +1，低层级计数清零
     counters[level]++;
@@ -274,8 +281,8 @@ function autoNumberHeadings(html: string) {
     const single = parts.length === 1;
     const prefix = parts.join('.') + (single ? '. ' : ' ');
 
-    // 只加序号前缀，id 保持不变
-    return `<${tag} id="${id}">${prefix}${inner}</${tag}>`;
+    // 只加序号前缀，id 与 data-sec 保持不变
+    return `<${tag} id="${id}"${attrs}>${prefix}${inner}</${tag}>`;
   });
 }
 

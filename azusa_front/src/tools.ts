@@ -53,6 +53,11 @@ export function toolsByCategory(category: string): ToolInfo[] {
   return tools.filter((t) => t.category === category);
 }
 
+// 返回全部工具（扁平的 ToolInfo 列表，全局搜索用）
+export function allTools(): ToolInfo[] {
+  return tools;
+}
+
 // 按分类与工具 slug 返回懒加载的异步组件；找不到返回 null
 export function loadTool(category: string, slug: string): Component | null {
   const loader = modules[`./views/Tool/tools/${category}/${slug}.vue`];
