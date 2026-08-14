@@ -12,6 +12,7 @@
           type="button"
           class="lty-tab"
           :class="{ 'is-active': sec.key === current.key }"
+          :data-label="sec.label"
           :title="sec.description"
           @click="switchSection(sec.key)"
         >
@@ -111,23 +112,38 @@ const pageStyle = computed(() =>
   flex-shrink: 0;
 }
 
-/* 标签栏：纯文字按钮，无边框无底色 */
+/* 标签栏：纯文字按钮，无边框无底色，间距拉开 */
 .lty-tabs {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 20px;
   flex-wrap: wrap;
 }
 
 .lty-tab {
-  padding: 8px 14px;
+  position: relative;
+  padding: 8px 4px;
   border: none;
   background: none;
-  font-size: 18px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-weight: 400;
   color: #66ccff;
   cursor: pointer;
   border-radius: 8px;
   transition: color 0.15s ease;
+}
+
+/* 隐藏的加粗副本：提前占住加粗后的文字宽度，
+   悬停/选中时可见文字虽变粗，但按钮总宽度不变，不会水平跳动 */
+.lty-tab::after {
+  content: attr(data-label);
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  font-weight: 700;
+  white-space: nowrap;
 }
 
 .lty-tab:hover,
@@ -153,8 +169,12 @@ const pageStyle = computed(() =>
   }
 
   .lty-tab {
-    padding: 6px 10px;
-    font-size: 15px;
+    padding: 6px 2px;
+    font-size: 16px;
+  }
+
+  .lty-tabs {
+    gap: 14px;
   }
 }
 </style>
