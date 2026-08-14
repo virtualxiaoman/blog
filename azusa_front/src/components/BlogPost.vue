@@ -17,7 +17,7 @@
 
 <script setup lang="ts">
 import { useRouter } from 'vue-router';
-import { articlesByCategory, coverFile } from '../../articles';
+import { articlesByCategory, coverFile } from '../articles';
 
 const router = useRouter();
 const base = import.meta.env.BASE_URL;

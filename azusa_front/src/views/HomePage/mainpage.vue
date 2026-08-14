@@ -1,8 +1,8 @@
 <template>
   <div class="main-section">
     <div class="main-container">
-      <div class="blog">
-        <BlogPost />
+      <div class="home-nav-wrap">
+        <HomeNav />
       </div>
       <div class="info">
         <xmInfo />
@@ -12,12 +12,16 @@
 </template>
 
 <script setup>
-import BlogPost from './blogpost.vue';
+import HomeNav from '../../components/HomeNav.vue';
 import xmInfo from './xminfo.vue';
 </script>
 
 <style scoped>
 .main-section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* 第二页内容垂直居中，与开屏构成完整的两个页面 */
   background-image: -webkit-radial-gradient(-20% 140%, ellipse, rgba(143, 192, 193, .6) 30%, rgba(255, 255, 227, 0) 50%),
   -webkit-radial-gradient(60% 40%, ellipse, #d9e3e5 10%, rgba(44, 70, 76, .0) 60%),
   -webkit-linear-gradient(-45deg, rgba(143, 181, 158, .8) -10%, rgba(213, 232, 211, .8) 80%);
@@ -25,19 +29,21 @@ import xmInfo from './xminfo.vue';
 
 .main-container {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   padding: 3% 2%;
   background-color: rgba(255, 255, 255, 0.8);
   margin-left: 11%;
   margin-right: 16%; /* 给右侧固定导航栏让位（导航栏占视口右侧 14%） */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   border-radius: 6px;
+  box-sizing: border-box;
 }
 
-.blog {
+.home-nav-wrap {
   flex: 5;
-  overflow-y: auto;
   padding-right: 3%;
+  display: flex;
+  align-items: center;
 }
 
 .info {
