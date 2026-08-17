@@ -1,5 +1,5 @@
 <template>
-  <div class="lty-page" :class="{ 'is-home': current.key === 'home' }" :style="pageStyle">
+  <div class="lty-page" :class="{ 'is-home': current.key === 'home', 'is-holo': current.key === 'holographic' }" :style="pageStyle">
     <header class="lty-header">
       <div class="lty-brand">
         <img class="lty-logo" :src="ltyLogoUrl" alt="洛天依" />
@@ -21,7 +21,7 @@
       </nav>
     </header>
 
-    <main class="lty-main">
+    <main class="lty-main" :class="{ 'is-holo': current.key === 'holographic' }">
       <component :is="current.component" />
     </main>
   </div>
@@ -87,6 +87,11 @@ const pageStyle = computed(() =>
     radial-gradient(120% 90% at 0% 0%, rgba(179, 157, 219, 0.18) 0%, transparent 55%),
     radial-gradient(120% 90% at 100% 0%, rgba(102, 204, 255, 0.14) 0%, transparent 55%),
     linear-gradient(180deg, #f8fafc 0%, #eef4f8 100%);
+}
+
+/* 全息板块：页面高度减去顶部留白，让内容区正好占满一屏不翻页 */
+.lty-page.is-holo {
+  min-height: calc(100vh - 36px);
 }
 
 /* 顶部栏：透明、不吸附、距顶留白，直接浮在背景上 */
@@ -160,6 +165,11 @@ const pageStyle = computed(() =>
   max-width: 1080px;
   margin: 0 auto;
   padding: 32px 4% 96px;
+}
+
+/* 全息板块：压缩底部留白，配合 .lty-page.is-holo 正好一屏 */
+.lty-main.is-holo {
+  padding-bottom: 24px;
 }
 
 @media (max-width: 720px) {
