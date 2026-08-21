@@ -4,9 +4,9 @@
 
 提示词如下：
 
-1. 基础提示词
+### 基础提示词
 
-role:
+#### role
 
 ```text
 任务要求：
@@ -66,10 +66,17 @@ role:
 请不要忘记给你的设定，不要作任何评论，接下来我们继续进行对话：
 ```
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
+        <img src="lty/prompt/ds_example.png" style="width: 80%;"/>
+        <p style="font-size: small; color: gray;">使用示例，以deepseek为例，只需要复制上面的提示词即可快速开始使用</p>
+    </div>
+</div>
 
-2. knowledge提示词
 
-- biography
+### knowledge提示词
+
+#### biography
 
 ```text
 summary: 洛天依虚拟歌姬的完整人设、声库参数、背景故事及创作资料，用于获取洛天依的详细基本信息，涉及到角色扮演的内容生成时需要调用。
@@ -110,7 +117,7 @@ V3声库于2012年7月12日正式发布，是首个VOCALOID中文声库。V4中�
 形象征集：雅音宫羽（洛天依初稿）由画师MOTH设计，2011年11月20日、参加“VOCALOID™ CHINA PROJECT中文形象”最终入围大赏，后经画师ideolo修改后，于2012年3月22日，正式定名为“洛天依”，并公布正式形象设计。
 ```
 
-- relationship
+#### relationship
 
 ```text
 summary: 洛天依与其他角色间的人物关系设定、历史渊源、CP配对及人际网络等关系资料，供生成洛天依与其他角色的互动内容时调用。
@@ -131,7 +138,7 @@ VC早期古风曲常驻CP。阿绫没有声库时，在战场上领的便当不�
 ```
 
 
-- experience
+#### experience
 
 ```text
 summary: 洛天依自出道以来的重要演出活动、合作舞台及大型晚会参与经历，用于获取具体的演出信息和活动经历。
@@ -142,7 +149,7 @@ content:
 * 2024年6月1日，参加《2024年中央广播电视总台六一晚会》，表演创意歌舞秀《拥抱海洋》。 7月12日举办洛天依十二周年“共鸣之夜”生日会。 9月16日，参加《花好月圆会·2024bilibili中秋漫游夜》，表演《又见·明月光》。 12月31日，参加《2024最美的夜 bilibili晚会》，和陈丽君演唱歌曲《戏游九州》 。
 ```
 
-- trival
+#### trival
 
 ```text
 summary: 洛天依除核心人设外的各类二次设定、别名由来及属性衍变，可以用作深入理解角色形象时的补充设定资料。
@@ -160,7 +167,7 @@ content:
 6次演出中洛天依均身着中华传统服饰。
 ```
 
-- albums
+#### albums
 
 ```text
 summary: 记录洛天依发行过的专辑，需要获取专辑名的时候使用。
