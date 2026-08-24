@@ -1,37 +1,72 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import { createReadStream, existsSync } from 'node:fs'
+import { readdirSync, readFileSync, statSync } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
+/**
+ * Vite 默认会把整个 public/ 原样复制到 dist/。
+ * 全息模型是运行时下载资源，不能随站点一起部署；其余 public 资源保持原有行为。
+ */
+function copyPublicAssetsWithoutHologramModel() {
+  return {
+    name: 'copy-public-assets-without-hologram-model',
+    apply: 'build' as const,
+    generateBundle(_options: unknown, bundle: Record<string, { type: string }>) {
+      // Transformers.js/ONNX Runtime 会让 Vite 额外产出一份 asyncify WASM。
+      // 运行时已改用 CDN，因此删除这个构建副本，避免与旧的 public 文件重复。
+      for (const [fileName, output] of Object.entries(bundle)) {
+        if (output.type === 'asset' && /^assets\/ort-wasm-simd-threaded\./.test(fileName)) {
+          delete bundle[fileName];
+        }
+      }
+
+      const publicRoot = path.join(__dirname, 'public')
+
+      const emitDirectory = (directory: string) => {
+        for (const entry of readdirSync(directory)) {
+          const absolutePath = path.join(directory, entry)
+          const relativePath = path.relative(publicRoot, absolutePath).replaceAll('\\', '/')
+
+          // 保留源文件，但不要把模型权重写入构建产物。
+          if (
+            relativePath === 'models' ||
+            relativePath.startsWith('models/') ||
+            relativePath === 'transformers-wasm' ||
+            relativePath.startsWith('transformers-wasm/')
+          ) {
+            continue
+          }
+
+          if (statSync(absolutePath).isDirectory()) {
+            emitDirectory(absolutePath)
+          } else {
+            this.emitFile({
+              type: 'asset',
+              fileName: relativePath,
+              source: readFileSync(absolutePath),
+            })
+          }
+        }
+      }
+
+      emitDirectory(publicRoot)
+    },
+  }
+}
+
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   plugins: [
     vue(),
-    // 全息舞台依赖的 onnxruntime wasm 二进制（.mjs 代理 + .wasm）自托管在 public/transformers-wasm/。
-    // 生产构建直接把 public/ 拷贝到 dist/ 正常使用；但 Vite dev server 会拦截对 public 内
-    // .mjs?import 的请求并报 500，这里用静态中间件绕过转换逻辑直接返回文件。
-    {
-      name: 'serve-transformers-wasm',
-      apply: 'serve',
-      configureServer(server) {
-        server.middlewares.use('/transformers-wasm', (req, res, next) => {
-          const name = (req.url ?? '').split('?')[0].replace(/^\/+/, '')
-          const file = path.join(__dirname, 'public', 'transformers-wasm', name)
-          if (existsSync(file)) {
-            const type = name.endsWith('.wasm') ? 'application/wasm' : 'text/javascript'
-            res.setHeader('Content-Type', type)
-            res.setHeader('Cache-Control', 'no-cache')
-            createReadStream(file).pipe(res)
-          } else {
-            next()
-          }
-        })
-      },
-    },
+    copyPublicAssetsWithoutHologramModel(),
+
   ],
+  // 生产构建使用上面的过滤复制；开发环境仍由 Vite 正常提供整个 public/，
+  // 这样不会影响现有文章、字体和洛天依资源的本地预览。
+  publicDir: mode === 'production' ? false : 'public',
   // 生产环境使用 '/blog/'（GitHub Pages 仓库路径），开发环境使用 '/'
   base: mode === 'production' ? '/blog/' : '/',
 }))

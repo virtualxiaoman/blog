@@ -109,72 +109,17 @@
       </div>
     </div>
 
-    <!-- 返回顶部按钮 + 阅读进度环：固定于视口右下角（首页开屏不显示） -->
-    <button
-      v-if="showBackTop"
-      type="button"
-      class="nav-btn back-top-btn"
-      aria-label="回到顶部"
-      data-tooltip="回到顶部"
-      @click="scrollToTop"
-    >
-      <svg class="back-top-arrow" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
-        <path fill="currentColor" d="M12 4l8 8-1.4 1.4L13 7.8V20h-2V7.8l-5.6 5.6L4 12l8-8z" />
-      </svg>
-      <svg class="progress-ring" viewBox="0 0 44 44" width="44" height="44" aria-hidden="true">
-        <circle
-          class="ring-fg"
-          cx="22"
-          cy="22"
-          r="19"
-          fill="none"
-          :stroke-dasharray="CIRCUMFERENCE"
-          :stroke-dashoffset="dashOffset"
-        />
-      </svg>
-    </button>
-
-    <!-- 文章页：复制Markdown全文 按钮 + 字数（显示在返回顶部按钮下方） -->
-    <div v-if="isArticle" class="md-actions">
-      <button
-        type="button"
-        class="nav-btn copy-md-btn"
-        :class="{ 'is-copied': mdCopied }"
-        aria-label="复制Markdown全文"
-        data-tooltip="复制Markdown全文"
-        @click="copyMarkdown"
-      >
-        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
-          <path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
-        </svg>
-      </button>
-      <span class="word-count">{{ wordCount }} 字</span>
-    </div>
+    <BackToTopButton v-if="showBackTop" />
   </aside>
 </template>
 
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import axios from 'axios';
 import { articlesByCategory, categoryNames } from '../articles';
 import { toolCategoryNames, toolsByCategory } from '../tools';
-import { countHanzi, countWords, stripMarkdown } from '../utils/textStats';
-import { copyText } from '../utils/clipboard';
+import BackToTopButton from './markdown/BackToTopButton.vue';
 
-const props = defineProps({
-  // 文章内容是否已加载：切换文章后内容会先被清空再重新加载，
-  // 用这个 prop 触发重新测量滚动容器，避免进度环停留在上一篇文章的数值上。
-  contentReady: {
-    type: Boolean,
-    default: false,
-  },
-  // 当前文章名（形如 "AI/强化学习"）。仅文章页传入，用于显示字数和复制Markdown全文。
-  fileName: {
-    type: String,
-    default: '',
-  },
-});
 
 const router = useRouter();
 const route = useRoute();
@@ -184,8 +129,6 @@ const toolCategories = toolCategoryNames();
 
 // 当前是否在首页：首页开屏是全屏图片，导航栏要等滚过开屏再固定（见 navStuck）
 const isHome = computed(() => route.name === 'home');
-// 当前是否在文章详情页：显示复制Markdown全文 按钮与字数
-const isArticle = computed(() => route.name === 'article');
 // 当前是否在工具页：高亮"工具箱"按钮
 const isToolRoute = computed(() => String(route.path).startsWith('/tool'));
 
@@ -202,51 +145,6 @@ const currentTools = computed(() =>
   toolCategory.value ? toolsByCategory(toolCategory.value) : []
 );
 
-// 文章字数：汉字数 + 英文单词数（一个汉字或一个单词都算 1 字）。
-// 在文章页显示于返回顶部按钮下方；其他页面无 fileName 时不显示。
-const wordCount = ref(0);
-
-// fileName 变化时重新抓取文章并统计字数
-watch(
-  () => props.fileName,
-  async (name) => {
-    wordCount.value = 0;
-    if (!name) return;
-    try {
-      const url = `${import.meta.env.BASE_URL}article/md/${name}.md`;
-      const resp = await axios.get(url);
-      const text = stripMarkdown(String(resp.data));
-      wordCount.value = countHanzi(text) + countWords(text);
-    } catch {
-      wordCount.value = 0;
-    }
-  }
-);
-
-const mdCopied = ref(false);
-
-// 复制当前文章的源 Markdown（复制时保留原始格式，方便粘贴到别处）
-async function copyMarkdown() {
-  if (!props.fileName) return;
-  try {
-    const url = `${import.meta.env.BASE_URL}article/md/${props.fileName}.md`;
-    const resp = await axios.get(url);
-    const ok = await copyText(String(resp.data));
-    if (ok) {
-      mdCopied.value = true;
-      setTimeout(() => (mdCopied.value = false), 1500);
-    }
-  } catch {
-    // 忽略复制失败
-  }
-}
-
-// 阅读进度环：进度 = 页面滚动位置 / (文档可滚动高度 - 视口高度)，转成圆环周长比例。
-// 周长为 0 时圆环完全隐藏，100% 时闭合为整圆，符合"进度环"语义。
-const CIRCUMFERENCE = 2 * Math.PI * 19; // r=19，周长 ≈ 119.38
-const progress = ref(0);
-let scrollRaf = 0; // 滚动节流：requestAnimationFrame 的 id，0 表示空闲
-
 // 首页导航栏吸顶逻辑：开屏是全屏图片，导航栏先浮在开屏底部（与文章区顶部平齐），
 // 滚动越过开屏（>100vh）后固定到视口右上角（与文章/工具页位置一致）。
 // 非首页时始终固定。
@@ -258,34 +156,19 @@ function updateNavState() {
   if (next !== isFloating.value) isFloating.value = next;
 }
 
-function updateProgress() {
-  const docEl = document.documentElement;
-  const scrollable = docEl.scrollHeight - window.innerHeight;
-  if (scrollable <= 0) {
-    progress.value = 0;
-    return;
-  }
-  progress.value = Math.min(1, Math.max(0, window.scrollY / scrollable));
-}
+let scrollRaf = 0;
 
 function onScroll() {
-  // requestAnimationFrame 节流：滚动事件高频触发，避免每次重排计算进度
   if (scrollRaf) return;
   scrollRaf = requestAnimationFrame(() => {
     scrollRaf = 0;
-    updateProgress();
     updateNavState();
   });
 }
 
-const dashOffset = computed(() => CIRCUMFERENCE * (1 - progress.value));
-
 // 返回顶部按钮：首页开屏（导航栏浮在底部）时隐藏，其余情况显示
 const showBackTop = computed(() => !isFloating.value);
 
-function scrollToTop() {
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-}
 
 function goHome() {
   router.push('/');
@@ -363,26 +246,14 @@ function onDocClick() {
 onMounted(() => {
   document.addEventListener('click', onDocClick);
   window.addEventListener('scroll', onScroll, { passive: true });
-  updateProgress(); // 首帧测量一次，避免初始时进度环空转
   updateNavState(); // 首帧确定导航栏是浮空还是固定
-  window.addEventListener('resize', updateProgress); // 窗口尺寸变化后重新测量可滚动高度
 });
 
 onUnmounted(() => {
   document.removeEventListener('click', onDocClick);
   window.removeEventListener('scroll', onScroll);
-  window.removeEventListener('resize', updateProgress);
   if (scrollRaf) cancelAnimationFrame(scrollRaf);
 });
-
-// 文章内容切换（加载中/加载完成/失败清空）后，文档高度变化，重新测量进度
-watch(
-  () => props.contentReady,
-  () => {
-    // 等 DOM 更新完成、文档有了新高度再测量
-    requestAnimationFrame(updateProgress);
-  }
-);
 
 // 路由切换（如从文章页返回首页）后，滚动位置变化，重新确定导航栏是浮动还是固定。
 // ArticleNav 在页面间复用，不能只依赖 onMounted 初始化。
@@ -391,8 +262,7 @@ watch(
   () => {
     requestAnimationFrame(() => {
       updateNavState();
-      updateProgress();
-    });
+      });
   }
 );
 </script>
@@ -424,8 +294,7 @@ watch(
 }
 
 /* 导航栏与返回顶部按钮自身可点击 */
-.nav-bar,
-.back-top-btn {
+.nav-bar {
   pointer-events: auto;
 }
 
@@ -466,104 +335,6 @@ watch(
 /* 当前所在页面对应的导航按钮高亮 */
 .nav-btn.is-active {
   background-color: rgba(255, 255, 255, 0.28);
-}
-
-/* 返回顶部 + 进度环按钮：固定在视口右下角。
-   右边缘与顶部导航栏对齐，底部留 28px */
-.back-top-btn {
-  position: fixed;
-  right: 1vw;
-  bottom: 28px;
-  z-index: 90;
-  width: 44px;
-  height: 44px;
-  padding: 0;
-  background: #fff;
-  border-radius: 50%;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
-  pointer-events: auto; /* 右栏容器 pointer-events:none，这里恢复按钮可点击 */
-}
-
-.back-top-btn:hover {
-  background: #f2fbff;
-}
-
-/* 文章页：复制Markdown全文 按钮 + 字数，显示在返回顶部按钮下方 */
-.md-actions {
-  position: fixed;
-  right: calc(1vw + 2px);
-  bottom: 84px;
-  z-index: 90;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 6px;
-  pointer-events: none;
-}
-
-.copy-md-btn {
-  pointer-events: auto;
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  border-radius: 50%;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
-}
-
-.copy-md-btn:hover {
-  background: #f2fbff;
-}
-
-.copy-md-btn svg {
-  color: #66ccff;
-}
-
-.copy-md-btn.is-copied {
-  background: #e6fbf8;
-}
-
-.copy-md-btn.is-copied svg {
-  color: #39c5bb;
-}
-
-.word-count {
-  font-size: 13px;
-  font-weight: 600;
-  color: #39c5bb;
-  background: rgba(255, 255, 255, 0.92);
-  padding: 2px 8px;
-  border-radius: 999px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
-  white-space: nowrap;
-}
-
-/* 箭头：66CCFF，悬浮时轻微上浮 */
-.back-top-arrow {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  color: #66ccff;
-  transition: transform 0.2s ease;
-}
-
-.back-top-btn:hover .back-top-arrow {
-  transform: translate(-50%, -56%);
-}
-
-/* 进度环：39C5BB 描边，圆心留空，逆时针起于顶部 */
-.progress-ring {
-  position: absolute;
-  inset: 0;
-  transform: rotate(-90deg); /* 起点转到顶部，否则从 3 点钟方向开始 */
-  pointer-events: none;
-}
-
-.ring-fg {
-  stroke: #39c5bb;
-  stroke-width: 3;
-  stroke-linecap: round;
-  transition: stroke-dashoffset 0.1s linear; /* 滚动时平滑过渡 */
 }
 
 /* 悬浮提示：显示在按钮左侧 */
@@ -706,3 +477,6 @@ watch(
   background-color: #9cc6db;
 }
 </style>
+
+
+\n

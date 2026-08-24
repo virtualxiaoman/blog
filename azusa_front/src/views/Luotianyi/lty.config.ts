@@ -3,6 +3,7 @@ import HomeSection from './sections/HomeSection.vue';
 import ResourcesSection from './sections/ResourcesSection.vue';
 import LinksSection from './sections/LinksSection.vue';
 import PromptSection from './sections/PromptSection.vue';
+import SongPromotionSection from './sections/SongPromotionSection.vue';
 import HolographicSection from './sections/HolographicSection.vue';
 
 /**
@@ -50,9 +51,18 @@ export const ltySections: LtySection[] = [
     description: 'prompt：提示词与创作草稿',
   },
   {
+    key: 'song_promotion',
+    label: '推歌',
+    component: SongPromotionSection,
+    description: '推歌：歌曲推荐与相关内容',
+  },
+  {
     key: 'holographic',
     label: '全息',
     component: HolographicSection,
     description: '全息：全息投影与演出相关内容',
   },
 ];
+
+
+\n

@@ -746,6 +746,10 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
           "text": "1.1.2 Deep Residual Learning for Image Recognition"
         },
         {
+          "level": 4,
+          "text": "1.1.3 Attention Is All You Need"
+        },
+        {
           "level": 2,
           "text": "2. 引理证明"
         },

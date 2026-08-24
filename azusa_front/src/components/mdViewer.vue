@@ -4,6 +4,7 @@
 
 <script setup lang="ts">
 import { ref, watch } from 'vue';
+import { resolveMarkdownSource } from '../utils/markdownSource';
 import axios from 'axios';
 import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
@@ -15,7 +16,8 @@ import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 
 const props = defineProps({
-  fileName: {
+  /** public/ 下的 Markdown 相对路径，例如 article/md/AI/示例.md。 */
+  source: {
     type: String,
     required: true,
   },
@@ -186,15 +188,19 @@ function showCopied(button: HTMLElement) {
 
 // 将文章内相对路径的图片（assets/xxx/...）重写为带 base 前缀的绝对路径，
 // 使图片在本地（/）和 GitHub Pages（/blog/）下都能正确加载
-function fixArticleImagePaths(html: string) {
+function fixMarkdownImagePaths(html: string, source: string) {
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
+  const base = import.meta.env.BASE_URL;
+  const assetBase = source.startsWith('article/md/')
+    ? `${base}article/assets/`
+    : `${base}${source.slice(0, source.lastIndexOf('/') + 1)}assets/`;
   tempDiv.querySelectorAll('img').forEach((img) => {
     const src = img.getAttribute('src') || '';
     // 只处理 assets/ 开头的相对路径，跳过 http(s)、//、#、data: 和 / 开头的地址
     if (/^(\.\/)?assets\//.test(src)) {
       const rest = src.replace(/^(\.\/)?assets\//, '');
-      img.setAttribute('src', `${import.meta.env.BASE_URL}article/assets/${rest}`);
+      img.setAttribute('src', `${assetBase}${rest}`);
     }
     // 文章内图片启用懒加载与异步解码，避免长文章一次性加载全部大图
     img.setAttribute('loading', 'lazy');
@@ -387,23 +393,23 @@ function onContentCopy(event: ClipboardEvent) {
   });
 }
 
-// fileName 形如 "AI/强化学习"，对应的 md 文件在 article/md/<分类>/<文章名>.md。
+// source 是 public/ 下的 Markdown 相对路径；路由复用组件实例时也会自动重新加载。
 // 用 watch 而非 onMounted：路由复用组件实例时（从一篇切到另一篇）能自动重新加载。
 let loadId = 0; // 请求序号，每次切换文章时单调递增，用于丢弃过期响应
 
-async function loadContent(fileName: string) {
+async function loadContent(source: string) {
   const id = ++loadId;
   content.value = '';
   emit('contentLoaded', ''); // 先清空旧内容，避免短暂显示上一篇文章
 
   try {
-    const md_url = `${import.meta.env.BASE_URL}article/md/${fileName}.md`;
-    const response = await axios.get(md_url);
+    const mdUrl = resolveMarkdownSource(source);
+    const response = await axios.get(mdUrl);
     if (id !== loadId) return; // 已有更新的请求发出，丢弃本次结果
 
     const mdWithPlaceholders = md2katex(response.data);
     const { html, mermaidTexts } = await md2html(mdWithPlaceholders);
-    let processedContent = fixArticleImagePaths(html); // 修复文章内图片路径
+    let processedContent = fixMarkdownImagePaths(html, source); // 修复 Markdown 内图片路径
     processedContent = katex2html(processedContent);
     processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
     processedContent = autoNumberHeadings(processedContent); // 为无序号标题自动补层级序号
@@ -417,11 +423,11 @@ async function loadContent(fileName: string) {
     if (id !== loadId) return;
     content.value = '';
     emit('contentLoaded', '');
-    console.error('加载文章失败：', fileName, error);
+    console.error('加载 Markdown 失败：', source, error);
   }
 }
 
-watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true });
+watch(() => props.source, (source) => { loadContent(source); }, { immediate: true });
 </script>
 
 <style>
@@ -522,3 +528,7 @@ watch(() => props.fileName, (name) => { loadContent(name); }, { immediate: true 
   background-color: rgba(255, 248, 220, 0.3);
 }
 </style>
+
+
+
+\n

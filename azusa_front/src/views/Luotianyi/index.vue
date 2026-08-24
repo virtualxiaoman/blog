@@ -169,6 +169,7 @@ const pageStyle = computed(() =>
 
 /* 全息板块：压缩底部留白，配合 .lty-page.is-holo 正好一屏 */
 .lty-main.is-holo {
+  max-width: none;
   padding-bottom: 24px;
 }
 
