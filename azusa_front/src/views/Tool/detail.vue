@@ -55,7 +55,7 @@ function goTool() {
 /* 两列布局：内容 + 右侧固定导航栏 */
 .tool-main {
   margin-left: 6%;
-  margin-right: 16%;
+  margin-right: 10%;
   padding: 40px 0 80px;
 }
 
