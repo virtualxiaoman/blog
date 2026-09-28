@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Secrets used by the server-side OpenLux proxy
+# Local environment files
 .env
 .env.*
-!.env.example
