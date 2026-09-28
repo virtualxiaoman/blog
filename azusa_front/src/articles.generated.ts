@@ -514,6 +514,14 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
           "text": "10.4 注意力"
         },
         {
+          "level": 2,
+          "text": "10.5 顺序"
+        },
+        {
+          "level": 2,
+          "text": "10.6 宽度"
+        },
+        {
           "level": 1,
           "text": "11. 致谢"
         }
@@ -747,19 +755,91 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         },
         {
           "level": 4,
-          "text": "1.1.3 Attention Is All You Need"
-        },
-        {
-          "level": 2,
-          "text": "2. 引理证明"
-        },
-        {
-          "level": 3,
-          "text": "2.1 优化问题"
+          "text": "1.1.3 Generative Adversarial Nets(GAN)"
         },
         {
           "level": 4,
-          "text": "2.1.1 梯度下降要求\\eta < \\frac{2}{\\lambda_{\\max}}"
+          "text": "1.1.4 AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE(ViT)"
+        },
+        {
+          "level": 4,
+          "text": "1.1.5 Masked Autoencoders Are Scalable Vision Learners(MAE)"
+        },
+        {
+          "level": 4,
+          "text": "1.1.6 Momentum Contrast for Unsupervised Visual Representation Learning(MoCo)"
+        },
+        {
+          "level": 2,
+          "text": "2. NLP"
+        },
+        {
+          "level": 3,
+          "text": "2.1 经典论文"
+        },
+        {
+          "level": 4,
+          "text": "2.1.1 Attention Is All You Need"
+        },
+        {
+          "level": 4,
+          "text": "2.1.2 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+        },
+        {
+          "level": 2,
+          "text": "3. GNN"
+        },
+        {
+          "level": 3,
+          "text": "3.1 经典论文"
+        },
+        {
+          "level": 4,
+          "text": "3.1.1 [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)"
+        },
+        {
+          "level": 2,
+          "text": "4. 引理证明"
+        },
+        {
+          "level": 3,
+          "text": "4.1 优化问题"
+        },
+        {
+          "level": 4,
+          "text": "4.1.1 梯度下降要求\\eta < \\frac{2}{\\lambda_{\\max}}"
+        },
+        {
+          "level": 2,
+          "text": "5. 如何写论文"
+        },
+        {
+          "level": 3,
+          "text": "5.1 词"
+        },
+        {
+          "level": 4,
+          "text": "5.1.1 自夸"
+        },
+        {
+          "level": 4,
+          "text": "5.1.2 描述"
+        },
+        {
+          "level": 4,
+          "text": "5.1.3 术语"
+        },
+        {
+          "level": 3,
+          "text": "5.2 文章结构"
+        },
+        {
+          "level": 4,
+          "text": "5.2.1 Introduction"
+        },
+        {
+          "level": 4,
+          "text": "5.2.2 Related Work"
         }
       ]
     },
@@ -1426,6 +1506,20 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         {
           "level": 1,
           "text": "2. 深度学习"
+        }
+      ]
+    },
+    {
+      "name": "论文复现",
+      "cover": null,
+      "headings": [
+        {
+          "level": 2,
+          "text": "1. CV"
+        },
+        {
+          "level": 3,
+          "text": "1.1 MAE"
         }
       ]
     }

@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Secrets used by the server-side OpenLux proxy
+.env
+.env.*
+!.env.example

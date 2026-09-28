@@ -206,8 +206,12 @@ function backToToolCategories() {
 
 function goToArticle(name: string) {
   if (!currentCategory.value) return;
-  // 跳到 /article/<分类>/<文章名>，hash 模式下 base 前缀自动处理
-  router.push(`/article/${currentCategory.value}/${name}`);
+  // 使用命名路由传参，交给 Vue Router 统一处理 base 和中文/特殊字符编码。
+  // 直接拼接 URL 在部署到 /blog/ 或文章名包含特殊字符时容易生成错误地址。
+  router.push({
+    name: 'article',
+    params: { category: currentCategory.value, name },
+  });
   closeMenu();
 }
 
