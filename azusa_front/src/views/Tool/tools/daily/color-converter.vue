@@ -73,7 +73,9 @@ function parseColor(raw: string): { r: number; g: number; b: number; a: number }
     /^rgba?\(\s*([\d.]+%?)\s*(?:[, ])\s*([\d.]+%?)\s*(?:[, ])\s*([\d.]+%?)\s*(?:[,/]\s*([\d.]+%?)\s*)?\)$/i
   );
   if (rgbMatch) {
-    const conv = (v: string) => (v.endsWith('%') ? Math.round((parseFloat(v) / 100) * 255) : parseFloat(v));
+    // 取整：parseFloat 允许 "102.5" 这类小数输入，不取整会得到 "66.8" 拼出非法 hex
+    const conv = (v: string) =>
+      Math.round(v.endsWith('%') ? (parseFloat(v) / 100) * 255 : parseFloat(v));
     const r = conv(rgbMatch[1]);
     const g = conv(rgbMatch[2]);
     const b = conv(rgbMatch[3]);

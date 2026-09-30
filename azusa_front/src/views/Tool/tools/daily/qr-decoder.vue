@@ -106,6 +106,7 @@ function clearMessage() {
 }
 
 function clearImage() {
+  decodeSeq++; // 作废可能在飞的识别任务，避免旧结果重新填入
   if (previewUrl.value) URL.revokeObjectURL(previewUrl.value);
   previewUrl.value = '';
   result.value = '';
@@ -126,6 +127,10 @@ function handleDrop(event: DragEvent) {
   if (file) void processImage(file);
 }
 
+// 识别任务序号：粘贴/拖拽/文件选择在识别进行中仍可触发新任务，
+// 序号过期（有更新的图片进入）的慢任务结果直接丢弃，避免旧图结果覆盖新图。
+let decodeSeq = 0;
+
 async function processImage(file: File) {
   if (!file.type.startsWith('image/')) {
     setMessage('请选择 PNG、JPG、WEBP 等图片文件。');
@@ -137,15 +142,16 @@ async function processImage(file: File) {
   result.value = '';
   copied.value = false;
   clearMessage();
-  await decodeImage(file);
+  await decodeImage(file, ++decodeSeq);
 }
 
-async function decodeImage(file: File) {
+async function decodeImage(file: File, seq: number) {
   isDecoding.value = true;
   try {
     // 优先使用浏览器原生接口，速度更快；不支持时自动回退到 ZXing。
     const nativeValue = await decodeWithBarcodeDetector(file);
     const value = nativeValue || await decodeWithZxing(file);
+    if (seq !== decodeSeq) return; // 已有更新的识别任务，丢弃过期结果
     if (!value) {
       setMessage('未识别到二维码，请换一张清晰、完整的二维码图片。');
       return;
@@ -154,9 +160,9 @@ async function decodeImage(file: File) {
     result.value = value;
     setMessage(isUrl.value ? '识别成功，可以点击 URL 打开或复制。' : '识别成功，但内容不是标准 http(s) URL。', 'success');
   } catch {
-    setMessage('二维码识别失败，请确认图片中包含清晰的二维码。');
+    if (seq === decodeSeq) setMessage('二维码识别失败，请确认图片中包含清晰的二维码。');
   } finally {
-    isDecoding.value = false;
+    if (seq === decodeSeq) isDecoding.value = false;
   }
 }
 

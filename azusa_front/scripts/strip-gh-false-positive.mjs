@@ -16,6 +16,13 @@ const distDir = path.join(root, 'dist');
 const TARGET = '42e32852f24243b748ae6bc1f985b13a';
 const REPLACEMENT = 'hollance-whisper-alignment-heads-gist';
 
+// 只处理文本文件。二进制文件（图片/字体/wasm）按 UTF-8 读取不会抛错，
+// 而是把非法字节解码为 U+FFFD——一旦误命中并写回，整个文件会被重编码损坏。
+const TEXT_EXTENSIONS = new Set([
+  '.js', '.mjs', '.cjs', '.html', '.htm', '.css', '.map',
+  '.json', '.txt', '.svg', '.xml', '.webmanifest', '.md',
+]);
+
 function* walk(dir) {
   for (const entry of readdirSync(dir, { withFileTypes: true })) {
     const p = path.join(dir, entry.name);
@@ -26,12 +33,8 @@ function* walk(dir) {
 
 let cleaned = 0;
 for (const file of walk(distDir)) {
-  let content;
-  try {
-    content = readFileSync(file, 'utf8');
-  } catch {
-    continue; // binary file
-  }
+  if (!TEXT_EXTENSIONS.has(path.extname(file).toLowerCase())) continue;
+  const content = readFileSync(file, 'utf8');
   if (content.includes(TARGET)) {
     writeFileSync(file, content.split(TARGET).join(REPLACEMENT));
     cleaned++;

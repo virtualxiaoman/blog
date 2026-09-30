@@ -4,8 +4,9 @@
 
 <script setup lang="ts">
 import { ref, watch } from 'vue';
-import { resolveMarkdownSource } from '../utils/markdownSource';
-import axios from 'axios';
+import { fetchMarkdown } from '../utils/markdownSource';
+import { scrollToElementStable } from '../utils/stableScroll';
+import DOMPurify from 'dompurify';
 import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
 import 'github-markdown-css';
@@ -48,18 +49,22 @@ function decodeBase64(b64: string): string {
 // 第一步，把markdown中的数学公式转换为base64编码。
 // 先保护代码块（fenced code block）与行内代码——其中的 $ 是代码而不是公式，
 // 替换完公式后再把代码原样还原，避免公式正则误伤代码内容。
+// 哨兵混入随机串：原文若恰好包含固定占位模式（如 ~!~CB~!~0~!~），
+// 还原阶段会把原文误替换为暂存的代码内容。
 function md2katex(md: string) {
-  // 1. 保护 fenced code block，整块暂存，用哨兵占位
   const codeBlocks: string[] = [];
+  const inlineCodes: string[] = [];
+  // token 只含 ~!~ 与字母数字，可直接用于 RegExp 构造
+  const token = `~!~${Math.random().toString(36).slice(2)}~!~`;
+  // 1. 保护 fenced code block，整块暂存，用哨兵占位
   let processed = md.replace(/```[\s\S]*?```/g, (block) => {
     codeBlocks.push(block);
-    return `~!~CB~!~${codeBlocks.length - 1}~!~`;
+    return `${token}CB~!~${codeBlocks.length - 1}~!~`;
   });
   // 2. 保护行内代码（fenced block 已被占位，不会被这里误匹配）
-  const inlineCodes: string[] = [];
   processed = processed.replace(/`[^`\n]+`/g, (code) => {
     inlineCodes.push(code);
-    return `~!~IC~!~${inlineCodes.length - 1}~!~`;
+    return `${token}IC~!~${inlineCodes.length - 1}~!~`;
   });
   // 3. 替换公式（此时代码已被保护）
   processed = processed.replace(/\$\$([\s\S]+?)\$\$/g, (_, p1) => {
@@ -68,8 +73,8 @@ function md2katex(md: string) {
     return `{{katex_inline:${encodeBase64(p1)}}}`;
   });
   // 4. 还原行内代码与代码块
-  processed = processed.replace(/~!~IC~!~(\d+)~!~/g, (_, i) => inlineCodes[+i]);
-  processed = processed.replace(/~!~CB~!~(\d+)~!~/g, (_, i) => codeBlocks[+i]);
+  processed = processed.replace(new RegExp(`${token}IC~!~(\\d+)~!~`, 'g'), (_, i) => inlineCodes[+i]);
+  processed = processed.replace(new RegExp(`${token}CB~!~(\\d+)~!~`, 'g'), (_, i) => codeBlocks[+i]);
   return processed;
 }
 
@@ -126,29 +131,33 @@ async function renderMermaid(texts: string[], html: string): Promise<string> {
   mermaidTexts = texts;
   if (!texts.length) return html;
   const { default: mermaid } = await import('mermaid');
-  mermaid.initialize({ startOnLoad: false, securityLevel: 'loose', theme: 'default' });
+  // strict：禁用图表内嵌 HTML 与 click 回调；该模式下 mermaid 自己会消毒标签
+  // （剥掉 on* 事件属性与脚本），其输出不再经 DOMPurify——DOMPurify 会删掉
+  // <foreignObject> 里的标签 HTML，导致"有框架无文字"。
+  mermaid.initialize({ startOnLoad: false, securityLevel: 'strict', theme: 'default' });
 
-  let result = html;
-  for (let i = 0; i < texts.length; i++) {
-    const slot = `<div class="mermaid-slot" data-idx="${i}"></div>`;
+  // DOM 方式替换占位元素：消毒后属性顺序可能变化，字符串匹配槽位不可靠
+  const container = document.createElement('div');
+  container.innerHTML = html;
+  for (const slot of container.querySelectorAll('.mermaid-slot')) {
+    const idx = Number((slot as HTMLElement).dataset.idx);
     try {
-      const { svg } = await mermaid.render(`mermaid-svg-${mermaidRenderId++}`, texts[i]);
-      const svgWithClass = svg.replace('<svg', `<svg class="mermaid-diagram" data-idx="${i}"`);
-      // 用函数形式替换，避免 SVG 内容里的 $ 被当作字符串替换的模板模式解释
-      result = result.replace(slot, () => svgWithClass);
+      const { svg } = await mermaid.render(`mermaid-svg-${mermaidRenderId++}`, texts[idx]);
+      const tpl = document.createElement('template');
+      tpl.innerHTML = svg.replace('<svg', `<svg class="mermaid-diagram" data-idx="${idx}"`);
+      slot.replaceWith(tpl.content.cloneNode(true));
     } catch (error) {
       console.error('mermaid 渲染失败：', error);
       // 回退为展示原始代码，避免图表内容丢失
-      result = result.replace(slot, () =>
-        `<pre class="mermaid-error"><code>${escapeHtml(texts[i])}</code></pre>`
-      );
+      const pre = document.createElement('pre');
+      pre.className = 'mermaid-error';
+      const code = document.createElement('code');
+      code.textContent = texts[idx];
+      pre.appendChild(code);
+      slot.replaceWith(pre);
     }
   }
-  return result;
-}
-
-function escapeHtml(text: string): string {
-  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return container.innerHTML;
 }
 
 // 复制文本到剪贴板（带降级方案，兼容非 HTTPS 的本地开发环境）
@@ -327,7 +336,7 @@ function onContentClick(event: MouseEvent) {
   const el = document.getElementById(id);
   if (!el) return;
   event.preventDefault();
-  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  scrollToElementStable(el); // 懒加载图片会撑高文档，用稳定滚动持续校正落点
 }
 
 // 选中区域复制为 Markdown：
@@ -403,22 +412,27 @@ async function loadContent(source: string) {
   emit('contentLoaded', ''); // 先清空旧内容，避免短暂显示上一篇文章
 
   try {
-    const mdUrl = resolveMarkdownSource(source);
-    const response = await axios.get(mdUrl);
+    const md = await fetchMarkdown(source);
     if (id !== loadId) return; // 已有更新的请求发出，丢弃本次结果
 
-    const mdWithPlaceholders = md2katex(response.data);
+    const mdWithPlaceholders = md2katex(md);
     const { html, mermaidTexts } = await md2html(mdWithPlaceholders);
     let processedContent = fixMarkdownImagePaths(html, source); // 修复 Markdown 内图片路径
     processedContent = katex2html(processedContent);
     processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
     processedContent = autoNumberHeadings(processedContent); // 为无序号标题自动补层级序号
+    // 消毒（在 mermaid 渲染之前）：拦截 Markdown 内联 HTML 中可能携带的脚本、事件属性。
+    // katex 依赖行内 style 定位上下标，DOMPurify 默认剥离 style 属性，需显式放行；
+    // 它会过滤 style 值里的危险模式（expression、-moz-binding 等）。
+    // mermaid 槽位 div（class + data-idx）可通过消毒；mermaid 输出在 strict 模式下
+    // 已自行消毒，且 DOMPurify 会删除 <foreignObject> 内的标签 HTML，故不再二次消毒。
+    processedContent = DOMPurify.sanitize(processedContent, { ADD_ATTR: ['style'] });
     // 最后渲染 mermaid 图表（katex 与标题 id 处理完成后，避免图表 SVG 被这些正则误伤）
     processedContent = await renderMermaid(mermaidTexts, processedContent);
     if (id !== loadId) return; // await 之后再次检查竞态
 
     content.value = processedContent;
-    emit('contentLoaded', processedContent); // 触发 contentLoaded 事件并传递渲染后的内容
+    emit('contentLoaded', content.value); // 触发 contentLoaded 事件并传递渲染后的内容
   } catch (error) {
     if (id !== loadId) return;
     content.value = '';

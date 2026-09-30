@@ -162,25 +162,29 @@ function convertReplace(text: string): string {
   const inline: string[] = [];
   const imath: string[] = [];
   const dmath: string[] = [];
+  // 哨兵混入随机串：原文若恰好包含固定占位模式（如 ~!~CB~!~0~!~），
+  // 恢复阶段会把原文误替换为暂存的代码块/公式内容，造成数据损坏。
+  // token 只含 ~!~ 与字母数字，可直接用于 RegExp 构造。
+  const token = `~!~${Math.random().toString(36).slice(2)}~!~`;
 
   if (ignoreCode.value) {
     processed = processed.replace(/```[\s\S]*?```/g, (b) => {
       blocks.push(b);
-      return `~!~CB~!~${blocks.length - 1}~!~`;
+      return `${token}CB~!~${blocks.length - 1}~!~`;
     });
     processed = processed.replace(/`[^`\n]+`/g, (c) => {
       inline.push(c);
-      return `~!~IC~!~${inline.length - 1}~!~`;
+      return `${token}IC~!~${inline.length - 1}~!~`;
     });
   }
 
   processed = processed.replace(/\\\(([\s\S]*?)\\\)/g, (_, p: string) => {
     imath.push(p);
-    return `~!~IM~!~${imath.length - 1}~!~`;
+    return `${token}IM~!~${imath.length - 1}~!~`;
   });
   processed = processed.replace(/\\\[([\s\S]*?)\\\]/g, (_, p: string) => {
     dmath.push(p);
-    return `~!~DM~!~${dmath.length - 1}~!~`;
+    return `${token}DM~!~${dmath.length - 1}~!~`;
   });
   processed = processed.replace(/\[([^\]]+)\]/g, (_, p1: string) => `$${p1}$`);
 
@@ -197,11 +201,11 @@ function convertReplace(text: string): string {
   }
 
   if (ignoreCode.value) {
-    processed = processed.replace(/~!~IC~!~(\d+)~!~/g, (_, i) => inline[+i]);
-    processed = processed.replace(/~!~CB~!~(\d+)~!~/g, (_, i) => blocks[+i]);
+    processed = processed.replace(new RegExp(`${token}IC~!~(\\d+)~!~`, 'g'), (_, i) => inline[+i]);
+    processed = processed.replace(new RegExp(`${token}CB~!~(\\d+)~!~`, 'g'), (_, i) => blocks[+i]);
   }
-  processed = processed.replace(/~!~IM~!~(\d+)~!~/g, (_, i) => `$${imath[+i].trim()}$`);
-  processed = processed.replace(/~!~DM~!~(\d+)~!~/g, (_, i) => {
+  processed = processed.replace(new RegExp(`${token}IM~!~(\\d+)~!~`, 'g'), (_, i) => `$${imath[+i].trim()}$`);
+  processed = processed.replace(new RegExp(`${token}DM~!~(\\d+)~!~`, 'g'), (_, i) => {
     const raw = dmath[+i];
     const inner = raw.trim();
     return /\n/.test(raw) ? `$$\n${inner}\n$$` : `$$ ${inner} $$`;
@@ -209,7 +213,6 @@ function convertReplace(text: string): string {
   return processed;
 }
 
-const replaceOutput = computed(() => convertReplace(input.value));
 const replaceCopied = ref(false);
 
 async function copyReplace() {
@@ -274,9 +277,28 @@ function unwrapAll(text: string): string {
   return joinLines(text.split(/\r?\n/));
 }
 
-const unwrapOutput = computed(() =>
-  unwrapMode.value === '全部合并为一行' ? unwrapAll(input.value) : unwrapByParagraph(input.value)
-);
+/* ---------- 派生结果（防抖重算） ---------- */
+// 大文本下每次按键同步跑全量正则管线、段落合并与字数统计会明显掉帧：
+// 派生结果统一在停止输入 200ms 后重算；勾选选项、切换合并模式也走这条路径。
+const replaceOutput = ref('');
+const unwrapOutput = ref('');
+const data = ref(analyzeText(''));
+let deriveTimer = 0;
+
+function recomputeDerived() {
+  replaceOutput.value = convertReplace(input.value);
+  unwrapOutput.value =
+    unwrapMode.value === '全部合并为一行' ? unwrapAll(input.value) : unwrapByParagraph(input.value);
+  data.value = analyzeText(input.value);
+}
+
+function scheduleRecompute() {
+  window.clearTimeout(deriveTimer);
+  deriveTimer = window.setTimeout(recomputeDerived, 200);
+}
+
+watch([input, ignoreCode, cleanBlankLines, mergeFormulaLines, unwrapMode], scheduleRecompute);
+
 const unwrapCopied = ref(false);
 
 async function copyUnwrap() {
@@ -289,7 +311,6 @@ async function copyUnwrap() {
 }
 
 /* ---------- 字数统计 ---------- */
-const data = computed(() => analyzeText(input.value));
 const stats = computed(() => [
   { label: '字符数', value: data.value.chars },
   { label: '汉字数', value: data.value.hanzi },
@@ -386,7 +407,7 @@ function scheduleMeasure() {
 
 let resizeObserver: ResizeObserver | null = null;
 watch(
-  [input, replaceOutput, unwrapOutput, unwrapMode],
+  [input, replaceOutput, unwrapOutput],
   () => scheduleMeasure(),
   { flush: 'post' }
 );
@@ -402,6 +423,7 @@ onMounted(() => {
 onBeforeUnmount(() => {
   resizeObserver?.disconnect();
   if (measureFrame) cancelAnimationFrame(measureFrame);
+  window.clearTimeout(deriveTimer);
 });
 </script>
 

@@ -24,13 +24,16 @@ export function splitKeywords(query: string): string[] {
 // 匹配判定：目标文本是否命中查询。
 // 完整查询作为子串命中，或每个关键词都作为子串命中。
 export function matchesQuery(hay: string, query: string): boolean {
-  const q = query.trim().toLowerCase();
-  if (!q) return false;
-  const text = hay.toLowerCase();
-  if (text.includes(q)) return true; // 完整匹配
-  const keywords = splitKeywords(q);
+  return matchesQueryLower(hay.toLowerCase(), query.trim().toLowerCase());
+}
+
+// 预小写化版本：目标文本与查询均已小写时避免重复分配（热路径用）。
+export function matchesQueryLower(hayLower: string, queryLower: string): boolean {
+  if (!queryLower) return false;
+  if (hayLower.includes(queryLower)) return true; // 完整匹配
+  const keywords = splitKeywords(queryLower);
   if (!keywords.length) return false;
-  return keywords.every((kw) => text.includes(kw)); // 关键词匹配
+  return keywords.every((kw) => hayLower.includes(kw)); // 关键词匹配
 }
 
 // 结果类型：用于确定评分档位
@@ -47,28 +50,32 @@ export interface ScoredHit {
   matched: boolean;
 }
 
-// 标题命中评分：完整 100，关键词 30，未命中 0。
-export function scoreTitle(title: string, query: string): ScoredHit {
-  const q = query.trim().toLowerCase();
-  const text = title.toLowerCase();
-  if (!q) return { score: 0, full: false, matched: false };
-  if (text.includes(q)) return { score: 100, full: true, matched: true };
-  const keywords = splitKeywords(q);
-  if (keywords.length && keywords.every((kw) => text.includes(kw))) {
-    return { score: 30, full: false, matched: true };
+// 统一评分核心：目标文本与查询必须已小写。full/keyword 为两档分值。
+function scoreText(textLower: string, queryLower: string, full: number, keyword: number): ScoredHit {
+  if (!queryLower) return { score: 0, full: false, matched: false };
+  if (textLower.includes(queryLower)) return { score: full, full: true, matched: true };
+  const keywords = splitKeywords(queryLower);
+  if (keywords.length && keywords.every((kw) => textLower.includes(kw))) {
+    return { score: keyword, full: false, matched: true };
   }
   return { score: 0, full: false, matched: false };
 }
 
+// 标题命中评分：完整 100，关键词 30，未命中 0。
+export function scoreTitle(title: string, query: string): ScoredHit {
+  return scoreText(title.toLowerCase(), query.trim().toLowerCase(), 100, 30);
+}
+
 // 正文命中评分：完整 50，关键词 10，未命中 0。
 export function scoreBody(body: string, query: string): ScoredHit {
-  const q = query.trim().toLowerCase();
-  const text = body.toLowerCase();
-  if (!q) return { score: 0, full: false, matched: false };
-  if (text.includes(q)) return { score: 50, full: true, matched: true };
-  const keywords = splitKeywords(q);
-  if (keywords.length && keywords.every((kw) => text.includes(kw))) {
-    return { score: 10, full: false, matched: true };
-  }
-  return { score: 0, full: false, matched: false };
+  return scoreText(body.toLowerCase(), query.trim().toLowerCase(), 50, 10);
+}
+
+// 预小写化版本：索引侧已预存小写文本时，匹配阶段零分配（热路径用）。
+export function scoreTitleLower(titleLower: string, queryLower: string): ScoredHit {
+  return scoreText(titleLower, queryLower, 100, 30);
+}
+
+export function scoreBodyLower(bodyLower: string, queryLower: string): ScoredHit {
+  return scoreText(bodyLower, queryLower, 50, 10);
 }

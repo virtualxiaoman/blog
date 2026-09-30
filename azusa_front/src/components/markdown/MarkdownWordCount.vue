@@ -4,9 +4,8 @@
 
 <script setup lang="ts">
 import { ref, watch } from 'vue';
-import axios from 'axios';
 import { countHanzi, countWords, stripMarkdown } from '../../utils/textStats';
-import { resolveMarkdownSource } from '../../utils/markdownSource';
+import { fetchMarkdown } from '../../utils/markdownSource';
 
 const props = defineProps<{
   /** public/ 下的 Markdown 相对路径。 */
@@ -21,9 +20,8 @@ async function updateWordCount(source: string) {
   wordCount.value = 0;
 
   try {
-    const response = await axios.get(resolveMarkdownSource(source));
+    const text = stripMarkdown(await fetchMarkdown(source));
     if (id !== requestId) return;
-    const text = stripMarkdown(String(response.data));
     wordCount.value = countHanzi(text) + countWords(text);
   } catch {
     if (id === requestId) wordCount.value = 0;

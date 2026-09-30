@@ -44,6 +44,7 @@ import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router';
 import { searchAll, type SearchType } from '../search-index';
 import { searchContent, type ContentSearchResult } from '../content-search';
+import { scrollToElementStable } from '../utils/stableScroll';
 
 const route = useRoute();
 const router = useRouter();
@@ -98,11 +99,15 @@ watch(open, (isOpen) => {
 
 // 输入即搜（无需点按钮）。正文搜索是异步的（懒加载索引），
 // 用 debounce 避免每次击键都触发 fetch/json 解析；标题搜索仍即时。
+// searchSeq 单调递增：已发出的慢请求 resolve 时若序号已过期则丢弃，
+// 避免旧查询结果覆盖新查询结果。
 let contentTimer = 0;
+let searchSeq = 0;
 function onInput() {
   activeIndex.value = 0;
   clearTimeout(contentTimer);
   const q = query.value.trim();
+  const seq = ++searchSeq;
   if (!q) {
     contentResults.value = [];
     loading.value = false;
@@ -110,12 +115,15 @@ function onInput() {
   }
   loading.value = true;
   contentTimer = window.setTimeout(async () => {
-    contentResults.value = await searchContent(q, 3);
+    const res = await searchContent(q, 3);
+    if (seq !== searchSeq) return; // 已有更新的查询，丢弃过期结果
+    contentResults.value = res;
     loading.value = false;
   }, 200); // 200ms debounce：等用户停止输入再查正文
 }
 
 function openSearch() {
+  searchSeq++; // 作废可能在飞的旧请求
   query.value = '';
   contentResults.value = [];
   loading.value = false;
@@ -171,10 +179,11 @@ function typeLabel(t: MergedResult['type']) {
 
 // 定位到文章内标题：按 data-sec 序号轮询（mdViewer 异步渲染，元素出现后才能滚动）。
 // 标题 id 由 base64 公式占位符生成、不可预测，data-sec 序号才是稳定的定位依据。
+// 元素出现后仍需持续校正落点：懒加载图片会撑高文档把目标向下推。
 function scrollToSection(sec: number, attempt = 0) {
   const el = document.querySelector(`[data-sec="${sec}"]`);
   if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    scrollToElementStable(el);
     return;
   }
   if (attempt < 50) setTimeout(() => scrollToSection(sec, attempt + 1), 100);
@@ -184,7 +193,7 @@ function scrollToSection(sec: number, attempt = 0) {
 function scrollToArticleTop(attempt = 0) {
   const title = document.querySelector('.main-title');
   if (title) {
-    title.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    scrollToElementStable(title);
     return;
   }
   if (attempt < 50) setTimeout(() => scrollToArticleTop(attempt + 1), 100);

@@ -10,6 +10,7 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
+import { scrollToElementStable } from '../utils/stableScroll';
 
 const props = defineProps({
   content: {
@@ -58,11 +59,11 @@ function extractTextBeforeColor(text: string): string {
   return text;
 }
 
-// 滚动到标题 id 对应的元素
+// 滚动到标题 id 对应的元素（懒加载图片会撑高文档，用稳定滚动持续校正落点）
 const scrollToHeading = (id: string) => {
   const targetElement = document.getElementById(id);
   if (targetElement) {
-    targetElement.scrollIntoView({ behavior: 'smooth' });
+    scrollToElementStable(targetElement);
   } else {
     console.warn('Element not found:', id);
   }

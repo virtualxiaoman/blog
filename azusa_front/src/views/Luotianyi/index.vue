@@ -22,7 +22,12 @@
     </header>
 
     <main class="lty-main" :class="{ 'is-holo': current.key === 'holographic' }">
-      <component :is="current.component" />
+      <!-- KeepAlive：切换标签不卸载板块组件。全息板块的 WebGL renderer、已加载图片
+           与调节参数都挂在组件实例上，卸载会 forceContextLoss 并丢失全部用户状态；
+           反复重建 WebGL context 在部分浏览器还会触发 "too many contexts" 警告。 -->
+      <KeepAlive>
+        <component :is="current.component" />
+      </KeepAlive>
     </main>
   </div>
 </template>

@@ -216,6 +216,7 @@ let renderer: HologramRenderer | null = null;
 let disposed = false;
 let runtimeDownloadPromise: Promise<void> | null = null;
 let downloadNoticeTimer: ReturnType<typeof setTimeout> | null = null;
+let processSeq = 0; // 图片处理任务序号：新任务进入后旧任务的回调全部作废
 
 /** 上浮粒子的静态配置（黄金角散布） */
 const particles = Array.from({ length: 16 }, (_, i) => ({
@@ -363,6 +364,9 @@ async function processFile(file: File | null): Promise<void> {
     setError('请选择 JPG / PNG / WebP 图片文件');
     return;
   }
+  // 推理进行中仍可再次上传/拖拽：序号单调递增，过期任务的结果一律丢弃，
+  // 避免旧图后完成时覆盖新图（WASM 下单次推理可达数秒到数十秒）。
+  const seq = ++processSeq;
   phase.value = 'loading';
   loadingStatus.value = '正在解析图片…';
   loadingProgress.value = 0;
@@ -375,10 +379,12 @@ async function processFile(file: File | null): Promise<void> {
       await startRuntimeDownload();
     }
     const canvas = await makeCanvas(file);
-    if (disposed) return;
+    if (disposed || seq !== processSeq) return;
     loadingStatus.value = '准备深度模型…';
-    const result = await estimateDepth(canvas, onDepthProgress);
-    if (disposed) return;
+    const result = await estimateDepth(canvas, (ev) => {
+      if (seq === processSeq) onDepthProgress(ev);
+    });
+    if (disposed || seq !== processSeq) return;
 
     if (!renderer) {
       if (!canvasRef.value) throw new Error('渲染画布不可用');
@@ -406,7 +412,7 @@ async function processFile(file: File | null): Promise<void> {
       (window as unknown as Record<string, unknown>).__holoLastImage = result;
     }
   } catch (err) {
-    if (disposed) return;
+    if (disposed || seq !== processSeq) return;
     setError(err instanceof Error ? err.message : '分析失败，请重试');
   }
 }
@@ -506,6 +512,7 @@ function resetEffects(): void {
 }
 
 function resetStage(): void {
+  processSeq++; // 作废可能在飞的推理，避免返回后旧结果重新填入
   renderer?.clearImage();
   phase.value = 'idle';
   loadingStatus.value = '';

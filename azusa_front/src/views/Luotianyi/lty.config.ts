@@ -1,10 +1,13 @@
-import type { Component } from 'vue';
+import { defineAsyncComponent, type Component } from 'vue';
 import HomeSection from './sections/HomeSection.vue';
 import ResourcesSection from './sections/ResourcesSection.vue';
 import LinksSection from './sections/LinksSection.vue';
 import PromptSection from './sections/PromptSection.vue';
 import SongPromotionSection from './sections/SongPromotionSection.vue';
-import HolographicSection from './sections/HolographicSection.vue';
+
+// 全息板块依赖 three.js（约 600KB）与深度模型运行时，静态 import 会把它们打进 /lty
+// 路由 chunk，打开路由即加载。改为异步组件：仅在用户切换到"全息"标签时才拉取。
+const HolographicSection = defineAsyncComponent(() => import('./sections/HolographicSection.vue'));
 
 /**
  * 洛天依页面的板块注册表。

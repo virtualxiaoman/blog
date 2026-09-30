@@ -2,7 +2,7 @@
 // 数据全部来自 articles.generated.ts（构建时生成）与 tools.ts 注册表，运行时无需网络请求。
 import { allSections, type SectionWithArticle } from './articles';
 import { allTools, type ToolInfo } from './tools';
-import { scoreTitle, matchesQuery } from './utils/searchMatch';
+import { scoreTitleLower, matchesQueryLower } from './utils/searchMatch';
 
 // 一条搜索结果的类型标签
 export type SearchType = 'article' | 'section' | 'tool' | 'page' | 'content';
@@ -23,8 +23,12 @@ const PAGES: { title: string; subtitle: string; path: string; keywords: string }
   { title: '文章选择', subtitle: '按分类浏览全部文章', path: '/article/choice', keywords: '文章 选择 分类 choice' },
 ];
 
-// 构建完整索引（模块加载时执行一次）
-const INDEX: SearchItem[] = [
+// 构建完整索引（模块加载时执行一次）。
+// 构建时预存小写化字段（titleLower / contextLower），每次查询不必再对全部条目
+// 重复 toLowerCase——匹配阶段零分配。
+type PreparedItem = SearchItem & { titleLower: string; contextLower: string };
+
+const INDEX: PreparedItem[] = [
   // 文章 + 文章内小节
   ...allSections().map((s: SectionWithArticle) =>
     s.seq === 0
@@ -63,25 +67,29 @@ const INDEX: SearchItem[] = [
     sec: null,
     keywords: p.keywords,
   })),
-];
+].map((item) => ({
+  ...item,
+  titleLower: item.title.toLowerCase(),
+  contextLower: `${item.subtitle} ${item.keywords}`.toLowerCase(),
+}));
 
 // 匹配打分：一个结果分越高越靠前。采用统一评分表：
 //   标题完整匹配  100（查询整段作为子串命中标题）
 //   标题关键词匹配  30（空格拆出的关键词全部命中标题）
 //   上下文命中   10（标题未命中，但副标题/关键词字段命中——如分类名、文章名）
 // 未命中返回 0（不展示）。大小写不敏感。
-function score(item: SearchItem, query: string): number {
-  const t = scoreTitle(item.title, query);
+function score(item: PreparedItem, queryLower: string): number {
+  const t = scoreTitleLower(item.titleLower, queryLower);
   if (t.matched) return t.score;
   // 标题未命中：退而求其次匹配副标题/关键词（分类、文章名、slug 等上下文）
-  if (matchesQuery(`${item.subtitle} ${item.keywords}`, query)) return 10;
+  if (matchesQueryLower(item.contextLower, queryLower)) return 10;
   return 0;
 }
 
 // 搜索主入口：返回按相关度排序的结果，最多 limit 条。
 // 排序规则：分数高者在前，同分按标题字典序。
 export function searchAll(query: string, limit = 20): SearchItem[] {
-  const q = query.trim();
+  const q = query.trim().toLowerCase();
   if (!q) return [];
   return INDEX.map((item) => ({ item, score: score(item, q) }))
     .filter((r) => r.score > 0)

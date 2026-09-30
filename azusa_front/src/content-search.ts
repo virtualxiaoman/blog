@@ -1,7 +1,7 @@
 // 文章正文全文搜索：匹配小节正文，返回命中小节（含匹配上下文）。
 // 索引数据在构建时由 scripts/generate-articles.mjs 生成到
 // public/article/search/content-index.json（按 /blog/ 部署路径 fetch），首次搜索时懒加载。
-import { scoreBody, splitKeywords } from './utils/searchMatch';
+import { scoreBodyLower, splitKeywords } from './utils/searchMatch';
 
 // content-index.json 结构：Record<"分类/文章名", { headings: string[], bodies: string[] }>
 interface ContentIndexEntry {
@@ -10,17 +10,40 @@ interface ContentIndexEntry {
 }
 type ContentIndex = Record<string, ContentIndexEntry>;
 
-let indexPromise: Promise<ContentIndex> | null = null;
+// 加载后一次性预处理：拍平空白（flats，供摘要截取）并预存小写文本（flatsLower），
+// 之后每次搜索不再对全语料重复 replace/toLowerCase——匹配阶段零分配。
+interface PreparedEntry {
+  headings: string[];
+  flats: string[];
+  flatsLower: string[];
+}
+type PreparedIndex = Record<string, PreparedEntry>;
+
+function prepare(index: ContentIndex): PreparedIndex {
+  const out: PreparedIndex = {};
+  for (const [key, entry] of Object.entries(index)) {
+    const flats = entry.bodies.map((b) => b.replace(/\s+/g, ' ').trim());
+    out[key] = {
+      headings: entry.headings,
+      flats,
+      flatsLower: flats.map((f) => f.toLowerCase()),
+    };
+  }
+  return out;
+}
+
+let indexPromise: Promise<PreparedIndex> | null = null;
 
 // 懒加载正文索引（只请求一次，之后缓存）。
 // 注意 fetch 相对路径要带 BASE_URL 前缀，才能兼容 GitHub Pages 的 /blog/ 子路径部署。
-function loadIndex(): Promise<ContentIndex> {
+function loadIndex(): Promise<PreparedIndex> {
   if (!indexPromise) {
     indexPromise = fetch(`${import.meta.env.BASE_URL}article/search/content-index.json`)
       .then((r) => {
         if (!r.ok) throw new Error(`正文索引加载失败: ${r.status}`);
-        return r.json();
+        return r.json() as Promise<ContentIndex>;
       })
+      .then(prepare)
       .catch((e) => {
         indexPromise = null; // 失败后允许重试
         throw e;
@@ -41,25 +64,24 @@ export interface ContentSearchResult {
 }
 
 // 在正文里定位第一个命中位置：优先完整查询串，其次各关键词。
-// 大小写不敏感，返回在 flat（已拍平空白的正文）中的下标，找不到返回 -1。
-function findHitPos(flatHay: string, query: string): number {
-  const q = query.trim().toLowerCase();
-  if (!q) return -1;
-  const p = flatHay.indexOf(q);
+// 入参均已小写（flatLower 来自索引预处理，queryLower 在搜索入口统一小写一次），
+// 返回在拍平正文中的下标，找不到返回 -1。
+function findHitPos(flatLower: string, queryLower: string): number {
+  if (!queryLower) return -1;
+  const p = flatLower.indexOf(queryLower);
   if (p !== -1) return p;
-  for (const kw of splitKeywords(q)) {
-    const i = flatHay.indexOf(kw);
+  for (const kw of splitKeywords(queryLower)) {
+    const i = flatLower.indexOf(kw);
     if (i !== -1) return i;
   }
   return -1;
 }
 
-// 从正文里截取命中位置附近的上下文片段（前后各留 ~40 字符），
-// 供结果列表展示"为什么命中"。找不到命中位置时退回小节开头。
-function makeSnippet(body: string, query: string, span = 40): string {
-  const flat = body.replace(/\s+/g, ' ').trim();
+// 从拍平正文里截取命中位置附近的上下文片段（前后各留 ~40 字符，命中词后再多留 30 字符
+// 保证匹配词完整展示），供结果列表展示"为什么命中"。找不到命中位置时退回小节开头。
+function makeSnippet(flat: string, flatLower: string, queryLower: string, span = 40): string {
   if (!flat) return '';
-  const pos = findHitPos(flat.toLowerCase(), query);
+  const pos = findHitPos(flatLower, queryLower);
   if (pos === -1) return flat.slice(0, 80); // 无命中（理论不出现，因为已通过匹配）
   const start = Math.max(0, pos - span);
   const end = Math.min(flat.length, pos + span + 30);
@@ -72,9 +94,9 @@ function makeSnippet(body: string, query: string, span = 40): string {
 // 评分：正文完整匹配 50 / 正文关键词匹配 10。
 // 排序与截断：按分数降序，同分保持阅读顺序；每篇文章最多返回 maxPerArticle 条。
 export async function searchContent(query: string, maxPerArticle = 20): Promise<ContentSearchResult[]> {
-  const q = query.trim();
+  const q = query.trim().toLowerCase();
   if (!q) return [];
-  let index: ContentIndex;
+  let index: PreparedIndex;
   try {
     index = await loadIndex();
   } catch {
@@ -93,11 +115,11 @@ export async function searchContent(query: string, maxPerArticle = 20): Promise<
 
     for (let i = 0; i < entry.headings.length; i++) {
       const title = entry.headings[i];
-      const body = entry.bodies[i] ?? '';
-      if (!body) continue; // 空正文小节（仅标题命中）交给标题搜索
+      const flatLower = entry.flatsLower[i] ?? '';
+      if (!flatLower) continue; // 空正文小节（仅标题命中）交给标题搜索
 
       // 正文评分：完整 50 / 关键词 10 / 未命中 0
-      const s = scoreBody(body, q);
+      const s = scoreBodyLower(flatLower, q);
       if (!s.matched) continue;
 
       hits.push({
@@ -108,7 +130,7 @@ export async function searchContent(query: string, maxPerArticle = 20): Promise<
           path,
           sec: i + 1, // 与渲染 data-sec 对齐
           score: s.score,
-          snippet: makeSnippet(body, q),
+          snippet: makeSnippet(entry.flats[i], flatLower, q),
         },
       });
     }

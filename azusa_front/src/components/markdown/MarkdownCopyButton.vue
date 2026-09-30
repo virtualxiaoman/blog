@@ -15,9 +15,8 @@
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import axios from 'axios';
 import { copyText } from '../../utils/clipboard';
-import { resolveMarkdownSource } from '../../utils/markdownSource';
+import { fetchMarkdown } from '../../utils/markdownSource';
 
 const props = defineProps<{
   /** public/ 下的 Markdown 相对路径，例如 article/md/AI/示例.md。 */
@@ -29,8 +28,8 @@ let copiedTimer = 0;
 
 async function copyMarkdown() {
   try {
-    const response = await axios.get(resolveMarkdownSource(props.source));
-    const ok = await copyText(String(response.data));
+    const text = await fetchMarkdown(props.source);
+    const ok = await copyText(text);
     if (!ok) return;
 
     copied.value = true;
