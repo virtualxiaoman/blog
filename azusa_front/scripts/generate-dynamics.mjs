@@ -1,7 +1,8 @@
 // 自动扫描 public/lty/dynamic/<yyyy-mm>/<key>/ 下的 dynamic.json + dynamic.md，
 // 生成静态数据索引（静态托管无法列目录，必须构建期预生成）：
-//   _data/index.json      总条数、年份→月份计数（日历视图）、最新动态摘要（首页用）
-//   _data/<yyyy-mm>.json  当月动态摘要列表（月份弹层用）
+//   data/index.json      总条数、年份→月份计数（日历视图）、最新动态摘要（首页用）
+//   data/<yyyy-mm>.json  当月动态摘要列表（月份弹层用）
+// 目录名不加下划线前缀：GitHub Pages 默认启用 Jekyll，会忽略 _data 这类目录导致线上 404。
 // 输出不含时间戳、键顺序固定，内容不变则不产生 diff。predev/prebuild 自动运行。
 import { readdirSync, readFileSync, existsSync, statSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -11,7 +12,7 @@ import { Solar } from 'lunar-javascript';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
 const dynamicDir = join(root, 'public', 'lty', 'dynamic');
-const dataDir = join(dynamicDir, '_data');
+const dataDir = join(dynamicDir, 'data');
 
 const MONTH_RE = /^\d{4}-\d{2}$/;
 const KEY_RE = /^(\d{4})-(\d{2})-(\d{2})_(\d+)$/;
@@ -268,6 +269,6 @@ const searchJson = JSON.stringify(searchEntries);
 writeFileSync(join(dataDir, 'search-index.json'), searchJson);
 
 console.log(
-  `generate-dynamics: ${total} 条动态 / ${months.length} 个月 -> public/lty/dynamic/_data/` +
+  `generate-dynamics: ${total} 条动态 / ${months.length} 个月 -> public/lty/dynamic/data/` +
     `（search-index ${(searchJson.length / 1048576).toFixed(1)}MB）`
 );

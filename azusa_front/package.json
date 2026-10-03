@@ -10,7 +10,7 @@
     "build": "vue-tsc && vite build",
     "postbuild": "node scripts/strip-gh-false-positive.mjs",
     "preview": "vite preview",
-    "deploy": "node scripts/strip-gh-false-positive.mjs && gh-pages -d dist"
+    "deploy": "node scripts/strip-gh-false-positive.mjs && node scripts/deploy-gh-pages.mjs"
   },
   "dependencies": {
     "@huggingface/transformers": "^4.2.0",

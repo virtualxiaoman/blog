@@ -86,17 +86,18 @@ function fetchJson<T>(path: string): Promise<T> {
   return request;
 }
 
+// 注意：数据目录不能以 _ 开头——GitHub Pages 默认启用 Jekyll，会忽略 _data 这类目录导致线上 404
 export function fetchDynamicsIndex(): Promise<DynamicsIndex> {
-  return fetchJson<DynamicsIndex>('lty/dynamic/_data/index.json');
+  return fetchJson<DynamicsIndex>('lty/dynamic/data/index.json');
 }
 
 export function fetchDynamicsMonth(ym: string): Promise<DynamicSummary[]> {
-  return fetchJson<DynamicSummary[]>(`lty/dynamic/_data/${ym}.json`);
+  return fetchJson<DynamicSummary[]>(`lty/dynamic/data/${ym}.json`);
 }
 
 /** 全文搜索索引约 1.2MB，按需加载（首次搜索/查找时） */
 export function fetchDynamicsSearchIndex(): Promise<DynamicSearchEntry[]> {
-  return fetchJson<DynamicSearchEntry[]>('lty/dynamic/_data/search-index.json');
+  return fetchJson<DynamicSearchEntry[]>('lty/dynamic/data/search-index.json');
 }
 
 /** 详情页链接：hash 路由下拼成 <base>#/lty/dynamic/<key>，兼容本地与 /blog/ 子路径部署 */
