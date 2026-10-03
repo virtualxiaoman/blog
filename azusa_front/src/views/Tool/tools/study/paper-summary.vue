@@ -33,15 +33,18 @@
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted, ref } from 'vue';
+import { computed, onMounted, ref, watch } from 'vue';
 import axios from 'axios';
 import { copyText } from '../../../../utils/clipboard';
+import { loadPath, savePath } from '../../../../utils/pathCache';
 
 const template = ref('');
 const loading = ref(true);
 const error = ref('');
-const paperPath = ref('');
+const paperPath = ref(loadPath('paper-summary:path1'));
 const copied = ref(false);
+
+watch(paperPath, (v) => savePath('paper-summary:path1', v));
 
 // 模板放 public/ 下运行时读取，编辑提示词无需重新构建
 onMounted(async () => {
