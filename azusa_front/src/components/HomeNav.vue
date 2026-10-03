@@ -3,7 +3,7 @@
     <h2 class="home-nav-title">主页导航</h2>
     <div class="home-nav-cards">
       <!-- 文章界面：进入文章列表页 -->
-      <button type="button" class="home-nav-card accent-article" @click="go('/articles')">
+      <RouterLink class="home-nav-card accent-article" to="/articles">
         <span class="nav-card-icon">
           <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
@@ -14,10 +14,10 @@
         </span>
         <span class="nav-card-title">文章界面</span>
         <span class="nav-card-desc">阅读博客文章</span>
-      </button>
+      </RouterLink>
 
       <!-- 工具界面：进入工具箱 -->
-      <button type="button" class="home-nav-card accent-tool" @click="go('/tool')">
+      <RouterLink class="home-nav-card accent-tool" to="/tool">
         <span class="nav-card-icon">
           <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" />
@@ -25,32 +25,22 @@
         </span>
         <span class="nav-card-title">工具界面</span>
         <span class="nav-card-desc">常用小工具合集</span>
-      </button>
+      </RouterLink>
 
       <!-- 洛天依界面：天依相关内容 -->
-      <button type="button" class="home-nav-card accent-tianyi" @click="go('/lty')">
+      <RouterLink class="home-nav-card accent-tianyi" to="/lty">
         <span class="nav-card-icon">
-          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M9 18V5l12-2v13" />
-            <circle cx="6" cy="18" r="3" />
-            <circle cx="18" cy="16" r="3" />
-          </svg>
+          <img class="nav-card-logo" :src="ltyLogo" alt="" />
         </span>
         <span class="nav-card-title">洛天依界面</span>
         <span class="nav-card-desc">天依相关内容</span>
-      </button>
+      </RouterLink>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { useRouter } from 'vue-router';
-
-const router = useRouter();
-
-const go = (path: string) => {
-  router.push(path);
-};
+import ltyLogo from '../assets/svg/HomePage/lty_infin8ty_AIGC.svg';
 </script>
 
 <style scoped>
@@ -83,6 +73,7 @@ const go = (path: string) => {
   background: #fff;
   cursor: pointer;
   text-align: left;
+  text-decoration: none;
   transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
 }
 
@@ -102,6 +93,12 @@ const go = (path: string) => {
 .nav-card-icon svg {
   width: 26px;
   height: 26px;
+}
+
+.nav-card-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
 }
 
 .nav-card-title {

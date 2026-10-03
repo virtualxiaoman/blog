@@ -3,6 +3,12 @@
   height: 100%;
 }
 
+/* 站点 UI 链接统一不带下划线（各组件已有 text-decoration: none，这里兜底防止遗漏）。
+   正文 markdown 链接的"悬停显示下划线"由 github-markdown-css 提供，选择器优先级更高，不受影响。 */
+a {
+  text-decoration: none;
+}
+
 html,
 body {
   width: 100%;

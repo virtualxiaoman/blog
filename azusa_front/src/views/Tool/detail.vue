@@ -3,9 +3,9 @@
     <ArticleNav />
     <div class="tool-main">
       <nav class="breadcrumb">
-        <button type="button" class="crumb-btn" @click="goHome">主页</button>
+        <RouterLink class="crumb-btn" to="/">主页</RouterLink>
         <span class="crumb-sep">/</span>
-        <button type="button" class="crumb-btn" @click="goTool">工具</button>
+        <RouterLink class="crumb-btn" to="/tool">工具</RouterLink>
         <span class="crumb-sep">/</span>
         <span class="crumb-cur">{{ category }}</span>
         <span class="crumb-sep">/</span>
@@ -22,12 +22,11 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+import { useRoute } from 'vue-router';
 import ArticleNav from '../../components/ArticleNav.vue';
 import { loadTool, toolTitle } from '../../tools';
 
 const route = useRoute();
-const router = useRouter();
 
 // 用 computed 从路由参数派生：切换工具时（复用同一组件实例）自动更新组件。
 // 不能只用 onMounted——从 /tool/text/text-processor 切到 /tool/daily/review-template 不会重新挂载本页。
@@ -35,13 +34,6 @@ const category = computed(() => String(route.params.category ?? ''));
 const slug = computed(() => String(route.params.name ?? ''));
 const name = computed(() => toolTitle(category.value, slug.value)); // 面包屑显示中文名
 const toolComponent = computed(() => loadTool(category.value, slug.value));
-
-function goHome() {
-  router.push('/');
-}
-function goTool() {
-  router.push('/tool');
-}
 </script>
 
 <style scoped>
@@ -76,6 +68,7 @@ function goTool() {
   color: #409eff;
   font-size: 14px;
   cursor: pointer;
+  text-decoration: none;
   transition: background-color 0.15s ease;
 }
 

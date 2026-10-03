@@ -3,17 +3,16 @@
     <!-- 顶级导航栏：图标按钮，悬浮显示文字 -->
     <div class="nav-bar">
       <!-- 回到主页（首页也保留） -->
-      <button
-        type="button"
+      <RouterLink
         class="nav-btn"
+        to="/"
         aria-label="回到主页"
         data-tooltip="回到主页"
-        @click="goHome"
       >
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
           <path fill="currentColor" d="M12 3 3 10.5V21h6v-6h6v6h6V10.5L12 3z" />
         </svg>
-      </button>
+      </RouterLink>
 
       <div class="nav-btn-wrap">
         <button
@@ -50,9 +49,13 @@
             </template>
             <template v-else>
               <li v-for="article in currentArticles" :key="article.name">
-                <button type="button" class="menu-item level-article" @click="goToArticle(article.name)">
+                <RouterLink
+                  class="menu-item level-article"
+                  :to="{ name: 'article', params: { category: currentCategory, name: article.name } }"
+                  @click="closeMenu()"
+                >
                   {{ article.name }}
-                </button>
+                </RouterLink>
               </li>
             </template>
           </ul>
@@ -87,9 +90,9 @@
           <ul class="menu-list">
             <template v-if="!toolCategory">
               <li>
-                <button type="button" class="menu-item level-home" @click="goToolHome">
+                <RouterLink class="menu-item level-home" to="/tool" @click="closeToolMenu()">
                   工具箱首页
-                </button>
+                </RouterLink>
               </li>
               <li v-for="cat in toolCategories" :key="cat">
                 <button type="button" class="menu-item level-category" @click="selectToolCategory(cat)">
@@ -99,9 +102,13 @@
             </template>
             <template v-else>
               <li v-for="tool in currentTools" :key="tool.slug">
-                <button type="button" class="menu-item level-article" @click="goToTool(tool.slug)">
+                <RouterLink
+                  class="menu-item level-article"
+                  :to="`/tool/${toolCategory}/${tool.slug}`"
+                  @click="closeToolMenu()"
+                >
                   {{ tool.name }}
-                </button>
+                </RouterLink>
               </li>
             </template>
           </ul>
@@ -115,13 +122,12 @@
 
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+import { useRoute } from 'vue-router';
 import { articlesByCategory, categoryNames } from '../articles';
 import { toolCategoryNames, toolsByCategory } from '../tools';
 import BackToTopButton from './markdown/BackToTopButton.vue';
 
 
-const router = useRouter();
 const route = useRoute();
 
 const categories = categoryNames();
@@ -170,10 +176,6 @@ function onScroll() {
 const showBackTop = computed(() => !isFloating.value);
 
 
-function goHome() {
-  router.push('/');
-}
-
 function toggleMenu() {
   // 打开文章菜单时关闭工具菜单，保证两个菜单互斥
   if (!menuOpen.value) closeToolMenu();
@@ -202,29 +204,6 @@ function backToCategories() {
 
 function backToToolCategories() {
   toolCategory.value = null;
-}
-
-function goToArticle(name: string) {
-  if (!currentCategory.value) return;
-  // 使用命名路由传参，交给 Vue Router 统一处理 base 和中文/特殊字符编码。
-  // 直接拼接 URL 在部署到 /blog/ 或文章名包含特殊字符时容易生成错误地址。
-  router.push({
-    name: 'article',
-    params: { category: currentCategory.value, name },
-  });
-  closeMenu();
-}
-
-function goToTool(name: string) {
-  if (!toolCategory.value) return;
-  // 跳到 /tool/<分类>/<工具名>
-  router.push(`/tool/${toolCategory.value}/${name}`);
-  closeToolMenu();
-}
-
-function goToolHome() {
-  router.push('/tool');
-  closeToolMenu();
 }
 
 function closeMenu() {
@@ -325,6 +304,7 @@ watch(
   background: transparent;
   color: #fff;
   cursor: pointer;
+  text-decoration: none;
   transition: background-color 0.2s ease;
 }
 
@@ -438,11 +418,13 @@ watch(
 .menu-item {
   display: block;
   width: 100%;
+  box-sizing: border-box;
   padding: 8px 12px;
   border: none;
   border-radius: 6px;
   font-size: 13px;
   text-align: left;
+  text-decoration: none;
   cursor: pointer;
   transition: background-color 0.15s ease;
 }

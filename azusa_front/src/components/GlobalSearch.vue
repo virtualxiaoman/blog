@@ -14,21 +14,22 @@
           @input="onInput"
           @keydown="onPanelKeydown"
         />
-        <ul v-if="results.length" class="gs-list">
-          <li
+        <div v-if="results.length" class="gs-list">
+          <a
             v-for="(item, i) in results"
             :key="`${item.type}-${item.path}-${item.sec}-${item.snippet}-${i}`"
             class="gs-item"
             :class="{ active: i === activeIndex }"
+            :href="itemHref(item)"
             @mouseenter="activeIndex = i"
-            @click="go(item)"
+            @click="onItemClick($event, item)"
           >
             <span class="gs-type" :class="item.type">{{ typeLabel(item.type) }}</span>
             <span class="gs-title">{{ item.title }}</span>
             <span class="gs-sub">{{ item.subtitle }}</span>
             <span v-if="item.snippet" class="gs-snippet">{{ item.snippet }}</span>
-          </li>
-        </ul>
+          </a>
+        </div>
         <p v-else-if="query && !loading" class="gs-empty">未找到与「{{ query }}」相关的内容</p>
         <p v-else-if="query && loading" class="gs-empty">正在搜索正文…</p>
         <p v-else class="gs-empty gs-hint">
@@ -206,6 +207,18 @@ function scrollToArticleTop(attempt = 0) {
   if (attempt < 50) setTimeout(() => scrollToArticleTop(attempt + 1), 100);
 }
 
+// 结果用真实链接渲染（右键可"在新标签页中打开"、可复制链接）；
+// 普通左键仍走 SPA 跳转 + 小节定位逻辑，修饰键/中键交给浏览器新标签页打开
+function itemHref(item: MergedResult) {
+  return router.resolve(item.path).href;
+}
+
+function onItemClick(e: MouseEvent, item: MergedResult) {
+  if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0) return;
+  e.preventDefault();
+  void go(item);
+}
+
 async function go(item: MergedResult) {
   close();
   // 已在该文章页面：小节直接原地定位，无需路由跳转
@@ -292,6 +305,8 @@ onBeforeUnmount(() => {
   gap: 10px;
   padding: 10px 12px;
   border-radius: 9px;
+  color: inherit;
+  text-decoration: none;
   cursor: pointer;
   transition: background-color 0.12s ease;
 }

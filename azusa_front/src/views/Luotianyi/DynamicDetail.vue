@@ -22,15 +22,15 @@
         <!-- 图片加载失败（error 不冒泡）由 contentEl 上的捕获监听兜底替换为文字占位 -->
         <div ref="contentEl" class="markdown-body dynd-content" v-html="contentHtml"></div>
         <nav class="dynd-pager" aria-label="动态翻页">
-          <button v-if="prevItem" type="button" class="dynd-pager-btn" @click="go(prevItem.key)">
+          <RouterLink v-if="prevItem" class="dynd-pager-btn" :to="{ name: 'lty-dynamic', params: { key: prevItem.key } }">
             <span class="dynd-pager-dir">← 上一条</span>
             <span class="dynd-pager-title">{{ prevItem.title }}</span>
-          </button>
+          </RouterLink>
           <span v-else class="dynd-pager-btn is-disabled">已是最新</span>
-          <button v-if="nextItem" type="button" class="dynd-pager-btn is-next" @click="go(nextItem.key)">
+          <RouterLink v-if="nextItem" class="dynd-pager-btn is-next" :to="{ name: 'lty-dynamic', params: { key: nextItem.key } }">
             <span class="dynd-pager-dir">下一条 →</span>
             <span class="dynd-pager-title">{{ nextItem.title }}</span>
-          </button>
+          </RouterLink>
           <span v-else class="dynd-pager-btn is-disabled">已是最早</span>
         </nav>
       </template>
@@ -40,7 +40,7 @@
 
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+import { useRoute } from 'vue-router';
 import DOMPurify from 'dompurify';
 import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
@@ -59,7 +59,6 @@ import {
 } from './dynamics-data';
 
 const route = useRoute();
-const router = useRouter();
 const base = import.meta.env.BASE_URL;
 
 const calendarHref = `${base}#/lty?tab=dynamic`;
@@ -89,10 +88,6 @@ onBeforeUnmount(() => {
 
 // 上/下一条在同一板块内跳转，组件实例复用，需监听 key 变化重新加载
 watch(key, load);
-
-function go(targetKey: string) {
-  router.push({ name: 'lty-dynamic', params: { key: targetKey } });
-}
 
 async function load() {
   const token = ++requestToken;
@@ -418,6 +413,7 @@ const nextItem = computed(() =>
   color: inherit;
   font: inherit;
   text-align: left;
+  text-decoration: none;
   cursor: pointer;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }

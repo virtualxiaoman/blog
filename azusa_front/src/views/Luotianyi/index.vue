@@ -6,18 +6,18 @@
       </div>
 
       <nav class="lty-tabs" aria-label="洛天依板块导航">
-        <button
+        <RouterLink
           v-for="sec in ltySections"
           :key="sec.key"
-          type="button"
           class="lty-tab"
           :class="{ 'is-active': sec.key === current.key }"
           :data-label="sec.label"
           :title="sec.description"
-          @click="switchSection(sec.key)"
+          replace
+          :to="{ query: { ...route.query, tab: sec.key } }"
         >
           {{ sec.label }}
-        </button>
+        </RouterLink>
       </nav>
     </header>
 
@@ -34,11 +34,10 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+import { useRoute } from 'vue-router';
 import { ltySections } from './lty.config';
 
 const route = useRoute();
-const router = useRouter();
 
 // 资源在 public/ 下，路径带 BASE_URL 前缀兼容 GitHub Pages 的 /blog/ 子路径部署
 const base = import.meta.env.BASE_URL;
@@ -64,12 +63,6 @@ const current = computed(() => {
   const key = String(route.query.tab ?? '');
   return ltySections.find((s) => s.key === key) ?? ltySections[0];
 });
-
-// 切换板块：只更新 URL query（hash 路由下深链可用），用 replace 不堆积返回历史
-function switchSection(key: string) {
-  if (key === current.value.key) return;
-  router.replace({ query: { ...route.query, tab: key } });
-}
 
 // 首页板块：整页铺满 116202487_p1.png 作背景；其余板块用 CSS 里的默认渐变
 const pageStyle = computed(() =>
@@ -141,6 +134,7 @@ const pageStyle = computed(() =>
   color: #66ccff;
   cursor: pointer;
   border-radius: 8px;
+  text-decoration: none;
   transition: color 0.15s ease;
 }
 

@@ -13,14 +13,15 @@
           placeholder="搜索动态（标题、正文）…"
           @keydown="onKeydown"
         />
-        <ul v-if="results.length" class="ds-list">
-          <li
+        <div v-if="results.length" class="ds-list">
+          <a
             v-for="(item, i) in results"
             :key="item.entry.key"
             class="ds-item"
             :class="{ active: i === activeIndex }"
+            :href="dynamicHref(item.entry.key)"
             @mouseenter="activeIndex = i"
-            @click="go(item.entry.key)"
+            @click="onItemClick($event, item.entry.key)"
           >
             <span class="ds-badge">{{ item.entry.typeLabel }}</span>
             <span class="ds-title">{{ item.entry.title }}</span>
@@ -29,8 +30,8 @@
               <template v-if="item.entry.lunarText"> · {{ item.entry.lunarText }}</template>
             </span>
             <span v-if="item.snippet" class="ds-snippet">{{ item.snippet }}</span>
-          </li>
-        </ul>
+          </a>
+        </div>
         <p v-else-if="!query.trim()" class="ds-empty ds-hint">输入关键词搜索动态全文 · ↑↓ 选择 · Enter 打开 · Esc 关闭</p>
         <p v-else-if="loadError" class="ds-empty">{{ loadError }}</p>
         <p v-else-if="!entries" class="ds-empty">动态索引加载中…</p>
@@ -150,6 +151,17 @@ function onKeydown(e: KeyboardEvent) {
   }
 }
 
+// 结果用真实链接渲染（右键可"在新标签页中打开"）；普通左键走 SPA 跳转
+function dynamicHref(key: string) {
+  return router.resolve({ name: 'lty-dynamic', params: { key } }).href;
+}
+
+function onItemClick(e: MouseEvent, key: string) {
+  if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0) return;
+  e.preventDefault();
+  go(key);
+}
+
 function go(key: string) {
   close();
   router.push({ name: 'lty-dynamic', params: { key } });
@@ -220,6 +232,8 @@ onBeforeUnmount(() => {
   gap: 10px;
   padding: 10px 12px;
   border-radius: 9px;
+  color: inherit;
+  text-decoration: none;
   cursor: pointer;
   transition: background-color 0.12s ease;
 }

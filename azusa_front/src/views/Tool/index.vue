@@ -8,15 +8,14 @@
       <section v-for="cat in categories" :key="cat" class="tool-category">
         <h2 class="cat-title">{{ cat }}</h2>
         <div class="tool-grid">
-          <button
+          <RouterLink
             v-for="tool in toolsByCategory(cat)"
             :key="tool.name"
-            type="button"
             class="tool-card"
-            @click="goTo(tool.path)"
+            :to="tool.path"
           >
             <span class="tool-name">{{ tool.name }}</span>
-          </button>
+          </RouterLink>
         </div>
       </section>
 
@@ -28,16 +27,10 @@
 </template>
 
 <script setup lang="ts">
-import { useRouter } from 'vue-router';
 import ArticleNav from '../../components/ArticleNav.vue';
 import { toolCategoryNames, toolsByCategory } from '../../tools';
 
-const router = useRouter();
 const categories = toolCategoryNames();
-
-function goTo(path: string) {
-  router.push(path);
-}
 </script>
 
 <style scoped>
@@ -97,6 +90,7 @@ function goTo(path: string) {
   background: #fff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
   cursor: pointer;
+  text-decoration: none;
   transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
 }
 
