@@ -13,6 +13,8 @@ const DISPLAY_NAMES: Record<string, string> = {
   'review-template': '好评模板',
   'color-converter': '颜色转换',
   'qr-decoder': '二维码识别转 URL',
+  'reading-assistant': '辅助阅读',
+  'paper-summary': '论文总结',
 };
 
 export interface ToolInfo {
