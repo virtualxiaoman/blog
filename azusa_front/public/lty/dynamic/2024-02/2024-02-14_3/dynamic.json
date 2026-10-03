@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "897956440479629328",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/897956440479629328",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月14日",
+    "pub_ts": 1707910176,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "世界上最甜蜜的东西？糖果、巧克力还是冰淇淋？是我们之间的回忆[洛天依_害羞]\n卷🌸关注天依，揪一位小伙伴送出【情人节系列 徽章】1个。\n\n洛天依情人节系列新品预售开启\n★预售新品：洛天依情人节系列徽章&拍立得&色纸\n★预售时间：2月14日20:00至4月\n★预售平台：哔哩哔哩会员购\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "世界上最甜蜜的东西？糖果、巧克力还是冰淇淋？是我们之间的回忆"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n卷🌸关注天依，揪一位小伙伴送出【情人节系列 徽章】1个。\n\n洛天依情人节系列新品预售开启\n★预售新品：洛天依情人节系列徽章&拍立得&色纸\n★预售时间：2月14日20:00至4月\n★预售平台：哔哩哔哩会员购"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-14_2.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0c2d4ff7154b8620c491110ff3f3a10136081646.png",
+        "width": 750,
+        "height": 2382,
+        "size_kb": 734.1199951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger  洛天依 2024情人节系列 周边衍生品",
+            "price": "¥12",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/1c/bb/1cbba9eb18fbf3027fa254a76faaac93.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10246290&msource=cps_Mdynamic_36081646_cont-2-897956440479629328&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-14_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7214,
+    "comment": 1869,
+    "forward": 3266
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

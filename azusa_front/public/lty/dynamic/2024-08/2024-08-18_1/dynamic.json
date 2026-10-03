@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "966692349750018048",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/966692349750018048",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月18日",
+    "pub_ts": 1723914002,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@从一到无穷大Infinity@qwq啊啊啊啊啊噜@有时名字不能取太长等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@从一到无穷大Infinity",
+        "mid": 697565874,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@qwq啊啊啊啊啊噜",
+        "mid": 189799722,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@有时名字不能取太长",
+        "mid": 3546388151405126,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4394,
+    "comment": 103,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 939874290505875465,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-06/2024-06-06_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "id": "897197489694703616",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/897197489694703616",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月12日",
+    "pub_ts": 1707733469,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "愿行至深处，终得见天光。\n新的一年，平安顺遂，万事顺意[Vsinger_加依]\n[洛天依蝶变_yalahula]《天依唱片机》第七期网页链接\n新的唱片机壁纸当然也要分享给大家！[Vsinger_给大佬递茶]\n\n\n也拜托大家可以多多支持天依和索尼音乐合作的新EP《洛 LUO》哦[Vsinger_rua天依]网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "愿行至深处，终得见天光。\n新的一年，平安顺遂，万事顺意"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "《天依唱片机》第七期"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/6U2YGp4"
+      },
+      {
+        "type": "text",
+        "text": "\n新的唱片机壁纸当然也要分享给大家！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n\n也拜托大家可以多多支持天依和索尼音乐合作的新EP《洛 LUO》哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/3RwatRt"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-12_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/8336e6f928300b7f1b571d6419ca7f5036081646.png",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 11756.7900390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依《洛LUO》全新EP 实体专辑",
+            "price": "¥98",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/53/a2/53a20becaf310ccda37daaa492cd6bf6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10257550&msource=cps_Mdynamic_36081646_cont-2-897197489694703616&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-12_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7011,
+    "comment": 198,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

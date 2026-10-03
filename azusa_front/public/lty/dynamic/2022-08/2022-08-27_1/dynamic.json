@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "698945677744406563",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/698945677744406563",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月27日",
+    "pub_ts": 1661574372,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《上海新气象预报》上海创新创业青年50人论坛宣传主题曲",
+      "desc": "B站虚拟歌手洛天依竟然和歌手余笛梦幻联动啦！在第三届上海创新创业青年50人论坛现场首发主题曲《上海新气象预报》里，两位用歌声演绎创新创业青年在上海追逐梦想、成就事业的生动故事。在UP主小可儿和百万填词的词曲创作合作下，歌声与旋律响起，我们仿佛看到了青年们面向未来，勇立潮头的模样。青年创新创业者聚焦“3+6”产业体系和元宇宙、绿色低碳等新赛道会又怎样的新故事呢？点击倾听，一探究竟吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1de4y1o7AU",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ed730cc20277ebd55b3b89c30a08209a1c5e086a.jpg",
+      "cover_file": "../../_assets/covers/2022-08-27_1.jpg",
+      "bvid": "BV1de4y1o7AU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1de4y1o7AU",
+        "aid": "557382566",
+        "cover": "http://i0.hdslb.com/bfs/archive/ed730cc20277ebd55b3b89c30a08209a1c5e086a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1de4y1o7AU",
+        "stat": {
+          "danmaku": "232",
+          "play": "39.1万",
+          "vt": ""
+        },
+        "duration_text": "01:47",
+        "title": "《上海新气象预报》上海创新创业青年50人论坛宣传主题曲",
+        "desc": "B站虚拟歌手洛天依竟然和歌手余笛梦幻联动啦！在第三届上海创新创业青年50人论坛现场首发主题曲《上海新气象预报》里，两位用歌声演绎创新创业青年在上海追逐梦想、成就事业的生动故事。在UP主小可儿和百万填词的词曲创作合作下，歌声与旋律响起，我们仿佛看到了青年们面向未来，勇立潮头的模样。青年创新创业者聚焦“3+6”产业体系和元宇宙、绿色低碳等新赛道会又怎样的新故事呢？点击倾听，一探究竟吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13298,
+    "comment": 355,
+    "forward": 15
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

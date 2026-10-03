@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "636698136873533443",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/636698136873533443",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月12日",
+    "pub_ts": 1647081237,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#像是坠入了一片迷幻的梦境~[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "像是坠入了一片迷幻的梦境~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6251,
+    "comment": 159,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 0,
+    "orig_mid": 0,
+    "deleted": false,
+    "archive_dir": "../../../0/2026-10/2026-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "751382388081164289",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/751382388081164289",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月15日",
+    "pub_ts": 1673783245,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#\n​【新品上架】 [GSAS] 洛天依 万物有灵Ver. \n关注+转发本条动态，将于3月22日抽出1位送出「洛天依 万物有灵Ver.」*1个。 \n\n⭐旗舰店特典：烫金色纸 \n\n风过树梢，花开枝摇 \n交织成歌谣，在你耳畔停靠\n东方秘林中的精灵，以歌声与万物生灵共鸣。 \n\n天依这次以充满东方奇幻风格的全新造型化身为1/7比例手办登场~ \n小鹿灵从空中一跃而下，发丝与衣袂翻飞在风中，如新生般懵懂地向世界好奇地张望。\n水晶树枝、银杏灯笼、以草木灵体呈现的天钿，以及化形为金鱼的水精灵......秘林里的神奇生物肆意生长，在这片静谧中尽显氤氲。\n欢迎大家将喜欢歌唱的森林小精灵带回家~♪₍๐•ᴗ•๐₎ 详情传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "128914",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n​【新品上架】 "
+      },
+      {
+        "type": "text",
+        "text": "[GSAS]"
+      },
+      {
+        "type": "text",
+        "text": " 洛天依 万物有灵Ver. \n关注+转发本条动态，将于3月22日抽出1位送出「洛天依 万物有灵Ver.」*1个。 \n\n⭐旗舰店特典：烫金色纸 \n\n风过树梢，花开枝摇 \n交织成歌谣，在你耳畔停靠\n东方秘林中的精灵，以歌声与万物生灵共鸣。 \n\n天依这次以充满东方奇幻风格的全新造型化身为1/7比例手办登场~ \n小鹿灵从空中一跃而下，发丝与衣袂翻飞在风中，如新生般懵懂地向世界好奇地张望。\n水晶树枝、银杏灯笼、以草木灵体呈现的天钿，以及化形为金鱼的水精灵......秘林里的神奇生物肆意生长，在这片静谧中尽显氤氲。\n欢迎大家将喜欢歌唱的森林小精灵带回家~♪₍๐•ᴗ•๐₎ 详情传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/AoJLDkbDF.html?msource=yyqbanner_tly_bb_wwyltg15"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/abb09b48317402254174fe800a118be236081646.jpg",
+        "width": 4000,
+        "height": 6000,
+        "size_kb": 9092.1396484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-01-15_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9375e4729b7a99f21a72e5642dc2f2d036081646.jpg",
+        "width": 4000,
+        "height": 6000,
+        "size_kb": 9295.5498046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-01-15_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/1d1eb1fc25eb4cf9ef4558647df10b9c36081646.jpg",
+        "width": 6000,
+        "height": 4000,
+        "size_kb": 8464.3896484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-01-15_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/972447ab90abaf76a8a12f0a26cfc5a636081646.jpg",
+        "width": 4054,
+        "height": 6000,
+        "size_kb": 11162.6201171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "GSAS Vsinger 洛天依 万物有灵ver. 手办",
+            "price": "¥90",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f8/e6/f8e699d9306b2bff24416c9f342762ea.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10131305&msource=cps_Mdynamic_36081646_cont-2-751382388081164289&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-01-15_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "128914"
+  },
+  "vote": null,
+  "stats": {
+    "like": 16676,
+    "comment": 3402,
+    "forward": 23818
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

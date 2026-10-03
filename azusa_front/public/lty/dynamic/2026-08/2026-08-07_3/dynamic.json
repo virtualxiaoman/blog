@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1233765613943390214",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1233765613943390214",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月7日",
+    "pub_ts": 1786096842,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《哑巴》洛天依",
+      "desc": "新歌来咯～",
+      "jump_url": "https://www.bilibili.com/video/BV1cout63Epq",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/85aee1aa2e0030c3aad1e96912c11e1446db997c.jpg",
+      "cover_file": "../../_assets/covers/2026-08-07_3.jpg",
+      "bvid": "BV1cout63Epq",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1cout63Epq",
+        "aid": "117053478469847",
+        "cover": "http://i1.hdslb.com/bfs/archive/85aee1aa2e0030c3aad1e96912c11e1446db997c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1cout63Epq",
+        "stat": {
+          "danmaku": "3363",
+          "play": "157.9万",
+          "vt": ""
+        },
+        "duration_text": "03:23",
+        "title": "《哑巴》洛天依",
+        "desc": "新歌来咯～",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 64108,
+    "comment": 7984,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

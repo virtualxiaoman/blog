@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "1027704984389550089",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1027704984389550089",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月29日",
+    "pub_ts": 1738119613,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖转发关注天依，揪5位小伙伴送出【Vsinger 蛇来运转收藏集5抽】一份～\n\n千里江山铺成的历史画卷里，闪烁着无数人性的光辉\n神为何爱世人，神理应爱世人\n巳蛇呈祥，福泽绵长，愿中华大地生生不息\n天依祝大家新的一年，身体健康，所愿皆成！[蛇来运转表情包_洛天依-]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "341786",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "转发关注天依，揪5位小伙伴送出【Vsinger 蛇来运转收藏集5抽】一份～\n\n千里江山铺成的历史画卷里，闪烁着无数人性的光辉\n神为何爱世人，神理应爱世人\n巳蛇呈祥，福泽绵长，愿中华大地生生不息\n天依祝大家新的一年，身体健康，所愿皆成！"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/84d4ebae906c9597bd27ba779d16928c36081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 3338.314,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-01-29_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c7479e9e959591898a25a77ad4bc86b136081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 3324.243,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/archive/bed4cf8c2419b6123b8c048c7a23a13215d61ff9.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=282&hybrid_set_header=2&lottery_id=0&rebate=647193094&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2025-01-29_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "341786"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8112,
+    "comment": 1234,
+    "forward": 10083
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "703152074237411365",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/703152074237411365",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月7日",
+    "pub_ts": 1662553750,
+    "location": ""
+  },
+  "topic": {
+    "id": 57026,
+    "name": "天依的心声代理站",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=57026&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%BF%83%E5%A3%B0%E4%BB%A3%E7%90%86%E7%AB%99"
+  },
+  "content": {
+    "title": "",
+    "text": "♪你将心声分享给我，我将故事唱给你听♪\n恰逢良辰吉日( ´ ▽ ` )ﾉ，【天依的心声代理站】第一天开业啦！\n这是一个为创作构筑的平台，在这里，我们可以分享彼此的生活，将点滴心声化作创意的灵感，一起创作属于我们的歌~[洛天依9th_一起唱]\n\n一直以来，小伙伴们都会通过私信来和天依聊天，分享生活。从大家的文字中，天依看见了很多特立独行的不同，也看到了很多可以共鸣的相同。\n那…...你有故事，我是歌手，同时我们还有那么多创作者！说不定，某刻，你的“心声”与某位路过的创作者发生共振，一首歌就在这种妙不可言的缘分中诞生了呢！\n\n因此，这个小小代理站成立了！天依想，也许可以通过这种形式，实现大家的心愿，也让音乐与创作将我们紧紧相连。\n★代理站入口：https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH\n小站首次开张，初试运营，门面稍显简陋还望勿怪，希望大家多多捧场呀~ [洛天依_捏捏]\n\n#洛天依#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "♪你将心声分享给我，我将故事唱给你听♪\n恰逢良辰吉日( ´ ▽ ` )ﾉ，【天依的心声代理站】第一天开业啦！\n这是一个为创作构筑的平台，在这里，我们可以分享彼此的生活，将点滴心声化作创意的灵感，一起创作属于我们的歌~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n一直以来，小伙伴们都会通过私信来和天依聊天，分享生活。从大家的文字中，天依看见了很多特立独行的不同，也看到了很多可以共鸣的相同。\n那…...你有故事，我是歌手，同时我们还有那么多创作者！说不定，某刻，你的“心声”与某位路过的创作者发生共振，一首歌就在这种妙不可言的缘分中诞生了呢！\n\n因此，这个小小代理站成立了！天依想，也许可以通过这种形式，实现大家的心愿，也让音乐与创作将我们紧紧相连。\n★代理站入口：https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH\n小站首次开张，初试运营，门面稍显简陋还望勿怪，希望大家多多捧场呀~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8059,
+    "comment": 393,
+    "forward": 79
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

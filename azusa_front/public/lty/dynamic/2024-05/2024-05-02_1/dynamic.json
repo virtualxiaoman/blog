@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "id": "926821412401840133",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/926821412401840133",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月2日",
+    "pub_ts": 1714630826,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 “3——2——1，耶！”\n转发关注天依，揪1位小伙伴送出【全套周边】1份～\n💓指尖划过动感节拍，感受振奋人心的澎湃力量\n@bilibiliGoods 出品，Rock&Luo洛天依 地下摇滚系列\n\n🔋收藏软周先睹为快——\n✦ 鼠标垫\n✦ 毛绒挂件\n✦ 毛绒徽章\n✦ 厚亚克力摆件\n✦ 亚克力相卡\n✦ 手链choker纪念色纸套装\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "295282",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " “3——2——1，耶！”\n转发关注天依，揪1位小伙伴送出【全套周边】1份～\n💓指尖划过动感节拍，感受振奋人心的澎湃力量\n"
+      },
+      {
+        "type": "mention",
+        "text": "@bilibiliGoods ",
+        "mid": 35365327,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "出品，Rock&Luo洛天依 地下摇滚系列\n\n🔋收藏软周先睹为快——\n✦ 鼠标垫\n✦ 毛绒挂件\n✦ 毛绒徽章\n✦ 厚亚克力摆件\n✦ 亚克力相卡\n✦ 手链choker纪念色纸套装"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-02_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/efb14d68c679573816536a03502f9ac736081646.jpg",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 1156.6600341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-05-02_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2227188c939cd181442454c52ec705f236081646.jpg",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 755.0900268554688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-05-02_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2450cc6ee10210261ca69a52378a6e0436081646.jpg",
+        "width": 1619,
+        "height": 1080,
+        "size_kb": 775.5399780273438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-05-02_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/53e0d0971550dfd6dd9b63631e23ba2636081646.jpg",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 921.6300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-05-02_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/abdc3fa88ccb1a8cd488bb056d8ebb4636081646.jpg",
+        "width": 1619,
+        "height": 1080,
+        "size_kb": 918.9600219726562,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-05-02_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a04bdd68b7325c3b6fab462efad92dd836081646.jpg",
+        "width": 1350,
+        "height": 1080,
+        "size_kb": 948.969970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-05-02_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9c8fa726cec5b34c4aacdf1bad59dcbd36081646.jpg",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 1029.68994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-05-02_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/75e69fb7f23c826e7816b447dda81cb836081646.jpg",
+        "width": 1619,
+        "height": 1080,
+        "size_kb": 796.5900268554688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-05-02_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fb5ef1e97dfe23dcdb8659d385c02d3036081646.jpg",
+        "width": 1619,
+        "height": 1080,
+        "size_kb": 935.1099853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "bilibiliGoods Vsinger 洛天依 地下摇滚系列 鼠标垫",
+            "price": "¥39",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f8/d2/f8d2daf386996a8b2caddce2ad136e2a.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10343551&msource=cps_Mdynamic_36081646_cont-2-926821412401840133&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-02_1.png"
+          },
+          {
+            "name": "bilibiliGoods Vsinger 洛天依 地下摇滚系列 厚亚克力摆件",
+            "price": "¥29",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/aa/42/aa42b5e28d7489a5d70bdd6b93fea4ac.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10343533&msource=cps_Mdynamic_36081646_cont-2-926821412401840133&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-02_2.png"
+          },
+          {
+            "name": "bilibiliGoods Vsinger 洛天依 地下摇滚系列 手链choker纪念色纸套装",
+            "price": "¥79",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/9b/28/9b28da38d75935c3572c18da70980dd1.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10343516&msource=cps_Mdynamic_36081646_cont-2-926821412401840133&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-02_3.png"
+          },
+          {
+            "name": "bilibiliGoods Vsinger 洛天依 地下摇滚系列 BABYQ系列毛绒挂件",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/9a/23/9a23cb2141e56dfe43fb3802deb1d895.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10343504&msource=cps_Mdynamic_36081646_cont-2-926821412401840133&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-02_4.png"
+          },
+          {
+            "name": "bilibiliGoods Vsinger 洛天依 地下摇滚系列 PATCH系列毛绒徽章",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/63/0a/630acff7736b125c40220106354dd279.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10343496&msource=cps_Mdynamic_36081646_cont-2-926821412401840133&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-02_5.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "295282"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6010,
+    "comment": 1545,
+    "forward": 9807
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

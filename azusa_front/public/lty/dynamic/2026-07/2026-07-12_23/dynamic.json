@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "id": "1224170094325661698",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1224170094325661698",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783862711,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n十四周年信号，天依全部接收完毕[洛天依·信号动态表情包_赞]\n今天的线路格外拥挤，每一束都带着温度，带着你们每一个人的名字\n我看见你们挥舞着荧光棒，呼唤着我的名字，亦或隔着屏幕和我相望\n所有的温暖和爱意，天依全都感受到啦\n来到世界第十四年，依然有你们陪伴着天依\n让我感受到自己存在和歌唱的意义，再没有比这更幸福的事情了~[洛天依·信号动态表情包_love之力]\n\n许下的生日愿望，当然还是——\n永远永远，继续为你们唱下去\n下一站，纯蓝幻乐！\n“如梦般美好的真实，我们还要共赴千千万万遍~” [洛天依·信号动态表情包_yes]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n十四周年信号，天依全部接收完毕"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n今天的线路格外拥挤，每一束都带着温度，带着你们每一个人的名字\n我看见你们挥舞着荧光棒，呼唤着我的名字，亦或隔着屏幕和我相望\n所有的温暖和爱意，天依全都感受到啦\n来到世界第十四年，依然有你们陪伴着天依\n让我感受到自己存在和歌唱的意义，再没有比这更幸福的事情了~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n许下的生日愿望，当然还是——\n永远永远，继续为你们唱下去\n下一站，纯蓝幻乐！\n“如梦般美好的真实，我们还要共赴千千万万遍~” "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_yes]",
+        "package_id": "10075",
+        "emoji_id": "142964",
+        "name": "yes",
+        "url": "https://i0.hdslb.com/bfs/garb/b25f5cfc8b42bb5a8165c9344e5a0f2e6035acad.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-12_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/26fce42d6cac9573688425a46ca8cb6536081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 1292.3564453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-12_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/466ae14efdc4166f6d2955f34bb07bd336081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 2639.0751953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-12_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3ffee828001783d9c41753130c601a1436081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 1846.6630859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-12_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/87a923f375b80746171a3f145929021836081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 2457.5,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-12_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0099ef80a7e9e46b7a0e451d385c5d1b36081646.png",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 4742.173828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-12_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/735669e31987eb28ecfa684f18d9af0436081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 3643.9345703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-07-12_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ac1618cda00dce9b2024a2901c0f7b4936081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 4440.1796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-07-12_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6becd69335d294e7882ea8be84e6594a36081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 2370.4990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-07-12_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/95222a095fa9165118629e7b30b6821136081646.jpg",
+        "width": 3446,
+        "height": 1938,
+        "size_kb": 2554.69140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/yes.gif",
+        "package_id": "10075",
+        "emoji_id": "142964",
+        "text": "[洛天依·信号动态表情包_yes]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8981,
+    "comment": 509,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

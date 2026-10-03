@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "719480058189709398",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/719480058189709398",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月21日",
+    "pub_ts": 1666355405,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#\n长大的天依，唱着儿时书本上的诗词，能够勾起你的几分回忆吗？你会喜欢吗？",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n长大的天依，唱着儿时书本上的诗词，能够勾起你的几分回忆吗？你会喜欢吗？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依ai原创曲】溯游从之【闹闹丶】",
+      "desc": "“蒹葭苍苍  白露为霜”\n“……”\n“所谓伊人  宛在水中央”\n\n演唱：洛天依\n作曲/编曲：闹闹丶\n作词：邪叫教主\n调教：哈士奇P\n混音：小欧Ω\n统筹：Vsinger团队",
+      "jump_url": "https://www.bilibili.com/video/BV1tG411L7WN",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/6cd448876927c68f33ed51cf8f471c0fd84b19a0.jpg",
+      "cover_file": "../../_assets/covers/2022-10-21_2.jpg",
+      "bvid": "BV1tG411L7WN",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1tG411L7WN",
+        "aid": "431819460",
+        "cover": "http://i2.hdslb.com/bfs/archive/6cd448876927c68f33ed51cf8f471c0fd84b19a0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1tG411L7WN",
+        "stat": {
+          "danmaku": "307",
+          "play": "28.8万",
+          "vt": ""
+        },
+        "duration_text": "03:47",
+        "title": "【洛天依ai原创曲】溯游从之【闹闹丶】",
+        "desc": "“蒹葭苍苍  白露为霜”\n“……”\n“所谓伊人  宛在水中央”\n\n演唱：洛天依\n作曲/编曲：闹闹丶\n作词：邪叫教主\n调教：哈士奇P\n混音：小欧Ω\n统筹：Vsinger团队",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36232,
+    "comment": 624,
+    "forward": 26
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

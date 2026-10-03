@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1087890635997839399",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1087890635997839399",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月10日",
+    "pub_ts": 1752132677,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "首次两地同展！非遗洛天依亮相国家博物馆和哔哩哔哩主题漫展",
+      "desc": "匠人说：本次工艺难在“虚实转化”！洛天依标志性的双马尾飘动姿态，需通过工艺精准捕捉动态瞬间。传统工艺多用于静态器物，而此次需在1500℃高温下控制釉料流动，使发丝既有轻盈感又不失琉璃的凝滞美。",
+      "jump_url": "https://www.bilibili.com/video/BV16KGgzGEFQ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/d087109f40665bb697b7f3b2ae8630c84f178c93.jpg",
+      "cover_file": "../../_assets/covers/2025-07-10_1.jpg",
+      "bvid": "BV16KGgzGEFQ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV16KGgzGEFQ",
+        "aid": "114827695489525",
+        "cover": "http://i1.hdslb.com/bfs/archive/d087109f40665bb697b7f3b2ae8630c84f178c93.jpg",
+        "jump_url": "//www.bilibili.com/video/BV16KGgzGEFQ",
+        "stat": {
+          "danmaku": "710",
+          "play": "34.3万",
+          "vt": ""
+        },
+        "duration_text": "01:13",
+        "title": "首次两地同展！非遗洛天依亮相国家博物馆和哔哩哔哩主题漫展",
+        "desc": "匠人说：本次工艺难在“虚实转化”！洛天依标志性的双马尾飘动姿态，需通过工艺精准捕捉动态瞬间。传统工艺多用于静态器物，而此次需在1500℃高温下控制釉料流动，使发丝既有轻盈感又不失琉璃的凝滞美。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 31611,
+    "comment": 1097,
+    "forward": 15
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "277532102246477628",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/277532102246477628",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月18日",
+    "pub_ts": 1563456378,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "愿我们的光芒，能够穿越宇宙与空间，在这里与你们相遇！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "愿我们的光芒，能够穿越宇宙与空间，在这里与你们相遇！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6336,
+    "comment": 126,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 277523847318254255,
+    "orig_mid": 893950,
+    "deleted": false,
+    "archive_dir": "../../../893950/2019-07/2019-07-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

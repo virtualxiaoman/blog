@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "627419779062680409",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/627419779062680409",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月15日",
+    "pub_ts": 1644920951,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#那份迫不及待想见到在意的人的心情，都是一样的吧~[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "那份迫不及待想见到在意的人的心情，都是一样的吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4952,
+    "comment": 100,
+    "forward": 15
+  },
+  "forward": {
+    "orig_id": 626822104305698966,
+    "orig_mid": 107948187,
+    "deleted": false,
+    "archive_dir": "../../../107948187/2022-02/2022-02-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:42:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

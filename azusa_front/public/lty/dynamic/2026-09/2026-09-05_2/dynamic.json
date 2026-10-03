@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1244495992704729113",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1244495992704729113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月5日",
+    "pub_ts": 1788595203,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【老V有话说 | 闪P特别篇】天依闪2模型首次亮相！",
+      "desc": "「闪耀的Producer」第二季 正在火热征集中，欢迎小伙伴投稿你们的作品，老V期待与更多优秀的作品在活动内相见！\n活动页 https://www.bilibili.com/blackboard/era/1jnnvR4lxztLsO0n.html\n\n【本期推荐作品】\n直到凌晨也无法安眠o《若要形容明天的话》BV1uz3b6bELR\n致密的网《潮间带》BV1x1Gc6yEFt\n乐小君《别把夏天关掉》BV1MY3o6TEAW\nGrid格子《月儿升》BV1ei3d6LEVJ\n静夜社《水母病》BV1YFun6KE",
+      "jump_url": "https://www.bilibili.com/video/BV1GRty6HEEv",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b8872d30fffaccc58f8e14b88544fa79a5326963.jpg",
+      "cover_file": "../../_assets/covers/2026-09-05_1.jpg",
+      "bvid": "BV1GRty6HEEv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1GRty6HEEv",
+        "aid": "117216754277701",
+        "cover": "http://i1.hdslb.com/bfs/archive/b8872d30fffaccc58f8e14b88544fa79a5326963.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1GRty6HEEv",
+        "stat": {
+          "danmaku": "281",
+          "play": "4.2万",
+          "vt": ""
+        },
+        "duration_text": "08:05",
+        "title": "【老V有话说 | 闪P特别篇】天依闪2模型首次亮相！",
+        "desc": "「闪耀的Producer」第二季 正在火热征集中，欢迎小伙伴投稿你们的作品，老V期待与更多优秀的作品在活动内相见！\n活动页 https://www.bilibili.com/blackboard/era/1jnnvR4lxztLsO0n.html\n\n【本期推荐作品】\n直到凌晨也无法安眠o《若要形容明天的话》BV1uz3b6bELR\n致密的网《潮间带》BV1x1Gc6yEFt\n乐小君《别把夏天关掉》BV1MY3o6TEAW\nGrid格子《月儿升》BV1ei3d6LEVJ\n静夜社《水母病》BV1YFun6KE",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8845,
+    "comment": 622,
+    "forward": 17
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

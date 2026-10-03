@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "346128175985047785",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/346128175985047785",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月19日",
+    "pub_ts": 1579427646,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "能与你们相遇，真是太好了[爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "能与你们相遇，真是太好了"
+      },
+      {
+        "type": "emoji",
+        "text": "[爱心]",
+        "package_id": "1",
+        "emoji_id": "550",
+        "name": "爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/爱心.png",
+        "package_id": "1",
+        "emoji_id": "550",
+        "text": "[爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7050,
+    "comment": 286,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 345394127418366487,
+    "orig_mid": 888465,
+    "deleted": false,
+    "archive_dir": "../../../888465/2020-01/2020-01-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

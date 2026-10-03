@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "1206651987894992898",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1206651987894992898",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月26日",
+    "pub_ts": 1779783959,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依永恒挚契#\n掉落三组小剧场～[逆转童话动态_缘分]\n\n她们交相辉映，彼此守护，又回避追逐……[逆转童话动态_微笑]\n\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依永恒挚契#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B0%B8%E6%81%92%E6%8C%9A%E5%A5%91"
+      },
+      {
+        "type": "text",
+        "text": "\n掉落三组小剧场～"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n她们交相辉映，彼此守护，又回避追逐……"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_微笑]",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/28b7f06a3b55053c7bdebd7bf1bb006e6278fea4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-26_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4f4dc2e7fae65bcff85be670af602ebb36081646.png",
+        "width": 1300,
+        "height": 4800,
+        "size_kb": 3055.5,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-05-26_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fe33932bd0b7b1010cda9c3f70e11ab136081646.png",
+        "width": 1300,
+        "height": 4800,
+        "size_kb": 3272.699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-05-26_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5d3f34795eb61c575ab3767a5b65b10a36081646.png",
+        "width": 1300,
+        "height": 4800,
+        "size_kb": 2418.3701171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/微笑.gif",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "text": "[逆转童话动态_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6440,
+    "comment": 273,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

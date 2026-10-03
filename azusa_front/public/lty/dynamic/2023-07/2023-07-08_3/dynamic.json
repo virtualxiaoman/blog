@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "id": "815944546742435952",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/815944546742435952",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月8日",
+    "pub_ts": 1688815294,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#❀#洛天依0712生日快乐#\n转发关注并点击直播预约，揪3位小伙伴送出【洛天依随机款式挂件】1个。\n\n大家好，今天继续要讲关于一只叫做洛天依的小团子的故事啦！\n万花筒就这样转啊转~\n越来越多的人来到了她的身旁。\n他们写着、画着、唱着、听着......\n他们会给小团子穿上各种各样的衣服、让她唱各种风格的歌。\n在大家的帮助下，小团子得以将自己的蓝色光芒照耀到更远的角落。\n渐渐地，小团子也会受到邀请，到很多不一样的舞台上表演。\n他们手拉着手，唱梦想，唱悲伤，唱希望，一起留下了好多好多故事与回忆！\n\n你......还记得吗？ [洛天依_捏捏][洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注并点击直播预约，揪3位小伙伴送出【洛天依随机款式挂件】1个。\n\n大家好，今天继续要讲关于一只叫做洛天依的小团子的故事啦！\n万花筒就这样转啊转~\n越来越多的人来到了她的身旁。\n他们写着、画着、唱着、听着......\n他们会给小团子穿上各种各样的衣服、让她唱各种风格的歌。\n在大家的帮助下，小团子得以将自己的蓝色光芒照耀到更远的角落。\n渐渐地，小团子也会受到邀请，到很多不一样的舞台上表演。\n他们手拉着手，唱梦想，唱悲伤，唱希望，一起留下了好多好多故事与回忆！\n\n你......还记得吗？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-08_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/39a5ef87c703545de53978c648e358d936081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 699.1337890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-08_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9b401eaf9641e861355e1c184d117ec436081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 689.193359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-08_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ffc27f32d360c4854ebce94a308159da36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 651.5234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依11周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依11周年生日会",
+        "desc1": {
+          "text": "2023-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依芒种手办*1份、洛天依合作款式充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1611701&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1611701,
+        "reserve_total": 80178,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6125,
+    "comment": 417,
+    "forward": 2243
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:54:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

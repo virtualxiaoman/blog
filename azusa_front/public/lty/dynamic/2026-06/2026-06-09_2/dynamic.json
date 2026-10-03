@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "1211814873578602502",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1211814873578602502",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月9日",
+    "pub_ts": 1780986037,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·北京站\n将于6月12日正式开启售票，「北京·冰川」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~[洛天依动态流光协奏_票来]\n\n🏔购票方式\n✧ 会员购网页链接\n✧ 大麦https://detail.damai.cn/item.htm?id=1055935539093\n\n🏔演出时间&场地\n7月18日 19:12 北京·国家体育馆\n🏔购票时间\n-【优先购票】6月12日 18:00\n-【正式开售】6月12日 19:00\n🏔随票特典\n-【SVIP档】PU卡包、打卡棒、荧光棒、纪念票根、拼图冰箱贴、礼品袋 特典一份\n-【其他档位】荧光棒、纪念票根、拼图冰箱贴、礼品袋 纪念福利一份\n\n🎶巡演城市\n7.18 北京/7.25 杭州/8.1 成都/8.15 上海/8.22 长沙/8.29 广州\n\n沉睡的歌者即将自冰川深处苏醒，我将破开风雪，自音河的源头启程\n请跟随少女的歌声与提灯，走进这片被冰晶音符点亮的纯蓝幻境，共赴音河奔涌的第一站吧！[洛天依动态流光协奏_allin]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·北京站\n将于6月12日正式开启售票，「北京·冰川」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_票来]",
+        "package_id": "8399",
+        "emoji_id": "115671",
+        "name": "票来",
+        "url": "https://i0.hdslb.com/bfs/garb/93b6c6499b6edcdd28f2aca244a542cdb42c1d06.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏔购票方式\n✧ 会员购"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1002171"
+      },
+      {
+        "type": "text",
+        "text": "\n✧ 大麦"
+      },
+      {
+        "type": "text",
+        "text": "https://detail.damai.cn/item.htm?id=1055935539093"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏔演出时间&场地\n7月18日 19:12 北京·国家体育馆\n🏔购票时间\n-【优先购票】6月12日 18:00\n-【正式开售】6月12日 19:00\n🏔随票特典\n-【SVIP档】PU卡包、打卡棒、荧光棒、纪念票根、拼图冰箱贴、礼品袋 特典一份\n-【其他档位】荧光棒、纪念票根、拼图冰箱贴、礼品袋 纪念福利一份\n\n🎶巡演城市\n7.18 北京/7.25 杭州/8.1 成都/8.15 上海/8.22 长沙/8.29 广州\n\n沉睡的歌者即将自冰川深处苏醒，我将破开风雪，自音河的源头启程\n请跟随少女的歌声与提灯，走进这片被冰晶音符点亮的纯蓝幻境，共赴音河奔涌的第一站吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_allin]",
+        "package_id": "8399",
+        "emoji_id": "115683",
+        "name": "allin",
+        "url": "https://i0.hdslb.com/bfs/garb/3426680a08746c58b4c5ffe87a1d8bf8a3182a92.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-09_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5f45d475fe008510e5fd26a820d447ee36081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 11626.0302734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-06-09_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/17a2243f97c5114a390c8336a7b460dc36081646.jpg",
+        "width": 750,
+        "height": 7345,
+        "size_kb": 4093.1328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/票来.gif",
+        "package_id": "8399",
+        "emoji_id": "115671",
+        "text": "[洛天依动态流光协奏_票来]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/allin.gif",
+        "package_id": "8399",
+        "emoji_id": "115683",
+        "text": "[洛天依动态流光协奏_allin]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "北京·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202606/n5rArC8l1780917394_1780917394816.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1002171&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1211814873578602502",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-06-09_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6829,
+    "comment": 1564,
+    "forward": 2853
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:23:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

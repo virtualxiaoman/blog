@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "893112494759870466",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/893112494759870466",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月1日",
+    "pub_ts": 1706782357,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "明天的冰火舞台上，天依将会演出索尼合作EP单曲《山妖》、小熠老师的《绣得千年山水长》和纯白老师的《中华少女终》串烧，还有还有，天依还会在演出时抽出5轮天选时刻奖品送给大家，包括《洛 LUO》实体专辑和多重新品周边好礼，记得来看喔[洛天依蝶变_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明天的冰火舞台上，天依将会演出索尼合作EP单曲《山妖》、小熠老师的《绣得千年山水长》和纯白老师的《中华少女终》串烧，还有还有，天依还会在演出时抽出5轮天选时刻奖品送给大家，包括《洛 LUO》实体专辑和多重新品周边好礼，记得来看喔"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3626,
+    "comment": 95,
+    "forward": 54
+  },
+  "forward": {
+    "orig_id": 893088086452338708,
+    "orig_mid": 9617619,
+    "deleted": false,
+    "archive_dir": "../../../9617619/2024-02/2024-02-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:06:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

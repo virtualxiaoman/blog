@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "1234770458010714116",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1234770458010714116",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月10日",
+    "pub_ts": 1786330800,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "大家周一上午好呀，天依来为大家带来巡演长沙站快闪情报啦~[洛天依14周年·四重奏_wink]\n转发关注天依，揪1位小伙伴送出【长沙场贩礼盒】1张[洛天依14周年·四重奏_爱你]\n\n⏰时间: 2026.08.16-2026.09.14\n✅️营业时间:10:00—22:00\n📍地址：长沙五一王府井百货B1中庭\n🌌主办方: Manverse漫游宇宙\n\n⭐快闪周边情报\n1、洛天依无限共鸣·纯蓝幻乐演唱会系列等通贩周边\n2、专属限定城市主题周边产品\n3、天依集章礼赠&满赠福利\n\n长空载依，云漫清声， 在蔚蓝天空下，一起奏响我们的乐章~ [洛天依14周年·四重奏_唱歌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家周一上午好呀，天依来为大家带来巡演长沙站快闪情报啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪1位小伙伴送出【长沙场贩礼盒】1张"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_爱你]",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/bc2a4f74fb26c171585377e011df9d27938b2529.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⏰时间: 2026.08.16-2026.09.14\n✅️营业时间:10:00—22:00\n📍地址：长沙五一王府井百货B1中庭\n🌌主办方: Manverse漫游宇宙\n\n⭐快闪周边情报\n1、洛天依无限共鸣·纯蓝幻乐演唱会系列等通贩周边\n2、专属限定城市主题周边产品\n3、天依集章礼赠&满赠福利\n\n长空载依，云漫清声， 在蔚蓝天空下，一起奏响我们的乐章~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_唱歌]",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/cbff4881919473c2dc8622f50b6dfc59d10ac785.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-10_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d6207610ac0228b76c927aca8f12277c36081646.png",
+        "width": 1080,
+        "height": 4252,
+        "size_kb": 2893.71484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-10_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a741429786e77af0f83a88b5ec0e166136081646.png",
+        "width": 859,
+        "height": 12188,
+        "size_kb": 6633.416015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-10_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/326ab884114d584cd94fad5a4bd0ae9536081646.png",
+        "width": 1080,
+        "height": 5309,
+        "size_kb": 4284.96484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/爱你.gif",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "text": "[洛天依14周年·四重奏_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/唱歌.gif",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "text": "[洛天依14周年·四重奏_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5836,
+    "comment": 2468,
+    "forward": 3571
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

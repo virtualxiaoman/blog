@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "539882547365568264",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/539882547365568264",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月24日",
+    "pub_ts": 1624539601,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依 芒种Ver.# #洛天依0712生日快乐#  天依的1/8芒种旗袍手办发售情报和特典信息一起来啦~   这次的手办将在6月26日0点预售，主要渠道都有各自对应的特典周边，希望大家在欣赏手办的同时，也能从特典上体会到不同的乐趣。   主要销售渠道及特典： ·上海禾念官方店： @-TID- 新绘扇形亚克力立牌 ·bilibili会员购渠道：芒种原画卷轴挂画 ·GSC官方淘宝店铺/京东商城：芒种原画版画 ·GSC官方微信商城：亚克力原画背景板   在以上渠道购买即可获得相应特典，其他详情还请以销售页面为准。 让这份从春天开始的回忆延续到夏天，延续到将来相互陪伴的每一天。 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依 芒种Ver.#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E8%8A%92%E7%A7%8DVer."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  天依的1/8芒种旗袍手办发售情报和特典信息一起来啦~   这次的手办将在6月26日0点预售，主要渠道都有各自对应的特典周边，希望大家在欣赏手办的同时，也能从特典上体会到不同的乐趣。   主要销售渠道及特典： ·上海禾念官方店： "
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "新绘扇形亚克力立牌 ·bilibili会员购渠道：芒种原画卷轴挂画 ·GSC官方淘宝店铺/京东商城：芒种原画版画 ·GSC官方微信商城：亚克力原画背景板   在以上渠道购买即可获得相应特典，其他详情还请以销售页面为准。 让这份从春天开始的回忆延续到夏天，延续到将来相互陪伴的每一天。 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8782406bbbfe876a8c12c365c0bb8c5334d0411f.jpg",
+        "width": 929,
+        "height": 1371,
+        "size_kb": 420.3095703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10912,
+    "comment": 598,
+    "forward": 197
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

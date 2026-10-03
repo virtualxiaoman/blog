@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "957593040650764311",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/957593040650764311",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月24日",
+    "pub_ts": 1721795404,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X美依礼芽】霜雪千年「官方中日双语版」",
+      "desc": "感谢网易云音乐的邀请，天依很高兴可以和小美一起，\n以不一样的形式，将《霜雪千年》的旋律带到更多更远的地方。\n《霜雪千年（官方中日双语版）》歌曲与MV已正式上线，欢迎大家前往网易云音乐收听噢！\n今天18:30-19:00，天依还将在歌曲的评论区和大家互动，欢迎大家留言~\n\n《霜雪千年》原版BV1es41127Fd\n《霜雪千年》2024官方重置版BV1zM4m1r7JS\n\n演唱：洛天依&美依礼芽MARiA\n作词：COP\n作曲：COP\n日语作词：Luna Safari\n调教：流绪/魏宇帆@小冰\n编曲：林华瑞\n吉",
+      "jump_url": "https://www.bilibili.com/video/BV1n142187b7",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/be9a79c6f8ad0421b6f9265712fd3a74ccd04271.jpg",
+      "cover_file": "../../_assets/covers/2024-07-24_1.jpg",
+      "bvid": "BV1n142187b7",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1n142187b7",
+        "aid": "1556299258",
+        "cover": "http://i2.hdslb.com/bfs/archive/be9a79c6f8ad0421b6f9265712fd3a74ccd04271.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1n142187b7",
+        "stat": {
+          "danmaku": "1418",
+          "play": "75.1万",
+          "vt": ""
+        },
+        "duration_text": "04:15",
+        "title": "【洛天依X美依礼芽】霜雪千年「官方中日双语版」",
+        "desc": "感谢网易云音乐的邀请，天依很高兴可以和小美一起，\n以不一样的形式，将《霜雪千年》的旋律带到更多更远的地方。\n《霜雪千年（官方中日双语版）》歌曲与MV已正式上线，欢迎大家前往网易云音乐收听噢！\n今天18:30-19:00，天依还将在歌曲的评论区和大家互动，欢迎大家留言~\n\n《霜雪千年》原版BV1es41127Fd\n《霜雪千年》2024官方重置版BV1zM4m1r7JS\n\n演唱：洛天依&美依礼芽MARiA\n作词：COP\n作曲：COP\n日语作词：Luna Safari\n调教：流绪/魏宇帆@小冰\n编曲：林华瑞\n吉",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 80263,
+    "comment": 2969,
+    "forward": 358
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "951364221374824449",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/951364221374824449",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月7日",
+    "pub_ts": 1720345144,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十二周年#💙#洛天依0712生日快乐#\n在某个春游的下午，刚上初中的你记得天依问：“大家都有什么梦想呀？”\n“我的梦想真的是当宇航员。”\n“我要学音乐，写自己的歌！”\n“我想开公司，赚好多好多钱！”\n天依笑着说：“哇，大家的梦想都很厉害呢！”\n\n此时一个微弱的声音响起，“我的梦想是……”\n“能永远找到地方晒太阳。”\n空气中只有半秒的沉默，天依带着笑意回过头来，夕阳洒下温柔的光芒。\n“想永远有暖暖的太阳晒，也好厉害！”\n天依抬起手，阳光漏过指缝，“今天的阳光就好漂亮呀。”\n\n简单也好，遥远也好，无论是怎样的梦想，都是很好很伟大的梦，天依都听着呀~\n[代号洛天依_比心]\n距离7月12日洛天依十二周年生日，还有5天！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十二周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "💙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n在某个春游的下午，刚上初中的你记得天依问：“大家都有什么梦想呀？”\n“我的梦想真的是当宇航员。”\n“我要学音乐，写自己的歌！”\n“我想开公司，赚好多好多钱！”\n天依笑着说：“哇，大家的梦想都很厉害呢！”\n\n此时一个微弱的声音响起，“我的梦想是……”\n“能永远找到地方晒太阳。”\n空气中只有半秒的沉默，天依带着笑意回过头来，夕阳洒下温柔的光芒。\n“想永远有暖暖的太阳晒，也好厉害！”\n天依抬起手，阳光漏过指缝，“今天的阳光就好漂亮呀。”\n\n简单也好，遥远也好，无论是怎样的梦想，都是很好很伟大的梦，天依都听着呀~\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n距离7月12日洛天依十二周年生日，还有5天！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-07_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c422845c7eb7c93b8c0d14198a0c4d2036081646.jpg",
+        "width": 4000,
+        "height": 3000,
+        "size_kb": 2534.2216796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7673,
+    "comment": 420,
+    "forward": 176
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

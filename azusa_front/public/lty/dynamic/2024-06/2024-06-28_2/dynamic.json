@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "id": "948012553431154692",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/948012553431154692",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月28日",
+    "pub_ts": 1719564773,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "🔹洛天依#BW2024#参展详细情报公开！🔹\n转发关注天依并预约直播，揪3位小伙伴送出【2024BW入场资格】1张！\n✨参展信息\n■展会时间：2024年7月12日-7月14日\n■展馆地址：上海国家会展中心\n■展台位置：3H-3A35\n\n✨共鸣空间——互动体验区\nAR互动、舞蹈机挑战赛、互动装置、周边市集，打造体验丰富的展区体验\n\n✨音舞时钟——惊喜共创舞台\n天依的歌曲表演，特邀嘉宾的演出舞台，还有音乐互动游戏，等你一起来参与\n*注意特别演出限定7月12日哦\n还有更多现场惊喜福利等待大家的领取~\n\n十二载岁月流转，唯热爱生生不息\n“以无限爱意奔向你”线下欢聚日，天依静候大家的到来！\n更多福利资格抽送活动，记得关注天依的动态哦~[洛天依蝶变_YEAH！]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🔹洛天依"
+      },
+      {
+        "type": "topic",
+        "text": "#BW2024#",
+        "url": "https://search.bilibili.com/all?keyword=BW2024"
+      },
+      {
+        "type": "text",
+        "text": "参展详细情报公开！🔹\n转发关注天依并预约直播，揪3位小伙伴送出【2024BW入场资格】1张！\n✨参展信息\n■展会时间：2024年7月12日-7月14日\n■展馆地址：上海国家会展中心\n■展台位置：3H-3A35\n\n✨共鸣空间——互动体验区\nAR互动、舞蹈机挑战赛、互动装置、周边市集，打造体验丰富的展区体验\n\n✨音舞时钟——惊喜共创舞台\n天依的歌曲表演，特邀嘉宾的演出舞台，还有音乐互动游戏，等你一起来参与\n*注意特别演出限定7月12日哦\n还有更多现场惊喜福利等待大家的领取~\n\n十二载岁月流转，唯热爱生生不息\n“以无限爱意奔向你”线下欢聚日，天依静候大家的到来！\n更多福利资格抽送活动，记得关注天依的动态哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-28_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1ad1d0c3891946a7347d68e3bcc59a6f36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 296.7607421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-06-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/455c5b9c12d49ec725c8ff05a14e072d36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 405.1220703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-06-28_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/345b4bd2a6f8fe8218ef7c0136a87c8836081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 312.7548828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-06-28_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7c58e224d3ac740d0f1be4b76d5e723036081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 331.9560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-06-28_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/922d1368df7139b21776f92972d2970136081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 387.267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-06-28_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1e23bddded770bab5178cea4277d739736081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 304.2666015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-06-28_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/46d5fa153bb4031f3d2d7265902a4b9336081646.jpg",
+        "width": 1000,
+        "height": 6093,
+        "size_kb": 1611.9873046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-06-28_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/52f34be730b445ce3d6711831846369136081646.jpg",
+        "width": 1000,
+        "height": 4585,
+        "size_kb": 1233.7568359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-06-28_9.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/71779c6a6850e3ee7c041a161f1f440a36081646.png",
+        "width": 1000,
+        "height": 5778,
+        "size_kb": 8246.1796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4806,
+    "comment": 725,
+    "forward": 2254
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

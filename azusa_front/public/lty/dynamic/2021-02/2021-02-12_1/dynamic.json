@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "490574652071768173",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/490574652071768173",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月12日",
+    "pub_ts": 1613059212,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 玉鼠辞旧岁，金牛报春时。 不管你身在何方、是否与亲人团聚，但心安之处，便是故乡。 跟天依一起摆个POSE，为新年好运加持，开开心心过大年~ 祝大家牛年心想事成，万事如意[洛天依·夜航星_新年快乐]  画师：@小白今天出现了吗 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 玉鼠辞旧岁，金牛报春时。 不管你身在何方、是否与亲人团聚，但心安之处，便是故乡。 跟天依一起摆个POSE，为新年好运加持，开开心心过大年~ 祝大家牛年心想事成，万事如意"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_新年快乐]",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "name": "新年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/80d5195ee966465f5f338db26f2faba51afcd217.png"
+      },
+      {
+        "type": "text",
+        "text": "  画师："
+      },
+      {
+        "type": "mention",
+        "text": "@小白今天出现了吗 ",
+        "mid": 49499545,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/364ad66a7c0f296417010bde92cc0fa7b3e46db7.jpg",
+        "width": 1080,
+        "height": 1526,
+        "size_kb": 1272.85,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/新年快乐.png",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "text": "[洛天依·夜航星_新年快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18163,
+    "comment": 841,
+    "forward": 230
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

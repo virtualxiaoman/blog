@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "881303641053462677",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/881303641053462677",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月31日",
+    "pub_ts": 1704032894,
+    "location": ""
+  },
+  "topic": {
+    "id": 1138243,
+    "name": "上B站看跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1138243&topic_name=%E4%B8%8AB%E7%AB%99%E7%9C%8B%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依、龚琳娜一起演绎非遗文化，跨次元舞台太惊喜！#2023最美的夜# #2023最美的夜#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依、龚琳娜一起演绎非遗文化，跨次元舞台太惊喜！"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "献给多彩的民族瑰宝！洛天依龚琳娜《歌行四方》【2023最美的夜】",
+      "desc": "献给多彩的民族瑰宝！洛天依龚琳娜《歌行四方》【2023最美的夜】",
+      "jump_url": "https://www.bilibili.com/video/BV1di4y1h7bm",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/056a263c2c24240a42cbfe0dd7073c8b643b4d03.png",
+      "cover_file": "../../_assets/covers/2023-12-31_4.png",
+      "bvid": "BV1di4y1h7bm",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1di4y1h7bm",
+        "aid": "537912709",
+        "cover": "http://i0.hdslb.com/bfs/archive/056a263c2c24240a42cbfe0dd7073c8b643b4d03.png",
+        "jump_url": "//www.bilibili.com/video/BV1di4y1h7bm",
+        "stat": {
+          "danmaku": "5154",
+          "play": "196.3万",
+          "vt": ""
+        },
+        "duration_text": "04:44",
+        "title": "献给多彩的民族瑰宝！洛天依龚琳娜《歌行四方》【2023最美的夜】",
+        "desc": "献给多彩的民族瑰宝！洛天依龚琳娜《歌行四方》【2023最美的夜】",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2023最美的夜 bilibili晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss46239",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/9f7421d24fe94034b5ad565edd37212cbdc8ba9b.png",
+      "cover_file": "../../_assets/covers/2023-12-31_5.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 2,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss46239",
+        "id_str": "537912709",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/9f7421d24fe94034b5ad565edd37212cbdc8ba9b.png",
+        "style": 2,
+        "title": "2023最美的夜 bilibili晚会",
+        "desc1": "bilibili出品 已完结, 全3集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 64572,
+    "comment": 4099,
+    "forward": 5009
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:03:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

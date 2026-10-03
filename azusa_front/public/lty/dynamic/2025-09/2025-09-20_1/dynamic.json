@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "1114560463044083713",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1114560463044083713",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月20日",
+    "pub_ts": 1758342230,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「复古未来」特别主题双形象即将登场！全新视觉插画和主题设定也即将与大家见面啦~[洛天依八音奇响动态_可爱]\n\n天依还将作为嘉宾参加@TERRYZHONG钟天利 老师的「超感次元:黑洞之外」演出，表演8首歌曲的电音Remix特别版本。\n复古未来的电音风格联动曲也将在演出现场和以特别MV的形式带给大家~[洛天依八音奇响动态_美丽]\n\n演出现场还有主题周边场贩首发，敬请期待吧！\n更多演出相关情报请戳@LiquidState电音厂牌 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「复古未来」特别主题双形象即将登场！全新视觉插画和主题设定也即将与大家见面啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n天依还将作为嘉宾参加"
+      },
+      {
+        "type": "mention",
+        "text": "@TERRYZHONG钟天利 ",
+        "mid": 36688245,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师的「超感次元:黑洞之外」演出，表演8首歌曲的电音Remix特别版本。\n复古未来的电音风格联动曲也将在演出现场和以特别MV的形式带给大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n演出现场还有主题周边场贩首发，敬请期待吧！\n更多演出相关情报请戳"
+      },
+      {
+        "type": "mention",
+        "text": "@LiquidState电音厂牌 ",
+        "mid": 1396430145,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3b7cfa5b1618d77e2cd0726a9ecc97ff36081646.jpg",
+        "width": 4000,
+        "height": 2236,
+        "size_kb": 6502.189,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6723,
+    "comment": 620,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "1247073071844556824",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1247073071844556824",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月12日",
+    "pub_ts": 1789195226,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 “在纯白的乐土之下，黑暗的传说露出一角。”\n洛天依「终冕」主题收藏集正式开启！[洛天依新像集 终冕_兜风]\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~[洛天依新像集 终冕_亲亲]\n\n♟️卡池收录：动态数字音乐卡、精美数字卡牌\n♟️羁绊之礼解锁：专属勋章、专属动态表情包、动态个性主题、专属头像框\n♟️传送入口：网页链接 \n\n一起见证棋盘之上的历史与传说吧~ [洛天依新像集 终冕_邪恶]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "424863",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " “在纯白的乐土之下，黑暗的传说露出一角。”\n洛天依「终冕」主题收藏集正式开启！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依新像集 终冕_兜风]",
+        "package_id": "10305",
+        "emoji_id": "147244",
+        "name": "兜风",
+        "url": "https://i0.hdslb.com/bfs/garb/69fc55a77afb52316fe4abf38514eb282670cccb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依新像集 终冕_亲亲]",
+        "package_id": "10305",
+        "emoji_id": "147238",
+        "name": "亲亲",
+        "url": "https://i0.hdslb.com/bfs/garb/940e8ef193c000312db93c555c440fa9b83dae44.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♟️卡池收录：动态数字音乐卡、精美数字卡牌\n♟️羁绊之礼解锁：专属勋章、专属动态表情包、动态个性主题、专属头像框\n♟️传送入口："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=114341"
+      },
+      {
+        "type": "text",
+        "text": " \n\n一起见证棋盘之上的历史与传说吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依新像集 终冕_邪恶]",
+        "package_id": "10305",
+        "emoji_id": "147225",
+        "name": "邪恶",
+        "url": "https://i0.hdslb.com/bfs/garb/6224a379fac81b67cd019989e136a4b0650f7ff2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-12_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fedb5172f71c17e90436b8f45bfb128936081646.png",
+        "width": 1080,
+        "height": 10855,
+        "size_kb": 9770.69140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10305/兜风.png",
+        "package_id": "10305",
+        "emoji_id": "147244",
+        "text": "[洛天依新像集 终冕_兜风]"
+      },
+      {
+        "file": "../../_assets/emojis/10305/亲亲.png",
+        "package_id": "10305",
+        "emoji_id": "147238",
+        "text": "[洛天依新像集 终冕_亲亲]"
+      },
+      {
+        "file": "../../_assets/emojis/10305/邪恶.png",
+        "package_id": "10305",
+        "emoji_id": "147225",
+        "text": "[洛天依新像集 终冕_邪恶]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·新像集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/c38636530a4a2624cef156b0d027ab4b56474175.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=0&rebate=10878474&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2026-09-12_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "424863"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6020,
+    "comment": 545,
+    "forward": 7643
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

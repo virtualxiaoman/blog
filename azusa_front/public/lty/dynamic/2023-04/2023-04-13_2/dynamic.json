@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "784020003482501140",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/784020003482501140",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月13日",
+    "pub_ts": 1681382282,
+    "location": ""
+  },
+  "topic": {
+    "id": 1028725,
+    "name": "以闪亮之名丝路绮梦",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1028725&topic_name=%E4%BB%A5%E9%97%AA%E4%BA%AE%E4%B9%8B%E5%90%8D%E4%B8%9D%E8%B7%AF%E7%BB%AE%E6%A2%A6"
+  },
+  "content": {
+    "title": "",
+    "text": "以长烟为帔帛，以月色为纱衣。\n掩埋在历史的黄沙之下的，是丝竹声悠悠，是神女舞翩然，是最动人的故事与传说。\n\n感谢《以闪亮之名》邀请天依穿上了这件名为卧月灼莲的美丽舞裙~\n合作歌曲《灼》已正式上线，壁纸也分享给大家，希望大家喜欢呀！[古色花香洛天依_乖巧]\n#洛天依# #以闪亮之名#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "以长烟为帔帛，以月色为纱衣。\n掩埋在历史的黄沙之下的，是丝竹声悠悠，是神女舞翩然，是最动人的故事与传说。\n\n感谢《以闪亮之名》邀请天依穿上了这件名为卧月灼莲的美丽舞裙~\n合作歌曲《灼》已正式上线，壁纸也分享给大家，希望大家喜欢呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#以闪亮之名#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%97%AA%E4%BA%AE%E4%B9%8B%E5%90%8D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-13_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c6e095f1adeaf9f8f6c8b101ba9514c536081646.jpg",
+        "width": 1949,
+        "height": 1096,
+        "size_kb": 2031.7626953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-04-13_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8c71900e459babf2f598d8c4030ad08a36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1289.546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-04-13_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/fff55f3b692760122ab0cbd7b36e4c6736081646.jpg",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 14581.533203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8585,
+    "comment": 329,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:52:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

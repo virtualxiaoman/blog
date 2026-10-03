@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "566445240757539313",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/566445240757539313",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月4日",
+    "pub_ts": 1630724210,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#寻找洛天依#天依这是来了场说走就走的旅行嘛？[tv_思考]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#寻找洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%AF%BB%E6%89%BE%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "天依这是来了场说走就走的旅行嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_思考]",
+        "package_id": "2",
+        "emoji_id": "44",
+        "name": "思考",
+        "url": "https://i0.hdslb.com/bfs/emote/b63f9146bfd985af014f8d6d4bdb498805be48f9.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2/思考.gif",
+        "package_id": "2",
+        "emoji_id": "44",
+        "text": "[tv_思考]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8072,
+    "comment": 262,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 566244730217864612,
+    "orig_mid": 1582637,
+    "deleted": false,
+    "archive_dir": "../../../1582637/2021-09/2021-09-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:35:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

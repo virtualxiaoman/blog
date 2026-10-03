@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "12736725518444171",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/12736725518444171",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2016年12月9日",
+    "pub_ts": 1481297573,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依携手“三只松鼠”洗脑神曲《好吃歌》诞生!",
+      "desc": "洛天依、三只松鼠首支跨次元明星MV大放送！独家萌创洗脑神曲  (´・ω・)ﾉ集颜值萌点于一体，让你听到耳朵怀孕！肚子饿晕，哈哈哈~\n\n《好吃歌》（《投食歌》改编）\n 作曲：稲田康、さつきがてんこもり\n 编曲：内山孝洋\n 作词：好吃鼠",
+      "jump_url": "https://www.bilibili.com/video/BV1fs411Y77N",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/3e2ce3075b51438b388e77e6cadd0a05b7bae3cd.jpg",
+      "cover_file": "../../_assets/covers/2016-12-09_1.jpg",
+      "bvid": "BV1fs411Y77N",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1fs411Y77N",
+        "aid": "7455928",
+        "cover": "http://i2.hdslb.com/bfs/archive/3e2ce3075b51438b388e77e6cadd0a05b7bae3cd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1fs411Y77N",
+        "stat": {
+          "danmaku": "1818",
+          "play": "21.6万",
+          "vt": ""
+        },
+        "duration_text": "02:53",
+        "title": "洛天依携手“三只松鼠”洗脑神曲《好吃歌》诞生!",
+        "desc": "洛天依、三只松鼠首支跨次元明星MV大放送！独家萌创洗脑神曲  (´・ω・)ﾉ集颜值萌点于一体，让你听到耳朵怀孕！肚子饿晕，哈哈哈~\n\n《好吃歌》（《投食歌》改编）\n 作曲：稲田康、さつきがてんこもり\n 编曲：内山孝洋\n 作词：好吃鼠",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4921,
+    "comment": 2057,
+    "forward": 13
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

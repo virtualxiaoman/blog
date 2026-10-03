@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1250814954787831817",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1250814954787831817",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月22日",
+    "pub_ts": 1790066451,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "准备前往济南站的小伙伴们，请查收这份\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·济南站观演指南~[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]\n\n❀花篮入场申请登记\n-申请时间：即日起-9月27日12:00\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n ❀演出时间&场地\n10月5日 济南奥林匹克体育中心体育馆\n\n🩵济南站售票进行中网页链接 \n一起期待我们的幸福延长日吧，大家济南见！[洛天依14周年·纯蓝幻乐 动态表情包_打call]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "准备前往济南站的小伙伴们，请查收这份\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·济南站观演指南~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "name": "拥抱",
+        "url": "https://i0.hdslb.com/bfs/garb/65eb4c9e4124d9e698ae248af2d5167d1c262ba6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n❀花篮入场申请登记\n-申请时间：即日起-9月27日12:00\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n ❀演出时间&场地\n10月5日 济南奥林匹克体育中心体育馆\n\n🩵济南站售票进行中"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1005740"
+      },
+      {
+        "type": "text",
+        "text": " \n一起期待我们的幸福延长日吧，大家济南见！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/4401a18bbf1425651c30f6ea29d6fb7052f3b1d2.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ed3bcce46ae240e13fbc0a692d70a9ee36081646.jpg",
+        "width": 750,
+        "height": 13604,
+        "size_kb": 6951.16796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/拥抱.gif",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/打call.gif",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3656,
+    "comment": 178,
+    "forward": 32
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

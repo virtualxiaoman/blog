@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "id": "1169559619513614337",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169559619513614337",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月15日",
+    "pub_ts": 1771147719,
+    "location": ""
+  },
+  "topic": {
+    "id": 1332663,
+    "name": "B站春节兴趣房间阵容官宣",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1332663&topic_name=B%E7%AB%99%E6%98%A5%E8%8A%82%E5%85%B4%E8%B6%A3%E6%88%BF%E9%97%B4%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "天依来啦～今晚的特别直播内容是！[乐鸣东方动态表情包_高雅]\n和5位producer老师的特别访谈，还有回答一些大家问天依的问题，以及大家投递给天依的特别回忆也会伴着2025年创作老师们的优秀作品一起，在今晚的直播间进行特别展示哦！[乐鸣东方动态表情包_赞]\n天依当然也准备了红包礼物送给大家，谢谢大家的到来和陪伴～[逆转童话动态_结婚]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来啦～今晚的特别直播内容是！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_高雅]",
+        "package_id": "9343",
+        "emoji_id": "131156",
+        "name": "高雅",
+        "url": "https://i0.hdslb.com/bfs/garb/d4dfa6698a9b2eb01230dc06bb8cf3eb3dbae1f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n和5位producer老师的特别访谈，还有回答一些大家问天依的问题，以及大家投递给天依的特别回忆也会伴着2025年创作老师们的优秀作品一起，在今晚的直播间进行特别展示哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_赞]",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/01f5d64a43174985ab9c14b9859cb670656ffea6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依当然也准备了红包礼物送给大家，谢谢大家的到来和陪伴～"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-15_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b506eb388b7acb306d42bd619c3b437536081646.png",
+        "width": 1080,
+        "height": 1843,
+        "size_kb": 2225.52001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/高雅.gif",
+        "package_id": "9343",
+        "emoji_id": "131156",
+        "text": "[乐鸣东方动态表情包_高雅]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/赞.gif",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "text": "[乐鸣东方动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依的朋友聊天局",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依的朋友聊天局",
+        "desc1": {
+          "text": "02-15 18:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "11.2万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5380251,
+        "reserve_total": 111508,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4138,
+    "comment": 188,
+    "forward": 31
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

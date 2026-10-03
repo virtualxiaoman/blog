@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1241465453063176201",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1241465453063176201",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月28日",
+    "pub_ts": 1787889600,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "大家午好呀，【洛天依×QQ音乐】限定装扮惊喜上新啦！[洛天依·信号动态表情包_赞]\n\n🛜 洛天依十四周年主题「心灵信号员」\n🎤洛天依2026巡演主题「无限共鸣·纯蓝幻乐」 \n\n十四年逐光，赴一场专属我们的纯蓝之约\n把天依的歌声都装进你的听歌界面吧~ [洛天依14周年·纯蓝幻乐 动态表情包_展示]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家午好呀，【洛天依×QQ音乐】限定装扮惊喜上新啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🛜 洛天依十四周年主题「心灵信号员」\n🎤洛天依2026巡演主题「无限共鸣·纯蓝幻乐」 \n\n十四年逐光，赴一场专属我们的纯蓝之约\n把天依的歌声都装进你的听歌界面吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/2a0de49c1ca305d19eaff614d79da7d9f2bd611a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-28_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c3ba9db83efb454b710083caf0c1513936081646.jpg",
+        "width": 1080,
+        "height": 805,
+        "size_kb": 597.3583984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a19075a85c55fc47997d4c6d1001246336081646.jpg",
+        "width": 1080,
+        "height": 805,
+        "size_kb": 613.7919921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/展示.gif",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4877,
+    "comment": 227,
+    "forward": 47
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

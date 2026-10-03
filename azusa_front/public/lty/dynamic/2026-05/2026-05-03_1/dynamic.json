@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "1198150379305435156",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1198150379305435156",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月3日",
+    "pub_ts": 1777804524,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "红伞伞，白杆杆，吃完变成……\n假期已经过半，大家有没有吃好吃哒，去到处玩呀？[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "红伞伞，白杆杆，吃完变成……\n假期已经过半，大家有没有吃好吃哒，去到处玩呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "红伞伞，白杆杆，吃完变成……",
+      "desc": "红伞伞，白杆杆，吃完变成……\n假期已经过半，大家有没有吃好吃哒，去到处玩呀？",
+      "jump_url": "https://www.bilibili.com/video/BV12h9fByE5Y",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/502a19bda20f70174bfb6dbf50766576c463e088.jpg",
+      "cover_file": "../../_assets/covers/2026-05-03_1.jpg",
+      "bvid": "BV12h9fByE5Y",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12h9fByE5Y",
+        "aid": "116510181885827",
+        "cover": "http://i2.hdslb.com/bfs/archive/502a19bda20f70174bfb6dbf50766576c463e088.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12h9fByE5Y",
+        "stat": {
+          "danmaku": "136",
+          "play": "10.3万",
+          "vt": ""
+        },
+        "duration_text": "00:14",
+        "title": "红伞伞，白杆杆，吃完变成……",
+        "desc": "红伞伞，白杆杆，吃完变成……\n假期已经过半，大家有没有吃好吃哒，去到处玩呀？",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 27117,
+    "comment": 1226,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

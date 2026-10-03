@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "180986846658853989",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/180986846658853989",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年10月31日",
+    "pub_ts": 1540977684,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#V家日常# #洛天依# ฅ(๑>o<๑)ฅ嗷~Trick or treat！不给糖就捣蛋！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#V家日常#",
+        "url": "https://search.bilibili.com/all?keyword=V%E5%AE%B6%E6%97%A5%E5%B8%B8"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " ฅ(๑>o<๑)ฅ嗷~Trick or treat！不给糖就捣蛋！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2018-10-31_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d86548561e8ff5a0586ecf38d5572c76e0192d16.jpg",
+        "width": 2406,
+        "height": 3960,
+        "size_kb": 6039.4365234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7940,
+    "comment": 750,
+    "forward": 81
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

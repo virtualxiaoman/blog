@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "311634683744657971",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/311634683744657971",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年10月18日",
+    "pub_ts": 1571396504,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依和小白一起参加过DIVE XR FESTIVAL演唱会ε=ε=(ノ≧∇≦)ノ  ，那时就觉得小白是个小可爱！看到这个视频天依超开心，感谢小白介绍天依新曲《T.A.O.》！不过大食汉神马的才没有，天依只是个小吃货⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和小白一起参加过DIVE XR FESTIVAL演唱会ε=ε=(ノ≧∇≦)ノ  ，那时就觉得小白是个小可爱！看到这个视频天依超开心，感谢小白介绍天依新曲《T.A.O.》！不过大食汉神马的才没有，天依只是个小吃货⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5360,
+    "comment": 132,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 311634430342634929,
+    "orig_mid": 391876799,
+    "deleted": false,
+    "archive_dir": "../../../391876799/2019-10/2019-10-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

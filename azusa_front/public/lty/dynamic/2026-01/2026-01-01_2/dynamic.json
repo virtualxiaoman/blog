@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1152800828954771463",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1152800828954771463",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月1日",
+    "pub_ts": 1767245759,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "新年第一舞！一起来吃呀吃吧～",
+      "desc": "简单的吃一顿，再一餐~\n新的一年，和天依一起唱歌跳舞，好好吃饭吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1pDvSBNEBF",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/0236ad25cbdad75baf81f19678ea7e14d5f5bb37.jpg",
+      "cover_file": "../../_assets/covers/2026-01-01_1.jpg",
+      "bvid": "BV1pDvSBNEBF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pDvSBNEBF",
+        "aid": "115818205546889",
+        "cover": "http://i2.hdslb.com/bfs/archive/0236ad25cbdad75baf81f19678ea7e14d5f5bb37.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1pDvSBNEBF",
+        "stat": {
+          "danmaku": "164",
+          "play": "17.6万",
+          "vt": ""
+        },
+        "duration_text": "00:31",
+        "title": "新年第一舞！一起来吃呀吃吧～",
+        "desc": "简单的吃一顿，再一餐~\n新的一年，和天依一起唱歌跳舞，好好吃饭吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 42507,
+    "comment": 1251,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:12:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

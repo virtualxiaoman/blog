@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "337503263178205825",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/337503263178205825",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月27日",
+    "pub_ts": 1577419502,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@柬埔寨土著王 @女神大人阿库娅 @锦依夜行ゞ 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@柬埔寨土著王",
+        "mid": 385415572,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@女神大人阿库娅",
+        "mid": 10545607,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@锦依夜行ゞ",
+        "mid": 219484806,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3875,
+    "comment": 96,
+    "forward": 3
+  },
+  "forward": {
+    "orig_id": 336759830106284029,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2019-12-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "952778932046790672",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/952778932046790672",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月11日",
+    "pub_ts": 1720674532,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依的十二周年生日收藏集卡池———心律共鸣即将开启，小伙伴们可以戳预约了解详情哦！[Vsinger_给大佬递茶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的十二周年生日收藏集卡池———心律共鸣即将开启，小伙伴们可以戳预约了解详情哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4370,
+    "comment": 193,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 952761185239826487,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-07/2024-07-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:16:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

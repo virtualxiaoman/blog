@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "1147187070488281105",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1147187070488281105",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月17日",
+    "pub_ts": 1765938704,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#25B站跨年晚会阵容#\n👉🏻👆🏻👇🏻👈🏻——正在练习跨晚宇宙指挥动作，召唤更多快乐8(╭￣3￣)╭♡\n这场#2025B站跨年晚会#一起快乐升级！\n12月31日19:30，和天依一起指挥2025最美的夜～#2025最美的夜跨年晚会#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#25B站跨年晚会阵容#",
+        "url": "https://search.bilibili.com/all?keyword=25B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E9%98%B5%E5%AE%B9"
+      },
+      {
+        "type": "text",
+        "text": "\n👉🏻👆🏻👇🏻👈🏻——正在练习跨晚宇宙指挥动作，召唤更多快乐8(╭￣3￣)╭♡\n这场"
+      },
+      {
+        "type": "topic",
+        "text": "#2025B站跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2025B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "一起快乐升级！\n12月31日19:30，和天依一起指挥2025最美的夜～"
+      },
+      {
+        "type": "topic",
+        "text": "#2025最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "12月31日19:30，和天依一起指挥2025最美的夜～",
+      "desc": "#25B站跨年晚会阵容#\n👉🏻👆🏻👇🏻👈🏻——正在练习跨晚宇宙指挥动作，召唤更多快乐8(╭￣3￣)╭♡\n这场#2025B站跨年晚会#一起快乐升级！\n12月31日19:30，和天依一起指挥2025最美的夜～#2025最美的夜跨年晚会#",
+      "jump_url": "https://www.bilibili.com/video/BV1e9qgB2EYs",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c28b073e9afc506f18ef753f8fad9063dd058fe9.jpg",
+      "cover_file": "../../_assets/covers/2025-12-17_1.jpg",
+      "bvid": "BV1e9qgB2EYs",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1e9qgB2EYs",
+        "aid": "115732541081055",
+        "cover": "http://i2.hdslb.com/bfs/archive/c28b073e9afc506f18ef753f8fad9063dd058fe9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1e9qgB2EYs",
+        "stat": {
+          "danmaku": "219",
+          "play": "9.4万",
+          "vt": ""
+        },
+        "duration_text": "00:36",
+        "title": "12月31日19:30，和天依一起指挥2025最美的夜～",
+        "desc": "#25B站跨年晚会阵容#\n👉🏻👆🏻👇🏻👈🏻——正在练习跨晚宇宙指挥动作，召唤更多快乐8(╭￣3￣)╭♡\n这场#2025B站跨年晚会#一起快乐升级！\n12月31日19:30，和天依一起指挥2025最美的夜～#2025最美的夜跨年晚会#",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24740,
+    "comment": 1036,
+    "forward": 148
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

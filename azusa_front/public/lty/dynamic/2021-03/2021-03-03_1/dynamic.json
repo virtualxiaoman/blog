@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "497886846775714575",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/497886846775714575",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月3日",
+    "pub_ts": 1614761715,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "最闪亮的舞台给最自信的人！敬请期待天依在vivo S9系列发布会晚会的表演哦，今晚19:30，我们一起去追光吧@vivo  网页链接 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最闪亮的舞台给最自信的人！敬请期待天依在vivo S9系列发布会晚会的表演哦，今晚19:30，我们一起去追光吧"
+      },
+      {
+        "type": "mention",
+        "text": "@vivo ",
+        "mid": 352063206,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/13826006"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-03-03_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2e5c37ae6f8676f506bc6d1b9298559b8999e10b.png",
+        "width": 728,
+        "height": 1418,
+        "size_kb": 657.041015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8377,
+    "comment": 723,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "1166192674442575877",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1166192674442575877",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月6日",
+    "pub_ts": 1770363791,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 转发关注天依，揪1位小伙伴送出【洛天依随机实物周边】1份！\n🎶唐音新绎，洛韵鼓鸣\n又到一年新春季，天依和支付宝的联名动态主题套装如约而至～[乐鸣东方动态表情包_支持]\n邀你共赏东方乐韵，指尖触碰千年回响\n\n🎵两套动态主题皮肤套装\n清音雅韵\n长安鼓乐\n\n🎵套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n天依抚琴，福赠知音，预祝大家新年健康，马上有财，幸福加马！\n快打开支付宝搜索“洛天依皮肤”，让天依陪伴你开启新一年吧~ [乐鸣东方动态表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "398523",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注天依，揪1位小伙伴送出【洛天依随机实物周边】1份！\n🎶唐音新绎，洛韵鼓鸣\n又到一年新春季，天依和支付宝的联名动态主题套装如约而至～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n邀你共赏东方乐韵，指尖触碰千年回响\n\n🎵两套动态主题皮肤套装\n清音雅韵\n长安鼓乐\n\n🎵套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n天依抚琴，福赠知音，预祝大家新年健康，马上有财，幸福加马！\n快打开支付宝搜索“洛天依皮肤”，让天依陪伴你开启新一年吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d8e0b2b4eedfaec3399c36eac4da65eb36081646.jpg",
+        "width": 750,
+        "height": 8776,
+        "size_kb": 2102.0341796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "398523"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5604,
+    "comment": 492,
+    "forward": 5972
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

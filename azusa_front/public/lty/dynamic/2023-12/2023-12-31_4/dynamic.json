@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "881252432184606727",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/881252432184606727",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月31日",
+    "pub_ts": 1704020971,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "节目单终于公布啦！让我们在2023最美的夜，跟着《歌行四方》吟游天地，肆意生长[洛天依歌行四方_扭脖子]，天依今晚大约在22:20左右出场哦！[洛天依歌行四方_咚嚓！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "节目单终于公布啦！让我们在2023最美的夜，跟着《歌行四方》吟游天地，肆意生长"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "，天依今晚大约在22:20左右出场哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3653,
+    "comment": 133,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 881213567033933872,
+    "orig_mid": 489412051,
+    "deleted": false,
+    "archive_dir": "../../../489412051/2023-12/2023-12-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:03:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

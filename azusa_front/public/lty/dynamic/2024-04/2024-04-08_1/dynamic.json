@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "id": "917889890502311937",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/917889890502311937",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月8日",
+    "pub_ts": 1712551294,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 转发关注天依，揪5位小伙伴送出【洛天依印象风应援羽织】1份。\n云雾飘摇的青山绿水间，人们代代传颂着美神的爱情诗篇，\n她的善良、坚韧与勇敢，闪耀如熠熠星河、温暖如千家烛火。\n人们赞扬、歌唱，让她的名讳回响在每一个山谷、每一条溪流，\n因为同样的向往与情感，能够跨越时空，触动每一个热爱生活的灵魂。\n这一次，天依为大家带回的是来自云贵山间的灵动旋律~[洛天依歌行四方_唱山歌]\n\n天依游学记云贵篇单曲《黔歌行》，取材自苗族长篇叙事诗歌《仰阿莎》。编曲在电子风格基础上融合了黔东南地区的民族音乐元素与特色乐器，同时适当加入了充满未来感的电子音色与鼓点，希望能够带给大家耳目一新的感受~[洛天依歌行四方_送你花花]\n歌曲即将在4月11日正式上线！在听歌曲之前，天依要跟大家分享一下歌曲的创作概念，以及合作艺术家、参与制作的staff老师们的寄语，请点击图片查看哦！ [洛天依歌行四方_玩水]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "290930",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注天依，揪5位小伙伴送出【洛天依印象风应援羽织】1份。\n云雾飘摇的青山绿水间，人们代代传颂着美神的爱情诗篇，\n她的善良、坚韧与勇敢，闪耀如熠熠星河、温暖如千家烛火。\n人们赞扬、歌唱，让她的名讳回响在每一个山谷、每一条溪流，\n因为同样的向往与情感，能够跨越时空，触动每一个热爱生活的灵魂。\n这一次，天依为大家带回的是来自云贵山间的灵动旋律~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_唱山歌]",
+        "package_id": "4128",
+        "emoji_id": "58593",
+        "name": "唱山歌",
+        "url": "https://i0.hdslb.com/bfs/emote/f20b7ffbb7e90c27f41ca99d85b3bfb3b8b4c7db.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n天依游学记云贵篇单曲《黔歌行》，取材自苗族长篇叙事诗歌《仰阿莎》。编曲在电子风格基础上融合了黔东南地区的民族音乐元素与特色乐器，同时适当加入了充满未来感的电子音色与鼓点，希望能够带给大家耳目一新的感受~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n歌曲即将在4月11日正式上线！在听歌曲之前，天依要跟大家分享一下歌曲的创作概念，以及合作艺术家、参与制作的staff老师们的寄语，请点击图片查看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_玩水]",
+        "package_id": "4128",
+        "emoji_id": "58607",
+        "name": "玩水",
+        "url": "https://i0.hdslb.com/bfs/emote/1770d7c61c86170f5bc7ce9ffa7493b3f14bbc9b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/15487975d2eba2cf3c1fe20da79505e536081646.png",
+        "width": 1080,
+        "height": 4414,
+        "size_kb": 4918.2373046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-08_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9d248c38a7bfbf3e30e7fe05507d72c236081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1652.66796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-08_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/818c0772409f93c59035871e632bfe4836081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1432.6416015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-04-08_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b66934f92bb8ccbc0dcbc81686552bdc36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1432.5283203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-04-08_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/50b881751b631a585b2c38e8f3c8c9de36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1360.2978515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-04-08_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/858029e0ecefd8867b6df5eb927a17c236081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1405.6796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-04-08_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1f283e0cd777b4e78274723df9b170a436081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1434.3681640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-04-08_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/959fa631759e72c969b72008d28ce25836081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1432.28125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/唱山歌.png",
+        "package_id": "4128",
+        "emoji_id": "58593",
+        "text": "[洛天依歌行四方_唱山歌]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/玩水.png",
+        "package_id": "4128",
+        "emoji_id": "58607",
+        "text": "[洛天依歌行四方_玩水]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "290930"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7378,
+    "comment": 1450,
+    "forward": 6956
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

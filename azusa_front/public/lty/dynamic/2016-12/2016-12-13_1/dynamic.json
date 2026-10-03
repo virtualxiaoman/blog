@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "12880323454026772",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/12880323454026772",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2016年12月13日",
+    "pub_ts": 1481622549,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天矢禾念2016发布会洛天依&Vsinger表演部分【官方版】",
+      "desc": "2016年12月8日，天矢禾念召开了主题为“穿越星河的旋律”品牌战略发布会。正式宣布了Vsinger首场万人全息演唱会定档于2017年6月17日。发布会现场，洛天依等Vsinger歌手一起进行了精彩演出，曲目如下：\n\n权御天下||曲编：乌龟｜词：ST｜调教：挨批熊\n普通Disco||词曲、调教：ilem／人形兎\n追光使者||词：易家扬｜曲：林迈可｜调教：动点P\n\n12月16日，演唱会限量500张SVIP预售票（含特典）开启预售，具体信息关注“上海禾念”官方淘宝店铺和新浪微博@Vsinger。",
+      "jump_url": "https://www.bilibili.com/video/BV1ss411e7bM",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/8ac9e8d43b0da2e6556bb92858777af1aee5f4c6.jpg",
+      "cover_file": "../../_assets/covers/2016-12-13_1.jpg",
+      "bvid": "BV1ss411e7bM",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ss411e7bM",
+        "aid": "7511987",
+        "cover": "http://i2.hdslb.com/bfs/archive/8ac9e8d43b0da2e6556bb92858777af1aee5f4c6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ss411e7bM",
+        "stat": {
+          "danmaku": "6887",
+          "play": "18.7万",
+          "vt": ""
+        },
+        "duration_text": "12:45",
+        "title": "天矢禾念2016发布会洛天依&Vsinger表演部分【官方版】",
+        "desc": "2016年12月8日，天矢禾念召开了主题为“穿越星河的旋律”品牌战略发布会。正式宣布了Vsinger首场万人全息演唱会定档于2017年6月17日。发布会现场，洛天依等Vsinger歌手一起进行了精彩演出，曲目如下：\n\n权御天下||曲编：乌龟｜词：ST｜调教：挨批熊\n普通Disco||词曲、调教：ilem／人形兎\n追光使者||词：易家扬｜曲：林迈可｜调教：动点P\n\n12月16日，演唱会限量500张SVIP预售票（含特典）开启预售，具体信息关注“上海禾念”官方淘宝店铺和新浪微博@Vsinger。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4226,
+    "comment": 3397,
+    "forward": 6
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

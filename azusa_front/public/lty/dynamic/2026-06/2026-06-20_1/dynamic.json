@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "1215845163547492359",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1215845163547492359",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月20日",
+    "pub_ts": 1781924412,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【时光代理人】全新专辑《Dream out!》收录曲「A Web of Lies」MV公开",
+      "desc": "#时光代理人＃ 全新专辑《Dream out!》收录曲「A Web of Lies」MV公开：在意识的迷宫中错乱，悄然坠入混乱时空。\n那笑声隐藏着的泣音，究竟是猎人还是猎物？\n演唱/Singer：@洛天依  \n作词/Lyricist：@JUSF周存  \n作曲/Composer：JUSF周存\n编曲/Arranger：JUSF周存\n#时光代理人音乐企划# #时光代理人LIVE2026#",
+      "jump_url": "https://www.bilibili.com/video/BV1vdjk6XEwF",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/14a829aa46c53d3550b9ad26a141a3dbf79bca6e.jpg",
+      "cover_file": "../../_assets/covers/2026-06-20_1.jpg",
+      "bvid": "BV1vdjk6XEwF",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1vdjk6XEwF",
+        "aid": "116779892412527",
+        "cover": "http://i0.hdslb.com/bfs/archive/14a829aa46c53d3550b9ad26a141a3dbf79bca6e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1vdjk6XEwF",
+        "stat": {
+          "danmaku": "1743",
+          "play": "86.1万",
+          "vt": ""
+        },
+        "duration_text": "03:02",
+        "title": "【时光代理人】全新专辑《Dream out!》收录曲「A Web of Lies」MV公开",
+        "desc": "#时光代理人＃ 全新专辑《Dream out!》收录曲「A Web of Lies」MV公开：在意识的迷宫中错乱，悄然坠入混乱时空。\n那笑声隐藏着的泣音，究竟是猎人还是猎物？\n演唱/Singer：@洛天依  \n作词/Lyricist：@JUSF周存  \n作曲/Composer：JUSF周存\n编曲/Arranger：JUSF周存\n#时光代理人音乐企划# #时光代理人LIVE2026#",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "时光代理人 英都篇",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss48143",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/c3566191a329529014cbcc1cb141ba24b2baf366.jpg",
+      "cover_file": "../../_assets/covers/2026-06-20_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss48143",
+        "id_str": "116779892412527",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/c3566191a329529014cbcc1cb141ba24b2baf366.jpg",
+        "style": 2,
+        "title": "时光代理人 英都篇",
+        "desc1": "bilibili出品 已完结, 全6话",
+        "desc2": "1170.5万系列追番"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 52156,
+    "comment": 1335,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:25:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

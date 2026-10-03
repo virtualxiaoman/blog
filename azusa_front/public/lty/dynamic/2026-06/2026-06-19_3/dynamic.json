@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1215584532046020626",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1215584532046020626",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月19日",
+    "pub_ts": 1781863729,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有抢先购的小伙伴抢到票了嘛？距离19点杭州站正式开票倒计时不到一小时啦，期待和大家相见～[洛天依拜年纪表情包_喜欢]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有抢先购的小伙伴抢到票了嘛？距离19点杭州站正式开票倒计时不到一小时啦，期待和大家相见～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_喜欢]",
+        "package_id": "9452",
+        "emoji_id": "132905",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/52d0f99fda9b5251e6f38394623e398e77f3266a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9452/喜欢.png",
+        "package_id": "9452",
+        "emoji_id": "132905",
+        "text": "[洛天依拜年纪表情包_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4558,
+    "comment": 275,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 1214036582879723545,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-06-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:25:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

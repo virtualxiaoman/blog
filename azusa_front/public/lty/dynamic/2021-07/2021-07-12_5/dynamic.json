@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "546569811450193952",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/546569811450193952",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月12日",
+    "pub_ts": 1626096601,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@剑皇曲正风 @_清岑_ @倾听丶这一刻 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@剑皇曲正风",
+        "mid": 487248301,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@_清岑_",
+        "mid": 433302605,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@倾听丶这一刻",
+        "mid": 367949279,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6946,
+    "comment": 510,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 545705191580038995,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2021-07-10_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:32:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

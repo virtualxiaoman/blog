@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "600354802133850842",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/600354802133850842",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月4日",
+    "pub_ts": 1638619395,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#以词牌名入曲，好棒呀！[洛天依9th_资词]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "以词牌名入曲，好棒呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_资词]",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "name": "资词",
+        "url": "http://i0.hdslb.com/bfs/emote/f46f666f5403762facecf11bc465fb965de8b48a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/资词.png",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "text": "[洛天依9th_资词]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6013,
+    "comment": 75,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 599580969280991614,
+    "orig_mid": 295217597,
+    "deleted": false,
+    "archive_dir": "../../../295217597/2021-12/2021-12-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:39:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

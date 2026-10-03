@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "1213641656323014659",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1213641656323014659",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月14日",
+    "pub_ts": 1781411368,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n心灵信号员小洛准备就绪！[洛天依八音奇响动态_可爱]\n在蔚蓝的天空下，伴随歌声与礼花跳跃高歌\n这份期待的心情，希望可以透过这样欢乐的画面，传递给大家\n7月12日，准备好跟随天依，前往北京环球度假区 ，开启我们的十四周年庆典吧！[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n心灵信号员小洛准备就绪！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n在蔚蓝的天空下，伴随歌声与礼花跳跃高歌\n这份期待的心情，希望可以透过这样欢乐的画面，传递给大家\n7月12日，准备好跟随天依，前往北京环球度假区 ，开启我们的十四周年庆典吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "7月12日，准备好跟随天依，前往北京环球度假区 ，开启我们的十四周年庆典吧！",
+      "desc": "心灵信号员小洛准备就绪！\n在蔚蓝的天空下，伴随歌声与礼花跳跃高歌\n这份期待的心情，希望可以透过这样欢乐的画面，传递给大家\n7月12日，准备好跟随天依，前往北京环球度假区 ，开启我们的十四周年庆典吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1mdJF6YEt2",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/acd56a8209819042cbf4f76dbfba46efc5a85818.png",
+      "cover_file": "../../_assets/covers/2026-06-14_1.png",
+      "bvid": "BV1mdJF6YEt2",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1mdJF6YEt2",
+        "aid": "116746556016568",
+        "cover": "http://i0.hdslb.com/bfs/archive/acd56a8209819042cbf4f76dbfba46efc5a85818.png",
+        "jump_url": "//www.bilibili.com/video/BV1mdJF6YEt2",
+        "stat": {
+          "danmaku": "49",
+          "play": "3.3万",
+          "vt": ""
+        },
+        "duration_text": "00:13",
+        "title": "7月12日，准备好跟随天依，前往北京环球度假区 ，开启我们的十四周年庆典吧！",
+        "desc": "心灵信号员小洛准备就绪！\n在蔚蓝的天空下，伴随歌声与礼花跳跃高歌\n这份期待的心情，希望可以透过这样欢乐的画面，传递给大家\n7月12日，准备好跟随天依，前往北京环球度假区 ，开启我们的十四周年庆典吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11386,
+    "comment": 768,
+    "forward": 84
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:24:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

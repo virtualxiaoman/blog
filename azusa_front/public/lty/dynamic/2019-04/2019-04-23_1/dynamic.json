@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "245612751410512895",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/245612751410512895",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月23日",
+    "pub_ts": 1556024575,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依与吉列合作的剃须舞MV清凉来袭啦！轻快的旋律搭配元气满满的歌词，你是不是也感受到了一整天的元气呢？ 在吉列的锋芒刀片和天依的细心陪伴下，尽显你帅气的容颜。开启美好的一天。 快来和天依一起感受一场全新的剃须体验，让这份好心情能持续一整天！ 现在点链接https://pro.m.jd.com/mall/active/BhUqoZHJwChqh97PwJaPZDU9cYc/index.html 或在京东搜索“吉列洛天依“，还能get专属礼盒哦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依与吉列合作的剃须舞MV清凉来袭啦！轻快的旋律搭配元气满满的歌词，你是不是也感受到了一整天的元气呢？ 在吉列的锋芒刀片和天依的细心陪伴下，尽显你帅气的容颜。开启美好的一天。 快来和天依一起感受一场全新的剃须体验，让这份好心情能持续一整天！ 现在点链接https://pro.m.jd.com/mall/active/BhUqoZHJwChqh97PwJaPZDU9cYc/index.html 或在京东搜索“吉列洛天依“，还能get专属礼盒哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-04-23_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/44c68e19f3dd782ee7a6f59c32db263d30658dd3.jpg",
+        "width": 585,
+        "height": 467,
+        "size_kb": 379.5244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-04-23_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/04138aca9015f4dd90ee3c4bb5e866f3c6e296eb.png",
+        "width": 1080,
+        "height": 1527,
+        "size_kb": 2728.041015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6990,
+    "comment": 978,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

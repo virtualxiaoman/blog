@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "501196935116148951",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/501196935116148951",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月12日",
+    "pub_ts": 1615532405,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 跟天钿一起挑战了喜怒哀乐表情四连拍，我们的同步率好高啊(*'▽'*)♪ 大家来给天依和天钿的默契值打个分吧？ [洛天依·夜航星_起飞]  画师：Haku\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 跟天钿一起挑战了喜怒哀乐表情四连拍，我们的同步率好高啊(*'▽'*)♪ 大家来给天依和天钿的默契值打个分吧？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      },
+      {
+        "type": "text",
+        "text": "  画师：Haku"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-03-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0d192c565694b4b9eb00a8883c81e1d3e8a73b95.jpg",
+        "width": 1020,
+        "height": 1200,
+        "size_kb": 456.921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-03-12_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/56d939928443914a353e21e8a9df46d5dbbef799.jpg",
+        "width": 1020,
+        "height": 1200,
+        "size_kb": 463.6123046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-03-12_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/6122c47a2e56afaa81e7ea390178027852a86034.jpg",
+        "width": 1020,
+        "height": 1200,
+        "size_kb": 499.7578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-03-12_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/11bd740b67fdfb13b85e5adcb2fba75ce5eff77a.jpg",
+        "width": 1020,
+        "height": 1200,
+        "size_kb": 475.9111328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2021-03-12_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f571249f7d52a1fecf15bb38fa72ed228081cf57.jpg",
+        "width": 991,
+        "height": 1600,
+        "size_kb": 679.80859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9213,
+    "comment": 527,
+    "forward": 221
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

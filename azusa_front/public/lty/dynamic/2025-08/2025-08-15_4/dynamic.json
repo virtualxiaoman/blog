@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "1101310793913204744",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1101310793913204744",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月15日",
+    "pub_ts": 1755257301,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·流光协奏」演唱会上海站游园会详细情报来啦！[洛天依动态流光协奏_去看演唱会]\n\n✦游园攻略指南✦\n🎶等身雕塑展示、音游小游戏&VR互动体验、无料交换区等活动区域\n🎶Chinozo「武装乙女」限定周边签售会\n🎶四城特典礼盒公开&「上海·蓝宝石」专属周边礼盒\n\n⭐高亮注意⭐\n游园会实行线上预约入场，参加的小伙伴务必进行场次预约并在对应时间内入场，否则将会无法进入哦！[洛天依动态流光协奏_我要闹了]\n\n详情小伙伴们请戳长图查看[洛天依动态流光协奏_出发喽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」演唱会上海站游园会详细情报来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_去看演唱会]",
+        "package_id": "8399",
+        "emoji_id": "115686",
+        "name": "去看演唱会",
+        "url": "https://i0.hdslb.com/bfs/garb/e82614934e8238828fd2126debd3891e40230293.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✦游园攻略指南✦\n🎶等身雕塑展示、音游小游戏&VR互动体验、无料交换区等活动区域\n🎶Chinozo「武装乙女」限定周边签售会\n🎶四城特典礼盒公开&「上海·蓝宝石」专属周边礼盒\n\n⭐高亮注意⭐\n游园会实行线上预约入场，参加的小伙伴务必进行场次预约并在对应时间内入场，否则将会无法进入哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_我要闹了]",
+        "package_id": "8399",
+        "emoji_id": "115670",
+        "name": "我要闹了",
+        "url": "https://i0.hdslb.com/bfs/garb/728292c0da53023cd23f16521dde220109a1a439.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n详情小伙伴们请戳长图查看"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_出发喽]",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "name": "出发喽",
+        "url": "https://i0.hdslb.com/bfs/garb/0570c6197ee6e9ace3dcc4a0e85663d7bc738785.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-15_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2dba7366d2e975ff1f86ddebe8dbf35f36081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 2026.900390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-15_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7383289ffa4c30ff07c94d6d01c9492d36081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1951.353515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-15_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3c962ea88cf011b96de7fdac076ac2ee36081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1796.0869140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-15_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bf68e68cf3326ea84f15c6e9e439757936081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1535.1484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-15_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4c660b5164545555ebc1f23270b9f75136081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1203.1025390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-15_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ff432288a1741c1360d1904b8fe7feef36081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 939.6015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-08-15_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6fc736011feb0276b6dd41bfd33c781136081646.jpg",
+        "width": 1080,
+        "height": 8486,
+        "size_kb": 4594.8798828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-08-15_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/74ad98fbaf7bbecda9b70a6e2167726a36081646.jpg",
+        "width": 1080,
+        "height": 10943,
+        "size_kb": 6601.9658203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-08-15_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c836634a67cb7e93edd277bf6265aa4e36081646.jpg",
+        "width": 1080,
+        "height": 13049,
+        "size_kb": 7708.91015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/去看演唱会.gif",
+        "package_id": "8399",
+        "emoji_id": "115686",
+        "text": "[洛天依动态流光协奏_去看演唱会]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/我要闹了.gif",
+        "package_id": "8399",
+        "emoji_id": "115670",
+        "text": "[洛天依动态流光协奏_我要闹了]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/出发喽.gif",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "text": "[洛天依动态流光协奏_出发喽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4696,
+    "comment": 406,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

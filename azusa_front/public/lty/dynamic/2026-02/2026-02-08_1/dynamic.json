@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "1166918622678876165",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1166918622678876165",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月8日",
+    "pub_ts": 1770532814,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "天依还有舞台送给大家！[乐鸣东方动态表情包_开心]\n今晚还有冰火歌会哦，来看天依吧~[乐鸣东方动态表情包_求求]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依还有舞台送给大家！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n今晚还有冰火歌会哦，来看天依吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e46db05461a7be32dfe0e9544095447036081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1778.078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：2026冰火盛典新春季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：2026冰火盛典新春季",
+        "desc1": {
+          "text": "02-08 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "25万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone 17 pro max*1份、\"马上有钱\"黄金金钞（1g）*2份、B站随机周边*30份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=5280686&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5280686,
+        "reserve_total": 250313,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5007,
+    "comment": 185,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

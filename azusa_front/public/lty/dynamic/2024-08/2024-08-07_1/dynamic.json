@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "962888318724341785",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/962888318724341785",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月7日",
+    "pub_ts": 1723028307,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，洛天依十二周年生日大航海特别纪念赠礼将于本周内通过私信的形式收集舰长小伙伴们的收件信息， 大家多多留意私信哦！！\n再次非常感谢大家的陪伴和支持~[洛天依蝶变_发射爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，洛天依十二周年生日大航海特别纪念赠礼将于本周内通过私信的形式收集舰长小伙伴们的收件信息， 大家多多留意私信哦！！\n再次非常感谢大家的陪伴和支持~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7307,
+    "comment": 623,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

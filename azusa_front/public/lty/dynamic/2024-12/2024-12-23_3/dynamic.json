@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1014088117029699589",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1014088117029699589",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月23日",
+    "pub_ts": 1734949189,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "补上600w贺电撒花~[洛天依·戏游九州动态_撒花]大家辛苦啦！！天依将从这条转发里揪3位小伙伴送出【周边小礼物】1份!【点赞达到15w 转发达到2w】后，天依会再揪1位小伙伴送出【洛天依手办】1个哦~[洛天依·戏游九州动态_登场]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "补上600w贺电撒花~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "大家辛苦啦！！天依将从这条转发里揪3位小伙伴送出【周边小礼物】1份!【点赞达到15w 转发达到2w】后，天依会再揪1位小伙伴送出【洛天依手办】1个哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_登场]",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b0e9b1358e9f604183a513a855ee7cbbafcedeaf.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/登场.gif",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "text": "[洛天依·戏游九州动态_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6886,
+    "comment": 2289,
+    "forward": 3940
+  },
+  "forward": {
+    "orig_id": 1012877047916134440,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-12-20_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:22:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

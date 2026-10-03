@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "700505987812950056",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/700505987812950056",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月31日",
+    "pub_ts": 1661937660,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "诶嘿~(。•̀ᴗ-)✧\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "诶嘿~(。•̀ᴗ-)✧"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-31_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8b59c2415d400e40f320ef5919ea4c0836081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 140.205078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-08-31_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/80bfda6128c63e3ba35dd8b8f4c2b8ea36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 118.228515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12416,
+    "comment": 979,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

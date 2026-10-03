@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1089102903398891577",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1089102903398891577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月13日",
+    "pub_ts": 1752414930,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依×阿萨Aza】Warning！胜者的舞台，只能容下《偷猎时间的天才》【BML2025单品】",
+      "desc": "时光代理人BML特别舞台来袭！将秩序抛向天外，心跳敲响节拍，华丽拉开演出帷幕踏上舞台！\n《偷猎时间的天才》\n演唱：洛天依、阿萨Aza\n作词：月色君/许棉花\n作曲：KUSEMONO\n编曲：Shawn Ji/Kusemono/Natspone\n编舞：陈乐一\n制作人：Shawn Ji@DTT\n混音：Danny Wolf\n母带：Danny Wolf\n音乐制作团队：DTT 触底而上",
+      "jump_url": "https://www.bilibili.com/video/BV1RT3RzxEBq",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/ba8bf11cb3aa161f20e15cbbfbfa328dee218d5d.jpg",
+      "cover_file": "../../_assets/covers/2025-07-13_4.jpg",
+      "bvid": "BV1RT3RzxEBq",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1RT3RzxEBq",
+        "aid": "114800818390761",
+        "cover": "http://i1.hdslb.com/bfs/archive/ba8bf11cb3aa161f20e15cbbfbfa328dee218d5d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1RT3RzxEBq",
+        "stat": {
+          "danmaku": "7158",
+          "play": "139.6万",
+          "vt": ""
+        },
+        "duration_text": "03:53",
+        "title": "【洛天依×阿萨Aza】Warning！胜者的舞台，只能容下《偷猎时间的天才》【BML2025单品】",
+        "desc": "时光代理人BML特别舞台来袭！将秩序抛向天外，心跳敲响节拍，华丽拉开演出帷幕踏上舞台！\n《偷猎时间的天才》\n演唱：洛天依、阿萨Aza\n作词：月色君/许棉花\n作曲：KUSEMONO\n编曲：Shawn Ji/Kusemono/Natspone\n编舞：陈乐一\n制作人：Shawn Ji@DTT\n混音：Danny Wolf\n母带：Danny Wolf\n音乐制作团队：DTT 触底而上",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 54744,
+    "comment": 1491,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

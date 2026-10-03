@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1204813922257862657",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1204813922257862657",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月21日",
+    "pub_ts": 1779356001,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“谢谢你，我爱你。”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“谢谢你，我爱你。”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“还有我 在你身边说我爱你啊”洛天依《蝴蝶》【原创手书PV】",
+      "desc": "世界的考验很难很难，但没关系\n我看见你的灿烂，我感受到你的光芒\n就算无法让大雨停下，我会陪你在雨里放肆奔跑\n就算无法被世界回答，我会在你身边对你一遍遍说\n“谢谢你，我爱你。”\n\n《蝴蝶》\n作词 ：温莨\n作曲 /编曲：瞿子千\n调声 ：哈士奇P\n曲绘：万点水\n出演：你&洛天依",
+      "jump_url": "https://www.bilibili.com/video/BV1c2Lb6bEmq",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/8b51c7f43b5626b87410e8830bbf78e2f529beb5.jpg",
+      "cover_file": "../../_assets/covers/2026-05-21_1.jpg",
+      "bvid": "BV1c2Lb6bEmq",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1c2Lb6bEmq",
+        "aid": "116611851815551",
+        "cover": "http://i0.hdslb.com/bfs/archive/8b51c7f43b5626b87410e8830bbf78e2f529beb5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1c2Lb6bEmq",
+        "stat": {
+          "danmaku": "5276",
+          "play": "102.5万",
+          "vt": ""
+        },
+        "duration_text": "03:36",
+        "title": "“还有我 在你身边说我爱你啊”洛天依《蝴蝶》【原创手书PV】",
+        "desc": "世界的考验很难很难，但没关系\n我看见你的灿烂，我感受到你的光芒\n就算无法让大雨停下，我会陪你在雨里放肆奔跑\n就算无法被世界回答，我会在你身边对你一遍遍说\n“谢谢你，我爱你。”\n\n《蝴蝶》\n作词 ：温莨\n作曲 /编曲：瞿子千\n调声 ：哈士奇P\n曲绘：万点水\n出演：你&洛天依",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 105301,
+    "comment": 6745,
+    "forward": 1239
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

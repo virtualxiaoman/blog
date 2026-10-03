@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "987024192339705860",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/987024192339705860",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月11日",
+    "pub_ts": 1728647878,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "谢谢大家！在下一个舞台再见吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢大家！在下一个舞台再见吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2024洛天依歌行宇宙·无限共鸣全息演唱会「精彩集锦」",
+      "desc": "即使只是片刻相聚，因为热爱就足够幸福\n从诞生伊始到岁月尽头，永永远远，为了你，唱下去\n“谢谢大家！在下一个舞台再见吧~！”\n✦演唱会完整回放：https://www.bilibili.com/video/BV1Yq2LYdExC",
+      "jump_url": "https://www.bilibili.com/video/BV1UT2SY5Evr",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/cd7fcdfa97067402736659ec73ea89e2ef282ebf.jpg",
+      "cover_file": "../../_assets/covers/2024-10-11_2.jpg",
+      "bvid": "BV1UT2SY5Evr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1UT2SY5Evr",
+        "aid": "113288654358659",
+        "cover": "http://i2.hdslb.com/bfs/archive/cd7fcdfa97067402736659ec73ea89e2ef282ebf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1UT2SY5Evr",
+        "stat": {
+          "danmaku": "116",
+          "play": "28.6万",
+          "vt": ""
+        },
+        "duration_text": "01:10",
+        "title": "2024洛天依歌行宇宙·无限共鸣全息演唱会「精彩集锦」",
+        "desc": "即使只是片刻相聚，因为热爱就足够幸福\n从诞生伊始到岁月尽头，永永远远，为了你，唱下去\n“谢谢大家！在下一个舞台再见吧~！”\n✦演唱会完整回放：https://www.bilibili.com/video/BV1Yq2LYdExC",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20685,
+    "comment": 777,
+    "forward": 67
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

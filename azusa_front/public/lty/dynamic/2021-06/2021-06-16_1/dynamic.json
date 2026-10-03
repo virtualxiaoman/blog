@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "536839893746437040",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/536839893746437040",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月16日",
+    "pub_ts": 1623831178,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  找一个阳光灿烂的好天气，去摘草莓啦~ 等等，这里的草莓好像有点大[洛天依·夜航星_饿了]  想将草莓的酸甜融入初夏的芬芳一起送给你~ 草莓园系列周边将在#BW2021#上限量首发，BW上还会有更多新惊喜哦，请大家期待！[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  找一个阳光灿烂的好天气，去摘草莓啦~ 等等，这里的草莓好像有点大"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_饿了]",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "name": "饿了",
+        "url": "http://i0.hdslb.com/bfs/emote/5455abac01a22978b20ec0b365c214a872a0fd14.png"
+      },
+      {
+        "type": "text",
+        "text": "  想将草莓的酸甜融入初夏的芬芳一起送给你~ 草莓园系列周边将在"
+      },
+      {
+        "type": "topic",
+        "text": "#BW2021#",
+        "url": "https://search.bilibili.com/all?keyword=BW2021"
+      },
+      {
+        "type": "text",
+        "text": "上限量首发，BW上还会有更多新惊喜哦，请大家期待！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-16_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/6f6b9e5b6d4d7c890367998b3148c156b58bfee3.jpg",
+        "width": 3969,
+        "height": 2662,
+        "size_kb": 3172.8740234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/饿了.png",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "text": "[洛天依·夜航星_饿了]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10716,
+    "comment": 451,
+    "forward": 185
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

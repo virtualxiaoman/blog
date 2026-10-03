@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "602862311410389260",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/602862311410389260",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月11日",
+    "pub_ts": 1639203220,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 我们的生贺曲出专辑啦！每一首歌曲，都想要给予大家勇敢追逐梦想与自我的力量，也铭刻着每一段我们共同度过的美好回忆，感谢大家又一年的陪伴！[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 我们的生贺曲出专辑啦！每一首歌曲，都想要给予大家勇敢追逐梦想与自我的力量，也铭刻着每一段我们共同度过的美好回忆，感谢大家又一年的陪伴！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5859,
+    "comment": 126,
+    "forward": 69
+  },
+  "forward": {
+    "orig_id": 602797234068534486,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-12/2021-12-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:39:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

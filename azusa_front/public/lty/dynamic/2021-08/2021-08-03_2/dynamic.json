@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "554687806448761238",
+  "type": "DYNAMIC_TYPE_ARTICLE",
+  "kind": "article",
+  "url": "https://www.bilibili.com/opus/554687806448761238",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月3日",
+    "pub_ts": 1627986719,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "【天依合集】洛天依九周年梦幻歌单安利",
+    "text": " [图片] illustrator：TID ·SUMMER INSECTS·    我们都在寻找着内心的灯火 奋不顾身想要亲尝梦想的热度 现在让我们一起来看看 在网页链接生日征集活动中 有哪些新生的光源 [图片] 《掌心中的命运》 聚集星芒，向命运的彼端伸手 就算遥不可及，也要将它握在掌心 要成为什么样的人，由我自己决定 [链接] 《纯蓝》 何其有幸，能成为你挚爱的纯蓝 让你的音符与颜料成为我的全部 一遍又一遍唱着永不停歇的旋律 [链接] 《无题》 把未能以语言表达的情感 用别样方式倾倒、描绘 织造成献给创作与热爱的歌 [链接] 《到你身边》 无论相距多远 我都有办法到你身边 因为歌声不存在边界 [链接] 《叶子》 随风而去的叶子不是被迫流浪 它们乘风飞翔 去往远方 在停驻之前尽情观览世界 [链接] 《纪念》重制版 如何纪念  如何想念 答案不言自喻 我们都心照不宣 [链接] 《幸好你诞生于世》 最幸运的是能够与你们相遇 让虚拟的声音化为真实的缘 幸好你们诞生于世 [链接] 《热恋舞台》 霓虹灯之下，舞台之上 默契的节奏是否能够领会 其实随性点也可以哦？ [链接] 《所告别的永驻之地》 就算出",
+    "blocks": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "[图片]"
+      },
+      {
+        "type": "text",
+        "text": " illustrator：TID ·SUMMER INSECTS·    我们都在寻找着内心的灯火 奋不顾身想要亲尝梦想的热度 现在让我们一起来看看 在"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/live/activity-GMoVrTE7Uv.html"
+      },
+      {
+        "type": "text",
+        "text": "生日征集活动中 有哪些新生的光源 "
+      },
+      {
+        "type": "text",
+        "text": "[图片]"
+      },
+      {
+        "type": "text",
+        "text": " 《掌心中的命运》 聚集星芒，向命运的彼端伸手 就算遥不可及，也要将它握在掌心 要成为什么样的人，由我自己决定 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《纯蓝》 何其有幸，能成为你挚爱的纯蓝 让你的音符与颜料成为我的全部 一遍又一遍唱着永不停歇的旋律 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《无题》 把未能以语言表达的情感 用别样方式倾倒、描绘 织造成献给创作与热爱的歌 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《到你身边》 无论相距多远 我都有办法到你身边 因为歌声不存在边界 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《叶子》 随风而去的叶子不是被迫流浪 它们乘风飞翔 去往远方 在停驻之前尽情观览世界 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《纪念》重制版 如何纪念  如何想念 答案不言自喻 我们都心照不宣 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《幸好你诞生于世》 最幸运的是能够与你们相遇 让虚拟的声音化为真实的缘 幸好你们诞生于世 "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《热恋舞台》 霓虹灯之下，舞台之上 默契的节奏是否能够领会 其实随性点也可以哦？ "
+      },
+      {
+        "type": "text",
+        "text": "[链接]"
+      },
+      {
+        "type": "text",
+        "text": " 《所告别的永驻之地》 就算出"
+      }
+    ],
+    "truncated": true,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-08-03_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/article/170505181070a3716971a4d0f990b7f8cc8d9185.jpg",
+        "width": 1920,
+        "height": 564,
+        "size_kb": 215.4697265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8434,
+    "comment": 227,
+    "forward": 81
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:33:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

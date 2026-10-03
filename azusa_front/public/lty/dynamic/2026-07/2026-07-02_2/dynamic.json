@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "1220345894133563393",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1220345894133563393",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月2日",
+    "pub_ts": 1782972320,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·成都站\n将于7月4日19:00正式开启售票，「成都·生灵」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~[逆转童话动态_缘分]\n\n🦋购票方式\n✧ 会员购 网页链接 \n✧ 大麦 \n\n🦋演出时间&场地\n8月1日 19:12 成都·金融城演艺中心\n\n🎶巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n纯蓝魔女化作生灵间的蝴蝶，飞入万物有灵的沃土\n她带着无尽的爱意翩跹，每一片蝶翼都在风里写满歌声\n请跟随蝶之灵的呼唤，共同谱写这篇生灵与歌共舞的蓝色乐章吧~[逆转童话动态_结婚]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "416806",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·成都站\n将于7月4日19:00正式开启售票，「成都·生灵」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🦋购票方式\n✧ 会员购 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003172"
+      },
+      {
+        "type": "text",
+        "text": " \n✧ 大麦 \n\n🦋演出时间&场地\n8月1日 19:12 成都·金融城演艺中心\n\n🎶巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n纯蓝魔女化作生灵间的蝴蝶，飞入万物有灵的沃土\n她带着无尽的爱意翩跹，每一片蝶翼都在风里写满歌声\n请跟随蝶之灵的呼唤，共同谱写这篇生灵与歌共舞的蓝色乐章吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-02_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dd461c33b656fe5f7e7f9639db14556736081646.jpg",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 6003.18017578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-02_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f11d6e72b5162ac7f5b9382c57145d0936081646.jpg",
+        "width": 750,
+        "height": 7506,
+        "size_kb": 4019.64990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "成都·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202607/1QXOttg41782964223_1782964223702.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003172&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1220345894133563393",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-02_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "416806"
+  },
+  "vote": null,
+  "stats": {
+    "like": 4485,
+    "comment": 410,
+    "forward": 4382
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:26:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

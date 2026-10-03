@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088704635419492425",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088704635419492425",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752322201,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "每颗珍珠都曾是痛过的沙粒 |《珍珠》洛天依十三周年生日会",
+      "desc": "原来这世界最珍贵的宝藏，就是我和你\n\n《珍珠》\n作曲：瞿子千\n作词：温莨\n编曲：瞿子千\n混音：祝非凡@喵米音乐\n调教：哈士奇P",
+      "jump_url": "https://www.bilibili.com/video/BV18XuKzCEnP",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/10c27296202e20732d666d9df6f7f2a7fb5a284d.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_11.jpg",
+      "bvid": "BV18XuKzCEnP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18XuKzCEnP",
+        "aid": "114832342781371",
+        "cover": "http://i0.hdslb.com/bfs/archive/10c27296202e20732d666d9df6f7f2a7fb5a284d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18XuKzCEnP",
+        "stat": {
+          "danmaku": "648",
+          "play": "92.4万",
+          "vt": ""
+        },
+        "duration_text": "03:25",
+        "title": "每颗珍珠都曾是痛过的沙粒 |《珍珠》洛天依十三周年生日会",
+        "desc": "原来这世界最珍贵的宝藏，就是我和你\n\n《珍珠》\n作曲：瞿子千\n作词：温莨\n编曲：瞿子千\n混音：祝非凡@喵米音乐\n调教：哈士奇P",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21173,
+    "comment": 962,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "754199701946892297",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/754199701946892297",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月23日",
+    "pub_ts": 1674439202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@墨尘LanMu@珍贵稀有的小明@Bf-amoory63等10位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@墨尘LanMu",
+        "mid": 119818178,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@珍贵稀有的小明",
+        "mid": 171300126,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@Bf-amoory63",
+        "mid": 325120208,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等10位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7252,
+    "comment": 137,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 753829097812000803,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-01-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

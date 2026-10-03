@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "751042295396040853",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/751042295396040853",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月14日",
+    "pub_ts": 1673704061,
+    "location": ""
+  },
+  "topic": {
+    "id": 187287,
+    "name": "用交响乐打开2023",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=187287&topic_name=%E7%94%A8%E4%BA%A4%E5%93%8D%E4%B9%90%E6%89%93%E5%BC%802023"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【2023欢乐春节音乐会完整版】一场来自民乐与交响乐的精彩碰撞",
+      "desc": "新春序幕开，欢乐入万家。2023春节音乐会，年味这不就来了！关注河南卫视、大象新闻 ，开序，向美好出发！",
+      "jump_url": "https://www.bilibili.com/video/BV1JA411o7fp",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/ccdf6198bff494f19e90f3ba0142e0640a0c1ad7.jpg",
+      "cover_file": "../../_assets/covers/2023-01-14_3.jpg",
+      "bvid": "BV1JA411o7fp",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1JA411o7fp",
+        "aid": "307866031",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/ccdf6198bff494f19e90f3ba0142e0640a0c1ad7.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1JA411o7fp",
+        "stat": {
+          "danmaku": "2543",
+          "play": "36.3万",
+          "vt": ""
+        },
+        "duration_text": "49:01",
+        "title": "【2023欢乐春节音乐会完整版】一场来自民乐与交响乐的精彩碰撞",
+        "desc": "新春序幕开，欢乐入万家。2023春节音乐会，年味这不就来了！关注河南卫视、大象新闻 ，开序，向美好出发！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20788,
+    "comment": 1029,
+    "forward": 22
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

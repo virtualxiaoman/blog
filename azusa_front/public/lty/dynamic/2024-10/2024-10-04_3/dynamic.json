@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "984427850279944246",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/984427850279944246",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月4日",
+    "pub_ts": 1728043370,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "10月5日，静安体育中心，与天依一起，点亮这片无限的蓝色海洋。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "10月5日，静安体育中心，与天依一起，点亮这片无限的蓝色海洋。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "属于洛天依的变装盛宴！演唱会现场准备就绪，和天依一起出发！",
+      "desc": "跨越次元的界限，需要投入多少日夜？营造完美的梦境，需要倾注多少心血？\n从空白开始，一点一滴，为最终的相遇搭建起扶摇而上的阶梯。\n而此刻，一切准备就绪，天依与所有工作人员一起，整装待发，\n等待着，时隔五年后的又一次相遇。\n10月5日，静安体育中心，与天依一起，点亮这片无限的蓝色海洋。",
+      "jump_url": "https://www.bilibili.com/video/BV1Rd4we4EaJ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/e7a25051f0414cdc62e1b37a4c6f2c04007d8bb5.jpg",
+      "cover_file": "../../_assets/covers/2024-10-04_1.jpg",
+      "bvid": "BV1Rd4we4EaJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Rd4we4EaJ",
+        "aid": "113249026576358",
+        "cover": "http://i0.hdslb.com/bfs/archive/e7a25051f0414cdc62e1b37a4c6f2c04007d8bb5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Rd4we4EaJ",
+        "stat": {
+          "danmaku": "101",
+          "play": "14.6万",
+          "vt": ""
+        },
+        "duration_text": "00:52",
+        "title": "属于洛天依的变装盛宴！演唱会现场准备就绪，和天依一起出发！",
+        "desc": "跨越次元的界限，需要投入多少日夜？营造完美的梦境，需要倾注多少心血？\n从空白开始，一点一滴，为最终的相遇搭建起扶摇而上的阶梯。\n而此刻，一切准备就绪，天依与所有工作人员一起，整装待发，\n等待着，时隔五年后的又一次相遇。\n10月5日，静安体育中心，与天依一起，点亮这片无限的蓝色海洋。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19007,
+    "comment": 1073,
+    "forward": 96
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

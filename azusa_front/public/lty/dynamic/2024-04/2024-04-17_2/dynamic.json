@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "921319769764790357",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/921319769764790357",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月17日",
+    "pub_ts": 1713349875,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发此条并关注天依，揪1位小伙伴送出@-TID- 老师的亲签【启世之瞳】鼠标垫1个~[代号洛天依_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发此条并关注天依，揪1位小伙伴送出"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师的亲签【启世之瞳】鼠标垫1个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4521,
+    "comment": 727,
+    "forward": 2315
+  },
+  "forward": {
+    "orig_id": 921318867849969664,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-04-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:10:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

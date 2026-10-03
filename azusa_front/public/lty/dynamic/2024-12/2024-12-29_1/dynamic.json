@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "id": "1016316754076368903",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1016316754076368903",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月29日",
+    "pub_ts": 1735468084,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "@幸运石官方 #洛天依游学记# 歌行·戏曲季 「戏游九州」主题周边来啦~[洛天依·戏游九州动态_好呀]\n\n「洛韵戏梦手绳」\n结合游学记主人设蝴蝶与天依经典元素\n\n“粉墨千年，戏游九州，山海同梦，戏魂重生。”\n——\nbilibili会员购独家首发。\n传送门：网页链接\n\n后续还有更多新品情报，敬请期待[洛天依·戏游九州动态_乖巧]\n",
+    "blocks": [
+      {
+        "type": "mention",
+        "text": "@幸运石官方 ",
+        "mid": 477316442,
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": " 歌行·戏曲季 「戏游九州」主题周边来啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_好呀]",
+        "package_id": "7318",
+        "emoji_id": "98454",
+        "name": "好呀",
+        "url": "https://i0.hdslb.com/bfs/garb/e61e211ad0cd8a9e6dc7d32edc6594516302cb31.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n「洛韵戏梦手绳」\n结合游学记主人设蝴蝶与天依经典元素\n\n“粉墨千年，戏游九州，山海同梦，戏魂重生。”\n——\nbilibili会员购独家首发。\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/K8PAbAX"
+      },
+      {
+        "type": "text",
+        "text": "\n\n后续还有更多新品情报，敬请期待"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5bede48f95158749486a7cc23782fda436081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1141.9300537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-12-29_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f5a7f9e8080056c2bf968250cfd726c536081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 864.780029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-12-29_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/413711c425dd240c5f45b22e123b1d8336081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1277.1800537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-12-29_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/06d8b6fc9c40a08b56b76cfb9264ccbd36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1015.8499755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/好呀.gif",
+        "package_id": "7318",
+        "emoji_id": "98454",
+        "text": "[洛天依·戏游九州动态_好呀]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "幸运石 洛天依 洛韵戏梦手绳 哔哩哔哩独家首发",
+            "price": "¥173",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/1a/f4/1af453f37782a2eea70eba202d33a57a.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10971811&msource=cps_Mdynamic_36081646_cont-2-1016316754076368903&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-12-29_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4814,
+    "comment": 394,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:23:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

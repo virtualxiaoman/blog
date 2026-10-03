@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "1117530948371480584",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1117530948371480584",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月28日",
+    "pub_ts": 1759033850,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依复古未来#特别主题设定「宇宙歌姬」\n【插画&设定】公开~[逆转童话动态_驾到]\n\n宇宙盛大，而我们彼此奔赴相会。 \n用歌声传递爱、希望和幸福吧！[逆转童话动态_结婚]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依复古未来#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5"
+      },
+      {
+        "type": "text",
+        "text": "特别主题设定「宇宙歌姬」\n【插画&设定】公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n宇宙盛大，而我们彼此奔赴相会。 \n用歌声传递爱、希望和幸福吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-28_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a3e2002a07a37bf308ec2d4e1b37800b36081646.jpg",
+        "width": 4000,
+        "height": 5500,
+        "size_kb": 7733.5146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/28c9f6b7b7df4c41f5139b76a5261e9936081646.jpg",
+        "width": 4000,
+        "height": 2241,
+        "size_kb": 3056.6875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4918,
+    "comment": 270,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

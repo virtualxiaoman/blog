@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "876463316023640135",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/876463316023640135",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月18日",
+    "pub_ts": 1702905918,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "叮咚~恭喜你解锁新一周《天依游学记》内蒙篇单曲《天上的风》追更日历，和一只在练舞的小天依[古色花香洛天依_乖巧]\n急需一个抱抱补充能量——[古色花香洛天依_趴会儿]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "叮咚~恭喜你解锁新一周《天依游学记》内蒙篇单曲《天上的风》追更日历，和一只在练舞的小天依"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n急需一个抱抱补充能量——"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_趴会儿]",
+        "package_id": "1096",
+        "emoji_id": "19438",
+        "name": "趴会儿",
+        "url": "https://i0.hdslb.com/bfs/garb/item/5ab30c98c5366046b1fbf00292394b78956cfbd0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-18_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b4c449b47b3508b0669c735ca84b4d3436081646.png",
+        "width": 1080,
+        "height": 4300,
+        "size_kb": 4433.03125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-12-18_3.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/287e80c0e407af60e0c0a6abae82437f36081646.png",
+        "width": 3024,
+        "height": 4032,
+        "size_kb": 15804.4599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/趴会儿.png",
+        "package_id": "1096",
+        "emoji_id": "19438",
+        "text": "[古色花香洛天依_趴会儿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5808,
+    "comment": 330,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

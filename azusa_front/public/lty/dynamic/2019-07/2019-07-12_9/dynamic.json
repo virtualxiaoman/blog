@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "275263393148395169",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/275263393148395169",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562928153,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#2019洛天依生日会# 天依变小啦！天依生日惊喜第二弹的mini小天依MV已经在B站发布啦：【洛天依】如果天依变小了 转发这条动态，天依将抽出3位欧皇，送出片中可爱的小天依盒蛋1套！这套盒蛋也已经正式开始预售啦！大家可以去会员购搜索“洛天依”就会出现啦！等你们把我抱回家=3=\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​互动抽奖"
+      },
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 天依变小啦！天依生日惊喜第二弹的mini小天依MV已经在B站发布啦："
+      },
+      {
+        "type": "video",
+        "text": "【洛天依】如果天依变小了",
+        "url": "https://www.bilibili.com/video/av58883240/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " 转发这条动态，天依将抽出3位欧皇，送出片中可爱的小天依盒蛋1套！这套盒蛋也已经正式开始预售啦！大家可以去会员购搜索“洛天依”就会出现啦！等你们把我抱回家=3="
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-12_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/73747fa48de423ed009fbf02952e91873abf4ee7.jpg",
+        "width": 2000,
+        "height": 1260,
+        "size_kb": 1363.6171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7918,
+    "comment": 688,
+    "forward": 10597
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

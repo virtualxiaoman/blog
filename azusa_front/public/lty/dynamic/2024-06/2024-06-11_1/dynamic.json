@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "941719803574353940",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/941719803574353940",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月11日",
+    "pub_ts": 1718099628,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #代号洛天依# \n代号洛天依 X 2024 ChinaJoy联名衍生品即将上线~\n\n“追寻星际坐标，航线进程一切正常，真是深不可测的太空呢\n各种星云下有着哪些星球文明？和我一起期待深空前方的未知探险吧！”\n分享一张CODE LUO星际旅途的闲暇时光照~[代号洛天依_wink]\n\n🪐独特设计联名衍生品\n星际探索主题衍生品门票\n镭射票、徽章、立牌、色纸\n\n关注@ChinaJoy官方 ，2024年7月26日-29日ChinaJoy现场，跟随CODE LUO的脚步，一同探索未知的星际世界吧！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \n代号洛天依 X 2024 ChinaJoy联名衍生品即将上线~\n\n“追寻星际坐标，航线进程一切正常，真是深不可测的太空呢\n各种星云下有着哪些星球文明？和我一起期待深空前方的未知探险吧！”\n分享一张CODE LUO星际旅途的闲暇时光照~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪐独特设计联名衍生品\n星际探索主题衍生品门票\n镭射票、徽章、立牌、色纸\n\n关注"
+      },
+      {
+        "type": "mention",
+        "text": "@ChinaJoy官方",
+        "mid": 388652563,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ，2024年7月26日-29日ChinaJoy现场，跟随CODE LUO的脚步，一同探索未知的星际世界吧！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ccdef94cab60543f067f9b2cca794aa536081646.jpg",
+        "width": 4000,
+        "height": 2465,
+        "size_kb": 8370.92578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6633,
+    "comment": 142,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

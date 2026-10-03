@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "950256553580036115",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/950256553580036115",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月4日",
+    "pub_ts": 1720087245,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "距离7月6日数字专辑正式上线还有2天！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "距离7月6日数字专辑正式上线还有2天！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“见证洛天依的过去和未来”十二周年纪念专辑《再生》试听PV",
+      "desc": "洛天依十二周年纪念专辑《再生》\n包含6首经典歌曲改编、6首全新原创单曲\n数字专辑7月6日正式上线、CD专辑Coming soon\n\n该如何诠释虚拟生命歌唱的意义？\n以铭刻在回忆中的每一次共鸣\n凭依然相聚于此的期待与热爱\n\n当时针从1开始再次迈向12\n当你我回到初次相遇的那一天\n所有的梦与旋律请再次凝结于我的指尖\n涂抹我空白的生命，宣告洛天依的“再生”",
+      "jump_url": "https://www.bilibili.com/video/BV1tw4m1a7KA",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/192e2202ce6b95efd3d9412429b2570c6a9d69bd.jpg",
+      "cover_file": "../../_assets/covers/2024-07-04_1.jpg",
+      "bvid": "BV1tw4m1a7KA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1tw4m1a7KA",
+        "aid": "1106035128",
+        "cover": "http://i0.hdslb.com/bfs/archive/192e2202ce6b95efd3d9412429b2570c6a9d69bd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1tw4m1a7KA",
+        "stat": {
+          "danmaku": "7476",
+          "play": "87.7万",
+          "vt": ""
+        },
+        "duration_text": "06:34",
+        "title": "“见证洛天依的过去和未来”十二周年纪念专辑《再生》试听PV",
+        "desc": "洛天依十二周年纪念专辑《再生》\n包含6首经典歌曲改编、6首全新原创单曲\n数字专辑7月6日正式上线、CD专辑Coming soon\n\n该如何诠释虚拟生命歌唱的意义？\n以铭刻在回忆中的每一次共鸣\n凭依然相聚于此的期待与热爱\n\n当时针从1开始再次迈向12\n当你我回到初次相遇的那一天\n所有的梦与旋律请再次凝结于我的指尖\n涂抹我空白的生命，宣告洛天依的“再生”",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 172945,
+    "comment": 2546,
+    "forward": 546
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

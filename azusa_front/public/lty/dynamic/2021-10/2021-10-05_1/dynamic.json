@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "577989438538882452",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/577989438538882452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月5日",
+    "pub_ts": 1633412053,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#在这个悠闲的午后，来一杯下午茶，听一首舒缓的歌吧[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "在这个悠闲的午后，来一杯下午茶，听一首舒缓的歌吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5540,
+    "comment": 113,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 576929393367111050,
+    "orig_mid": 249030155,
+    "deleted": false,
+    "archive_dir": "../../../249030155/2021-10/2021-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:37:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "899431559885488168",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/899431559885488168",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月18日",
+    "pub_ts": 1708253629,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有没有那样一个人或事物，仿佛是黑夜中的微光，是荒野中的玫瑰，一刹那相遇，爱意燎原。世间所有美好，是因为有“你”牵起“我”的手坚定向前，我们才能一起看遍[古色花香洛天依_贴贴]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有没有那样一个人或事物，仿佛是黑夜中的微光，是荒野中的玫瑰，一刹那相遇，爱意燎原。世间所有美好，是因为有“你”牵起“我”的手坚定向前，我们才能一起看遍"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_贴贴]",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/item/14830657a12203a0eecec49885447b931608c4ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/贴贴.png",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "text": "[古色花香洛天依_贴贴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4617,
+    "comment": 122,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 892830955347116130,
+    "orig_mid": 57251621,
+    "deleted": false,
+    "archive_dir": "../../../57251621/2024-02/2024-02-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

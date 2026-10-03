@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "1070101985268596736",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1070101985268596736",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月23日",
+    "pub_ts": 1747990934,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖\n “八音盒歌者，将共鸣心声凝结宝石，将回忆祝福化作歌声，欲寄往远方的你。”\n洛天依「2025无限共鸣·流光协奏」全息巡回演唱会正式定档！\n【主视觉海报&演出城市&演出时间】资讯公开~[洛天依·天星问动态_萌]\n\n🎶巡演城市\n7月19日 北京\n8月2日   成都\n8月16日 广州\n8月23日 上海\n\n这是只属于你们的盛会邀约，这是因热爱才能凝聚的盛大相会。\n少女身着盛装，再唱起熟悉的歌谣，将回忆的流光都编织在新的乐章里。\n🎁转发关注天依，揪3位小伙伴送出【洛天依随机周边礼品】1份~\n更多关于演唱会的详细资讯，请持续关注天依的动态哦！ [洛天依·天星问动态_惬意]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "359270",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n “八音盒歌者，将共鸣心声凝结宝石，将回忆祝福化作歌声，欲寄往远方的你。”\n洛天依「2025无限共鸣·流光协奏」全息巡回演唱会正式定档！\n【主视觉海报&演出城市&演出时间】资讯公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶巡演城市\n7月19日 北京\n8月2日   成都\n8月16日 广州\n8月23日 上海\n\n这是只属于你们的盛会邀约，这是因热爱才能凝聚的盛大相会。\n少女身着盛装，再唱起熟悉的歌谣，将回忆的流光都编织在新的乐章里。\n🎁转发关注天依，揪3位小伙伴送出【洛天依随机周边礼品】1份~\n更多关于演唱会的详细资讯，请持续关注天依的动态哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_惬意]",
+        "package_id": "7618",
+        "emoji_id": "103424",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/75743a182d02a34db96cb18d909285bf22e1236e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-23_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/76edabbaa821cd891259a8f875e82adf36081646.png",
+        "width": 1622,
+        "height": 2885,
+        "size_kb": 9582.392578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      },
+      {
+        "file": "../../_assets/emojis/7618/惬意.gif",
+        "package_id": "7618",
+        "emoji_id": "103424",
+        "text": "[洛天依·天星问动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "359270"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6040,
+    "comment": 1287,
+    "forward": 6497
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

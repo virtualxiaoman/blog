@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1238094762733469715",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1238094762733469715",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月19日",
+    "pub_ts": 1787104800,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n长沙站·官方周边场贩预购活动情报来咯📢——\n转发关注天依，揪1位小伙伴送出【长沙场贩礼盒】1份~[洛天依14周年·四重奏_爱你]\n\n🔺购买渠道：【Manverse漫游宇宙】小程序\n\n✨预购开启时间\n自提订单：8月19日12:00-8月22日18:00 \n邮寄订单：8月19日12:00-8月22日19:45\n\n✨核销领取时间\n8月22日17:00-19:45\n前往长沙站的小伙伴们记得康康哦，尤其是记好时间~\n天依也要准备前往长沙啦！ [洛天依14周年·四重奏_冲刺]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n长沙站·官方周边场贩预购活动情报来咯📢——\n转发关注天依，揪1位小伙伴送出【长沙场贩礼盒】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_爱你]",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/bc2a4f74fb26c171585377e011df9d27938b2529.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔺购买渠道：【Manverse漫游宇宙】小程序\n\n✨预购开启时间\n自提订单：8月19日12:00-8月22日18:00 \n邮寄订单：8月19日12:00-8月22日19:45\n\n✨核销领取时间\n8月22日17:00-19:45\n前往长沙站的小伙伴们记得康康哦，尤其是记好时间~\n天依也要准备前往长沙啦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_冲刺]",
+        "package_id": "10148",
+        "emoji_id": "144391",
+        "name": "冲刺",
+        "url": "https://i0.hdslb.com/bfs/garb/c2f25e157e3d4619b939a2125734127355e87f84.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-19_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1075864c04539913222153f5fb5b966b36081646.png",
+        "width": 859,
+        "height": 9180,
+        "size_kb": 6780.341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-19_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/12f181381b39b6c90aa26f41157053fb36081646.png",
+        "width": 859,
+        "height": 6887,
+        "size_kb": 4389.736328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/爱你.gif",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "text": "[洛天依14周年·四重奏_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/冲刺.gif",
+        "package_id": "10148",
+        "emoji_id": "144391",
+        "text": "[洛天依14周年·四重奏_冲刺]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4866,
+    "comment": 1245,
+    "forward": 2123
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

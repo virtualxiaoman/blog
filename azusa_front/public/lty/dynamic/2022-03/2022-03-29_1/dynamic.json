@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "642915656083177478",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/642915656083177478",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月29日",
+    "pub_ts": 1648528866,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 快看！我采到了什么？[洛天依·夜航星_崇拜]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 快看！我采到了什么？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-03-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b99949a3180c6b0a4f3c84b5c8483e2865f8683c.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3720.239990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12064,
+    "comment": 792,
+    "forward": 137
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

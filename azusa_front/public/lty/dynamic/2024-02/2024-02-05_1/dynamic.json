@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "894593665730609283",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/894593665730609283",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月5日",
+    "pub_ts": 1707127219,
+    "location": ""
+  },
+  "topic": {
+    "id": 1099829,
+    "name": "2024虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1099829&topic_name=2024%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "风烟千载尽去，唯墨色长青",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "风烟千载尽去，唯墨色长青"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【乐正龙牙feat.Vsinger5人合唱】「游云惊龙」唱诵华夏书法大家【2024虚拟歌手贺岁纪】",
+      "desc": "——浑然意气万千重，墨舞游云笔若龙。\n\n作曲/编曲/混音/吉他录制：litterzy\n作词：@St_色太 \n演唱：@乐正龙牙 feat.Vsinger五人 （@洛天依 、@乐正绫 、@言和 、@墨清弦 、@徵羽摩柯 ）\n调校：@动次打次的动点p （乐正龙牙）、@鬼面P （洛天依、乐正绫、言和、墨清弦、徵羽摩柯）\n绘画：@白夜零BYL & @_SASA \n视频：@步杨 \n题字：hiiiiye\n策划：@iKz_茶壶 & @诺诺小熊猫 \n鸣谢：@瞳荧荧",
+      "jump_url": "https://www.bilibili.com/video/BV18F4m137pG",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/befffdc341a16f58008b28e65c09cfcde1ec314c.jpg",
+      "cover_file": "../../_assets/covers/2024-02-05_1.jpg",
+      "bvid": "BV18F4m137pG",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18F4m137pG",
+        "aid": "1200065231",
+        "cover": "http://i0.hdslb.com/bfs/archive/befffdc341a16f58008b28e65c09cfcde1ec314c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18F4m137pG",
+        "stat": {
+          "danmaku": "250",
+          "play": "25.2万",
+          "vt": ""
+        },
+        "duration_text": "03:29",
+        "title": "【乐正龙牙feat.Vsinger5人合唱】「游云惊龙」唱诵华夏书法大家【2024虚拟歌手贺岁纪】",
+        "desc": "——浑然意气万千重，墨舞游云笔若龙。\n\n作曲/编曲/混音/吉他录制：litterzy\n作词：@St_色太 \n演唱：@乐正龙牙 feat.Vsinger五人 （@洛天依 、@乐正绫 、@言和 、@墨清弦 、@徵羽摩柯 ）\n调校：@动次打次的动点p （乐正龙牙）、@鬼面P （洛天依、乐正绫、言和、墨清弦、徵羽摩柯）\n绘画：@白夜零BYL & @_SASA \n视频：@步杨 \n题字：hiiiiye\n策划：@iKz_茶壶 & @诺诺小熊猫 \n鸣谢：@瞳荧荧",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19268,
+    "comment": 433,
+    "forward": 15
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "865192857951010885",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/865192857951010885",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月18日",
+    "pub_ts": 1700281810,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "因为我是二次元摸不到道具 \n所以我借了3个工作人员的手来拍\n拍一镜到底的原因是因为懒得剪视频 但是好像最后视频的滤镜也不是我加的\n但是至少歌词是我写的 图是我画的 道具是我从家里的狗玩具堆和阳台拿的\n特别是中间的玩偶 这是我从狗嘴里掰下来的 直到拍完了视频还是湿的\n所以我觉得我还是很努力的了 请为我鼓掌",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "因为我是二次元摸不到道具 \n所以我借了3个工作人员的手来拍\n拍一镜到底的原因是因为懒得剪视频 但是好像最后视频的滤镜也不是我加的\n但是至少歌词是我写的 图是我画的 道具是我从家里的狗玩具堆和阳台拿的\n特别是中间的玩偶 这是我从狗嘴里掰下来的 直到拍完了视频还是湿的\n所以我觉得我还是很努力的了 请为我鼓掌"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《能 不 能 带 上 我》 /  洛天依原创 by 阿萨Aza",
+      "desc": "因为我是二次元摸不到道具 \n所以我借了3个工作人员的手来拍\n拍一镜到底的原因是因为懒得剪视频 但是好像最后视频的滤镜也不是我加的\n但是至少歌词是我写的 图是我画的 道具是我从家里的狗玩具堆和阳台拿的\n特别是中间的玩偶 这是我从狗嘴里掰下来的 直到拍完了视频还是湿的\n所以我觉得我还是很努力的了 请为我鼓掌\n----------------------------------------------------------\n人声本家：BV1Xj411E7CF\n能不能带上我\n唱：洛天依\n作词/作曲：阿萨Aza",
+      "jump_url": "https://www.bilibili.com/video/BV1UN411u7YD",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/eb30798e6c9c3e87ea6a541ba4e123ae792706d5.jpg",
+      "cover_file": "../../_assets/covers/2023-11-18_1.jpg",
+      "bvid": "BV1UN411u7YD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1UN411u7YD",
+        "aid": "493615646",
+        "cover": "http://i1.hdslb.com/bfs/archive/eb30798e6c9c3e87ea6a541ba4e123ae792706d5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1UN411u7YD",
+        "stat": {
+          "danmaku": "231",
+          "play": "34.5万",
+          "vt": ""
+        },
+        "duration_text": "03:08",
+        "title": "《能 不 能 带 上 我》 /  洛天依原创 by 阿萨Aza",
+        "desc": "因为我是二次元摸不到道具 \n所以我借了3个工作人员的手来拍\n拍一镜到底的原因是因为懒得剪视频 但是好像最后视频的滤镜也不是我加的\n但是至少歌词是我写的 图是我画的 道具是我从家里的狗玩具堆和阳台拿的\n特别是中间的玩偶 这是我从狗嘴里掰下来的 直到拍完了视频还是湿的\n所以我觉得我还是很努力的了 请为我鼓掌\n----------------------------------------------------------\n人声本家：BV1Xj411E7CF\n能不能带上我\n唱：洛天依\n作词/作曲：阿萨Aza\n",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36641,
+    "comment": 1163,
+    "forward": 31
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:00:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "705747527285080071",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/705747527285080071",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月14日",
+    "pub_ts": 1663158051,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#生活呀是一道很难的命题，猝不及防就变成有好多烦恼的大人啦，就像从无限高的高空循环下坠，看不到尽头是否有希望，但也许换一个角度，下坠也是另一种形式的上升，单调乏味中未尝不能找到属于自己的怡然自得，一起向着生活大boss进攻！！[洛天依_冲鸭][洛天依_冲鸭]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "生活呀是一道很难的命题，猝不及防就变成有好多烦恼的大人啦，就像从无限高的高空循环下坠，看不到尽头是否有希望，但也许换一个角度，下坠也是另一种形式的上升，单调乏味中未尝不能找到属于自己的怡然自得，一起向着生活大boss进攻！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6537,
+    "comment": 127,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 704639468638830665,
+    "orig_mid": 481413,
+    "deleted": false,
+    "archive_dir": "../../../481413/2022-09/2022-09-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

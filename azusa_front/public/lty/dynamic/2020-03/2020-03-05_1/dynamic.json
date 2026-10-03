@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "363150441344433980",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/363150441344433980",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年3月5日",
+    "pub_ts": 1583390951,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家心中的宇宙又是什么样的呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家心中的宇宙又是什么样的呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8081,
+    "comment": 560,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 361738509495769589,
+    "orig_mid": 173583326,
+    "deleted": false,
+    "archive_dir": "../../../173583326/2020-03/2020-03-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

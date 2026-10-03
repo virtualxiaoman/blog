@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "13255695005906197",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/13255695005906197",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2016年12月23日",
+    "pub_ts": 1482472050,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天矢禾念2016发布会洛天依&Vsinger表演部分【官方高清版】",
+      "desc": "高清！高清！2016年12月8日，天矢禾念召开了主题为“穿越星河的旋律”品牌战略发布会。正式宣布了Vsinger首场万人全息演唱会定档于2017年6月17日。发布会现场，洛天依等Vsinger歌手一起进行了精彩演出，曲目如下：\n\n权御天下||曲编：乌龟｜词：ST｜调教：挨批熊\n普通Disco||词曲、调教：ilem／人形兎\n追光使者||词：易家扬｜曲：林迈可｜调教：动点P\n\n演唱会相关票务信息请关注新浪微博@Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV17s411a7po",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d7fc743e60df7b115a9b8245bdb1aa8e204e26a4.jpg",
+      "cover_file": "../../_assets/covers/2016-12-23_1.jpg",
+      "bvid": "BV17s411a7po",
+      "extra": {
+        "type": 1,
+        "bvid": "BV17s411a7po",
+        "aid": "7654708",
+        "cover": "http://i0.hdslb.com/bfs/archive/d7fc743e60df7b115a9b8245bdb1aa8e204e26a4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV17s411a7po",
+        "stat": {
+          "danmaku": "7255",
+          "play": "18.5万",
+          "vt": ""
+        },
+        "duration_text": "14:01",
+        "title": "天矢禾念2016发布会洛天依&Vsinger表演部分【官方高清版】",
+        "desc": "高清！高清！2016年12月8日，天矢禾念召开了主题为“穿越星河的旋律”品牌战略发布会。正式宣布了Vsinger首场万人全息演唱会定档于2017年6月17日。发布会现场，洛天依等Vsinger歌手一起进行了精彩演出，曲目如下：\n\n权御天下||曲编：乌龟｜词：ST｜调教：挨批熊\n普通Disco||词曲、调教：ilem／人形兎\n追光使者||词：易家扬｜曲：林迈可｜调教：动点P\n\n演唱会相关票务信息请关注新浪微博@Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4505,
+    "comment": 2069,
+    "forward": 5
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "901647037151314000",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/901647037151314000",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月24日",
+    "pub_ts": 1708769460,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "元宵节快乐！快看快看！\n这个龙形的花灯是不是好壮观[洛·LUO_她好会唱]\n走，我们一起去看看！[洛·LUO_冲冲冲]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "元宵节快乐！快看快看！\n这个龙形的花灯是不是好壮观"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_她好会唱]",
+        "package_id": "4400",
+        "emoji_id": "62232",
+        "name": "她好会唱",
+        "url": "https://i0.hdslb.com/bfs/emote/815207997b759911785359c35c4149ed44fcffd5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n走，我们一起去看看！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_冲冲冲]",
+        "package_id": "4400",
+        "emoji_id": "62236",
+        "name": "冲冲冲",
+        "url": "https://i0.hdslb.com/bfs/emote/59a4d0c27be75f6b04da879bf4e2481e737eb749.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/00f561420e23071a4218d2c805a713e136081646.jpg",
+        "width": 3840,
+        "height": 2340,
+        "size_kb": 2989.7158203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/她好会唱.png",
+        "package_id": "4400",
+        "emoji_id": "62232",
+        "text": "[洛·LUO_她好会唱]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/冲冲冲.png",
+        "package_id": "4400",
+        "emoji_id": "62236",
+        "text": "[洛·LUO_冲冲冲]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9154,
+    "comment": 530,
+    "forward": 148
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

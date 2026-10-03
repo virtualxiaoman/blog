@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "1221908489104785411",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1221908489104785411",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月6日",
+    "pub_ts": 1783336140,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·北京站将于7月11日19:00开启二轮售票啦！\n准备前往北京站的大家，记得同时查收这份观演指南哦～[洛天依拜年纪动态表情包_喜欢]\n\n🏔花篮入场登记\n-申请时间：即日起-7月12日12:00\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n\n🏔演出时间&场地\n7月18日 19:12 北京·国家体育馆\n\n🏔传送门网页链接\n一天一天，靠近我们即将相见的日子，一起期待吧~[洛天依拜年纪动态表情包_揉脸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·北京站将于7月11日19:00开启二轮售票啦！\n准备前往北京站的大家，记得同时查收这份观演指南哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_喜欢]",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/5a250c2b1c4d4fb0597bf02da1baa32bf80a5370.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏔花篮入场登记\n-申请时间：即日起-7月12日12:00\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n\n🏔演出时间&场地\n7月18日 19:12 北京·国家体育馆\n\n🏔传送门"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1002171"
+      },
+      {
+        "type": "text",
+        "text": "\n一天一天，靠近我们即将相见的日子，一起期待吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-06_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/84aa90aa4b2ad25e8b2dff260bdf62c336081646.jpg",
+        "width": 2000,
+        "height": 3557,
+        "size_kb": 6043.6201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-06_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/564a1d863375bd6c733da8c8beb46b5036081646.jpg",
+        "width": 750,
+        "height": 13992,
+        "size_kb": 7523.41015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/喜欢.gif",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "text": "[洛天依拜年纪动态表情包_喜欢]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "北京·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202606/n5rArC8l1780917394_1780917394816.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1002171&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1221908489104785411",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-06_3.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5559,
+    "comment": 230,
+    "forward": 130
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:27:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

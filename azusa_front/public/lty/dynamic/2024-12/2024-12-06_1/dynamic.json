@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "1007687383079976976",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1007687383079976976",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月6日",
+    "pub_ts": 1733458902,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "“粉墨千年，戏游九州”\n洛天依游学记——【歌行·戏曲季】正式启程！主kv海报正式公开~\n请跟随着天依的脚步与歌声，深入梨园，共同追溯古老戏曲艺术的源流。\n站上方寸之间的戏台，开启这场奇妙而梦幻的旅程。\n\n【歌行·戏曲季】很荣幸与中国戏曲学会官方合作，超过20人的专家团队针对于音乐、服装、视觉进行了专业研讨。\n本次天依的新装将再次由@赶稿人 老师定制，将传统戏服与流行元素融合，多套服装和天依的学戏故事将在游学过程中逐渐披露，敬请期待！[Vsinger_给大佬递茶]\n\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份。 [Vsinger_rua天依]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“粉墨千年，戏游九州”\n洛天依游学记——【歌行·戏曲季】正式启程！主kv海报正式公开~\n请跟随着天依的脚步与歌声，深入梨园，共同追溯古老戏曲艺术的源流。\n站上方寸之间的戏台，开启这场奇妙而梦幻的旅程。\n\n【歌行·戏曲季】很荣幸与中国戏曲学会官方合作，超过20人的专家团队针对于音乐、服装、视觉进行了专业研讨。\n本次天依的新装将再次由"
+      },
+      {
+        "type": "mention",
+        "text": "@赶稿人",
+        "mid": 590881599,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师定制，将传统戏服与流行元素融合，多套服装和天依的学戏故事将在游学过程中逐渐披露，敬请期待！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9428af4c7f7deb5674f0598588eae54036081646.jpg",
+        "width": 5333,
+        "height": 3000,
+        "size_kb": 11263.837890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8001,
+    "comment": 2637,
+    "forward": 3537
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

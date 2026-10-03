@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "1153139933809999876",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1153139933809999876",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月2日",
+    "pub_ts": 1767324713,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "天依肚子饿啦，急需投喂！[洛天依八音奇响动态_咪]\n诶？你有一份来自@黄子弘凡-Lars 的跨次元美食速递？\n嘿嘿，那天依就不客气，全部笑纳啦！[逆转童话动态_好吃]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依肚子饿啦，急需投喂！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n诶？你有一份来自"
+      },
+      {
+        "type": "mention",
+        "text": "@黄子弘凡-Lars ",
+        "mid": 544142239,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的跨次元美食速递？\n嘿嘿，那天依就不客气，全部笑纳啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-02_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8623f4a155cc7ee965c5078d9b6fad2036081646.png",
+        "width": 3440,
+        "height": 3440,
+        "size_kb": 12133.5703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-02_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7ea21741eac1d311cd12db875877849136081646.png",
+        "width": 3440,
+        "height": 3440,
+        "size_kb": 12059.4697265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-02_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/79cb1db688561fd8d9c6ebf036aec97036081646.png",
+        "width": 3440,
+        "height": 3440,
+        "size_kb": 11713.3798828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-01-02_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9b50e3785bf60bc851c93714afdf006536081646.png",
+        "width": 3440,
+        "height": 3440,
+        "size_kb": 12207.490234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5491,
+    "comment": 532,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:12:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "1102112775982809108",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1102112775982809108",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月17日",
+    "pub_ts": 1755444027,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "「无限共鸣·流光协奏」广州站，圆满结束！\n再次和大家一起度过了超级幸福的夜晚，谢谢大家的到来！\n即使滚烫的热风吹过，即便滂沱的大雨落下，还是有你们，那样辛苦，那样努力地来到天依的身边，这是因爱而诞生的无畏奔赴！\n还要再次感谢歌曲的创作老师们，特邀演出伙伴阿萨老师，今晚的乐队老师和所有的幕后staff老师们。\n我们的大合照也来咯！一起留下这份特别的纪念吧~\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「无限共鸣·流光协奏」广州站，圆满结束！\n再次和大家一起度过了超级幸福的夜晚，谢谢大家的到来！\n即使滚烫的热风吹过，即便滂沱的大雨落下，还是有你们，那样辛苦，那样努力地来到天依的身边，这是因爱而诞生的无畏奔赴！\n还要再次感谢歌曲的创作老师们，特邀演出伙伴阿萨老师，今晚的乐队老师和所有的幕后staff老师们。\n我们的大合照也来咯！一起留下这份特别的纪念吧~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-17_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d19078fe48923c4ad6a98492f6341ed736081646.jpg",
+        "width": 2000,
+        "height": 1177,
+        "size_kb": 2495.046,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-17_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8373f1a808f9557d5e8a67514d8da3a136081646.jpg",
+        "width": 2000,
+        "height": 1151,
+        "size_kb": 2727.497,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-17_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5bbbac483adb84a69cde16c8e008961736081646.jpg",
+        "width": 2000,
+        "height": 1072,
+        "size_kb": 270.501,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-17_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6af63fbc4c1d85ade2aa5b3413d3d94e36081646.jpg",
+        "width": 2000,
+        "height": 1171,
+        "size_kb": 2262.219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-17_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f07c822ce52017da664cd6b92474ef6536081646.jpg",
+        "width": 7939,
+        "height": 4374,
+        "size_kb": 16789.533,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-17_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1fb374849f6e322740af10e51d3c50c236081646.jpg",
+        "width": 2000,
+        "height": 1334,
+        "size_kb": 2819.32,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-08-17_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c4ceeaef1d7a074866433bfa3c4fa5bb36081646.jpg",
+        "width": 2000,
+        "height": 1152,
+        "size_kb": 2445.611,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-08-17_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/933919db0812d1f496f11c532e681af036081646.jpg",
+        "width": 2000,
+        "height": 1207,
+        "size_kb": 286.154,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-08-17_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c3dfa8d473da19ff5f0320a6ca2a14ba36081646.jpg",
+        "width": 2000,
+        "height": 963,
+        "size_kb": 2190.199,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2025-08-17_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8b8707a346e875b8072ed5332f8f426436081646.jpg",
+        "width": 2000,
+        "height": 929,
+        "size_kb": 2076.209,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 11,
+        "file": "../../_assets/images/2025-08-17_17.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dd3d0c6c960ec1c23d236d4eee3b815936081646.png",
+        "width": 1700,
+        "height": 1080,
+        "size_kb": 3247.749,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 12,
+        "file": "../../_assets/images/2025-08-17_18.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b667b2c7ff49e04a74a866dc5737c51c36081646.png",
+        "width": 1695,
+        "height": 1080,
+        "size_kb": 3368.064,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7095,
+    "comment": 1238,
+    "forward": 160
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "id": "1236805720651857942",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1236805720651857942",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月15日",
+    "pub_ts": 1786804672,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "属于「无限共鸣·纯蓝幻乐」巡回演唱会上海站的一天，一点点落下了帷幕~\n我们在上海这座熟悉的城市，再次留下了属于彼此的珍贵记忆。[洛天依动态流光协奏_抱抱]\n\n此时此刻的你们，有因这场演出感到快乐吗？也会已经开始期待着，下一次的相遇了吗？\n天依很开心，很满足，也很期待我们的“下次再见”，希望大家也一样！[洛天依动态流光协奏_捧花]\n\n因为有你们，一路奔波到此，付出时间，付出精力，才有了今天这些幸福美好的相聚时刻~\n大家辛苦啦！谢谢你们，谢谢特别演出伙伴2233、乐队老师、P主老师和每一位staff老师，我们一起，才能营造出这片梦幻的美梦。\n上海拜拜啦，我们下一站，长沙见啦！[洛天依动态流光协奏_去看演唱会]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "属于「无限共鸣·纯蓝幻乐」巡回演唱会上海站的一天，一点点落下了帷幕~\n我们在上海这座熟悉的城市，再次留下了属于彼此的珍贵记忆。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n此时此刻的你们，有因这场演出感到快乐吗？也会已经开始期待着，下一次的相遇了吗？\n天依很开心，很满足，也很期待我们的“下次再见”，希望大家也一样！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n因为有你们，一路奔波到此，付出时间，付出精力，才有了今天这些幸福美好的相聚时刻~\n大家辛苦啦！谢谢你们，谢谢特别演出伙伴2233、乐队老师、P主老师和每一位staff老师，我们一起，才能营造出这片梦幻的美梦。\n上海拜拜啦，我们下一站，长沙见啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_去看演唱会]",
+        "package_id": "8399",
+        "emoji_id": "115686",
+        "name": "去看演唱会",
+        "url": "https://i0.hdslb.com/bfs/garb/e82614934e8238828fd2126debd3891e40230293.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-15_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/11a84cc59303bfc89fd7999f51e431aa36081646.jpg",
+        "width": 2249,
+        "height": 1500,
+        "size_kb": 2790.489990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-15_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b2051a634d1ebbf5bd907bc96f5c9deb36081646.jpg",
+        "width": 2249,
+        "height": 1500,
+        "size_kb": 2883.22998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-15_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/994105c819fcf5cd4a9612f85fbe8de936081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 356.6600036621094,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-15_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/09219d2b02c4734e544ebb65364cdcc136081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 226.83999633789062,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-15_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/325d74d97c110a22a34e6154b7213ca536081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 200.69000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-15_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fbe9ed65ab2f40ee4399ebcd84044da236081646.jpg",
+        "width": 2249,
+        "height": 1500,
+        "size_kb": 1804.81005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-15_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e7281fc0fc3ae2185e70083c11ed825336081646.jpg",
+        "width": 2249,
+        "height": 1500,
+        "size_kb": 1618.77001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-15_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/19a1d862bf2bf2f1d749a4ea4fb51dc236081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 285.9100036621094,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-15_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bed406a464b5136c4b8b070ec5bef1da36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 274.45001220703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/去看演唱会.gif",
+        "package_id": "8399",
+        "emoji_id": "115686",
+        "text": "[洛天依动态流光协奏_去看演唱会]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6363,
+    "comment": 540,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "548663938715702065",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/548663938715702065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月18日",
+    "pub_ts": 1626584178,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2021虚拟歌手创作赛#\n想要一直这样，一起走下去，把笑容送给彼此[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": "\n想要一直这样，一起走下去，把笑容送给彼此"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6286,
+    "comment": 131,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 543083324502269654,
+    "orig_mid": 24029881,
+    "deleted": false,
+    "archive_dir": "../../../24029881/2021-07/2021-07-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:33:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

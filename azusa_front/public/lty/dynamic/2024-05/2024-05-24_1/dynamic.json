@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "935081609466478597",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/935081609466478597",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月24日",
+    "pub_ts": 1716554053,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "人海之中我们都匆匆前行，但我愿相信，命中注定我会遇见你[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "人海之中我们都匆匆前行，但我愿相信，命中注定我会遇见你"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4427,
+    "comment": 110,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 932444344950980756,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2024-05/2024-05-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "830674283124490323",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/830674283124490323",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月17日",
+    "pub_ts": 1692244828,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "民族文化之美，存在于辽阔的天地，存在于弦鼓的和鸣，也存在于一针一线的细软中。\n这次歌行，特邀青年动画导演、设计师@赶稿人 老师为天依设计了少数民族服装哦！\n每一件服饰设定，都是老师在致敬传统民族服装文化的基础上，融入了新鲜元素，为天依量体裁衣、设计了这些美丽的衣装～\n\n换上新装，整装待发，前往有歌的地方！\n新的风景，全部内容地图，明日正式官宣起航，一起期待吧！[古色花香洛天依_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "民族文化之美，存在于辽阔的天地，存在于弦鼓的和鸣，也存在于一针一线的细软中。\n这次歌行，特邀青年动画导演、设计师"
+      },
+      {
+        "type": "mention",
+        "text": "@赶稿人 ",
+        "mid": 590881599,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师为天依设计了少数民族服装哦！\n每一件服饰设定，都是老师在致敬传统民族服装文化的基础上，融入了新鲜元素，为天依量体裁衣、设计了这些美丽的衣装～\n\n换上新装，整装待发，前往有歌的地方！\n新的风景，全部内容地图，明日正式官宣起航，一起期待吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-17_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/c8a489b2314316b6c892fa293af665fa36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 465.2900085449219,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8430,
+    "comment": 490,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

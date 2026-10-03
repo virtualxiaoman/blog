@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "565448834119798570",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/565448834119798570",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月1日",
+    "pub_ts": 1630492216,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "集“开学第一天”、“一周中最难过而冷清的一天（星期三）”、“创作赛活动投稿最后一天”三重buff于一身！天依顶住压力，唱首开心的歌！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "集“开学第一天”、“一周中最难过而冷清的一天（星期三）”、“创作赛活动投稿最后一天”三重buff于一身！天依顶住压力，唱首开心的歌！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创】饿魔烧酒",
+      "desc": "“每到夜里我就很饿”\n\n音乐：ChiliChill\n曲绘：Rosele\n视频：Kin_en\n\nChiliChill是由成员Yu H. @YuH_ChiliChill 和CuSummer @cu夏_ChiliChill 组成的二人独立音乐团体\n\n伴奏下载地址：\nhttps://www.chilichill-music.com/download",
+      "jump_url": "https://www.bilibili.com/video/BV1pU4y1771r",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/a88598e879a5a0278eefe8468e020a60cd2e81c3.jpg",
+      "cover_file": "../../_assets/covers/2021-09-01_1.jpg",
+      "bvid": "BV1pU4y1771r",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pU4y1771r",
+        "aid": "675233259",
+        "cover": "http://i2.hdslb.com/bfs/archive/a88598e879a5a0278eefe8468e020a60cd2e81c3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1pU4y1771r",
+        "stat": {
+          "danmaku": "1125",
+          "play": "76万",
+          "vt": ""
+        },
+        "duration_text": "03:08",
+        "title": "【洛天依原创】饿魔烧酒",
+        "desc": "“每到夜里我就很饿”\n\n音乐：ChiliChill\n曲绘：Rosele\n视频：Kin_en\n\nChiliChill是由成员Yu H. @YuH_ChiliChill 和CuSummer @cu夏_ChiliChill 组成的二人独立音乐团体\n\n伴奏下载地址：\nhttps://www.chilichill-music.com/download",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 55308,
+    "comment": 2413,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:35:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

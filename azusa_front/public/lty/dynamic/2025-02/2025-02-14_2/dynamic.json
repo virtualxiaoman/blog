@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1033665475576332323",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1033665475576332323",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月14日",
+    "pub_ts": 1739507398,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "这次的约会装扮，你...觉得怎么样？\n藏在草莓熊中酸酸甜甜的我的心意，你会知晓吗？\n想去的地方...现在的心愿...就这样，在我身边就好~[洛天依蝶变_害羞]\n\n转发关注天依，揪3位小伙伴送出【天依的心意礼物】1份 [洛天依蝶变_发射爱心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次的约会装扮，你...觉得怎么样？\n藏在草莓熊中酸酸甜甜的我的心意，你会知晓吗？\n想去的地方...现在的心愿...就这样，在我身边就好~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n转发关注天依，揪3位小伙伴送出【天依的心意礼物】1份 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-02-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c40fe16b74b77164383335c19270635b36081646.jpg",
+        "width": 5400,
+        "height": 2700,
+        "size_kb": 599.5966796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8624,
+    "comment": 1929,
+    "forward": 3461
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

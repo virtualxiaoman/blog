@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "1221111111232782353",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1221111111232782353",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月4日",
+    "pub_ts": 1783150486,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依的捕蓝行动来到成都啦！为了找到一些不一样的蓝色，天依可努力做了不少攻略。\n首先就是这座蓝白色的小镇啦，到处都是清新的蓝白色~[心律共鸣动态表情包_真好]\n找餐厅的时候，天依又找到这家装潢好漂亮的餐厅！\n美美合照，填饱肚子和捕蓝任务一起完成，今日任务圆满结束~[心律共鸣动态表情包_膨胀]\n\n\n2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·成都站将于今晚19点全面开票啦！[心律共鸣动态表情包_可爱]\n🎶传送门网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的捕蓝行动来到成都啦！为了找到一些不一样的蓝色，天依可努力做了不少攻略。\n首先就是这座蓝白色的小镇啦，到处都是清新的蓝白色~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n找餐厅的时候，天依又找到这家装潢好漂亮的餐厅！\n美美合照，填饱肚子和捕蓝任务一起完成，今日任务圆满结束~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_膨胀]",
+        "package_id": "5582",
+        "emoji_id": "81889",
+        "name": "膨胀",
+        "url": "https://i0.hdslb.com/bfs/emote/beaf2342fe922a528a4c6392dc2c45b1676921e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n\n2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·成都站将于今晚19点全面开票啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_可爱]",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/emote/ba9712392f36dd43fbb75434cb5d1df5f275bee8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n🎶传送门"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003172"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-04_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/79799b9f3aa70ff477ce1e59a4547c2636081646.jpg",
+        "width": 1873,
+        "height": 2497,
+        "size_kb": 3942.10009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-04_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bdbdb56710527f23467cd4e9ab614e9936081646.jpg",
+        "width": 3648,
+        "height": 4864,
+        "size_kb": 2207.050048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/膨胀.gif",
+        "package_id": "5582",
+        "emoji_id": "81889",
+        "text": "[心律共鸣动态表情包_膨胀]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/可爱.gif",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "text": "[心律共鸣动态表情包_可爱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "成都·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202607/1QXOttg41782964223_1782964223702.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003172&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1221111111232782353",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-04_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5125,
+    "comment": 279,
+    "forward": 78
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:27:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

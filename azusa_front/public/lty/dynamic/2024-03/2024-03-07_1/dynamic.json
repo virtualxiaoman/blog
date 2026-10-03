@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "906004942892826677",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/906004942892826677",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月7日",
+    "pub_ts": 1709784114,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖【洛天依收藏集——大哉乾元】正式开启啦！\n转发关注天依，揪5位小伙伴赠出【收藏集5抽】1份~[大哉乾元_神龙护体]\n\n潜龙在渊，腾必九天\n源流万世，大哉乾元\n\n✨卡池收录：全新插画动态数字音乐卡、特色动态卡、精美数字卡牌\n✨羁绊之礼解锁：专属表情包、专属装扮组件套装、专属头像框\n✨上架时间：3月7日-4月10日\n✨传送门：网页链接\n和天依一起细数千年龙象，观其大哉~[大哉乾元_打call]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "286112",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "【洛天依收藏集——大哉乾元】正式开启啦！\n转发关注天依，揪5位小伙伴赠出【收藏集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_神龙护体]",
+        "package_id": "4621",
+        "emoji_id": "66047",
+        "name": "神龙护体",
+        "url": "https://i0.hdslb.com/bfs/emote/5198248e0ee238468992b8e3680ce138a67e58a3.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n潜龙在渊，腾必九天\n源流万世，大哉乾元\n\n✨卡池收录：全新插画动态数字音乐卡、特色动态卡、精美数字卡牌\n✨羁绊之礼解锁：专属表情包、专属装扮组件套装、专属头像框\n✨上架时间：3月7日-4月10日\n✨传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=287"
+      },
+      {
+        "type": "text",
+        "text": "\n和天依一起细数千年龙象，观其大哉~"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_打call]",
+        "package_id": "4621",
+        "emoji_id": "66053",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/emote/8a0900e7f2030aab63f19fabbc20b98340f90898.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-07_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/59f1bf2f48591bf30013aeab46c0c51736081646.jpg",
+        "width": 1125,
+        "height": 6601,
+        "size_kb": 7219.18017578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4621/神龙护体.png",
+        "package_id": "4621",
+        "emoji_id": "66047",
+        "text": "[大哉乾元_神龙护体]"
+      },
+      {
+        "file": "../../_assets/emojis/4621/打call.png",
+        "package_id": "4621",
+        "emoji_id": "66053",
+        "text": "[大哉乾元_打call]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/archive/fed4ad3c8c2832231259795b55d0b8eb06e97d89.png",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=0&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "独家民族风情天依大片，定制表情包、头像框等你抱回家！",
+            "cover_file": "../../_assets/covers/2024-03-07_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "286112"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6724,
+    "comment": 946,
+    "forward": 6276
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

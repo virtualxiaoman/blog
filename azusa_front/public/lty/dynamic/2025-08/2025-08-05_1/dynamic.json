@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "1097596643642966036",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1097596643642966036",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月5日",
+    "pub_ts": 1754392533,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶「无限共鸣·流光协奏」下一站，广州！\n广州站的小伙伴请查收这份广州站观演须知吧~[洛天依流光协奏_抱抱]\n\n💐花篮入场登记\n-申请时间：即日起-8月8日12:00前\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n\n🌟场贩相关须知\n-售卖时间：8月17日 17:00-18:50\n-场贩周边：场贩限定·广州「红宝石」礼盒\n\n🎶演出时间\n8月17日 19:12\n🎶演出场地\n广州·华南农业大学综合体育馆（竞赛馆）\n🎶巡演城市\n7.19 北京/8.2 成都/8.17 广州/8.23 上海\n\n还有关于交通指南、检票时间等演出相关资讯请戳长图查看哦！我们广州见～[洛天依流光协奏_你好结婚]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶「无限共鸣·流光协奏」下一站，广州！\n广州站的小伙伴请查收这份广州站观演须知吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_抱抱]",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/04ae473c4cf1fcf35fc87621f732b59a71c45dac.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💐花篮入场登记\n-申请时间：即日起-8月8日12:00前\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n\n🌟场贩相关须知\n-售卖时间：8月17日 17:00-18:50\n-场贩周边：场贩限定·广州「红宝石」礼盒\n\n🎶演出时间\n8月17日 19:12\n🎶演出场地\n广州·华南农业大学综合体育馆（竞赛馆）\n🎶巡演城市\n7.19 北京/8.2 成都/8.17 广州/8.23 上海\n\n还有关于交通指南、检票时间等演出相关资讯请戳长图查看哦！我们广州见～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_你好结婚]",
+        "package_id": "8393",
+        "emoji_id": "115576",
+        "name": "你好结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/b0b4163585be14073108df5422c45c72c85974ed.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-05_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/82cd38e8f25d9eb255ecde15f3f81a2636081646.jpg",
+        "width": 1080,
+        "height": 15392,
+        "size_kb": 6935.541,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/抱抱.png",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "text": "[洛天依流光协奏_抱抱]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/你好结婚.png",
+        "package_id": "8393",
+        "emoji_id": "115576",
+        "text": "[洛天依流光协奏_你好结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "广州·2025洛天依「无限共鸣•流光协奏」全息演唱会-广州站",
+            "price": "¥980",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202507/cahnDg951753352919473.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=105342&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1097596643642966036",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-08-05_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5247,
+    "comment": 479,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

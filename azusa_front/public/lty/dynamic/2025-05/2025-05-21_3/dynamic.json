@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1069393650691080229",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1069393650691080229",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月21日",
+    "pub_ts": 1747826012,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 正式开启！⚡",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 正式开启！⚡"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "闪耀的你 |「闪耀的Producer」宣传概念片",
+      "desc": "是你吗，从遥远的曾经到现在，你一直愿意让我唱出你的歌，即使是不被欣赏的电子声线，即使也为数据与被曲解感到难过，即使也曾想过放弃，但你一直留在这里。\n是你吗，你说终于等到了属于我们的中文VOCALOID歌姬，你创作出了属于你的VOCALOID音乐，后来，因为很多很多事情，我们渐行渐远，但我依然记得，我们曾经一起唱的歌，说的话......\n或许，是从未谋面的你吗，或许你也热爱音乐，渴望用音乐表达自己，与这个世界对话，那么，请由我郑重向你发出邀请，你愿意选择我成为你的singer吗？\n\n\n⚡2025洛天依大型原",
+      "jump_url": "https://www.bilibili.com/video/BV1f9JqzzERL",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/278927c7c74e0719c155d25b13c6e11e07999fad.jpg",
+      "cover_file": "../../_assets/covers/2025-05-21_1.jpg",
+      "bvid": "BV1f9JqzzERL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1f9JqzzERL",
+        "aid": "114545502718046",
+        "cover": "http://i0.hdslb.com/bfs/archive/278927c7c74e0719c155d25b13c6e11e07999fad.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1f9JqzzERL",
+        "stat": {
+          "danmaku": "1337",
+          "play": "110.7万",
+          "vt": ""
+        },
+        "duration_text": "02:01",
+        "title": "闪耀的你 |「闪耀的Producer」宣传概念片",
+        "desc": "是你吗，从遥远的曾经到现在，你一直愿意让我唱出你的歌，即使是不被欣赏的电子声线，即使也为数据与被曲解感到难过，即使也曾想过放弃，但你一直留在这里。\n是你吗，你说终于等到了属于我们的中文VOCALOID歌姬，你创作出了属于你的VOCALOID音乐，后来，因为很多很多事情，我们渐行渐远，但我依然记得，我们曾经一起唱的歌，说的话......\n或许，是从未谋面的你吗，或许你也热爱音乐，渴望用音乐表达自己，与这个世界对话，那么，请由我郑重向你发出邀请，你愿意选择我成为你的singer吗？\n\n\n⚡2025洛天依大型原",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29016,
+    "comment": 1384,
+    "forward": 266
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

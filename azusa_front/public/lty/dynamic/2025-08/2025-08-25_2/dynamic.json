@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "1105003331920592903",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1105003331920592903",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月25日",
+    "pub_ts": 1756117037,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依和@非人哉工作室 朋友们的特别纪念合影！[洛天依八音奇响动态_可爱]\n为了拯救非人哉和Vsinger，天依和非人哉的大家决定一起出道成为偶像？\n跟随音乐节拍，和我们一起闪耀舞台吧~！ [洛天依八音奇响动态_登场]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和"
+      },
+      {
+        "type": "mention",
+        "text": "@非人哉工作室",
+        "mid": 32741563,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 朋友们的特别纪念合影！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n为了拯救非人哉和Vsinger，天依和非人哉的大家决定一起出道成为偶像？\n跟随音乐节拍，和我们一起闪耀舞台吧~！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-25_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b9796792a50a2d35effd3269b71de6d436081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 502.1337890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-25_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c153c4b95baf8df9913c3af9a09b0d3036081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1589.14453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-25_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d93148e7bf0e19db31230c20a071dfab36081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1743.8994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-25_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/54746da28719eca8ef4aa37981d673ec36081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1551.1669921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-25_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/49fbf31f787002d1892cf576323ffc9736081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1764.685546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-25_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6e96eada9ba8707fd88fe52320d579d836081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1725.333984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7455,
+    "comment": 240,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

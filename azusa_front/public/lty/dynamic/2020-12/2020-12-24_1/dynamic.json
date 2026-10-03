@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "472298745883542006",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/472298745883542006",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月24日",
+    "pub_ts": 1608804021,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##Vsinger##香草茶与黑咖啡#\n谁说喜欢只能二选一？\n欢迎光临我们的下午茶，香草茶还是黑咖啡，还是……都要?\n趁着味道刚好，温度刚好，我的好，请全部收好！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "topic",
+        "text": "#香草茶与黑咖啡#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E8%8D%89%E8%8C%B6%E4%B8%8E%E9%BB%91%E5%92%96%E5%95%A1"
+      },
+      {
+        "type": "text",
+        "text": "\n谁说喜欢只能二选一？\n欢迎光临我们的下午茶，香草茶还是黑咖啡，还是……都要?\n趁着味道刚好，温度刚好，我的好，请全部收好！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】香草茶与黑咖啡",
+      "desc": "谁说喜欢只能二选一？\n欢迎光临我们的下午茶，香草茶还是黑咖啡，还是……都要?\n趁着味道刚好，温度刚好，我的好，请全部收好！\n\n—Staff—\n《香草茶与黑咖啡》\n演唱：洛天依\n作词/作曲/编曲：人形兎 \n调校：动点P / 人形兎 \n曲绘：TID  \n服装设计：糖糖\n编舞：ogata-姚子\n取景：皇叔\n人物建模、服装建模：Kacha\n服装贴图：Nanoda\n动作：Sika\n分镜、渲染、后期：DCarrot\n监制：Kinsama",
+      "jump_url": "https://www.bilibili.com/video/BV1K5411p7vR",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/55c751fc39b1a1915a349133133e65077bbae9f4.jpg",
+      "cover_file": "../../_assets/covers/2020-12-24_1.jpg",
+      "bvid": "BV1K5411p7vR",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1K5411p7vR",
+        "aid": "458369738",
+        "cover": "http://i1.hdslb.com/bfs/archive/55c751fc39b1a1915a349133133e65077bbae9f4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1K5411p7vR",
+        "stat": {
+          "danmaku": "2239",
+          "play": "95.1万",
+          "vt": ""
+        },
+        "duration_text": "02:31",
+        "title": "【洛天依原创曲】香草茶与黑咖啡",
+        "desc": "谁说喜欢只能二选一？\n欢迎光临我们的下午茶，香草茶还是黑咖啡，还是……都要?\n趁着味道刚好，温度刚好，我的好，请全部收好！\n\n—Staff—\n《香草茶与黑咖啡》\n演唱：洛天依\n作词/作曲/编曲：人形兎 \n调校：动点P / 人形兎 \n曲绘：TID  \n服装设计：糖糖\n编舞：ogata-姚子\n取景：皇叔\n人物建模、服装建模：Kacha\n服装贴图：Nanoda\n动作：Sika\n分镜、渲染、后期：DCarrot\n监制：Kinsama",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 56178,
+    "comment": 3798,
+    "forward": 603
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

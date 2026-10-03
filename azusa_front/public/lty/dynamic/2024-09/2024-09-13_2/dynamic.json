@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "id": "976622344217821232",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/976622344217821232",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月13日",
+    "pub_ts": 1726226009,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "似乎顺应谁的计划开启穿越的实验体\n开启平行时空的启示之瞳\n或许共鸣频率同振的刹那\n她将会降临在你的身旁\n\n⌨︎代号洛天依 x @CHERRY樱桃中国  MX 3.0S TKL联名键盘\n按键轴体：MX2A茶轴\n按键布局：87键+1樱桃键\n\n✨设计亮点\n以蓝白配色为主旋律，融入天依的独特元素，将穿越时空的故事印象结合主题风格镌刻机身\n\n🗝→网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "似乎顺应谁的计划开启穿越的实验体\n开启平行时空的启示之瞳\n或许共鸣频率同振的刹那\n她将会降临在你的身旁\n\n⌨︎代号洛天依 x "
+      },
+      {
+        "type": "mention",
+        "text": "@CHERRY樱桃中国 ",
+        "mid": 84567302,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " MX 3.0S TKL联名键盘\n按键轴体：MX2A茶轴\n按键布局：87键+1樱桃键\n\n✨设计亮点\n以蓝白配色为主旋律，融入天依的独特元素，将穿越时空的故事印象结合主题风格镌刻机身\n\n🗝→"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?from=malldetail&hasBack=false&itemsId=10333412&jumpLinkType=0&msource=link&noTitleBar=1&plat_id=124&share_from=h5&share_medium=iphone&share_plat=ios&share_session_id=365B8618-8819-4763-8271-BF61BD7F0533&share_source=COPY&share_tag=s_i&timestamp=1725589661&unique_k=ZsYQjRk#noReffer=true&goFrom=na"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-13_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/155d81a50bcc261ac9ac78e8e181765836081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2545.2880859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-09-13_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9c19e7f8cddcf56213c0662aa23f53a236081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2577.4033203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-09-13_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ba4a78b9f728e0d11d9f42450dff9de536081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2772.1044921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-09-13_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1f34c5c609e1bf4b066510048c43ec5736081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2606.8720703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-09-13_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8f00f7f86d247c04e38b3735c917630b36081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2546.71484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-09-13_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/45f17dbf5a469bd37fbf44e8635a603d36081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2423.34375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依 X CHERRY 联名款 MX3.0S TKL87键机械电竞游戏办公键盘",
+            "price": "¥91",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/b6/ef/b6ef56f7625d14af56c0d9290b84bd50.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10333412&msource=cps_Mdynamic_36081646_cont-2-976622344217821232&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-13_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3573,
+    "comment": 158,
+    "forward": 663
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

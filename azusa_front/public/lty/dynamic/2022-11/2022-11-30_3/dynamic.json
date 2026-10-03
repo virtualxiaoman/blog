@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "734285257121988693",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/734285257121988693",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月30日",
+    "pub_ts": 1669802509,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "请大家帮助洛选择接下来探索的区域  洛独自在宇宙中漂泊，终于到达了L星。 这里似乎遭受过严重的陨石灾害，生态环境早已发生变化，生物数量锐减，地表一片荒凉。 数月以来，她一直一个人在L星四处探险，寻找智慧生命存在的痕迹，直到这天—— “我在L星发现了大片高级文明存在的痕迹。” 请大家帮助洛选择接下来探索的区域： A.神秘的通道入口 B. 不远处的摩天大楼\n",
+    "blocks": [
+      {
+        "type": "vote",
+        "text": "请大家帮助洛选择接下来探索的区域",
+        "rid": "4285784",
+        "url": "https://www.bilibili.com/h5/vote?vote_id=4285784&dynamic_id=734285257121988693"
+      },
+      {
+        "type": "text",
+        "text": "  洛独自在宇宙中漂泊，终于到达了L星。 这里似乎遭受过严重的陨石灾害，生态环境早已发生变化，生物数量锐减，地表一片荒凉。 数月以来，她一直一个人在L星四处探险，寻找智慧生命存在的痕迹，直到这天—— “我在L星发现了大片高级文明存在的痕迹。” 请大家帮助洛选择接下来探索的区域： A.神秘的通道入口 B. 不远处的摩天大楼"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-30_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0e850bd7a5fd5197faf06e603ff7310736081646.png",
+        "width": 1440,
+        "height": 1080,
+        "size_kb": 3152.58984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-11-30_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2f3ab07aa3f2a0022805cae4d61c6b7336081646.png",
+        "width": 1440,
+        "height": 1080,
+        "size_kb": 3195.9404296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "vote",
+      "title": "请大家帮助洛选择接下来探索的区域",
+      "desc": "9953人参与",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "vote_id": "4285784",
+        "choice_cnt": "1",
+        "default_share": "1",
+        "title": "请大家帮助洛选择接下来探索的区域",
+        "desc": "9953人参与",
+        "end_time": "1670407069",
+        "join_num": "9953",
+        "status": "4",
+        "type": "1",
+        "uid": "36081646",
+        "jump_url": "",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "参与",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/h5/vote?vote_id=4285784&dyn_id=734285257121988693",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "upower_action_state": 0,
+        "upower_level": "0"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": {
+    "vote_id": "4285784",
+    "choice_cnt": "1",
+    "default_share": "1",
+    "title": "请大家帮助洛选择接下来探索的区域",
+    "desc": "9953人参与",
+    "end_time": "1670407069",
+    "join_num": "9953",
+    "status": "4",
+    "type": "1",
+    "uid": "36081646",
+    "jump_url": "",
+    "button": {
+      "type": 1,
+      "jump_style": {
+        "icon_url": "",
+        "text": "参与",
+        "interactive": null,
+        "bg_style": 0,
+        "toast": "",
+        "disable": 0
+      },
+      "jump_url": "//www.bilibili.com/h5/vote?vote_id=4285784&dyn_id=734285257121988693",
+      "check": null,
+      "uncheck": null,
+      "status": 0,
+      "click_type": 0
+    },
+    "upower_action_state": 0,
+    "upower_level": "0"
+  },
+  "stats": {
+    "like": 8521,
+    "comment": 628,
+    "forward": 2765
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

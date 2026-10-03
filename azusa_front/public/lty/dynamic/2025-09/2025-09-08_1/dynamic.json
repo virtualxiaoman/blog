@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "1110199250201870375",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1110199250201870375",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月8日",
+    "pub_ts": 1757326806,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "人类，小洛想占领你的手机~[洛天依八音奇响动态_嘻嘻]\n投喂天依小笼包，说不定会解锁第二弹哟！ [洛天依八音奇响动态_可爱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "人类，小洛想占领你的手机~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n投喂天依小笼包，说不定会解锁第二弹哟！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-08_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3916b64dff31b79fbdd1c1bf86ce963336081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 135.3759765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-08_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/226f02f3ae9e09138036ab58391cd73936081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 139.7841796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-09-08_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/16c72a8739f2232d21ea0ad04ac8d9b736081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 129.564453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-09-08_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c83345c0ddc91625780370be8f924a9b36081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 107.763671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-09-08_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b935d09d4d84f454a9fa4f96e790a1bf36081646.jpg",
+        "width": 2526,
+        "height": 1334,
+        "size_kb": 301.39453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-09-08_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0c6a17540fcbac0de28602b385bd1ddb36081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 138.294921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-09-08_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2061a0f246b4008e5b96bf7b3002285c36081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 146.1201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-09-08_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5fa840084cc942c20c69e52696edc5bd36081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 129.27734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-09-08_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/efa46ec3afaaf2a3655f2da921a647eb36081646.jpg",
+        "width": 706,
+        "height": 939,
+        "size_kb": 133.74609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9468,
+    "comment": 865,
+    "forward": 270
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

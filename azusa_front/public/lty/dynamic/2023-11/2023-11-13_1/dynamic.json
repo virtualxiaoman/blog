@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "863449182849990658",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/863449182849990658",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月13日",
+    "pub_ts": 1699875829,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "【全系列采风vlog视频（内蒙、西藏、新疆、幕后）总播放量100w】解锁的各地民族风原创音乐作品和天依的民族服饰新装模型已经进入紧锣密鼓的制作周期啦！[天依游学记_谢谢你]\n\n《天依游学记》内蒙篇单曲独家追更日历分享给大家，好怀念和大家分享游学之旅的时光呀，接下来，也请大家和天依一起解锁新的篇章吧！ [天依游学记_前排占楼]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【全系列采风vlog视频（内蒙、西藏、新疆、幕后）总播放量100w】解锁的各地民族风原创音乐作品和天依的民族服饰新装模型已经进入紧锣密鼓的制作周期啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n《天依游学记》内蒙篇单曲独家追更日历分享给大家，好怀念和大家分享游学之旅的时光呀，接下来，也请大家和天依一起解锁新的篇章吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_前排占楼]",
+        "package_id": "2363",
+        "emoji_id": "41444",
+        "name": "前排占楼",
+        "url": "https://i0.hdslb.com/bfs/garb/item/4d2426cc6160f9bbb5c0a325e6308369396efe09.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-11-13_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ffc173cd385d0ce919356f645f6576c536081646.jpg",
+        "width": 1080,
+        "height": 3710,
+        "size_kb": 2170.119140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      },
+      {
+        "file": "../../_assets/emojis/2363/前排占楼.png",
+        "package_id": "2363",
+        "emoji_id": "41444",
+        "text": "[天依游学记_前排占楼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5917,
+    "comment": 186,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:00:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

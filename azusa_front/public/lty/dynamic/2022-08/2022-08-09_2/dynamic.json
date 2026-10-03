@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "692409201504288809",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/692409201504288809",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月9日",
+    "pub_ts": 1660052480,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#就让眼泪随雨水流淌，所有的情绪都可以肆意表达，待天晴后再出发，会有属于你的季节期待你的盛放[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "就让眼泪随雨水流淌，所有的情绪都可以肆意表达，待天晴后再出发，会有属于你的季节期待你的盛放"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7295,
+    "comment": 137,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 691146433869381698,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2022-08/2022-08-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

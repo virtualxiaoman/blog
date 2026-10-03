@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1240834988389171204",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1240834988389171204",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月26日",
+    "pub_ts": 1787742809,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "很高兴演唱雄之助老师的新作，和天依一起期待正式投稿吧[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴演唱雄之助老师的新作，和天依一起期待正式投稿吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4645,
+    "comment": 154,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 1240831698443173896,
+    "orig_mid": 25480353,
+    "deleted": false,
+    "archive_dir": "../../../25480353/2026-08/2026-08-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:37:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

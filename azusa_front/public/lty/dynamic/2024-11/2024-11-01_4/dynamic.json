@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "994799006577065988",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/994799006577065988",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月1日",
+    "pub_ts": 1730458093,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依海洋之心# 轻故事集同人征集活动开启啦！\n🌊主题曲《潮声回响》来自塞壬的歌谣，听『潮声回响』【洛天依海洋之心原创曲】 \n♦「塞壬·Vespera」网页链接\n♦「海洋精灵·Saoirse」网页链接\n♦「冰海天使·Halcyon」网页链接\n♦「灯塔水母·Brume」网页链接\n\n四位少女踏上巡演的旅程，而她们的故事也暂时告一段落。\n而关于本期故事与音乐，大家又会有怎样的想象与理解呢？\n期待看到大家的创作~[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依海洋之心#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+      },
+      {
+        "type": "text",
+        "text": " 轻故事集同人征集活动开启啦！\n🌊主题曲《潮声回响》"
+      },
+      {
+        "type": "video",
+        "text": "来自塞壬的歌谣，听『潮声回响』【洛天依海洋之心原创曲】",
+        "url": "https://www.bilibili.com/video/av113395206456490",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n♦「塞壬·Vespera」"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/992176155933016067"
+      },
+      {
+        "type": "text",
+        "text": "\n♦「海洋精灵·Saoirse」"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/992548473750421511"
+      },
+      {
+        "type": "text",
+        "text": "\n♦「冰海天使·Halcyon」"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/992929256980873221"
+      },
+      {
+        "type": "text",
+        "text": "\n♦「灯塔水母·Brume」"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/993288080028860441"
+      },
+      {
+        "type": "text",
+        "text": "\n\n四位少女踏上巡演的旅程，而她们的故事也暂时告一段落。\n而关于本期故事与音乐，大家又会有怎样的想象与理解呢？\n期待看到大家的创作~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-01_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fb84b0d3dae96cbeccb8c1d9b1d46b1f36081646.jpg",
+        "width": 1200,
+        "height": 2654,
+        "size_kb": 695.4482421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3919,
+    "comment": 89,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

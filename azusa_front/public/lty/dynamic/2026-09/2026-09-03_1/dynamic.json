@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1243784735421890615",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1243784735421890615",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月3日",
+    "pub_ts": 1788429600,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "第一步「Move 走棋」\n\n你获得了第一枚棋子——“黑主教”[逆转童话动态_驾到]\n一个孤独的影子，遮蔽自己的双眼，以逃避注定的命运。\n直到复仇的预言降临，她落下棋子，吹响复仇之战的号角。\n\n“落子无悔，这便是我们千年夙愿，即将抵达的终点。” [逆转童话动态_盯]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第一步「Move 走棋」\n\n你获得了第一枚棋子——“黑主教”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n一个孤独的影子，遮蔽自己的双眼，以逃避注定的命运。\n直到复仇的预言降临，她落下棋子，吹响复仇之战的号角。\n\n“落子无悔，这便是我们千年夙愿，即将抵达的终点。” "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_盯]",
+        "package_id": "8744",
+        "emoji_id": "121354",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/1ec23b98599725cab9226dd8461ecd8dcec5133f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-03_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c64bf0573ccedfc5064774f3b7208ab436081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2879.9619140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/盯.gif",
+        "package_id": "8744",
+        "emoji_id": "121354",
+        "text": "[逆转童话动态_盯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6498,
+    "comment": 239,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

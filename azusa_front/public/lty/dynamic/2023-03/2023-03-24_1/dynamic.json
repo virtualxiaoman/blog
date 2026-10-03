@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "776612675250552833",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/776612675250552833",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年3月24日",
+    "pub_ts": 1679657629,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#飞行准备，即刻起航——\n穿越时空的维度，在暮色淹没前紧握光芒\n\n代号洛天依 ProjectLuo系列 周边补充包，期待与你再共同开启星际之旅~ [洛天依·夜航星_起飞]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "飞行准备，即刻起航——\n穿越时空的维度，在暮色淹没前紧握光芒\n\n代号洛天依 ProjectLuo系列 周边补充包，期待与你再共同开启星际之旅~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-03-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/db056310b9b45bd94f21c9c50485f96e36081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1159.046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-03-24_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b555f6453f5f5662f4017866b0b5d1a136081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 905.595703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8559,
+    "comment": 463,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

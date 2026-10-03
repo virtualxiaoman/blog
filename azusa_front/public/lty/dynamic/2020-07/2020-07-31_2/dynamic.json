@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "418135690702768108",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/418135690702768108",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月31日",
+    "pub_ts": 1596193202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@风停入梦 @likushuvi @冰z山 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@风停入梦",
+        "mid": 365306469,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@likushuvi",
+        "mid": 107694521,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@冰z山",
+        "mid": 442981463,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5059,
+    "comment": 223,
+    "forward": 11
+  },
+  "forward": {
+    "orig_id": 408861692377067632,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2020-07-06_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

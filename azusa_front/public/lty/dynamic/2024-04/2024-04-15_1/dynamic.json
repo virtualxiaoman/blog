@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "id": "920560020114898946",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/920560020114898946",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月15日",
+    "pub_ts": 1713172982,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪5位小伙伴送出【洛天依随机款式徽章】1个。\n冬不拉的丝弦，既能演奏人们生活的热情，也能拨动飞扬的草叶与天际的晚霞。\n鼓点声声，应和着马蹄的声响、大地的脉搏与四季的节奏。\n明快的旋律，如清澈纯净的冰雪融水，跃动在天山守护的大地之上，\n自由与生机，是天山送给音乐的馈赠，也是送给每一个听众的真挚祝福。\n\n天依游学记新疆篇单曲《天山之外》即将发布啦！[洛天依歌行四方_打手鼓]\n本次音乐灵感来自于对人类和自然关系的思考，壮阔肃穆的自然景物时常会使人们产生自我渺小之感，但作为自然的一份子，自然的美好、多样、美丽仍然会带给人们治愈——人生或许有限，但生命本身是一场体验之旅，无需与他人或环境相比较，随心而发、自由探索就好。希望这首来自天山下的歌曲，能够带给大家治愈~[洛天依歌行四方_扭脖子]\n歌曲将于4月18日正式上线，今天天依依旧为大家带来了歌曲概念与老师们的寄语，请大家点击图片查收~[洛天依歌行四方_请吃瓜果]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪5位小伙伴送出【洛天依随机款式徽章】1个。\n冬不拉的丝弦，既能演奏人们生活的热情，也能拨动飞扬的草叶与天际的晚霞。\n鼓点声声，应和着马蹄的声响、大地的脉搏与四季的节奏。\n明快的旋律，如清澈纯净的冰雪融水，跃动在天山守护的大地之上，\n自由与生机，是天山送给音乐的馈赠，也是送给每一个听众的真挚祝福。\n\n天依游学记新疆篇单曲《天山之外》即将发布啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_打手鼓]",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "name": "打手鼓",
+        "url": "https://i0.hdslb.com/bfs/emote/d3342fd45ede3b253aaeced8db5d52aadcbfc3c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n本次音乐灵感来自于对人类和自然关系的思考，壮阔肃穆的自然景物时常会使人们产生自我渺小之感，但作为自然的一份子，自然的美好、多样、美丽仍然会带给人们治愈——人生或许有限，但生命本身是一场体验之旅，无需与他人或环境相比较，随心而发、自由探索就好。希望这首来自天山下的歌曲，能够带给大家治愈~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n歌曲将于4月18日正式上线，今天天依依旧为大家带来了歌曲概念与老师们的寄语，请大家点击图片查收~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_请吃瓜果]",
+        "package_id": "4128",
+        "emoji_id": "58604",
+        "name": "请吃瓜果",
+        "url": "https://i0.hdslb.com/bfs/emote/2e1123531f9c627fe2b37ce5da23355f4af5f9ab.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/703a7d6aad803b182e23835f8564985c36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1329.337890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-15_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/98b3d86e5adae743579a5d12b879e76b36081646.jpg",
+        "width": 1080,
+        "height": 4064,
+        "size_kb": 2506.8876953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-15_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/93873694f486e36254e3da0b330d559736081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1247.05078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-04-15_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9c071417d99a779679012aa84ee007cb36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1307.6337890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/打手鼓.png",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "text": "[洛天依歌行四方_打手鼓]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/请吃瓜果.png",
+        "package_id": "4128",
+        "emoji_id": "58604",
+        "text": "[洛天依歌行四方_请吃瓜果]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：游学记新疆篇单曲《天山之外》",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV16r42137W5",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：游学记新疆篇单曲《天山之外》",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "65.4万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV16r42137W5",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV16r42137W5",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3686798,
+        "reserve_total": 2675,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5328,
+    "comment": 1773,
+    "forward": 3285
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

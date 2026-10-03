@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "id": "1104256428501106693",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1104256428501106693",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月23日",
+    "pub_ts": 1755943135,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "上海站的大家——你们到了吗！天依已经迫不及待想和大家见面啦~[洛天依·闪耀的Producer动态_我更喜欢你]\n明明天气预告还是大晴天，还是下了一场大雨，难道是天依和大家的约定讯号？[洛天依·闪耀的Producer动态_幸福]\n谢谢大家的花篮，一路奔波的大家和签售的Chinozo和aruse老师都辛苦啦，游园会和接下来的演唱会都要玩得开心哦！我们一会儿舞台见吧～[洛天依·闪耀的Producer动态_全肯定]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "上海站的大家——你们到了吗！天依已经迫不及待想和大家见面啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "name": "我更喜欢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/6802c9a5c0ff1d69b3bd334a33872a74b0b625e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n明明天气预告还是大晴天，还是下了一场大雨，难道是天依和大家的约定讯号？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n谢谢大家的花篮，一路奔波的大家和签售的Chinozo和aruse老师都辛苦啦，游园会和接下来的演唱会都要玩得开心哦！我们一会儿舞台见吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "name": "全肯定",
+        "url": "https://i0.hdslb.com/bfs/garb/d75992612c05c5748714d5349019c026a99e741d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-23_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e9b428f66aa9de0a66205bc685496fe536081646.jpg",
+        "width": 1920,
+        "height": 962,
+        "size_kb": 2435.300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-23_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e994f8f81528c113ccfee7da7ca1779936081646.jpg",
+        "width": 1920,
+        "height": 1057,
+        "size_kb": 3002.10009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-23_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/04aeb1bf316a8eb7e06746f3f17ffba836081646.jpg",
+        "width": 1618,
+        "height": 1080,
+        "size_kb": 1468.22998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-23_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e1d1b4d317cda0b396ebb7a9b3a70eae36081646.jpg",
+        "width": 1888,
+        "height": 1080,
+        "size_kb": 1649.530029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-23_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7df7d3cf5a59f1ebad691a462b8753d436081646.jpg",
+        "width": 1653,
+        "height": 1080,
+        "size_kb": 1542.1099853515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-23_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ff784577a0acf1893026b95811bcf3ef36081646.jpg",
+        "width": 1920,
+        "height": 932,
+        "size_kb": 2264.909912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-08-23_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/32bcfa93f0429f775decb871fe6f2b3636081646.jpg",
+        "width": 1618,
+        "height": 1080,
+        "size_kb": 1271.300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-08-23_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2ca302a288fde60b7d39a18392ecdacc36081646.jpg",
+        "width": 1920,
+        "height": 1178,
+        "size_kb": 763.52001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-08-23_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/147fcb07053eb8a4fd46619041d804d736081646.jpg",
+        "width": 1920,
+        "height": 1035,
+        "size_kb": 2327.110107421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2025-08-23_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/898ee69ec731f2c3a326d575fb62093c36081646.jpg",
+        "width": 1920,
+        "height": 776,
+        "size_kb": 1558.22998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 11,
+        "file": "../../_assets/images/2025-08-23_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/11caea3eb197bdd277c7d1bbcdbaeefa36081646.jpg",
+        "width": 1920,
+        "height": 1029,
+        "size_kb": 2122.1201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 12,
+        "file": "../../_assets/images/2025-08-23_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ae6c07d8c51c2d619a038d36bbc38c5036081646.jpg",
+        "width": 1664,
+        "height": 1080,
+        "size_kb": 1324.3299560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 13,
+        "file": "../../_assets/images/2025-08-23_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fc60d2a02a3c79c1be90e36301a4b34436081646.jpg",
+        "width": 1920,
+        "height": 1053,
+        "size_kb": 2634.590087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 14,
+        "file": "../../_assets/images/2025-08-23_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e4a735f362e08664425a0b60a874d83136081646.jpg",
+        "width": 1920,
+        "height": 1059,
+        "size_kb": 2622.110107421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 15,
+        "file": "../../_assets/images/2025-08-23_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4b0a0bcd4ffc2dc88727155c43606a9a36081646.jpg",
+        "width": 1618,
+        "height": 1080,
+        "size_kb": 1155.4000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 16,
+        "file": "../../_assets/images/2025-08-23_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ce3c287d51dd48f8c6397a621fb67f2336081646.jpg",
+        "width": 1856,
+        "height": 1080,
+        "size_kb": 1359.699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 17,
+        "file": "../../_assets/images/2025-08-23_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7fa53189e60fbbd1e75895838863ca4336081646.jpg",
+        "width": 1861,
+        "height": 1080,
+        "size_kb": 1111.9300537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 18,
+        "file": "../../_assets/images/2025-08-23_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e7e494a12567bf9a5c1d158308c6e6a536081646.jpg",
+        "width": 1920,
+        "height": 934,
+        "size_kb": 2197.070068359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/我更喜欢你.gif",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/全肯定.gif",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5668,
+    "comment": 511,
+    "forward": 77
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

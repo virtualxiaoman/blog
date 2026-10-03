@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1221055835063451702",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1221055835063451702",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月4日",
+    "pub_ts": 1783137616,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依十四周年线下生日歌会】场地探秘计划启动！",
+      "desc": "天依来帮你们提前踩点啦~\n拍照点位，美食点位，游玩点位，通通拿下拿下！\n当然还有最重要的——\n洛天依十四周年共鸣之夜线下生日歌会 · 超无限信号 演出场地！\n7月12日19:00，我们北京环球度假区，不见不散~",
+      "jump_url": "https://www.bilibili.com/video/BV1k9T46iExW",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/545834d666cc120d8f1fca3c5f289a465f169fa1.jpg",
+      "cover_file": "../../_assets/covers/2026-07-04_1.jpg",
+      "bvid": "BV1k9T46iExW",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1k9T46iExW",
+        "aid": "116855423436902",
+        "cover": "http://i1.hdslb.com/bfs/archive/545834d666cc120d8f1fca3c5f289a465f169fa1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1k9T46iExW",
+        "stat": {
+          "danmaku": "881",
+          "play": "29.7万",
+          "vt": ""
+        },
+        "duration_text": "01:08",
+        "title": "【洛天依十四周年线下生日歌会】场地探秘计划启动！",
+        "desc": "天依来帮你们提前踩点啦~\n拍照点位，美食点位，游玩点位，通通拿下拿下！\n当然还有最重要的——\n洛天依十四周年共鸣之夜线下生日歌会 · 超无限信号 演出场地！\n7月12日19:00，我们北京环球度假区，不见不散~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 56276,
+    "comment": 956,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:26:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

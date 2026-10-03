@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "244361623141673853",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/244361623141673853",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月20日",
+    "pub_ts": 1555733274,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "喜欢我们的小旗袍么？\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "喜欢我们的小旗袍么？"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-04-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e4ecfdf23f2202a24d9a5ba97a4f765a40aee4da.jpg",
+        "width": 2480,
+        "height": 31888,
+        "size_kb": 6527.611328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10522,
+    "comment": 946,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

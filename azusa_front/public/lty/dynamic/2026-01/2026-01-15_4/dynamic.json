@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1158050447188033538",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1158050447188033538",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月15日",
+    "pub_ts": 1768468031,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·无锡站\n很荣幸邀请到特别演出伙伴——\n著名歌唱艺术家@龚琳娜 老师！[洛天依·戏游九州动态_撒花]\n\n继2023最美的夜跨年晚会舞台，2024洛天依无限共鸣全息演唱会之后\n天依很高兴要再次和龚老师一起唱歌啦！大家一起欢迎龚老师吧~[洛天依·戏游九州动态_期待]\n\n🎶演出时间&场地\n2月7日19:12 无锡体育中心体育馆\n\n🎶购票时间\n-【优先购票】1月16日 18:00\n-【正式开售】1月16日 19:00\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·无锡站\n很荣幸邀请到特别演出伙伴——\n著名歌唱艺术家"
+      },
+      {
+        "type": "mention",
+        "text": "@龚琳娜 ",
+        "mid": 4976111,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n继2023最美的夜跨年晚会舞台，2024洛天依无限共鸣全息演唱会之后\n天依很高兴要再次和龚老师一起唱歌啦！大家一起欢迎龚老师吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_期待]",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/f68b3f62d213cd7755ec7076adab88bccf6df9bc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶演出时间&场地\n2月7日19:12 无锡体育中心体育馆\n\n🎶购票时间\n-【优先购票】1月16日 18:00\n-【正式开售】1月16日 19:00"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-15_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6cd1c3d9845715ef7448128d0a1bfdad36081646.jpg",
+        "width": 1622,
+        "height": 2885,
+        "size_kb": 3185.93994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/期待.gif",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "text": "[洛天依·戏游九州动态_期待]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "无锡·2026洛天依「无限共鸣•流光协奏」全息演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202601/e4trjeX71767581310_1767581310508.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=112020&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1158050447188033538",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-01-15_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4226,
+    "comment": 218,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

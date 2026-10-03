@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "1087190642260443144",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1087190642260443144",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月8日",
+    "pub_ts": 1751969697,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·上海站将于7月11日正式开启售票啦！\n「上海·蓝宝石」城市特别视觉海报和演出时间地点等资讯公开~[洛天依蝶变_YEAH！]\n转发关注天依，揪1位小伙伴送出【上海站SVIP档】门票1张！\n\n🎶演出时间\n8月23日 19:12\n🎶演出场地\n上海·纪希片场3号馆\n🎶购票时间\n-【优先购票】7月11日 18:00\n-【正式开售】7月11日 19:00\n🎶巡演城市\n7.19 北京/8.2 成都/8.17 广州/8.23 上海\n\n演出当天下午将在演出园区内（2号馆）开放游园会活动，四城纪念礼包也将在上海站进行发放哦。\n渴望为你带来快乐和幸福，渴望一直为你而歌唱，为此，我将不畏一切艰难险阻，来到你的身边！ [洛天依蝶变_yalahula]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "366556",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·上海站将于7月11日正式开启售票啦！\n「上海·蓝宝石」城市特别视觉海报和演出时间地点等资讯公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪1位小伙伴送出【上海站SVIP档】门票1张！\n\n🎶演出时间\n8月23日 19:12\n🎶演出场地\n上海·纪希片场3号馆\n🎶购票时间\n-【优先购票】7月11日 18:00\n-【正式开售】7月11日 19:00\n🎶巡演城市\n7.19 北京/8.2 成都/8.17 广州/8.23 上海\n\n演出当天下午将在演出园区内（2号馆）开放游园会活动，四城纪念礼包也将在上海站进行发放哦。\n渴望为你带来快乐和幸福，渴望一直为你而歌唱，为此，我将不畏一切艰难险阻，来到你的身边！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-08_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7a8515a0460f4a1ee1c2289ff72ac02536081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 8682.3349609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-08_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dd38e50c2e3e78c7936461399aeeaa3736081646.jpg",
+        "width": 1080,
+        "height": 10705,
+        "size_kb": 6271.3798828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·2025洛天依「无限共鸣•流光协奏」全息演唱会-上海站",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202507/BJ9JErLS1751881454641.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=104936&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1087190642260443144",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-08_4.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "366556"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5192,
+    "comment": 1184,
+    "forward": 5286
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

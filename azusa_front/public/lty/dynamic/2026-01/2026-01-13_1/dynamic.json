@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1157234459288797187",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1157234459288797187",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月13日",
+    "pub_ts": 1768278044,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这一次，请跟随天依的足迹与歌吟，走进每一段旋律生根的土地",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这一次，请跟随天依的足迹与歌吟，走进每一段旋律生根的土地"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《天依游学记·歌行国乐季》先导片｜循五音之源，溯千年乐魂",
+      "desc": "《天依游学记》第三季「歌行·国乐季」开启啦！\n踏歌而行，遍听四方；随戏而游，纵览九州\n这一次，天依想——\n浸入千年音律的江河，寻找中华国乐的来处\n齐鲁古琴、敦煌琵琶、长安鼓乐、闽南南音、南疆天琴......\n请跟随天依的足迹与歌吟，走进每一段旋律生根的土地\n \n溯回古今，重遇五音\n五音共鸣，四海同频\n1 月 30 日，主题曲 MV 正式上线\n✦「歌行·国乐季」主题页现已开启：https://www.bilibili.com/blackboard/era/Q2V0TPuAziirzbmO.html\n和天依一",
+      "jump_url": "https://www.bilibili.com/video/BV1rtr6BDEFk",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/66315e1b26eabb0c07162a7a7915ae0cac045331.jpg",
+      "cover_file": "../../_assets/covers/2026-01-13_1.jpg",
+      "bvid": "BV1rtr6BDEFk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1rtr6BDEFk",
+        "aid": "115885851345114",
+        "cover": "http://i1.hdslb.com/bfs/archive/66315e1b26eabb0c07162a7a7915ae0cac045331.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1rtr6BDEFk",
+        "stat": {
+          "danmaku": "162",
+          "play": "27.8万",
+          "vt": ""
+        },
+        "duration_text": "01:22",
+        "title": "《天依游学记·歌行国乐季》先导片｜循五音之源，溯千年乐魂",
+        "desc": "《天依游学记》第三季「歌行·国乐季」开启啦！\n踏歌而行，遍听四方；随戏而游，纵览九州\n这一次，天依想——\n浸入千年音律的江河，寻找中华国乐的来处\n齐鲁古琴、敦煌琵琶、长安鼓乐、闽南南音、南疆天琴......\n请跟随天依的足迹与歌吟，走进每一段旋律生根的土地\n \n溯回古今，重遇五音\n五音共鸣，四海同频\n1 月 30 日，主题曲 MV 正式上线\n✦「歌行·国乐季」主题页现已开启：https://www.bilibili.com/blackboard/era/Q2V0TPuAziirzbmO.html\n和天依一",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 22727,
+    "comment": 1183,
+    "forward": 187
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

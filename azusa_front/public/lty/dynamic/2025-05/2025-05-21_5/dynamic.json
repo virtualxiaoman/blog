@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "id": "1069416233599762441",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1069416233599762441",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月21日",
+    "pub_ts": 1747831270,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 特邀评委⚡\n\n特邀评委：\n@陈致逸音乐工作室  @歌手唐汉霄  @天秤Dav @我是爱音乐的徐梦圆  @银临 @音乐制作人赵兆\n\n微博音乐：\n陈小君Junior、LiveMusic现场、刘尼尼、拾音机、音乐黄立业、音乐观察员、阵雨在听\n\n一起为大家的创作喝彩！感谢老师们的受邀~ [洛天依·天星问动态_萌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 特邀评委⚡\n\n特邀评委：\n"
+      },
+      {
+        "type": "mention",
+        "text": "@陈致逸音乐工作室",
+        "mid": 11057377,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "mention",
+        "text": "@歌手唐汉霄",
+        "mid": 23994746,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "mention",
+        "text": "@天秤Dav",
+        "mid": 1054162081,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@我是爱音乐的徐梦圆",
+        "mid": 12633655,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "mention",
+        "text": "@银临",
+        "mid": 2460656,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@音乐制作人赵兆",
+        "mid": 225526812,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n\n微博音乐：\n陈小君Junior、LiveMusic现场、刘尼尼、拾音机、音乐黄立业、音乐观察员、阵雨在听\n\n一起为大家的创作喝彩！感谢老师们的受邀~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-21_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e81dfdb5ae9f4506517399938fa16bf536081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1450.501953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-05-21_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a64686ae85d136222231e59953ac18c736081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1398.3369140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-05-21_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/39e1dd9d187d09902b5c9fac64d5a71336081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1442.03125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-05-21_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/36f1c1cbe732c32f905139ab6a85111936081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1611.109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-05-21_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/10398d49a6d9f2eff969da27552a0b7b36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1467.8837890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-05-21_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1ebcfe1cba8669f3327ccf8247d1b81436081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1534.44921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-05-21_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/351bb8a5479b62c7be753bc8b2d83e2036081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1430.982421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-05-21_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/88e45788d1c6eda449ef7ccd5fe9e65536081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1544.7177734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4421,
+    "comment": 217,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

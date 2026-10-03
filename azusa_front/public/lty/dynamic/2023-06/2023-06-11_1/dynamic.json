@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "805811550909628531",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/805811550909628531",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月11日",
+    "pub_ts": 1686456022,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "准备！123 走， 左三圈 ，右三圈～",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "准备！123 走， 左三圈 ，右三圈～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "预备备！ 左三圈右三圈｜洛天依&Vicky宣宣",
+      "desc": "《健康歌2023》\n演唱：洛天依&Vicky宣宣\n词曲：Vicky宣宣\n编曲：CDY\n调教：鬼面P\n混音：拙木",
+      "jump_url": "https://www.bilibili.com/video/BV1Yu411Y7DS",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/fa394a42f40f29710aceb239eccb5d0ad90ea342.jpg",
+      "cover_file": "../../_assets/covers/2023-06-11_1.jpg",
+      "bvid": "BV1Yu411Y7DS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Yu411Y7DS",
+        "aid": "529690497",
+        "cover": "http://i1.hdslb.com/bfs/archive/fa394a42f40f29710aceb239eccb5d0ad90ea342.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Yu411Y7DS",
+        "stat": {
+          "danmaku": "264",
+          "play": "64.6万",
+          "vt": ""
+        },
+        "duration_text": "03:27",
+        "title": "预备备！ 左三圈右三圈｜洛天依&Vicky宣宣",
+        "desc": "《健康歌2023》\n演唱：洛天依&Vicky宣宣\n词曲：Vicky宣宣\n编曲：CDY\n调教：鬼面P\n混音：拙木",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 62601,
+    "comment": 934,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "248849365753953249",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/248849365753953249",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月2日",
+    "pub_ts": 1556778158,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你们听到篱笆外的鸟儿在叫吗(｡･ω･｡)",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你们听到篱笆外的鸟儿在叫吗(｡･ω･｡)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4403,
+    "comment": 204,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 248503376073329406,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2019-05/2019-05-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

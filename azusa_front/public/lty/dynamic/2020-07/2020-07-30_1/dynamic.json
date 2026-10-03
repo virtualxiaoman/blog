@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "417772654298441626",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/417772654298441626",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月30日",
+    "pub_ts": 1596108676,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "——【我 想要努力歌唱】 天依的粘土人即将开订，小伙伴们是不是都和天依一样期待？天钿已经开心得蹦哒一天了～ 替换表情共有三种，配件包含天钿、麦克风、翅膀和耳麦，请让我为你歌唱梦想与成长。 7月31日上午11点正式开订，售价为356元RMB，后续详情请关注Goodsmile上海的动态。 天依的微博还有转发抽奖活动，来关注一下试试运气吧~ \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "——【我 想要努力歌唱】 天依的粘土人即将开订，小伙伴们是不是都和天依一样期待？天钿已经开心得蹦哒一天了～ 替换表情共有三种，配件包含天钿、麦克风、翅膀和耳麦，请让我为你歌唱梦想与成长。 7月31日上午11点正式开订，售价为356元RMB，后续详情请关注Goodsmile上海的动态。 天依的微博还有转发抽奖活动，来关注一下试试运气吧~ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fa53dc66cd9b4fc1c5937386329d7622f06bfaba.jpg",
+        "width": 1670,
+        "height": 1746,
+        "size_kb": 988.1455078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-07-30_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/898437ec9dc5fc7479448b0e28028432e6f89147.jpg",
+        "width": 1527,
+        "height": 1710,
+        "size_kb": 904.6767578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-07-30_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/67109587e4630d90ebdc2c3c7018db0c98f2d8d2.jpg",
+        "width": 1617,
+        "height": 1740,
+        "size_kb": 924.7412109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-07-30_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a419ab849f530179b7a91ad58b85635b3b189af1.jpg",
+        "width": 1641,
+        "height": 1740,
+        "size_kb": 1035.1064453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2020-07-30_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/edb4493aba534595bf67fb620315718aff229e86.jpg",
+        "width": 1593,
+        "height": 1746,
+        "size_kb": 929.2470703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8897,
+    "comment": 585,
+    "forward": 216
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

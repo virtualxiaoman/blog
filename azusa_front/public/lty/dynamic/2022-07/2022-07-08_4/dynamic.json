@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "680510724606263335",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/680510724606263335",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月8日",
+    "pub_ts": 1657282150,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依来替老V报个名！[洛天依_棒]【顺便传说助攻[洛天依_冲鸭]】",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来替老V报个名！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_棒]",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "name": "棒",
+        "url": "http://i0.hdslb.com/bfs/emote/abacb9fcc2526c00ff071917c51d7a474218609d.png"
+      },
+      {
+        "type": "text",
+        "text": "【顺便传说助攻"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "text",
+        "text": "】"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/棒.png",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "text": "[洛天依_棒]"
+      },
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8353,
+    "comment": 335,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 679427486577066006,
+    "orig_mid": 3379951,
+    "deleted": false,
+    "archive_dir": "../../../3379951/2022-07/2022-07-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:50:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

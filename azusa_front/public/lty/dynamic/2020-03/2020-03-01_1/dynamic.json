@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "361654396858962106",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/361654396858962106",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年3月1日",
+    "pub_ts": 1583042626,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依跨次元芭莎登封#每一张被定格的美丽画面背后，都有一段美好的故事，这是天依与武汉的美好邂逅，也是天依与时尚芭莎的神奇相遇。  关注天依并转发这条动态，天依就会送出10张【签名海报】给幸运的小伙伴，这是天依首次发布签名海报，希望大家喜欢(⁎⁍̴̛ᴗ⁍̴̛⁎)\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "42359",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依跨次元芭莎登封#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%B7%A8%E6%AC%A1%E5%85%83%E8%8A%AD%E8%8E%8E%E7%99%BB%E5%B0%81"
+      },
+      {
+        "type": "text",
+        "text": "每一张被定格的美丽画面背后，都有一段美好的故事，这是天依与武汉的美好邂逅，也是天依与时尚芭莎的神奇相遇。  关注天依并转发这条动态，天依就会送出10张【签名海报】给幸运的小伙伴，这是天依首次发布签名海报，希望大家喜欢(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-03-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/206b68ea935c8f67fe88a36a4b26b6326fc5a992.jpg",
+        "width": 15354,
+        "height": 10236,
+        "size_kb": 4489.87,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-03-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1e0cfb3277195bf0f207849dff34d465540dfa17.jpg",
+        "width": 6000,
+        "height": 4000,
+        "size_kb": 7309.26,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-03-01_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d30fab66e8b628277a8ffc556974a1fef90d1f7a.jpg",
+        "width": 5456,
+        "height": 3632,
+        "size_kb": 9162.59,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-03-01_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/32e8bbd84ee26e4c29d8e038119a701eabf0f6c7.jpg",
+        "width": 6000,
+        "height": 4000,
+        "size_kb": 7224.84,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2020-03-01_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/beb17c0c28b4c1c36c26a734e53a09b896aab863.jpg",
+        "width": 3717,
+        "height": 2428,
+        "size_kb": 6021.97,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "42359"
+  },
+  "vote": null,
+  "stats": {
+    "like": 20568,
+    "comment": 3221,
+    "forward": 26656
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:23:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1012463122583126016",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1012463122583126016",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月19日",
+    "pub_ts": 1734570840,
+    "location": ""
+  },
+  "topic": {
+    "id": 1239845,
+    "name": "2024最美的夜跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1239845&topic_name=2024%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "#最美的夜老朋友阵容官宣# \n是我，意外吗？是的，天依又来啦~\n12月31日19:30#2024最美的夜跨年晚会# \n大家记得一定要来哦～\n总有一瞬，与你的宇宙共振[歌行宇宙表情包_出发]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#最美的夜老朋友阵容官宣#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%80%81%E6%9C%8B%E5%8F%8B%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+      },
+      {
+        "type": "text",
+        "text": " \n是我，意外吗？是的，天依又来啦~\n12月31日19:30"
+      },
+      {
+        "type": "topic",
+        "text": "#2024最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2024%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " \n大家记得一定要来哦～\n总有一瞬，与你的宇宙共振"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_出发]",
+        "package_id": "5880",
+        "emoji_id": "86900",
+        "name": "出发",
+        "url": "https://i0.hdslb.com/bfs/garb/5b06d69d0123790ce30b67b115f3bac9d24459ed.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0eba3aeaddcf0bf30d5f4dea9d3c3f0b36081646.jpg",
+        "width": 2160,
+        "height": 4073,
+        "size_kb": 6107.96484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/出发.png",
+        "package_id": "5880",
+        "emoji_id": "86900",
+        "text": "[歌行宇宙表情包_出发]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7693,
+    "comment": 425,
+    "forward": 137
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

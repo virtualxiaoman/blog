@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "867548260978393096",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/867548260978393096",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月24日",
+    "pub_ts": 1700830220,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家看过来～是天依专场哦！[代号洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家看过来～是天依专场哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5303,
+    "comment": 174,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 0,
+    "orig_mid": 0,
+    "deleted": false,
+    "archive_dir": "../../../0/2026-10/2026-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

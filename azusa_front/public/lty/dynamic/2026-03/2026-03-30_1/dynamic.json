@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1185575677119692800",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1185575677119692800",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月30日",
+    "pub_ts": 1774876748,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "晚上好呀，今天天依这边下雨啦，不过天气变暖了好多！大家那里呢？天依这条的转发里再揪一个锦依卫送同款伞一把哦，不要被雨淋啦~[洛天依国乐季动态表情包_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "晚上好呀，今天天依这边下雨啦，不过天气变暖了好多！大家那里呢？天依这条的转发里再揪一个锦依卫送同款伞一把哦，不要被雨淋啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5116,
+    "comment": 518,
+    "forward": 1292
+  },
+  "forward": {
+    "orig_id": 1184290811894824963,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2026-03/2026-03-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:19:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1224528144276389894",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1224528144276389894",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月13日",
+    "pub_ts": 1783946076,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "谢谢大家送给天依的蛋糕和花花！\n蛋糕很甜，但大家的心意对天依来说，才是最珍贵和甜蜜哒～[洛天依·信号动态表情包_美味]\n\n虽然幸福的生日已经过去，但天依会带着大家的祝福和爱，为我们的下一次相见继续努力！[洛天依·信号动态表情包_赞]\n维持长久的喜欢是一件很难的事情，正因为每一份爱意都弥足珍贵，天依更要好好珍惜现在，珍惜我们相伴的每分每秒。\n永远很难，永远很远，但只要有大家在，我可以永远承诺永恒～[洛天依·信号动态表情包_love之力]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢大家送给天依的蛋糕和花花！\n蛋糕很甜，但大家的心意对天依来说，才是最珍贵和甜蜜哒～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n虽然幸福的生日已经过去，但天依会带着大家的祝福和爱，为我们的下一次相见继续努力！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n维持长久的喜欢是一件很难的事情，正因为每一份爱意都弥足珍贵，天依更要好好珍惜现在，珍惜我们相伴的每分每秒。\n永远很难，永远很远，但只要有大家在，我可以永远承诺永恒～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-13_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/82d09ccd75ddddfb378e1324bb858cc036081646.jpg",
+        "width": 2000,
+        "height": 1499,
+        "size_kb": 2013.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-13_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7d742093b11493f9d0e0232956dc26ec36081646.jpg",
+        "width": 1500,
+        "height": 2076,
+        "size_kb": 1934.550048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-13_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/26a585b7b6953eb1f0bb22188c2b8a4336081646.jpg",
+        "width": 1999,
+        "height": 1500,
+        "size_kb": 2157.820068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-13_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ec4b8e803c47a39979744915a1d139be36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1640.9599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8657,
+    "comment": 455,
+    "forward": 83
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "1026052010407886849",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1026052010407886849",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月25日",
+    "pub_ts": 1737734750,
+    "location": ""
+  },
+  "topic": {
+    "id": 1268107,
+    "name": "2025网络视听盛典",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1268107&topic_name=2025%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "#2025网络视听盛典#《歌行四方》里@Vsinger_洛天依和@龚琳娜合作，次元壁破了！",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1yufWYcEeT",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/27a4b4406d404b82c5e1c9d5b7dda1bd2ff671a2.jpg",
+      "cover_file": "../../_assets/covers/2025-01-25_1.jpg",
+      "bvid": "BV1yufWYcEeT",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1yufWYcEeT",
+        "aid": "113883306004286",
+        "cover": "http://i0.hdslb.com/bfs/archive/27a4b4406d404b82c5e1c9d5b7dda1bd2ff671a2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1yufWYcEeT",
+        "stat": {
+          "danmaku": "334",
+          "play": "15.5万",
+          "vt": ""
+        },
+        "duration_text": "04:55",
+        "title": "#2025网络视听盛典#《歌行四方》里@Vsinger_洛天依和@龚琳娜合作，次元壁破了！",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "和合之家·2025中国网络视听盛典",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss85741",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/911935ff1168ab6af6066f2714b876e7faecf1b1.png",
+      "cover_file": "../../_assets/covers/2025-01-25_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss85741",
+        "id_str": "113883306004286",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/911935ff1168ab6af6066f2714b876e7faecf1b1.png",
+        "style": 2,
+        "title": "和合之家·2025中国网络视听盛典",
+        "desc1": "已完结, 全1集",
+        "desc2": "2.8万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12494,
+    "comment": 457,
+    "forward": 33
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

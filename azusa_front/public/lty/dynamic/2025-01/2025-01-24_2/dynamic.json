@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1025926842189611104",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1025926842189611104",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月24日",
+    "pub_ts": 1737705607,
+    "location": ""
+  },
+  "topic": {
+    "id": 1223711,
+    "name": "2025虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1223711&topic_name=2025%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "“固知难以永久，不若珍惜片刻。”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“固知难以永久，不若珍惜片刻。”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“攒我千年，赐你一眼，余生都看遍”【洛天依原创曲】《不堪人间》【2025虚拟歌手贺岁纪单品】",
+      "desc": "《不堪人间》\n\n“固知难以永久，不若珍惜片刻。”\n——李碧华《青蛇》                   \n\n演唱：洛天依\n作词：Vagary\n作曲/编曲：papaw泡泡\n调校：Creuzer\n制作人：昆吾\n和声编写：李泽源\n吉他：papaw泡泡\n笛箫：囚牛\n混音/母带：王磊@Allanwang Studio\n人设：葬雪荒城\n曲绘：葬雪荒城、Ar极光、积雨云\n视频制作：MOLA、步杨\n协力：Dagazs\n监制：Suya",
+      "jump_url": "https://www.bilibili.com/video/BV1vJwmepEGz",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/2707b6f4f2c11903c65b8dfda848b24ae0184992.jpg",
+      "cover_file": "../../_assets/covers/2025-01-24_1.jpg",
+      "bvid": "BV1vJwmepEGz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1vJwmepEGz",
+        "aid": "113859046218205",
+        "cover": "http://i0.hdslb.com/bfs/archive/2707b6f4f2c11903c65b8dfda848b24ae0184992.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1vJwmepEGz",
+        "stat": {
+          "danmaku": "5562",
+          "play": "242.7万",
+          "vt": ""
+        },
+        "duration_text": "03:43",
+        "title": "“攒我千年，赐你一眼，余生都看遍”【洛天依原创曲】《不堪人间》【2025虚拟歌手贺岁纪单品】",
+        "desc": "《不堪人间》\n\n“固知难以永久，不若珍惜片刻。”\n——李碧华《青蛇》                   \n\n演唱：洛天依\n作词：Vagary\n作曲/编曲：papaw泡泡\n调校：Creuzer\n制作人：昆吾\n和声编写：李泽源\n吉他：papaw泡泡\n笛箫：囚牛\n混音/母带：王磊@Allanwang Studio\n人设：葬雪荒城\n曲绘：葬雪荒城、Ar极光、积雨云\n视频制作：MOLA、步杨\n协力：Dagazs\n监制：Suya",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 55791,
+    "comment": 2085,
+    "forward": 40
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

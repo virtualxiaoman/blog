@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1076326569729851414",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1076326569729851414",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月9日",
+    "pub_ts": 1749440208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "最近大家那里下雨了嘛？[洛天依·戏游九州动态_乖巧]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最近大家那里下雨了嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4132,
+    "comment": 376,
+    "forward": 64
+  },
+  "forward": {
+    "orig_id": 1074463588982194176,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2025-06/2025-06-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1230441244842262536",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1230441244842262536",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月29日",
+    "pub_ts": 1785322827,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "如果让你推荐一首天依的歌，你会安利......?",
+      "desc": "和天依一起回顾洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·杭州站\n大家印象最深刻的是哪个瞬间呢？和你们在一起的每时每刻都好幸福！\n感谢杭州站的大家，我们下一站成都见啦~\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会多站售票进行中，期待和大家再见~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003089",
+      "jump_url": "https://www.bilibili.com/video/BV1Yc326EExP",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a791454db98de34ed7bae32fdbca896298691879.jpg",
+      "cover_file": "../../_assets/covers/2026-07-29_2.jpg",
+      "bvid": "BV1Yc326EExP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Yc326EExP",
+        "aid": "117002844833717",
+        "cover": "http://i1.hdslb.com/bfs/archive/a791454db98de34ed7bae32fdbca896298691879.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Yc326EExP",
+        "stat": {
+          "danmaku": "865",
+          "play": "25.2万",
+          "vt": ""
+        },
+        "duration_text": "02:40",
+        "title": "如果让你推荐一首天依的歌，你会安利......?",
+        "desc": "和天依一起回顾洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·杭州站\n大家印象最深刻的是哪个瞬间呢？和你们在一起的每时每刻都好幸福！\n感谢杭州站的大家，我们下一站成都见啦~\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会多站售票进行中，期待和大家再见~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003089",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26915,
+    "comment": 1401,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

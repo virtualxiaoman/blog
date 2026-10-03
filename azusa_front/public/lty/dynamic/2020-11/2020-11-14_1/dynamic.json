@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "457452177815667566",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/457452177815667566",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月14日",
+    "pub_ts": 1605347285,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果发现往后注定发生的悲剧，你们会怎么做呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果发现往后注定发生的悲剧，你们会怎么做呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4927,
+    "comment": 211,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 457042996280797878,
+    "orig_mid": 396194,
+    "deleted": false,
+    "archive_dir": "../../../396194/2020-11/2020-11-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

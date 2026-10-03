@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "298538426515988571",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/298538426515988571",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年9月13日",
+    "pub_ts": 1568347294,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖中秋节到啦！大家今年吃了什么口味的月饼呢？听说，汽水和月饼很配哦！转发并评论本条动态，告诉#洛天依#你觉得跟美年达荔枝味汽水口感最搭的月饼，2019年9月17日天依将抽10位小伙伴，各送随机1款【美年达x洛天依限定款水果扭蛋娃娃】！再次祝大家中秋快乐啦~\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "35843",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中秋节到啦！大家今年吃了什么口味的月饼呢？听说，汽水和月饼很配哦！转发并评论本条动态，告诉"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "你觉得跟美年达荔枝味汽水口感最搭的月饼，2019年9月17日天依将抽10位小伙伴，各送随机1款【美年达x洛天依限定款水果扭蛋娃娃】！再次祝大家中秋快乐啦~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-09-13_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d7f0bc64b4f52b1daab6906b455ef9d2950a68cb.png",
+        "width": 950,
+        "height": 1933,
+        "size_kb": 1928.03,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-09-13_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/28f66db68c1b5413030ba36def2a5a67bb41232d.jpg",
+        "width": 975,
+        "height": 750,
+        "size_kb": 67.27,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "35843"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8977,
+    "comment": 2583,
+    "forward": 7365
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

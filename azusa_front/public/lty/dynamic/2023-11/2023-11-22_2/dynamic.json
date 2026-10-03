@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "866787308750241794",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/866787308750241794",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月22日",
+    "pub_ts": 1700653047,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "可以温暖你的冬天嘛？[洛天依蝶变_发射爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "可以温暖你的冬天嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4516,
+    "comment": 134,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 866714710904406032,
+    "orig_mid": 35365327,
+    "deleted": false,
+    "archive_dir": "../../../35365327/2023-11/2023-11-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

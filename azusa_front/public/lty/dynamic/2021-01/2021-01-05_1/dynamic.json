@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "476757896896980735",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/476757896896980735",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月5日",
+    "pub_ts": 1609842248,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "罗裙叠香，沁入朝暮",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "罗裙叠香，沁入朝暮"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5593,
+    "comment": 170,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 475901355860113349,
+    "orig_mid": 123133,
+    "deleted": false,
+    "archive_dir": "../../../123133/2021-01/2021-01-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "749893748123500549",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/749893748123500549",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月11日",
+    "pub_ts": 1673436644,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#黄沙下掩埋着怎样瑰丽的图像与神秘的故事呢～[洛天依_许愿]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "黄沙下掩埋着怎样瑰丽的图像与神秘的故事呢～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6857,
+    "comment": 130,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 748393765146722386,
+    "orig_mid": 935899,
+    "deleted": false,
+    "archive_dir": "../../../935899/2023-01/2023-01-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:49:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1093854687728238614",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1093854687728238614",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月26日",
+    "pub_ts": 1753521291,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢报道！（天依乖巧立正）这是大家一起创造而出的梦幻奇迹[洛天依流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢报道！（天依乖巧立正）这是大家一起创造而出的梦幻奇迹"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_捧花]",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/1970804d6735f906318f08b771381742692960d8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/捧花.png",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "text": "[洛天依流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3981,
+    "comment": 101,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 1093830094739210242,
+    "orig_mid": 106086780,
+    "deleted": false,
+    "archive_dir": "../../../106086780/2025-07/2025-07-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:36:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

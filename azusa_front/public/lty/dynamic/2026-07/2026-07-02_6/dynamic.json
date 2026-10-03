@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "1220416653731299366",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1220416653731299366",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月2日",
+    "pub_ts": 1782988795,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会\n成都站场贩首发「生灵·蝴蝶」 主题周边礼盒情报公开[洛天依动态流光协奏_抱抱]\n\n🦋「成都·蝴蝶」礼盒\n含软胶摆件、徽章、立牌、工牌挂件、色纸\n\n🦋演唱会现场周边贩售区\n8月1日19:12 成都·金融城演艺中心\n\n🦋成都站全面开售时间\n7月4日 19:00\n\n蝶翼轻振，音河泛起涟漪，与天依一同奔赴生灵与蝶共舞的纯蓝之约吧~[洛天依动态流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会\n成都站场贩首发「生灵·蝴蝶」 主题周边礼盒情报公开"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🦋「成都·蝴蝶」礼盒\n含软胶摆件、徽章、立牌、工牌挂件、色纸\n\n🦋演唱会现场周边贩售区\n8月1日19:12 成都·金融城演艺中心\n\n🦋成都站全面开售时间\n7月4日 19:00\n\n蝶翼轻振，音河泛起涟漪，与天依一同奔赴生灵与蝶共舞的纯蓝之约吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-02_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3f3496b6d71785af8f74d35519b9f94736081646.png",
+        "width": 859,
+        "height": 3959,
+        "size_kb": 3186.22998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "成都·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202607/1QXOttg41782964223_1782964223702.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003172&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1220416653731299366",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-02_3.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4793,
+    "comment": 94,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:26:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

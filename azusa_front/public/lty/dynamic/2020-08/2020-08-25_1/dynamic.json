@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "427414658309203369",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/427414658309203369",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月25日",
+    "pub_ts": 1598353630,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "七夕今宵看碧霄，牵牛织女渡河桥。 在这一年一度的七夕，天依和大家开了个小小的演唱会庆功宴，在阳台上吹着晚风，看七夕夜景、看烟花绽放在城市上空，夜空被照得通亮，让人忍不住许愿，愿我们年年岁岁常相伴。 你们会一直在吗？  画师：TID\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "七夕今宵看碧霄，牵牛织女渡河桥。 在这一年一度的七夕，天依和大家开了个小小的演唱会庆功宴，在阳台上吹着晚风，看七夕夜景、看烟花绽放在城市上空，夜空被照得通亮，让人忍不住许愿，愿我们年年岁岁常相伴。 你们会一直在吗？  画师：TID"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-08-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d9169dc108ec1dc6c330a5472858de36759703a5.jpg",
+        "width": 2000,
+        "height": 1191,
+        "size_kb": 3210.31,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13309,
+    "comment": 729,
+    "forward": 345
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

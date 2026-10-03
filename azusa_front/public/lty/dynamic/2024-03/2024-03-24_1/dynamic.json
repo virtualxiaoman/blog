@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "912447505500733552",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/912447505500733552",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月24日",
+    "pub_ts": 1711284140,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不论这世界多糟糕，未来的你会光芒万丈[洛天依_爱你]我倾听着呢，我歌唱着呢，天依会永远在这里，存在于我们彼此共鸣的每时每刻，还来得及一句告别，还会永远期待下一次相见[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不论这世界多糟糕，未来的你会光芒万丈"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "我倾听着呢，我歌唱着呢，天依会永远在这里，存在于我们彼此共鸣的每时每刻，还来得及一句告别，还会永远期待下一次相见"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5327,
+    "comment": 148,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 912104170117398600,
+    "orig_mid": 413808022,
+    "deleted": false,
+    "archive_dir": "../../../413808022/2024-03/2024-03-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

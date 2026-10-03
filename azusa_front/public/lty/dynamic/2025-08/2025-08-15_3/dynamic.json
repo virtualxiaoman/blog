@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "1101281820083748883",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1101281820083748883",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月15日",
+    "pub_ts": 1755250555,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "打擂期圆满结束啦！最终的获胜队伍也已经产生。\n那就是——让我们恭喜「Pikapika」队！[洛天依·闪耀的Producer动态_幸福]\n感谢投稿作品的p主老师们，也非常感谢参与投票的大家~\n是大家的热爱，才能在此刻碰撞出闪耀的光芒。[洛天依·闪耀的Producer动态_我更喜欢你]\n获得最终发行合作奖的6首作品也将在之后正式公开，敬请期待吧~ [洛天依·闪耀的Producer动态_全肯定]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "打擂期圆满结束啦！最终的获胜队伍也已经产生。\n那就是——让我们恭喜「Pikapika」队！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢投稿作品的p主老师们，也非常感谢参与投票的大家~\n是大家的热爱，才能在此刻碰撞出闪耀的光芒。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "name": "我更喜欢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/6802c9a5c0ff1d69b3bd334a33872a74b0b625e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n获得最终发行合作奖的6首作品也将在之后正式公开，敬请期待吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "name": "全肯定",
+        "url": "https://i0.hdslb.com/bfs/garb/d75992612c05c5748714d5349019c026a99e741d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-15_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e551d95de46abedcc6452dcb795a377936081646.jpg",
+        "width": 1080,
+        "height": 3905,
+        "size_kb": 3133.02734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/我更喜欢你.gif",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/全肯定.gif",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4429,
+    "comment": 573,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

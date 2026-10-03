@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "605481004517449012",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/605481004517449012",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月18日",
+    "pub_ts": 1639812932,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 阳光明媚的冬日，果然很适合找一个图书馆，静静看一会儿书呢~ 今天有没有考四六级的小伙伴？祝大家顺利过过过！[洛天依·夜航星_锦鲤]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 阳光明媚的冬日，果然很适合找一个图书馆，静静看一会儿书呢~ 今天有没有考四六级的小伙伴？祝大家顺利过过过！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-18_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/cd24a5589f1362f189f45fe72b8c778e5b2b4ce3.jpg",
+        "width": 3600,
+        "height": 4800,
+        "size_kb": 15725.25,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11585,
+    "comment": 539,
+    "forward": 158
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

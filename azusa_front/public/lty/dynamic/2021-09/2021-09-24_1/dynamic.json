@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "573976753676833329",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/573976753676833329",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月24日",
+    "pub_ts": 1632477777,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依游学季#  ☆ 游学第三站，未来之都！☆  『高楼大厦 霓虹灯影  这是一座来自未来的城市 穿梭在其中的极速身影 负责为您送上您想要的服务』  “您好，我是0712号配送员洛天依 您的外卖到啦！满意请打五星好评哦~“ [洛天依9th_社会]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "  ☆ 游学第三站，未来之都！☆  『高楼大厦 霓虹灯影  这是一座来自未来的城市 穿梭在其中的极速身影 负责为您送上您想要的服务』  “您好，我是0712号配送员洛天依 您的外卖到啦！满意请打五星好评哦~“ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-09-24_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0aca9aa90c572d47773a428a18a587f998f14a9a.png",
+        "width": 1800,
+        "height": 1600,
+        "size_kb": 2466.0595703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-09-24_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/496530ec4f7dd5a7c12fdb6080d1a73bd2136b3e.png",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 18480.9404296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7360,
+    "comment": 308,
+    "forward": 151
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:37:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

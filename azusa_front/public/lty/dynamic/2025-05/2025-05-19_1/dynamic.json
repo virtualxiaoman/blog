@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1068670760428503065",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1068670760428503065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月19日",
+    "pub_ts": 1747657701,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2025洛天依大型原创音乐征集活动\n——「闪耀的Producer」人设立绘档案公开⚡\n\n八音盒中的人偶少女，因每一首不同的歌曲变换姿态\n降临创作者身边的，是电子天使「Code Activate」 \n她守护着你的创作秘钥，因感受到创作热情而苏醒\n渴望和Master再一次链接，感谢Master仍愿意选择我为你歌唱\n创作的舞台已经准备就绪，这一次，星星和月亮一起闪耀！[洛天依-潮声回响_舞蹈中]\n#洛天依# #闪耀的Producer# #洛天依十三周年#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2025洛天依大型原创音乐征集活动\n——「闪耀的Producer」人设立绘档案公开⚡\n\n八音盒中的人偶少女，因每一首不同的歌曲变换姿态\n降临创作者身边的，是电子天使「Code Activate」 \n她守护着你的创作秘钥，因感受到创作热情而苏醒\n渴望和Master再一次链接，感谢Master仍愿意选择我为你歌唱\n创作的舞台已经准备就绪，这一次，星星和月亮一起闪耀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-19_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ed5513b0c992d919c79d33e59712db8c36081646.png",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 8148.765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4187,
+    "comment": 210,
+    "forward": 129
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "1137289730622226487",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1137289730622226487",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月20日",
+    "pub_ts": 1763634300,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "左滑帮天依过冬吧！\n天气越来越冷啦，大家记得多穿一点～[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "左滑帮天依过冬吧！\n天气越来越冷啦，大家记得多穿一点～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-20_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a312ef39173fd93836dbebcb31961d1e36081646.png",
+        "width": 1280,
+        "height": 720,
+        "size_kb": 688.3300170898438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-11-20_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/557fd7476bb6280a3cf5e461da7ae79436081646.png",
+        "width": 1280,
+        "height": 720,
+        "size_kb": 1041.68994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-11-20_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9f23c70e8b0b9e5b69372925d79c803236081646.png",
+        "width": 1280,
+        "height": 720,
+        "size_kb": 719.239990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8128,
+    "comment": 661,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

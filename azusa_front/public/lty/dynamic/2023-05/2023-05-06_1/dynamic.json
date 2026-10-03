@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "792422956671172611",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/792422956671172611",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月6日",
+    "pub_ts": 1683338747,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有一天我闲着没事儿，走在路上\n忽然被@ilem 老师拉去歌厅一起唱了首歌~\n《大地球歌厅》今晚17点即将开业，everybody来和我们一起唱！[洛天依9th_一起唱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有一天我闲着没事儿，走在路上\n忽然被"
+      },
+      {
+        "type": "mention",
+        "text": "@ilem ",
+        "mid": 3379951,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师拉去歌厅一起唱了首歌~\n《大地球歌厅》今晚17点即将开业，everybody来和我们一起唱！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-05-06_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d477a840d15d5c15872ebbb9b8b54d7c36081646.jpg",
+        "width": 1036,
+        "height": 1842,
+        "size_kb": 1584.469970703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：《大地球歌厅》即将开业！",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Xs4y1377m",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：《大地球歌厅》即将开业！",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "128.7万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Xs4y1377m",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Xs4y1377m",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1516884,
+        "reserve_total": 1534,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6851,
+    "comment": 646,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

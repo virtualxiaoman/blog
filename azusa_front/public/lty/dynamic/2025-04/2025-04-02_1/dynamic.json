@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1051201818471694340",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1051201818471694340",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月2日",
+    "pub_ts": 1743590396,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "擎苍工作室x洛天依 | 雪天使Ver. 等比例手办开售！\n\n※产品信息※\n▷预售特典：亚克力背景板；\n▷B站独家特典：超感纸书签；\n▷预售价格：399R；（定金60R，尾款339R）\n▷产品出荷：2025年10月；\n\n开售时间：2025年4月2日20：00\n开售渠道：会员购、TM擎苍旗舰店等官方渠道\n\nPS：产品监修中，以最终实物为准。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "擎苍工作室x洛天依 | 雪天使Ver. 等比例手办开售！\n\n※产品信息※\n▷预售特典：亚克力背景板；\n▷B站独家特典：超感纸书签；\n▷预售价格：399R；（定金60R，尾款339R）\n▷产品出荷：2025年10月；\n\n开售时间：2025年4月2日20：00\n开售渠道：会员购、TM擎苍旗舰店等官方渠道\n\nPS：产品监修中，以最终实物为准。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "擎苍工作室x洛天依 | 雪天使Ver. 等比例手办",
+      "desc": "擎苍工作室x洛天依 | 雪天使Ver. 等比例手办开售！\n\n※产品信息※\n▷预售特典：亚克力背景板；\n▷B站独家特典：超感纸书签；\n▷预售价格：399R；（定金60R，尾款339R）\n▷产品出荷：2025年10月；\n\n开售时间：2025年4月2日20：00\n开售渠道：会员购、TM擎苍旗舰店等官方渠道\n\nPS：产品监修中，以最终实物为准。",
+      "jump_url": "https://www.bilibili.com/video/BV1S4fKYRExA",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/1c3127af0d492b9d8f7d2891e57f4fb749ee5641.jpg",
+      "cover_file": "../../_assets/covers/2025-04-02_1.jpg",
+      "bvid": "BV1S4fKYRExA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1S4fKYRExA",
+        "aid": "114267923680910",
+        "cover": "http://i1.hdslb.com/bfs/archive/1c3127af0d492b9d8f7d2891e57f4fb749ee5641.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1S4fKYRExA",
+        "stat": {
+          "danmaku": "25",
+          "play": "3.5万",
+          "vt": ""
+        },
+        "duration_text": "00:41",
+        "title": "擎苍工作室x洛天依 | 雪天使Ver. 等比例手办",
+        "desc": "擎苍工作室x洛天依 | 雪天使Ver. 等比例手办开售！\n\n※产品信息※\n▷预售特典：亚克力背景板；\n▷B站独家特典：超感纸书签；\n▷预售价格：399R；（定金60R，尾款339R）\n▷产品出荷：2025年10月；\n\n开售时间：2025年4月2日20：00\n开售渠道：会员购、TM擎苍旗舰店等官方渠道\n\nPS：产品监修中，以最终实物为准。",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7658,
+    "comment": 531,
+    "forward": 6079
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

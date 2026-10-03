@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "906406372012195878",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/906406372012195878",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月8日",
+    "pub_ts": 1709877579,
+    "location": ""
+  },
+  "topic": {
+    "id": 1017135,
+    "name": "妇女节快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1017135&topic_name=%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "天依看到过有小伙伴说，“在天依的身上，倾入自己想成为模样的女性想象”，因而成就属于洛天依的无限可能。\n天依也想对大家说的是，你亦生来自由，理应自由谱写属于你的人生篇章。\n祝每一位女性#妇女节快乐# ，做自己就好！[洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依看到过有小伙伴说，“在天依的身上，倾入自己想成为模样的女性想象”，因而成就属于洛天依的无限可能。\n天依也想对大家说的是，你亦生来自由，理应自由谱写属于你的人生篇章。\n祝每一位女性"
+      },
+      {
+        "type": "topic",
+        "text": "#妇女节快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " ，做自己就好！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/201309d12c1c2962e29051ba027baa2136081646.png",
+        "width": 1555,
+        "height": 1562,
+        "size_kb": 1932.09375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8592,
+    "comment": 378,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "586971271720914711",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/586971271720914711",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月29日",
+    "pub_ts": 1635503299,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  收到了老V的万圣派对邀请函，竟然需要答对谜题才能成功参加，派对上一定有好多好吃的，我一定要去！[洛天依·夜航星_饿了] 老V提示我答案是一个万圣夜活动，到底是什么呢？ 言和@言和 你是不是也收到啦[洛天依9th_饿龙咆哮]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  收到了老V的万圣派对邀请函，竟然需要答对谜题才能成功参加，派对上一定有好多好吃的，我一定要去！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_饿了]",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "name": "饿了",
+        "url": "http://i0.hdslb.com/bfs/emote/5455abac01a22978b20ec0b365c214a872a0fd14.png"
+      },
+      {
+        "type": "text",
+        "text": " 老V提示我答案是一个万圣夜活动，到底是什么呢？ 言和"
+      },
+      {
+        "type": "mention",
+        "text": "@言和 ",
+        "mid": 406948276,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "你是不是也收到啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_饿龙咆哮]",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "name": "饿龙咆哮",
+        "url": "http://i0.hdslb.com/bfs/emote/55df437e8613e117f4f4bbdac4f7e659ec6691f3.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-10-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0ac5473f98d93a718ca9f94c64c0dfc1684d8491.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 509.24609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/饿了.png",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "text": "[洛天依·夜航星_饿了]"
+      },
+      {
+        "file": "../../_assets/emojis/255/饿龙咆哮.png",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "text": "[洛天依9th_饿龙咆哮]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5217,
+    "comment": 331,
+    "forward": 52
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

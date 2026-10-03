@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "742338325124218921",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/742338325124218921",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月22日",
+    "pub_ts": 1671677510,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "很高兴可以用歌声，陪你度过2022年最后的夜~转眼又是一年即将过去，每当这个时候，回忆与感慨都会涌上心头。不知不觉，你们已经陪伴我走上了这么多不一样的舞台啦，大家印象最深刻的是哪一个呢？[洛天依·夜航星_比心]#洛天依回归B站跨晚#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴可以用歌声，陪你度过2022年最后的夜~转眼又是一年即将过去，每当这个时候，回忆与感慨都会涌上心头。不知不觉，你们已经陪伴我走上了这么多不一样的舞台啦，大家印象最深刻的是哪一个呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依回归B站跨晚#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%9E%E5%BD%92B%E7%AB%99%E8%B7%A8%E6%99%9A"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7306,
+    "comment": 619,
+    "forward": 123
+  },
+  "forward": {
+    "orig_id": 742328824657608706,
+    "orig_mid": 489412051,
+    "deleted": false,
+    "archive_dir": "../../../489412051/2022-12/2022-12-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:56:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1212861095442645013",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1212861095442645013",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月12日",
+    "pub_ts": 1781229629,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "让“天依蓝”为深圳湾染上蓝色~[洛天依八音奇响动态_美丽]\n诞生于数字浪潮，成长于热爱与陪伴，澄澈、轻盈，又带着微微发光的未来感\n原来是一封来自《湾区万象科技节 · 虚拟音乐会》的邀请函[洛天依八音奇响动态_可爱]\n6月19日深圳湾万象城，和天依一起在湾畔感受一场“现实 × 虚拟”同频的音乐会，听见未来的声音吧[洛天依·闪耀的Producer动态_幸福]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让“天依蓝”为深圳湾染上蓝色~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n诞生于数字浪潮，成长于热爱与陪伴，澄澈、轻盈，又带着微微发光的未来感\n原来是一封来自《湾区万象科技节 · 虚拟音乐会》的邀请函"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n6月19日深圳湾万象城，和天依一起在湾畔感受一场“现实 × 虚拟”同频的音乐会，听见未来的声音吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-12_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/317cba6636ec68d973d112089a9bad8c36081646.jpg",
+        "width": 2362,
+        "height": 3150,
+        "size_kb": 1827.1600341796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4719,
+    "comment": 216,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:24:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

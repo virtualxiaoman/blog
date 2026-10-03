@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "801768783847882758",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/801768783847882758",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月31日",
+    "pub_ts": 1685514742,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "‍岁月悠悠，忽忆往事，独留思念与牵挂在心中辗转。从来古风多痴情，非常唯美的一首歌曲，天依捞捞~[古色花香洛天依_乖巧]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "‍岁月悠悠，忽忆往事，独留思念与牵挂在心中辗转。从来古风多痴情，非常唯美的一首歌曲，天依捞捞~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4206,
+    "comment": 61,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 795390186420699364,
+    "orig_mid": 173583326,
+    "deleted": false,
+    "archive_dir": "../../../173583326/2023-05/2023-05-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

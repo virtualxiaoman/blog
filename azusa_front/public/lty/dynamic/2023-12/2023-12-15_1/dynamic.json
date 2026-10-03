@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "875204508338094099",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/875204508338094099",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月15日",
+    "pub_ts": 1702612829,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“有人说不完美，有人说错或对”\n“我说，只要够开心，就无畏”\n欢迎来到洛天依的频道，听我向世界的宣告——\n无谓世俗的眼光，我自有我风格论调。\n希望这首歌曲同样可以带给大家登上“自我舞台”的勇气~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“有人说不完美，有人说错或对”\n“我说，只要够开心，就无畏”\n欢迎来到洛天依的频道，听我向世界的宣告——\n无谓世俗的眼光，我自有我风格论调。\n希望这首歌曲同样可以带给大家登上“自我舞台”的勇气~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“此刻 如蝶般舞蹈”《蝶变(Butterfly)》【洛天依X索尼音乐原创曲MV】",
+      "desc": "洛天依X索尼音乐原创EP《洛 LUO》主打单曲《蝶变(Butterfly)》MV来啦！\n歌曲以Asia Pop为主要基调，结合中国民乐元素，展现传统与潮流的融汇碰撞，诠释化蝶破茧一刻。\n“有人说不完美，有人说错或对”\n“我说，只要够开心，就无畏”\n欢迎来到洛天依的频道，听我向世界的宣告——\n无谓世俗的眼光，我自有我风格论调。\n希望这首歌曲同样可以带给大家登上“自我舞台”的勇气！\n\n---------------\n【特邀音乐人】\n曾合作Macy Gray（第43届格莱美最佳流行女歌手）等知名艺人的Riche",
+      "jump_url": "https://www.bilibili.com/video/BV1Dg4y1Z71M",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f76e0e472ed1372f4c87976158f5fe097401410c.jpg",
+      "cover_file": "../../_assets/covers/2023-12-15_1.jpg",
+      "bvid": "BV1Dg4y1Z71M",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Dg4y1Z71M",
+        "aid": "834642047",
+        "cover": "http://i1.hdslb.com/bfs/archive/f76e0e472ed1372f4c87976158f5fe097401410c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Dg4y1Z71M",
+        "stat": {
+          "danmaku": "1808",
+          "play": "95.2万",
+          "vt": ""
+        },
+        "duration_text": "03:03",
+        "title": "“此刻 如蝶般舞蹈”《蝶变(Butterfly)》【洛天依X索尼音乐原创曲MV】",
+        "desc": "洛天依X索尼音乐原创EP《洛 LUO》主打单曲《蝶变(Butterfly)》MV来啦！\n歌曲以Asia Pop为主要基调，结合中国民乐元素，展现传统与潮流的融汇碰撞，诠释化蝶破茧一刻。\n“有人说不完美，有人说错或对”\n“我说，只要够开心，就无畏”\n欢迎来到洛天依的频道，听我向世界的宣告——\n无谓世俗的眼光，我自有我风格论调。\n希望这首歌曲同样可以带给大家登上“自我舞台”的勇气！\n\n---------------\n【特邀音乐人】\n曾合作Macy Gray（第43届格莱美最佳流行女歌手）等知名艺人的Riche",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 91004,
+    "comment": 2035,
+    "forward": 342
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

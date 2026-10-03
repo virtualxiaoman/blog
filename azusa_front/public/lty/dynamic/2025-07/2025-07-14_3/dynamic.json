@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "1089435020375883783",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1089435020375883783",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月14日",
+    "pub_ts": 1752492257,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶距离「无限共鸣·流光协奏」全息巡回演唱会·北京站\n倒计时5天！各位前来观演的小伙伴请查收这份观演须知~[洛天依八音奇响动态_美丽]\n\n💐花篮入场登记\n想要寄送花篮的小伙伴请发送邮件进行登记\n\n🌟官方应援荧光棒\n荧光棒将会和其他随票特典放置在座位上，并在表演过程中由场控控制颜色变化，演唱会结束后，大家可以携带离场留作纪念，也可以自行携带荧光棒入场\n\n还有关于交通指南、场贩地点、痛车、摄影等情况说明，小伙伴们请戳长图查看哦！[洛天依八音奇响动态_可爱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶距离「无限共鸣·流光协奏」全息巡回演唱会·北京站\n倒计时5天！各位前来观演的小伙伴请查收这份观演须知~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💐花篮入场登记\n想要寄送花篮的小伙伴请发送邮件进行登记\n\n🌟官方应援荧光棒\n荧光棒将会和其他随票特典放置在座位上，并在表演过程中由场控控制颜色变化，演唱会结束后，大家可以携带离场留作纪念，也可以自行携带荧光棒入场\n\n还有关于交通指南、场贩地点、痛车、摄影等情况说明，小伙伴们请戳长图查看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fe73616c21c485c7842ea0f66321b70d36081646.jpg",
+        "width": 1080,
+        "height": 16314,
+        "size_kb": 8870.357,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "北京·2025洛天依「无限共鸣•流光协奏」全息演唱会—北京站",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202506/hdJmmlFy1750752851311.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=102448&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1089435020375883783",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-14_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4982,
+    "comment": 598,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

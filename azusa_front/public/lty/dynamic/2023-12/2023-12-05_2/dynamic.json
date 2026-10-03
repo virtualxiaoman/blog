@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "871626306904653832",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/871626306904653832",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月5日",
+    "pub_ts": 1701779714,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "千载风烟长，唱不尽画中千年沧桑，唱不完画外冷暖无常，是你在专辑里最爱的那首歌吗~[洛天依蝶变_电子琴]大家晚上好呀，是意蕴悠长非常动听的国风歌曲，请听！[洛天依蝶变_发射爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "千载风烟长，唱不尽画中千年沧桑，唱不完画外冷暖无常，是你在专辑里最爱的那首歌吗~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "大家晚上好呀，是意蕴悠长非常动听的国风歌曲，请听！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5061,
+    "comment": 86,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 868987160909316132,
+    "orig_mid": 43855,
+    "deleted": false,
+    "archive_dir": "../../../43855/2023-11/2023-11-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

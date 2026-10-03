@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1013619304164229139",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1013619304164229139",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月22日",
+    "pub_ts": 1734840035,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "如何演绎好杜丽娘的柔情敏感，如何传递戏中的情意缠绵，和天依一起开启这趟戏途吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如何演绎好杜丽娘的柔情敏感，如何传递戏中的情意缠绵，和天依一起开启这趟戏途吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“柔情婉转，千面成角”洛天依游学记「梨园·昆曲行」vlog",
+      "desc": "❀主题曲《戏游九州》BV1HWkwYWETx\n\n【歌行·戏曲季】的游学第一站——“百戏之师”昆曲！\n天依很荣幸拜师青年昆曲闺门旦角演员张冉老师，学习昆曲名篇《牡丹亭》中女主角杜丽娘的演绎技巧。\n昆曲意蕴之美，在于其融合诗词曲文的典雅唱词，在于其千回百转的婉转行腔，亦在于精美考究的头面戏服。\n如何演绎好杜丽娘的柔情敏感，如何传递戏中的情意缠绵，和天依一起开启这趟戏途吧~\n也欢迎了解昆曲的小伙伴在评论区多多和大家分享科普哦！",
+      "jump_url": "https://www.bilibili.com/video/BV1gYktYVEDQ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/c7f6937425655e08b9243697e98e91413766c273.jpg",
+      "cover_file": "../../_assets/covers/2024-12-22_1.jpg",
+      "bvid": "BV1gYktYVEDQ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1gYktYVEDQ",
+        "aid": "113690921665031",
+        "cover": "http://i0.hdslb.com/bfs/archive/c7f6937425655e08b9243697e98e91413766c273.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1gYktYVEDQ",
+        "stat": {
+          "danmaku": "632",
+          "play": "74.8万",
+          "vt": ""
+        },
+        "duration_text": "05:04",
+        "title": "“柔情婉转，千面成角”洛天依游学记「梨园·昆曲行」vlog",
+        "desc": "❀主题曲《戏游九州》BV1HWkwYWETx\n\n【歌行·戏曲季】的游学第一站——“百戏之师”昆曲！\n天依很荣幸拜师青年昆曲闺门旦角演员张冉老师，学习昆曲名篇《牡丹亭》中女主角杜丽娘的演绎技巧。\n昆曲意蕴之美，在于其融合诗词曲文的典雅唱词，在于其千回百转的婉转行腔，亦在于精美考究的头面戏服。\n如何演绎好杜丽娘的柔情敏感，如何传递戏中的情意缠绵，和天依一起开启这趟戏途吧~\n也欢迎了解昆曲的小伙伴在评论区多多和大家分享科普哦！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19760,
+    "comment": 841,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

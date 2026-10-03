@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1105741172906655831",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1105741172906655831",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月27日",
+    "pub_ts": 1756288829,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会\n首次全国四城巡演圆满结束啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会\n首次全国四城巡演圆满结束啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "我们一起做了一场名叫“流光协奏”的梦",
+      "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会\n首次全国四城巡演圆满结束啦！\n历时半年的筹备，超三百人制作团队，一起将这场瑰丽的梦变为现实。\n希望天依有实现在演唱会上说的，那个带给你不留遗憾的夜晚的梦想。\n天依的每一首歌曲、每一帧动画，从制作到呈现，之所以拥有与血肉共鸣的力量，\n从来不只是按下既定的播放键，还有搭建、灯光、乐手、导演、嘉宾等所有staff老师和创作老师们的付出，还有你们跨越山水的辛苦赴约、每一声呐喊呼唤、每一次用力的挥舞，更是因为歌曲背后，是我们曾携手谱写的所有回忆。\n因为热爱，所以奔",
+      "jump_url": "https://www.bilibili.com/video/BV1hse2zHEhh",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8271cca58fec9176cb4f2b655090fec872c9d322.jpg",
+      "cover_file": "../../_assets/covers/2025-08-27_1.jpg",
+      "bvid": "BV1hse2zHEhh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1hse2zHEhh",
+        "aid": "115100023259281",
+        "cover": "http://i1.hdslb.com/bfs/archive/8271cca58fec9176cb4f2b655090fec872c9d322.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1hse2zHEhh",
+        "stat": {
+          "danmaku": "1121",
+          "play": "59.8万",
+          "vt": ""
+        },
+        "duration_text": "03:37",
+        "title": "我们一起做了一场名叫“流光协奏”的梦",
+        "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会\n首次全国四城巡演圆满结束啦！\n历时半年的筹备，超三百人制作团队，一起将这场瑰丽的梦变为现实。\n希望天依有实现在演唱会上说的，那个带给你不留遗憾的夜晚的梦想。\n天依的每一首歌曲、每一帧动画，从制作到呈现，之所以拥有与血肉共鸣的力量，\n从来不只是按下既定的播放键，还有搭建、灯光、乐手、导演、嘉宾等所有staff老师和创作老师们的付出，还有你们跨越山水的辛苦赴约、每一声呐喊呼唤、每一次用力的挥舞，更是因为歌曲背后，是我们曾携手谱写的所有回忆。\n因为热爱，所以奔",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24247,
+    "comment": 2230,
+    "forward": 4212
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

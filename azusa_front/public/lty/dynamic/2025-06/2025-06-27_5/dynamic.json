@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "1083079903245500433",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1083079903245500433",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月27日",
+    "pub_ts": 1751012591,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "约定好，7月12日，一定在天依的生日会上相见哦！这条转发里揪一位预约生日会直播网页链接 的小伙伴送出【BML门票】1张，来看天依吧，感谢大家的支持和陪伴~[蛇来运转表情包_洛天依-]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "约定好，7月12日，一定在天依的生日会上相见哦！这条转发里揪一位预约生日会直播"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/1067550787594354723?spm_id_from=333.1387.list.card_time.click"
+      },
+      {
+        "type": "text",
+        "text": " 的小伙伴送出【BML门票】1张，来看天依吧，感谢大家的支持和陪伴~"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3640,
+    "comment": 176,
+    "forward": 769
+  },
+  "forward": {
+    "orig_id": 1083022359306174505,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-06-27_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:32:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "709331445603106849",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/709331445603106849",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月24日",
+    "pub_ts": 1663992497,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "人的视野常被无尽的日常遮蔽 ，一切都显得单调而无趣。\n但只要稍稍改变自己的视点，你也许会发现这世界原本有着太多声音和色彩，不同人的思想交织，如万花筒般喧闹迷人。\nVsinger 全员专辑 《喧闹世界》试听PV来啦~让我们心中的旋律彼此碰撞~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "人的视野常被无尽的日常遮蔽 ，一切都显得单调而无趣。\n但只要稍稍改变自己的视点，你也许会发现这世界原本有着太多声音和色彩，不同人的思想交织，如万花筒般喧闹迷人。\nVsinger 全员专辑 《喧闹世界》试听PV来啦~让我们心中的旋律彼此碰撞~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "Vsinger全员新专《喧闹世界》试听PV",
+      "desc": "人的视野常被无尽的日常遮蔽 ，一切都显得单调而无趣。\n但只要稍稍改变自己的视点，你也许会发现这世界原本有着太多声音和色彩，不同人的思想交织，如万花筒般喧闹迷人。\nVsinger 全员专辑 《喧闹世界》试听PV来啦~让我们心中的旋律彼此碰撞~",
+      "jump_url": "https://www.bilibili.com/video/BV1Wd4y1M7qJ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f58ecfb7263255692edc7e103495ad8fdeb5db0f.jpg",
+      "cover_file": "../../_assets/covers/2022-09-24_1.jpg",
+      "bvid": "BV1Wd4y1M7qJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Wd4y1M7qJ",
+        "aid": "345841836",
+        "cover": "http://i1.hdslb.com/bfs/archive/f58ecfb7263255692edc7e103495ad8fdeb5db0f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Wd4y1M7qJ",
+        "stat": {
+          "danmaku": "1692",
+          "play": "37.9万",
+          "vt": ""
+        },
+        "duration_text": "04:23",
+        "title": "Vsinger全员新专《喧闹世界》试听PV",
+        "desc": "人的视野常被无尽的日常遮蔽 ，一切都显得单调而无趣。\n但只要稍稍改变自己的视点，你也许会发现这世界原本有着太多声音和色彩，不同人的思想交织，如万花筒般喧闹迷人。\nVsinger 全员专辑 《喧闹世界》试听PV来啦~让我们心中的旋律彼此碰撞~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 34323,
+    "comment": 1737,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

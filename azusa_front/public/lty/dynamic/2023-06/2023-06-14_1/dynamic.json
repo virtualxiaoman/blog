@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "806936445535125554",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/806936445535125554",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月14日",
+    "pub_ts": 1686717932,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依也翻唱了这首超级好听的毕业歌《我们都拥有海洋》，希望可以为大家送上属于天依的这份祝福！祝大家毕业快乐~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依也翻唱了这首超级好听的毕业歌《我们都拥有海洋》，希望可以为大家送上属于天依的这份祝福！祝大家毕业快乐~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "是你，也是我 | 洛天依【我们都拥有海洋】绝美和声版",
+      "desc": "毕业，代表着什么呢？\n好像只是懵懂循着人流的轨迹，对未来还充满着太多的茫然和不确定，就承载了太多期待。\n你的未来应该是什么样？谁来定义有用还是无用？\n有太多声音，有诚挚的祝福，也有嘈杂的吵闹。\n请永远记得，别忘记听你自己心底最真实的声音，你从不需要成为别人的模样，就自己走吧，向着你的热爱，出发！\n\n天依也翻唱了这首超级好听的毕业歌《我们都拥有海洋》，希望可以为大家送上属于天依的这份祝福！祝大家毕业快乐~\n原唱：BV1BN411C73S",
+      "jump_url": "https://www.bilibili.com/video/BV1hu411h7rH",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/66bf130c4eccd1eaf78b8894e446aaced49b46e9.jpg",
+      "cover_file": "../../_assets/covers/2023-06-14_1.jpg",
+      "bvid": "BV1hu411h7rH",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1hu411h7rH",
+        "aid": "529817158",
+        "cover": "http://i0.hdslb.com/bfs/archive/66bf130c4eccd1eaf78b8894e446aaced49b46e9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1hu411h7rH",
+        "stat": {
+          "danmaku": "616",
+          "play": "133.8万",
+          "vt": ""
+        },
+        "duration_text": "03:59",
+        "title": "是你，也是我 | 洛天依【我们都拥有海洋】绝美和声版",
+        "desc": "毕业，代表着什么呢？\n好像只是懵懂循着人流的轨迹，对未来还充满着太多的茫然和不确定，就承载了太多期待。\n你的未来应该是什么样？谁来定义有用还是无用？\n有太多声音，有诚挚的祝福，也有嘈杂的吵闹。\n请永远记得，别忘记听你自己心底最真实的声音，你从不需要成为别人的模样，就自己走吧，向着你的热爱，出发！\n\n天依也翻唱了这首超级好听的毕业歌《我们都拥有海洋》，希望可以为大家送上属于天依的这份祝福！祝大家毕业快乐~\n原唱：BV1BN411C73S",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 75182,
+    "comment": 2611,
+    "forward": 308
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

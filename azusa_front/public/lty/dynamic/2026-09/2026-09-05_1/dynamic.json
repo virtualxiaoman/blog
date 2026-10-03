@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1244434134463414293",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1244434134463414293",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月5日",
+    "pub_ts": 1788580800,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "第二步「Defence 防守」\n你获得了第二枚棋子——“白王后”[逆转童话动态_结婚]\n\n你看到了一个偏执的眼神，一柄长枪。\n守护王宫的最后一道壁垒，将为王座之上的君主，战斗至最后一刻。\n“请一直注视着我吧，照亮我吧。我会为您夺取那甘美的胜利，直到永生的尽头。”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第二步「Defence 防守」\n你获得了第二枚棋子——“白王后”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你看到了一个偏执的眼神，一柄长枪。\n守护王宫的最后一道壁垒，将为王座之上的君主，战斗至最后一刻。\n“请一直注视着我吧，照亮我吧。我会为您夺取那甘美的胜利，直到永生的尽头。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-05_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e339c86735bd1fc18ab360f88b0e6c8936081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2689.6767578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5936,
+    "comment": 234,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

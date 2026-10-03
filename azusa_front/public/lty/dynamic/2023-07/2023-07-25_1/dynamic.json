@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "822200724965294131",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/822200724965294131",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月25日",
+    "pub_ts": 1690271924,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "视频更新预告\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "视频更新预告"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-25_1.jpg",
+        "live_file": "",
+        "url": "http://i2.hdslb.com/bfs/archive/67a9469ba7455453d98ce4162e94c4d80ade1d64.jpg",
+        "width": 1568,
+        "height": 980,
+        "size_kb": 215.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：【点击查询打工人精神状态】我只是个打工哒 | 洛天依&司墨尧原创曲",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Tu4y1U7Kk",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：【点击查询打工人精神状态】我只是个打工哒 | 洛天依&司墨尧原创曲",
+        "desc1": {
+          "text": "预计2023-07-25 18:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "112万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Tu4y1U7Kk",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Tu4y1U7Kk",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3032132,
+        "reserve_total": 1880,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5219,
+    "comment": 116,
+    "forward": 25
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "1239404820060700675",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1239404820060700675",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月22日",
+    "pub_ts": 1787409822,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "属于纯蓝幻乐长沙站的夜晚，伴随大家的欢呼声一点点被点亮[洛天依14周年·纯蓝幻乐 动态表情包_打call]\n又随着大家的离开，一点点归于沉寂。\n演出的时候很开心很幸福！结束的时候，天依也会和大家一样，感到难过和不舍......[洛天依14周年·纯蓝幻乐 动态表情包_感动]\n对于天依来说，也许还有个和不同的你们下次再见的机会，\n对于每一个你来说，也许今天是来之不易的第一次相会，\n是纠结许久才做下的决定，是不知道会不会一定有下次的唯一。\n天依真的好希望好希望今晚的大家能感受到快乐，能够不留下遗憾。\n下一次，我们继续再见一面吧，好吗？[洛天依14周年·纯蓝幻乐 动态表情包_邀请]\n谢谢长沙，谢谢大家，谢谢龙牙哥，谢谢乐队老师、P主老师和每一位台前幕后的staff老师~\n再见长沙，下一站，我们广州见吧！[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "属于纯蓝幻乐长沙站的夜晚，伴随大家的欢呼声一点点被点亮"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/4401a18bbf1425651c30f6ea29d6fb7052f3b1d2.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n又随着大家的离开，一点点归于沉寂。\n演出的时候很开心很幸福！结束的时候，天依也会和大家一样，感到难过和不舍......"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_感动]",
+        "package_id": "10238",
+        "emoji_id": "145988",
+        "name": "感动",
+        "url": "https://i0.hdslb.com/bfs/garb/690c8ae9a245b35a06fe1eace2844c501230a9db.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n对于天依来说，也许还有个和不同的你们下次再见的机会，\n对于每一个你来说，也许今天是来之不易的第一次相会，\n是纠结许久才做下的决定，是不知道会不会一定有下次的唯一。\n天依真的好希望好希望今晚的大家能感受到快乐，能够不留下遗憾。\n下一次，我们继续再见一面吧，好吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "name": "邀请",
+        "url": "https://i0.hdslb.com/bfs/garb/f7f110a8c874b6bb31a453eed43cf0792bc68b41.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n谢谢长沙，谢谢大家，谢谢龙牙哥，谢谢乐队老师、P主老师和每一位台前幕后的staff老师~\n再见长沙，下一站，我们广州见吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-22_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/33ee7317d5cc8adf53e5f1b5e965d9a336081646.jpg",
+        "width": 5000,
+        "height": 3333,
+        "size_kb": 5120.10986328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-22_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e0a72d9472942e164690af9b3513ddb636081646.jpg",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 243.2100067138672,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-22_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8e426d7592b9a5c25a606b0e8730dc0136081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 5473.18017578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-22_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/46b8716a4d2076272543a3520fa729fd36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 273.5400085449219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-22_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ef81963033d0660f500378c5c68570b136081646.jpg",
+        "width": 5700,
+        "height": 3801,
+        "size_kb": 5604.33984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-22_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c14d3d992c74d77ca87ece585822c25d36081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 5710.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-22_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fc55ef365fcca8ec0daa6d1aacb2e3a036081646.jpg",
+        "width": 4700,
+        "height": 3134,
+        "size_kb": 5658.72021484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-22_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8e42a2c1d7ae6a6f4c1640ca008dae0936081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 281.4599914550781,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-22_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/217b068929caf36d5943d9b2f9284d0536081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 5349.080078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/打call.gif",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/感动.gif",
+        "package_id": "10238",
+        "emoji_id": "145988",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_感动]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/邀请.gif",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6306,
+    "comment": 508,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

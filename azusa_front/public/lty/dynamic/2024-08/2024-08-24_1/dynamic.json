@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "969169708379013145",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/969169708379013145",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月24日",
+    "pub_ts": 1724490807,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依歌行宇宙无限遨游沉浸式体验展今晚18 点正式开票～所有早鸟票数量有限售完为止，感兴趣的小伙伴欢迎关注呀，期待和大家一起穿梭天依的音乐星球，体验沉浸之旅！[心律共鸣动态表情包_啾啾]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依歌行宇宙无限遨游沉浸式体验展今晚18 点正式开票～所有早鸟票数量有限售完为止，感兴趣的小伙伴欢迎关注呀，期待和大家一起穿梭天依的音乐星球，体验沉浸之旅！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3504,
+    "comment": 141,
+    "forward": 49
+  },
+  "forward": {
+    "orig_id": 968814501706072104,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-08-23_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

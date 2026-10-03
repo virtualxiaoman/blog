@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1226345465223577619",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1226345465223577619",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月18日",
+    "pub_ts": 1784369204,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依终于！马上就要见到你们啦！[洛天依·信号动态表情包_美味]\n谢谢大家的应援，谢谢大家愿意来到我的身边~\n准备好了吗？让我们一起点亮今晚的舞台吧！[洛天依·信号动态表情包_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依终于！马上就要见到你们啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n谢谢大家的应援，谢谢大家愿意来到我的身边~\n准备好了吗？让我们一起点亮今晚的舞台吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fed5ddb1558daae4679a0fbf45c0611036081646.jpg",
+        "width": 8192,
+        "height": 5464,
+        "size_kb": 11754.099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-18_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b7498193902d4a7dd9ca71e153d6ee3236081646.jpg",
+        "width": 8192,
+        "height": 5464,
+        "size_kb": 5434.0400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-18_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c2b186705c6a5679e716b2fa05aa243d36081646.jpg",
+        "width": 4653,
+        "height": 3101,
+        "size_kb": 7516.35009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-18_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1a51def2adb5288910c04c117e62559936081646.jpg",
+        "width": 3200,
+        "height": 2134,
+        "size_kb": 3588.3798828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-18_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bdc98d286e3f637c201a7f483aeb4eb836081646.jpg",
+        "width": 8192,
+        "height": 5464,
+        "size_kb": 4638.5400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-18_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2c47899281ea64a39ad264e60aae720236081646.jpg",
+        "width": 8640,
+        "height": 5760,
+        "size_kb": 4668.56005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6756,
+    "comment": 571,
+    "forward": 79
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:31:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

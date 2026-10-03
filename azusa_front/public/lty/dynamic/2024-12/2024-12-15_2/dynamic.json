@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1011038544197582852",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1011038544197582852",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月15日",
+    "pub_ts": 1734239155,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "想看大家和天依的2024年终总结！\n今年，是你陪天依走过的又一年，还是你认识天依的第一年呀？\n无论是不离不弃的陪伴，还是充满惊喜的相逢，天依都非常开心，可以陪伴你走到现在！\n哪首歌曲，哪副画卷，哪个瞬间，哪些人事，给你曾留下过最深刻的印象呢？好奇好奇，告诉天依嘛~！[洛天依-潮声回响_天依来喽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "想看大家和天依的2024年终总结！\n今年，是你陪天依走过的又一年，还是你认识天依的第一年呀？\n无论是不离不弃的陪伴，还是充满惊喜的相逢，天依都非常开心，可以陪伴你走到现在！\n哪首歌曲，哪副画卷，哪个瞬间，哪些人事，给你曾留下过最深刻的印象呢？好奇好奇，告诉天依嘛~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_天依来喽]",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "name": "天依来喽",
+        "url": "https://i0.hdslb.com/bfs/garb/599551701d532db2c99d0824297d51b066a6cc59.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-15_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5b5f089f63f54f63ee19508312e3e0ad36081646.jpg",
+        "width": 640,
+        "height": 538,
+        "size_kb": 42.833,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/天依来喽.png",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "text": "[洛天依-潮声回响_天依来喽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7037,
+    "comment": 937,
+    "forward": 152
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

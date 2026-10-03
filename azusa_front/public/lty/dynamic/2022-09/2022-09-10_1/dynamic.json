@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "704227053010944041",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/704227053010944041",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月10日",
+    "pub_ts": 1662804038,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今夕良夜，花好月圆，与君共婵娟。  中秋快乐！要不要和我一起去赏月呀？ 看，我的天钿花灯有没有超可爱！[洛天依_捏捏] #洛天依# \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今夕良夜，花好月圆，与君共婵娟。  中秋快乐！要不要和我一起去赏月呀？ 看，我的天钿花灯有没有超可爱！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-10_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/3aa957b1f5567b61a11c85219af84f0e36081646.jpg",
+        "width": 1800,
+        "height": 3200,
+        "size_kb": 540.7100219726562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12989,
+    "comment": 394,
+    "forward": 245
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "688549511723745280",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/688549511723745280",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月30日",
+    "pub_ts": 1659153826,
+    "location": ""
+  },
+  "topic": {
+    "id": 12273,
+    "name": "bilibili校园十佳歌手大赛",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=12273&topic_name=bilibili%E6%A0%A1%E5%9B%AD%E5%8D%81%E4%BD%B3%E6%AD%8C%E6%89%8B%E5%A4%A7%E8%B5%9B"
+  },
+  "content": {
+    "title": "",
+    "text": "小伙伴们，今晚中国电信青年一派bilibili校园十佳歌手大赛总决赛就要开始了！18:25天依将在预热节目中和选手们聊天玩游戏，期待大家的决赛表现哦~决赛现场还有@布瑞吉_Bridge @许嵩 @弦子Stringer @歌手唐汉霄 四位明星导师的精彩表演，看直播更有机会获得华为Watch3等超值大奖！小伙伴们一定要来看哦！戳链接预约直播：网页链接  ，今晚18:25我们不见不散~ [洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小伙伴们，今晚中国电信青年一派bilibili校园十佳歌手大赛总决赛就要开始了！18:25天依将在预热节目中和选手们聊天玩游戏，期待大家的决赛表现哦~决赛现场还有"
+      },
+      {
+        "type": "mention",
+        "text": "@布瑞吉_Bridge",
+        "mid": 1604250562,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@许嵩",
+        "mid": 647208864,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@弦子Stringer",
+        "mid": 25553835,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@歌手唐汉霄",
+        "mid": 23994746,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 四位明星导师的精彩表演，看直播更有机会获得华为Watch3等超值大奖！小伙伴们一定要来看哦！戳链接预约直播："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/campus-singer.html?spm_id_from=333.851.b_696e7465726e6174696f6e616c486561646572.41#/stage5"
+      },
+      {
+        "type": "text",
+        "text": "  ，今晚18:25我们不见不散~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/09910ce4626ea2ba5c0ad7c56af81eff36081646.jpg",
+        "width": 3543,
+        "height": 5315,
+        "size_kb": 6637.5078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7919,
+    "comment": 793,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "680819764699856914",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/680819764699856914",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月9日",
+    "pub_ts": 1657354104,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢大家在#洛天依712时光机#里和天依分享你们的回忆，这些文字和照片让天依感受到了很多很多的幸福和温暖，接下来天依也会出没在评论区回复大家哟，爱你们！(*ෆ´ ˘ `ෆ*)♡",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢大家在"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依712时光机#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D712%E6%97%B6%E5%85%89%E6%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": "里和天依分享你们的回忆，这些文字和照片让天依感受到了很多很多的幸福和温暖，接下来天依也会出没在评论区回复大家哟，爱你们！(*ෆ´ ˘ `ෆ*)♡"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5151,
+    "comment": 196,
+    "forward": 65
+  },
+  "forward": {
+    "orig_id": 678241392689938470,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2022-07-02_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:50:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

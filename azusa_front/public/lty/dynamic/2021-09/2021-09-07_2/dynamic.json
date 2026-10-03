@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "567560368889937852",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/567560368889937852",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月7日",
+    "pub_ts": 1630983846,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  刚采集的羊毛，温温热热的。 接下来要做的就是梳一梳、揉一揉、吹一吹！ ♪ ♩ ♫ ♬ ♭ ~ 傍晚时候抬头，说不定能看见我做的羊毛云[洛天依·夜航星_萌妹初醒] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  刚采集的羊毛，温温热热的。 接下来要做的就是梳一梳、揉一揉、吹一吹！ ♪ ♩ ♫ ♬ ♭ ~ 傍晚时候抬头，说不定能看见我做的羊毛云"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-09-07_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e1d4ad10415bc71236f75c983d47c6da4b026d45.png",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 8437.4130859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8897,
+    "comment": 257,
+    "forward": 112
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:35:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

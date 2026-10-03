@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "967331217531731977",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/967331217531731977",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月19日",
+    "pub_ts": 1724062750,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖报~歌行宇宙航行快讯！领航员小洛为你播报——\n洛天依「歌行宇宙」无限遨游沉浸式体验展时间、地点等资讯公开！[心律共鸣动态表情包_大成功]\n\n“自天外降临的虚拟歌手，拥有因爱与创作构成的无限宇宙。”\n🪐展会时间\n9月15日-10月31日\n🪐展会地点\n上海月星环球港4楼（环球大厅-环球展馆）\n\n超千平米展览空间，六大主题音乐星球\n先进数字投影技术、声光互动集成技术、实体还原奇幻造景\n还有宇宙限定舞台现场，周边商品等你体验\n跟随领航员天依，一起畅游音乐之旅吧~[心律共鸣动态表情包_加入我们]\n\n猜猜会是哪几首以大家熟悉的也有新鲜的歌曲为主题的音乐星球？\n揪猜中最多答案的乘客送出来自天依的小礼物1份~[心律共鸣动态表情包_啾啾]\n更多展览资讯，敬请持续关注领航员小洛快报每日更新哦！\n🎁转发关注天依，揪5位小伙伴送出【洛天依随机周边礼品】1份。",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "313654",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "报~歌行宇宙航行快讯！领航员小洛为你播报——\n洛天依「歌行宇宙」无限遨游沉浸式体验展时间、地点等资讯公开！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_大成功]",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "name": "大成功",
+        "url": "https://i0.hdslb.com/bfs/emote/85f122b0f476e5896f3d2e4f867cb62a1d46b175.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“自天外降临的虚拟歌手，拥有因爱与创作构成的无限宇宙。”\n🪐展会时间\n9月15日-10月31日\n🪐展会地点\n上海月星环球港4楼（环球大厅-环球展馆）\n\n超千平米展览空间，六大主题音乐星球\n先进数字投影技术、声光互动集成技术、实体还原奇幻造景\n还有宇宙限定舞台现场，周边商品等你体验\n跟随领航员天依，一起畅游音乐之旅吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_加入我们]",
+        "package_id": "5582",
+        "emoji_id": "81871",
+        "name": "加入我们",
+        "url": "https://i0.hdslb.com/bfs/emote/43b98f437ccb527aa5d1facd12eca335dcae9539.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n猜猜会是哪几首以大家熟悉的也有新鲜的歌曲为主题的音乐星球？\n揪猜中最多答案的乘客送出来自天依的小礼物1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n更多展览资讯，敬请持续关注领航员小洛快报每日更新哦！\n🎁转发关注天依，揪5位小伙伴送出【洛天依随机周边礼品】1份。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/af38e1ce02b7b9f9adead51a74004b6636081646.jpg",
+        "width": 7000,
+        "height": 3938,
+        "size_kb": 15411.4697265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/大成功.gif",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "text": "[心律共鸣动态表情包_大成功]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/加入我们.gif",
+        "package_id": "5582",
+        "emoji_id": "81871",
+        "text": "[心律共鸣动态表情包_加入我们]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "313654"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8466,
+    "comment": 1447,
+    "forward": 9524
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

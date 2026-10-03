@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "1167361184708427829",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1167361184708427829",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月9日",
+    "pub_ts": 1770635856,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "💙QQ音乐 x 洛天依「乐鸣东方」限定装扮上线啦！[乐鸣东方动态表情包_盯]\n\n🎵伴国乐缓缓流转，把国风浪漫藏进每一寸听歌时光\n与天依并肩，共赴这场跨越古今的国韵之约吧[乐鸣东方动态表情包_干杯]\n\n 解锁佩戴>>QQ音乐装扮中心🔍洛天依·乐鸣东方\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "💙QQ音乐 x 洛天依「乐鸣东方」限定装扮上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎵伴国乐缓缓流转，把国风浪漫藏进每一寸听歌时光\n与天依并肩，共赴这场跨越古今的国韵之约吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n 解锁佩戴>>QQ音乐装扮中心🔍洛天依·乐鸣东方"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/45f573f4c4676a53f11169dbe09b00eb36081646.jpg",
+        "width": 1080,
+        "height": 790,
+        "size_kb": 474.4990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5348,
+    "comment": 203,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

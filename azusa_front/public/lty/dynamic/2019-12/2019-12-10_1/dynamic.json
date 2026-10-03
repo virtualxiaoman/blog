@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "331357216515700373",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/331357216515700373",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月10日",
+    "pub_ts": 1575988514,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "摩柯的庆生曲大家都听了么(=・ω・=)",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "摩柯的庆生曲大家都听了么(=・ω・=)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5109,
+    "comment": 136,
+    "forward": 4
+  },
+  "forward": {
+    "orig_id": 331286521351609015,
+    "orig_mid": 406949083,
+    "deleted": false,
+    "archive_dir": "../../../406949083/2019-12/2019-12-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

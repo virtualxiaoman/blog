@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "id": "880892174596571136",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/880892174596571136",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月30日",
+    "pub_ts": 1703937092,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪3位小伙伴送出【洛天依周边福袋】1份[洛天依_礼物]\n\n📢大家——天依#2023最美的夜跨年晚会#舞台就是明晚啦！[代号洛天依_起航]\n\n大家肯定都猜到了，最后要为大家展示的当然就是【演出模型-蒙古族】高清细节展示图啦！\n四个民族的演出模型都为大家介绍完毕！大家有没有很期待呀？[洛天依幻游世界_哇哦]\n有这么多衣服，嘿嘿当然会有舞蹈、变装......\n或许无奖竞猜：今年的天依也会飞天嘛？[古色花香洛天依_乖巧]\n天依一定会好好珍惜这份期待，为大家呈现最好的舞台！我们明晚不见不散哦！[古色花香洛天依_亲亲mua]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪3位小伙伴送出【洛天依周边福袋】1份"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n📢大家——天依"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "舞台就是明晚啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n大家肯定都猜到了，最后要为大家展示的当然就是【演出模型-蒙古族】高清细节展示图啦！\n四个民族的演出模型都为大家介绍完毕！大家有没有很期待呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_哇哦]",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "name": "哇哦",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e5bc68534e3271c873a8ab2cabe0eac69b01a952.png"
+      },
+      {
+        "type": "text",
+        "text": "\n有这么多衣服，嘿嘿当然会有舞蹈、变装......\n或许无奖竞猜：今年的天依也会飞天嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依一定会好好珍惜这份期待，为大家呈现最好的舞台！我们明晚不见不散哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-30_15.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0b2e95e6b4f1baec6c10521b56a0dc5f36081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 16935.369140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-12-30_16.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/6d815c8c6ed3f699c6dc0789a72a698e36081646.jpg",
+        "width": 1842,
+        "height": 1842,
+        "size_kb": 653.2000122070312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-12-30_17.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/2f9e482337284c5271b633be74c7cca736081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 15754.9404296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-12-30_18.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/a02791e95dce51b437d27c8db1801d2736081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 14034.3203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-12-30_19.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/453ec81ba26728e95a1ab2d2711040d236081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 19481.130859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-12-30_20.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4eccf3c712a74e63e7c354115672157136081646.jpg",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 235.17999267578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/哇哦.png",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "text": "[洛天依幻游世界_哇哦]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6496,
+    "comment": 2070,
+    "forward": 4092
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:03:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

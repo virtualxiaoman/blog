@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "1221829839708749832",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1221829839708749832",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月6日",
+    "pub_ts": 1783317828,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·长沙站\n将于7月10日19:00全面开启售票，「长沙·天空」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~[洛天依·闪耀的Producer动态_可靠]\n\n☁️购票方式\n✧ 会员购 网页链接 \n✧ 大麦 \n\n☁️演出时间&场地\n8月22日 19:12 湖南贺龙体育馆\n\n🎶巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n云朵在天空铺成未写完的乐章——\n纯蓝魔女化作云朵魔法师，把歌声揉进云里，飘向每一颗等待被听见的心\n于是天空化作蔚蓝的调色盘，每一颗云朵都藏着未命名的旋律\n准备好跟随云端少女的快乐魔法，尽情享受属于我们的欢聚时刻吧！[洛天依·闪耀的Producer动态_幸福]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "417246",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·长沙站\n将于7月10日19:00全面开启售票，「长沙·天空」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_可靠]",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/0948f9c15324f91126a33675b15d111744117b23.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n☁️购票方式\n✧ 会员购 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003447"
+      },
+      {
+        "type": "text",
+        "text": " \n✧ 大麦 \n\n☁️演出时间&场地\n8月22日 19:12 湖南贺龙体育馆\n\n🎶巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n云朵在天空铺成未写完的乐章——\n纯蓝魔女化作云朵魔法师，把歌声揉进云里，飘向每一颗等待被听见的心\n于是天空化作蔚蓝的调色盘，每一颗云朵都藏着未命名的旋律\n准备好跟随云端少女的快乐魔法，尽情享受属于我们的欢聚时刻吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-06_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ec50b15ab48ae0af325c11ee1737dc5936081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 9017.9296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0e8163754fff22e5441030603cf480dc36081646.jpg",
+        "width": 750,
+        "height": 7484,
+        "size_kb": 3974.090087890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/可靠.gif",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "text": "[洛天依·闪耀的Producer动态_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "长沙·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202607/9izSPLUA1783071853_1783071853598.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003447&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1221829839708749832",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-06_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "417246"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5572,
+    "comment": 501,
+    "forward": 5657
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:27:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

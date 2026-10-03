@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1087548971347345415",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1087548971347345415",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月9日",
+    "pub_ts": 1752053127,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欢迎欢迎！期待和神山羊老师一起为大家带来演出~[蛇来运转表情包_洛天依-]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢迎欢迎！期待和神山羊老师一起为大家带来演出~"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3787,
+    "comment": 44,
+    "forward": 11
+  },
+  "forward": {
+    "orig_id": 1087542876822306819,
+    "orig_mid": 265967388,
+    "deleted": false,
+    "archive_dir": "../../../265967388/2025-07/2025-07-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:33:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

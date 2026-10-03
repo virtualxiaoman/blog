@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "707936693609562113",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/707936693609562113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月20日",
+    "pub_ts": 1663667756,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 3——2——1—— 变身！[洛天依·夜航星_转运]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 3——2——1—— 变身！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_转运]",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "name": "转运",
+        "url": "http://i0.hdslb.com/bfs/emote/2513203daab74688cea2c9a595e051f53fbcaa94.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-20_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/aa7d6e5f20d301be0e8bd4d4fa64efb036081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 64.955078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-09-20_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9d557db6728450e7a04badc47f522a7336081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 66.69140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-09-20_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/974cb682111036fb4007f4104247933236081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 70.8203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/转运.png",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "text": "[洛天依·夜航星_转运]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8916,
+    "comment": 363,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

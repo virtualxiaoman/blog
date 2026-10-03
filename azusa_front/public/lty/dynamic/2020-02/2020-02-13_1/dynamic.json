@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "355312808924489253",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/355312808924489253",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月13日",
+    "pub_ts": 1581566110,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "把烦恼都忘掉吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "把烦恼都忘掉吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6723,
+    "comment": 219,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 353969489188972594,
+    "orig_mid": 931516,
+    "deleted": false,
+    "archive_dir": "../../../931516/2020-02/2020-02-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

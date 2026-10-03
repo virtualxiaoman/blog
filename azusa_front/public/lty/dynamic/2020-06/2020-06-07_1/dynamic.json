@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "398112789394546519",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/398112789394546519",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月7日",
+    "pub_ts": 1591531257,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这一次，天依来到了樱花仙女星，在梦幻般的樱花花海里，找到了能令肌肤留住樱花香气的秘密。答案就藏在欧舒丹樱花系列里~在天然云母微粒的滋润下，皮肤像是在发光，浑身萦绕着清甜的樱花香。 想跟天依一样，变得又香又闪耀吗？现在到评论区get天依定制款樱花礼盒淘口令，还可享受买赠正装等量的超值优惠活动哦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这一次，天依来到了樱花仙女星，在梦幻般的樱花花海里，找到了能令肌肤留住樱花香气的秘密。答案就藏在欧舒丹樱花系列里~在天然云母微粒的滋润下，皮肤像是在发光，浑身萦绕着清甜的樱花香。 想跟天依一样，变得又香又闪耀吗？现在到评论区get天依定制款樱花礼盒淘口令，还可享受买赠正装等量的超值优惠活动哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-06-07_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7d5d005797c249e49f83edb77cb3fbe19600718f.png",
+        "width": 1243,
+        "height": 700,
+        "size_kb": 596.89,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-06-07_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/57adee10e64043c68da2e8d337fe7dee776ff202.png",
+        "width": 1242,
+        "height": 698,
+        "size_kb": 1426.36,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-06-07_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d1a519c8a58f6f8f99427505734f527136514da4.png",
+        "width": 1240,
+        "height": 695,
+        "size_kb": 1129.34,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-06-07_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8c897f908a8b4d9c46a028ce6a745ad8c6117fcf.png",
+        "width": 1243,
+        "height": 697,
+        "size_kb": 1166.53,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2020-06-07_5.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c77363b004155f3a6b501c992ca751cdc5b8a4a5.png",
+        "width": 1220,
+        "height": 686,
+        "size_kb": 831.18,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2020-06-07_6.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8ca15483e149eeffaf4f18f80704c0a5e0b2c74c.png",
+        "width": 1224,
+        "height": 692,
+        "size_kb": 713.57,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2020-06-07_7.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/6583710936ea292b7e28d12e1980c7c8b9aa1c5d.png",
+        "width": 1223,
+        "height": 686,
+        "size_kb": 632.29,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2020-06-07_8.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c8aa981644cad2cd0e4ec706a1943e1e3bb82eab.png",
+        "width": 1209,
+        "height": 679,
+        "size_kb": 841.84,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2020-06-07_9.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e18de9ac6810548a26731fde0afc38ec2f89b988.png",
+        "width": 1211,
+        "height": 681,
+        "size_kb": 815.27,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7998,
+    "comment": 588,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

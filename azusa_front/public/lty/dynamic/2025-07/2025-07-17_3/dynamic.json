@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1090543517064757256",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1090543517064757256",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月17日",
+    "pub_ts": 1752750349,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "欢唱的最佳舞台，除了演唱会，当然还有KTV啦！\n洛天依流光协奏全息巡演X纯K 福利大放送~[洛天依八音奇响动态_赞]\n\n所有来观看天依演唱会的小伙伴\n都将在放置在座位上的特典礼包内\n获赠纯K欢唱优惠券一份！\n\n具体参与时间和门店小伙伴们请戳长图查看！\n一起来纯K为精彩续杯吧~ [洛天依八音奇响动态_美丽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢唱的最佳舞台，除了演唱会，当然还有KTV啦！\n洛天依流光协奏全息巡演X纯K 福利大放送~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_赞]",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/311e217d343d1eb6a2330fe39518904106796890.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n所有来观看天依演唱会的小伙伴\n都将在放置在座位上的特典礼包内\n获赠纯K欢唱优惠券一份！\n\n具体参与时间和门店小伙伴们请戳长图查看！\n一起来纯K为精彩续杯吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-17_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/06ef6be7f6a34953b0518bcdd16f4c9536081646.jpg",
+        "width": 1080,
+        "height": 13325,
+        "size_kb": 8400.69140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/赞.gif",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "text": "[洛天依八音奇响动态_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4312,
+    "comment": 219,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

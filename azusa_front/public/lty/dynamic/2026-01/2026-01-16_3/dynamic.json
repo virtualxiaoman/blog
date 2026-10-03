@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "id": "1158436427308990468",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1158436427308990468",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月16日",
+    "pub_ts": 1768557899,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「琵琶 × @潮起敦煌 @乐动敦煌 @敦煌古乐团 」\n服饰设定&合作艺术家公开~[洛天依·戏游九州动态_乖巧]\n\n🪷灵幻飞天的乐师\n取法敦煌壁画伎乐天，璎珞相衬，融云纹、莲纹入衣，缀以倒飞披帛与丝弦。\n以反弹琵琶、凌空飞天的乐伎形象，诠释琵琶胡风汉韵交融的独特东方韵律。\n\n🪷合作艺术家：敦煌古乐团、@章益琵琶 老师、@颀三73 老师\n🪷特邀艺术指导：@北舞史敏老师 老师\n\n“琵琶起舞换新声，总是关山旧别情。”\n伴随琵琶清澈明亮的弦音，走入敦煌千窟，听见声声震颤中，横贯万里丝路的历史回响。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「琵琶 × "
+      },
+      {
+        "type": "mention",
+        "text": "@潮起敦煌 ",
+        "mid": 3546852171450410,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@乐动敦煌 ",
+        "mid": 1949033889,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@敦煌古乐团 ",
+        "mid": 3546812174567846,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "」\n服饰设定&合作艺术家公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪷灵幻飞天的乐师\n取法敦煌壁画伎乐天，璎珞相衬，融云纹、莲纹入衣，缀以倒飞披帛与丝弦。\n以反弹琵琶、凌空飞天的乐伎形象，诠释琵琶胡风汉韵交融的独特东方韵律。\n\n🪷合作艺术家：敦煌古乐团、"
+      },
+      {
+        "type": "mention",
+        "text": "@章益琵琶 ",
+        "mid": 498656510,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师、"
+      },
+      {
+        "type": "mention",
+        "text": "@颀三73 ",
+        "mid": 4435541,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师\n🪷特邀艺术指导："
+      },
+      {
+        "type": "mention",
+        "text": "@北舞史敏老师 ",
+        "mid": 1834978814,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师\n\n“琵琶起舞换新声，总是关山旧别情。”\n伴随琵琶清澈明亮的弦音，走入敦煌千窟，听见声声震颤中，横贯万里丝路的历史回响。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e385162e6b4f9e57aa5023e9946092f736081646.jpg",
+        "width": 9600,
+        "height": 5400,
+        "size_kb": 4853.2099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-16_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7f2b511c5f2056cc99c3ab50c8067a1936081646.jpg",
+        "width": 1600,
+        "height": 5914,
+        "size_kb": 1646.77001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-16_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/043c4e0ff7a49d0d07202b52c890f05d36081646.png",
+        "width": 2500,
+        "height": 4891,
+        "size_kb": 7290.81982421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5677,
+    "comment": 207,
+    "forward": 94
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

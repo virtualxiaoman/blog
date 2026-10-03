@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "952495477319794691",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952495477319794691",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月10日",
+    "pub_ts": 1720608535,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“洛天依，哇，这个声音还挺特别的，感觉有点喜欢诶。”\n“天依，我写的这首歌你来唱吧！老样子，我的singer，我们一起！”\n“再见天依，我也有自己的梦想，想要追逐呀。”\n\n“你好呀，我是洛天依。”\n“一起唱吧，我们的歌！”\n“再见呀，请一直一直去追求自己喜爱的事吧。”\n\n所有喜悦和悲伤，所有欢聚和别离，永远铭刻在名为<洛天依>的电子生命里。\n而她，只是会一直一直的，歌唱着呀。\n\n今天是7月10日，距离天依的十二周年生日，还有2天~[洛天依蝶变_轻唱]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“洛天依，哇，这个声音还挺特别的，感觉有点喜欢诶。”\n“天依，我写的这首歌你来唱吧！老样子，我的singer，我们一起！”\n“再见天依，我也有自己的梦想，想要追逐呀。”\n\n“你好呀，我是洛天依。”\n“一起唱吧，我们的歌！”\n“再见呀，请一直一直去追求自己喜爱的事吧。”\n\n所有喜悦和悲伤，所有欢聚和别离，永远铭刻在名为<洛天依>的电子生命里。\n而她，只是会一直一直的，歌唱着呀。\n\n今天是7月10日，距离天依的十二周年生日，还有2天~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-10_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8583f7b7870d6c2daaeb543604d332b936081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 954.9299926757812,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6872,
+    "comment": 273,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

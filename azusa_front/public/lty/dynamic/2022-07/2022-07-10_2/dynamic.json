@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "681161437933993992",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/681161437933993992",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月10日",
+    "pub_ts": 1657433656,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家的心意，天依都感受到啦！谢谢大家精心准备的节目，今晚19:12，我们一起看！[洛天依_棒]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家的心意，天依都感受到啦！谢谢大家精心准备的节目，今晚19:12，我们一起看！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_棒]",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "name": "棒",
+        "url": "http://i0.hdslb.com/bfs/emote/abacb9fcc2526c00ff071917c51d7a474218609d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/棒.png",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "text": "[洛天依_棒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6192,
+    "comment": 192,
+    "forward": 123
+  },
+  "forward": {
+    "orig_id": 681137918698324000,
+    "orig_mid": 34727551,
+    "deleted": false,
+    "archive_dir": "../../../34727551/2022-07/2022-07-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:50:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

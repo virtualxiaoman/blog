@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "1083788177757437961",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1083788177757437961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月29日",
+    "pub_ts": 1751177499,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依十三周年#♬#洛天依0712生日快乐#\n 🎶洛天依十三周年 × @上海都市旅游卡 上海交通卡即将开售\n转发关注天依，揪3位小伙伴送出【同款联名交通卡】1份~\n【标准卡】&【异形亚克力挂件卡】同步上线\n*持卡可畅行全国330+城市哦！\n\n-预售开启时间：\n7月4日20点\n-预售渠道:\nbilibili会员购\nVsinger旗舰店\n上海公共交通卡官方旗舰店等\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "365003",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "♬"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n 🎶洛天依十三周年 × "
+      },
+      {
+        "type": "mention",
+        "text": "@上海都市旅游卡",
+        "mid": 3537123070184212,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 上海交通卡即将开售\n转发关注天依，揪3位小伙伴送出【同款联名交通卡】1份~\n【标准卡】&【异形亚克力挂件卡】同步上线\n*持卡可畅行全国330+城市哦！\n\n-预售开启时间：\n7月4日20点\n-预售渠道:\nbilibili会员购\nVsinger旗舰店\n上海公共交通卡官方旗舰店等"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/10602183985ee09b2bd87ca8d950bc5436081646.jpg",
+        "width": 1280,
+        "height": 10215,
+        "size_kb": 3178.4208984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "365003"
+  },
+  "vote": null,
+  "stats": {
+    "like": 4541,
+    "comment": 320,
+    "forward": 4062
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

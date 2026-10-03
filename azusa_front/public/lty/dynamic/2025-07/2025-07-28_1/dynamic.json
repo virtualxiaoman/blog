@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1094530689780416514",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1094530689780416514",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月28日",
+    "pub_ts": 1753678685,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "敬请期待广州站限定曲《武装乙女》的天依舞台首唱吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "敬请期待广州站限定曲《武装乙女》的天依舞台首唱吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "吾等 中华美少女 ！",
+      "desc": "快臣服于本姑娘的威名之下~\n敬请期待广州站限定曲《武装乙女》的天依舞台首唱吧！\nMusic：Chinozo\n编舞：泠泠泠泠泠\n\n今晚正式开票啦！\n传送门：https://show.bilibili.com/platform/detail.html?id=105342 \n\n🎶广州站购票时间 \n-【优先购票】7月28日 18:00\n-【正式开售】7月28日 19:00 \n\n🎶巡演城市 7.19 北京/8.2 成都/8.17 广州/8.23 上海",
+      "jump_url": "https://www.bilibili.com/video/BV17y87z3ED1",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/63b06e78e40a800e3fd17a935ddc08aa3c292e8e.jpg",
+      "cover_file": "../../_assets/covers/2025-07-28_1.jpg",
+      "bvid": "BV17y87z3ED1",
+      "extra": {
+        "type": 1,
+        "bvid": "BV17y87z3ED1",
+        "aid": "114929080208681",
+        "cover": "http://i2.hdslb.com/bfs/archive/63b06e78e40a800e3fd17a935ddc08aa3c292e8e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV17y87z3ED1",
+        "stat": {
+          "danmaku": "596",
+          "play": "446.5万",
+          "vt": ""
+        },
+        "duration_text": "00:59",
+        "title": "吾等 中华美少女 ！",
+        "desc": "快臣服于本姑娘的威名之下~\n敬请期待广州站限定曲《武装乙女》的天依舞台首唱吧！\nMusic：Chinozo\n编舞：泠泠泠泠泠\n\n今晚正式开票啦！\n传送门：https://show.bilibili.com/platform/detail.html?id=105342 \n\n🎶广州站购票时间 \n-【优先购票】7月28日 18:00\n-【正式开售】7月28日 19:00 \n\n🎶巡演城市 7.19 北京/8.2 成都/8.17 广州/8.23 上海",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 167671,
+    "comment": 2056,
+    "forward": 142
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

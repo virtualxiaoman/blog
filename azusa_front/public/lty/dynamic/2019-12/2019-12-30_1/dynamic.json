@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "338652776811389745",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/338652776811389745",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月30日",
+    "pub_ts": 1577687144,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "化学神奇又悠久的历史，造就了一段段传奇的故事。 所以元素周期表大家都记住了吗ε=ε=(ノ≧∇≦)ノ？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "化学神奇又悠久的历史，造就了一段段传奇的故事。 所以元素周期表大家都记住了吗ε=ε=(ノ≧∇≦)ノ？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5797,
+    "comment": 508,
+    "forward": 46
+  },
+  "forward": {
+    "orig_id": 338612056231602990,
+    "orig_mid": 20165629,
+    "deleted": false,
+    "archive_dir": "../../../20165629/2019-12/2019-12-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "621846049683874101",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/621846049683874101",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月31日",
+    "pub_ts": 1643623216,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "除夕快乐~大家开始吃年夜饭了吗？ 万家灯火的日子里，有家人和朋友们的陪伴，才格外温暖。 即使隔着屏幕，我们也会一直陪伴在大家的身边，岁岁年年[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "除夕快乐~大家开始吃年夜饭了吗？ 万家灯火的日子里，有家人和朋友们的陪伴，才格外温暖。 即使隔着屏幕，我们也会一直陪伴在大家的身边，岁岁年年"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-01-31_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8997ccdbc1931e5fd5a638253d69ebcf00f2dd45.jpg",
+        "width": 2000,
+        "height": 1500,
+        "size_kb": 3092.02001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11458,
+    "comment": 454,
+    "forward": 390
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1158402789140856840",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1158402789140856840",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月16日",
+    "pub_ts": 1768550067,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "就是今晚啦！期待和大家相见～[洛天依动态流光协奏_捧花][洛天依动态流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "就是今晚啦！期待和大家相见～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3940,
+    "comment": 241,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 1154297491911344134,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-01-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:14:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

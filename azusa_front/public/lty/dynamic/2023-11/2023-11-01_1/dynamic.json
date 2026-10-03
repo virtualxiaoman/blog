@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "858917549964787714",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/858917549964787714",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月1日",
+    "pub_ts": 1698820726,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "愿如青鸟，遥寄佳音[洛天依幻游世界_i了i了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "愿如青鸟，遥寄佳音"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5015,
+    "comment": 120,
+    "forward": 293
+  },
+  "forward": {
+    "orig_id": 858877465047597065,
+    "orig_mid": 174501086,
+    "deleted": false,
+    "archive_dir": "../../../174501086/2023-11/2023-11-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

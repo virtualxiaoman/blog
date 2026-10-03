@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "991826725981650947",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/991826725981650947",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1729766055,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依x擎苍工作室 | 青筠诀Ver. Q版手办预售即将开启啦~\n卷花并关注，抽1位小伙伴送出新品手办1个。\n青筠诀，游侠儿洛天依！[天依游学记_谢谢你]@擎苍工作室 \n\n※ 手办信息 ※\n上架时间：2024年10月24日18:00；\n开售时间：2024年10月25日18:00；\n预售价格：199R；（定金30R，尾款169R）\n产品出荷：2025年4月中旬；\n\n*产品监修中，以最终实物为准。\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "324368",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依x擎苍工作室 | 青筠诀Ver. Q版手办预售即将开启啦~\n卷花并关注，抽1位小伙伴送出新品手办1个。\n青筠诀，游侠儿洛天依！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "mention",
+        "text": "@擎苍工作室",
+        "mid": 430351780,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n※ 手办信息 ※\n上架时间：2024年10月24日18:00；\n开售时间：2024年10月25日18:00；\n预售价格：199R；（定金30R，尾款169R）\n产品出荷：2025年4月中旬；\n\n*产品监修中，以最终实物为准。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/09ee04ec054a1ffc437f17291be5d07b36081646.jpg",
+        "width": 3257,
+        "height": 4480,
+        "size_kb": 9055.185546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-24_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/483179fcf2d1684785bf41c00080178e36081646.jpg",
+        "width": 6720,
+        "height": 4480,
+        "size_kb": 2345.6171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-24_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9022dda9e0d3f92de4816307e72bece136081646.jpg",
+        "width": 6720,
+        "height": 4480,
+        "size_kb": 1094.96484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-10-24_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e9b6b23811978360e065bcc758146d7b36081646.jpg",
+        "width": 6720,
+        "height": 4480,
+        "size_kb": 3046.5732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-10-24_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1318699f8f90f05318e282bb211b4c6d36081646.jpg",
+        "width": 6720,
+        "height": 4480,
+        "size_kb": 1034.578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-10-24_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0417a5ff62c48bded49e2e2f7380e54136081646.jpg",
+        "width": 6720,
+        "height": 4480,
+        "size_kb": 996.8505859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "324368"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

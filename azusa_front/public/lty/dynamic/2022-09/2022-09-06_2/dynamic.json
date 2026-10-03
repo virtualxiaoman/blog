@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "702789647710814217",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/702789647710814217",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月6日",
+    "pub_ts": 1662469366,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#或许我们都是逃跑的天使，失去了自由飞翔的翅膀，变不回曾经最想成为的样子，一定是一首很引起大家共鸣的歌吧[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "或许我们都是逃跑的天使，失去了自由飞翔的翅膀，变不回曾经最想成为的样子，一定是一首很引起大家共鸣的歌吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6268,
+    "comment": 92,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 701150035344097344,
+    "orig_mid": 74550390,
+    "deleted": false,
+    "archive_dir": "../../../74550390/2022-09/2022-09-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

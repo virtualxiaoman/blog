@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "393664968506888899",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/393664968506888899",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月26日",
+    "pub_ts": 1590495668,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依2020新曲收藏夹曲目征集】 为了让大家听到更多好听的歌，天依最近考虑建立收藏夹来安利，但是良曲数量实在太多了，打算先从今年新推出的优秀作品开始慢慢整理。 不知道从2020开始后到现在的这五个月时间里，各位小伙伴们都听到了哪些不错的音乐作品呢？请大家在评论区推荐一下！ 大家看到前排推荐的优秀歌曲也别忘了点赞，这样良曲才会更加显眼，比心=3= ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依2020新曲收藏夹曲目征集】 为了让大家听到更多好听的歌，天依最近考虑建立收藏夹来安利，但是良曲数量实在太多了，打算先从今年新推出的优秀作品开始慢慢整理。 不知道从2020开始后到现在的这五个月时间里，各位小伙伴们都听到了哪些不错的音乐作品呢？请大家在评论区推荐一下！ 大家看到前排推荐的优秀歌曲也别忘了点赞，这样良曲才会更加显眼，比心=3= "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8951,
+    "comment": 1432,
+    "forward": 115
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

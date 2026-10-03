@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "893804658800197721",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/893804658800197721",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月3日",
+    "pub_ts": 1706943514,
+    "location": ""
+  },
+  "topic": {
+    "id": 1099829,
+    "name": "2024虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1099829&topic_name=2024%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "迎新春，贴春联，下面请您欣赏相声：《俺们的春联》",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "迎新春，贴春联，下面请您欣赏相声：《俺们的春联》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依言和相声】俺们的春联【2024虚拟歌手贺岁纪单品】",
+      "desc": "祝俺们恁们新年快乐！！！\n\n策划：文祖小t（乐宁波） & 季梦VC-ETG & 发发owo\n编剧：季梦VC-ETG\n出演：洛天依 & 言和\n语音指导参考：裘三连\n语调校：潜水荷叶 & 星河潜溪 & 想吃素的BeaR（使用工具：ACE Studio/RVC/Tytalk）\n绘画：小晚 & cat心玲\n美工协力：Ling伊\n视频制作：迷_踪\n音频处理：迷_踪\n封面：hiiiiye\n监制：青蓝",
+      "jump_url": "https://www.bilibili.com/video/BV1Lm41197Rw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/ce6d836a87e12c09f53919d3d39a9d820cb309fd.jpg",
+      "cover_file": "../../_assets/covers/2024-02-03_1.jpg",
+      "bvid": "BV1Lm41197Rw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Lm41197Rw",
+        "aid": "1900126203",
+        "cover": "http://i2.hdslb.com/bfs/archive/ce6d836a87e12c09f53919d3d39a9d820cb309fd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Lm41197Rw",
+        "stat": {
+          "danmaku": "5910",
+          "play": "44.6万",
+          "vt": ""
+        },
+        "duration_text": "17:45",
+        "title": "【洛天依言和相声】俺们的春联【2024虚拟歌手贺岁纪单品】",
+        "desc": "祝俺们恁们新年快乐！！！\n\n策划：文祖小t（乐宁波） & 季梦VC-ETG & 发发owo\n编剧：季梦VC-ETG\n出演：洛天依 & 言和\n语音指导参考：裘三连\n语调校：潜水荷叶 & 星河潜溪 & 想吃素的BeaR（使用工具：ACE Studio/RVC/Tytalk）\n绘画：小晚 & cat心玲\n美工协力：Ling伊\n视频制作：迷_踪\n音频处理：迷_踪\n封面：hiiiiye\n监制：青蓝",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 43217,
+    "comment": 1126,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

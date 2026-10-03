@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "727264944085532696",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/727264944085532696",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月11日",
+    "pub_ts": 1668167965,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果时间倒转，你愿意和我，和我们再一次相遇吗？[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果时间倒转，你愿意和我，和我们再一次相遇吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6940,
+    "comment": 220,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 727249679775957140,
+    "orig_mid": 935663,
+    "deleted": false,
+    "archive_dir": "../../../935663/2022-11/2022-11-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

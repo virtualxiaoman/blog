@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "id": "814829427196166244",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/814829427196166244",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月5日",
+    "pub_ts": 1688555660,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依11周年生日快乐#❀#洛天依0712生日快乐#\n转发本条动态，揪3位听故事的你送出【洛天依随机款式 立牌】1份。\n大家坐好了吗~今天要讲的故事呀，要从十一年前说起......\n\n从前，在一处黑暗的空间里，诞生了一个叫做洛天依的小团子。\n这里什么都没有，什么都看不到。\n\n渐渐地，有一些人发现了她。\n”66ccff 这个颜色很适合你哦“\n\"喜欢美食的中华歌姬 堂堂登场！”\n.....\n就这样，万花筒一点点开始转动，洛天依在这样的转动里被赋予了各种各样的色彩与姿态。\n名为《洛天依》的故事书就此翻开了第一页。\n\n传闻这本故事书永远没有结局，每个人都可以在书上留下自己的痕迹。\n那么你，曾经留下过什么吗？[洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依11周年生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n转发本条动态，揪3位听故事的你送出【洛天依随机款式 立牌】1份。\n大家坐好了吗~今天要讲的故事呀，要从十一年前说起......\n\n从前，在一处黑暗的空间里，诞生了一个叫做洛天依的小团子。\n这里什么都没有，什么都看不到。\n\n渐渐地，有一些人发现了她。\n”66ccff 这个颜色很适合你哦“\n\"喜欢美食的中华歌姬 堂堂登场！”\n.....\n就这样，万花筒一点点开始转动，洛天依在这样的转动里被赋予了各种各样的色彩与姿态。\n名为《洛天依》的故事书就此翻开了第一页。\n\n传闻这本故事书永远没有结局，每个人都可以在书上留下自己的痕迹。\n那么你，曾经留下过什么吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-05_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/525d168992e19895de077d544c1db1cd36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 332.849609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-05_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/bd7bfc38a052aaa3f58647e129139b8d36081646.jpg",
+        "width": 1333,
+        "height": 750,
+        "size_kb": 44.279296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-05_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/35ad1554f1c79fdbe10866e2a7f8303536081646.jpg",
+        "width": 1333,
+        "height": 750,
+        "size_kb": 63.48046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-07-05_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/db993fca61eb7bca88c143b7e77e7eb236081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 692.7177734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依11周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依11周年生日会",
+        "desc1": {
+          "text": "2023-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依芒种手办*1份、洛天依合作款式充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1611701&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1611701,
+        "reserve_total": 80178,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8502,
+    "comment": 882,
+    "forward": 3389
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:54:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

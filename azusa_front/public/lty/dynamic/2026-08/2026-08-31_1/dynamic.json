@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1242504510843125798",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1242504510843125798",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月31日",
+    "pub_ts": 1788131525,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@常夜随@锦依卫-依月@猩魇-梦魔等60位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@常夜随",
+        "mid": 421405550,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@锦依卫-依月",
+        "mid": 3537115998587475,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@猩魇-梦魔",
+        "mid": 289895488,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等60位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4249,
+    "comment": 162,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 1238907145042264068,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-08-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:38:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

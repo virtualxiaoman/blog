@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "542336442578075919",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/542336442578075919",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月1日",
+    "pub_ts": 1625110943,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【九周年第三弹】犹记昔年南湖景，红船定格伟大的宿命。\n百年风雨，百年历程，在这值得纪念的日子里，天依以一首《南湖景》与大家共同祝愿党“一百华诞快乐”。\n在这首建党贺曲里，天依首次尝试了评弹这种古老优美的形式，希望能藉评弹这温婉美丽的非遗艺术，与各位一起感怀过去、展望未来。\n\n#洛天依# #洛天依0712生日快乐# #中国共产党成立100周年#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【九周年第三弹】犹记昔年南湖景，红船定格伟大的宿命。\n百年风雨，百年历程，在这值得纪念的日子里，天依以一首《南湖景》与大家共同祝愿党“一百华诞快乐”。\n在这首建党贺曲里，天依首次尝试了评弹这种古老优美的形式，希望能藉评弹这温婉美丽的非遗艺术，与各位一起感怀过去、展望未来。\n\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#中国共产党成立100周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创】南湖景【建党百年贺曲】",
+      "desc": "犹记昔年南湖景，红船定格伟大的宿命。\n百年风雨，百年历程，在这值得纪念的日子里，天依以一首《南湖景》与大家共同祝愿党“一百华诞快乐”。\n在这首建党贺曲里，天依首次尝试了评弹这种古老优美的形式，希望能藉评弹这温婉美丽的非遗艺术，与各位一起感怀过去、展望未来。\n\n——————Staff——————\n监制：人形兎 \n作曲：韩天赫\n作词：樂仔\n调校：动点p / 人形兎\n画师：依依\n动画师：葡萄",
+      "jump_url": "https://www.bilibili.com/video/BV1v64y1b7jS",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1e3ea57abcb8d9165d6a23f4193a7cb05431c2ef.jpg",
+      "cover_file": "../../_assets/covers/2021-07-01_1.jpg",
+      "bvid": "BV1v64y1b7jS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1v64y1b7jS",
+        "aid": "761467667",
+        "cover": "http://i0.hdslb.com/bfs/archive/1e3ea57abcb8d9165d6a23f4193a7cb05431c2ef.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1v64y1b7jS",
+        "stat": {
+          "danmaku": "544",
+          "play": "20万",
+          "vt": ""
+        },
+        "duration_text": "04:19",
+        "title": "【洛天依原创】南湖景【建党百年贺曲】",
+        "desc": "犹记昔年南湖景，红船定格伟大的宿命。\n百年风雨，百年历程，在这值得纪念的日子里，天依以一首《南湖景》与大家共同祝愿党“一百华诞快乐”。\n在这首建党贺曲里，天依首次尝试了评弹这种古老优美的形式，希望能藉评弹这温婉美丽的非遗艺术，与各位一起感怀过去、展望未来。\n\n——————Staff——————\n监制：人形兎 \n作曲：韩天赫\n作词：樂仔\n调校：动点p / 人形兎\n画师：依依\n动画师：葡萄",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 32574,
+    "comment": 1335,
+    "forward": 527
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

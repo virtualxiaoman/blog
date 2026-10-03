@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224145570089664567",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224145570089664567",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783857001,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“我眉间不点砂，十里街不纵马”《眉间不点砂》洛天依14周年生日会",
+      "desc": "阴差阳错，穿越古代，出言就教你惊诧，与先祖论高下！\n\n作曲：KyuRu☆\n编曲：KyuRu☆\n作词：果汁凉菜\n调教：凝沙key\n原PV：BV17W411X7tP",
+      "jump_url": "https://www.bilibili.com/video/BV11fNu6HEvw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/75514f2a06c8f44bfa284dbb9bc22a499ff0ec9e.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_9.jpg",
+      "bvid": "BV11fNu6HEvw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11fNu6HEvw",
+        "aid": "116906157672901",
+        "cover": "http://i2.hdslb.com/bfs/archive/75514f2a06c8f44bfa284dbb9bc22a499ff0ec9e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11fNu6HEvw",
+        "stat": {
+          "danmaku": "164",
+          "play": "20.7万",
+          "vt": ""
+        },
+        "duration_text": "04:55",
+        "title": "“我眉间不点砂，十里街不纵马”《眉间不点砂》洛天依14周年生日会",
+        "desc": "阴差阳错，穿越古代，出言就教你惊诧，与先祖论高下！\n\n作曲：KyuRu☆\n编曲：KyuRu☆\n作词：果汁凉菜\n调教：凝沙key\n原PV：BV17W411X7tP",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24350,
+    "comment": 513,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

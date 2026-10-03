@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1015542049339867145",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1015542049339867145",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月27日",
+    "pub_ts": 1735287709,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "「我心中的世界 唯我自己去重写」[洛天依·戏游九州动态_帅][洛天依·戏游九州动态_帅]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「我心中的世界 唯我自己去重写」"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_帅]",
+        "package_id": "7318",
+        "emoji_id": "98462",
+        "name": "帅",
+        "url": "https://i0.hdslb.com/bfs/garb/9ecf8ebee9d10918b47875c5d1c3b6f1733b451b.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_帅]",
+        "package_id": "7318",
+        "emoji_id": "98462",
+        "name": "帅",
+        "url": "https://i0.hdslb.com/bfs/garb/9ecf8ebee9d10918b47875c5d1c3b6f1733b451b.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/帅.gif",
+        "package_id": "7318",
+        "emoji_id": "98462",
+        "text": "[洛天依·戏游九州动态_帅]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5012,
+    "comment": 170,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 1015196313062473811,
+    "orig_mid": 112428,
+    "deleted": false,
+    "archive_dir": "../../../112428/2024-12/2024-12-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:22:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

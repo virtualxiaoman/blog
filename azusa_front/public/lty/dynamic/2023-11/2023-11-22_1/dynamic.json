@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "866774307860119560",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/866774307860119560",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月22日",
+    "pub_ts": 1700650020,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "浮世不过大梦，人世需尽欢，不若留步，听我一曲[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "浮世不过大梦，人世需尽欢，不若留步，听我一曲"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3727,
+    "comment": 75,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 858615081188982804,
+    "orig_mid": 1594066,
+    "deleted": false,
+    "archive_dir": "../../../1594066/2023-10/2023-10-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

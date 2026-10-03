@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "933835880001437813",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/933835880001437813",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月21日",
+    "pub_ts": 1716264009,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欢声笑语，回忆种种，共赏明月清风~\n从深海龙宫来到人间的小龙女，也会有关于恋爱的小思绪吗？\n哎呀呀，这表面功夫的害羞，你怎么就读不懂？！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢声笑语，回忆种种，共赏明月清风~\n从深海龙宫来到人间的小龙女，也会有关于恋爱的小思绪吗？\n哎呀呀，这表面功夫的害羞，你怎么就读不懂？！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“这表面的害羞你怎么就不懂！”洛天依原创曲《千金胧梦》「521爱依日」",
+      "desc": "欢声笑语，回忆种种，共赏明月清风~\n从深海龙宫来到人间的小龙女，也会有关于恋爱的小思绪吗？\n哎呀呀，这表面功夫的害羞，你怎么就读不懂？\n恰逢天依12周年本命龙年，值此爱依日之际，一首关于小龙女天依人间游记的原创歌曲《千金胧梦》送给大家，感谢全体staff老师的支持和画师老师们的特别授权~\n\n作曲：PoKeR_扑克\n编曲：PoKeR_扑克/詹伟杰\n作词：杏花包子\n调校：哈士奇P\n混音：徐天鸿@Studio21A\n监制：TENKO / 离途\n曲绘：萃_SUIKA、Muir、菊花猹、白、wine、选择你的天依、",
+      "jump_url": "https://www.bilibili.com/video/BV1di421D7Yr",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/6db93070e50fd54b7f0fe98883253a9735f72d55.jpg",
+      "cover_file": "../../_assets/covers/2024-05-21_1.jpg",
+      "bvid": "BV1di421D7Yr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1di421D7Yr",
+        "aid": "1454828195",
+        "cover": "http://i2.hdslb.com/bfs/archive/6db93070e50fd54b7f0fe98883253a9735f72d55.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1di421D7Yr",
+        "stat": {
+          "danmaku": "1538",
+          "play": "71.9万",
+          "vt": ""
+        },
+        "duration_text": "04:23",
+        "title": "“这表面的害羞你怎么就不懂！”洛天依原创曲《千金胧梦》「521爱依日」",
+        "desc": "欢声笑语，回忆种种，共赏明月清风~\n从深海龙宫来到人间的小龙女，也会有关于恋爱的小思绪吗？\n哎呀呀，这表面功夫的害羞，你怎么就读不懂？\n恰逢天依12周年本命龙年，值此爱依日之际，一首关于小龙女天依人间游记的原创歌曲《千金胧梦》送给大家，感谢全体staff老师的支持和画师老师们的特别授权~\n\n作曲：PoKeR_扑克\n编曲：PoKeR_扑克/詹伟杰\n作词：杏花包子\n调校：哈士奇P\n混音：徐天鸿@Studio21A\n监制：TENKO / 离途\n曲绘：萃_SUIKA、Muir、菊花猹、白、wine、选择你的天依、",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 49890,
+    "comment": 2175,
+    "forward": 381
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

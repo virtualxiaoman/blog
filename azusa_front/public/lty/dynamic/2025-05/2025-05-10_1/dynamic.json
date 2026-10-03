@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1065200027458076769",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1065200027458076769",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月10日",
+    "pub_ts": 1746849608,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "听见WO！【洛天依 X BDF2025主题曲】",
+      "desc": "洛天依 X Bilibili Dancing Festival2025——哔哩哔哩舞蹈嘉年华\n主题曲《听见WO！》\n想要被更多的人看到，想要回应所有人的期待，却渐渐迷失自我，自由的舞步也会被加上镣铐\n不如就摒弃所有嘈杂的声音，随着音乐，自由地起舞吧！\n\n “捂住被噪音攻陷的耳朵，才能听清心中舞动的自由！”\n编舞：@爱娃利亚一动不动  \n作曲/编曲/混音：@小绵羊magens  \n作词：@大九_LN  \n调校：@哈士奇P",
+      "jump_url": "https://www.bilibili.com/video/BV1qC5TzTEH8",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/a9179885cc836ff07147d4d65dbb594e810bd842.jpg",
+      "cover_file": "../../_assets/covers/2025-05-10_1.jpg",
+      "bvid": "BV1qC5TzTEH8",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qC5TzTEH8",
+        "aid": "114471867516252",
+        "cover": "http://i2.hdslb.com/bfs/archive/a9179885cc836ff07147d4d65dbb594e810bd842.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qC5TzTEH8",
+        "stat": {
+          "danmaku": "5552",
+          "play": "108万",
+          "vt": ""
+        },
+        "duration_text": "03:12",
+        "title": "听见WO！【洛天依 X BDF2025主题曲】",
+        "desc": "洛天依 X Bilibili Dancing Festival2025——哔哩哔哩舞蹈嘉年华\n主题曲《听见WO！》\n想要被更多的人看到，想要回应所有人的期待，却渐渐迷失自我，自由的舞步也会被加上镣铐\n不如就摒弃所有嘈杂的声音，随着音乐，自由地起舞吧！\n\n “捂住被噪音攻陷的耳朵，才能听清心中舞动的自由！”\n编舞：@爱娃利亚一动不动  \n作曲/编曲/混音：@小绵羊magens  \n作词：@大九_LN  \n调校：@哈士奇P ",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 54674,
+    "comment": 3076,
+    "forward": 522
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

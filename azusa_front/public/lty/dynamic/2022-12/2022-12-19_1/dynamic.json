@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "id": "741366442744610840",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/741366442744610840",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月19日",
+    "pub_ts": 1671451226,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​年末的钟声敲响，想用歌声为你的冬季带来温暖。\n《天依的音乐交流会》第 二 期 来咯！ [洛天依9th_一起唱]\n\n这一期的交流会节目，也邀请到了几位大家非常熟悉的创作老师们。\n今天先为大家揭晓第一位受邀创作老师——OQQ老师（大家鼓掌欢迎~[洛天依9th_资词]）\n\n【本期直播看点NO.1】\nOQQ老师为何花式叠甲当场变佛？\n老V又为何跪地瑟瑟发抖？\n原因竟是害怕自己提出了“五彩斑斓的黑”？\n12月24日20:00，来天依的直播间看看吧！\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​年末的钟声敲响，想用歌声为你的冬季带来温暖。\n《天依的音乐交流会》第 二 期 来咯！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n这一期的交流会节目，也邀请到了几位大家非常熟悉的创作老师们。\n今天先为大家揭晓第一位受邀创作老师——OQQ老师（大家鼓掌欢迎~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_资词]",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "name": "资词",
+        "url": "http://i0.hdslb.com/bfs/emote/f46f666f5403762facecf11bc465fb965de8b48a.png"
+      },
+      {
+        "type": "text",
+        "text": "）\n\n【本期直播看点NO.1】\nOQQ老师为何花式叠甲当场变佛？\n老V又为何跪地瑟瑟发抖？\n原因竟是害怕自己提出了“五彩斑斓的黑”？\n12月24日20:00，来天依的直播间看看吧！\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-19_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/aab06b7ef1d1b6e00497a33a78f660f436081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 70.86000061035156,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-12-19_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/3c17ca6a1181a9e6b57bb1d1d7f303cd36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 92.98999786376953,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-12-19_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/bbcfbccdaf4838aab0f6db2a2955392036081646.jpg",
+        "width": 1300,
+        "height": 1000,
+        "size_kb": 109.69000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-12-19_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5266fb7839ba48f4c46b32a6dc7ca9af36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 96.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      },
+      {
+        "file": "../../_assets/emojis/255/资词.png",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "text": "[洛天依9th_资词]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：【洛天依】音乐交流会第二期",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：【洛天依】音乐交流会第二期",
+        "desc1": {
+          "text": "2022-12-24 20:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "4.3万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1184378&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1184378,
+        "reserve_total": 42765,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8059,
+    "comment": 455,
+    "forward": 130
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

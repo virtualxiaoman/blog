@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "683141190351061094",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/683141190351061094",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月15日",
+    "pub_ts": 1657894603,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "穿越银河，自瓦纳海姆来到你的身边，为你歌唱[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "穿越银河，自瓦纳海姆来到你的身边，为你歌唱"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7546,
+    "comment": 132,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 681277591033741558,
+    "orig_mid": 43855,
+    "deleted": false,
+    "archive_dir": "../../../43855/2022-07/2022-07-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:51:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

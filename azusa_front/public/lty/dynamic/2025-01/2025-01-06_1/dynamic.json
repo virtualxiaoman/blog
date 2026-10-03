@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1019298552283660307",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1019298552283660307",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月6日",
+    "pub_ts": 1736162338,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "再次，感谢大家又一年的创作和陪伴~！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "再次，感谢大家又一年的创作和陪伴~！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第十六期·回响 | 2024洛天依原创歌曲精选特别篇",
+      "desc": "这次《天依唱片机特别篇》是2024年老师们创作的天依原创歌曲精选合集！\n当然除了歌单里的歌曲，还有很多也投入了很多创作老师们的心血，同样非常好听~大家可以戳天依的收藏夹聆听哦！\n再次，感谢大家又一年的创作和陪伴~！\n\n♪本期歌单\n1.I . I . I G R O K @JUSF周存  BV1zM4m1S7NL \n作曲/编曲/作词/调校：JUSF周存\n2.XXX原创@COPY  BV1Zt42147Px\n作曲/编曲/作词/调校：COP\n3.病态主角观@秦欲坠  BV1hx42127QB\n作曲/编曲：4st",
+      "jump_url": "https://www.bilibili.com/video/BV1aLrVYvEJF",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d93fd46743970c9ec58f5b7463f5ebec1c589a29.jpg",
+      "cover_file": "../../_assets/covers/2025-01-06_1.jpg",
+      "bvid": "BV1aLrVYvEJF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1aLrVYvEJF",
+        "aid": "113781048935121",
+        "cover": "http://i2.hdslb.com/bfs/archive/d93fd46743970c9ec58f5b7463f5ebec1c589a29.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1aLrVYvEJF",
+        "stat": {
+          "danmaku": "517",
+          "play": "27.4万",
+          "vt": ""
+        },
+        "duration_text": "01:02:39",
+        "title": "【天依唱片机】第十六期·回响 | 2024洛天依原创歌曲精选特别篇",
+        "desc": "这次《天依唱片机特别篇》是2024年老师们创作的天依原创歌曲精选合集！\n当然除了歌单里的歌曲，还有很多也投入了很多创作老师们的心血，同样非常好听~大家可以戳天依的收藏夹聆听哦！\n再次，感谢大家又一年的创作和陪伴~！\n\n♪本期歌单\n1.I . I . I G R O K @JUSF周存  BV1zM4m1S7NL \n作曲/编曲/作词/调校：JUSF周存\n2.XXX原创@COPY  BV1Zt42147Px\n作曲/编曲/作词/调校：COP\n3.病态主角观@秦欲坠  BV1hx42127QB\n作曲/编曲：4st",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18717,
+    "comment": 784,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

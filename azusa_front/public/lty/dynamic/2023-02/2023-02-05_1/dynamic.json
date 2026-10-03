@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "759150381926187033",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/759150381926187033",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月5日",
+    "pub_ts": 1675591872,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "愿良辰美景，年年依旧[洛天依_许愿]大家元宵节快乐呀！[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "愿良辰美景，年年依旧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      },
+      {
+        "type": "text",
+        "text": "大家元宵节快乐呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      },
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6152,
+    "comment": 180,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 758954222151532593,
+    "orig_mid": 107948187,
+    "deleted": false,
+    "archive_dir": "../../../107948187/2023-02/2023-02-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

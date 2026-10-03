@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "612940946092904778",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/612940946092904778",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月7日",
+    "pub_ts": 1641549835,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#老师好久不见[洛天依9th_好康！]把雪比作白色的吻好浪漫呀[洛天依·夜航星_崇拜]是熟悉的轻快悦耳的小调~[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "老师好久不见"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "把雪比作白色的吻好浪漫呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      },
+      {
+        "type": "text",
+        "text": "是熟悉的轻快悦耳的小调~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      },
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6687,
+    "comment": 125,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 610466881722982832,
+    "orig_mid": 905583,
+    "deleted": false,
+    "archive_dir": "../../../905583/2022-01/2022-01-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

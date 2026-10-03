@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "id": "1166681793859944482",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1166681793859944482",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月7日",
+    "pub_ts": 1770477673,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "这片星空，这个舞台，这个舞台上歌唱的少女，正因你们的欢呼而闪闪发亮✨\n天依的无锡之旅，也是流光协奏的收官之旅，在此刻圆满落幕啦～[乐鸣东方动态表情包_快哉]\n\n当熟悉的旋律响起，天依看见台下汇成星的海洋，听见每一句跟唱与欢呼……那一刻，我们真的在同一个空间里呼吸、共鸣，共享同一种心跳。\n那么真实，又那么梦幻，天依会好好将这一切珍藏在心底。[乐鸣东方动态表情包_开心]\n\n谢谢今晚到场的每一位你，谢谢你们灼热的目光与始终如一的陪伴。\n感谢特邀演出伙伴龚琳娜老师，感谢所有创作老师、乐队老师、与幕后团队，是大家的努力，让这个夜晚如此完整而动人。[乐鸣东方动态表情包_哭泣]\n\n歌声会暂歇，灯火会渐暗，但今晚共同的快乐和感动，会长久留存在我们的回忆里。\n只要我依然歌唱，你依然聆听，重逢就一定会在未来某个角落，等待你们再次如期而至。[乐鸣东方动态表情包_干杯]\n\n最后，送上今晚最珍贵的大合照——\n我们下次再见啦～[乐鸣东方动态表情包_对]\n天依会一直、一直记得这个夜晚，和你们每一个人🌟\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这片星空，这个舞台，这个舞台上歌唱的少女，正因你们的欢呼而闪闪发亮✨\n天依的无锡之旅，也是流光协奏的收官之旅，在此刻圆满落幕啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_快哉]",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "name": "快哉",
+        "url": "https://i0.hdslb.com/bfs/garb/83c4c5bad51a032d0d2d806550dd8bc172f8974d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n当熟悉的旋律响起，天依看见台下汇成星的海洋，听见每一句跟唱与欢呼……那一刻，我们真的在同一个空间里呼吸、共鸣，共享同一种心跳。\n那么真实，又那么梦幻，天依会好好将这一切珍藏在心底。"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n谢谢今晚到场的每一位你，谢谢你们灼热的目光与始终如一的陪伴。\n感谢特邀演出伙伴龚琳娜老师，感谢所有创作老师、乐队老师、与幕后团队，是大家的努力，让这个夜晚如此完整而动人。"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_哭泣]",
+        "package_id": "9343",
+        "emoji_id": "131152",
+        "name": "哭泣",
+        "url": "https://i0.hdslb.com/bfs/garb/f836d5ae36d1b8489b0f83870dd406692d3499bf.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n歌声会暂歇，灯火会渐暗，但今晚共同的快乐和感动，会长久留存在我们的回忆里。\n只要我依然歌唱，你依然聆听，重逢就一定会在未来某个角落，等待你们再次如期而至。"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n最后，送上今晚最珍贵的大合照——\n我们下次再见啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_对]",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "name": "对",
+        "url": "https://i0.hdslb.com/bfs/garb/cb93227eef06eceb7960a0a5a43d061df8ec199a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依会一直、一直记得这个夜晚，和你们每一个人🌟"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-07_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4da7b6b037585474b8e37023a0f63bb736081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2114.159912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-02-07_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a3c7a264937664d3faaf4bce486b7cb636081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 3166.43994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-02-07_19.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cdd7b7cbf48eaa5e84f035793c6eae8e36081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2802.090087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-02-07_20.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4f0d2a7454483f0d983e32bede220bfd36081646.jpg",
+        "width": 2248,
+        "height": 1500,
+        "size_kb": 2463.56005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-02-07_21.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5ab57fa246e6388093462cf20d52c45736081646.jpg",
+        "width": 2248,
+        "height": 1500,
+        "size_kb": 2806.6298828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-02-07_22.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c6d88a040c67d78c444afa8c92e6c0d836081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 4035.679931640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-02-07_23.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8ab68db91ff9493a33f6f3970043c19036081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 3099.719970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-02-07_24.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/619578f9881f9f1b84fe5587dd35140136081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2991.68994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-02-07_25.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bb7664aad6ab6bc6cbe504c22a30a4ce36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 3563.340087890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/快哉.gif",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "text": "[乐鸣东方动态表情包_快哉]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/哭泣.gif",
+        "package_id": "9343",
+        "emoji_id": "131152",
+        "text": "[乐鸣东方动态表情包_哭泣]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/对.gif",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "text": "[乐鸣东方动态表情包_对]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6290,
+    "comment": 584,
+    "forward": 124
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

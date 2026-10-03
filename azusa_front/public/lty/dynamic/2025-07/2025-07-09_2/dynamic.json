@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1087519739797831687",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1087519739797831687",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月9日",
+    "pub_ts": 1752046321,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·上海站\n官宣特邀演出伙伴@神山羊_有機酸 老师~[洛天依·天星问动态_萌]\n\n神山羊老师担当了今年天依的原创音乐征集活动《闪耀的Producer》的发起人，为大家带来了全新的天依原创歌曲\n恰逢天依的巡演开启，便很高兴邀请到老师也一起在演唱会的上海站为大家带来演出\n那么，我们会表演的歌曲当然就是——\n一起喊出它的名字吧！[洛天依·戏游九州动态_打call]\n\n🎤演出时间&地点\n8月23日 19:12 上海·纪希片场3号馆\n🎫即将开售\n7月11日 18:00 开启优先购票\n7月11日 19:00 正式开启售票\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·上海站\n官宣特邀演出伙伴"
+      },
+      {
+        "type": "mention",
+        "text": "@神山羊_有機酸",
+        "mid": 265967388,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n神山羊老师担当了今年天依的原创音乐征集活动《闪耀的Producer》的发起人，为大家带来了全新的天依原创歌曲\n恰逢天依的巡演开启，便很高兴邀请到老师也一起在演唱会的上海站为大家带来演出\n那么，我们会表演的歌曲当然就是——\n一起喊出它的名字吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_打call]",
+        "package_id": "7318",
+        "emoji_id": "98459",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/0b64f87516ddf24dd364ef6a3227fe0347163b13.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎤演出时间&地点\n8月23日 19:12 上海·纪希片场3号馆\n🎫即将开售\n7月11日 18:00 开启优先购票\n7月11日 19:00 正式开启售票"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-09_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/646b2b0459c95304a37401360b5fb87f36081646.jpg",
+        "width": 1622,
+        "height": 2885,
+        "size_kb": 3279.13671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/打call.gif",
+        "package_id": "7318",
+        "emoji_id": "98459",
+        "text": "[洛天依·戏游九州动态_打call]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·2025洛天依「无限共鸣•流光协奏」全息演唱会-上海站",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202507/BJ9JErLS1751881454641.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=104936&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1087519739797831687",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-09_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3952,
+    "comment": 327,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

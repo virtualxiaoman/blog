@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "1090870037631205382",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1090870037631205382",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月18日",
+    "pub_ts": 1752826373,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "惊喜联动！天依再次牵手老朋友@非人哉工作室 为大家带来全新开场曲啦！[洛天依八音奇响动态_美丽]\n7月19日，天依将在北京站演唱会的舞台上首次演唱电影《非人哉限时玩家》开场曲《神不换》\n8月16日，一起来看#电影非人哉限时玩家#，听天依演唱的开场曲《神不换》吧～ [洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "惊喜联动！天依再次牵手老朋友"
+      },
+      {
+        "type": "mention",
+        "text": "@非人哉工作室 ",
+        "mid": 32741563,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为大家带来全新开场曲啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n7月19日，天依将在北京站演唱会的舞台上首次演唱电影《非人哉限时玩家》开场曲《神不换》\n8月16日，一起来看"
+      },
+      {
+        "type": "topic",
+        "text": "#电影非人哉限时玩家#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E9%9D%9E%E4%BA%BA%E5%93%89%E9%99%90%E6%97%B6%E7%8E%A9%E5%AE%B6"
+      },
+      {
+        "type": "text",
+        "text": "，听天依演唱的开场曲《神不换》吧～ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/01d9bc9d47ba4bedf7487dbc2b7cb5b636081646.jpg",
+        "width": 1080,
+        "height": 1716,
+        "size_kb": 1366.78515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5815,
+    "comment": 260,
+    "forward": 83
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

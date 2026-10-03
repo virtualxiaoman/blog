@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "439928913109067866",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/439928913109067866",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年9月28日",
+    "pub_ts": 1601267332,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依在后续和中国电信的联动内容中，还有正在制作的新曲和MV将要带给大家，希望大家可以喜欢[洛天依_耶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依在后续和中国电信的联动内容中，还有正在制作的新曲和MV将要带给大家，希望大家可以喜欢"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5742,
+    "comment": 206,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 439272083757303527,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2020-09-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

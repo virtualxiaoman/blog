@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "id": "610435167681740203",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/610435167681740203",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月1日",
+    "pub_ts": 1640966413,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依十周年# 零点钟声响起~就是新的一年啦！ 大家新年快乐！[洛天依·夜航星_新年快乐] 这一年对我来说非常特殊，今年就是我出道的第十年啦！[洛天依_耶] 有很多感谢的话语想对大家说，有很多想要做的事情想和大家分享[洛天依9th_一起唱] #2022年的第一条微博# 说给你们听，2022年的路我们一起走~[洛天依·夜航星_比心] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 零点钟声响起~就是新的一年啦！ 大家新年快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_新年快乐]",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "name": "新年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/80d5195ee966465f5f338db26f2faba51afcd217.png"
+      },
+      {
+        "type": "text",
+        "text": " 这一年对我来说非常特殊，今年就是我出道的第十年啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": " 有很多感谢的话语想对大家说，有很多想要做的事情想和大家分享"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2022年的第一条微博#",
+        "url": "https://search.bilibili.com/all?keyword=2022%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A"
+      },
+      {
+        "type": "text",
+        "text": " 说给你们听，2022年的路我们一起走~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-01-01_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c01ebc57376045a3a4b3f1ec9e87a26716bdad8e.png",
+        "width": 5787,
+        "height": 5382,
+        "size_kb": 17632.9296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-01-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ce5f992ca981ef1350ada5641aa753b407a0fc38.jpg",
+        "width": 1242,
+        "height": 3505,
+        "size_kb": 706.3900146484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/新年快乐.png",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "text": "[洛天依·夜航星_新年快乐]"
+      },
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15036,
+    "comment": 1973,
+    "forward": 510
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

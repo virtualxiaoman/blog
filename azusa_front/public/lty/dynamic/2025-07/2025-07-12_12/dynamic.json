@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088695615955664899",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088695615955664899",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752320101,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "任我唱到天使垂泪 魔鬼钦佩 |《潮声回响》洛天依十三周年生日会",
+      "desc": "再次跟随海底最杰出的塞壬歌者，将自由的歌谣传唱四方\n\n《潮声回响》\n作曲：李建衡\n作词：大九_LN\n编曲：1AN孙毅然、李建衡\n混音：罗文Rown\n调教：莫米兔\n原pv：BV1ivSiYbENA",
+      "jump_url": "https://www.bilibili.com/video/BV1qzuKzpEBS",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ef7f79492018497f1e65f89f1a36d9c3b0dbc1d6.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_5.jpg",
+      "bvid": "BV1qzuKzpEBS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qzuKzpEBS",
+        "aid": "114830413398185",
+        "cover": "http://i0.hdslb.com/bfs/archive/ef7f79492018497f1e65f89f1a36d9c3b0dbc1d6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qzuKzpEBS",
+        "stat": {
+          "danmaku": "740",
+          "play": "74.8万",
+          "vt": ""
+        },
+        "duration_text": "03:53",
+        "title": "任我唱到天使垂泪 魔鬼钦佩 |《潮声回响》洛天依十三周年生日会",
+        "desc": "再次跟随海底最杰出的塞壬歌者，将自由的歌谣传唱四方\n\n《潮声回响》\n作曲：李建衡\n作词：大九_LN\n编曲：1AN孙毅然、李建衡\n混音：罗文Rown\n调教：莫米兔\n原pv：BV1ivSiYbENA",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16914,
+    "comment": 246,
+    "forward": 53
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

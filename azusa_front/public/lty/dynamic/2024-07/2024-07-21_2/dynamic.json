@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "956481786542555218",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/956481786542555218",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月21日",
+    "pub_ts": 1721536670,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "和小美拍杂志封面超开心[洛天依心律共鸣表情包_开心]我们终于一起唱歌啦！7月24日来听听看吧～[洛天依心律共鸣表情包_与你共鸣]#美依礼芽洛天依双人杂志首封# #美依礼芽洛天依合作新歌#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "和小美拍杂志封面超开心"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "我们终于一起唱歌啦！7月24日来听听看吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_与你共鸣]",
+        "package_id": "5361",
+        "emoji_id": "78493",
+        "name": "与你共鸣",
+        "url": "https://i0.hdslb.com/bfs/garb/5a9ee26ed599c2d131df522e730a20a7c3260447.png"
+      },
+      {
+        "type": "topic",
+        "text": "#美依礼芽洛天依双人杂志首封#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8F%8C%E4%BA%BA%E6%9D%82%E5%BF%97%E9%A6%96%E5%B0%81"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#美依礼芽洛天依合作新歌#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%90%88%E4%BD%9C%E6%96%B0%E6%AD%8C"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/与你共鸣.png",
+        "package_id": "5361",
+        "emoji_id": "78493",
+        "text": "[洛天依心律共鸣表情包_与你共鸣]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6109,
+    "comment": 364,
+    "forward": 66
+  },
+  "forward": {
+    "orig_id": 956472036966793218,
+    "orig_mid": 607217518,
+    "deleted": false,
+    "archive_dir": "../../../607217518/2024-07/2024-07-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

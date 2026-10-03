@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1026318710722265091",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1026318710722265091",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月25日",
+    "pub_ts": 1737796846,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如斯千年流转，共追忆，共希冀，大家的新春收藏集即将开启啦！[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如斯千年流转，共追忆，共希冀，大家的新春收藏集即将开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4733,
+    "comment": 156,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 1026297910177824836,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2025-01/2025-01-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:26:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

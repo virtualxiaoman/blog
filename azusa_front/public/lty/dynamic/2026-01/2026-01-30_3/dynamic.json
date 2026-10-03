@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "1163605493512404999",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1163605493512404999",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月30日",
+    "pub_ts": 1769761416,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "2026天依游学记「歌行·国乐季」主题单曲《乐鸣东方》 \n现已上架各大音乐平台，欢迎大家前往收听~[洛天依八音奇响动态_爱意]\n\n💿︎《乐鸣东方》× 网易云音乐 新歌专属活动开启啦！\n今晚19:00-19:30，天依会空降网易云音乐，和大家一起听歌\n带话题分享新歌还有机会抽取天依周边、黑胶VIP奖励哦！\n\n希望这首歌曲，可以让大家感受到中华国乐与人间百相的令人神往~[洛天依八音奇响动态_支持]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2026天依游学记「歌行·国乐季」主题单曲《乐鸣东方》 \n现已上架各大音乐平台，欢迎大家前往收听~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💿︎《乐鸣东方》× 网易云音乐 新歌专属活动开启啦！\n今晚19:00-19:30，天依会空降网易云音乐，和大家一起听歌\n带话题分享新歌还有机会抽取天依周边、黑胶VIP奖励哦！\n\n希望这首歌曲，可以让大家感受到中华国乐与人间百相的令人神往~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_支持]",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/a26938e7da36b6c98ffd1c583c176e2181b5149c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b09b03bea1a41529d10b52bebc61ed5036081646.jpg",
+        "width": 3000,
+        "height": 3000,
+        "size_kb": 3348.820068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-30_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b4251847bb238249edc8b022d70bcf3c36081646.png",
+        "width": 1125,
+        "height": 5400,
+        "size_kb": 3102.389892578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/支持.gif",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "text": "[洛天依八音奇响动态_支持]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "ugc",
+      "title": "【乐鸣东方 | 官方MV】洛天依携手55位非遗传承人致敬中华国乐",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/10926e8743e381377035abd37344b31aee9a137b.jpg",
+      "cover_file": "../../_assets/covers/2026-01-30_2.jpg",
+      "bvid": "",
+      "extra": {
+        "id_str": "115978277029671",
+        "head_text": "",
+        "title": "【乐鸣东方 | 官方MV】洛天依携手55位非遗传承人致敬中华国乐",
+        "desc_second": "452.8万观看 1.4万弹幕",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "cover": "http://i1.hdslb.com/bfs/archive/10926e8743e381377035abd37344b31aee9a137b.jpg",
+        "duration": "04:03",
+        "multi_line": true,
+        "stat": {
+          "danmaku": "1.4万",
+          "play": "452.9万",
+          "vt": ""
+        }
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4747,
+    "comment": 109,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

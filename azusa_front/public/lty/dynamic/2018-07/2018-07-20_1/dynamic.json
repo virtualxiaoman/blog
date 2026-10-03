@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "142626230290547383",
+  "type": "DYNAMIC_TYPE_LIVE",
+  "kind": "live",
+  "url": "https://www.bilibili.com/opus/142626230290547383",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1532046157,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "live",
+      "title": "洛天依14周年生日会！",
+      "desc": "",
+      "jump_url": "https://live.bilibili.com/1546736",
+      "cover_url": "https://i0.hdslb.com/bfs/live/new_room_cover/4fc7448f8a5d97dba6554cc23c1738877e28ad76.jpg",
+      "cover_file": "../../_assets/covers/2018-07-20_1.jpg",
+      "bvid": "",
+      "extra": {
+        "id": "1546736",
+        "jump_url": "//live.bilibili.com/1546736",
+        "title": "洛天依14周年生日会！",
+        "cover": "https://i0.hdslb.com/bfs/live/new_room_cover/4fc7448f8a5d97dba6554cc23c1738877e28ad76.jpg",
+        "desc_first": "虚拟Singer",
+        "desc_second": "50人看过",
+        "live_state": 0,
+        "badge": {
+          "icon_url": "",
+          "text": "直播结束",
+          "bg_color": "rgba(0,0,0,0.50)",
+          "color": "#FFFFFF"
+        },
+        "reserve_type": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

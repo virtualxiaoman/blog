@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "1111269147998683141",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1111269147998683141",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月11日",
+    "pub_ts": 1757575911,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小西柚又出息啦！[洛天依·戏游九州动态_撒花]\n恭喜洛天依歌行·戏曲季原创曲《戏游九州》\n入围2025中国数字音乐产业大会年度荣誉遴选——年度数字人歌曲\n鼓掌鼓掌~天依非常感谢大家的喜欢和支持呀！[洛天依·戏游九州动态_惬意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小西柚又出息啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n恭喜洛天依歌行·戏曲季原创曲《戏游九州》\n入围2025中国数字音乐产业大会年度荣誉遴选——年度数字人歌曲\n鼓掌鼓掌~天依非常感谢大家的喜欢和支持呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6bf7136e1a2788610b9bb1a6c93eb61c36081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 351.59375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-11_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/14fbace6cf0c98ef53561ba3a951374e36081646.jpg",
+        "width": 2482,
+        "height": 3510,
+        "size_kb": 1054.7880859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5791,
+    "comment": 412,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

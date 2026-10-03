@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "1041195422989680640",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1041195422989680640",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月6日",
+    "pub_ts": 1741260600,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "⭐「歌行·戏曲季」第二弹系列周边上新啦！ [洛天依·戏游九州动态_撒花]\n在新的游学旅程中天依继续学习了豫剧、川剧、黄梅戏这三大剧种，重唱戏韵曲魂，感谢大家的一路陪伴~[洛天依·戏游九州动态_惬意]\n 转发关注天依，随机揪一位小伙伴送出【游学记第二弹周边全套】1份！ \n\n【新品速览】 \n✦马口铁徽章-19元/个 \n✦无边色纸-20元/张\n * 花木兰/白蛇传/天仙配三款 \n\n💡现已上线旗舰店，3月8日前享满减活动哦\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⭐「歌行·戏曲季」第二弹系列周边上新啦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n在新的游学旅程中天依继续学习了豫剧、川剧、黄梅戏这三大剧种，重唱戏韵曲魂，感谢大家的一路陪伴~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n 转发关注天依，随机揪一位小伙伴送出【游学记第二弹周边全套】1份！ \n\n【新品速览】 \n✦马口铁徽章-19元/个 \n✦无边色纸-20元/张\n * 花木兰/白蛇传/天仙配三款 \n\n💡现已上线旗舰店，3月8日前享满减活动哦"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-03-06_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c32c23dbd1eaa41f3db62fb178ed11c436081646.jpg",
+        "width": 2000,
+        "height": 3999,
+        "size_kb": 6362.787109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-03-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a1ad003536bab2c816048f5b9683728536081646.jpg",
+        "width": 2000,
+        "height": 3999,
+        "size_kb": 5034.4091796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-03-06_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e02860469e69fef0e71499ddeffc5d5d36081646.jpg",
+        "width": 2000,
+        "height": 3999,
+        "size_kb": 5132.697265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7159,
+    "comment": 1408,
+    "forward": 2770
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

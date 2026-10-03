@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1095001555670663175",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1095001555670663175",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月29日",
+    "pub_ts": 1753788317,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "首周闪耀对决，天依好歌推荐！",
+      "desc": "洛天依大型原创音乐征集活动「闪耀的Producer 」\n首周闪耀对决火热开启中！\n天依采访了这12首作品的12位创作者，倾听了他们的创作心声（虽然有抽象大师\n这些歌曲有在这个夏天也令你感到共鸣吗？\n以作品进行交流，在切磋中成长，来活动页为你喜欢的作品投上一票吧~！\n\n🎶首轮打擂期：7月25日-7月31日\n🎶首轮参与打擂作品\n✨Pikapika组\n@初試合   《庸人与海》BV1BhJezZE7g\n@塑料小猪销售中心   《电话杀人事件》BV1pSjzzgEVp\n@nogi_Official   《多少甜点",
+      "jump_url": "https://www.bilibili.com/video/BV1Yc8RzKEjw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/261ea2e7dcacf6bb15761beef63e264f53d38b13.jpg",
+      "cover_file": "../../_assets/covers/2025-07-29_1.jpg",
+      "bvid": "BV1Yc8RzKEjw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Yc8RzKEjw",
+        "aid": "114936260922969",
+        "cover": "http://i2.hdslb.com/bfs/archive/261ea2e7dcacf6bb15761beef63e264f53d38b13.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Yc8RzKEjw",
+        "stat": {
+          "danmaku": "364",
+          "play": "16.1万",
+          "vt": ""
+        },
+        "duration_text": "07:11",
+        "title": "首周闪耀对决，天依好歌推荐！",
+        "desc": "洛天依大型原创音乐征集活动「闪耀的Producer 」\n首周闪耀对决火热开启中！\n天依采访了这12首作品的12位创作者，倾听了他们的创作心声（虽然有抽象大师\n这些歌曲有在这个夏天也令你感到共鸣吗？\n以作品进行交流，在切磋中成长，来活动页为你喜欢的作品投上一票吧~！\n\n🎶首轮打擂期：7月25日-7月31日\n🎶首轮参与打擂作品\n✨Pikapika组\n@初試合   《庸人与海》BV1BhJezZE7g\n@塑料小猪销售中心   《电话杀人事件》BV1pSjzzgEVp\n@nogi_Official   《多少甜点",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12177,
+    "comment": 551,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

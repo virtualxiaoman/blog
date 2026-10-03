@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1254193156999610375",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1254193156999610375",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "19小时前",
+    "pub_ts": 1790853000,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]\n所有十月生日的小伙伴们，生日快乐呀！\n要开心，要幸福，要爱自己！[洛天依14周年·纯蓝幻乐 动态表情包_送花]\n\n还有还有，大家国庆快乐！幸福的国庆假期开启啦，大家准备怎么度过呢？代办事项里有没有一个小洛的济南站呀～～[洛天依14周年·纯蓝幻乐 动态表情包_嘻嘻]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n所有十月生日的小伙伴们，生日快乐呀！\n要开心，要幸福，要爱自己！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "name": "送花",
+        "url": "https://i0.hdslb.com/bfs/garb/250e7a83c9d9a06e2e2768a6f2c0057310d61071.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n还有还有，大家国庆快乐！幸福的国庆假期开启啦，大家准备怎么度过呢？代办事项里有没有一个小洛的济南站呀～～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_嘻嘻]",
+        "package_id": "10238",
+        "emoji_id": "145986",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/11509ac5eb7a4065339dffc2dd0a60af553a5299.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/送花.gif",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/嘻嘻.gif",
+        "package_id": "10238",
+        "emoji_id": "145986",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_嘻嘻]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]所有十月生日的小伙伴们，生日快乐呀！要开心，要幸…",
+      "desc": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]\n所有十月生日的小伙伴们，生日快乐呀！\n要开心，要幸福，要爱自己！[洛天依14周年·纯蓝幻乐 动态表情包_送花]\n\n还有还有，大家国庆快乐！幸福的国庆假期开启啦，大家准备怎么度过呢？代办事项里有没有一个小洛的济南站呀～～[洛天依14周年·纯蓝幻乐 动态表情包_嘻嘻]",
+      "jump_url": "https://www.bilibili.com/video/BV1RbaB6UEtr",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/c386b4293b559e1fdc9f526b1b704610c6e7cfcd.jpg",
+      "cover_file": "../../_assets/covers/2026-10-01_1.jpg",
+      "bvid": "BV1RbaB6UEtr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1RbaB6UEtr",
+        "aid": "117365316520937",
+        "cover": "http://i0.hdslb.com/bfs/archive/c386b4293b559e1fdc9f526b1b704610c6e7cfcd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1RbaB6UEtr",
+        "stat": {
+          "danmaku": "283",
+          "play": "3.8万",
+          "vt": ""
+        },
+        "duration_text": "00:18",
+        "title": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]所有十月生日的小伙伴们，生日快乐呀！要开心，要幸…",
+        "desc": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]\n所有十月生日的小伙伴们，生日快乐呀！\n要开心，要幸福，要爱自己！[洛天依14周年·纯蓝幻乐 动态表情包_送花]\n\n还有还有，大家国庆快乐！幸福的国庆假期开启啦，大家准备怎么度过呢？代办事项里有没有一个小洛的济南站呀～～[洛天依14周年·纯蓝幻乐 动态表情包_嘻嘻]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17888,
+    "comment": 1367,
+    "forward": 133
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

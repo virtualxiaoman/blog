@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1169885362742362113",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1169885362742362113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771223562,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欢迎DOUDOU~一起祝大家除夕快乐吧！[洛天依·天星问动态_新年好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢迎DOUDOU~一起祝大家除夕快乐吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_新年好]",
+        "package_id": "7618",
+        "emoji_id": "103411",
+        "name": "新年好",
+        "url": "https://i0.hdslb.com/bfs/garb/2026f0c998f905fe1255ac7ebe1bc4a09691177f.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/新年好.gif",
+        "package_id": "7618",
+        "emoji_id": "103411",
+        "text": "[洛天依·天星问动态_新年好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3032,
+    "comment": 63,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 1169500486428000258,
+    "orig_mid": 646564570,
+    "deleted": false,
+    "archive_dir": "../../../646564570/2026-02/2026-02-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:17:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1072360287684788265",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1072360287684788265",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月29日",
+    "pub_ts": 1748516736,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢大家的支持！感谢Chinozo和アルセチカ老师~【来自吾等中国美少女的感谢~[洛·LUO_哼哼]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢大家的支持！感谢Chinozo和アルセチカ老师~【来自吾等中国美少女的感谢~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_哼哼]",
+        "package_id": "4400",
+        "emoji_id": "62226",
+        "name": "哼哼",
+        "url": "https://i0.hdslb.com/bfs/emote/b546de8caf433060a77e7c90b19c409571e3603d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/哼哼.png",
+        "package_id": "4400",
+        "emoji_id": "62226",
+        "text": "[洛·LUO_哼哼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4032,
+    "comment": 54,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 1072345628965601301,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-05/2025-05-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

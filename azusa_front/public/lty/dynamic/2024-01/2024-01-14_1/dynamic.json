@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "id": "886486850552725505",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/886486850552725505",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月14日",
+    "pub_ts": 1705239704,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "叮咚，你关注的UP主洛天依发布了一条动态～[洛天依幻游世界_我回来了]\n\n你选择———\n1.划走[洛天依蝶变_呜呜]\n2.投喂一个包子[洛天依9th_饿龙咆哮]\n3.推荐一首好听的歌曲[洛天依蝶变_yalahula]\n4.ruarua天依的8字辫[洛天依_捏捏]\n5.说一声晚安吧[洛天依幻游世界_晚安]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "叮咚，你关注的UP主洛天依发布了一条动态～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_我回来了]",
+        "package_id": "1066",
+        "emoji_id": "18944",
+        "name": "我回来了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/f0ecd12c7bf03fb3904aff1ae31b10da599170eb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你选择———\n1.划走"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_呜呜]",
+        "package_id": "3752",
+        "emoji_id": "52571",
+        "name": "呜呜",
+        "url": "https://i0.hdslb.com/bfs/emote/01d5eb99e04e967e053bb19b9764af8f1f7704dc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n2.投喂一个包子"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_饿龙咆哮]",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "name": "饿龙咆哮",
+        "url": "http://i0.hdslb.com/bfs/emote/55df437e8613e117f4f4bbdac4f7e659ec6691f3.png"
+      },
+      {
+        "type": "text",
+        "text": "\n3.推荐一首好听的歌曲"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "\n4.ruarua天依的8字辫"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n5.说一声晚安吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_晚安]",
+        "package_id": "1066",
+        "emoji_id": "18950",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/item/0844d63123ee11e2d62412ca0058275550257687.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/我回来了.png",
+        "package_id": "1066",
+        "emoji_id": "18944",
+        "text": "[洛天依幻游世界_我回来了]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/呜呜.png",
+        "package_id": "3752",
+        "emoji_id": "52571",
+        "text": "[洛天依蝶变_呜呜]"
+      },
+      {
+        "file": "../../_assets/emojis/255/饿龙咆哮.png",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "text": "[洛天依9th_饿龙咆哮]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/晚安.png",
+        "package_id": "1066",
+        "emoji_id": "18950",
+        "text": "[洛天依幻游世界_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7487,
+    "comment": 1395,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

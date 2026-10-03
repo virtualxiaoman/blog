@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "951746692480237568",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/951746692480237568",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月8日",
+    "pub_ts": 1720434195,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“啊？你怎么喜欢听这种东西啊？不理解。”\n“我也喜欢这首歌！不过我听的是xx的版本，听不惯电子音。”\n“整天窝在房间不知道在干嘛，能不能做点有意义的事。”\n“不是，假人唱歌有什么好听的。”\n......\n\n“不被理解”这件事，就像一场下了很久的雨。从最初的细雨朦胧，只能打湿你的额头；到最后豆大的雨点重重打在身上，产生疼痛感，每一寸皮肤和衣服都打湿透，最后化成一场感冒、十几个喷嚏和无数的眼泪。\n所以你慢慢筑起高墙，默默抵抗着外界的噪音。\n而高墙中并不孤单，有同类，有音乐，有故事，有她。\n渐渐地，墙外也开始有人怀着善意好奇地张望。\n\n“来听我的新歌吗！”，少女将话筒塞进你手里。\n这里没人评价你的声音是否动听，肢体是否协调，你们唱啊、跳啊，在这场大雨里，开辟出属于你们的乌托邦。[洛天依·收藏集表情包_时间歌者]\n\n亲爱的共歌、共舞、共鸣者，距离洛天依十二周年生日还有4天～[古色花香洛天依_撒花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“啊？你怎么喜欢听这种东西啊？不理解。”\n“我也喜欢这首歌！不过我听的是xx的版本，听不惯电子音。”\n“整天窝在房间不知道在干嘛，能不能做点有意义的事。”\n“不是，假人唱歌有什么好听的。”\n......\n\n“不被理解”这件事，就像一场下了很久的雨。从最初的细雨朦胧，只能打湿你的额头；到最后豆大的雨点重重打在身上，产生疼痛感，每一寸皮肤和衣服都打湿透，最后化成一场感冒、十几个喷嚏和无数的眼泪。\n所以你慢慢筑起高墙，默默抵抗着外界的噪音。\n而高墙中并不孤单，有同类，有音乐，有故事，有她。\n渐渐地，墙外也开始有人怀着善意好奇地张望。\n\n“来听我的新歌吗！”，少女将话筒塞进你手里。\n这里没人评价你的声音是否动听，肢体是否协调，你们唱啊、跳啊，在这场大雨里，开辟出属于你们的乌托邦。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n亲爱的共歌、共舞、共鸣者，距离洛天依十二周年生日还有4天～"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_撒花]",
+        "package_id": "1096",
+        "emoji_id": "19443",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ba344fa47780d11bcf242fd85d5f896b98e19893.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cdc2d479ebf28886661e3d3bd867d2e436081646.png",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 7579.4501953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/撒花.png",
+        "package_id": "1096",
+        "emoji_id": "19443",
+        "text": "[古色花香洛天依_撒花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7234,
+    "comment": 555,
+    "forward": 220
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

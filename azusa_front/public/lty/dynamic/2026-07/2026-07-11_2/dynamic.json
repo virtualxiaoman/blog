@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1223716240839671809",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1223716240839671809",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月11日",
+    "pub_ts": 1783757040,
+    "location": ""
+  },
+  "topic": {
+    "id": 1338922,
+    "name": "BML-PLAY！2026",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1338922&topic_name=BML-PLAY%EF%BC%812026"
+  },
+  "content": {
+    "title": "",
+    "text": "新的模型，新的舞台，天依也为今年的BML舞台准备了很久哦！\n这次演出，天依会演唱一首经典特别联动歌曲~[心律共鸣动态表情包_真好]\n\n7月11日-12日，国家会展中心（上海）虹馆EH\n线下演出&7月12日BML直播间线上直播\n敬请期待吧~![心律共鸣动态表情包_啾啾]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新的模型，新的舞台，天依也为今年的BML舞台准备了很久哦！\n这次演出，天依会演唱一首经典特别联动歌曲~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n7月11日-12日，国家会展中心（上海）虹馆EH\n线下演出&7月12日BML直播间线上直播\n敬请期待吧~!"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-11_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fe90e8f3f9e6fd870eed67cebab2a74f36081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 3420.0107421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5955,
+    "comment": 297,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

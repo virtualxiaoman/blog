@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "1159232130139553848",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1159232130139553848",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月18日",
+    "pub_ts": 1768743163,
+    "location": ""
+  },
+  "topic": {
+    "id": 8563,
+    "name": "B站百大UP主",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=8563&topic_name=B%E7%AB%99%E7%99%BE%E5%A4%A7UP%E4%B8%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "让我们恭喜﻿@阿健在写歌吗  ﻿  ﻿@洛天依  ﻿  ﻿@某幻君  ﻿  ﻿@亚细亚旷世奇才  ﻿  ﻿@YuH_ChiliChill  ﻿ \n获得BILIBILI 2025 UP100 百大UP主 单项奖-年度原创音乐！\nBILIBILI 2025 UP100 百大UP主 完整名单戳：https://www.bilibili.com/blackboard/era/2025UP100.html",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让我们恭喜﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@阿健在写歌吗 ",
+        "mid": 21096618,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿  ﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依 ",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿  ﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@某幻君 ",
+        "mid": 1577804,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿  ﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@亚细亚旷世奇才 ",
+        "mid": 2010145557,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿  ﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@YuH_ChiliChill ",
+        "mid": 90942983,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿ \n获得BILIBILI 2025 UP100 百大UP主 单项奖-年度原创音乐！\nBILIBILI 2025 UP100 百大UP主 完整名单戳："
+      },
+      {
+        "type": "link",
+        "text": "https://www.bilibili.com/blackboard/era/2025UP100.html",
+        "url": "https://www.bilibili.com/blackboard/era/2025UP100.html"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2025百大UP主盛典 年度原创音乐 揭晓瞬间！",
+      "desc": "让我们恭喜@阿健在写歌吗   @洛天依   @某幻君   @亚细亚旷世奇才   @YuH_ChiliChill  \n获得BILIBILI 2025 UP100 百大UP主 单项奖-年度原创音乐！\nBILIBILI 2025 UP100 百大UP主 完整名单戳：https://www.bilibili.com/blackboard/era/2025UP100.html",
+      "jump_url": "https://www.bilibili.com/video/BV1o5iQBhEJD",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f9eb539c5bb19ed06a3021ef156538bb2ac47a6e.jpg",
+      "cover_file": "../../_assets/covers/2026-01-18_1.jpg",
+      "bvid": "BV1o5iQBhEJD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1o5iQBhEJD",
+        "aid": "115858672256400",
+        "cover": "http://i1.hdslb.com/bfs/archive/f9eb539c5bb19ed06a3021ef156538bb2ac47a6e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1o5iQBhEJD",
+        "stat": {
+          "danmaku": "2777",
+          "play": "69.9万",
+          "vt": ""
+        },
+        "duration_text": "11:31",
+        "title": "2025百大UP主盛典 年度原创音乐 揭晓瞬间！",
+        "desc": "让我们恭喜@阿健在写歌吗   @洛天依   @某幻君   @亚细亚旷世奇才   @YuH_ChiliChill  \n获得BILIBILI 2025 UP100 百大UP主 单项奖-年度原创音乐！\nBILIBILI 2025 UP100 百大UP主 完整名单戳：https://www.bilibili.com/blackboard/era/2025UP100.html",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35641,
+    "comment": 925,
+    "forward": 24
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

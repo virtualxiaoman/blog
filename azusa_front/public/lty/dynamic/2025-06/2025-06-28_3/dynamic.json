@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "1083440315450261543",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1083440315450261543",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月28日",
+    "pub_ts": 1751096506,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#♬#洛天依0712生日快乐#\n「此夜长安，共证天籁」\n#世界首台8米洛天依巨型雕塑#即将落地西安\n一起跟随幕布的缓缓拉起，见证激动人心的时刻吧！\n\n◾活动时间:7月12日 10:30-22:30\n◾活动地点:西安市东大街民生骡马市购物中心一层\n期待与大家一同见证~！[大哉乾元__超甜]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "♬"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n「此夜长安，共证天籁」\n"
+      },
+      {
+        "type": "topic",
+        "text": "#世界首台8米洛天依巨型雕塑#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E9%A6%96%E5%8F%B08%E7%B1%B3%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%B7%A8%E5%9E%8B%E9%9B%95%E5%A1%91"
+      },
+      {
+        "type": "text",
+        "text": "即将落地西安\n一起跟随幕布的缓缓拉起，见证激动人心的时刻吧！\n\n◾活动时间:7月12日 10:30-22:30\n◾活动地点:西安市东大街民生骡马市购物中心一层\n期待与大家一同见证~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元__超甜]",
+        "package_id": "4621",
+        "emoji_id": "66037",
+        "name": "超甜",
+        "url": "https://i0.hdslb.com/bfs/emote/f74596413b084023eaee0aac819bb5b7a240ad63.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-28_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d7a10a6043bc01ecb6b85df302b5c82136081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 285.3525390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-28_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0bd7069400cecc9f534f7eee7136588d36081646.png",
+        "width": 2119,
+        "height": 7696,
+        "size_kb": 15056.2958984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4621/超甜.png",
+        "package_id": "4621",
+        "emoji_id": "66037",
+        "text": "[大哉乾元__超甜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4913,
+    "comment": 406,
+    "forward": 107
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

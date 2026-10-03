@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1000279225921437697",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1000279225921437697",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月16日",
+    "pub_ts": 1731734056,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家好！是…是天依的《潮声回响》主题收藏集喔[洛天依·收藏集表情包_诶嘿]大家请看看吧～[洛天依·收藏集表情包_不要啊]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家好！是…是天依的《潮声回响》主题收藏集喔"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_诶嘿]",
+        "package_id": "5283",
+        "emoji_id": "77192",
+        "name": "诶嘿",
+        "url": "https://i0.hdslb.com/bfs/garb/e05ecc8de8fd16042e335d5ba8494d2eb1558782.png"
+      },
+      {
+        "type": "text",
+        "text": "大家请看看吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_不要啊]",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "name": "不要啊",
+        "url": "https://i0.hdslb.com/bfs/garb/dde80658b0aca4ab88c6316498ac7e27a2455dfd.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/诶嘿.png",
+        "package_id": "5283",
+        "emoji_id": "77192",
+        "text": "[洛天依·收藏集表情包_诶嘿]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/不要啊.png",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "text": "[洛天依·收藏集表情包_不要啊]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4087,
+    "comment": 269,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 1000260089675776006,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-11/2024-11-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

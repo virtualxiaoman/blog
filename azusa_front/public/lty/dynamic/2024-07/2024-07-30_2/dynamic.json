@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "959908732353904710",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/959908732353904710",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月30日",
+    "pub_ts": 1722334568,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "转眼属于我们的盛夏7月就要结束啦！在这个7月大家都有收获到哪些特别的回忆呢~\n化身勤劳小动物们的天依，为辛苦在各行各业的劳动人民加油，也祝大家都能在付出努力之后，收获到自己想要的果实！\n即使也许会迷茫，会受伤，会觉得离自己想要抓住的梦还有好远好远，也要对今天的自己说，努力至今的你已经很棒很棒啦！希望天依的歌声可以给你带来一丝丝慰藉呀~[洛天依蝶变_害羞]\n\n[洛天依蝶变_轻唱]分享给大家这首~【洛天依原创】今天的你也辛苦了【PV附】\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转眼属于我们的盛夏7月就要结束啦！在这个7月大家都有收获到哪些特别的回忆呢~\n化身勤劳小动物们的天依，为辛苦在各行各业的劳动人民加油，也祝大家都能在付出努力之后，收获到自己想要的果实！\n即使也许会迷茫，会受伤，会觉得离自己想要抓住的梦还有好远好远，也要对今天的自己说，努力至今的你已经很棒很棒啦！希望天依的歌声可以给你带来一丝丝慰藉呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "分享给大家这首~"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】今天的你也辛苦了【PV附】",
+        "url": "https://www.bilibili.com/video/av2338832",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/66164058103994a66e7f1fe40841485d36081646.jpg",
+        "width": 987,
+        "height": 988,
+        "size_kb": 595.9541015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8a2dceac711158d7eb770027555a58a036081646.jpg",
+        "width": 939,
+        "height": 939,
+        "size_kb": 630.5,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-30_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5031e8778241d1ebcc51f8bee9a2657236081646.jpg",
+        "width": 939,
+        "height": 939,
+        "size_kb": 583.158203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-07-30_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/21a9bfc501129f0807f3324050cba1f636081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 621.7685546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6093,
+    "comment": 301,
+    "forward": 89
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

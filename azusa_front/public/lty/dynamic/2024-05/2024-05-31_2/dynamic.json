@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "937546761829875840",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/937546761829875840",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月31日",
+    "pub_ts": 1717128016,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依/乐正绫原创】《霜雪千年》2024官方重置版【PV付】",
+      "desc": "演唱：洛天依 乐正绫\n词/曲/调校：COP\n原人设：拂晓奈奈\n曲绘/视频 ：hisa镜\n编曲：上官于尧 曹文佳\n古筝：王姬\n二胡：叶子璇\n混音/母带：罗文Rown\n特别鸣谢：镜面不反射 Pelokio Kappochan\n\n一朝心期逐月往，千载灯明循雾来。\n2024，再遇《霜雪千年》。",
+      "jump_url": "https://www.bilibili.com/video/BV1zM4m1r7JS",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/c4ed85af4597cce88734305ee0b7d34b0f98eb0c.jpg",
+      "cover_file": "../../_assets/covers/2024-05-31_1.jpg",
+      "bvid": "BV1zM4m1r7JS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zM4m1r7JS",
+        "aid": "1305196045",
+        "cover": "http://i0.hdslb.com/bfs/archive/c4ed85af4597cce88734305ee0b7d34b0f98eb0c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zM4m1r7JS",
+        "stat": {
+          "danmaku": "2.7万",
+          "play": "559万",
+          "vt": ""
+        },
+        "duration_text": "04:02",
+        "title": "【洛天依/乐正绫原创】《霜雪千年》2024官方重置版【PV付】",
+        "desc": "演唱：洛天依 乐正绫\n词/曲/调校：COP\n原人设：拂晓奈奈\n曲绘/视频 ：hisa镜\n编曲：上官于尧 曹文佳\n古筝：王姬\n二胡：叶子璇\n混音/母带：罗文Rown\n特别鸣谢：镜面不反射 Pelokio Kappochan\n\n一朝心期逐月往，千载灯明循雾来。\n2024，再遇《霜雪千年》。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 318329,
+    "comment": 10208,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

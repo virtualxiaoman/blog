@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "925770524095676464",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/925770524095676464",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月29日",
+    "pub_ts": 1714386147,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "新品上架\n转发评论并关注，揪1位小伙伴送出【CODE LUO 坐姿毛绒玩偶】1个~\n是要呆萌的小洛洛[代号洛天依_wink]，还是要这只酷酷的大洛洛呢[代号洛天依_起航]～\n\n♦本期上新\n#代号洛天依#-CODE LUO 坐姿毛绒玩偶\n\n♦预售时间\n5月1日-7月\n\n♦传送门\n网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新品上架\n转发评论并关注，揪1位小伙伴送出【CODE LUO 坐姿毛绒玩偶】1个~\n是要呆萌的小洛洛"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "，还是要这只酷酷的大洛洛呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      },
+      {
+        "type": "text",
+        "text": "～\n\n♦本期上新\n"
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "-CODE LUO 坐姿毛绒玩偶\n\n♦预售时间\n5月1日-7月\n\n♦传送门\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/lRbjPki"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-29_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bad45387bee5d94ffcd70a5b0116910236081646.png",
+        "width": 1000,
+        "height": 9100,
+        "size_kb": 14544.8896484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 PL2 CODE LUO 坐姿毛绒玩偶",
+            "price": "¥101",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/d3/22/d322eaafad99bc70e64254c1663c03d2.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10345832&msource=cps_Mdynamic_36081646_cont-2-925770524095676464&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-04-29_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5688,
+    "comment": 3528,
+    "forward": 3614
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

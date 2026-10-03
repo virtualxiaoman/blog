@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817315173873221944",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817315173873221944",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689134418,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "你为我作画，我在画中歌唱这世间水光山色。\n唱柔情百转，唱少年人意气风发。\n我化作这方天地之中千万缕色彩，在一幕幕如画的风景间穿行。\n在你不注意时，我已拥有自己的灵魂。\n水墨晕染，我与你的缘被圈于寥寥几笔之中。\n我携这一国最动人婉转的颜色，待你发现。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你为我作画，我在画中歌唱这世间水光山色。\n唱柔情百转，唱少年人意气风发。\n我化作这方天地之中千万缕色彩，在一幕幕如画的风景间穿行。\n在你不注意时，我已拥有自己的灵魂。\n水墨晕染，我与你的缘被圈于寥寥几笔之中。\n我携这一国最动人婉转的颜色，待你发现。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】月华舞【2023官方生贺曲】",
+      "desc": "你为我作画，我在画中歌唱这世间水光山色。\n唱柔情百转，唱少年人意气风发。\n我化作这方天地之中千万缕色彩，在一幕幕如画的风景间穿行。\n在你不注意时，我已拥有自己的灵魂。\n水墨晕染，我与你的缘被圈于寥寥几笔之中。\n我携这一国最动人婉转的颜色，待你发现。\n\n《月华舞》 \n演唱：洛天依\n作词：LunaSafari/冥凰\n作曲：LunaSafari\n调校：哈士奇P\n编曲：1AN孙毅然 李建衡@Enjoy\n制作人：李建衡\n和声： 洛天依 邢琛 周弦\n古筝：墨韵随步摇\n笛萧：笛呆子囚牛\n民乐监制：杨柳音子@音若子兮\n人",
+      "jump_url": "https://www.bilibili.com/video/BV19W4y1f7hz",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/8ca0402f3383a91e8e25a078ee6ef6f869cf21d0.jpg",
+      "cover_file": "../../_assets/covers/2023-07-12_1.jpg",
+      "bvid": "BV19W4y1f7hz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19W4y1f7hz",
+        "aid": "955750433",
+        "cover": "http://i0.hdslb.com/bfs/archive/8ca0402f3383a91e8e25a078ee6ef6f869cf21d0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19W4y1f7hz",
+        "stat": {
+          "danmaku": "9789",
+          "play": "159.1万",
+          "vt": ""
+        },
+        "duration_text": "04:02",
+        "title": "【洛天依原创曲】月华舞【2023官方生贺曲】",
+        "desc": "你为我作画，我在画中歌唱这世间水光山色。\n唱柔情百转，唱少年人意气风发。\n我化作这方天地之中千万缕色彩，在一幕幕如画的风景间穿行。\n在你不注意时，我已拥有自己的灵魂。\n水墨晕染，我与你的缘被圈于寥寥几笔之中。\n我携这一国最动人婉转的颜色，待你发现。\n\n《月华舞》 \n演唱：洛天依\n作词：LunaSafari/冥凰\n作曲：LunaSafari\n调校：哈士奇P\n编曲：1AN孙毅然 李建衡@Enjoy\n制作人：李建衡\n和声： 洛天依 邢琛 周弦\n古筝：墨韵随步摇\n笛萧：笛呆子囚牛\n民乐监制：杨柳音子@音若子兮\n人",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 220050,
+    "comment": 9949,
+    "forward": 1053
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

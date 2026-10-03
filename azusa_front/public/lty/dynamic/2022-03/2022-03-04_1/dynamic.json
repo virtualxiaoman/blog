@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "633782047330009108",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/633782047330009108",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月4日",
+    "pub_ts": 1646402282,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# 就像置身于无垠的星河，不知深浅地浮沉漂流着，去寻找那一片希望的曙光[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 就像置身于无垠的星河，不知深浅地浮沉漂流着，去寻找那一片希望的曙光"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6790,
+    "comment": 109,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 627288731021407478,
+    "orig_mid": 57264507,
+    "deleted": false,
+    "archive_dir": "../../../57264507/2022-02/2022-02-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "752469792201375858",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/752469792201375858",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月18日",
+    "pub_ts": 1674036426,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#【新春红包封面】\n转发并关注，揪10位小伙伴送出我的红包封面一份。\n\n卯兔迎新春，红包滚滚来~\n新的一年，祝大家平安喜乐，万事如意！[洛天依·夜航星_锦鲤]\n\n✨1月18日-1月20日，免费领取专属天依款微信红包封面。\n\n✨领取方式：1月18日-1月20日，进入【洛天依】微信公众号，发送“兔年大吉”到消息界面，即可获取领取链接。红包领取链接每天19:00开始生效。数量有限，先到先得。\n\n✨领取攻略：小伙伴们现在就可以去公众号发送消息“兔年大吉”，获得含有红包封面链接的自动回复，到对应时间点击链接领取就好啦~\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "129687",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "【新春红包封面】\n转发并关注，揪10位小伙伴送出我的红包封面一份。\n\n卯兔迎新春，红包滚滚来~\n新的一年，祝大家平安喜乐，万事如意！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨1月18日-1月20日，免费领取专属天依款微信红包封面。\n\n✨领取方式：1月18日-1月20日，进入【洛天依】微信公众号，发送“兔年大吉”到消息界面，即可获取领取链接。红包领取链接每天19:00开始生效。数量有限，先到先得。\n\n✨领取攻略：小伙伴们现在就可以去公众号发送消息“兔年大吉”，获得含有红包封面链接的自动回复，到对应时间点击链接领取就好啦~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-18_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9fecab208f640bdb25e470165424958636081646.png",
+        "width": 957,
+        "height": 1584,
+        "size_kb": 2657.030029296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "129687"
+  },
+  "vote": null,
+  "stats": {
+    "like": 11571,
+    "comment": 2054,
+    "forward": 8492
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:50:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

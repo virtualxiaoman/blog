@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "988485898551165120",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/988485898551165120",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月15日",
+    "pub_ts": 1728988208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【干杯音乐节】N厨狂喜！洛天依/乌兰图雅/者来女在干杯现场等你！",
+      "desc": "UP Free Stage阵容公布！二次元白月光回到梦开始的地方，三大国漫IP首次登演音乐节舞台！线上疯狂刷屏的名场面，线下我们一起重新见证！\n\n📍𝐃𝐀𝐘 𝟏 ｜𝟏𝟎/𝟏𝟗\n\n✶ 𝐔𝐏 𝐅𝐫𝐞𝐞 𝐒𝐭𝐚𝐠𝐞 ✶\n洛天依@洛天依    feat.墨韵随步摇@墨韵Moyun   &浑元Rysn@浑元Rysn   &囚牛@笛呆子囚牛   、天官赐福：二十四伎乐国风乐团@天官赐福动画官方   @二十四伎乐    、AKB48 Team SH@AKB48TeamSH   、NS·补菜Nveg@NS-补菜Nveg",
+      "jump_url": "https://www.bilibili.com/video/BV1nz2ZYWE28",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5f9c886009a0fd9b1c0fbbc2f44a8586aebe3c19.jpg",
+      "cover_file": "../../_assets/covers/2024-10-15_1.jpg",
+      "bvid": "BV1nz2ZYWE28",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1nz2ZYWE28",
+        "aid": "113310901214604",
+        "cover": "http://i1.hdslb.com/bfs/archive/5f9c886009a0fd9b1c0fbbc2f44a8586aebe3c19.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1nz2ZYWE28",
+        "stat": {
+          "danmaku": "32",
+          "play": "2.8万",
+          "vt": ""
+        },
+        "duration_text": "00:49",
+        "title": "【干杯音乐节】N厨狂喜！洛天依/乌兰图雅/者来女在干杯现场等你！",
+        "desc": "UP Free Stage阵容公布！二次元白月光回到梦开始的地方，三大国漫IP首次登演音乐节舞台！线上疯狂刷屏的名场面，线下我们一起重新见证！\n\n📍𝐃𝐀𝐘 𝟏 ｜𝟏𝟎/𝟏𝟗\n\n✶ 𝐔𝐏 𝐅𝐫𝐞𝐞 𝐒𝐭𝐚𝐠𝐞 ✶\n洛天依@洛天依    feat.墨韵随步摇@墨韵Moyun   &浑元Rysn@浑元Rysn   &囚牛@笛呆子囚牛   、天官赐福：二十四伎乐国风乐团@天官赐福动画官方   @二十四伎乐    、AKB48 Team SH@AKB48TeamSH   、NS·补菜Nveg@NS-补菜Nveg  ",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5621,
+    "comment": 205,
+    "forward": 13
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

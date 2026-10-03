@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1144743397281497111",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1144743397281497111",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月10日",
+    "pub_ts": 1765369742,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@半糖摩卡咖啡液中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@半糖摩卡咖啡液",
+        "mid": 1042913830,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3819,
+    "comment": 48,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1111348166854180865,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-09/2025-09-11_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:42:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "832195260132098084",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/832195260132098084",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月21日",
+    "pub_ts": 1692598958,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "锵锵！为大家郑重介绍带领天依游学内蒙的艺术家——@哈拉木吉HalamJ老师~[天依游学记_神]\n\n哈拉木吉老师毕业于中央民族大学音乐学院，是内蒙古草原的民族音乐人、呼麦传承人、明日之子乐团季热门选手。老师擅长呼麦、吉他、贝斯及马头琴、陶布秀尔、图瓦三弦等多种民族乐器；同时，作为跨界音乐制作人，一直致力于将原创及改编作品，以自己独特的音乐语言呈现出传统与现代音乐艺术的无限可能。\n\n天依希望通过这次游学，不仅可以将传统文化之美带给大家，也让更多人发现这些优秀的民族音乐传承人。而天依我又能在这样的相遇里呈现出怎样的歌声与模样呢，一起期待吧！ [天依游学记_谢谢你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "锵锵！为大家郑重介绍带领天依游学内蒙的艺术家——"
+      },
+      {
+        "type": "mention",
+        "text": "@哈拉木吉HalamJ",
+        "mid": 690592451,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师~"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_神]",
+        "package_id": "2363",
+        "emoji_id": "41449",
+        "name": "神",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ce22f493d7a1776fa94fac3cd56bb9e2f01ff5a0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n哈拉木吉老师毕业于中央民族大学音乐学院，是内蒙古草原的民族音乐人、呼麦传承人、明日之子乐团季热门选手。老师擅长呼麦、吉他、贝斯及马头琴、陶布秀尔、图瓦三弦等多种民族乐器；同时，作为跨界音乐制作人，一直致力于将原创及改编作品，以自己独特的音乐语言呈现出传统与现代音乐艺术的无限可能。\n\n天依希望通过这次游学，不仅可以将传统文化之美带给大家，也让更多人发现这些优秀的民族音乐传承人。而天依我又能在这样的相遇里呈现出怎样的歌声与模样呢，一起期待吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-21_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9467e43713712fc8836b236d81812f4336081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1885.578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-21_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d9636b510774e46daefbc152a33bc00136081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 879.205078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/神.png",
+        "package_id": "2363",
+        "emoji_id": "41449",
+        "text": "[天依游学记_神]"
+      },
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5917,
+    "comment": 194,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

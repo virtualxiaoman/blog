@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1093549444396220440",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1093549444396220440",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月25日",
+    "pub_ts": 1753450221,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很高兴受到邀请再次来到广州为大家带来演出～一起享受我们的舞台吧！[洛天依动态流光协奏_出发喽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴受到邀请再次来到广州为大家带来演出～一起享受我们的舞台吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_出发喽]",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "name": "出发喽",
+        "url": "https://i0.hdslb.com/bfs/garb/0570c6197ee6e9ace3dcc4a0e85663d7bc738785.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/出发喽.gif",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "text": "[洛天依动态流光协奏_出发喽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4975,
+    "comment": 110,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 1093512915685736466,
+    "orig_mid": 3546918942673117,
+    "deleted": false,
+    "archive_dir": "../../../3546918942673117/2025-07/2025-07-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:36:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

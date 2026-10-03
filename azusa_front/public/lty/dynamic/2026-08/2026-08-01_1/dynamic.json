@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "id": "1231456334587625497",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1231456334587625497",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月1日",
+    "pub_ts": 1785559171,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“走过圆满之拾，再奏四方和鸣。”\n洛天依十四周年纪念专辑 「四重奏」新像集正式开启！[洛天依14周年·四重奏_wink]\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~[洛天依14周年·四重奏_送花]\n\n[洛天依14周年·四重奏_唱歌]卡池收录：动态数字音乐卡、精美数字卡牌\n[洛天依14周年·四重奏_完美]羁绊之礼解锁：典藏卡、专属勋章、专属动态表情包、动态个性主题、专属头像框、动态点赞、加载动画、进度条\n[洛天依14周年·四重奏_登场]传送入口网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“走过圆满之拾，再奏四方和鸣。”\n洛天依十四周年纪念专辑 「四重奏」新像集正式开启！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_送花]",
+        "package_id": "10148",
+        "emoji_id": "144402",
+        "name": "送花",
+        "url": "https://i0.hdslb.com/bfs/garb/689d530a5d58dae549c9e65cd9d3521d67eaabae.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_唱歌]",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/cbff4881919473c2dc8622f50b6dfc59d10ac785.gif"
+      },
+      {
+        "type": "text",
+        "text": "卡池收录：动态数字音乐卡、精美数字卡牌\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_完美]",
+        "package_id": "10148",
+        "emoji_id": "144404",
+        "name": "完美",
+        "url": "https://i0.hdslb.com/bfs/garb/d5b53037c1807d81009ce652417635d0b0de2511.gif"
+      },
+      {
+        "type": "text",
+        "text": "羁绊之礼解锁：典藏卡、专属勋章、专属动态表情包、动态个性主题、专属头像框、动态点赞、加载动画、进度条\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_登场]",
+        "package_id": "10148",
+        "emoji_id": "144392",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/c3d67c11182032a86021fb724370b868d685b42e.gif"
+      },
+      {
+        "type": "text",
+        "text": "传送入口"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=113783&f_source=social&from=share_dynamic"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7d21d1d9a623220abee61f1d36ac16a536081646.png",
+        "width": 1125,
+        "height": 12330,
+        "size_kb": 10550.240234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/送花.gif",
+        "package_id": "10148",
+        "emoji_id": "144402",
+        "text": "[洛天依14周年·四重奏_送花]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/唱歌.gif",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "text": "[洛天依14周年·四重奏_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/完美.gif",
+        "package_id": "10148",
+        "emoji_id": "144404",
+        "text": "[洛天依14周年·四重奏_完美]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/登场.gif",
+        "package_id": "10148",
+        "emoji_id": "144392",
+        "text": "[洛天依14周年·四重奏_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6164,
+    "comment": 1516,
+    "forward": 3201
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

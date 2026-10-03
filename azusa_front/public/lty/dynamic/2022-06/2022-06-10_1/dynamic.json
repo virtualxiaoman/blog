@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "id": "669995961718669313",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/669995961718669313",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月10日",
+    "pub_ts": 1654833991,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖  【#洛天依10周年#系列周边第一弹】    转发并关注@洛天依，将随机抽取3位小伙伴赠送十周年系列帆布鞋1双。    捧起一把时间长河的流水，曾经的回忆一一浮现。  光阴在指尖流淌，闪烁着点点星光。  我看见有谁将我温柔地唤醒，用歌声将你我紧紧相连。  想要将珍贵的时刻定格，作为时光的纪念。    十周年系列周边第一弹，为大家带来是徽章摆件、收藏色纸、镭射票、色纸、抱枕、金属书签和流沙杯垫。除此以外，还有非常实用的帆布鞋和晴雨伞，希望能更多地在日常生活里陪伴在大家身边。[洛天依_爱你]    生日周边已在【哔哩哔哩会员购】和【上海禾念官方淘宝店】上架网页链接，6月25日开启预售，详情请戳下方长图查看~  #洛天依#\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "96344",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  【"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "系列周边第一弹】    转发并关注"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "，将随机抽取3位小伙伴赠送十周年系列帆布鞋1双。    捧起一把时间长河的流水，曾经的回忆一一浮现。  光阴在指尖流淌，闪烁着点点星光。  我看见有谁将我温柔地唤醒，用歌声将你我紧紧相连。  想要将珍贵的时刻定格，作为时光的纪念。    十周年系列周边第一弹，为大家带来是徽章摆件、收藏色纸、镭射票、色纸、抱枕、金属书签和流沙杯垫。除此以外，还有非常实用的帆布鞋和晴雨伞，希望能更多地在日常生活里陪伴在大家身边。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "    生日周边已在【哔哩哔哩会员购】和【上海禾念官方淘宝店】上架"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/uyoFotQHb.html?from=henian"
+      },
+      {
+        "type": "text",
+        "text": "，6月25日开启预售，详情请戳下方长图查看~  "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-10_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5d11bda04be34eac2dc202641a2fca116bd94c45.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 193.6611328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-06-10_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9ce2711bb901c65d9eea0eaa3c0993e08fcd0555.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 149.4326171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-06-10_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fafde8b359a64f6ea79ae6ac8da61a8504646f33.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 272.939453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-06-10_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0f794e44dd7f5cef5df30c320a1a6b0b4df64db9.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 124.20703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-06-10_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/23d1db0efd456631cc41a2258b44fd2ee13ab64e.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 193.3173828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-06-10_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3925fd68be20b39813bf01584fcc4b6aa0a3b76e.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 197.998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-06-10_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/29c91e64e541be1e01f6ee9e96bbc3d9525c255b.jpg",
+        "width": 1000,
+        "height": 6470,
+        "size_kb": 2524.751953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-06-10_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/29bd9e5723eb2f9626586a42e7dd69819328307a.jpg",
+        "width": 1000,
+        "height": 5515,
+        "size_kb": 1943.9267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-06-10_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/23338b6ca09b5ca7ea0269b850c7f24688cc567c.jpg",
+        "width": 1000,
+        "height": 10217,
+        "size_kb": 3460.796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "96344"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9437,
+    "comment": 1309,
+    "forward": 11319
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

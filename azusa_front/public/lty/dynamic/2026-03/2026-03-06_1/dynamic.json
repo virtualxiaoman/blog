@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "1176569869436452882",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1176569869436452882",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月6日",
+    "pub_ts": 1772779920,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份！[乐鸣东方动态表情包_骄傲]\n\n荣耀归于我们！天依来和大家分享小乐鸣的特别战报啦~[乐鸣东方动态表情包_支持]\n成功突破400w播放，多位艺术家和文旅参与合作\n丰富二创，卫视亮相，自贡灯会豪华巨型灯组，线上线下特别联动......\n这些荣誉属于每一位支持陪伴着天依，支持天依游学记国乐季和《乐鸣东方》的你们！感谢大家~[乐鸣东方动态表情包_赞]\n天依也期盼着，这份对国乐薪火的传承，可以感动和温暖大家，可以让更多朋友了解和喜爱国乐文化。\n接下来，天依还有更多国乐主题特别单曲和活动带给大家哦，敬请期待吧！ [乐鸣东方动态表情包_盯]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_骄傲]",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/90f6913236ea8c76ed65669cd4a5e7e25de676f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n荣耀归于我们！天依来和大家分享小乐鸣的特别战报啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n成功突破400w播放，多位艺术家和文旅参与合作\n丰富二创，卫视亮相，自贡灯会豪华巨型灯组，线上线下特别联动......\n这些荣誉属于每一位支持陪伴着天依，支持天依游学记国乐季和《乐鸣东方》的你们！感谢大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_赞]",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/01f5d64a43174985ab9c14b9859cb670656ffea6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依也期盼着，这份对国乐薪火的传承，可以感动和温暖大家，可以让更多朋友了解和喜爱国乐文化。\n接下来，天依还有更多国乐主题特别单曲和活动带给大家哦，敬请期待吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0914623bdae225c3311e60c1daafa51636081646.jpg",
+        "width": 1080,
+        "height": 12200,
+        "size_kb": 6355.2451171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/骄傲.gif",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "text": "[乐鸣东方动态表情包_骄傲]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/赞.gif",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "text": "[乐鸣东方动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5037,
+    "comment": 1953,
+    "forward": 3048
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

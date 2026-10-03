@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "739852836129472537",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/739852836129472537",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月15日",
+    "pub_ts": 1671098812,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“α这么厉害，两组信号同时追踪看看吧~”\n“......行，小菜一碟罢了。”\n\n不过微弱的那组信号很快就无法追踪到了——\n跟随另一组嘈杂而强烈的信号，三人降落在了M星球。\nM星球上竟然遍布着巨型蘑菇和各种可爱的小精灵！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“α这么厉害，两组信号同时追踪看看吧~”\n“......行，小菜一碟罢了。”\n\n不过微弱的那组信号很快就无法追踪到了——\n跟随另一组嘈杂而强烈的信号，三人降落在了M星球。\nM星球上竟然遍布着巨型蘑菇和各种可爱的小精灵！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/279ac78a8f024d6c9d5245d2224e8af936081646.jpg",
+        "width": 8000,
+        "height": 4472,
+        "size_kb": 15454.98046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10293,
+    "comment": 333,
+    "forward": 130
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

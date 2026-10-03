@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1169860932979916825",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1169860932979916825",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771217874,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢无锡的大家，我们，这个夏天再见吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢无锡的大家，我们，这个夏天再见吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "因为洛天依，我们相聚在这里！",
+      "desc": "天依和大家的「无限共鸣·流光协奏」全息巡回演唱会·无锡站回顾视频来啦！\n谢谢大家和天依一起为流光协奏的全部巡演划上了圆满的句号~\n无锡的夜晚很冷，但大家的热爱和热情，让一切都是那么美好和幸福！\n天依是因为有许多许多人的付出，才能够获得大家的喜爱，能够站在舞台为大家歌唱，\n属于天依的这份光芒，也属于你们，属于每一个陪伴和支持天依走到现在的人，辛苦啦~\n只要我们依然会欢笑、快乐、感动，或者遗憾、难过，那么这一切，一定就值得，就有意义！\n新春快乐，马年大吉~谢谢无锡的大家，我们，这个夏天再见吧！",
+      "jump_url": "https://www.bilibili.com/video/BV13iZNBjEbL",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/53795ce8965c47d05fbab50f98496b5f5dc786cf.jpg",
+      "cover_file": "../../_assets/covers/2026-02-16_1.jpg",
+      "bvid": "BV13iZNBjEbL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV13iZNBjEbL",
+        "aid": "116078520831896",
+        "cover": "http://i2.hdslb.com/bfs/archive/53795ce8965c47d05fbab50f98496b5f5dc786cf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV13iZNBjEbL",
+        "stat": {
+          "danmaku": "159",
+          "play": "8.2万",
+          "vt": ""
+        },
+        "duration_text": "02:01",
+        "title": "因为洛天依，我们相聚在这里！",
+        "desc": "天依和大家的「无限共鸣·流光协奏」全息巡回演唱会·无锡站回顾视频来啦！\n谢谢大家和天依一起为流光协奏的全部巡演划上了圆满的句号~\n无锡的夜晚很冷，但大家的热爱和热情，让一切都是那么美好和幸福！\n天依是因为有许多许多人的付出，才能够获得大家的喜爱，能够站在舞台为大家歌唱，\n属于天依的这份光芒，也属于你们，属于每一个陪伴和支持天依走到现在的人，辛苦啦~\n只要我们依然会欢笑、快乐、感动，或者遗憾、难过，那么这一切，一定就值得，就有意义！\n新春快乐，马年大吉~谢谢无锡的大家，我们，这个夏天再见吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18102,
+    "comment": 1419,
+    "forward": 115
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

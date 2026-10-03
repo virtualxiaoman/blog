@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1070503431545815095",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1070503431545815095",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月24日",
+    "pub_ts": 1748084403,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【官方投稿】Chinozo「武装乙女」feat.洛天依",
+      "desc": "这次活动作为发起人参加了洛天依原创音乐赛！\n希望大家能喜欢！\n期待更多P主们的加入！\n\n武装乙女/洛天依\n\nMusic：Chinozo\nhttps://x.com/chinozo_\n\nMV：アルセチカ\nhttps://x.com/aruseee",
+      "jump_url": "https://www.bilibili.com/video/BV1YfJJzVEDF",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/368f7078f2ace7dbe6663f5003573e0b81e87e11.jpg",
+      "cover_file": "../../_assets/covers/2025-05-24_1.jpg",
+      "bvid": "BV1YfJJzVEDF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YfJJzVEDF",
+        "aid": "114550502396425",
+        "cover": "http://i0.hdslb.com/bfs/archive/368f7078f2ace7dbe6663f5003573e0b81e87e11.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YfJJzVEDF",
+        "stat": {
+          "danmaku": "2.2万",
+          "play": "594.7万",
+          "vt": ""
+        },
+        "duration_text": "03:03",
+        "title": "【官方投稿】Chinozo「武装乙女」feat.洛天依",
+        "desc": "这次活动作为发起人参加了洛天依原创音乐赛！\n希望大家能喜欢！\n期待更多P主们的加入！\n\n武装乙女/洛天依\n\nMusic：Chinozo\nhttps://x.com/chinozo_\n\nMV：アルセチカ\nhttps://x.com/aruseee",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 163732,
+    "comment": 10179,
+    "forward": 28
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

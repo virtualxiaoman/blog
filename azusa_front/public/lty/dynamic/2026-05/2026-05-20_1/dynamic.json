@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "1204472511045042197",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1204472511045042197",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月20日",
+    "pub_ts": 1779276510,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "请接收天依的「花式比心」ෆ( ˶'ᵕ'˶)ෆ \n这个月底有🎤\n六月初有🍰\n小洛努力ing～！[洛天依·闪耀的Producer_幸福]\n动作来源：ow",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "请接收天依的「花式比心」ෆ( ˶'ᵕ'˶)ෆ \n这个月底有🎤\n六月初有🍰\n小洛努力ing～！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer_幸福]",
+        "package_id": "8541",
+        "emoji_id": "117863",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/e55239a2377a0ff1e34b7faa3319022d914466ad.png"
+      },
+      {
+        "type": "text",
+        "text": "\n动作来源：ow"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8541/幸福.png",
+        "package_id": "8541",
+        "emoji_id": "117863",
+        "text": "[洛天依·闪耀的Producer_幸福]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "请接收天依的「花式比心」ෆ( ˶'ᵕ'˶)ෆ",
+      "desc": "请接收天依的「花式比心」ෆ( ˶'ᵕ'˶)ෆ \n这个月底有🎤\n六月初有🍰\n小洛努力ing～！[洛天依·闪耀的Producer_幸福]\n动作来源：ow",
+      "jump_url": "https://www.bilibili.com/video/BV1gwLU6cEDo",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b89d8f17e85140d2942dde1858b88915cebc31a3.jpg",
+      "cover_file": "../../_assets/covers/2026-05-20_1.jpg",
+      "bvid": "BV1gwLU6cEDo",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1gwLU6cEDo",
+        "aid": "116606650878074",
+        "cover": "http://i1.hdslb.com/bfs/archive/b89d8f17e85140d2942dde1858b88915cebc31a3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1gwLU6cEDo",
+        "stat": {
+          "danmaku": "82",
+          "play": "8万",
+          "vt": ""
+        },
+        "duration_text": "00:08",
+        "title": "请接收天依的「花式比心」ෆ( ˶'ᵕ'˶)ෆ",
+        "desc": "请接收天依的「花式比心」ෆ( ˶'ᵕ'˶)ෆ \n这个月底有🎤\n六月初有🍰\n小洛努力ing～！[洛天依·闪耀的Producer_幸福]\n动作来源：ow",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19132,
+    "comment": 1353,
+    "forward": 176
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

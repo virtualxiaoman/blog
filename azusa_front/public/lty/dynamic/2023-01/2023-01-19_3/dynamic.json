@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "752839103577325777",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/752839103577325777",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月19日",
+    "pub_ts": 1674122413,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "就问一句：“天依喂的糖葫芦，你吃还是不吃？”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "就问一句：“天依喂的糖葫芦，你吃还是不吃？”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "对上暗号，新春大吉！和洛天依一起「呆呆一呆呆」，听一遍开心一遍！【2023虚拟歌手贺岁纪单品/洛天依AI/iKz-茶壶】",
+      "desc": "猛虎嗷呜辞旧岁，小兔蹦跳送春来，\n天地为台我作戏，闲唱呆呆一呆呆。\n【2023虚拟歌手贺岁纪开场曲——《呆呆一呆呆》】\n\n演唱：洛天依\n制作人/作曲：iKz-茶壶 | 作词：蔫小坏\n编曲/混音：小欧Ω | 调校：哈士奇p\n人声版：小可学妹 BV1rY4y1Z7Rj\n原创编舞版：BV1bG4y1F7rH\n\n二胡录制：陆二胡 | 古筝录制：哔哔啵啵璇 | 琵琶录制：远坂麦芽\n人设：Yal柴艾 | 绘画：Yal柴艾 & 韶华 | 题字：长安\n\n映像统筹：四方抚子\n映像：四方抚子 & 游叶 & & 局部理论 &",
+      "jump_url": "https://www.bilibili.com/video/BV1sx4y1g7Hh",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/51786d117d53e2d2621630e77b6942dfb1cd8832.jpg",
+      "cover_file": "../../_assets/covers/2023-01-19_2.jpg",
+      "bvid": "BV1sx4y1g7Hh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1sx4y1g7Hh",
+        "aid": "990610203",
+        "cover": "http://i1.hdslb.com/bfs/archive/51786d117d53e2d2621630e77b6942dfb1cd8832.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1sx4y1g7Hh",
+        "stat": {
+          "danmaku": "1789",
+          "play": "115.4万",
+          "vt": ""
+        },
+        "duration_text": "03:42",
+        "title": "对上暗号，新春大吉！和洛天依一起「呆呆一呆呆」，听一遍开心一遍！【2023虚拟歌手贺岁纪单品/洛天依AI/iKz-茶壶】",
+        "desc": "猛虎嗷呜辞旧岁，小兔蹦跳送春来，\n天地为台我作戏，闲唱呆呆一呆呆。\n【2023虚拟歌手贺岁纪开场曲——《呆呆一呆呆》】\n\n演唱：洛天依\n制作人/作曲：iKz-茶壶 | 作词：蔫小坏\n编曲/混音：小欧Ω | 调校：哈士奇p\n人声版：小可学妹 BV1rY4y1Z7Rj\n原创编舞版：BV1bG4y1F7rH\n\n二胡录制：陆二胡 | 古筝录制：哔哔啵啵璇 | 琵琶录制：远坂麦芽\n人设：Yal柴艾 | 绘画：Yal柴艾 & 韶华 | 题字：长安\n\n映像统筹：四方抚子\n映像：四方抚子 & 游叶 & & 局部理论 & ",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 106669,
+    "comment": 2969,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:50:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

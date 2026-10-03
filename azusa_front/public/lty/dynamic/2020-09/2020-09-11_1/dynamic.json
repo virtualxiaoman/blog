@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "id": "433706300064093967",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/433706300064093967",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年9月11日",
+    "pub_ts": 1599818517,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖各位小伙伴们久等啦，一晃眼已经到了9月，天依带来了V4景品手办消息[洛天依_耶][洛天依_耶] 9月19日00:10，天依V4公式服景品手办将在@哔哩哔哩会员购 开启独家预售，前100名可获得即刻免尾款的优惠福利，前101-300名可立减50元！ 除此之外还有天依的签名底座作为独家特典赠送 转发这条动态天依会抽出5个小伙伴送ta V4景品手办，希望我能在小伙伴的身边，听见你们心里的歌声[洛天依_爱你] System Servi...\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "50484",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "各位小伙伴们久等啦，一晃眼已经到了9月，天依带来了V4景品手办消息"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": " 9月19日00:10，天依V4公式服景品手办将在"
+      },
+      {
+        "type": "mention",
+        "text": "@哔哩哔哩会员购 ",
+        "mid": 174501086,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "开启独家预售，前100名可获得即刻免尾款的优惠福利，前101-300名可立减50元！ 除此之外还有天依的签名底座作为独家特典赠送 转发这条动态天依会抽出5个小伙伴送ta V4景品手办，希望我能在小伙伴的身边，听见你们心里的歌声"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "System Servi..."
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-09-11_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3212d16efc4bef1c053af0f6a84e9262ff06adc1.png",
+        "width": 1000,
+        "height": 1313,
+        "size_kb": 1130.31,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-09-11_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3adda37e0bb5690fa0ecd0635cc3c2d8b1a95388.png",
+        "width": 1000,
+        "height": 1313,
+        "size_kb": 1076.08,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-09-11_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9c3c195ff46fddda135ae584972945bf993e7793.png",
+        "width": 1000,
+        "height": 1313,
+        "size_kb": 1058.99,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-09-11_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1162a12dae7f1b4104177101cfb8827fe48e834f.png",
+        "width": 1000,
+        "height": 1313,
+        "size_kb": 1186.63,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2020-09-11_5.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/be41423cae198f1914311af3390c50119456f0cf.png",
+        "width": 1313,
+        "height": 1000,
+        "size_kb": 1082.46,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "50484"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9100,
+    "comment": 1920,
+    "forward": 14606
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

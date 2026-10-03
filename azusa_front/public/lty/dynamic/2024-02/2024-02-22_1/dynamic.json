@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "id": "900870116221124617",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/900870116221124617",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月22日",
+    "pub_ts": 1708588569,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "开奖啦！恭喜@咸鱼-咸鱼咸 @追光的夏虫 @-_-洛天依-_- @-冬火- @伶杞 获得【收藏集5抽】1份~[洛·LUO_冲冲冲] 典藏卡【黠若山娆】 已追加，小伙伴们记得兑换哦！[洛·LUO_嗷呜]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "开奖啦！恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@咸鱼-咸鱼咸",
+        "mid": 52291339,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@追光的夏虫",
+        "mid": 282632528,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@-_-洛天依-_-",
+        "mid": 98733364,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@-冬火-",
+        "mid": 11119173,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@伶杞",
+        "mid": 662654188,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 获得【收藏集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_冲冲冲]",
+        "package_id": "4400",
+        "emoji_id": "62236",
+        "name": "冲冲冲",
+        "url": "https://i0.hdslb.com/bfs/emote/59a4d0c27be75f6b04da879bf4e2481e737eb749.png"
+      },
+      {
+        "type": "text",
+        "text": " 典藏卡【黠若山娆】 已追加，小伙伴们记得兑换哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_嗷呜]",
+        "package_id": "4400",
+        "emoji_id": "62227",
+        "name": "嗷呜",
+        "url": "https://i0.hdslb.com/bfs/emote/ed6b1762ba688c80012db1fb819dd3a1b5b01098.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/冲冲冲.png",
+        "package_id": "4400",
+        "emoji_id": "62236",
+        "text": "[洛·LUO_冲冲冲]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/嗷呜.png",
+        "package_id": "4400",
+        "emoji_id": "62227",
+        "text": "[洛·LUO_嗷呜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3597,
+    "comment": 107,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 893388008323022952,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-02-02_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

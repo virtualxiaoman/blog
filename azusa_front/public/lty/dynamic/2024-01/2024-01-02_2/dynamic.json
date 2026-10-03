@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "id": "882008135950139428",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/882008135950139428",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月2日",
+    "pub_ts": 1704196922,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "《天依游学记》内蒙篇单曲终于要和大家见面啦！[洛天依歌行四方_欢迎]\n由天依和老朋友蒙古族青年音乐人@哈拉木吉HalamJ  合作演绎\n改编自经典蒙语民歌《天上的风（Тэнгэрийн салхи）》\n1月3日0点，单曲完整版将于网易云正式上线~[洛天依歌行四方_拉弓射箭]\n与我们一起，感受风的召唤，聆听群山碧海的呼吸。 [洛天依歌行四方_拉马琴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《天依游学记》内蒙篇单曲终于要和大家见面啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "\n由天依和老朋友蒙古族青年音乐人"
+      },
+      {
+        "type": "mention",
+        "text": "@哈拉木吉HalamJ",
+        "mid": 690592451,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  合作演绎\n改编自经典蒙语民歌《天上的风（Тэнгэрийн салхи）》\n1月3日0点，单曲完整版将于网易云正式上线~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_拉弓射箭]",
+        "package_id": "4128",
+        "emoji_id": "58601",
+        "name": "拉弓射箭",
+        "url": "https://i0.hdslb.com/bfs/emote/c411f11cb8546f9955c17f06f267fcfa6c181ae0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n与我们一起，感受风的召唤，聆听群山碧海的呼吸。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_拉马琴]",
+        "package_id": "4128",
+        "emoji_id": "58602",
+        "name": "拉马琴",
+        "url": "https://i0.hdslb.com/bfs/emote/89f8d41460e54ee23ef07d7882d333b74087907f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-02_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cfd31ec4ea1a144dcd30842bbfdf2bee36081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 2709.9619140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/拉弓射箭.png",
+        "package_id": "4128",
+        "emoji_id": "58601",
+        "text": "[洛天依歌行四方_拉弓射箭]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/拉马琴.png",
+        "package_id": "4128",
+        "emoji_id": "58602",
+        "text": "[洛天依歌行四方_拉马琴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5461,
+    "comment": 179,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

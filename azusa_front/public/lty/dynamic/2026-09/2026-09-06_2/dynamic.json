@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1244898104734384181",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1244898104734384181",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月6日",
+    "pub_ts": 1788688827,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "对着镜子说，我今天也很美~",
+      "desc": "天依希望大家都能和这首歌里讲述的一样\n为自己献上毫无保留的赞美吧！\n再平凡的一天，也足够美好和珍贵~\n欢迎大家的聆听与创作呀！BV1L7tU6PENU\n2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\n✨https://b23.tv/MBvh3P6\n\n「闪耀的Producer 2」发起人阿肆《淑女的品格》\n演唱：洛天依\n调校：哈士奇P\n作词：阿肆\n作曲：阿肆\n编曲：yocho",
+      "jump_url": "https://www.bilibili.com/video/BV1f4bH6NE8N",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/15453691f316b4d3c7a02413ddc710b304b005ac.jpg",
+      "cover_file": "../../_assets/covers/2026-09-06_1.jpg",
+      "bvid": "BV1f4bH6NE8N",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1f4bH6NE8N",
+        "aid": "117223431603832",
+        "cover": "http://i2.hdslb.com/bfs/archive/15453691f316b4d3c7a02413ddc710b304b005ac.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1f4bH6NE8N",
+        "stat": {
+          "danmaku": "124",
+          "play": "8.1万",
+          "vt": ""
+        },
+        "duration_text": "01:12",
+        "title": "对着镜子说，我今天也很美~",
+        "desc": "天依希望大家都能和这首歌里讲述的一样\n为自己献上毫无保留的赞美吧！\n再平凡的一天，也足够美好和珍贵~\n欢迎大家的聆听与创作呀！BV1L7tU6PENU\n2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\n✨https://b23.tv/MBvh3P6\n\n「闪耀的Producer 2」发起人阿肆《淑女的品格》\n演唱：洛天依\n调校：哈士奇P\n作词：阿肆\n作曲：阿肆\n编曲：yocho",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26901,
+    "comment": 734,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

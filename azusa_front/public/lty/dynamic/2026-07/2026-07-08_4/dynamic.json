@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1222633015738368022",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1222633015738368022",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月8日",
+    "pub_ts": 1783504832,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一捧泥土，如何凝成千年的光｜洛天依14周年景德镇特别非遗企划纪录片",
+      "desc": "洛天依十四周年 × 中国景德镇瓷厂\n特别非遗企划「瓷韵天工」\n同名纪录片正式上线。\n\n一座因瓷而生、因瓷而兴的城市，如何把泥土凝成流传千年的光？\n\n这一次，洛天依来到景德镇，走近青花、釉色、窑火与匠人日复一日的手作现场。\n\n从瓷坯上的一笔青花，到窑火中不可预知的变化；\n从古老纹样里的东方心意，到今天关于传统表达的新想象——\n天依试着在这座千年瓷都里，寻找“瓷器为什么动人”的答案。\n它不只关乎技艺，也关乎时间。也关乎那些愿意把一生交给一件事的人。\n\n在中国工艺美术大师黄景藏及团队的匠心创作下，洛天依釉上彩全",
+      "jump_url": "https://www.bilibili.com/video/BV1TsM36NERY",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f02d89eb7ffbc653337887b6726d3b0dc7352077.jpg",
+      "cover_file": "../../_assets/covers/2026-07-08_3.jpg",
+      "bvid": "BV1TsM36NERY",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1TsM36NERY",
+        "aid": "116883357500189",
+        "cover": "http://i1.hdslb.com/bfs/archive/f02d89eb7ffbc653337887b6726d3b0dc7352077.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1TsM36NERY",
+        "stat": {
+          "danmaku": "381",
+          "play": "15.3万",
+          "vt": ""
+        },
+        "duration_text": "03:57",
+        "title": "一捧泥土，如何凝成千年的光｜洛天依14周年景德镇特别非遗企划纪录片",
+        "desc": "洛天依十四周年 × 中国景德镇瓷厂\n特别非遗企划「瓷韵天工」\n同名纪录片正式上线。\n\n一座因瓷而生、因瓷而兴的城市，如何把泥土凝成流传千年的光？\n\n这一次，洛天依来到景德镇，走近青花、釉色、窑火与匠人日复一日的手作现场。\n\n从瓷坯上的一笔青花，到窑火中不可预知的变化；\n从古老纹样里的东方心意，到今天关于传统表达的新想象——\n天依试着在这座千年瓷都里，寻找“瓷器为什么动人”的答案。\n它不只关乎技艺，也关乎时间。也关乎那些愿意把一生交给一件事的人。\n\n在中国工艺美术大师黄景藏及团队的匠心创作下，洛天依釉上彩全",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25461,
+    "comment": 798,
+    "forward": 100
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:28:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

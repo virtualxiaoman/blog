@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1169887866704101383",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1169887866704101383",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771224145,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欢迎龚老师！我们一起陪大家过年啦~[乐鸣东方动态表情包_开心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢迎龚老师！我们一起陪大家过年啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3150,
+    "comment": 39,
+    "forward": 15
+  },
+  "forward": {
+    "orig_id": 1169574819417554945,
+    "orig_mid": 4976111,
+    "deleted": false,
+    "archive_dir": "../../../4976111/2026-02/2026-02-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:17:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

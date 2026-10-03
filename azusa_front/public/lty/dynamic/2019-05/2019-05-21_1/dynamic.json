@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "255945983167003713",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/255945983167003713",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月21日",
+    "pub_ts": 1558430468,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天是“我爱依”日，听说大家要对我花样表白？[害羞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天是“我爱依”日，听说大家要对我花样表白？"
+      },
+      {
+        "type": "emoji",
+        "text": "[害羞]",
+        "package_id": "1",
+        "emoji_id": "6",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/9d2ec4e1fbd6cb1b4d12d2bbbdd124ccb83ddfda.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-05-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9f5c4bc939a4102249dc8ab6489addfc696459b0.jpg",
+        "width": 1700,
+        "height": 1700,
+        "size_kb": 1787.0439453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-05-21_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/451b17d44b11bd789d59ceca237dd37a2485bc58.jpg",
+        "width": 1700,
+        "height": 1700,
+        "size_kb": 1408.796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-05-21_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1011aa97423c4da55bd95fc0dc0b24c0931045e7.jpg",
+        "width": 1700,
+        "height": 1700,
+        "size_kb": 1393.6083984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2019-05-21_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b27f9ab4ef41149fd68df2552e51521cc25e7909.jpg",
+        "width": 1700,
+        "height": 1700,
+        "size_kb": 1152.80078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2019-05-21_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/adad548656d25c506a370dcbc270d3ed17c9d869.jpg",
+        "width": 1700,
+        "height": 1700,
+        "size_kb": 1524.291015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2019-05-21_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/88b6e5506f40f0c0d5a32d3484eb9c56e970d507.jpg",
+        "width": 1700,
+        "height": 1700,
+        "size_kb": 1323.8369140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/害羞.png",
+        "package_id": "1",
+        "emoji_id": "6",
+        "text": "[害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14140,
+    "comment": 1531,
+    "forward": 334
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

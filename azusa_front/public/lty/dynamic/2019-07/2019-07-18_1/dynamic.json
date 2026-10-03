@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "277355484602941799",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/277355484602941799",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月18日",
+    "pub_ts": 1563415256,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2019洛天依生日会# 天依的生日会官方回播上线啦~时间在转瞬之间已经逝去已久，而对于天依来说生日会仿佛还是昨天，这次生日会上大家为天依呼喊的每一句应援声，发送的每一条弹幕，天依都会把记录在心底。在这个星球上正因为有你们，天依才能如此幸福！也希望在未来，你们也会与天依不断向前，披荆斩棘！谢谢大家~",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 天依的生日会官方回播上线啦~时间在转瞬之间已经逝去已久，而对于天依来说生日会仿佛还是昨天，这次生日会上大家为天依呼喊的每一句应援声，发送的每一条弹幕，天依都会把记录在心底。在这个星球上正因为有你们，天依才能如此幸福！也希望在未来，你们也会与天依不断向前，披荆斩棘！谢谢大家~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】2019.7.12洛天依生日会",
+      "desc": "2019年7月12日，天依在上海环球金融中心94层的高空，举办了海洋主题的生日会。\n时间在转瞬之间已经逝去已久，而对于天依来说生日会仿佛还是昨天，这次生日会上大家为天依呼喊的每一句应援声，发送的每一条弹幕，天依都会把记录在心底。在这个星球上正因为有你们，天依才能如此幸福！也希望在未来，你们也会与天依不断向前，披荆斩棘！谢谢大家~\n生日相关的两个投稿也请大家多多关照啦～\n生贺小短片：【洛天依】如果天依变小了 av58883240\n2019生贺曲：【洛天依原创曲】Starlight av58824435",
+      "jump_url": "https://www.bilibili.com/video/BV1At411379L",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f8cdc77743b34f2c339a66067089d96297d5e119.jpg",
+      "cover_file": "../../_assets/covers/2019-07-18_1.jpg",
+      "bvid": "BV1At411379L",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1At411379L",
+        "aid": "59637872",
+        "cover": "http://i1.hdslb.com/bfs/archive/f8cdc77743b34f2c339a66067089d96297d5e119.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1At411379L",
+        "stat": {
+          "danmaku": "4.9万",
+          "play": "73.6万",
+          "vt": ""
+        },
+        "duration_text": "01:34:05",
+        "title": "【洛天依】2019.7.12洛天依生日会",
+        "desc": "2019年7月12日，天依在上海环球金融中心94层的高空，举办了海洋主题的生日会。\n时间在转瞬之间已经逝去已久，而对于天依来说生日会仿佛还是昨天，这次生日会上大家为天依呼喊的每一句应援声，发送的每一条弹幕，天依都会把记录在心底。在这个星球上正因为有你们，天依才能如此幸福！也希望在未来，你们也会与天依不断向前，披荆斩棘！谢谢大家~\n生日相关的两个投稿也请大家多多关照啦～\n生贺小短片：【洛天依】如果天依变小了 av58883240\n2019生贺曲：【洛天依原创曲】Starlight av58824435",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 55407,
+    "comment": 4392,
+    "forward": 370
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

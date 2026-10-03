@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "id": "1101234253320945696",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1101234253320945696",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月15日",
+    "pub_ts": 1755239480,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "【洛天依·珍藏集——闪耀的Producer】正式开启啦！\n转发关注天依，揪5位小伙伴送出【收藏集5抽】一份～\n\n卡池收录和羁绊之礼解锁大家都了解啦～[洛天依·闪耀的Producer动态_平淡]\n[洛天依·闪耀的Producer动态_幸福]传送门戳：网页链接\n\n评论区揪5位小伙伴送【许愿卡牌】1张[洛天依·闪耀的Producer动态_我更喜欢你]\n但是许愿大隐藏的话天依也没有办法哦[洛天依·闪耀的Producer动态_哭哭]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依·珍藏集——闪耀的Producer】正式开启啦！\n转发关注天依，揪5位小伙伴送出【收藏集5抽】一份～\n\n卡池收录和羁绊之礼解锁大家都了解啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_平淡]",
+        "package_id": "8540",
+        "emoji_id": "117846",
+        "name": "平淡",
+        "url": "https://i0.hdslb.com/bfs/garb/c57c996c74b8a77106eaf77e70708fc4cf135298.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "传送门戳："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=109039"
+      },
+      {
+        "type": "text",
+        "text": "\n\n评论区揪5位小伙伴送【许愿卡牌】1张"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "name": "我更喜欢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/6802c9a5c0ff1d69b3bd334a33872a74b0b625e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n但是许愿大隐藏的话天依也没有办法哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_哭哭]",
+        "package_id": "8540",
+        "emoji_id": "117835",
+        "name": "哭哭",
+        "url": "https://i0.hdslb.com/bfs/garb/3edfd3177572ed6113ad2f6f9b018b7928f8f628.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-15_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cbf1b69842c5b696c66ec9e79748580836081646.jpg",
+        "width": 1125,
+        "height": 9654,
+        "size_kb": 4541.4599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/平淡.gif",
+        "package_id": "8540",
+        "emoji_id": "117846",
+        "text": "[洛天依·闪耀的Producer动态_平淡]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/我更喜欢你.gif",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/哭哭.gif",
+        "package_id": "8540",
+        "emoji_id": "117835",
+        "text": "[洛天依·闪耀的Producer动态_哭哭]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·珍藏集",
+            "price": "",
+            "cover": "https://i0.hdslb.com/bfs/archive/d01df1f4bb2d5379e1dcdadc5e629763dcb1f102.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=0&rebate=647193094&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2025-08-15_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4994,
+    "comment": 2229,
+    "forward": 2475
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

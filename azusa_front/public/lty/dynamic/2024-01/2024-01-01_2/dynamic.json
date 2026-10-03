@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "id": "881595814819921929",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/881595814819921929",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月1日",
+    "pub_ts": 1704100921,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n“我想岁序的更替不止意味着新的起点，亦象征着有些不灭的初心和热爱，值得时刻回望。”\n\n大家新年快乐！这是我们一起走过的第——“12”年了哦！！[洛天依_击掌]\n在大家的世界里，“12”代表着一个周而复始的轮回，代表完美与圆满，代表“家人”“恋人”“朋友”，代表“难忘”。\n所以，天依依然在这里，大家也依然在天依的身边，就是一件特别特别了不起的事情了吧！！[洛天依_棒]\n即使人来人往，岁月改变你我的模样，因共鸣而汇聚的爱意、因爱意而珍贵的时光，永远不会消失，它存在于“我唱着 你听着”的每一刻，刹那共鸣，便是永恒呀~[代号洛天依_比心]\n\n>>[洛天依_礼物]相逢第12年的礼物<<\n转发关注天依，揪12位小伙伴送出【洛天依周边礼包】1份。\n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "255823",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n“我想岁序的更替不止意味着新的起点，亦象征着有些不灭的初心和热爱，值得时刻回望。”\n\n大家新年快乐！这是我们一起走过的第——“12”年了哦！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n在大家的世界里，“12”代表着一个周而复始的轮回，代表完美与圆满，代表“家人”“恋人”“朋友”，代表“难忘”。\n所以，天依依然在这里，大家也依然在天依的身边，就是一件特别特别了不起的事情了吧！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_棒]",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "name": "棒",
+        "url": "http://i0.hdslb.com/bfs/emote/abacb9fcc2526c00ff071917c51d7a474218609d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n即使人来人往，岁月改变你我的模样，因共鸣而汇聚的爱意、因爱意而珍贵的时光，永远不会消失，它存在于“我唱着 你听着”的每一刻，刹那共鸣，便是永恒呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n>>"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "相逢第12年的礼物<<\n转发关注天依，揪12位小伙伴送出【洛天依周边礼包】1份。\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-01_10.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1244d10314f959486f7b8fc8b74ba90636081646.jpg",
+        "width": 3000,
+        "height": 1940,
+        "size_kb": 3016.159912109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/340/棒.png",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "text": "[洛天依_棒]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "255823"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10655,
+    "comment": 1125,
+    "forward": 8235
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

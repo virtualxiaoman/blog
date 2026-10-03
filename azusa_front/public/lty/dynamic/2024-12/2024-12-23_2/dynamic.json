@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1014062527593578503",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1014062527593578503",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月23日",
+    "pub_ts": 1734943231,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是兼具实用和美观的手表和雨伞喔！大家请看～[洛天依·戏游九州动态_期待]抽我抽我[洛天依·戏游九州动态_乖巧]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是兼具实用和美观的手表和雨伞喔！大家请看～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_期待]",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/f68b3f62d213cd7755ec7076adab88bccf6df9bc.gif"
+      },
+      {
+        "type": "text",
+        "text": "抽我抽我"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/期待.gif",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "text": "[洛天依·戏游九州动态_期待]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3509,
+    "comment": 121,
+    "forward": 119
+  },
+  "forward": {
+    "orig_id": 1013979462928171010,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2024-12/2024-12-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:22:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

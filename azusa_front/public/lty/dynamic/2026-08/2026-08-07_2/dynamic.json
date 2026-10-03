@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "1233742451154354177",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1233742451154354177",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月7日",
+    "pub_ts": 1786091449,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n洛天依14周年实体专辑《四重奏》&V3植绒软胶挂件\n将于8月7日今晚17:00 正式开售啦~[洛天依14周年·四重奏_wink]\n\n“记录、铭刻、新生，你与我，爱与回响。”\n\n💿洛天依十四周年纪念实体专辑《四重奏》\n🎶普通版\n-售价: 89元\n-配置：带盒CD、歌词本\n\n🎶礼盒版\n-售价: 259元\n-配置：带盒CD、歌词本、封面工艺透卡、六边形马口铁徽章*17、 仿CD双层银卡、「角色选择」金属旋转展示盘\n\n💙洛天依V3公式服·植绒软胶挂件\n-售价：59元 \n\n一起来看看吧！[洛天依14周年·四重奏_爱你]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依14周年实体专辑《四重奏》&V3植绒软胶挂件\n将于8月7日今晚17:00 正式开售啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“记录、铭刻、新生，你与我，爱与回响。”\n\n💿洛天依十四周年纪念实体专辑《四重奏》\n🎶普通版\n-售价: 89元\n-配置：带盒CD、歌词本\n\n🎶礼盒版\n-售价: 259元\n-配置：带盒CD、歌词本、封面工艺透卡、六边形马口铁徽章*17、 仿CD双层银卡、「角色选择」金属旋转展示盘\n\n💙洛天依V3公式服·植绒软胶挂件\n-售价：59元 \n\n一起来看看吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_爱你]",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/bc2a4f74fb26c171585377e011df9d27938b2529.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-07_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9ff144f9d2b9d61167a69e7f2c2a10a336081646.jpg",
+        "width": 750,
+        "height": 13429,
+        "size_kb": 6225.1005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-07_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/aadd5484286750c542a4d663e89cb18d36081646.jpg",
+        "width": 750,
+        "height": 4072,
+        "size_kb": 1298.7734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/爱你.gif",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "text": "[洛天依14周年·四重奏_爱你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依-《四重奏》·纪念专辑 礼盒版 普通版",
+            "price": "¥89",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/dd/d5/a75b4ecc688e2e338b41bd71d4f973a6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41700862&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1233742451154354177#noReffer=true",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-08-07_1.png"
+          },
+          {
+            "name": "Vsinger 洛天依-V3公式服·植绒软胶挂件",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/50/67/5ed9dba3ffeffc13912f6aed0aada750.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41704454&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1233742451154354177#noReffer=true",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-08-07_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4415,
+    "comment": 140,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

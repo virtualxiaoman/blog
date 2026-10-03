@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1237839686760660999",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1237839686760660999",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月18日",
+    "pub_ts": 1787045411,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一花依世界【洛天依纯蓝幻乐巡演上海站限定舞台】",
+      "desc": "这首《一花依世界》，是天依为上海站日场的大家准备的特别礼物！\n一花一世界，一梦一千年，如果天依从古代穿越来到上海，会开启怎样的奇妙旅途呢？\n这个世界充满想象，未来一定还会有更多奇妙的风景，我想和大家继续一起长大！\n \n《一花依世界》\n作曲/编曲：LS\n作词：杏花包子\n调教：毛毛虫Zzz",
+      "jump_url": "https://www.bilibili.com/video/BV1h28u6oErh",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/440face828a65be63587032be7961824246c3242.jpg",
+      "cover_file": "../../_assets/covers/2026-08-18_2.jpg",
+      "bvid": "BV1h28u6oErh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1h28u6oErh",
+        "aid": "117115705101813",
+        "cover": "http://i1.hdslb.com/bfs/archive/440face828a65be63587032be7961824246c3242.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1h28u6oErh",
+        "stat": {
+          "danmaku": "169",
+          "play": "7万",
+          "vt": ""
+        },
+        "duration_text": "00:42",
+        "title": "一花依世界【洛天依纯蓝幻乐巡演上海站限定舞台】",
+        "desc": "这首《一花依世界》，是天依为上海站日场的大家准备的特别礼物！\n一花一世界，一梦一千年，如果天依从古代穿越来到上海，会开启怎样的奇妙旅途呢？\n这个世界充满想象，未来一定还会有更多奇妙的风景，我想和大家继续一起长大！\n \n《一花依世界》\n作曲/编曲：LS\n作词：杏花包子\n调教：毛毛虫Zzz",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 27187,
+    "comment": 568,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

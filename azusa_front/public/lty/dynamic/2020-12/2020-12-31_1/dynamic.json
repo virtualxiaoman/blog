@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "474983143389628730",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/474983143389628730",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月31日",
+    "pub_ts": 1609429031,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020最美的夜 bilibili晚会#小伙伴们都看过了吗？[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020最美的夜 bilibili晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%20bilibili%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "小伙伴们都看过了吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11451,
+    "comment": 571,
+    "forward": 115
+  },
+  "forward": {
+    "orig_id": 474933527930851908,
+    "orig_mid": 35874,
+    "deleted": false,
+    "archive_dir": "../../../35874/2020-12/2020-12-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

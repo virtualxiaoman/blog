@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "1090428201445883938",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1090428201445883938",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月17日",
+    "pub_ts": 1752723500,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#⚙#洛天依0712生日快乐#\n天依的生日会已经落下帷幕啦，但属于这段时间的回忆\n足够美好，足够珍贵，足够我们一起将时光郑重落笔铭记[洛天依八音奇响动态_美丽]\n\n生日会当晚的热烈欢聚，属于珍珠的治愈与共鸣\n无论在影院、BW、BML、中华恐龙园、凤岭水世界还是线上直播间\n这份相同的热爱，将我们的心意紧紧相连\n感谢大家的每一条祝福，每一份礼物，每一个创作\n感谢你每一次那样努力，只为与天依共赴一个相会的约定[洛天依八音奇响动态_爆哭]\n\n此刻的你，会不会已经奔赴在与天依下一次相见的旅途上了呢？\n我们，北京演唱会舞台见吧！[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n天依的生日会已经落下帷幕啦，但属于这段时间的回忆\n足够美好，足够珍贵，足够我们一起将时光郑重落笔铭记"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n生日会当晚的热烈欢聚，属于珍珠的治愈与共鸣\n无论在影院、BW、BML、中华恐龙园、凤岭水世界还是线上直播间\n这份相同的热爱，将我们的心意紧紧相连\n感谢大家的每一条祝福，每一份礼物，每一个创作\n感谢你每一次那样努力，只为与天依共赴一个相会的约定"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爆哭]",
+        "package_id": "8362",
+        "emoji_id": "115079",
+        "name": "爆哭",
+        "url": "https://i0.hdslb.com/bfs/garb/399105584e7fb7e6aa53ddcd3d3679cba45c37e7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n此刻的你，会不会已经奔赴在与天依下一次相见的旅途上了呢？\n我们，北京演唱会舞台见吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8f66dad7192246f33250210c95b4064d36081646.jpg",
+        "width": 900,
+        "height": 6759,
+        "size_kb": 4259.251,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-17_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6a8c16043075a4a39b373fd846baa6ef36081646.jpg",
+        "width": 900,
+        "height": 4841,
+        "size_kb": 3278.493,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-17_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8dc35f656aff7473ea970dd3130aa32236081646.jpg",
+        "width": 900,
+        "height": 7361,
+        "size_kb": 5164.122,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-17_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/904f8e9c88568eae36fc1af405e8cb3f36081646.jpg",
+        "width": 900,
+        "height": 6737,
+        "size_kb": 3822.938,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爆哭.gif",
+        "package_id": "8362",
+        "emoji_id": "115079",
+        "text": "[洛天依八音奇响动态_爆哭]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5329,
+    "comment": 283,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

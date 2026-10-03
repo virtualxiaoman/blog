@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "id": "271912674410128024",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/271912674410128024",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月3日",
+    "pub_ts": 1562148003,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "和@护舒宝_Whisper 一起玩的第二年，宝宝为天依准备了好多惊喜!  [tv_微笑]【护舒宝x洛天依口红姨妈巾演唱会限定装】登陆屈臣氏全国600家门店 [tv_亲亲]粉丝才懂的暗号【7.12折】把天依带回家 [tv_馋]AR扫码领天依实体周边 [tv_微笑]抱走一箱限量装抽BW门票 [tv_偷笑]天依应援快闪店，玩转天依游乐园送应援大礼包！ 快来屈臣氏和宝宝一起元气满满打call#洛天依# BML演唱会叭！  立绘画师：-TID- Q版画师：_Haku白_\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "和@护舒宝_Whisper 一起玩的第二年，宝宝为天依准备了好多惊喜!  "
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_微笑]",
+        "package_id": "2",
+        "emoji_id": "45",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/emote/b98656855d782f61cb8edc7f7fca6563ecafff7e.gif"
+      },
+      {
+        "type": "text",
+        "text": "【护舒宝x洛天依口红姨妈巾演唱会限定装】登陆屈臣氏全国600家门店 "
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_亲亲]",
+        "package_id": "2",
+        "emoji_id": "50",
+        "name": "亲亲",
+        "url": "https://i0.hdslb.com/bfs/emote/3534ea44ab74bd20352b88c245a06c4b4c46d271.gif"
+      },
+      {
+        "type": "text",
+        "text": "粉丝才懂的暗号【7.12折】把天依带回家 "
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_馋]",
+        "package_id": "2",
+        "emoji_id": "70",
+        "name": "馋",
+        "url": "https://i0.hdslb.com/bfs/emote/2525c5703c594e5f0752f68db8948773caebde47.gif"
+      },
+      {
+        "type": "text",
+        "text": "AR扫码领天依实体周边 "
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_微笑]",
+        "package_id": "2",
+        "emoji_id": "45",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/emote/b98656855d782f61cb8edc7f7fca6563ecafff7e.gif"
+      },
+      {
+        "type": "text",
+        "text": "抱走一箱限量装抽BW门票 "
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_偷笑]",
+        "package_id": "2",
+        "emoji_id": "62",
+        "name": "偷笑",
+        "url": "https://i0.hdslb.com/bfs/emote/7f11e6f7f63e79112b833bd41fa13a83d7cd8474.gif"
+      },
+      {
+        "type": "text",
+        "text": "天依应援快闪店，玩转天依游乐园送应援大礼包！ 快来屈臣氏和宝宝一起元气满满打call"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " BML演唱会叭！  立绘画师：-TID- Q版画师：_Haku白_"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-03_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2924a66b2c5b7331f1bcc9713aa9d0f7c81186ac.jpg",
+        "width": 1379,
+        "height": 2244,
+        "size_kb": 1709.1943359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-07-03_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fb6d334e0736fdbb16591e1d057fb387fc44fcf9.jpg",
+        "width": 819,
+        "height": 17008,
+        "size_kb": 7409.7890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-07-03_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/560338d322128d1344feef9ded92862fdc6d0d24.jpg",
+        "width": 850,
+        "height": 1219,
+        "size_kb": 668.1640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2019-07-03_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d52d4f9e0f6823acb6d0a0881b2641c2498c3b24.jpg",
+        "width": 1440,
+        "height": 1080,
+        "size_kb": 271.693359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2019-07-03_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/868dabfb7c2dede1f59c0dcaab9c4a45c25e063a.jpg",
+        "width": 1620,
+        "height": 1620,
+        "size_kb": 1563.740234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2019-07-03_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/057ccb241490d88ea7c8e399392431a8f3c2ac88.jpg",
+        "width": 1379,
+        "height": 2037,
+        "size_kb": 1584.8564453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2/微笑.gif",
+        "package_id": "2",
+        "emoji_id": "45",
+        "text": "[tv_微笑]"
+      },
+      {
+        "file": "../../_assets/emojis/2/亲亲.gif",
+        "package_id": "2",
+        "emoji_id": "50",
+        "text": "[tv_亲亲]"
+      },
+      {
+        "file": "../../_assets/emojis/2/馋.gif",
+        "package_id": "2",
+        "emoji_id": "70",
+        "text": "[tv_馋]"
+      },
+      {
+        "file": "../../_assets/emojis/2/偷笑.gif",
+        "package_id": "2",
+        "emoji_id": "62",
+        "text": "[tv_偷笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5330,
+    "comment": 649,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

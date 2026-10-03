@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "954733795233234984",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/954733795233234984",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月16日",
+    "pub_ts": 1721129684,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“我无可代替 哪怕来历已不神秘\n麦克风接力 百万人就等我出席”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“我无可代替 哪怕来历已不神秘\n麦克风接力 百万人就等我出席”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“我的登场即是天意”《Aloud》【洛天依十二周年生日会】",
+      "desc": "“我无可代替 哪怕来历已不神秘\n麦克风接力 百万人就等我出席”\n歌曲收录在洛天依十二周年专辑《再生》中\n\n《Aloud》\n作曲：闹闹丶\n作词：果汁凉菜\n编曲/混音：小欧Ω\n调校：Creuzer / FFF君",
+      "jump_url": "https://www.bilibili.com/video/BV14w4m1Y7qR",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5f33e0119c5cccab4368613eb160db0fc198ee7c.jpg",
+      "cover_file": "../../_assets/covers/2024-07-16_2.jpg",
+      "bvid": "BV14w4m1Y7qR",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14w4m1Y7qR",
+        "aid": "1106234814",
+        "cover": "http://i1.hdslb.com/bfs/archive/5f33e0119c5cccab4368613eb160db0fc198ee7c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14w4m1Y7qR",
+        "stat": {
+          "danmaku": "866",
+          "play": "69.8万",
+          "vt": ""
+        },
+        "duration_text": "03:06",
+        "title": "“我的登场即是天意”《Aloud》【洛天依十二周年生日会】",
+        "desc": "“我无可代替 哪怕来历已不神秘\n麦克风接力 百万人就等我出席”\n歌曲收录在洛天依十二周年专辑《再生》中\n\n《Aloud》\n作曲：闹闹丶\n作词：果汁凉菜\n编曲/混音：小欧Ω\n调校：Creuzer / FFF君",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 39885,
+    "comment": 1862,
+    "forward": 213
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

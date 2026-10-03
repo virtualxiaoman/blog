@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "914295891921207393",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/914295891921207393",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月29日",
+    "pub_ts": 1711714501,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不如跳舞，烦恼不如跳舞~[洛天依歌行四方_扭脖子]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不如跳舞，烦恼不如跳舞~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4655,
+    "comment": 78,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 913500889186041856,
+    "orig_mid": 157056,
+    "deleted": false,
+    "archive_dir": "../../../157056/2024-03/2024-03-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:09:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

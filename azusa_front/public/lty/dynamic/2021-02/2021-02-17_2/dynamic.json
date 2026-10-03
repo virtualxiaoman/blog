@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "492708378939271113",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/492708378939271113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月17日",
+    "pub_ts": 1613556009,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# #转发抽奖#2016年，天依成为了中国制造日宣传大使，并演唱了这首《天行健》。 翻阅古籍，古人的智慧、勇气与美德经常带给我们各种感动，先贤们的话语就像是一盏提灯，让我们在黑夜中也不会迷失方向感。 “天行健，君子以自强不息”，2021年，天依希望能跟大家一起自勉。[洛天依·夜航星_冲鸭] 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出《天行健》限定纪念色纸~ 画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "2016年，天依成为了中国制造日宣传大使，并演唱了这首《天行健》。 翻阅古籍，古人的智慧、勇气与美德经常带给我们各种感动，先贤们的话语就像是一盏提灯，让我们在黑夜中也不会迷失方向感。 “天行健，君子以自强不息”，2021年，天依希望能跟大家一起自勉。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      },
+      {
+        "type": "text",
+        "text": " 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出《天行健》限定纪念色纸~ 画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-17_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2af2f622c120cbc94565a51ec904578decf02050.jpg",
+        "width": 750,
+        "height": 750,
+        "size_kb": 572.474609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10545,
+    "comment": 1309,
+    "forward": 3138
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

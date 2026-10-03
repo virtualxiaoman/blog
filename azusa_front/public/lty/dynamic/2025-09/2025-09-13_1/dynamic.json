@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1111988104051294212",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1111988104051294212",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月13日",
+    "pub_ts": 1757743306,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依和幸福蓝海一起，向你投递一份特别邀约！\n就是「无限共鸣·流光协奏」演唱会特别观影活动啦~[洛天依八音奇响动态_美丽]\n\n🎶开票时间：9月14日 12:00\n🎶活动时间：10月7日 16:00\n幸福蓝海也为前来观影的大家准备了特别随票赠礼和主题套餐\n大家戳长图就可以了解详情和具体的影院名单啦！[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和幸福蓝海一起，向你投递一份特别邀约！\n就是「无限共鸣·流光协奏」演唱会特别观影活动啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶开票时间：9月14日 12:00\n🎶活动时间：10月7日 16:00\n幸福蓝海也为前来观影的大家准备了特别随票赠礼和主题套餐\n大家戳长图就可以了解详情和具体的影院名单啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-13_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fbcfb0c44ae4b5b3cee1804f42d1813b36081646.jpg",
+        "width": 1080,
+        "height": 12516,
+        "size_kb": 5172.203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5642,
+    "comment": 789,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088949478611746929",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088949478611746929",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月13日",
+    "pub_ts": 1752379208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「共鸣之夜· UnL∞ck」洛天依十三周年生日会精彩回放",
+      "desc": "我们还会有无数个日夜，无数次相见！\n——\n导演组： 荒野 / 强者的爸爸 / RedialC\n上海胤风子/ 湖南可事影视传媒\n虚拟制作：强者的爸爸 / RedialC / 13\n安徽拉露卡 / 上海胤风子 / 湖南可事影视传媒\n音频：TENKO / 添月 / 溜溜\n编舞：李小新 / 萱萱\n后期：湖南可事影视传媒\n设计：红柏 / 何改改 / 喵探长 / Aros\n文案组: 离途 / 小槐 \n宣发运营：离途 / 小槐 / 东九 / 大泷 / ViVi Zhang / CCCC / 周日\n项目支持：一元\n总策划",
+      "jump_url": "https://www.bilibili.com/video/BV1dRuGziEgV",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/0778fc9c96680da0876b13775a16e18f26862b57.jpg",
+      "cover_file": "../../_assets/covers/2025-07-13_2.jpg",
+      "bvid": "BV1dRuGziEgV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1dRuGziEgV",
+        "aid": "114834557436074",
+        "cover": "http://i2.hdslb.com/bfs/archive/0778fc9c96680da0876b13775a16e18f26862b57.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1dRuGziEgV",
+        "stat": {
+          "danmaku": "4854",
+          "play": "19.5万",
+          "vt": ""
+        },
+        "duration_text": "01:22:08",
+        "title": "「共鸣之夜· UnL∞ck」洛天依十三周年生日会精彩回放",
+        "desc": "我们还会有无数个日夜，无数次相见！\n——\n导演组： 荒野 / 强者的爸爸 / RedialC\n上海胤风子/ 湖南可事影视传媒\n虚拟制作：强者的爸爸 / RedialC / 13\n安徽拉露卡 / 上海胤风子 / 湖南可事影视传媒\n音频：TENKO / 添月 / 溜溜\n编舞：李小新 / 萱萱\n后期：湖南可事影视传媒\n设计：红柏 / 何改改 / 喵探长 / Aros\n文案组: 离途 / 小槐 \n宣发运营：离途 / 小槐 / 东九 / 大泷 / ViVi Zhang / CCCC / 周日\n项目支持：一元\n总策划",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21002,
+    "comment": 1474,
+    "forward": 214
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

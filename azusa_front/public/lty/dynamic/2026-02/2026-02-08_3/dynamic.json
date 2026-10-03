@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1167024231647543297",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1167024231647543297",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月8日",
+    "pub_ts": 1770557403,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“万家灯如浪 盛世映穹苍”《千灯绘》【冰火盛典新春季】",
+      "desc": "天依很高兴在今晚的冰火歌会上，为大家带来\n第32届自贡国际恐龙灯会推广曲《千灯绘》的特别舞台！\n以灯为笔，画天地霓裳；匠心不朽，承千载守望\n就让璀璨的花灯，照亮人间烟火，照亮我们的同一片故乡\n春节马上就要到啦，大家，新春快乐！\n \n原唱:洛天依\n作词:清彦\n作曲:刘兆伦\n编曲:蔡成钰\n调校:苍梧abilrue\n\n二创素材： https://pan.baidu.com/s/1_NIMZ0ZBGaSllGe2rVKwuA?pwd=xsnx 提取码: xsnx",
+      "jump_url": "https://www.bilibili.com/video/BV1iAcFz5EVd",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8325df6ed95614742ed9144346e850594bf6c9de.jpg",
+      "cover_file": "../../_assets/covers/2026-02-08_1.jpg",
+      "bvid": "BV1iAcFz5EVd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1iAcFz5EVd",
+        "aid": "116034463860591",
+        "cover": "http://i1.hdslb.com/bfs/archive/8325df6ed95614742ed9144346e850594bf6c9de.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1iAcFz5EVd",
+        "stat": {
+          "danmaku": "652",
+          "play": "29.6万",
+          "vt": ""
+        },
+        "duration_text": "03:31",
+        "title": "“万家灯如浪 盛世映穹苍”《千灯绘》【冰火盛典新春季】",
+        "desc": "天依很高兴在今晚的冰火歌会上，为大家带来\n第32届自贡国际恐龙灯会推广曲《千灯绘》的特别舞台！\n以灯为笔，画天地霓裳；匠心不朽，承千载守望\n就让璀璨的花灯，照亮人间烟火，照亮我们的同一片故乡\n春节马上就要到啦，大家，新春快乐！\n \n原唱:洛天依\n作词:清彦\n作曲:刘兆伦\n编曲:蔡成钰\n调校:苍梧abilrue\n\n二创素材： https://pan.baidu.com/s/1_NIMZ0ZBGaSllGe2rVKwuA?pwd=xsnx 提取码: xsnx",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29935,
+    "comment": 2439,
+    "forward": 257
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

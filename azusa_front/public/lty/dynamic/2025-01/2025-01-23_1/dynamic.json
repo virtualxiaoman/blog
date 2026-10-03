@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1025501627527725092",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1025501627527725092",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月23日",
+    "pub_ts": 1737606604,
+    "location": ""
+  },
+  "topic": {
+    "id": 171504,
+    "name": "上B站看春晚",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=171504&topic_name=%E4%B8%8AB%E7%AB%99%E7%9C%8B%E6%98%A5%E6%99%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "央视网络春晚《寄明月》舞蹈直拍",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "央视网络春晚《寄明月》舞蹈直拍"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依的《寄明月》直拍已送达，快来捕捉绝美瞬间！",
+      "desc": "开新网友洛天依的《寄明月》直拍已送达，快来捕捉绝美瞬间！中央广播电视总台2025网络春晚，精彩邀你一起回顾！",
+      "jump_url": "https://www.bilibili.com/video/BV12hfiYeETC",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8c44c375f80e28bd7f648c6cc80996f08d914576.jpg",
+      "cover_file": "../../_assets/covers/2025-01-23_1.jpg",
+      "bvid": "BV12hfiYeETC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12hfiYeETC",
+        "aid": "113875185836007",
+        "cover": "http://i1.hdslb.com/bfs/archive/8c44c375f80e28bd7f648c6cc80996f08d914576.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12hfiYeETC",
+        "stat": {
+          "danmaku": "8308",
+          "play": "49.3万",
+          "vt": ""
+        },
+        "duration_text": "00:52",
+        "title": "洛天依的《寄明月》直拍已送达，快来捕捉绝美瞬间！",
+        "desc": "开新网友洛天依的《寄明月》直拍已送达，快来捕捉绝美瞬间！中央广播电视总台2025网络春晚，精彩邀你一起回顾！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 78708,
+    "comment": 1424,
+    "forward": 40
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

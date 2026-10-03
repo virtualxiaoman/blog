@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "557656105588297229",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/557656105588297229",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月11日",
+    "pub_ts": 1628677830,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  Coser依上线，目标瞄准创作者们！ 这次，天依演绎了四种状态，不知道有没有对应到大家创作的日常~  在创作或者学习、工作的时候，小伙伴们是什么样的呢？ 和我分享一下吧[洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  Coser依上线，目标瞄准创作者们！ 这次，天依演绎了四种状态，不知道有没有对应到大家创作的日常~  在创作或者学习、工作的时候，小伙伴们是什么样的呢？ 和我分享一下吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-08-11_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d25637f86f6d0a251eefb3542f008bd23d529169.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 396.919921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-08-11_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f63d3a732f1d924de0af2032382548bfa9c0066d.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 354.7626953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-08-11_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e2392937b32f73b5a95cf21d72384146dc75e28f.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 334.421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-08-11_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ff14dc16ccbe1b2a1895cbc1f5783279e2ae077e.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 272.923828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9128,
+    "comment": 576,
+    "forward": 291
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:34:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

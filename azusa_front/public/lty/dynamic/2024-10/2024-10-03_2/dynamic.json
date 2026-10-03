@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "983935440867295240",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/983935440867295240",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月3日",
+    "pub_ts": 1727928722,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@西红柿糖拌@尉迟青宁@洛斯菲尔-帕菲尔德等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@西红柿糖拌",
+        "mid": 1104007933,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@尉迟青宁",
+        "mid": 2069433457,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@洛斯菲尔-帕菲尔德",
+        "mid": 153552247,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3408,
+    "comment": 73,
+    "forward": 13
+  },
+  "forward": {
+    "orig_id": 980596254106976262,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-09/2024-09-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:20:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

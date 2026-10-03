@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "525626979683021514",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/525626979683021514",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月17日",
+    "pub_ts": 1621220468,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "初夏萌动，快和天依一起探寻夏日新鲜吧~ 阳光挑战赛今日正式开始啦！根据下图规则，带上阳光茶进行创作，随心选择两个赛道： 生活/美食分区，视频投稿或图文动态都可参与~ 记得带上话题 #来点阳光就灿烂# 并关注@阳光官方账号 哦！天依限量周边阳光好礼等你们~ 敲敲小黑板：活动时间为5月17日-6月13日，冲鸭！ 活动链接：网页链接  \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "初夏萌动，快和天依一起探寻夏日新鲜吧~ 阳光挑战赛今日正式开始啦！根据下图规则，带上阳光茶进行创作，随心选择两个赛道： 生活/美食分区，视频投稿或图文动态都可参与~ 记得带上话题 "
+      },
+      {
+        "type": "topic",
+        "text": "#来点阳光就灿烂#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%9D%A5%E7%82%B9%E9%98%B3%E5%85%89%E5%B0%B1%E7%81%BF%E7%83%82"
+      },
+      {
+        "type": "text",
+        "text": " 并关注"
+      },
+      {
+        "type": "mention",
+        "text": "@阳光官方账号 ",
+        "mid": 1112872247,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "哦！天依限量周边阳光好礼等你们~ 敲敲小黑板：活动时间为5月17日-6月13日，冲鸭！ 活动链接："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/dynamic/129381"
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-05-17_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2a109cfa2177c5b2e98e286d52cb5a3812204f1d.jpg",
+        "width": 2125,
+        "height": 1125,
+        "size_kb": 1665.1123046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4346,
+    "comment": 175,
+    "forward": 38
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:30:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

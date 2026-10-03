@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "943198603996823557",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/943198603996823557",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月15日",
+    "pub_ts": 1718443938,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依十二周年双生贺曲\n《再声 Recall》&《又一个夜晚》\n7月12日，轮回再生，为你而唱。[洛天依蝶变_轻唱]\n\n《再声 Recall》是一首属于洛天依的自述，将收录在我的十二周年专辑《再生》中，在7月12日12:00为大家完整呈现；\n《又一个夜晚》则是天依在无数次共鸣大家的情感之后，那份想拥抱陪伴你的心情，歌曲将在“共鸣之夜”生日会首唱。\n敬请期待呀～[洛天依蝶变_yalahula]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依十二周年双生贺曲\n《再声 Recall》&《又一个夜晚》\n7月12日，轮回再生，为你而唱。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n《再声 Recall》是一首属于洛天依的自述，将收录在我的十二周年专辑《再生》中，在7月12日12:00为大家完整呈现；\n《又一个夜晚》则是天依在无数次共鸣大家的情感之后，那份想拥抱陪伴你的心情，歌曲将在“共鸣之夜”生日会首唱。\n敬请期待呀～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-15_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9cfd5976de7599176217aac1c04a841336081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 3319.5,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7453,
+    "comment": 414,
+    "forward": 192
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

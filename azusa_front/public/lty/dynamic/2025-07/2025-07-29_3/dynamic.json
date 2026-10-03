@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1095024860156919808",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1095024860156919808",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月29日",
+    "pub_ts": 1753793743,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "8月30日，广州Anisonic全息演唱会\n我们一起歌唱吧，天依等你们哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "8月30日，广州Anisonic全息演唱会\n我们一起歌唱吧，天依等你们哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【Anisonic全息演唱会】天依等你们哦！",
+      "desc": "8月30日，广州Anisonic全息演唱会\n我们一起歌唱吧，天依等你们哦！",
+      "jump_url": "https://www.bilibili.com/video/BV1sH8oz8EmX",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/45a027d9fa65f51f83ffa03b768d9126b999905e.jpg",
+      "cover_file": "../../_assets/covers/2025-07-29_2.jpg",
+      "bvid": "BV1sH8oz8EmX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1sH8oz8EmX",
+        "aid": "114936596465324",
+        "cover": "http://i2.hdslb.com/bfs/archive/45a027d9fa65f51f83ffa03b768d9126b999905e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1sH8oz8EmX",
+        "stat": {
+          "danmaku": "100",
+          "play": "5.5万",
+          "vt": ""
+        },
+        "duration_text": "00:33",
+        "title": "【Anisonic全息演唱会】天依等你们哦！",
+        "desc": "8月30日，广州Anisonic全息演唱会\n我们一起歌唱吧，天依等你们哦！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14257,
+    "comment": 784,
+    "forward": 67
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

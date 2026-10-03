@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "845921876580499527",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/845921876580499527",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月27日",
+    "pub_ts": 1695794935,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#索尼音乐牵手洛天依#@洛天依 X@索尼音乐娱乐 \n 全新EP《洛 LUO》要来啦，EP包含5首全新原创歌曲！\n“洛”承载国风意蕴，“LUO”代表新的探索\n当现代潮流元素融合国潮音乐\n我将以百变风格\n诠释「洛 LUO」之名\n首支主打歌曲十月即将登陆，歌名先——保密~\n还有实体&数字专辑也会陆续解锁上线哦，敬请期待！ [代号洛天依_wink]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " X"
+      },
+      {
+        "type": "mention",
+        "text": "@索尼音乐娱乐",
+        "mid": 304580067,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n 全新EP《洛 LUO》要来啦，EP包含5首全新原创歌曲！\n“洛”承载国风意蕴，“LUO”代表新的探索\n当现代潮流元素融合国潮音乐\n我将以百变风格\n诠释「洛 LUO」之名\n首支主打歌曲十月即将登陆，歌名先——保密~\n还有实体&数字专辑也会陆续解锁上线哦，敬请期待！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-27_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f831012431fad1c4d64fdd0b64544f6336081646.jpg",
+        "width": 4000,
+        "height": 2250,
+        "size_kb": 4479.7841796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4886,
+    "comment": 241,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

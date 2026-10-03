@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224142993114529859",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224142993114529859",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783856401,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "”你能逃出这个循环吗？“《圆圈之外》洛天依14周年生日会",
+      "desc": "重复着循规蹈矩的旁白， 规则绝不可更改\n而我在圆圈之外，真的在圆圈之外吗？\n\n作曲：鸽稀拉\n编曲：鸽稀拉\n作词：棠霜\n调教：MACHWOLF\n原PV：BV1GL411K7cM",
+      "jump_url": "https://www.bilibili.com/video/BV1LzNu6KEQr",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ff36e7b9bce25cea33f9fb5241ae73ab89d76a60.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_7.jpg",
+      "bvid": "BV1LzNu6KEQr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1LzNu6KEQr",
+        "aid": "116906375841683",
+        "cover": "http://i0.hdslb.com/bfs/archive/ff36e7b9bce25cea33f9fb5241ae73ab89d76a60.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1LzNu6KEQr",
+        "stat": {
+          "danmaku": "77",
+          "play": "9.2万",
+          "vt": ""
+        },
+        "duration_text": "02:58",
+        "title": "”你能逃出这个循环吗？“《圆圈之外》洛天依14周年生日会",
+        "desc": "重复着循规蹈矩的旁白， 规则绝不可更改\n而我在圆圈之外，真的在圆圈之外吗？\n\n作曲：鸽稀拉\n编曲：鸽稀拉\n作词：棠霜\n调教：MACHWOLF\n原PV：BV1GL411K7cM",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11580,
+    "comment": 194,
+    "forward": 28
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

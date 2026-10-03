@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "999999705176866903",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/999999705176866903",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月15日",
+    "pub_ts": 1731668975,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有没有杭州的小伙伴呀~[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有没有杭州的小伙伴呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2099,
+    "comment": 125,
+    "forward": 0
+  },
+  "forward": {
+    "orig_id": 999998811824717861,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-11/2024-11-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1026001686293905408",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1026001686293905408",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月24日",
+    "pub_ts": 1737723033,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新春快乐！希望大家也喜欢这次的特别舞台版本~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新春快乐！希望大家也喜欢这次的特别舞台版本~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“百音同讲 道一种炎黄” 洛天依《大哉乾元》【冰火歌会年度盛典】",
+      "desc": "无论何时，无论何地\n因这片厚重的大地产生的归属感与自豪感，永远将我们的心紧紧相连\n希望这次的《大哉乾元》仍然可以带给大家这份特别的感情和新鲜的感受~\n大家！新春快乐呀！\n\n演唱：洛天依\n作词：非桥段\n作曲：胡多多\n编曲：包达、赵伟鑫\n调教：Creuzer\n导演：张艺潇（tàtà）",
+      "jump_url": "https://www.bilibili.com/video/BV1i4fWYUEVU",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7a24f56b241a71c291346c0fc7343def884083ea.jpg",
+      "cover_file": "../../_assets/covers/2025-01-24_2.jpg",
+      "bvid": "BV1i4fWYUEVU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1i4fWYUEVU",
+        "aid": "113883373112190",
+        "cover": "http://i2.hdslb.com/bfs/archive/7a24f56b241a71c291346c0fc7343def884083ea.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1i4fWYUEVU",
+        "stat": {
+          "danmaku": "2873",
+          "play": "73.3万",
+          "vt": ""
+        },
+        "duration_text": "04:11",
+        "title": "“百音同讲 道一种炎黄” 洛天依《大哉乾元》【冰火歌会年度盛典】",
+        "desc": "无论何时，无论何地\n因这片厚重的大地产生的归属感与自豪感，永远将我们的心紧紧相连\n希望这次的《大哉乾元》仍然可以带给大家这份特别的感情和新鲜的感受~\n大家！新春快乐呀！\n\n演唱：洛天依\n作词：非桥段\n作曲：胡多多\n编曲：包达、赵伟鑫\n调教：Creuzer\n导演：张艺潇（tàtà）",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41614,
+    "comment": 1424,
+    "forward": 231
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "393900998431030638",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/393900998431030638",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月27日",
+    "pub_ts": 1590550623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "要走的路就在脚下",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "要走的路就在脚下"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6433,
+    "comment": 185,
+    "forward": 15
+  },
+  "forward": {
+    "orig_id": 391293644043050170,
+    "orig_mid": 2720641,
+    "deleted": false,
+    "archive_dir": "../../../2720641/2020-05/2020-05-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:24:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

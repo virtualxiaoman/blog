@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1222942644201586694",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1222942644201586694",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月9日",
+    "pub_ts": 1783576923,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@哈比爱撒中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@哈比爱撒",
+        "mid": 358548,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2840,
+    "comment": 25,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 1221829839708749832,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-07-06_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:28:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

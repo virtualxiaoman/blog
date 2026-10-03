@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "905633763232317460",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/905633763232317460",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月6日",
+    "pub_ts": 1709697692,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依收藏集——大哉乾元】预约开启啦~收录《大哉乾元》7张曲绘和独家新绘插画，邀诸君一往乾元[Vsinger_加依]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依收藏集——大哉乾元】预约开启啦~收录《大哉乾元》7张曲绘和独家新绘插画，邀诸君一往乾元"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3801,
+    "comment": 191,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 905633363776241681,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-03/2024-03-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

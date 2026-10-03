@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "233694732558362769",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/233694732558362769",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年3月22日",
+    "pub_ts": 1553249695,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##言和##VOCALOID#不鸽几分钟都对不起这名字",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#言和#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%A8%80%E5%92%8C"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "text",
+        "text": "不鸽几分钟都对不起这名字"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依，言和 原创《得过且过的勇者》",
+      "desc": "1.专辑曲第……第好几弹了。人声本家：三无 av47148472\n2.讲述的是一个勇敢正义，正直诚恳，爱岗敬业，文明和谐……的勇者的故事。\n3.那么这种角色一般是谁来扮演呢？对辣，让我们欢迎言和小姐姐。\n4.并且请重点关注一下学动画八年的麻薯映像，为我们呈现的经费爆炸特效起飞荡气回肠终极劈威。\n5.当然后面我们还准备了众望所归的人声本家，请大家努力期待一下，OK那先这样。",
+      "jump_url": "https://www.bilibili.com/video/BV1Zb411j7vb",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/26d5cd253756afe3b593da983e2cf1534f80874c.jpg",
+      "cover_file": "../../_assets/covers/2019-03-22_1.jpg",
+      "bvid": "BV1Zb411j7vb",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Zb411j7vb",
+        "aid": "46980139",
+        "cover": "http://i0.hdslb.com/bfs/archive/26d5cd253756afe3b593da983e2cf1534f80874c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Zb411j7vb",
+        "stat": {
+          "danmaku": "6436",
+          "play": "304.4万",
+          "vt": ""
+        },
+        "duration_text": "03:20",
+        "title": "洛天依，言和 原创《得过且过的勇者》",
+        "desc": "1.专辑曲第……第好几弹了。人声本家：三无 av47148472\n2.讲述的是一个勇敢正义，正直诚恳，爱岗敬业，文明和谐……的勇者的故事。\n3.那么这种角色一般是谁来扮演呢？对辣，让我们欢迎言和小姐姐。\n4.并且请重点关注一下学动画八年的麻薯映像，为我们呈现的经费爆炸特效起飞荡气回肠终极劈威。\n5.当然后面我们还准备了众望所归的人声本家，请大家努力期待一下，OK那先这样。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 141886,
+    "comment": 16583,
+    "forward": 7
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224148237264355345",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224148237264355345",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783857622,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“我们可以一起唱首歌”《歌》洛天依14周年生日会",
+      "desc": "嘿！在吗？我想给你唱首歌\n没空的话，那我就在这儿等等吧~\n\n作曲：张卡斯\n编曲：张卡斯\n作词：张卡斯\n调教：张卡斯\n原PV:BV1gMkWBWEzy",
+      "jump_url": "https://www.bilibili.com/video/BV1ZLNg66EK7",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/27dfe5863a381d5a2d873a80e3252a3c106c7573.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_11.jpg",
+      "bvid": "BV1ZLNg66EK7",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZLNg66EK7",
+        "aid": "116906241624206",
+        "cover": "http://i0.hdslb.com/bfs/archive/27dfe5863a381d5a2d873a80e3252a3c106c7573.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZLNg66EK7",
+        "stat": {
+          "danmaku": "450",
+          "play": "24.3万",
+          "vt": ""
+        },
+        "duration_text": "04:07",
+        "title": "“我们可以一起唱首歌”《歌》洛天依14周年生日会",
+        "desc": "嘿！在吗？我想给你唱首歌\n没空的话，那我就在这儿等等吧~\n\n作曲：张卡斯\n编曲：张卡斯\n作词：张卡斯\n调教：张卡斯\n原PV:BV1gMkWBWEzy",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28523,
+    "comment": 612,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

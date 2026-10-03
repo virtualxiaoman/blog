@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1188866648600215556",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1188866648600215556",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月8日",
+    "pub_ts": 1775642987,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "追加解锁奖励！记得领领哦！[洛天依国乐季动态表情包_美味]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "追加解锁奖励！记得领领哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_美味]",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/495ebb71f34d6d2cfa019b58a73c804990b77d9c.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/美味.gif",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "text": "[洛天依国乐季动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4455,
+    "comment": 113,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 1188856398646083585,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-04/2026-04-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

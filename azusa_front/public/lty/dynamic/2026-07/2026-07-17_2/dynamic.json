@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1225890709779775490",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1225890709779775490",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月17日",
+    "pub_ts": 1784263323,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@銀翼丿蚂蚱中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@銀翼丿蚂蚱",
+        "mid": 370142636,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3081,
+    "comment": 44,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 1222551346937331764,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-07-08_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:31:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

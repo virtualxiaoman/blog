@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "607345784821942166",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/607345784821942166",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月23日",
+    "pub_ts": 1640247110,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 感谢让我唱了这首温柔的歌[洛天依9th_太好听了]也许我们的生活中都充斥着烦躁无序的主基调，偶尔在早高峰的地铁遁入梦乡，见到了回忆里无忧无虑的自己，有一些想念，也有一些心酸，不知道前方的道路会是什么模样，但是无论如何都要继续前进呀[洛天依_爱你] ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 感谢让我唱了这首温柔的歌"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      },
+      {
+        "type": "text",
+        "text": "也许我们的生活中都充斥着烦躁无序的主基调，偶尔在早高峰的地铁遁入梦乡，见到了回忆里无忧无虑的自己，有一些想念，也有一些心酸，不知道前方的道路会是什么模样，但是无论如何都要继续前进呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5479,
+    "comment": 121,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 605410154733238384,
+    "orig_mid": 480680646,
+    "deleted": false,
+    "archive_dir": "../../../480680646/2021-12/2021-12-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

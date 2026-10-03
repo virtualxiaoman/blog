@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "789868589297434706",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/789868589297434706",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月29日",
+    "pub_ts": 1682744012,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "和朋友们出来吃好吃的【划掉】\n出来玩儿咯！！！[洛天依幻游世界_我就要浪]\n大家有没有什么假期出行计划呀？ [古色花香洛天依_期待]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "和朋友们出来吃好吃的【划掉】\n出来玩儿咯！！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_我就要浪]",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "name": "我就要浪",
+        "url": "https://i0.hdslb.com/bfs/garb/item/1f7ad55271e26aedbb481ed5159a85025d04e568.png"
+      },
+      {
+        "type": "text",
+        "text": "\n大家有没有什么假期出行计划呀？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/3712176cd0e1ad0b8dbdf56427b48fe836081646.jpg",
+        "width": 5000,
+        "height": 2813,
+        "size_kb": 1002.9400024414062,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/我就要浪.png",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "text": "[洛天依幻游世界_我就要浪]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8849,
+    "comment": 364,
+    "forward": 185
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

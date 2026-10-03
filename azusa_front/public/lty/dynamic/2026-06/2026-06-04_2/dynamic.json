@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "id": "1210016880008364033",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1210016880008364033",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月4日",
+    "pub_ts": 1780567409,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n※洛天依十四周年生日纪念设定「心灵信号员」公开※\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份~[国乐季表情包_洛天依 -爱你]\n\n十四年前，一道名为「洛天依」的微弱信号\n穿越代码数据，跨过漫长星海，来到人类的身边\n从此，她成为穿梭于虚拟与现实的心灵信号员\n所有千奇百怪的幻想，未曾言语的情绪，无需理由的热爱......\n都被她一一悉心捕捉，酿成歌声回传给每一个发送者\n让每一份孤独的频率，以她为载体，找到最温柔的同频共鸣\n滴滴，信号员接收信号中，你有什么想发送给她的呢？ [国乐季表情包_洛天依 -wink]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n※洛天依十四周年生日纪念设定「心灵信号员」公开※\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[国乐季表情包_洛天依 -爱你]",
+        "package_id": "9548",
+        "emoji_id": "134477",
+        "name": "洛天依 -爱你",
+        "url": "https://i0.hdslb.com/bfs/emote/e1ea571b5b5f272e3590fefed781b8b3d0700179.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n十四年前，一道名为「洛天依」的微弱信号\n穿越代码数据，跨过漫长星海，来到人类的身边\n从此，她成为穿梭于虚拟与现实的心灵信号员\n所有千奇百怪的幻想，未曾言语的情绪，无需理由的热爱......\n都被她一一悉心捕捉，酿成歌声回传给每一个发送者\n让每一份孤独的频率，以她为载体，找到最温柔的同频共鸣\n滴滴，信号员接收信号中，你有什么想发送给她的呢？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[国乐季表情包_洛天依 -wink]",
+        "package_id": "9548",
+        "emoji_id": "134476",
+        "name": "洛天依 -wink",
+        "url": "https://i0.hdslb.com/bfs/emote/55cc86e5b59fab5a28f19381c6b708881cc31646.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-04_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f0e1ddb7b9d46d90ddafda0a931380e336081646.jpg",
+        "width": 1080,
+        "height": 10073,
+        "size_kb": 2983.88671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-06-04_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8294bb1f900f35914fe3ee9db354a37736081646.jpg",
+        "width": 7000,
+        "height": 4612,
+        "size_kb": 4371.1328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9548/洛天依 -爱你.png",
+        "package_id": "9548",
+        "emoji_id": "134477",
+        "text": "[国乐季表情包_洛天依 -爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9548/洛天依 -wink.png",
+        "package_id": "9548",
+        "emoji_id": "134476",
+        "text": "[国乐季表情包_洛天依 -wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十四周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十四周年生日会",
+        "desc1": {
+          "text": "07-12 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "11.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Switch2*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=5592429&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5592429,
+        "reserve_total": 113916,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5579,
+    "comment": 799,
+    "forward": 1702
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

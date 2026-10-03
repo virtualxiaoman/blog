@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "587345487927140479",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/587345487927140479",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月30日",
+    "pub_ts": 1635590428,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 不给糖就捣乱！果然难不倒大家～ 谢谢大家帮助我成功解答出谜题，我可以去参加万圣派对啦！[洛天依·夜航星_萌妹初醒] 南瓜糖准备甜蜜出击！明天的糖果都是我的啦(*•̀ᴗ•́*)و ̑̑～  \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 不给糖就捣乱！果然难不倒大家～ 谢谢大家帮助我成功解答出谜题，我可以去参加万圣派对啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": " 南瓜糖准备甜蜜出击！明天的糖果都是我的啦(*•̀ᴗ•́*)و ̑̑～  "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-10-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7aa2e363de97742f41d5c0b2e2c4dc1c35c5d27c.jpg",
+        "width": 2000,
+        "height": 3000,
+        "size_kb": 3909.360107421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7605,
+    "comment": 235,
+    "forward": 123
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

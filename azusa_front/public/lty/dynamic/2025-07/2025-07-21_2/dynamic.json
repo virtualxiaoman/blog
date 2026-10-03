@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1092028089663225865",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1092028089663225865",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月21日",
+    "pub_ts": 1753096003,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "存存老师投稿十三周年快乐！[洛天依流光协奏_打call]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "存存老师投稿十三周年快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_打call]",
+        "package_id": "8393",
+        "emoji_id": "115563",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/d893b2857a386392b9aa2fa4d970e77d131d9a12.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/打call.png",
+        "package_id": "8393",
+        "emoji_id": "115563",
+        "text": "[洛天依流光协奏_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6521,
+    "comment": 102,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1091258422947479553,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2025-07/2025-07-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:36:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

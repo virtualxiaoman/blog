@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "id": "1161425793312620547",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1161425793312620547",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月24日",
+    "pub_ts": 1769253915,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "天依要陪你一起过年啦~！\n2月14日-2月16日，天依会在直播间陪大家听歌和大家说话哦！\n想准备一些特别节目，大家一起来评论区留言吧！球球你啦~[逆转童话动态_求求]\n\n✨想问天依的问题\n✨想让天依对你说的话\n\n✨把你和天依的回忆投递给天依吧~\n无论是画稿、cos等创作、你拍摄的天依、你带天依出去玩的照片等都可以哦！也可以带上你想投递给天依的话，发送邮件至support@vsinger.com 就可以啦！有机会在直播间展示哦~\n\n✨2025年终总结颁奖典礼提名开启！\n2025年，你最喜欢的天依歌曲/设定/舞台......？在评论区留言吧！记得带上标题和编号哦！ [逆转童话动态_吃书]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依要陪你一起过年啦~！\n2月14日-2月16日，天依会在直播间陪大家听歌和大家说话哦！\n想准备一些特别节目，大家一起来评论区留言吧！球球你啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_求求]",
+        "package_id": "8744",
+        "emoji_id": "121348",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/88e02c93db4a0822cdbe6581feac0ee6f8a6313e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨想问天依的问题\n✨想让天依对你说的话\n\n✨把你和天依的回忆投递给天依吧~\n无论是画稿、cos等创作、你拍摄的天依、你带天依出去玩的照片等都可以哦！也可以带上你想投递给天依的话，发送邮件至"
+      },
+      {
+        "type": "text",
+        "text": "support@vsinger.com"
+      },
+      {
+        "type": "text",
+        "text": " 就可以啦！有机会在直播间展示哦~\n\n✨2025年终总结颁奖典礼提名开启！\n2025年，你最喜欢的天依歌曲/设定/舞台......？在评论区留言吧！记得带上标题和编号哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-24_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f18a80858d72ba79ddb76fa857f3458d36081646.jpg",
+        "width": 1125,
+        "height": 1125,
+        "size_kb": 349.7724609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-24_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/62a32e5083a31c8178dac32b59929a6c36081646.jpg",
+        "width": 1125,
+        "height": 1125,
+        "size_kb": 380.6533203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-24_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c2a35a7de8f1b3778af0c88dde1405f836081646.jpg",
+        "width": 1125,
+        "height": 1125,
+        "size_kb": 381.609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/求求.gif",
+        "package_id": "8744",
+        "emoji_id": "121348",
+        "text": "[逆转童话动态_求求]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6255,
+    "comment": 817,
+    "forward": 185
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

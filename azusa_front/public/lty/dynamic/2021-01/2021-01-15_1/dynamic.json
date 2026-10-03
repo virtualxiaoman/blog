@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "480493461876848914",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/480493461876848914",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月15日",
+    "pub_ts": 1610712002,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@是墨璃吖 @局外人忄 中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@是墨璃吖",
+        "mid": 399366198,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@局外人忄",
+        "mid": 27260280,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5270,
+    "comment": 221,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 472665110891893218,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2020-12/2020-12-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

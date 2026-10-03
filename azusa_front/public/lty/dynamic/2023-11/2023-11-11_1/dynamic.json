@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "862676423726333976",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/862676423726333976",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月11日",
+    "pub_ts": 1699695907,
+    "location": ""
+  },
+  "topic": {
+    "id": 12031,
+    "name": "粉丝福利",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=12031&topic_name=%E7%B2%89%E4%B8%9D%E7%A6%8F%E5%88%A9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖  这个双11，天依来给是不是“钱包大出血”的大家送福利啦！[古色花香洛天依_突然冒出]\r\n恰逢《歌行四方》400w播放达成🎉，感谢大家一直以来的支持和陪伴，关注并转发，天依将揪出——\r\n\r\n⭐5位小伙伴获得【💰 712元】钱包补贴金1份\r\n⭐1位小伙伴获得【🎨邀约人气画师绘制洛天依点图】1张\r\n⭐10位小伙伴获得【⚡洛天依款充电宝】1个\r\n\r\n今天是天依11周年的11月11日，嘿嘿！满满都是“依”能量~希望大家今天都可以是开心快乐的1天！[古色花香洛天依_亲亲mua]\r\n话说好像到处都是推销，那天依来“推销”一下自己吧~[古色花香洛天依_乖巧]\r\n《歌行四方》【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐\r\n《T.A.O》【洛天依原创曲】T.A.O.\r\n《万分之一的光》【洛天依原创曲】万分之一的光\r\n《光与影的对白》【洛天依原创曲】光与影的对白【2022官方生贺曲】\r\n在这里，还有好多好多创作者倾尽自己的创意与才华创作而出的作品，如果有新认识天依的小伙伴，欢迎来天依的收藏夹看看哟！ [古色花香洛天依_wink]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "215616",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  这个双11，天依来给是不是“钱包大出血”的大家送福利啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_突然冒出]",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "name": "突然冒出",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ae3f32ed6678677c8c0ed3812b10b81571e0c68.png"
+      },
+      {
+        "type": "text",
+        "text": "\r\n恰逢《歌行四方》400w播放达成🎉，感谢大家一直以来的支持和陪伴，关注并转发，天依将揪出——\r\n\r\n⭐5位小伙伴获得【💰 712元】钱包补贴金1份\r\n⭐1位小伙伴获得【🎨邀约人气画师绘制洛天依点图】1张\r\n⭐10位小伙伴获得【⚡洛天依款充电宝】1个\r\n\r\n今天是天依11周年的11月11日，嘿嘿！满满都是“依”能量~希望大家今天都可以是开心快乐的1天！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      },
+      {
+        "type": "text",
+        "text": "\r\n话说好像到处都是推销，那天依来“推销”一下自己吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      },
+      {
+        "type": "text",
+        "text": "\r\n《歌行四方》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐",
+        "url": "https://www.bilibili.com/video/av957890888",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n《T.A.O》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】T.A.O.",
+        "url": "https://www.bilibili.com/video/av71587813",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n《万分之一的光》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】万分之一的光",
+        "url": "https://www.bilibili.com/video/av968772260",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n《光与影的对白》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】光与影的对白【2022官方生贺曲】",
+        "url": "https://www.bilibili.com/video/av385844016",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n在这里，还有好多好多创作者倾尽自己的创意与才华创作而出的作品，如果有新认识天依的小伙伴，欢迎来天依的收藏夹看看哟！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-11-11_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/da5897e9f4cc67c79bd3376af100cbb936081646.png",
+        "width": 850,
+        "height": 850,
+        "size_kb": 226.0341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-11-11_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bfff1da47f8c0a0259286fbdf8cd1fbb36081646.jpg",
+        "width": 1242,
+        "height": 1242,
+        "size_kb": 697.3427734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-11-11_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9dceaac1f51b249cc0e98d5f6d3adcd536081646.png",
+        "width": 850,
+        "height": 850,
+        "size_kb": 248.4384765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/突然冒出.png",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "text": "[古色花香洛天依_突然冒出]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "215616"
+  },
+  "vote": null,
+  "stats": {
+    "like": 13939,
+    "comment": 2455,
+    "forward": 13419
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:00:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "927001693680304176",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/927001693680304176",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月3日",
+    "pub_ts": 1714672801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@枫羽zy@依有所碍@雪丶落无声等5位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@枫羽zy",
+        "mid": 3537125242833351,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@依有所碍",
+        "mid": 295679755,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@雪丶落无声",
+        "mid": 413155742,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4155,
+    "comment": 104,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 922084982606790674,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-04/2024-04-19_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

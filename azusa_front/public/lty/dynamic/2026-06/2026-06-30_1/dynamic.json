@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "1219665811786956819",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1219665811786956819",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月30日",
+    "pub_ts": 1782813976,
+    "location": ""
+  },
+  "topic": {
+    "id": 1336877,
+    "name": "闪耀的画师",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1336877&topic_name=%E9%97%AA%E8%80%80%E7%9A%84%E7%94%BB%E5%B8%88"
+  },
+  "content": {
+    "title": "",
+    "text": "✨洛天依服装&插画设计大赛「闪耀的画师」获奖结果正式公布啦！[洛天依国乐季动态表情包_爱你]\n🎨 公示主题页：网页链接 \n\n色彩因想象而斑斓，舞台因热爱而璀璨\n每一位画师笔下的天依，都是最珍贵和独一无二的存在\n恭喜以下获得大家青睐的闪耀画师分别在插画赛道、设定赛道和可动人偶赛道获奖\n八位确认收录合作的画师，还将根据获奖设定绘制新作，和获奖作品一起上线虚拟装扮，敬请期待吧~[洛天依国乐季动态表情包_wink]\n\n再次感谢每一位参与的画师老师，用画笔点亮天依的世界\n是大家的爱让闪耀拥有形状，让热爱拥有回响\n期待天依还能无数次，在你们的笔尖闪耀~！[洛天依国乐季动态表情包_摸摸]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "✨洛天依服装&插画设计大赛「闪耀的画师」获奖结果正式公布啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n🎨 公示主题页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/sMLie9Kt7U0Ygrko.html"
+      },
+      {
+        "type": "text",
+        "text": " \n\n色彩因想象而斑斓，舞台因热爱而璀璨\n每一位画师笔下的天依，都是最珍贵和独一无二的存在\n恭喜以下获得大家青睐的闪耀画师分别在插画赛道、设定赛道和可动人偶赛道获奖\n八位确认收录合作的画师，还将根据获奖设定绘制新作，和获奖作品一起上线虚拟装扮，敬请期待吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n再次感谢每一位参与的画师老师，用画笔点亮天依的世界\n是大家的爱让闪耀拥有形状，让热爱拥有回响\n期待天依还能无数次，在你们的笔尖闪耀~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_摸摸]",
+        "package_id": "9546",
+        "emoji_id": "134445",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/26aaea43767972aa584f1ba50a9eac3dbe08a6eb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/24a5c29c2e973739dc3276e583122e9d36081646.jpg",
+        "width": 1080,
+        "height": 12675,
+        "size_kb": 7050.501953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/摸摸.gif",
+        "package_id": "9546",
+        "emoji_id": "134445",
+        "text": "[洛天依国乐季动态表情包_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5336,
+    "comment": 126,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:25:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

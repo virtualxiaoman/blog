@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1218219524497604615",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1218219524497604615",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月26日",
+    "pub_ts": 1782477236,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依十四周年×中国景德镇瓷厂「瓷韵天工」非遗陶瓷联名周边上线啦! 把各种陶瓷小洛带回家吧~[洛天依国乐季动态表情包_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依十四周年×中国景德镇瓷厂「瓷韵天工」非遗陶瓷联名周边上线啦! 把各种陶瓷小洛带回家吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5588,
+    "comment": 213,
+    "forward": 82
+  },
+  "forward": {
+    "orig_id": 1218182308608081953,
+    "orig_mid": 3546930539923798,
+    "deleted": false,
+    "archive_dir": "../../../3546930539923798/2026-06/2026-06-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:25:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

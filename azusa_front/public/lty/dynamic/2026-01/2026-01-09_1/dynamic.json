@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "id": "1155837564081405971",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1155837564081405971",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月9日",
+    "pub_ts": 1767952804,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "“五音共鸣，四海同频”，洛天依游学记第三季——\n「歌行·国乐季」主kv海报正式公开！[洛天依八音奇响动态_登场]\n取乐器为骨，采五色着裳，聆听中华国乐历尽时光雕琢，依旧动人心弦的乐声。\n这一次，请跟随天依的新裳和吟唱，溯入五音工律的源头。[洛天依八音奇响动态_美丽]\n\n「歌行·国乐季」将携手多地文旅，特邀多位国乐艺术家参与共创，吟耳汤进行主视觉插画绘制，\n以历史故事、民俗风情、山河湖海为笔墨，见证国乐如何在历史中成形，又如何在当下的生活里继续回响。\n溯回古今，重遇五音；千年国乐，正待新声；弦启东方，静待知音！[洛天依八音奇响动态_支持]\n\n转发关注天依并预约歌曲MV，揪3位小伙伴送出【国乐季 新品周边】1份~[洛天依八音奇响动态_可爱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“五音共鸣，四海同频”，洛天依游学记第三季——\n「歌行·国乐季」主kv海报正式公开！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n取乐器为骨，采五色着裳，聆听中华国乐历尽时光雕琢，依旧动人心弦的乐声。\n这一次，请跟随天依的新裳和吟唱，溯入五音工律的源头。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n「歌行·国乐季」将携手多地文旅，特邀多位国乐艺术家参与共创，吟耳汤进行主视觉插画绘制，\n以历史故事、民俗风情、山河湖海为笔墨，见证国乐如何在历史中成形，又如何在当下的生活里继续回响。\n溯回古今，重遇五音；千年国乐，正待新声；弦启东方，静待知音！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_支持]",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/a26938e7da36b6c98ffd1c583c176e2181b5149c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n转发关注天依并预约歌曲MV，揪3位小伙伴送出【国乐季 新品周边】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4d5e161dfe7e6138bf14beceea8a352036081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 3437.570068359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/支持.gif",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "text": "[洛天依八音奇响动态_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7923,
+    "comment": 1323,
+    "forward": 1873
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "570919050501098233",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/570919050501098233",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月16日",
+    "pub_ts": 1631765850,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 相约冬奥，一起歌唱，由天依演唱的《Time to shine》即将于今晚八点发布啦，虽然还有好几个小时，可是天依现在已经有点小紧张呢，这首歌和天依以往演唱的风格都有点不同，希望大家能够喜欢！大家也要和天依一起关注第二届#冬奥优秀音乐作品#发布哦，为活动打CALL吧！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 相约冬奥，一起歌唱，由天依演唱的《Time to shine》即将于今晚八点发布啦，虽然还有好几个小时，可是天依现在已经有点小紧张呢，这首歌和天依以往演唱的风格都有点不同，希望大家能够喜欢！大家也要和天依一起关注第二届"
+      },
+      {
+        "type": "topic",
+        "text": "#冬奥优秀音乐作品#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%86%AC%E5%A5%A5%E4%BC%98%E7%A7%80%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81"
+      },
+      {
+        "type": "text",
+        "text": "发布哦，为活动打CALL吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5967,
+    "comment": 251,
+    "forward": 91
+  },
+  "forward": {
+    "orig_id": 570915949528393063,
+    "orig_mid": 565388139,
+    "deleted": false,
+    "archive_dir": "../../../565388139/2021-09/2021-09-16_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:36:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

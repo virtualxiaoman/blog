@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "607714701043293583",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/607714701043293583",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月24日",
+    "pub_ts": 1640333005,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "三星堆考古发掘历时一年多惊喜连连，2022年将在遗址区建设三星堆奇幻夜沉浸式考古体验馆，未来向公众开放。在三星堆考古发掘现场，总台首次融合创新3D全息和XR扩展现实技术，带您抢先感受即将问世的三星堆奇幻夜。（总台央视记者 鲁念）",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "三星堆考古发掘历时一年多惊喜连连，2022年将在遗址区建设三星堆奇幻夜沉浸式考古体验馆，未来向公众开放。在三星堆考古发掘现场，总台首次融合创新3D全息和XR扩展现实技术，带您抢先感受即将问世的三星堆奇幻夜。（总台央视记者 鲁念）"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "鲁念+洛天依+唢呐 这个三星堆夜晚也太奇幻了吧",
+      "desc": "三星堆考古发掘历时一年多惊喜连连，2022年将在遗址区建设三星堆奇幻夜沉浸式考古体验馆，未来向公众开放。在三星堆考古发掘现场，总台首次融合创新3D全息和XR扩展现实技术，带您抢先感受即将问世的三星堆奇幻夜。（总台央视记者 鲁念）",
+      "jump_url": "https://www.bilibili.com/video/BV1Ju411S7ne",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/844fdee69e5bdf9598699a1561ac0f0fe682925c.jpg",
+      "cover_file": "../../_assets/covers/2021-12-24_1.jpg",
+      "bvid": "BV1Ju411S7ne",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Ju411S7ne",
+        "aid": "507599038",
+        "cover": "http://i0.hdslb.com/bfs/archive/844fdee69e5bdf9598699a1561ac0f0fe682925c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Ju411S7ne",
+        "stat": {
+          "danmaku": "552",
+          "play": "19.1万",
+          "vt": ""
+        },
+        "duration_text": "04:39",
+        "title": "鲁念+洛天依+唢呐 这个三星堆夜晚也太奇幻了吧",
+        "desc": "三星堆考古发掘历时一年多惊喜连连，2022年将在遗址区建设三星堆奇幻夜沉浸式考古体验馆，未来向公众开放。在三星堆考古发掘现场，总台首次融合创新3D全息和XR扩展现实技术，带您抢先感受即将问世的三星堆奇幻夜。（总台央视记者 鲁念）",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28525,
+    "comment": 570,
+    "forward": 23
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

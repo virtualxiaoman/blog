@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1086808836810997776",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1086808836810997776",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月7日",
+    "pub_ts": 1751880801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是来自幸运石出品的天依生日纪念石英表和吊坠周边哦[歌行宇宙表情包_哇]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是来自幸运石出品的天依生日纪念石英表和吊坠周边哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_哇]",
+        "package_id": "5880",
+        "emoji_id": "86891",
+        "name": "哇",
+        "url": "https://i0.hdslb.com/bfs/garb/2fa2de858a060d8867002d0aa01bd6c901224acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/哇.png",
+        "package_id": "5880",
+        "emoji_id": "86891",
+        "text": "[歌行宇宙表情包_哇]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4013,
+    "comment": 146,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1086694736712957954,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2025-07/2025-07-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:33:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

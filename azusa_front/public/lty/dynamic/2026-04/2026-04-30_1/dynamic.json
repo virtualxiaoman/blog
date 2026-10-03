@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1196946710455124003",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1196946710455124003",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月30日",
+    "pub_ts": 1777524273,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "很高兴接受天选姬的邀请！和天依一起期待华硕天选2026新品发布会吧~[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴接受天选姬的邀请！和天依一起期待华硕天选2026新品发布会吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5381,
+    "comment": 216,
+    "forward": 63
+  },
+  "forward": {
+    "orig_id": 1196935232140345352,
+    "orig_mid": 471130755,
+    "deleted": false,
+    "archive_dir": "../../../471130755/2026-04/2026-04-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

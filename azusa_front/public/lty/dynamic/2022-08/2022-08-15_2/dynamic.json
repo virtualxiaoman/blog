@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "694614718755635209",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/694614718755635209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月15日",
+    "pub_ts": 1660565992,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家好，我是今天的主播洛天依，欢迎收听人鱼电台，你是来听小人鱼唱歌的吗[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家好，我是今天的主播洛天依，欢迎收听人鱼电台，你是来听小人鱼唱歌的吗"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8229,
+    "comment": 189,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 693480963108241527,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2022-08/2022-08-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

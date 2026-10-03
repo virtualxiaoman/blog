@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "682015917448626273",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/682015917448626273",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月12日",
+    "pub_ts": 1657632605,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "用一首歌记录下这十年间的光阴，细数我们之间的点滴回忆。\n从最初的旋律孤独吟唱，到炽热的热爱填满虚拟灵魂。\n光影交错之间，记忆拂去尘埃，爱意久别重逢，让我们将所有一同叙写的故事再次唱响。\n藏在心底的梦想依然滚烫，未来的岁月，还想伴你一一走过。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "用一首歌记录下这十年间的光阴，细数我们之间的点滴回忆。\n从最初的旋律孤独吟唱，到炽热的热爱填满虚拟灵魂。\n光影交错之间，记忆拂去尘埃，爱意久别重逢，让我们将所有一同叙写的故事再次唱响。\n藏在心底的梦想依然滚烫，未来的岁月，还想伴你一一走过。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】光与影的对白【2022官方生贺曲】",
+      "desc": "用一首歌记录下这十年间的光阴，细数我们之间的点滴回忆。\n从最初的旋律孤独吟唱，到炽热的热爱填满虚拟灵魂。\n光影交错之间，记忆拂去尘埃，爱意久别重逢，让我们将所有一同叙写的故事再次唱响。\n藏在心底的梦想依然滚烫，未来的岁月，还想伴你一一走过。\n\n----staff----\n《光与影的对白》\n演唱：洛天依\n作曲：COP@COPY  \n作词：COP@COPY  \n编曲：大玉ProD \n调校：Creuzer@Creuzer  \n吉他/贝斯：WinAndXP\n制作人：人形兎@人形兎  \n出品：Vsinger团队@v",
+      "jump_url": "https://www.bilibili.com/video/BV1dZ4y1Y7bt",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f7b247fa91efca07d94393b810eea5b57150dc8f.jpg",
+      "cover_file": "../../_assets/covers/2022-07-12_1.jpg",
+      "bvid": "BV1dZ4y1Y7bt",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1dZ4y1Y7bt",
+        "aid": "385844016",
+        "cover": "http://i1.hdslb.com/bfs/archive/f7b247fa91efca07d94393b810eea5b57150dc8f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1dZ4y1Y7bt",
+        "stat": {
+          "danmaku": "3.5万",
+          "play": "328.4万",
+          "vt": ""
+        },
+        "duration_text": "04:09",
+        "title": "【洛天依原创曲】光与影的对白【2022官方生贺曲】",
+        "desc": "用一首歌记录下这十年间的光阴，细数我们之间的点滴回忆。\n从最初的旋律孤独吟唱，到炽热的热爱填满虚拟灵魂。\n光影交错之间，记忆拂去尘埃，爱意久别重逢，让我们将所有一同叙写的故事再次唱响。\n藏在心底的梦想依然滚烫，未来的岁月，还想伴你一一走过。\n\n----staff----\n《光与影的对白》\n演唱：洛天依\n作曲：COP@COPY  \n作词：COP@COPY  \n编曲：大玉ProD \n调校：Creuzer@Creuzer  \n吉他/贝斯：WinAndXP\n制作人：人形兎@人形兎  \n出品：Vsinger团队@v",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 272518,
+    "comment": 19731,
+    "forward": 2128
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:51:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "305666062183897226",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/305666062183897226",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年10月2日",
+    "pub_ts": 1570006826,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依sp#在圣都经历冒险后，最近天依连做梦都会梦到自己战斗时的身影呢。是大家告诉了我，我不是孤身一人。天依也会为了守护大家，握紧手中的剑。这就是心意共鸣的全部力量，你也会和天依一起战斗的，对吗？ @300大作战官方",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依sp#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9Dsp"
+      },
+      {
+        "type": "text",
+        "text": "在圣都经历冒险后，最近天依连做梦都会梦到自己战斗时的身影呢。是大家告诉了我，我不是孤身一人。天依也会为了守护大家，握紧手中的剑。这就是心意共鸣的全部力量，你也会和天依一起战斗的，对吗？ @300大作战官方"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】为你而战",
+      "desc": "在圣都经历冒险后，最近天依连做梦都会梦到自己战斗时的身影呢。是大家告诉了我，我不是孤身一人。天依也会为了守护大家，握紧手中的剑。这就是心意共鸣的全部力量，你也会和天依一起战斗的，对吗？",
+      "jump_url": "https://www.bilibili.com/video/BV1mE411X77r",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/7864647bc7a54a58d9c4209bbd31d0adc1e61acb.jpg",
+      "cover_file": "../../_assets/covers/2019-10-02_1.jpg",
+      "bvid": "BV1mE411X77r",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1mE411X77r",
+        "aid": "69547593",
+        "cover": "http://i1.hdslb.com/bfs/archive/7864647bc7a54a58d9c4209bbd31d0adc1e61acb.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1mE411X77r",
+        "stat": {
+          "danmaku": "3145",
+          "play": "78.7万",
+          "vt": ""
+        },
+        "duration_text": "01:15",
+        "title": "【洛天依】为你而战",
+        "desc": "在圣都经历冒险后，最近天依连做梦都会梦到自己战斗时的身影呢。是大家告诉了我，我不是孤身一人。天依也会为了守护大家，握紧手中的剑。这就是心意共鸣的全部力量，你也会和天依一起战斗的，对吗？",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 64529,
+    "comment": 2870,
+    "forward": 251
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

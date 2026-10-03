@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "1232237490318868484",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1232237490318868484",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月3日",
+    "pub_ts": 1785741048,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "大家好呀，【沧澜谱律 深海闻歌】洛天依上海站快闪情报来咯~\n转发关注天依，揪1位小伙伴送出【上海站场贩礼盒】1份[洛天依14周年·四重奏_wink]\n\n⏰时间: 2026.08.07-2026.09.08\n✅️营业时间:10:00—22:00\n📍地址：上海市杨浦区四平路2500号百联ZX造趣场（五角场店）L1互动空间&L1大中岛\n🌌主办方: Manverse漫游宇宙\n\n沧澜谱律，深海闻歌，和天依一起谱写与歌共舞的蓝色乐章吧~[洛天依14周年·四重奏_唱歌]\n\n⭐快闪周边情报\n✨洛天依无限共鸣·纯蓝幻乐演唱会系列等通贩周边\n✨专属限定城市主题周边产品\n\n🎵现场活动情报\n🎁天依集章礼赠&满赠福利\n💎活动现场特殊日期人偶巡场\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家好呀，【沧澜谱律 深海闻歌】洛天依上海站快闪情报来咯~\n转发关注天依，揪1位小伙伴送出【上海站场贩礼盒】1份"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⏰时间: 2026.08.07-2026.09.08\n✅️营业时间:10:00—22:00\n📍地址：上海市杨浦区四平路2500号百联ZX造趣场（五角场店）L1互动空间&L1大中岛\n🌌主办方: Manverse漫游宇宙\n\n沧澜谱律，深海闻歌，和天依一起谱写与歌共舞的蓝色乐章吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_唱歌]",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/cbff4881919473c2dc8622f50b6dfc59d10ac785.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⭐快闪周边情报\n✨洛天依无限共鸣·纯蓝幻乐演唱会系列等通贩周边\n✨专属限定城市主题周边产品\n\n🎵现场活动情报\n🎁天依集章礼赠&满赠福利\n💎活动现场特殊日期人偶巡场"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-03_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c1dd6a97a498e8deb20fb3c82b02077d36081646.png",
+        "width": 1080,
+        "height": 4252,
+        "size_kb": 3431.96875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-03_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/61855d34d926ca0280b41ebd5325a1db36081646.png",
+        "width": 859,
+        "height": 12188,
+        "size_kb": 7178.505859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-03_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/89de4a641870107c4bd94e40552c531f36081646.png",
+        "width": 1080,
+        "height": 6009,
+        "size_kb": 5511.5498046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/唱歌.gif",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "text": "[洛天依14周年·四重奏_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5918,
+    "comment": 1449,
+    "forward": 3629
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "579562719428028537",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/579562719428028537",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月9日",
+    "pub_ts": 1633778361,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2021虚拟歌手创作赛-获奖公布#恭喜所有获奖的创作者[洛天依_耶]未来的道路，让我们继续一起并肩同行吧[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛-获奖公布#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B-%E8%8E%B7%E5%A5%96%E5%85%AC%E5%B8%83"
+      },
+      {
+        "type": "text",
+        "text": "恭喜所有获奖的创作者"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "未来的道路，让我们继续一起并肩同行吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4814,
+    "comment": 101,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 579260615719893354,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2021-10/2021-10-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:37:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

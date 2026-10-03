@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "916137964739756054",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/916137964739756054",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月3日",
+    "pub_ts": 1712143392,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嘟嘟嘟，注意注意~【洛天依收藏集——大哉乾元】镀金卡礼盒开启兑换啦！[大哉乾元_撒花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嘟嘟嘟，注意注意~【洛天依收藏集——大哉乾元】镀金卡礼盒开启兑换啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_撒花]",
+        "package_id": "4621",
+        "emoji_id": "66050",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/emote/9c0952eed6189a3ddc50dfa2e6f2138a4d7f2990.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4621/撒花.png",
+        "package_id": "4621",
+        "emoji_id": "66050",
+        "text": "[大哉乾元_撒花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4528,
+    "comment": 195,
+    "forward": 49
+  },
+  "forward": {
+    "orig_id": 914261386165485623,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-03/2024-03-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:09:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "id": "1207430764236374023",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1207430764236374023",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月28日",
+    "pub_ts": 1779965282,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依「人格镜像·永恒挚契」系列周边&小度耳机现已上新啦~\n转发关注天依，揪2位小伙伴分别送出【联名耳机轻量版&礼盒版】各一份[逆转童话_缘分]\n\n在命运的棋盘上，她们会交织出怎样的宿命回响？一起来见证吧！[逆转童话_微笑]\n\n◆新品品类\n档案套组、马口铁徽章套组、主题键帽盲盒、金属决策币、色纸\n\n◆洛天依 × 小度耳机「人格镜像·永恒挚契」主题联名耳机&礼盒\n-轻量版：联动定制提示音、联动特调天依色外观、DIY贴纸*20\n-礼盒版：联动定制提示音、联动特调天依色外观、DIY贴纸*20、硅胶耳机包·潮汐*1\n马口铁徽章·熠海昭光*1、合影透卡·潮汐&森信*1\n\n◆预售店铺：会员购、Vsinger天猫旗舰店   \n*产品监修中，请以最终实物为准。\n#洛天依# #天依的周边# #洛天依永恒挚契#\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "412766",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依「人格镜像·永恒挚契」系列周边&小度耳机现已上新啦~\n转发关注天依，揪2位小伙伴分别送出【联名耳机轻量版&礼盒版】各一份"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_缘分]",
+        "package_id": "8745",
+        "emoji_id": "121380",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/52a980ae5d1ed7c5a5787433e882f5159e194fde.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n在命运的棋盘上，她们会交织出怎样的宿命回响？一起来见证吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_微笑]",
+        "package_id": "8745",
+        "emoji_id": "121373",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/0102d9112634b0630ac23c06caa15da9ec4d5c8b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n◆新品品类\n档案套组、马口铁徽章套组、主题键帽盲盒、金属决策币、色纸\n\n◆洛天依 × 小度耳机「人格镜像·永恒挚契」主题联名耳机&礼盒\n-轻量版：联动定制提示音、联动特调天依色外观、DIY贴纸*20\n-礼盒版：联动定制提示音、联动特调天依色外观、DIY贴纸*20、硅胶耳机包·潮汐*1\n马口铁徽章·熠海昭光*1、合影透卡·潮汐&森信*1\n\n◆预售店铺：会员购、Vsinger天猫旗舰店   \n*产品监修中，请以最终实物为准。\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#天依的周边#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依永恒挚契#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B0%B8%E6%81%92%E6%8C%9A%E5%A5%91"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-28_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/63a6be16a0437ce5a69d2d722d8ccdf936081646.jpg",
+        "width": 8334,
+        "height": 41653,
+        "size_kb": 17723.41015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-05-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1f75954adf9d6e4cd0cdaeb1d3dc064b36081646.jpg",
+        "width": 1200,
+        "height": 7598,
+        "size_kb": 1271.22998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8745/缘分.png",
+        "package_id": "8745",
+        "emoji_id": "121380",
+        "text": "[逆转童话_缘分]"
+      },
+      {
+        "file": "../../_assets/emojis/8745/微笑.png",
+        "package_id": "8745",
+        "emoji_id": "121373",
+        "text": "[逆转童话_微笑]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依-人格镜像永恒挚契系列周边",
+            "price": "¥25",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/6b/13/869708bcec62a3addcd59007461981cd.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41109850&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1207430764236374023#noReffer=true",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-05-28_1.jpg"
+          },
+          {
+            "name": "小度 x 洛天依 人格镜像·永恒挚契 G108升级款耳机礼盒 ",
+            "price": "¥225",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/9a/98/9a98fe9c0743ef66b9b5333e84753d1e.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=13654665&loadingShow=1&noTitleBar=1&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1207430764236374023#noReffer=true",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-05-28_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "412766"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7004,
+    "comment": 640,
+    "forward": 10592
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

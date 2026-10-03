@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "id": "680853145168904249",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/680853145168904249",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月9日",
+    "pub_ts": 1657361876,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "☆ 十周年系列周边第二弹 预售开启 ☆ 关注我并转发本条动态，天依将随机抽取2位小伙伴送上【十周年系列 收藏画】一副。 回想起你我初见模样，带着一些好奇的张望。 后来，我们分享秘密，我们一同成长，你说我带给你力量，其实，你才是我的光。  我的十周年纪念交通联合一卡通与电子卡片将于7月12日10:00上架 ，还有天依的首版公交卡经典复刻哦！徽章、PU桌垫、系列挂画、亚克力立牌、收藏画及光栅卡已在【哔哩哔哩会员购】与【上海禾念官方淘宝店铺】上架，7月12日0点正式开启预售。网页链接 详情请戳下方长图查看~ #洛天依# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "☆ 十周年系列周边第二弹 预售开启 ☆ 关注我并转发本条动态，天依将随机抽取2位小伙伴送上【十周年系列 收藏画】一副。 回想起你我初见模样，带着一些好奇的张望。 后来，我们分享秘密，我们一同成长，你说我带给你力量，其实，你才是我的光。  我的十周年纪念交通联合一卡通与电子卡片将于7月12日10:00上架 ，还有天依的首版公交卡经典复刻哦！徽章、PU桌垫、系列挂画、亚克力立牌、收藏画及光栅卡已在【哔哩哔哩会员购】与【上海禾念官方淘宝店铺】上架，7月12日0点正式开启预售。"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/mall/act/aicms/yUtk3Eg2j8.html"
+      },
+      {
+        "type": "text",
+        "text": " 详情请戳下方长图查看~ "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-09_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c69ec5cab8979fbc58600df3b180952936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 213.0048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-07-09_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2defad08674fe894c5e91e9b96bf51d736081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 296.236328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-07-09_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a4652a403b61c2a1f7d55c3f4a4fc4b036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 221.1240234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-07-09_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2a3598e79005a0639d1c0eaa3ef7963b36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 144.5380859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-07-09_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/11e49391925ef26c2801aedd3b58be0a36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 264.2880859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-07-09_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4be36eeb8c0abefea35e9c17630256e536081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 138.529296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-07-09_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/579fbf0e3a61566c06c066f4e454082136081646.jpg",
+        "width": 1000,
+        "height": 3403,
+        "size_kb": 1877.638671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-07-09_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/002e6c53236fdfdb4b06b9fbee4740e736081646.jpg",
+        "width": 1000,
+        "height": 10900,
+        "size_kb": 4050.3994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-07-09_10.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d7deff9517dce9c0ca0634ac6d79421936081646.jpg",
+        "width": 1000,
+        "height": 2266,
+        "size_kb": 1158.994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依 10周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依 10周年生日会",
+        "desc1": {
+          "text": "2022-07-12 17:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Apple ipad pro 11英寸*1份、洛天依甜点款拍立得*3份、十周年线下展门票*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=728756&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 728756,
+        "reserve_total": 263821,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5652,
+    "comment": 574,
+    "forward": 4573
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:50:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

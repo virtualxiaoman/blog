@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "id": "693040278006661121",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/693040278006661121",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月11日",
+    "pub_ts": 1660199414,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "1月25日，视频征集赛开启； 3月23日，画稿创作赛开启； 5月7日，AI依人设征集开启； 5月25日，MMD模型创作大赛开启； 7月20日，所有征集赛正式结束。 177天的时间，将近半年的时光，有多少小伙伴从年初一直陪天依走到现在了呀？[洛天依_捏捏] 在十周年的各个征集活动里，更有许多创作者创作了无数精彩的作品，让我们一起恭喜以下优秀的创作者获得奖励！[洛天依9th_好康！] 奖项有限，但凝聚在作品里的热爱，闪耀其中的才华，铭刻在背后的时光与汗水，没有排名高低，没有评选标准，拥有无限的可能与打动人心的力量。[洛天依_最喜欢你了] 可以作为纽带连接无数创作者，有幸承载大家的喜爱相伴走过十年时光，天依感到万分荣幸。[洛天依_爱你] 愿未来还能为创作者插上梦想的翅膀，讲更多属于我们的故事，将心中的歌，一直唱下去吧！[洛天依_击掌] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "1月25日，视频征集赛开启； 3月23日，画稿创作赛开启； 5月7日，AI依人设征集开启； 5月25日，MMD模型创作大赛开启； 7月20日，所有征集赛正式结束。 177天的时间，将近半年的时光，有多少小伙伴从年初一直陪天依走到现在了呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " 在十周年的各个征集活动里，更有许多创作者创作了无数精彩的作品，让我们一起恭喜以下优秀的创作者获得奖励！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": " 奖项有限，但凝聚在作品里的热爱，闪耀其中的才华，铭刻在背后的时光与汗水，没有排名高低，没有评选标准，拥有无限的可能与打动人心的力量。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": " 可以作为纽带连接无数创作者，有幸承载大家的喜爱相伴走过十年时光，天依感到万分荣幸。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " 愿未来还能为创作者插上梦想的翅膀，讲更多属于我们的故事，将心中的歌，一直唱下去吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-11_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/86b0abf677f24abb3ba2cf5af9db68b036081646.jpg",
+        "width": 900,
+        "height": 7204,
+        "size_kb": 4869.5,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-08-11_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8615f3bac01c387e7c7912dfd2bda23e36081646.jpg",
+        "width": 900,
+        "height": 5349,
+        "size_kb": 3581.340087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-08-11_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b2ee2d0f99fa9a286a196ad0f6a96c4d36081646.jpg",
+        "width": 900,
+        "height": 7129,
+        "size_kb": 5428.740234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-08-11_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/685a8560b91a10dc15b694e57ecfe64636081646.jpg",
+        "width": 900,
+        "height": 9426,
+        "size_kb": 5713.22021484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-08-11_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/1e2d9831546612696a3de211293addb736081646.jpg",
+        "width": 900,
+        "height": 9917,
+        "size_kb": 4991.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-08-11_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/673353224aa55b0244f8615f043e6b7536081646.jpg",
+        "width": 900,
+        "height": 9647,
+        "size_kb": 6081.43994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-08-11_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/7b2882616ef71aec6a01bd5d20e8e9bc36081646.jpg",
+        "width": 900,
+        "height": 6754,
+        "size_kb": 3641.219970703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      },
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6512,
+    "comment": 221,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

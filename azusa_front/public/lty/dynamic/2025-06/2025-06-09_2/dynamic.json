@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1076385024227409924",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1076385024227409924",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月9日",
+    "pub_ts": 1749453818,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在一个人的房间里，漂浮的情绪、寂寞的夜空和散落一地的回忆，回响出的歌谣~感谢步人老师的创作呀[洛天依·天星问动态_萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在一个人的房间里，漂浮的情绪、寂寞的夜空和散落一地的回忆，回响出的歌谣~感谢步人老师的创作呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4457,
+    "comment": 74,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 1075698641201528851,
+    "orig_mid": 253196844,
+    "deleted": false,
+    "archive_dir": "../../../253196844/2025-06/2025-06-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

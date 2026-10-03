@@ -22,6 +22,12 @@ const routes = [
     component: () => import('../views/Luotianyi/index.vue'),
   },
   {
+    // 单条动态展示页，路径形如 #/lty/dynamic/2016-08-26_1（key 即归档目录名）
+    path: '/lty/dynamic/:key',
+    name: 'lty-dynamic',
+    component: () => import('../views/Luotianyi/DynamicDetail.vue'),
+  },
+  {
     // 分类后的文章详情页，路径形如 #/article/AI/强化学习
     path: '/article/:category/:name',
     name: 'article',

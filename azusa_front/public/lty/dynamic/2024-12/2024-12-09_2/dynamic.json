@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "1008795592033304600",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1008795592033304600",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月9日",
+    "pub_ts": 1733716927,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "❀【歌行·戏曲季】昆曲「牡丹亭」主题插画公开❀\n「洛天依·杜丽娘」“不到园林 怎知春色如许” \n\n朝飞暮卷，莺啼婉转，怎忍心将姹紫嫣红付与断井残垣\n起心动念，掀起波澜万千\n真情所至令生死颠覆，令故事百世流芳\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "❀【歌行·戏曲季】昆曲「牡丹亭」主题插画公开❀\n「洛天依·杜丽娘」“不到园林 怎知春色如许” \n\n朝飞暮卷，莺啼婉转，怎忍心将姹紫嫣红付与断井残垣\n起心动念，掀起波澜万千\n真情所至令生死颠覆，令故事百世流芳"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0e9b0d6306e33341ff8d0ac20ecdca7f36081646.jpg",
+        "width": 4000,
+        "height": 2250,
+        "size_kb": 5613.2177734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：天依游学记歌行戏曲季先导MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1HWkwYWETx",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：天依游学记歌行戏曲季先导MV",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "829.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4286531,
+        "reserve_total": 14370,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5634,
+    "comment": 251,
+    "forward": 168
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

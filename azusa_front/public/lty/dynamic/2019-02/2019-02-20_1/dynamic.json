@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "222496653307775316",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/222496653307775316",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年2月20日",
+    "pub_ts": 1550642439,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 Vsinger公交卡，“因乐不凡”预售已正式开始，全国245个城市和地区通用！预售链接见置顶评论。 感谢画师 TID 为Vsinger歌手们设计帅气满满的通勤装。转发这条动态并关注天依，我们将抽出2位小伙伴，送出【Vsinger“因乐不凡”全套公交卡】！3月5日预售结束后开奖，4月寄出奖品。 从今天开始，与我们牵手，踏上新的旅途！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "20910",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " Vsinger公交卡，“因乐不凡”预售已正式开始，全国245个城市和地区通用！预售链接见置顶评论。 感谢画师 TID 为Vsinger歌手们设计帅气满满的通勤装。转发这条动态并关注天依，我们将抽出2位小伙伴，送出【Vsinger“因乐不凡”全套公交卡】！3月5日预售结束后开奖，4月寄出奖品。 从今天开始，与我们牵手，踏上新的旅途！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-02-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f1c3d1f55d538ece5e7663a37c44b6c9c6246fe4.jpg",
+        "width": 1471,
+        "height": 1482,
+        "size_kb": 3199.7548828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-02-20_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7f44f66168fe9434a9d6916eb1272879a538a4b3.jpg",
+        "width": 790,
+        "height": 984,
+        "size_kb": 2095.5634765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-02-20_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1a168b0e797213ea1aceffff4aeeeccef0e479b0.jpg",
+        "width": 790,
+        "height": 1234,
+        "size_kb": 2653.0185546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "20910"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6390,
+    "comment": 1774,
+    "forward": 8474
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "666376210519949495",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/666376210519949495",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月31日",
+    "pub_ts": 1653991202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #清风元宇宙发布会#就在明天，天依收到来自清风邀请，届时将会在现场与大家进行互动交流哦！先让大家提前感受一下发布会的场景，是不是充满浪漫花感气息呢？发布会上还有很多新奇又有趣的东西会和大家一一揭晓， 6月1日晚上8点，期待和大家在清风元宇宙发布会的见面~ B站直播入口链接：网页链接 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#清风元宇宙发布会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E9%A3%8E%E5%85%83%E5%AE%87%E5%AE%99%E5%8F%91%E5%B8%83%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "就在明天，天依收到来自清风邀请，届时将会在现场与大家进行互动交流哦！先让大家提前感受一下发布会的场景，是不是充满浪漫花感气息呢？发布会上还有很多新奇又有趣的东西会和大家一一揭晓， 6月1日晚上8点，期待和大家在清风元宇宙发布会的见面~ B站直播入口链接："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/25100807"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-31_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/32b1eb88ef7d7188d75bbeb8c5fa7fc1707a318e.jpg",
+        "width": 2231,
+        "height": 956,
+        "size_kb": 1507.5576171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6114,
+    "comment": 177,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

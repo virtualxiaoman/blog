@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1242308965292834833",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1242308965292834833",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月30日",
+    "pub_ts": 1788085996,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "直接点喜欢过我吗？又不是《哑巴》~",
+      "desc": "天依为大家带来《闪耀的Producer 2》发起人Z新豪老师作品《哑巴》特别打歌舞台！\nBV1cout63Epq\nLonely tonight , I love you，跟着节拍，一起摇摆~\n天依也很期待大家的二创哦，一起加入这场狂欢吧！\n\n作词：张新豪\n作曲：张新豪\n编曲：张新豪",
+      "jump_url": "https://www.bilibili.com/video/BV1XDtH6RERu",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/bd90c9ac94221c15677f1d68861e1e472ae80b94.jpg",
+      "cover_file": "../../_assets/covers/2026-08-30_1.jpg",
+      "bvid": "BV1XDtH6RERu",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1XDtH6RERu",
+        "aid": "117183988367924",
+        "cover": "http://i1.hdslb.com/bfs/archive/bd90c9ac94221c15677f1d68861e1e472ae80b94.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1XDtH6RERu",
+        "stat": {
+          "danmaku": "212",
+          "play": "17.3万",
+          "vt": ""
+        },
+        "duration_text": "00:58",
+        "title": "直接点喜欢过我吗？又不是《哑巴》~",
+        "desc": "天依为大家带来《闪耀的Producer 2》发起人Z新豪老师作品《哑巴》特别打歌舞台！\nBV1cout63Epq\nLonely tonight , I love you，跟着节拍，一起摇摆~\n天依也很期待大家的二创哦，一起加入这场狂欢吧！\n\n作词：张新豪\n作曲：张新豪\n编曲：张新豪",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 44902,
+    "comment": 1220,
+    "forward": 104
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1196189249982955521",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1196189249982955521",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月28日",
+    "pub_ts": 1777347913,
+    "location": ""
+  },
+  "topic": {
+    "id": 1336524,
+    "name": "乱涂彩世界428公测",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1336524&topic_name=%E4%B9%B1%E6%B6%82%E5%BD%A9%E4%B8%96%E7%95%8C428%E5%85%AC%E6%B5%8B"
+  },
+  "content": {
+    "title": "",
+    "text": "来和洛天依一起《乱涂！彩世界》！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来和洛天依一起《乱涂！彩世界》！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《乱涂！彩世界》x洛天依 | 给世界依点颜色！",
+      "desc": "「失色的我肚子饿饿 我的餐盘缺少了太多配色」\n「咬一口神明香香的 吃饱去乱涂啦」\n跟着洛天依的歌声开启环球巡染，一起找回天依蓝，再给世界涂上依点颜色！\n——\n神明娘爆涂乱射副副副游《乱涂！彩世界》现已正式上线，染色爆屏，压力清零！洛天依联动同步开启！\n\n【Staff】\n作词：大九_LN\n作曲/编曲：石井伸昂\n吉他：奥山アキラ\n混音：北吉泰輔\n监制：河原嶺旭、李英姿\n制作：Kay Production\n调教：玖蝶",
+      "jump_url": "https://www.bilibili.com/video/BV1auojB6E2B",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/63e387eea606687025d3d8e7f879c9de1c59f588.jpg",
+      "cover_file": "../../_assets/covers/2026-04-28_1.jpg",
+      "bvid": "BV1auojB6E2B",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1auojB6E2B",
+        "aid": "116459699246912",
+        "cover": "http://i1.hdslb.com/bfs/archive/63e387eea606687025d3d8e7f879c9de1c59f588.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1auojB6E2B",
+        "stat": {
+          "danmaku": "699",
+          "play": "163.9万",
+          "vt": ""
+        },
+        "duration_text": "03:19",
+        "title": "《乱涂！彩世界》x洛天依 | 给世界依点颜色！",
+        "desc": "「失色的我肚子饿饿 我的餐盘缺少了太多配色」\n「咬一口神明香香的 吃饱去乱涂啦」\n跟着洛天依的歌声开启环球巡染，一起找回天依蓝，再给世界涂上依点颜色！\n——\n神明娘爆涂乱射副副副游《乱涂！彩世界》现已正式上线，染色爆屏，压力清零！洛天依联动同步开启！\n\n【Staff】\n作词：大九_LN\n作曲/编曲：石井伸昂\n吉他：奥山アキラ\n混音：北吉泰輔\n监制：河原嶺旭、李英姿\n制作：Kay Production\n调教：玖蝶",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "乱涂彩世界",
+      "desc": "",
+      "jump_url": "https://www.biligame.com/detail?id=114530&sourceFrom=1005&biz_scene=dynamic",
+      "cover_url": "https://i0.hdslb.com/bfs/game/2609dd78fae65c357aba5e68a2759c4301d264a9.jpg",
+      "cover_file": "../../_assets/covers/2026-04-28_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "进入",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "https://www.biligame.com/detail?id=114530&sourceFrom=1005&biz_scene=dynamic",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "sub_type": "game",
+        "head_text": "相关游戏",
+        "jump_url": "https://www.biligame.com/detail?id=114530&sourceFrom=1005&biz_scene=dynamic",
+        "id_str": "114530",
+        "cover": "https://i0.hdslb.com/bfs/game/2609dd78fae65c357aba5e68a2759c4301d264a9.jpg",
+        "style": 1,
+        "title": "乱涂彩世界",
+        "desc1": "卡牌/弹幕射击/解压",
+        "desc2": "首个主题赛季「海蓝狂欢节」6月9日冰爽来袭！"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 60870,
+    "comment": 9493,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

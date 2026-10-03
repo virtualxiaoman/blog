@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "581834954691030053",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/581834954691030053",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月15日",
+    "pub_ts": 1634307407,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“很久很久以前，巨龙忽然出现...…”\n看天依我这次换上全新装备，用音乐的力量击败巨龙！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“很久很久以前，巨龙忽然出现...…”\n看天依我这次换上全新装备，用音乐的力量击败巨龙！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】加速版达拉崩吧，拉开《2060》未来世界",
+      "desc": "“很久很久以前，巨龙忽然出现...…”\n看天依我这次换上全新装备，用音乐的力量击败巨龙！\n这首出自@ilem  老师的经典之作《达拉崩吧》，天依也曾在江苏卫视的跨年晚会上表演过，今晚想要通过不一样的演绎带给大家全新的体验，实在是很有压力呢！这次天依邀请了真正的“巨龙”演绎剧情，尝试融入了不同的风格转换效果，大家还喜欢吗？( ˃̶̤́ ꒳ ˂̶̤̀ )",
+      "jump_url": "https://www.bilibili.com/video/BV1uQ4y1z7ai",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/38e35aaee79e18744d0cddeff20d640fdc730505.jpg",
+      "cover_file": "../../_assets/covers/2021-10-15_1.jpg",
+      "bvid": "BV1uQ4y1z7ai",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1uQ4y1z7ai",
+        "aid": "721093382",
+        "cover": "http://i0.hdslb.com/bfs/archive/38e35aaee79e18744d0cddeff20d640fdc730505.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1uQ4y1z7ai",
+        "stat": {
+          "danmaku": "767",
+          "play": "31.4万",
+          "vt": ""
+        },
+        "duration_text": "03:52",
+        "title": "【洛天依】加速版达拉崩吧，拉开《2060》未来世界",
+        "desc": "“很久很久以前，巨龙忽然出现...…”\n看天依我这次换上全新装备，用音乐的力量击败巨龙！\n这首出自@ilem  老师的经典之作《达拉崩吧》，天依也曾在江苏卫视的跨年晚会上表演过，今晚想要通过不一样的演绎带给大家全新的体验，实在是很有压力呢！这次天依邀请了真正的“巨龙”演绎剧情，尝试融入了不同的风格转换效果，大家还喜欢吗？( ˃̶̤́ ꒳ ˂̶̤̀ )",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2060",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss39632",
+      "cover_url": "http://i0.hdslb.com/bfs/bangumi/image/5dc0866dc897618f01f5ca633c46570f4f3e75b5.png",
+      "cover_file": "../../_assets/covers/2021-10-15_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss39632",
+        "id_str": "721093382",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5dc0866dc897618f01f5ca633c46570f4f3e75b5.png",
+        "style": 2,
+        "title": "2060",
+        "desc1": "已完结, 全10集",
+        "desc2": "8.7万追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19959,
+    "comment": 1105,
+    "forward": 87
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:37:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

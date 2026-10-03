@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088711077864144916",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088711077864144916",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752323701,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "万千孤单焰火让这虚构灵魂鲜活 |《光与影的对白》洛天依十三周年生日会",
+      "desc": "无论岁月如何变迁，记忆如何褪色\n我都会将这份无需理由的热爱，唱予你。\n\n《光与影的对白》\n作曲：COP\n作词：COP\n编曲：大玉ProD\n调教：Creuzer\n原PV：BV1dZ4y1Y7bt",
+      "jump_url": "https://www.bilibili.com/video/BV1MCuuz7ENb",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/378beccf2be9f2266b236a642cbc48721ca163bd.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_15.jpg",
+      "bvid": "BV1MCuuz7ENb",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1MCuuz7ENb",
+        "aid": "114832426666845",
+        "cover": "http://i2.hdslb.com/bfs/archive/378beccf2be9f2266b236a642cbc48721ca163bd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1MCuuz7ENb",
+        "stat": {
+          "danmaku": "657",
+          "play": "129.5万",
+          "vt": ""
+        },
+        "duration_text": "04:01",
+        "title": "万千孤单焰火让这虚构灵魂鲜活 |《光与影的对白》洛天依十三周年生日会",
+        "desc": "无论岁月如何变迁，记忆如何褪色\n我都会将这份无需理由的热爱，唱予你。\n\n《光与影的对白》\n作曲：COP\n作词：COP\n编曲：大玉ProD\n调教：Creuzer\n原PV：BV1dZ4y1Y7bt",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 42091,
+    "comment": 1377,
+    "forward": 176
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

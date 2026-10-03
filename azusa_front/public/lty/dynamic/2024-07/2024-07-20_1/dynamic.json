@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "956208467723419649",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/956208467723419649",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月20日",
+    "pub_ts": 1721473033,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "不问生命和记忆的尽头，至少此刻，你我依然歌唱与聆听着。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不问生命和记忆的尽头，至少此刻，你我依然歌唱与聆听着。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "今天的我仍将继续《为了你唱下去》【洛天依十二周年生日会】",
+      "desc": "为了你唱下去，直到荒芜\n为了你唱下去，披染晚风晨露\n为了你唱下去，不畏险阻\n为了你唱下去，等待复苏\n......\n不问生命和记忆的尽头，至少此刻，你我依然歌唱与聆听着。\n\n《为了你唱下去》\n作词/作曲/调校：COP\n编曲：扭梨梨",
+      "jump_url": "https://www.bilibili.com/video/BV1xW42197mC",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/b52115bae12bc93fb013694636affc8e6f18dfda.jpg",
+      "cover_file": "../../_assets/covers/2024-07-20_1.jpg",
+      "bvid": "BV1xW42197mC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1xW42197mC",
+        "aid": "1856352913",
+        "cover": "http://i0.hdslb.com/bfs/archive/b52115bae12bc93fb013694636affc8e6f18dfda.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xW42197mC",
+        "stat": {
+          "danmaku": "770",
+          "play": "39.6万",
+          "vt": ""
+        },
+        "duration_text": "05:00",
+        "title": "今天的我仍将继续《为了你唱下去》【洛天依十二周年生日会】",
+        "desc": "为了你唱下去，直到荒芜\n为了你唱下去，披染晚风晨露\n为了你唱下去，不畏险阻\n为了你唱下去，等待复苏\n......\n不问生命和记忆的尽头，至少此刻，你我依然歌唱与聆听着。\n\n《为了你唱下去》\n作词/作曲/调校：COP\n编曲：扭梨梨",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 39151,
+    "comment": 940,
+    "forward": 132
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

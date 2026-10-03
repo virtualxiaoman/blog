@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1092404028147499014",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1092404028147499014",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月22日",
+    "pub_ts": 1753183533,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依✖️YOOOOSHOP官方授权主题系列快闪·成都站即将开启~[洛天依流光协奏_喜欢！]\n\n【翡同凡响 心音绽放】成都站快闪\n⏰ 时间：2025.7.25-2025.8.24\n📍 地址：成都天府红购物中心1F\n\n🌟 快闪周边情报\n洛天依无限共鸣·流光协奏演唱会·绿翡翠系列\n洛天依无限共鸣·流光协奏演唱会·流光协奏系列\n\n🎶 现场活动情报\n参与集章活动和购买周边金额达到指定门槛，即可获得对应天依周边\n*现场还有非遗漆扇DIY 特别活动\n\n💎活动现场特殊日期还有天依 coser 和人偶巡场活动\n详情小伙伴请戳长图查看哦！ [洛天依流光协奏_来财]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依✖️YOOOOSHOP官方授权主题系列快闪·成都站即将开启~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_喜欢！]",
+        "package_id": "8393",
+        "emoji_id": "115573",
+        "name": "喜欢！",
+        "url": "https://i0.hdslb.com/bfs/garb/c03dcdeb65dfadf4603f239df64825b5ae5fe7a5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【翡同凡响 心音绽放】成都站快闪\n⏰ 时间：2025.7.25-2025.8.24\n📍 地址：成都天府红购物中心1F\n\n🌟 快闪周边情报\n洛天依无限共鸣·流光协奏演唱会·绿翡翠系列\n洛天依无限共鸣·流光协奏演唱会·流光协奏系列\n\n🎶 现场活动情报\n参与集章活动和购买周边金额达到指定门槛，即可获得对应天依周边\n*现场还有非遗漆扇DIY 特别活动\n\n💎活动现场特殊日期还有天依 coser 和人偶巡场活动\n详情小伙伴请戳长图查看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_来财]",
+        "package_id": "8393",
+        "emoji_id": "115570",
+        "name": "来财",
+        "url": "https://i0.hdslb.com/bfs/garb/c1ad98d016bf169c75c317a9d49029d3072b7343.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b3ca19b4a65c2f847fa91d925495eb3f36081646.jpg",
+        "width": 4167,
+        "height": 20112,
+        "size_kb": 9609.4560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-22_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/60b1549d91ce580a8499f63368b283fc36081646.jpg",
+        "width": 4167,
+        "height": 21146,
+        "size_kb": 6948.43359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-22_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/598a158fff8a5814fe85ae0f9212b1cf36081646.jpg",
+        "width": 4167,
+        "height": 29531,
+        "size_kb": 10990.845703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/喜欢！.png",
+        "package_id": "8393",
+        "emoji_id": "115573",
+        "text": "[洛天依流光协奏_喜欢！]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/来财.png",
+        "package_id": "8393",
+        "emoji_id": "115570",
+        "text": "[洛天依流光协奏_来财]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6797,
+    "comment": 354,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

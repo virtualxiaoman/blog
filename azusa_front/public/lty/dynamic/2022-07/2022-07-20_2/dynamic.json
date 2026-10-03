@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "684987566749909010",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/684987566749909010",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月20日",
+    "pub_ts": 1658324496,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我在这里，因为你的呼唤而留下痕迹，我会一直在这里，即使有一天不再会被记起，今夜做个美梦吧[洛天依_晚安]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我在这里，因为你的呼唤而留下痕迹，我会一直在这里，即使有一天不再会被记起，今夜做个美梦吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_晚安]",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "name": "晚安",
+        "url": "http://i0.hdslb.com/bfs/emote/90d545932788169efa102df5bb23a6ef187d90d5.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/晚安.png",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "text": "[洛天依_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8465,
+    "comment": 135,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 681961792265519417,
+    "orig_mid": 1887958,
+    "deleted": false,
+    "archive_dir": "../../../1887958/2022-07/2022-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "712267098680721587",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/712267098680721587",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月2日",
+    "pub_ts": 1664676007,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "最帅气最可靠的龙牙哥@乐正龙牙生日快乐！[洛天依9th_生日快乐]  今天的庆生气氛组鼓手就由我担任好啦~[洛天依9th_社会] 额……虽然好像有点不太顺利......[洛天依_……] 咳咳，也算是继承到老师的精髓了嘛！ [洛天依_糟了]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最帅气最可靠的龙牙哥"
+      },
+      {
+        "type": "mention",
+        "text": "@乐正龙牙",
+        "mid": 406948857,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "生日快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_生日快乐]",
+        "package_id": "255",
+        "emoji_id": "4239",
+        "name": "生日快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/339f77a523e86bc17adc2b377125e45b51e0fc5c.png"
+      },
+      {
+        "type": "text",
+        "text": "  今天的庆生气氛组鼓手就由我担任好啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "text",
+        "text": " 额……虽然好像有点不太顺利......"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_……]",
+        "package_id": "340",
+        "emoji_id": "5568",
+        "name": "……",
+        "url": "http://i0.hdslb.com/bfs/emote/a9eba54c34cdc042d21e1960a317756ac4d65472.png"
+      },
+      {
+        "type": "text",
+        "text": " 咳咳，也算是继承到老师的精髓了嘛！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_糟了]",
+        "package_id": "340",
+        "emoji_id": "5580",
+        "name": "糟了",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4781a91a8385393b4f8a1f751ca207d0cfc94e.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-02_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f223936fb2f62ba785bbfa15442d960e36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 716.21484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/生日快乐.png",
+        "package_id": "255",
+        "emoji_id": "4239",
+        "text": "[洛天依9th_生日快乐]"
+      },
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      },
+      {
+        "file": "../../_assets/emojis/340/…….png",
+        "package_id": "340",
+        "emoji_id": "5568",
+        "text": "[洛天依_……]"
+      },
+      {
+        "file": "../../_assets/emojis/340/糟了.png",
+        "package_id": "340",
+        "emoji_id": "5580",
+        "text": "[洛天依_糟了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10817,
+    "comment": 304,
+    "forward": 89
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

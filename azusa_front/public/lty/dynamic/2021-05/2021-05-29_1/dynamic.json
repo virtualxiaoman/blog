@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "530126159789416680",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/530126159789416680",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月29日",
+    "pub_ts": 1622268015,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#很高兴这次又将在梅奔跟小伙伴们见面，也谢谢@-TID- 为我设计的礼服，新壁纸可以安排上了！ 距离#BML-VR2021#还有一个多月，最近都在认真练习呢~ 大家要不要猜猜天依这次会演出哪些歌曲呢？关注天依并转评你的答案，会从猜中其中一首的小伙伴里抽5位送出BML2021的立牌。 PS. 天依还准备了1份生日周边全家福大礼包给全猜对的小伙伴们抽奖，九周年会有一些大家提过的特别周边，敬请期待~\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "很高兴这次又将在梅奔跟小伙伴们见面，也谢谢"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为我设计的礼服，新壁纸可以安排上了！ 距离"
+      },
+      {
+        "type": "topic",
+        "text": "#BML-VR2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML-VR2021"
+      },
+      {
+        "type": "text",
+        "text": "还有一个多月，最近都在认真练习呢~ 大家要不要猜猜天依这次会演出哪些歌曲呢？关注天依并转评你的答案，会从猜中其中一首的小伙伴里抽5位送出BML2021的立牌。 PS. 天依还准备了1份生日周边全家福大礼包给全猜对的小伙伴们抽奖，九周年会有一些大家提过的特别周边，敬请期待~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-05-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2c38a3d87675034378da0f8c1a329a2592b19a23.jpg",
+        "width": 1339,
+        "height": 1080,
+        "size_kb": 658.92,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9828,
+    "comment": 1335,
+    "forward": 780
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:30:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

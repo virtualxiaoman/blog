@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "933125891862560770",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/933125891862560770",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月19日",
+    "pub_ts": 1716098702,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依X天羽川正版联名套装5月20日20点预售即将开启～\n🎁卷发关注天依，揪5位小伙伴送出【洛天依防晒服】1 份！\n\n🔹联名防晒服套装\n轻薄透气，沁凉一夏[古色花香洛天依_期待]\n🔹联名汉元素套装  ​​​\n天水之蓝，婉约清新[古色花香洛天依_撒花]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "298047",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依X天羽川正版联名套装5月20日20点预售即将开启～\n🎁卷发关注天依，揪5位小伙伴送出【洛天依防晒服】1 份！\n\n🔹联名防晒服套装\n轻薄透气，沁凉一夏"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹联名汉元素套装  ​​​\n天水之蓝，婉约清新"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_撒花]",
+        "package_id": "1096",
+        "emoji_id": "19443",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ba344fa47780d11bcf242fd85d5f896b98e19893.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8b2a28f685aa6be26a94f40669c0065636081646.jpg",
+        "width": 565,
+        "height": 799,
+        "size_kb": 293.498046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-05-19_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/12ba8028b785248ca37251a9022e8aab36081646.jpg",
+        "width": 564,
+        "height": 800,
+        "size_kb": 325.923828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/撒花.png",
+        "package_id": "1096",
+        "emoji_id": "19443",
+        "text": "[古色花香洛天依_撒花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "天羽川  洛天依联名 防晒服T恤短裤套装",
+            "price": "¥129",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/d3/4a/d87555df047fe560f54520e3934af07f.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=10372961&loadingShow=1&noTitleBar=1&msource=cps_Mdynamic_36081646_cont-2-933125891862560770&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-19_1.png"
+          },
+          {
+            "name": "天羽川 洛天依联名 汉元素改良马面裙套装",
+            "price": "¥149",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/e7/60/08a4892fa2f7762f7063d65e84c67bf0.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=10373020&loadingShow=1&noTitleBar=1&msource=cps_Mdynamic_36081646_cont-2-933125891862560770&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-19_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "298047"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7695,
+    "comment": 1830,
+    "forward": 12592
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

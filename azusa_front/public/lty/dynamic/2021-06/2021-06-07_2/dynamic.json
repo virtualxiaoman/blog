@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "533459011456110985",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/533459011456110985",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月7日",
+    "pub_ts": 1623044005,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #娜娜Alena# 天依认识了一位来自俄罗斯的新朋友！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#娜娜Alena#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A8%9C%E5%A8%9CAlena"
+      },
+      {
+        "type": "text",
+        "text": " 天依认识了一位来自俄罗斯的新朋友！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&娜娜Alena】出发向未来",
+      "desc": "《出发向未来》是由中央广播电视总台CGTN出品的“中俄科技创新年推广曲”。\n天依与俄罗斯虚拟明星娜娜Alena首度合作，带你游览中俄知名景点，体验中俄科技合作成果。\n这是天依首度献唱俄语歌曲，也是俄罗斯虚拟人物娜娜Alena在国内的首次公开亮相~",
+      "jump_url": "https://www.bilibili.com/video/BV1MK4y1373U",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/c93f93e904f564c124de839e23d0d4dc84cb73cf.jpg",
+      "cover_file": "../../_assets/covers/2021-06-07_1.jpg",
+      "bvid": "BV1MK4y1373U",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1MK4y1373U",
+        "aid": "888492446",
+        "cover": "http://i0.hdslb.com/bfs/archive/c93f93e904f564c124de839e23d0d4dc84cb73cf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1MK4y1373U",
+        "stat": {
+          "danmaku": "906",
+          "play": "24.9万",
+          "vt": ""
+        },
+        "duration_text": "03:43",
+        "title": "【洛天依&娜娜Alena】出发向未来",
+        "desc": "《出发向未来》是由中央广播电视总台CGTN出品的“中俄科技创新年推广曲”。\n天依与俄罗斯虚拟明星娜娜Alena首度合作，带你游览中俄知名景点，体验中俄科技合作成果。\n这是天依首度献唱俄语歌曲，也是俄罗斯虚拟人物娜娜Alena在国内的首次公开亮相~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28945,
+    "comment": 2161,
+    "forward": 372
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

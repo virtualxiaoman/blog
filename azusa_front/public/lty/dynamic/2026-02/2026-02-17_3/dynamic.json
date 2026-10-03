@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "1170361601595801637",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1170361601595801637",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月17日",
+    "pub_ts": 1771334445,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依乐鸣东方国风美学#\n天依将《乐鸣东方》的MV带到江苏卫视春晚的舞台上啦！[乐鸣东方动态表情包_对]\n五音共鸣，四海同频；山河无恙，国泰民安。愿这份穿越时空的共鸣，陪大家过一个温暖的年～[乐鸣东方动态表情包_开心]#江苏卫视春晚##春晚大赏#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依乐鸣东方国风美学#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%90%E9%B8%A3%E4%B8%9C%E6%96%B9%E5%9B%BD%E9%A3%8E%E7%BE%8E%E5%AD%A6"
+      },
+      {
+        "type": "text",
+        "text": "\n天依将《乐鸣东方》的MV带到江苏卫视春晚的舞台上啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_对]",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "name": "对",
+        "url": "https://i0.hdslb.com/bfs/garb/cb93227eef06eceb7960a0a5a43d061df8ec199a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n五音共鸣，四海同频；山河无恙，国泰民安。愿这份穿越时空的共鸣，陪大家过一个温暖的年～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "topic",
+        "text": "#江苏卫视春晚#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A"
+      },
+      {
+        "type": "topic",
+        "text": "#春晚大赏#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E5%A4%A7%E8%B5%8F"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/对.gif",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "text": "[乐鸣东方动态表情包_对]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "#洛天依乐鸣东方国风美学#天依将《乐鸣东方》的MV带到江苏卫视春晚的舞台上啦！[乐鸣东方动态表情包_对]五音共鸣，四海同频；山河无恙，国泰民安。愿这份穿越…",
+      "desc": "#洛天依乐鸣东方国风美学#\n天依将《乐鸣东方》的MV带到江苏卫视春晚的舞台上啦！[乐鸣东方动态表情包_对]\n五音共鸣，四海同频；山河无恙，国泰民安。愿这份穿越时空的共鸣，陪大家过一个温暖的年～[乐鸣东方动态表情包_开心]#江苏卫视春晚##春晚大赏#",
+      "jump_url": "https://www.bilibili.com/video/BV1Q4ZyBREhU",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b029642eb590ffcb41a0740fa674603235d3f6b8.jpg",
+      "cover_file": "../../_assets/covers/2026-02-17_1.jpg",
+      "bvid": "BV1Q4ZyBREhU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Q4ZyBREhU",
+        "aid": "116086154461328",
+        "cover": "http://i2.hdslb.com/bfs/archive/b029642eb590ffcb41a0740fa674603235d3f6b8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Q4ZyBREhU",
+        "stat": {
+          "danmaku": "166",
+          "play": "6.2万",
+          "vt": ""
+        },
+        "duration_text": "04:00",
+        "title": "#洛天依乐鸣东方国风美学#天依将《乐鸣东方》的MV带到江苏卫视春晚的舞台上啦！[乐鸣东方动态表情包_对]五音共鸣，四海同频；山河无恙，国泰民安。愿这份穿越…",
+        "desc": "#洛天依乐鸣东方国风美学#\n天依将《乐鸣东方》的MV带到江苏卫视春晚的舞台上啦！[乐鸣东方动态表情包_对]\n五音共鸣，四海同频；山河无恙，国泰民安。愿这份穿越时空的共鸣，陪大家过一个温暖的年～[乐鸣东方动态表情包_开心]#江苏卫视春晚##春晚大赏#",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17519,
+    "comment": 1262,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

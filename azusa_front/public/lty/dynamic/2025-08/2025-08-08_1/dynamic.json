@@ -1,0 +1,374 @@
+{
+  "schema_version": 1,
+  "id": "1098598938650345477",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1098598938650345477",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月8日",
+    "pub_ts": 1754625898,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依大型原创音乐征集活动「闪耀的Producer 」 \n最后一轮作品闪耀对决正式开启啦！[洛天依八音奇响动态_登场]\n✨主题页：网页链接 \n\n🎶打擂期：8月8日0点-8月14日24点 \n🎶参与打擂作品\n✨Kirakira组\n@MiDiCat_OvO 《傲娇少女日记》【洛天依原创】傲娇少女日记\n@雨天决行__ 《旋转》【洛天依原创/初投稿】旋转\n@突触连接 《心声》【洛天依原创】心声 —“于是我唱，因为你们而歌唱，共鸣着大家心中的回声”\n@Fujiyama_p 《photopsia star》【洛天依原创曲】photopsia star\n@硝酸生菜 《喧哗上等》【洛天依原创电子】喧哗上等\n@litterzy 《每天都要甜一点》【洛天依原创】每天都要甜一点\n\n✨Pikapika组\n@DELA_P 《梦·逐光》洛天依原创 梦·逐光\n@菊菊菊菊菊花猹 《小洛在漫长的唯一季节唱着你死时的歌》小洛在漫长的唯一季节唱着你死时的歌【洛天依原创】【洛天依十三周年】\n@小熠不是小姨 《致闪耀的你》【洛天依原创】致闪耀的你——感谢你让我看到，这样平凡的你，都心怀着如此耀眼的“爱”；更高更远处，一定有更美的存在\n@吾得猫宁 《泡沫过载》【初投稿/洛天依原创】˚₊ ♡‧₊泡沫过载* ♡‧₊˚\n@小绵羊magens 《限界Magic》限界Magic / 洛天依V4J【原创VOCALOID曲】\n@没有龟壳的乌龟 《桥说》【洛天依原创】桥说“小木船摇啊摇 摇过有你的地方”\n\n转眼就到最后一周的作品对决啦！优胜组和最终前六名的作品也将决出，大家有没有非常期待呀？[洛天依八音奇响动态_美丽]\n记得为你喜爱的作品投出一票哦！还有很多没有入围的作品也同样优秀，也请大家多多安利支持吧~ [洛天依八音奇响动态_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依大型原创音乐征集活动「闪耀的Producer 」 \n最后一轮作品闪耀对决正式开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n✨主题页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/Producer2025.html"
+      },
+      {
+        "type": "text",
+        "text": " \n\n🎶打擂期：8月8日0点-8月14日24点 \n🎶参与打擂作品\n✨Kirakira组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@MiDiCat_OvO",
+        "mid": 327742541,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《傲娇少女日记》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】傲娇少女日记",
+        "url": "https://www.bilibili.com/video/av114835278790890",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@雨天决行__",
+        "mid": 9155627,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《旋转》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创/初投稿】旋转",
+        "url": "https://www.bilibili.com/video/av114841570249533",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@突触连接",
+        "mid": 3546938190334658,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《心声》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】心声 —“于是我唱，因为你们而歌唱，共鸣着大家心中的回声”",
+        "url": "https://www.bilibili.com/video/av114856619417090",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@Fujiyama_p",
+        "mid": 3493136523332350,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《photopsia star》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】photopsia star",
+        "url": "https://www.bilibili.com/video/av114864035012416",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@硝酸生菜",
+        "mid": 14491328,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《喧哗上等》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创电子】喧哗上等",
+        "url": "https://www.bilibili.com/video/av114873447092098",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@litterzy",
+        "mid": 43855,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《每天都要甜一点》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】每天都要甜一点",
+        "url": "https://www.bilibili.com/video/av114885442671736",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n✨Pikapika组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@DELA_P",
+        "mid": 358606,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《梦·逐光》"
+      },
+      {
+        "type": "video",
+        "text": "洛天依原创 梦·逐光",
+        "url": "https://www.bilibili.com/video/av114839238217160",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@菊菊菊菊菊花猹",
+        "mid": 11491502,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《小洛在漫长的唯一季节唱着你死时的歌》"
+      },
+      {
+        "type": "video",
+        "text": "小洛在漫长的唯一季节唱着你死时的歌【洛天依原创】【洛天依十三周年】",
+        "url": "https://www.bilibili.com/video/av114835513739460",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@小熠不是小姨",
+        "mid": 22873623,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《致闪耀的你》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】致闪耀的你——感谢你让我看到，这样平凡的你，都心怀着如此耀眼的“爱”；更高更远处，一定有更美的存在",
+        "url": "https://www.bilibili.com/video/av114846385310499",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@吾得猫宁",
+        "mid": 3537112571841077,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《泡沫过载》"
+      },
+      {
+        "type": "video",
+        "text": "【初投稿/洛天依原创】˚₊ ♡‧₊泡沫过载* ♡‧₊˚",
+        "url": "https://www.bilibili.com/video/av114857240173750",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@小绵羊magens",
+        "mid": 200066507,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《限界Magic》"
+      },
+      {
+        "type": "video",
+        "text": "限界Magic / 洛天依V4J【原创VOCALOID曲】",
+        "url": "https://www.bilibili.com/video/av114867205835309",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@没有龟壳的乌龟",
+        "mid": 890489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《桥说》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】桥说“小木船摇啊摇 摇过有你的地方”",
+        "url": "https://www.bilibili.com/video/av114882657656564",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n转眼就到最后一周的作品对决啦！优胜组和最终前六名的作品也将决出，大家有没有非常期待呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n记得为你喜爱的作品投出一票哦！还有很多没有入围的作品也同样优秀，也请大家多多安利支持吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_赞]",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/311e217d343d1eb6a2330fe39518904106796890.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f8595866704fd9eea540a3af7bd16a6536081646.png",
+        "width": 1600,
+        "height": 6059,
+        "size_kb": 11141.4169921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/赞.gif",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "text": "[洛天依八音奇响动态_赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4506,
+    "comment": 1121,
+    "forward": 62
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

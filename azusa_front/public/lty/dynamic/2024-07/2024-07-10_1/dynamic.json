@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "952392853130051584",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952392853130051584",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月10日",
+    "pub_ts": 1720584641,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "🔹洛天依十二周年X支付宝 全新动态主题套装上线啦！🔹\n转发关注天依，揪3位小伙伴送出【洛天依款桌垫】1份~\n\n🔹两套动态主题\n-共鸣之夜\n-以无限爱意奔向你\n\n🔹套装包含\n-动态主题\n-付款码动效\n-独家语音红包\n\n🔹获取方式\n-支付宝APP搜索洛天依\n-右下方我的-支付宝会员频道-IP潮玩馆-洛天依皮肤活动\n\n生活中的每时每刻，就让天依和支付宝与你相伴前行~ [代号洛天依_比心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🔹洛天依十二周年X支付宝 全新动态主题套装上线啦！🔹\n转发关注天依，揪3位小伙伴送出【洛天依款桌垫】1份~\n\n🔹两套动态主题\n-共鸣之夜\n-以无限爱意奔向你\n\n🔹套装包含\n-动态主题\n-付款码动效\n-独家语音红包\n\n🔹获取方式\n-支付宝APP搜索洛天依\n-右下方我的-支付宝会员频道-IP潮玩馆-洛天依皮肤活动\n\n生活中的每时每刻，就让天依和支付宝与你相伴前行~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a145ab766cfc79bcbb7bfc0f038dd47736081646.jpg",
+        "width": 750,
+        "height": 3791,
+        "size_kb": 1386.16015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5624,
+    "comment": 1623,
+    "forward": 2935
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

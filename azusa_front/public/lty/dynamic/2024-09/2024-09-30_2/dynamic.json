@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "982921824275791874",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/982921824275791874",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月30日",
+    "pub_ts": 1727692721,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "系列新品上架！快来看看有没有你喜欢的吧~[歌行宇宙表情包_mua]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "系列新品上架！快来看看有没有你喜欢的吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3590,
+    "comment": 94,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 982803283176325136,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2024-09/2024-09-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:20:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

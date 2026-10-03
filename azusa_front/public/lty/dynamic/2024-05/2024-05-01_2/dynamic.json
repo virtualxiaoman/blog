@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "926565007164964896",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/926565007164964896",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月1日",
+    "pub_ts": 1714571127,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "晚上好呀！五一快乐～假期的第一天，大家都是怎样度过的呢？[代号洛天依_好奇]\n是奔波在回家的路上、出发去旅行、还是好好休息了一天呢？天依希望你可以度过一个快乐的假期！[代号洛天依_好好7]\n早点休息吧～有任何事情，有任何心情，都可以随时分享给天依哦，我一直一直在听着呢[代号洛天依_乖巧]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "晚上好呀！五一快乐～假期的第一天，大家都是怎样度过的呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好奇]",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "name": "好奇",
+        "url": "https://i0.hdslb.com/bfs/emote/80da8619e3ccf95d4129a06099d592fca5fa49fe.png"
+      },
+      {
+        "type": "text",
+        "text": "\n是奔波在回家的路上、出发去旅行、还是好好休息了一天呢？天依希望你可以度过一个快乐的假期！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n早点休息吧～有任何事情，有任何心情，都可以随时分享给天依哦，我一直一直在听着呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_乖巧]",
+        "package_id": "1842",
+        "emoji_id": "32134",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/emote/0a8923fdeb32995953402c97450dd091e6a94bd2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-01_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/51c6e28c6498759229981b6d952215b636081646.png",
+        "width": 3741,
+        "height": 2110,
+        "size_kb": 7097.759765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好奇.png",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "text": "[代号洛天依_好奇]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/乖巧.png",
+        "package_id": "1842",
+        "emoji_id": "32134",
+        "text": "[代号洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7786,
+    "comment": 583,
+    "forward": 134
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

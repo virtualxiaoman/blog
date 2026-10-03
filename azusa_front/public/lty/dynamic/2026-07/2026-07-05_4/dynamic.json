@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "1221554167213981696",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1221554167213981696",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月5日",
+    "pub_ts": 1783253643,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n洛天依十四周年x南宁交投主题游船\n全国首艘洛天依痛船「洛神号」即将起航！[洛天依拜年纪表情包_起航]\n\n⛴️首轮起航时间&地点\n7月12日19:12 广西南宁市西乡塘区民生旅游码头「洛神号」登船点\n\n⛴️船票开售时间&购票平台\n7月6日12:00  邕江夜游小程序\n\n⛴️起航日特别活动&随票特典\n✨洛天依Coser巡游、打卡互动送周边\n✨随票赠联动特别透卡、镭射票1份\n\n关于游览路线、游船装潢等信息，大家请戳长图查看。\n夏夜漫漫，和天依一起乘着夜风，共赏良辰美景吧~[洛天依拜年纪表情包_喜欢]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依十四周年x南宁交投主题游船\n全国首艘洛天依痛船「洛神号」即将起航！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_起航]",
+        "package_id": "9452",
+        "emoji_id": "132904",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/garb/3447486e01e7684105a74fc52a4cb8708ccee98c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⛴️首轮起航时间&地点\n7月12日19:12 广西南宁市西乡塘区民生旅游码头「洛神号」登船点\n\n⛴️船票开售时间&购票平台\n7月6日12:00  邕江夜游小程序\n\n⛴️起航日特别活动&随票特典\n✨洛天依Coser巡游、打卡互动送周边\n✨随票赠联动特别透卡、镭射票1份\n\n关于游览路线、游船装潢等信息，大家请戳长图查看。\n夏夜漫漫，和天依一起乘着夜风，共赏良辰美景吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_喜欢]",
+        "package_id": "9452",
+        "emoji_id": "132905",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/52d0f99fda9b5251e6f38394623e398e77f3266a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-05_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0b0321c1d57cebbeea862da5da29dd0f36081646.png",
+        "width": 4000,
+        "height": 2250,
+        "size_kb": 16366.7197265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-05_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a742fdae37f2fdb9955101a08e24f52736081646.jpg",
+        "width": 1517,
+        "height": 26550,
+        "size_kb": 14991.400390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9452/起航.png",
+        "package_id": "9452",
+        "emoji_id": "132904",
+        "text": "[洛天依拜年纪表情包_起航]"
+      },
+      {
+        "file": "../../_assets/emojis/9452/喜欢.png",
+        "package_id": "9452",
+        "emoji_id": "132905",
+        "text": "[洛天依拜年纪表情包_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6279,
+    "comment": 470,
+    "forward": 200
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:27:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

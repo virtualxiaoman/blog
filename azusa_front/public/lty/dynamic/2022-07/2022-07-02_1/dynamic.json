@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "678083947778801666",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/678083947778801666",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月2日",
+    "pub_ts": 1656717122,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@凌憐LingLian @琪亚娜丿 @紫水晶天使 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@凌憐LingLian",
+        "mid": 162966709,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@琪亚娜丿",
+        "mid": 359374419,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@紫水晶天使",
+        "mid": 11425133,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4998,
+    "comment": 101,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 644768431942402054,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2022-04/2022-04-03_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:48:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

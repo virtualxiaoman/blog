@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "969205399552000000",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/969205399552000000",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月24日",
+    "pub_ts": 1724499117,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的共鸣者们，洛天依无限共鸣全息演唱会即将于今晚20:00开启第一轮售票啦，大家都准备好了嘛[心律共鸣动态表情包_可爱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的共鸣者们，洛天依无限共鸣全息演唱会即将于今晚20:00开启第一轮售票啦，大家都准备好了嘛"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_可爱]",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/emote/ba9712392f36dd43fbb75434cb5d1df5f275bee8.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/可爱.gif",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "text": "[心律共鸣动态表情包_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3518,
+    "comment": 278,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 968781413222449155,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-08-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

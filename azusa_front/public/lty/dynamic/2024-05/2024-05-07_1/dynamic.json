@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "928745222753484848",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/928745222753484848",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月7日",
+    "pub_ts": 1715078748,
+    "location": ""
+  },
+  "topic": {
+    "id": 1181887,
+    "name": "天依的∞音盒",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1181887&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E2%88%9E%E9%9F%B3%E7%9B%92"
+  },
+  "content": {
+    "title": "",
+    "text": "天依还为大家准备了《化作繁星》舞台版歌词海报哦！\n大家最喜欢舞台里的哪个画面呢？分享给天依吧~[洛天依蝶变_星星眼]\n“愿化作点点繁星拥抱你”洛天依《化作繁星》【冰火歌会2024远航季】 \n\n去拾起回忆里的音符，再一次歌唱吧，再一次舞蹈吧——\n作为《∞音盒——回望经典》的第一站，圆满结束啦~再次感谢所有staff老师的支持。\n第二站时刻准备发车——大家还希望哪些歌曲可以被拾起，欢迎在评论区提名哦！ [洛天依蝶变_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依还为大家准备了《化作繁星》舞台版歌词海报哦！\n大家最喜欢舞台里的哪个画面呢？分享给天依吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "video",
+        "text": "“愿化作点点繁星拥抱你”洛天依《化作繁星》【冰火歌会2024远航季】",
+        "url": "https://www.bilibili.com/video/av1853868568",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " \n\n去拾起回忆里的音符，再一次歌唱吧，再一次舞蹈吧——\n作为《∞音盒——回望经典》的第一站，圆满结束啦~再次感谢所有staff老师的支持。\n第二站时刻准备发车——大家还希望哪些歌曲可以被拾起，欢迎在评论区提名哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-07_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/706cc71c7c5d0d2f89f2b7eecd94407536081646.png",
+        "width": 1920,
+        "height": 1023,
+        "size_kb": 4425.1279296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-05-07_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d0a5e435c61b47976fa50b61d0107a6936081646.png",
+        "width": 1920,
+        "height": 1023,
+        "size_kb": 2253.22265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-05-07_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f61baec1d251e509ae478f107b297aac36081646.png",
+        "width": 1920,
+        "height": 1023,
+        "size_kb": 4395.58984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-05-07_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7c3791d03ff3ab7cb0f875a7a8c497ed36081646.png",
+        "width": 1920,
+        "height": 1023,
+        "size_kb": 4599.896484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5798,
+    "comment": 309,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

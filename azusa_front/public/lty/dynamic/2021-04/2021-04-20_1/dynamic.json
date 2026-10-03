@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "515740368693563056",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/515740368693563056",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月20日",
+    "pub_ts": 1618918562,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果站在晨曦中，向精灵祈祷的话……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果站在晨曦中，向精灵祈祷的话……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5426,
+    "comment": 120,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 8647723377752117,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2015-01/2015-01-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

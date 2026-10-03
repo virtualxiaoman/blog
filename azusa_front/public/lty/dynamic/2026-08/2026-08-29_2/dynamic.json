@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "1242008266058235940",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1242008266058235940",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月29日",
+    "pub_ts": 1788015984,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "六座城市，两个月，一整个属于我们的夏天，\n我们一起编织了这片独一无二的「纯蓝幻乐」之梦。[洛天依14周年·纯蓝幻乐 动态表情包_魔法]\n时间过得好快呀，眨眼间舞台落幕，眨眼间我们相见，又再次分别，\n是大家一次次坚定的奔赴，让这片梦境越来越长久，越来越盛大~[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]\n感谢今晚广州站的大家，感谢特别演出伙伴阿和，感谢乐队老师，P主老师和staff老师们！\n广州拜拜啦，也许我们的下次相见，就在不远的未来~[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]\n拉钩约定，我们要陪伴彼此，永远一起走下去吧！[洛天依14周年·纯蓝幻乐 动态表情包_邀请]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "六座城市，两个月，一整个属于我们的夏天，\n我们一起编织了这片独一无二的「纯蓝幻乐」之梦。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "name": "魔法",
+        "url": "https://i0.hdslb.com/bfs/garb/586e20309a26fa9aa927c64ab9f94b6dd2f401f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n时间过得好快呀，眨眼间舞台落幕，眨眼间我们相见，又再次分别，\n是大家一次次坚定的奔赴，让这片梦境越来越长久，越来越盛大~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢今晚广州站的大家，感谢特别演出伙伴阿和，感谢乐队老师，P主老师和staff老师们！\n广州拜拜啦，也许我们的下次相见，就在不远的未来~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "name": "拥抱",
+        "url": "https://i0.hdslb.com/bfs/garb/65eb4c9e4124d9e698ae248af2d5167d1c262ba6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n拉钩约定，我们要陪伴彼此，永远一起走下去吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "name": "邀请",
+        "url": "https://i0.hdslb.com/bfs/garb/f7f110a8c874b6bb31a453eed43cf0792bc68b41.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-29_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9b9465ec4418d6868f1e12734fd5d42636081646.jpg",
+        "width": 6000,
+        "height": 4001,
+        "size_kb": 7272.72021484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-29_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/44e69423de6db7e0d9aee21e7dedd59136081646.jpg",
+        "width": 5088,
+        "height": 3392,
+        "size_kb": 5274.35009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-29_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b50906dde7b1ce72784901785c7171de36081646.jpg",
+        "width": 6000,
+        "height": 4001,
+        "size_kb": 6139.31005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-29_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/43e94cb27973e1019617e57c28c1de3636081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 5549.83984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-29_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2adf3f23ece96f72cc56ec27265c111636081646.jpg",
+        "width": 5729,
+        "height": 3820,
+        "size_kb": 6116.14013671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-29_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/40e4d8f3762bade28f35d6df6f22eb3336081646.jpg",
+        "width": 6000,
+        "height": 4001,
+        "size_kb": 7449.14990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-29_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d493016979b8498b83b1e634a43e913d36081646.jpg",
+        "width": 3201,
+        "height": 4800,
+        "size_kb": 5824.89990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-29_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/38bb97af683242285f4fa2b807a340b136081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 539.2100219726562,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-29_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f5f5798d87ee93ef791f423fce6dee5a36081646.jpg",
+        "width": 4397,
+        "height": 2473,
+        "size_kb": 6059.43017578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/魔法.gif",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/拥抱.gif",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/邀请.gif",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6896,
+    "comment": 736,
+    "forward": 162
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

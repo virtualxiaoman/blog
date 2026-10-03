@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "688938197687730195",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/688938197687730195",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月31日",
+    "pub_ts": 1659244324,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小伙伴们，快来看看天依《自在星空》MV吧！让我们一起进入浩瀚奇妙的多彩星空，每个人都好似星空中的独特星球，用自己的方式发光发热，愿这首歌能带给你“我有我样，自成一派“的力量，尽情享受自由自在的数字嘉年华！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小伙伴们，快来看看天依《自在星空》MV吧！让我们一起进入浩瀚奇妙的多彩星空，每个人都好似星空中的独特星球，用自己的方式发光发热，愿这首歌能带给你“我有我样，自成一派“的力量，尽情享受自由自在的数字嘉年华！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6982,
+    "comment": 152,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 688928413735452678,
+    "orig_mid": 85682906,
+    "deleted": false,
+    "archive_dir": "../../../85682906/2022-07/2022-07-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

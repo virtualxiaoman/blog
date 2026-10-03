@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1186270147599400967",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1186270147599400967",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月1日",
+    "pub_ts": 1775038442,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「琵琶」主题单曲《煌》4月3日即将拨弦\n天依和琵琶的游学特别短片也将于明日解锁[洛天依国乐季动态表情包_祈祷]\n\n“西域鎏金万里，我回望绿洲寻你声音。”\n大漠风沙漫卷处，古迹与壁画静默伫立——\n行旅叩问时间的回音，让沉睡的色彩与乐声，在此刻再度明亮。[洛天依国乐季动态表情包_嘿嘿]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「琵琶」主题单曲《煌》4月3日即将拨弦\n天依和琵琶的游学特别短片也将于明日解锁"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_祈祷]",
+        "package_id": "9546",
+        "emoji_id": "134447",
+        "name": "祈祷",
+        "url": "https://i0.hdslb.com/bfs/garb/fb3ee5eeef2166b23e10e63576d6433d9378818d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“西域鎏金万里，我回望绿洲寻你声音。”\n大漠风沙漫卷处，古迹与壁画静默伫立——\n行旅叩问时间的回音，让沉睡的色彩与乐声，在此刻再度明亮。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_嘿嘿]",
+        "package_id": "9546",
+        "emoji_id": "134441",
+        "name": "嘿嘿",
+        "url": "https://i0.hdslb.com/bfs/garb/2f0f3494655de964a7816fca9f4027270dfb259a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-01_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5b05ed8a4cc362a1a982a593c7dd50b436081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 3249.550048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-04-01_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/be6de332b93e44e7ae211cfbee213c9636081646.jpg",
+        "width": 2500,
+        "height": 10636,
+        "size_kb": 3460.199951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/祈祷.gif",
+        "package_id": "9546",
+        "emoji_id": "134447",
+        "text": "[洛天依国乐季动态表情包_祈祷]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/嘿嘿.gif",
+        "package_id": "9546",
+        "emoji_id": "134441",
+        "text": "[洛天依国乐季动态表情包_嘿嘿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6654,
+    "comment": 313,
+    "forward": 92
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

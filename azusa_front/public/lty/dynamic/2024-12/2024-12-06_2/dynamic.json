@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1007784513784250373",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1007784513784250373",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月6日",
+    "pub_ts": 1733481517,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "【洛天依X猫噜噜萌物社】V4公式服首款可动LuLu体长腿娃娃来啦~\n\n❀新增可随意扭动的骨架结构\n❀服装支持自由拆卸\n\n产品售价：预售149元；现货169元\n开售时间：2024年12月7日12:00\n出荷时间：2024年3月\n入手方式：bilibili会员购、TB“Vsinger旗舰店”、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n\n产品监修中，小伙伴们以实物为准哦。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依X猫噜噜萌物社】V4公式服首款可动LuLu体长腿娃娃来啦~\n\n❀新增可随意扭动的骨架结构\n❀服装支持自由拆卸\n\n产品售价：预售149元；现货169元\n开售时间：2024年12月7日12:00\n出荷时间：2024年3月\n入手方式：bilibili会员购、TB“Vsinger旗舰店”、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n\n产品监修中，小伙伴们以实物为准哦。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X猫噜噜萌物社】V4公式服首款可动LuLu体长腿娃娃来啦~",
+      "desc": "【洛天依X猫噜噜萌物社】V4公式服首款可动LuLu体长腿娃娃来啦~\n\n❀新增可随意扭动的骨架结构\n❀服装支持自由拆卸\n\n产品售价：预售149元；现货169元\n开售时间：2024年12月7日12:00\n出荷时间：2025年3月\n入手方式：bilibili会员购、TB“Vsinger旗舰店”、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n会员购传送门：https://mall.bilibili.com/detail.html?from=mall_home_search&hasBack=false&items",
+      "jump_url": "https://www.bilibili.com/video/BV1daiBYwEjg",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/fa8c05ad4de6a8d876e52e7a9d341b4700fd36ab.png",
+      "cover_file": "../../_assets/covers/2024-12-06_1.png",
+      "bvid": "BV1daiBYwEjg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1daiBYwEjg",
+        "aid": "113605424972729",
+        "cover": "http://i2.hdslb.com/bfs/archive/fa8c05ad4de6a8d876e52e7a9d341b4700fd36ab.png",
+        "jump_url": "//www.bilibili.com/video/BV1daiBYwEjg",
+        "stat": {
+          "danmaku": "13",
+          "play": "2.2万",
+          "vt": ""
+        },
+        "duration_text": "00:18",
+        "title": "【洛天依X猫噜噜萌物社】V4公式服首款可动LuLu体长腿娃娃来啦~",
+        "desc": "【洛天依X猫噜噜萌物社】V4公式服首款可动LuLu体长腿娃娃来啦~\n\n❀新增可随意扭动的骨架结构\n❀服装支持自由拆卸\n\n产品售价：预售149元；现货169元\n开售时间：2024年12月7日12:00\n出荷时间：2025年3月\n入手方式：bilibili会员购、TB“Vsinger旗舰店”、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n会员购传送门：https://mall.bilibili.com/detail.html?from=mall_home_search&hasBack=false&items",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6128,
+    "comment": 441,
+    "forward": 3584
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

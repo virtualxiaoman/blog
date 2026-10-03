@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "517963654221219704",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/517963654221219704",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月26日",
+    "pub_ts": 1619436211,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "过尽千帆皆不是",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "过尽千帆皆不是"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4967,
+    "comment": 97,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 517184525675294361,
+    "orig_mid": 280951293,
+    "deleted": false,
+    "archive_dir": "../../../280951293/2021-04/2021-04-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

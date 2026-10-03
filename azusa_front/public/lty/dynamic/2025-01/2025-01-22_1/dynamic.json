@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1025122901626454055",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1025122901626454055",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月22日",
+    "pub_ts": 1737518425,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "写够今生孤独自在，星鬓斑斑。徐霞客新歌《云山尽处》上线！通过音乐，和徐霞客一起奔赴人生的旷野吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "写够今生孤独自在，星鬓斑斑。徐霞客新歌《云山尽处》上线！通过音乐，和徐霞客一起奔赴人生的旷野吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【忘川风华录·徐霞客】云山尽处【洛天依原创】 “且随我奔岳立海 风骨亭亭，歧路不拘行”",
+      "desc": "演唱：洛天依 | 调校：瑞安Ryan\n作词：慕清明 | 作曲:  纯白\n编曲：Mzf小慕 | 制作人：酷丘 \n吉他：大牛 | 二胡：二胡妹\n和声编写：沈雾敛 | 混音：李欣懋（Wuli包子）\n曲绘：绘了个弦、有财、篮子\nPV：顺其自然\n\n前作助攻【承天】BV1a4ySYyEZo【思华年】BV1jZ421K79Y【拜云台】BV1Kr421w7H5【燕双归】BV1A142167ri【墨隐侠声】BV1oJ4m147eN【旷古回响】BV1wH4y1m7Pc【人间应又雪】BV1ne411R7kb【起战令】BV1fg",
+      "jump_url": "https://www.bilibili.com/video/BV1Y5wae6EEb",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/325560bb54b13ff89403ef03ba2308ef4543c52f.jpg",
+      "cover_file": "../../_assets/covers/2025-01-22_1.jpg",
+      "bvid": "BV1Y5wae6EEb",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Y5wae6EEb",
+        "aid": "113866864336851",
+        "cover": "http://i1.hdslb.com/bfs/archive/325560bb54b13ff89403ef03ba2308ef4543c52f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Y5wae6EEb",
+        "stat": {
+          "danmaku": "1.2万",
+          "play": "264.4万",
+          "vt": ""
+        },
+        "duration_text": "03:47",
+        "title": "【忘川风华录·徐霞客】云山尽处【洛天依原创】 “且随我奔岳立海 风骨亭亭，歧路不拘行”",
+        "desc": "演唱：洛天依 | 调校：瑞安Ryan\n作词：慕清明 | 作曲:  纯白\n编曲：Mzf小慕 | 制作人：酷丘 \n吉他：大牛 | 二胡：二胡妹\n和声编写：沈雾敛 | 混音：李欣懋（Wuli包子）\n曲绘：绘了个弦、有财、篮子\nPV：顺其自然\n\n前作助攻【承天】BV1a4ySYyEZo【思华年】BV1jZ421K79Y【拜云台】BV1Kr421w7H5【燕双归】BV1A142167ri【墨隐侠声】BV1oJ4m147eN【旷古回响】BV1wH4y1m7Pc【人间应又雪】BV1ne411R7kb【起战令】BV1fg",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 98127,
+    "comment": 8729,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

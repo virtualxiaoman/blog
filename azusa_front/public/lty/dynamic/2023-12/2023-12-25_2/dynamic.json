@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "879061071141273616",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/879061071141273616",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月25日",
+    "pub_ts": 1703510755,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 #洛天依# \r\n转发并关注，揪一位小伙伴赠出新品set【徽章拍立得色纸】1份。\r\n节日钟声响起，少女轻轻吟唱，赐下爱与希望的祝福。[洛天依_许愿]\r\n\r\n【Vsinger 洛天依 圣诞唱诗班 系列】\r\n徽章\r\n拍立得\r\n流沙麻将\r\n色纸\r\n挂画\r\n\r\n出品：@BoomComic \n原画：苏安Lily\r\n传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "249617",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \r\n转发并关注，揪一位小伙伴赠出新品set【徽章拍立得色纸】1份。\r\n节日钟声响起，少女轻轻吟唱，赐下爱与希望的祝福。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      },
+      {
+        "type": "text",
+        "text": "\r\n\r\n【Vsinger 洛天依 圣诞唱诗班 系列】\r\n徽章\r\n拍立得\r\n流沙麻将\r\n色纸\r\n挂画\r\n\r\n出品："
+      },
+      {
+        "type": "mention",
+        "text": "@BoomComic ",
+        "mid": 472780637,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n原画：苏安Lily\r\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/1fwCNXO"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-25_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/3b40508c9436a4624eb9ec902a27e91736081646.jpg",
+        "width": 790,
+        "height": 5789,
+        "size_kb": 4136.4599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "暴蒙 Vsinger 洛天依圣诞唱诗班系列",
+            "price": "¥10",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/c9/52/c95297694a7e955118eac5ab5a3d59aa.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10210138&msource=cps_Mdynamic_36081646_cont-2-879061071141273616&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-25_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "249617"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6914,
+    "comment": 645,
+    "forward": 5886
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

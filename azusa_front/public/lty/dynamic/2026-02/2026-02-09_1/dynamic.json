@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1167285189522489380",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1167285189522489380",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月9日",
+    "pub_ts": 1770618162,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "马年行大运，来许个愿吧～",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "马年行大运，来许个愿吧～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】春风得意马蹄疾【2026虚拟歌手贺岁纪单品】",
+      "desc": "会有日，春风马蹄疾～\n\n作曲：@YK_Lin /Soda纯白\n编曲：@YK_Lin \n作词：@举烛 \n混音：Soda纯白\n调校：@奶油味儿的蘑菇w \n曲绘：@今天吃盐焗星球 @是咩羊哦 \nPV：@企鹅没有角 \n监制：@特瑞嗷 \n特别感谢：@桐叶_tongye",
+      "jump_url": "https://www.bilibili.com/video/BV1VZFrzREPV",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5a5e6bd31eb5046c679ab12eb8eb9727ebf731ea.jpg",
+      "cover_file": "../../_assets/covers/2026-02-09_1.jpg",
+      "bvid": "BV1VZFrzREPV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1VZFrzREPV",
+        "aid": "116022317227850",
+        "cover": "http://i1.hdslb.com/bfs/archive/5a5e6bd31eb5046c679ab12eb8eb9727ebf731ea.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1VZFrzREPV",
+        "stat": {
+          "danmaku": "736",
+          "play": "25.3万",
+          "vt": ""
+        },
+        "duration_text": "03:47",
+        "title": "【洛天依原创曲】春风得意马蹄疾【2026虚拟歌手贺岁纪单品】",
+        "desc": "会有日，春风马蹄疾～\n\n作曲：@YK_Lin /Soda纯白\n编曲：@YK_Lin \n作词：@举烛 \n混音：Soda纯白\n调校：@奶油味儿的蘑菇w \n曲绘：@今天吃盐焗星球 @是咩羊哦 \nPV：@企鹅没有角 \n监制：@特瑞嗷 \n特别感谢：@桐叶_tongye ",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 39510,
+    "comment": 848,
+    "forward": 34
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

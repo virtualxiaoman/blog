@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "339435169534724696",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/339435169534724696",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月1日",
+    "pub_ts": 1577869309,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "万众齐心，青春华芳！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "万众齐心，青春华芳！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5541,
+    "comment": 130,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 339326751673610755,
+    "orig_mid": 20165629,
+    "deleted": false,
+    "archive_dir": "../../../20165629/2020-01/2020-01-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

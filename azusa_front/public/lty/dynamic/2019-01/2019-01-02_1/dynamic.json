@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "204280584608302060",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/204280584608302060",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年1月2日",
+    "pub_ts": 1546401180,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2018年12月31日，天依与薛之谦老师在江苏卫视跨年晚会上一起同台演出了《达拉崩吧》！\n大家有被可爱的薛之谦老师、可爱的天依和两只可爱的“巨龙”萌到吗？\n看我们的演出收获四倍的可爱和快乐！笔芯～\n\n《达拉崩吧》\n原词｜作曲｜调校：ilem\n本家：洛天依，言和 原创《达拉崩吧》原唱：洛天依 言和\n歌词改编：薛之谦\n演唱：薛之谦 洛天依\n人设：TID",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2018年12月31日，天依与薛之谦老师在江苏卫视跨年晚会上一起同台演出了《达拉崩吧》！\n大家有被可爱的薛之谦老师、可爱的天依和两只可爱的“巨龙”萌到吗？\n看我们的演出收获四倍的可爱和快乐！笔芯～\n\n《达拉崩吧》\n原词｜作曲｜调校：ilem\n本家："
+      },
+      {
+        "type": "video",
+        "text": "洛天依，言和 原创《达拉崩吧》",
+        "url": "https://www.bilibili.com/video/av9372087",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "原唱：洛天依 言和\n歌词改编：薛之谦\n演唱：薛之谦 洛天依\n人设：TID"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依|薛之谦】江苏卫视2019跨年演唱会《达拉崩吧》",
+      "desc": "2018年12月31日，天依与薛之谦老师在江苏卫视跨年晚会上一起同台演出了《达拉崩吧》！\n大家有被可爱的薛之谦老师、可爱的天依和两只可爱的“巨龙”萌到吗？\n看我们的演出收获四倍的可爱和快乐！笔芯～\n\n《达拉崩吧》\n原词｜作曲｜调校：ilem\n本家：av9372087\n原唱：洛天依 言和\n歌词改编：薛之谦\n演唱：薛之谦 洛天依\n人设：TID",
+      "jump_url": "https://www.bilibili.com/video/BV1Rt411B7z1",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/e42a31dc6625c4dcf2292ac9e5937098d4a0ff59.jpg",
+      "cover_file": "../../_assets/covers/2019-01-02_1.jpg",
+      "bvid": "BV1Rt411B7z1",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Rt411B7z1",
+        "aid": "39718511",
+        "cover": "http://i0.hdslb.com/bfs/archive/e42a31dc6625c4dcf2292ac9e5937098d4a0ff59.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Rt411B7z1",
+        "stat": {
+          "danmaku": "3.5万",
+          "play": "749.9万",
+          "vt": ""
+        },
+        "duration_text": "03:43",
+        "title": "【洛天依|薛之谦】江苏卫视2019跨年演唱会《达拉崩吧》",
+        "desc": "2018年12月31日，天依与薛之谦老师在江苏卫视跨年晚会上一起同台演出了《达拉崩吧》！\n大家有被可爱的薛之谦老师、可爱的天依和两只可爱的“巨龙”萌到吗？\n看我们的演出收获四倍的可爱和快乐！笔芯～\n\n《达拉崩吧》\n原词｜作曲｜调校：ilem\n本家：av9372087\n原唱：洛天依 言和\n歌词改编：薛之谦\n演唱：薛之谦 洛天依\n人设：TID",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 198127,
+    "comment": 16934,
+    "forward": 862
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

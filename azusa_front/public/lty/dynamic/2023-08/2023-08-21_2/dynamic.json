@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "832292223056871449",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/832292223056871449",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月21日",
+    "pub_ts": 1692621534,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在无垠的天空下高歌，寻找民族音乐里最初的声音。\n8月22日，《天依游学记·歌行》第一集内蒙篇采风Vlog bilibili独家上线，我们不见不散~[天依游学记_谢谢你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在无垠的天空下高歌，寻找民族音乐里最初的声音。\n8月22日，《天依游学记·歌行》第一集内蒙篇采风Vlog bilibili独家上线，我们不见不散~"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《天依游学记·歌行》第一集内蒙篇采风Vlog 8月22日 bilibili独家上线",
+      "desc": "在无垠的天空下高歌，寻找民族音乐里最初的声音。\n8月22日，《天依游学记·歌行》第一集内蒙篇采风Vlog bilibili独家上线，我们不见不散~[天依游学记_谢谢你]",
+      "jump_url": "https://www.bilibili.com/video/BV1pN411B7B6",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/0cb8868cfd007754748086cdcea728b42accf5e2.png",
+      "cover_file": "../../_assets/covers/2023-08-21_1.png",
+      "bvid": "BV1pN411B7B6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pN411B7B6",
+        "aid": "490047330",
+        "cover": "http://i2.hdslb.com/bfs/archive/0cb8868cfd007754748086cdcea728b42accf5e2.png",
+        "jump_url": "//www.bilibili.com/video/BV1pN411B7B6",
+        "stat": {
+          "danmaku": "54",
+          "play": "3.8万",
+          "vt": ""
+        },
+        "duration_text": "00:23",
+        "title": "《天依游学记·歌行》第一集内蒙篇采风Vlog 8月22日 bilibili独家上线",
+        "desc": "在无垠的天空下高歌，寻找民族音乐里最初的声音。\n8月22日，《天依游学记·歌行》第一集内蒙篇采风Vlog bilibili独家上线，我们不见不散~[天依游学记_谢谢你]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10541,
+    "comment": 451,
+    "forward": 62
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

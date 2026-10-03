@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "id": "743120812329926658",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/743120812329926658",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月24日",
+    "pub_ts": 1671859697,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今晚的直播也为大家准备了一些礼物！[洛天依_礼物]\n提前祝大家节日快乐，我们晚上见吧~\n如果你愿意来看天依的直播，我会非常非常开心哒！[洛天依_击掌]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚的直播也为大家准备了一些礼物！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n提前祝大家节日快乐，我们晚上见吧~\n如果你愿意来看天依的直播，我会非常非常开心哒！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c3716f477d06aca0ea5840ac56b2a0f736081646.jpg",
+        "width": 750,
+        "height": 6148,
+        "size_kb": 2150.8779296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：【洛天依】音乐交流会第二期",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：【洛天依】音乐交流会第二期",
+        "desc1": {
+          "text": "2022-12-24 20:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "4.3万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1184378&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1184378,
+        "reserve_total": 42765,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8191,
+    "comment": 399,
+    "forward": 175
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

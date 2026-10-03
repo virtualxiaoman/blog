@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1247495645090021412",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1247495645090021412",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月13日",
+    "pub_ts": 1789293614,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "响彻吧！直至夜色的彼方——",
+      "desc": "回应我吧，将身心交付这份稚嫩的声响\n将一切尽数遗忘，一同舞动直至拂晓\n就算会失败，就算只是漂亮话，也请永远展露笑颜~\n记得收听这首好听的歌曲哦！BV1qeYt6bEm3\n \n2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\n✨https://b23.tv/MBvh3P6\n \n「闪耀的Producer 2」发起人mikitoP『響け！』/『响彻吧！』\nMusic,Lyric,Arrange - みきとP",
+      "jump_url": "https://www.bilibili.com/video/BV1KKYd6pECP",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/4f0c4b60541db3fa53b577cd538aa5d1f4bbe9c1.jpg",
+      "cover_file": "../../_assets/covers/2026-09-13_1.jpg",
+      "bvid": "BV1KKYd6pECP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1KKYd6pECP",
+        "aid": "117258093397419",
+        "cover": "http://i1.hdslb.com/bfs/archive/4f0c4b60541db3fa53b577cd538aa5d1f4bbe9c1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1KKYd6pECP",
+        "stat": {
+          "danmaku": "103",
+          "play": "6.4万",
+          "vt": ""
+        },
+        "duration_text": "00:31",
+        "title": "响彻吧！直至夜色的彼方——",
+        "desc": "回应我吧，将身心交付这份稚嫩的声响\n将一切尽数遗忘，一同舞动直至拂晓\n就算会失败，就算只是漂亮话，也请永远展露笑颜~\n记得收听这首好听的歌曲哦！BV1qeYt6bEm3\n \n2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\n✨https://b23.tv/MBvh3P6\n \n「闪耀的Producer 2」发起人mikitoP『響け！』/『响彻吧！』\nMusic,Lyric,Arrange - みきとP",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24108,
+    "comment": 716,
+    "forward": 84
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

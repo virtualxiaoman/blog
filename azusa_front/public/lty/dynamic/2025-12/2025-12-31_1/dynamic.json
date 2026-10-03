@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1152398115617112070",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1152398115617112070",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1767151995,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖开饭在即，两位大厨已经准备就绪——\n@黄子弘凡-Lars 黄子老师请接招！究竟谁的厨艺更胜一筹呢？[洛天依八音奇响动态_嘻嘻]\n今晚19:30，bilibili最美的夜跨年晚会，一起开饭吧！\n天依的节目比较靠前，大家蹲蹲天依，记得来看哦！[洛天依八音奇响动态_美丽]\n\n🎁转发关注天依，揪一位小伙伴送出【努比亚Z80 Ultra 洛天依限定版】手机一台～\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "393540",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "开饭在即，两位大厨已经准备就绪——\n"
+      },
+      {
+        "type": "mention",
+        "text": "@黄子弘凡-Lars ",
+        "mid": 544142239,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "黄子老师请接招！究竟谁的厨艺更胜一筹呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n今晚19:30，bilibili最美的夜跨年晚会，一起开饭吧！\n天依的节目比较靠前，大家蹲蹲天依，记得来看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎁转发关注天依，揪一位小伙伴送出【努比亚Z80 Ultra 洛天依限定版】手机一台～"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-31_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1f95f651c2dfa6e68f049e222bef9d8f36081646.jpg",
+        "width": 4320,
+        "height": 2160,
+        "size_kb": 4203.02978515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "393540"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:12:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

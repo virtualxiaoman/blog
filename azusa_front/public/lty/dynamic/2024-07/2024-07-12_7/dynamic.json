@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "953279175460913152",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/953279175460913152",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月12日",
+    "pub_ts": 1720791004,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "这首歌送给每一个夜晚会感到有些落寞的你\n亲爱的小孩，你已经不简单~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这首歌送给每一个夜晚会感到有些落寞的你\n亲爱的小孩，你已经不简单~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】又一个夜晚【十二周年官方生贺曲舞台版】",
+      "desc": "🔹洛天依十二周年官方02生贺曲《又一个夜晚》🔹\n“大大的梦才做了一半 那么璀璨 \n请放心有 无数个你 不孤单”\n在一个又一个夜晚，你一直前行着，一直尝试着\n就算平凡，就算有遗憾，就算会胆怯不安\n这首歌送给每一个夜晚感到有些落寞的你\n亲爱的小孩，你已经不简单~\n\n---STAFF---\n作曲：ナツノセ Natsunose\n编曲：ナツノセ Natsunose\n作词：向涵\n调校：坐标P\n吉他：奥山 アキラ Akira Okuyama\n混音/母带：北吉 泰輔 Taisuke Kitayoshi\n导演：tàtà\n制",
+      "jump_url": "https://www.bilibili.com/video/BV1Cz421q7gD",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/1a9f118d266b1e4d6ae12f8b9cbac57891cd1460.jpg",
+      "cover_file": "../../_assets/covers/2024-07-12_4.jpg",
+      "bvid": "BV1Cz421q7gD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Cz421q7gD",
+        "aid": "1356143142",
+        "cover": "http://i1.hdslb.com/bfs/archive/1a9f118d266b1e4d6ae12f8b9cbac57891cd1460.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Cz421q7gD",
+        "stat": {
+          "danmaku": "3776",
+          "play": "138.5万",
+          "vt": ""
+        },
+        "duration_text": "03:17",
+        "title": "【洛天依原创曲】又一个夜晚【十二周年官方生贺曲舞台版】",
+        "desc": "🔹洛天依十二周年官方02生贺曲《又一个夜晚》🔹\n“大大的梦才做了一半 那么璀璨 \n请放心有 无数个你 不孤单”\n在一个又一个夜晚，你一直前行着，一直尝试着\n就算平凡，就算有遗憾，就算会胆怯不安\n这首歌送给每一个夜晚感到有些落寞的你\n亲爱的小孩，你已经不简单~\n\n---STAFF---\n作曲：ナツノセ Natsunose\n编曲：ナツノセ Natsunose\n作词：向涵\n调校：坐标P\n吉他：奥山 アキラ Akira Okuyama\n混音/母带：北吉 泰輔 Taisuke Kitayoshi\n导演：tàtà\n制",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 72405,
+    "comment": 4104,
+    "forward": 322
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

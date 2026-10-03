@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1237526970186596357",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1237526970186596357",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月17日",
+    "pub_ts": 1786972601,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「洛天依×2233」一起欢呼bilibili次元咒语《CONNECT~心的连接~》",
+      "desc": "欢呼着bilibili次元咒语，解开你心中的谜题\n唱着bilibili，跟我一起探寻这美丽的天地\n \n天依很开心在上海这座熟悉的城市，邀请到22和33一起\n在2026「无限共鸣·纯蓝幻乐」巡回演唱会 ·上海站的舞台上\n演唱这首献给B站的歌曲《CONNECT~心的连接~》\n让我们一起继续前进，通向更美好的未来吧\n“哔哩哔哩 干杯！”\n \n作词：苍十三\n作曲/调教：阿良良木健",
+      "jump_url": "https://www.bilibili.com/video/BV19Pbq6KE5n",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/68ec7a9d5cb452b916d23e95a725023cc077f16e.jpg",
+      "cover_file": "../../_assets/covers/2026-08-17_2.jpg",
+      "bvid": "BV19Pbq6KE5n",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19Pbq6KE5n",
+        "aid": "117111024257051",
+        "cover": "http://i1.hdslb.com/bfs/archive/68ec7a9d5cb452b916d23e95a725023cc077f16e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19Pbq6KE5n",
+        "stat": {
+          "danmaku": "1936",
+          "play": "43万",
+          "vt": ""
+        },
+        "duration_text": "03:48",
+        "title": "「洛天依×2233」一起欢呼bilibili次元咒语《CONNECT~心的连接~》",
+        "desc": "欢呼着bilibili次元咒语，解开你心中的谜题\n唱着bilibili，跟我一起探寻这美丽的天地\n \n天依很开心在上海这座熟悉的城市，邀请到22和33一起\n在2026「无限共鸣·纯蓝幻乐」巡回演唱会 ·上海站的舞台上\n演唱这首献给B站的歌曲《CONNECT~心的连接~》\n让我们一起继续前进，通向更美好的未来吧\n“哔哩哔哩 干杯！”\n \n作词：苍十三\n作曲/调教：阿良良木健",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 47860,
+    "comment": 2819,
+    "forward": 263
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

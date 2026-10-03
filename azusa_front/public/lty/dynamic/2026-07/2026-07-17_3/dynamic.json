@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1225896147206275075",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1225896147206275075",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月17日",
+    "pub_ts": 1784264589,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很高兴联动施洛华眼镜，为大家带来特别联名礼盒，让天依来保护大家的眼睛吧！转发关注天依，揪一位小伙伴送出【随机联名礼盒】一份～[洛天依·人格镜像 动态表情包_卖萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴联动施洛华眼镜，为大家带来特别联名礼盒，让天依来保护大家的眼睛吧！转发关注天依，揪一位小伙伴送出【随机联名礼盒】一份～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "name": "卖萌",
+        "url": "https://i0.hdslb.com/bfs/garb/223de3fef7dd1695c542dfbd9c9c1eea377d2b46.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/卖萌.gif",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4414,
+    "comment": 652,
+    "forward": 1833
+  },
+  "forward": {
+    "orig_id": 1225864050949226498,
+    "orig_mid": 635863036,
+    "deleted": false,
+    "archive_dir": "../../../635863036/2026-07/2026-07-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:31:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

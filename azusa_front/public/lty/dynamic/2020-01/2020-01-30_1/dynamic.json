@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "350265668301232372",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/350265668301232372",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月30日",
+    "pub_ts": 1580390981,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "让我们一起共度难关！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让我们一起共度难关！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10263,
+    "comment": 251,
+    "forward": 69
+  },
+  "forward": {
+    "orig_id": 349522346902461242,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2020-01/2020-01-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

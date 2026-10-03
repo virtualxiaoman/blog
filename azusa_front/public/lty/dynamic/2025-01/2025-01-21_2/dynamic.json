@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "id": "1024857846312861715",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1024857846312861715",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月21日",
+    "pub_ts": 1737456712,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 新春贺岁，喜气洋洋~多款新品周边上线啦，快来看看有没有你喜欢的吧！\n转发关注天依，揪一位小伙伴送出【洛天依 秋梦天依可动人偶 公式服款】一只~[洛天依·戏游九州动态_惬意]\n\n✨洛天依 好饿好饿系列 吃货盲盒\n-官方售价：39元/只\n\n✨亚克力播放器冰箱贴【NFC款】\n-官方售价：39元/个\n\n✨天星问系列周边\n-系列新品：毛绒玩偶、徽章、色纸、镭射票、金属挂件、长柄雨伞\n\n✨歌行·天依游学记音乐专辑\n-收录天依游学记第一季和第二季共 9 首单曲，包含2首 “歌行・戏曲季” 未发布作品\n-官方售价：109 元 \n*包装设计升级优化中\n\n✨秋梦天依可动人偶\n-官方售价：168元（预售期） \n\n✨戏游九州-花木兰款-1/6 比例手办\n-官方售价:399元\n\n开售时间：1月21日20: 00 \n※活动期官店参与春节不打烊活动，全店满200减20元\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "339714",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 新春贺岁，喜气洋洋~多款新品周边上线啦，快来看看有没有你喜欢的吧！\n转发关注天依，揪一位小伙伴送出【洛天依 秋梦天依可动人偶 公式服款】一只~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨洛天依 好饿好饿系列 吃货盲盒\n-官方售价：39元/只\n\n✨亚克力播放器冰箱贴【NFC款】\n-官方售价：39元/个\n\n✨天星问系列周边\n-系列新品：毛绒玩偶、徽章、色纸、镭射票、金属挂件、长柄雨伞\n\n✨歌行·天依游学记音乐专辑\n-收录天依游学记第一季和第二季共 9 首单曲，包含2首 “歌行・戏曲季” 未发布作品\n-官方售价：109 元 \n*包装设计升级优化中\n\n✨秋梦天依可动人偶\n-官方售价：168元（预售期） \n\n✨戏游九州-花木兰款-1/6 比例手办\n-官方售价:399元\n\n开售时间：1月21日20: 00 \n※活动期官店参与春节不打烊活动，全店满200减20元"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-21_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a003670ccc0a7cb9467bfbbd1037683536081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1304.9287109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-01-21_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cb3f23bf3c3df5e1c974745ed5c113bf36081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1642.1982421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-01-21_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/04287ead550a9d48071965f4c72e6e6936081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 2610.6474609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-01-21_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/13f11e231f8cb9d6c62bdeba9520b37936081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 344.021484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-01-21_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c41b882f3e24f549d98350c5061d314d36081646.png",
+        "width": 800,
+        "height": 800,
+        "size_kb": 200.8466796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-01-21_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/aabbbe227fe666812f060eea646d839236081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 235.388671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-01-21_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/07ffdcee5d13da7fc3f0d2d528ef4cc636081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 2682.2470703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-01-21_9.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/23062962ca34c35c9441268d305f6a2536081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 2647.626953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-01-21_10.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bdc8773aa147881335b88c5a147c994e36081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 2058.74609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "339714"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6028,
+    "comment": 1154,
+    "forward": 10156
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

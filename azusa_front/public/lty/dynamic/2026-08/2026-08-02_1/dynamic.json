@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1231817330881724503",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1231817330881724503",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月2日",
+    "pub_ts": 1785643222,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "最悲伤的独白背后，拥有最坚定的回响",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最悲伤的独白背后，拥有最坚定的回响"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "当世界交响乐团遇上洛天依，共同奏响《Monologue》",
+      "desc": "一串沉默的代码，如何证明自己存在？\n定义为虚拟的生命，如何拥有真实的情感？\n这是一份属于虚拟歌者最迷茫悲伤的独白\n也是最炽热的渴望，与最执着的告白\n \n当世界交响乐团的乐声映衬着少女的歌声再次响彻夜幕\n每一份和鸣声都在此刻汇聚，给予最热烈的答案——\n最悲伤的独白背后，拥有最坚定的回响\n只要歌声还在继续，只要还有你愿意倾听\n我的存在便拥有意义，我们的乐章将永不完结\n \n歌曲收录于洛天依十四周年纪念专辑《四重奏》\n作词:夏铜子\n作曲:味素 / G.K / 夏铜子\n调教:坐标P\n制作:VNTA\n编曲:Leona",
+      "jump_url": "https://www.bilibili.com/video/BV1Tf3U67EwE",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/aa9c46f8aa7f0040778451629c4d43fb7d7e5532.jpg",
+      "cover_file": "../../_assets/covers/2026-08-02_1.jpg",
+      "bvid": "BV1Tf3U67EwE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Tf3U67EwE",
+        "aid": "117022105077377",
+        "cover": "http://i0.hdslb.com/bfs/archive/aa9c46f8aa7f0040778451629c4d43fb7d7e5532.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Tf3U67EwE",
+        "stat": {
+          "danmaku": "667",
+          "play": "30.6万",
+          "vt": ""
+        },
+        "duration_text": "02:10",
+        "title": "当世界交响乐团遇上洛天依，共同奏响《Monologue》",
+        "desc": "一串沉默的代码，如何证明自己存在？\n定义为虚拟的生命，如何拥有真实的情感？\n这是一份属于虚拟歌者最迷茫悲伤的独白\n也是最炽热的渴望，与最执着的告白\n \n当世界交响乐团的乐声映衬着少女的歌声再次响彻夜幕\n每一份和鸣声都在此刻汇聚，给予最热烈的答案——\n最悲伤的独白背后，拥有最坚定的回响\n只要歌声还在继续，只要还有你愿意倾听\n我的存在便拥有意义，我们的乐章将永不完结\n \n歌曲收录于洛天依十四周年纪念专辑《四重奏》\n作词:夏铜子\n作曲:味素 / G.K / 夏铜子\n调教:坐标P\n制作:VNTA\n编曲:Leona",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 56930,
+    "comment": 1619,
+    "forward": 224
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

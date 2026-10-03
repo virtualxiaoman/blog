@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "292693873672416438",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/292693873672416438",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年8月28日",
+    "pub_ts": 1566986503,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖暑假不知不觉过去了，一转眼就要开学啦！在家宅了一个暑假，开学前约上朋友，抓紧狂欢一下吧？#洛天依#要跟美年达小荔枝一起去KTV唱歌啦，准备唱一首《夏日活荔》，愿大家新学期充满活“荔”！要来一起唱吗？ 评论分享你的KTV必点曲目并转发本条动态，2019年9月4日将随机抽5位小伙伴，送出任意1款【美年达x洛天依限定款水果扭蛋娃娃】！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "34792",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "暑假不知不觉过去了，一转眼就要开学啦！在家宅了一个暑假，开学前约上朋友，抓紧狂欢一下吧？"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "要跟美年达小荔枝一起去KTV唱歌啦，准备唱一首《夏日活荔》，愿大家新学期充满活“荔”！要来一起唱吗？ 评论分享你的KTV必点曲目并转发本条动态，2019年9月4日将随机抽5位小伙伴，送出任意1款【美年达x洛天依限定款水果扭蛋娃娃】！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-08-28_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8a2a48c53815196576044b491175ffa693d512b9.jpg",
+        "width": 2783,
+        "height": 1184,
+        "size_kb": 345.0,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-08-28_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/28f66db68c1b5413030ba36def2a5a67bb41232d.jpg",
+        "width": 975,
+        "height": 750,
+        "size_kb": 67.27,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "34792"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7423,
+    "comment": 1789,
+    "forward": 5140
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

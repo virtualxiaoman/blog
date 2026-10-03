@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "844803325372137497",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/844803325372137497",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月24日",
+    "pub_ts": 1695534502,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起旅行吧～大家快上车！[古色花香洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起旅行吧～大家快上车！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "ugc",
+      "title": "雪王！偶遇！洛天依！",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1tC4y1Z7hZ",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/bd89ea67c19a0cff2e1d9758bfc7def9d4e04286.jpg",
+      "cover_file": "../../_assets/covers/2023-09-24_1.jpg",
+      "bvid": "",
+      "extra": {
+        "id_str": "788801099",
+        "head_text": "",
+        "title": "雪王！偶遇！洛天依！",
+        "desc_second": "14万观看 307弹幕",
+        "jump_url": "//www.bilibili.com/video/BV1tC4y1Z7hZ",
+        "cover": "http://i2.hdslb.com/bfs/archive/bd89ea67c19a0cff2e1d9758bfc7def9d4e04286.jpg",
+        "duration": "00:20",
+        "multi_line": true,
+        "stat": {
+          "danmaku": "307",
+          "play": "14万",
+          "vt": ""
+        }
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5638,
+    "comment": 167,
+    "forward": 24
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

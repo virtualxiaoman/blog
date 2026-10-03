@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "652656375555424279",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/652656375555424279",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月24日",
+    "pub_ts": 1650796804,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 想就这样和大家一起围着篝火唱着歌 听大家聊音乐、聊梦想、聊聊生活中简单平凡的小事~ 时光静好，岁月温柔，我会一直在你身边[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 想就这样和大家一起围着篝火唱着歌 听大家聊音乐、聊梦想、聊聊生活中简单平凡的小事~ 时光静好，岁月温柔，我会一直在你身边"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b7d8b6b962f45bd76130587b443fc84ff9a3ddee.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 5666.43994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13677,
+    "comment": 563,
+    "forward": 287
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:45:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

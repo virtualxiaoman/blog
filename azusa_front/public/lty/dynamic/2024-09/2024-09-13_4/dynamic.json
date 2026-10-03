@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "976659981002604569",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/976659981002604569",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月13日",
+    "pub_ts": 1726234772,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "锵锵！天依的沉浸式体验展搭建完毕啦！9月15日展览正式开启，中秋假期来找天依玩吧~歌行宇宙飞船已就绪，和天依一起穿梭虚拟现实之间，开启无限遨游之旅！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "锵锵！天依的沉浸式体验展搭建完毕啦！9月15日展览正式开启，中秋假期来找天依玩吧~歌行宇宙飞船已就绪，和天依一起穿梭虚拟现实之间，开启无限遨游之旅！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "预告启航！「无限遨游沉浸式体验展」来啦！",
+      "desc": "一场沉浸式体验展是如何落成的？\n精心筹备、高效搭建，超千平米展览，6大音乐主题空间，你所憧憬的一切都将付诸现实！\n锵锵~天依的沉浸式体验展搭建完毕，等待大家的光临！中秋假期来找天依玩吧~畅游音乐星球，漫步属于我们的无限宇宙！\n\n展览门票：https://show.bilibili.com/platform/detail.html?id=91175\n展期时间&地点：9月15日-10月31日，上海月星环球港4楼（环球大厅-环球展馆）\n\n9月15日10:00展览正式开启，歌行宇宙的飞船已就绪，和天依一起穿梭虚拟",
+      "jump_url": "https://www.bilibili.com/video/BV1Q1tFeJEZw",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/88af4bcba4be70f40eaebff17544b1e8e75bf0fa.jpg",
+      "cover_file": "../../_assets/covers/2024-09-13_2.jpg",
+      "bvid": "BV1Q1tFeJEZw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Q1tFeJEZw",
+        "aid": "113130512322153",
+        "cover": "http://i0.hdslb.com/bfs/archive/88af4bcba4be70f40eaebff17544b1e8e75bf0fa.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Q1tFeJEZw",
+        "stat": {
+          "danmaku": "25",
+          "play": "3.9万",
+          "vt": ""
+        },
+        "duration_text": "00:16",
+        "title": "预告启航！「无限遨游沉浸式体验展」来啦！",
+        "desc": "一场沉浸式体验展是如何落成的？\n精心筹备、高效搭建，超千平米展览，6大音乐主题空间，你所憧憬的一切都将付诸现实！\n锵锵~天依的沉浸式体验展搭建完毕，等待大家的光临！中秋假期来找天依玩吧~畅游音乐星球，漫步属于我们的无限宇宙！\n\n展览门票：https://show.bilibili.com/platform/detail.html?id=91175\n展期时间&地点：9月15日-10月31日，上海月星环球港4楼（环球大厅-环球展馆）\n\n9月15日10:00展览正式开启，歌行宇宙的飞船已就绪，和天依一起穿梭虚拟",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7684,
+    "comment": 333,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

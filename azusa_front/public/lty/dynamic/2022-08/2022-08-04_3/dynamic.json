@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "690496884468351073",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/690496884468351073",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月4日",
+    "pub_ts": 1659607234,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "仙人(兽)下凡共渡良宵？Vsinger六人原创曲《星夕兰夜歌》",
+      "desc": "星夕兰夜歌\n策划：瞳荧\n作词：Vagary\n作曲：papaw泡泡@TalentUnion\n编曲：欧阳箐宇@TalentUnion\n和声编写：欧阳箐宇@TalentUnion\n演唱：洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦\n调校：哈士奇P\n笛子：囚牛\n二胡：弹棉花的GG\n混音/母带：彭丽璇@TalentUnion\n画师：SASA、极光、脆皮香芋子\n漫画脚本/文案：瞳荧\nPV：飞米映画\n制作人/音乐监制：papaw泡泡、欧阳箐宇@TalentUnion\n开放一切非商二创授权~",
+      "jump_url": "https://www.bilibili.com/video/BV11g411C71K",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c7ee218e412f3cea4425d1bc76da8c5a73521191.jpg",
+      "cover_file": "../../_assets/covers/2022-08-04_1.jpg",
+      "bvid": "BV11g411C71K",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11g411C71K",
+        "aid": "514162309",
+        "cover": "http://i2.hdslb.com/bfs/archive/c7ee218e412f3cea4425d1bc76da8c5a73521191.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11g411C71K",
+        "stat": {
+          "danmaku": "1917",
+          "play": "20.6万",
+          "vt": ""
+        },
+        "duration_text": "03:42",
+        "title": "仙人(兽)下凡共渡良宵？Vsinger六人原创曲《星夕兰夜歌》",
+        "desc": "星夕兰夜歌\n策划：瞳荧\n作词：Vagary\n作曲：papaw泡泡@TalentUnion\n编曲：欧阳箐宇@TalentUnion\n和声编写：欧阳箐宇@TalentUnion\n演唱：洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦\n调校：哈士奇P\n笛子：囚牛\n二胡：弹棉花的GG\n混音/母带：彭丽璇@TalentUnion\n画师：SASA、极光、脆皮香芋子\n漫画脚本/文案：瞳荧\nPV：飞米映画\n制作人/音乐监制：papaw泡泡、欧阳箐宇@TalentUnion\n开放一切非商二创授权~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30798,
+    "comment": 1237,
+    "forward": 38
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

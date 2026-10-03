@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "626949729252001045",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/626949729252001045",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月14日",
+    "pub_ts": 1644811509,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#Vsinger# Vsinger精选集Vol.1《和光同尘》试听PV来啦！让我们一起倾听时光的回响，感受爱与梦编织的无穷音乐能量。",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": " Vsinger精选集Vol.1《和光同尘》试听PV来啦！让我们一起倾听时光的回响，感受爱与梦编织的无穷音乐能量。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【Vsinger】精选集Vol.1《和光同尘》试听PV",
+      "desc": "我们收集耀眼的光，调和了明锐与温润的色彩。\n我们拂去时光的尘，清晰了那远方回响的歌声。\n最初的梦永远鲜明，而我们用音律将其纂刻。\nVsinger 精选集Remix Collection Vol.1 《和光同尘》试听PV来啦~\n让我们一起倾听时光的回响，感受爱与梦编织的无穷音乐能量！",
+      "jump_url": "https://www.bilibili.com/video/BV1k44y1H7Qa",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/37aaf846f2f0da86c40c2444ae9101ea7f6a7c42.jpg",
+      "cover_file": "../../_assets/covers/2022-02-14_1.jpg",
+      "bvid": "BV1k44y1H7Qa",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1k44y1H7Qa",
+        "aid": "979005092",
+        "cover": "http://i2.hdslb.com/bfs/archive/37aaf846f2f0da86c40c2444ae9101ea7f6a7c42.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1k44y1H7Qa",
+        "stat": {
+          "danmaku": "600",
+          "play": "12.1万",
+          "vt": ""
+        },
+        "duration_text": "02:58",
+        "title": "【Vsinger】精选集Vol.1《和光同尘》试听PV",
+        "desc": "我们收集耀眼的光，调和了明锐与温润的色彩。\n我们拂去时光的尘，清晰了那远方回响的歌声。\n最初的梦永远鲜明，而我们用音律将其纂刻。\nVsinger 精选集Remix Collection Vol.1 《和光同尘》试听PV来啦~\n让我们一起倾听时光的回响，感受爱与梦编织的无穷音乐能量！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18300,
+    "comment": 1001,
+    "forward": 25
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:42:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

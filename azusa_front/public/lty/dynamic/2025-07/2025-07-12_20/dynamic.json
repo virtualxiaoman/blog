@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088708500852310040",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088708500852310040",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752323101,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "偶尔忆起儿时玩伴 时光流水般久长 |《八辈子》洛天依十三周年生日会",
+      "desc": "思念的不仅是故乡的风景，还有那时的心情，与那时，曾相伴的人呀~\n\n《八辈子》\n作曲：乌龟Sui\n作词：果汁凉菜＆乌龟Sui\n编曲：乌龟Sui\n混音：乌龟Sui\n调教：挨批熊\n原PV：BV1Sx411T7XB",
+      "jump_url": "https://www.bilibili.com/video/BV1u6uuzJEXm",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/468d50aad4e0fb540865f8f437835ce0ea43d0a1.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_13.jpg",
+      "bvid": "BV1u6uuzJEXm",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1u6uuzJEXm",
+        "aid": "114832393109651",
+        "cover": "http://i0.hdslb.com/bfs/archive/468d50aad4e0fb540865f8f437835ce0ea43d0a1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1u6uuzJEXm",
+        "stat": {
+          "danmaku": "331",
+          "play": "80.2万",
+          "vt": ""
+        },
+        "duration_text": "03:27",
+        "title": "偶尔忆起儿时玩伴 时光流水般久长 |《八辈子》洛天依十三周年生日会",
+        "desc": "思念的不仅是故乡的风景，还有那时的心情，与那时，曾相伴的人呀~\n\n《八辈子》\n作曲：乌龟Sui\n作词：果汁凉菜＆乌龟Sui\n编曲：乌龟Sui\n混音：乌龟Sui\n调教：挨批熊\n原PV：BV1Sx411T7XB",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18104,
+    "comment": 353,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

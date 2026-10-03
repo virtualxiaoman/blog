@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "544942796231594785",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/544942796231594785",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月8日",
+    "pub_ts": 1625717782,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在炎热的夏季里，肌肤需要新的活力，天依携手@法国娇韵诗 带大家一起keep少女肌、焕发少女心~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在炎热的夏季里，肌肤需要新的活力，天依携手"
+      },
+      {
+        "type": "mention",
+        "text": "@法国娇韵诗 ",
+        "mid": 9809515,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "带大家一起keep少女肌、焕发少女心~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5740,
+    "comment": 232,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 544938655879912481,
+    "orig_mid": 9809515,
+    "deleted": false,
+    "archive_dir": "../../../9809515/2021-07/2021-07-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:32:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "758436429513621586",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/758436429513621586",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月3日",
+    "pub_ts": 1675425642,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 在追逐爱的过程中，或许蓦然回首，会发现这段时光这段回忆，发现生命的意义是与爱同样美好的事物[洛天依·夜航星_比心]非常唯美温柔的一首歌呀～[洛天依·夜航星_好康]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 在追逐爱的过程中，或许蓦然回首，会发现这段时光这段回忆，发现生命的意义是与爱同样美好的事物"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "非常唯美温柔的一首歌呀～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7483,
+    "comment": 182,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 756828269179830453,
+    "orig_mid": 1299806121,
+    "deleted": false,
+    "archive_dir": "../../../1299806121/2023-01/2023-01-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

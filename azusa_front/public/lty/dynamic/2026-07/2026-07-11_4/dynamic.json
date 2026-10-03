@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1223786540910510114",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1223786540910510114",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月11日",
+    "pub_ts": 1783773408,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依等身陶瓷手办？！BW首次亮相展出",
+      "desc": "洛天依14周年 X 中国景德镇瓷厂 特别非遗企划\n\n洛天依釉上彩全陶瓷等身人物雕塑，于BilibiliWorld2026 Vsinger展区（4.1H 4A33)首次亮相。\n\n中国景德镇瓷厂携手黄景藏大师带领团队打造“斗彩灵仙”洛天依等身陶瓷雕塑、青花分水瓷板画等。\n\n让千年窑火碰撞虚拟科技，打破虚实界限，实现了传统非遗与国风二次元的诗意交融，打破艺术次元壁垒，展现了非遗传承的创新表达。",
+      "jump_url": "https://www.bilibili.com/video/BV1F5Nc6nEYu",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/0b0abb3659a5384a1db68dabfef9b70b966ae8b0.jpg",
+      "cover_file": "../../_assets/covers/2026-07-11_2.jpg",
+      "bvid": "BV1F5Nc6nEYu",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1F5Nc6nEYu",
+        "aid": "116901359388018",
+        "cover": "http://i1.hdslb.com/bfs/archive/0b0abb3659a5384a1db68dabfef9b70b966ae8b0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1F5Nc6nEYu",
+        "stat": {
+          "danmaku": "189",
+          "play": "17.5万",
+          "vt": ""
+        },
+        "duration_text": "00:38",
+        "title": "洛天依等身陶瓷手办？！BW首次亮相展出",
+        "desc": "洛天依14周年 X 中国景德镇瓷厂 特别非遗企划\n\n洛天依釉上彩全陶瓷等身人物雕塑，于BilibiliWorld2026 Vsinger展区（4.1H 4A33)首次亮相。\n\n中国景德镇瓷厂携手黄景藏大师带领团队打造“斗彩灵仙”洛天依等身陶瓷雕塑、青花分水瓷板画等。\n\n让千年窑火碰撞虚拟科技，打破虚实界限，实现了传统非遗与国风二次元的诗意交融，打破艺术次元壁垒，展现了非遗传承的创新表达。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 22495,
+    "comment": 1468,
+    "forward": 103
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

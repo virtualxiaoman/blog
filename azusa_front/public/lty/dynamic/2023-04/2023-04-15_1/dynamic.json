@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "784618631754416145",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/784618631754416145",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月15日",
+    "pub_ts": 1681521661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@劇情需要@竹墨书咖管理员@一起虫子中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@劇情需要",
+        "mid": 81678807,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@竹墨书咖管理员",
+        "mid": 350703555,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@一起虫子",
+        "mid": 393771494,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3595,
+    "comment": 71,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 779423688396111889,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-04-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:52:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

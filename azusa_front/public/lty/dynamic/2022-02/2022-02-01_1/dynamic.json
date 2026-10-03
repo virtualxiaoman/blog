@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "622077934962450677",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/622077934962450677",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月1日",
+    "pub_ts": 1643677206,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 #洛天依#  新年好！大年初一天依来给大家送福利啦～ ⭐ 「 洛天依 1/7手办 秘境花庭 常服 Ver.&礼服 Ver.」优惠开售 ▶bilibili会员购 ☆独家特典 对应款式精美光栅卡×1 ☆特惠活动 2月1日0:00-2月7日23:59，可在Vsinger会场页面领取秘境花庭手办专属券，支付定金尾款立减100元 会场传送：网页链接 ▶淘宝-上海禾念 2月1日0:00-2月7日23:59，在上海禾念淘宝店支付定金，尾款立减100元 并享特典-对应款式长条徽章×1。  ⭐福利派送，新春超级小脑斧 转发这条动态并关注天依，我将随机抽选一位小伙伴，作为超级小脑斧送出以下礼品： Vsinger 落纸烟云 纪念美术集及众筹结束时所有已解锁福利 洛天依 落纸烟云 卷轴挂画 洛天依 落纸烟云 色纸 洛天依 SOFT 亚克力装饰画 洛天依 笔记本套装 洛天依 PU 桌垫 洛天依 双层亚克力挂件 洛天依 马口铁徽章 洛天依 1/7手办 秘境花庭 常服 Ver.&礼服 Ver. 洛天依 Q版毛绒玩偶 V4公式服 Ver. 小号&中号&大号  希望大家新的一年也能顺顺利利、好运多多！ [洛天依·夜航星_锦鲤][洛天依·夜航星_锦鲤][洛天依·夜航星_锦鲤]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "83912",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  新年好！大年初一天依来给大家送福利啦～ ⭐ 「 洛天依 1/7手办 秘境花庭 常服 Ver.&礼服 Ver.」优惠开售 ▶bilibili会员购 ☆独家特典 对应款式精美光栅卡×1 ☆特惠活动 2月1日0:00-2月7日23:59，可在Vsinger会场页面领取秘境花庭手办专属券，支付定金尾款立减100元 会场传送："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/n4OaIhvzi4.html?from=cms_henian"
+      },
+      {
+        "type": "text",
+        "text": " ▶淘宝-上海禾念 2月1日0:00-2月7日23:59，在上海禾念淘宝店支付定金，尾款立减100元 并享特典-对应款式长条徽章×1。  ⭐福利派送，新春超级小脑斧 转发这条动态并关注天依，我将随机抽选一位小伙伴，作为超级小脑斧送出以下礼品： Vsinger 落纸烟云 纪念美术集及众筹结束时所有已解锁福利 洛天依 落纸烟云 卷轴挂画 洛天依 落纸烟云 色纸 洛天依 SOFT 亚克力装饰画 洛天依 笔记本套装 洛天依 PU 桌垫 洛天依 双层亚克力挂件 洛天依 马口铁徽章 洛天依 1/7手办 秘境花庭 常服 Ver.&礼服 Ver. 洛天依 Q版毛绒玩偶 V4公式服 Ver. 小号&中号&大号  希望大家新的一年也能顺顺利利、好运多多！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-02-01_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9f7a6a6fcc4d49396321a487084e56aebe158f38.png",
+        "width": 1000,
+        "height": 6468,
+        "size_kb": 6213.14013671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "83912"
+  },
+  "vote": null,
+  "stats": {
+    "like": 13075,
+    "comment": 1923,
+    "forward": 14196
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

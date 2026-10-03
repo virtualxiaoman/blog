@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "681239752368717906",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/681239752368717906",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月10日",
+    "pub_ts": 1657451890,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依已经在直播间啦！大家快来[洛天依_GKD][洛天依_GKD][洛天依_GKD]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依已经在直播间啦！大家快来"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_GKD]",
+        "package_id": "340",
+        "emoji_id": "5569",
+        "name": "GKD",
+        "url": "http://i0.hdslb.com/bfs/emote/57173e412d69dd029832192e61b107434ad8eac1.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_GKD]",
+        "package_id": "340",
+        "emoji_id": "5569",
+        "name": "GKD",
+        "url": "http://i0.hdslb.com/bfs/emote/57173e412d69dd029832192e61b107434ad8eac1.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_GKD]",
+        "package_id": "340",
+        "emoji_id": "5569",
+        "name": "GKD",
+        "url": "http://i0.hdslb.com/bfs/emote/57173e412d69dd029832192e61b107434ad8eac1.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/GKD.png",
+        "package_id": "340",
+        "emoji_id": "5569",
+        "text": "[洛天依_GKD]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6018,
+    "comment": 137,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 674956210813796391,
+    "orig_mid": 34727551,
+    "deleted": false,
+    "archive_dir": "../../../34727551/2022-06/2022-06-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:50:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

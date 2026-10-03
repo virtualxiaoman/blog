@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "752715391311020193",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/752715391311020193",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月19日",
+    "pub_ts": 1674093609,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "东方秘林中的精灵，以歌声与万物共鸣，希望这首歌曲的旋律可以抚慰你的心灵。\n同企划1/7比例手办「洛天依 万物有灵Ver.」正在预售中，有一只天依小精灵渴望被你带走哦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "东方秘林中的精灵，以歌声与万物共鸣，希望这首歌曲的旋律可以抚慰你的心灵。\n同企划1/7比例手办「洛天依 万物有灵Ver.」正在预售中，有一只天依小精灵渴望被你带走哦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】万物有灵【听 万物复苏的声音】",
+      "desc": "东方秘林中的精灵，以歌声与万物共鸣，希望这首歌曲的旋律可以抚慰你的心灵。\n同企划1/7比例手办「洛天依 万物有灵Ver.」正在预售中，有一只天依小精灵渴望被你带走哦~\n\n作曲/编曲/混音：litterzy\n作词：冥凰\n调校：Creuzer\n画师：-TID-/言叶kotoha/-人参SRulu-/一条坠子\n协力：GSAS\n视频：Pleastar",
+      "jump_url": "https://www.bilibili.com/video/BV1e14y1M7gK",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/7a8222d68843c478e09da9e96a46a64e853c0b04.jpg",
+      "cover_file": "../../_assets/covers/2023-01-19_1.jpg",
+      "bvid": "BV1e14y1M7gK",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1e14y1M7gK",
+        "aid": "778005397",
+        "cover": "http://i0.hdslb.com/bfs/archive/7a8222d68843c478e09da9e96a46a64e853c0b04.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1e14y1M7gK",
+        "stat": {
+          "danmaku": "2726",
+          "play": "138.1万",
+          "vt": ""
+        },
+        "duration_text": "04:11",
+        "title": "【洛天依原创曲】万物有灵【听 万物复苏的声音】",
+        "desc": "东方秘林中的精灵，以歌声与万物共鸣，希望这首歌曲的旋律可以抚慰你的心灵。\n同企划1/7比例手办「洛天依 万物有灵Ver.」正在预售中，有一只天依小精灵渴望被你带走哦~\n\n作曲/编曲/混音：litterzy\n作词：冥凰\n调校：Creuzer\n画师：-TID-/言叶kotoha/-人参SRulu-/一条坠子\n协力：GSAS\n视频：Pleastar",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 119940,
+    "comment": 2666,
+    "forward": 368
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:50:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

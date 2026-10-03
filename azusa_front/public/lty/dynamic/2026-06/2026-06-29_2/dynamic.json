@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1219293210538410098",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1219293210538410098",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月29日",
+    "pub_ts": 1782727223,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "当饮，饮的是千载未变的千江明月，饮的是太平年下，终于不必再等的那碗热酒。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "当饮，饮的是千载未变的千江明月，饮的是太平年下，终于不必再等的那碗热酒。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【忘川风华录·钱弘俶/赵匡胤/柴荣】当饮【洛天依/乐正绫/言和原创】",
+      "desc": "五代十国，是中国历史上兵戈不息、生灵流离的动荡岁月。后周世宗柴荣（郭荣）、宋太祖赵匡胤、吴越忠懿王钱俶（钱弘俶），三人身处乱世变局，史载交集寥寥，却跨越地域与时序，怀揣同源的济世初心，以各自的方式踏碎长夜、终结离乱，为乱世落笔太平序章。 \n柴荣心怀“十年致太平”的宏图，励精图治、整肃乾坤，以毕生耕耘为天下一统筑牢根基，纵使天不假年、壮志未酬，依旧为乱世破开清朗曙光；赵匡胤策马定中原，重整礼乐、安垦良田，以宏图大略终结割据纷争，让四海归心、山河安定；偏安江南的钱弘俶，恪守钱氏祖训，心怀苍生大义，摒弃一隅王权",
+      "jump_url": "https://www.bilibili.com/video/BV1o6KS6SE8U",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/946400c5cb3bf3c1569d122e4655566839ffe478.jpg",
+      "cover_file": "../../_assets/covers/2026-06-29_2.jpg",
+      "bvid": "BV1o6KS6SE8U",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1o6KS6SE8U",
+        "aid": "116832220484022",
+        "cover": "http://i2.hdslb.com/bfs/archive/946400c5cb3bf3c1569d122e4655566839ffe478.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1o6KS6SE8U",
+        "stat": {
+          "danmaku": "5474",
+          "play": "139万",
+          "vt": ""
+        },
+        "duration_text": "04:07",
+        "title": "【忘川风华录·钱弘俶/赵匡胤/柴荣】当饮【洛天依/乐正绫/言和原创】",
+        "desc": "五代十国，是中国历史上兵戈不息、生灵流离的动荡岁月。后周世宗柴荣（郭荣）、宋太祖赵匡胤、吴越忠懿王钱俶（钱弘俶），三人身处乱世变局，史载交集寥寥，却跨越地域与时序，怀揣同源的济世初心，以各自的方式踏碎长夜、终结离乱，为乱世落笔太平序章。 \n柴荣心怀“十年致太平”的宏图，励精图治、整肃乾坤，以毕生耕耘为天下一统筑牢根基，纵使天不假年、壮志未酬，依旧为乱世破开清朗曙光；赵匡胤策马定中原，重整礼乐、安垦良田，以宏图大略终结割据纷争，让四海归心、山河安定；偏安江南的钱弘俶，恪守钱氏祖训，心怀苍生大义，摒弃一隅王权",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 55879,
+    "comment": 4179,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:25:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

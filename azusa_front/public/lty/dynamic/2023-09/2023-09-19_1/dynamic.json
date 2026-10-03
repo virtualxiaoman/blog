@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "842978930874908672",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/842978930874908672",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月19日",
+    "pub_ts": 1695109727,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "安徽的小伙伴在哪里~[代号洛天依_你不对劲]非常荣幸大家愿意用天依的歌声展现记忆里深爱的家乡土地的旋律，天依希望可以以我为载体，传递更多这样的美好，希望大家都可以听听这首歌呀！[代号洛天依_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "安徽的小伙伴在哪里~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_你不对劲]",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "name": "你不对劲",
+        "url": "https://i0.hdslb.com/bfs/emote/f694efdafc888fce47054249dcc85a8d72359862.png"
+      },
+      {
+        "type": "text",
+        "text": "非常荣幸大家愿意用天依的歌声展现记忆里深爱的家乡土地的旋律，天依希望可以以我为载体，传递更多这样的美好，希望大家都可以听听这首歌呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/你不对劲.png",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "text": "[代号洛天依_你不对劲]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3927,
+    "comment": 135,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 841559379514753097,
+    "orig_mid": 22873623,
+    "deleted": false,
+    "archive_dir": "../../../22873623/2023-09/2023-09-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

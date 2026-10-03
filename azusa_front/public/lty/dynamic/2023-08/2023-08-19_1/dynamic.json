@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "831512098099953685",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/831512098099953685",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月19日",
+    "pub_ts": 1692439897,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "《天依游学记·歌行》第一集·内蒙篇 采风Vlog将于8月22日正式上线\n一起见证属于天依的“歌行”吧——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《天依游学记·歌行》第一集·内蒙篇 采风Vlog将于8月22日正式上线\n一起见证属于天依的“歌行”吧——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《天依游学记·歌行》预告短片 与天依一起开启吟游之旅",
+      "desc": "此行不止山川风月，更有流传了千年的传说过往，别具风格的民族乐器，坚持至今的民族艺术家.......亟待与天依一起唤起你对自然最初的向往，对生活最纯粹的热爱。\n\n《天依游学记·歌行》第一集·内蒙篇 采风Vlog将于8月22日正式上线\n一起见证属于天依的“歌行”吧——",
+      "jump_url": "https://www.bilibili.com/video/BV1Wu4y1v7Ky",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/ad7c74b2745a4d81af205d1184263a6ad24c8ca0.jpg",
+      "cover_file": "../../_assets/covers/2023-08-19_1.jpg",
+      "bvid": "BV1Wu4y1v7Ky",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Wu4y1v7Ky",
+        "aid": "914894552",
+        "cover": "http://i2.hdslb.com/bfs/archive/ad7c74b2745a4d81af205d1184263a6ad24c8ca0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Wu4y1v7Ky",
+        "stat": {
+          "danmaku": "164",
+          "play": "7.3万",
+          "vt": ""
+        },
+        "duration_text": "00:56",
+        "title": "《天依游学记·歌行》预告短片 与天依一起开启吟游之旅",
+        "desc": "此行不止山川风月，更有流传了千年的传说过往，别具风格的民族乐器，坚持至今的民族艺术家.......亟待与天依一起唤起你对自然最初的向往，对生活最纯粹的热爱。\n\n《天依游学记·歌行》第一集·内蒙篇 采风Vlog将于8月22日正式上线\n一起见证属于天依的“歌行”吧——",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15009,
+    "comment": 819,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1163658270054809634",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1163658270054809634",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月30日",
+    "pub_ts": 1769773704,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【乐鸣东方】卡池预约开启啦，请 多 多 支 持 吧！[洛天依八音奇响动态_咪]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【乐鸣东方】卡池预约开启啦，请 多 多 支 持 吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3786,
+    "comment": 141,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1163645799623557145,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-01/2026-01-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:15:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

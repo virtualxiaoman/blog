@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "522645348964875924",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/522645348964875924",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月9日",
+    "pub_ts": 1620526253,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "柔软却又牢靠，这是世界上最坚固的纸船~ 祝所有伟大的妈妈们母亲节快乐[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "柔软却又牢靠，这是世界上最坚固的纸船~ 祝所有伟大的妈妈们母亲节快乐"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6606,
+    "comment": 134,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 117096274668757230,
+    "orig_mid": 358606,
+    "deleted": false,
+    "archive_dir": "../../../358606/2018-05/2018-05-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

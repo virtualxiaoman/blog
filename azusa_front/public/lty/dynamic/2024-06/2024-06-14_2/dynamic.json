@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "id": "942752472650219556",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/942752472650219556",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月14日",
+    "pub_ts": 1718340065,
+    "location": ""
+  },
+  "topic": {
+    "id": 1046029,
+    "name": "5.21爱依日",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1046029&topic_name=5.21%E7%88%B1%E4%BE%9D%E6%97%A5"
+  },
+  "content": {
+    "title": "",
+    "text": "#521爱依日# 特别创作征集激励活动获奖作品公开~\n恭喜以下3份作品获得2000元特别奖励金！[洛天依_耶]\n@鸽稀拉 《回信》【洛天依原创】回信 \n@环冷太阳电子星系 《旋转人偶》【洛天依原创】旋转人偶【2023心音共鸣形象征集-加百列玫瑰-衍生曲】 \n@奇怪雷子QGRay 《专属礼物》【洛天依原创】专属礼物 - QGRay \n\n感谢大家的每一份投稿，每一份创作，每一条留言......\n所有也许本来只是稀疏平常的日子，我们一起将其细心装点，镌刻为永恒美好浪漫的回忆~ [洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#521爱依日#",
+        "url": "https://search.bilibili.com/all?keyword=521%E7%88%B1%E4%BE%9D%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": " 特别创作征集激励活动获奖作品公开~\n恭喜以下3份作品获得2000元特别奖励金！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@鸽稀拉",
+        "mid": 2374053,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《回信》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】回信",
+        "url": "https://www.bilibili.com/video/av1654725122",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@环冷太阳电子星系",
+        "mid": 3546605856753686,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《旋转人偶》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】旋转人偶【2023心音共鸣形象征集-加百列玫瑰-衍生曲】",
+        "url": "https://www.bilibili.com/video/av1254798467",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@奇怪雷子QGRay",
+        "mid": 393416910,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《专属礼物》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】专属礼物 - QGRay",
+        "url": "https://www.bilibili.com/video/av1254953384",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n\n感谢大家的每一份投稿，每一份创作，每一条留言......\n所有也许本来只是稀疏平常的日子，我们一起将其细心装点，镌刻为永恒美好浪漫的回忆~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/881fafec39e18b8139f1aa391f1fe75d36081646.jpg",
+        "width": 1600,
+        "height": 1880,
+        "size_kb": 2126.9599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4491,
+    "comment": 102,
+    "forward": 47
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1077854951015710741",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1077854951015710741",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月13日",
+    "pub_ts": 1749796062,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今年天依还将继续在bml的舞台上和大家相见哦！[洛天依·天星问动态_萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今年天依还将继续在bml的舞台上和大家相见哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4096,
+    "comment": 107,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 1077817664227770407,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2025-06/2025-06-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

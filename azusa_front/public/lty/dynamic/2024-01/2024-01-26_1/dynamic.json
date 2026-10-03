@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "890821782534094888",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/890821782534094888",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月26日",
+    "pub_ts": 1706249009,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这次是大家一起的收藏集！[洛天依歌行四方_欢迎]龙吟长歌，福满人间，天依为大家送上龙年祝福~ [洛天依歌行四方_送你花花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次是大家一起的收藏集！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "龙吟长歌，福满人间，天依为大家送上龙年祝福~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4029,
+    "comment": 214,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 890820884867055641,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-01/2024-01-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

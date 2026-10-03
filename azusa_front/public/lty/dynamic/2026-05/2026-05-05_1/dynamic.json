@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1198869859370270742",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1198869859370270742",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月5日",
+    "pub_ts": 1777972041,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "什么，怎么就是假期最后一天啦——[洛天依拜年纪动态表情包_不讲]\n趁着好天气，和大家再一起看看花，散散步～[洛天依拜年纪动态表情包_好多人啊]\n大家的假期都是怎么过哒？[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "什么，怎么就是假期最后一天啦——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_不讲]",
+        "package_id": "9451",
+        "emoji_id": "132890",
+        "name": "不讲",
+        "url": "https://i0.hdslb.com/bfs/garb/a80b89a8debc894a07dddea8b7827f9e1ff6bdd1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n趁着好天气，和大家再一起看看花，散散步～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_好多人啊]",
+        "package_id": "9451",
+        "emoji_id": "132872",
+        "name": "好多人啊",
+        "url": "https://i0.hdslb.com/bfs/garb/797e835495e7d19c91cb95da93a6741decf6dd59.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n大家的假期都是怎么过哒？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/不讲.gif",
+        "package_id": "9451",
+        "emoji_id": "132890",
+        "text": "[洛天依拜年纪动态表情包_不讲]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/好多人啊.gif",
+        "package_id": "9451",
+        "emoji_id": "132872",
+        "text": "[洛天依拜年纪动态表情包_好多人啊]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "小洛出游日记！",
+      "desc": "什么，怎么就是假期最后一天啦——\n趁着好天气，和大家再一起看看花，散散步～\n大家的假期都是怎么过哒？",
+      "jump_url": "https://www.bilibili.com/video/BV1omRkBQE2S",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/a1e524180e193ee637b7daeb5d952ca037d5c558.jpg",
+      "cover_file": "../../_assets/covers/2026-05-05_1.jpg",
+      "bvid": "BV1omRkBQE2S",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1omRkBQE2S",
+        "aid": "116521154119413",
+        "cover": "http://i0.hdslb.com/bfs/archive/a1e524180e193ee637b7daeb5d952ca037d5c558.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1omRkBQE2S",
+        "stat": {
+          "danmaku": "93",
+          "play": "6.1万",
+          "vt": ""
+        },
+        "duration_text": "00:10",
+        "title": "小洛出游日记！",
+        "desc": "什么，怎么就是假期最后一天啦——\n趁着好天气，和大家再一起看看花，散散步～\n大家的假期都是怎么过哒？",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23709,
+    "comment": 1094,
+    "forward": 100
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

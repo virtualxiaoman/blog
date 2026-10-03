@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "516828941039084674",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/516828941039084674",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月23日",
+    "pub_ts": 1619172015,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【清华大学110周年】清华迎来最萌同学洛天依！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【清华大学110周年】清华迎来最萌同学洛天依！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【新青年×清华大学】清华大学+新青年+洛天依=？",
+      "desc": "【清华大学110周年】清华迎来最萌同学洛天依！",
+      "jump_url": "https://www.bilibili.com/video/BV1wV411J7U3",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/a0e0c988bade0b3bf8691c226710d06de6dfbaea.jpg",
+      "cover_file": "../../_assets/covers/2021-04-23_1.jpg",
+      "bvid": "BV1wV411J7U3",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wV411J7U3",
+        "aid": "417649690",
+        "cover": "http://i0.hdslb.com/bfs/archive/a0e0c988bade0b3bf8691c226710d06de6dfbaea.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wV411J7U3",
+        "stat": {
+          "danmaku": "804",
+          "play": "27.6万",
+          "vt": ""
+        },
+        "duration_text": "01:53",
+        "title": "【新青年×清华大学】清华大学+新青年+洛天依=？",
+        "desc": "【清华大学110周年】清华迎来最萌同学洛天依！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29488,
+    "comment": 1287,
+    "forward": 50
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:30:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "500882706727080397",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/500882706727080397",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月11日",
+    "pub_ts": 1615459243,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你会一直在我的梦里……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你会一直在我的梦里……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6405,
+    "comment": 183,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 499399521372746765,
+    "orig_mid": 472547,
+    "deleted": false,
+    "archive_dir": "../../../472547/2021-03/2021-03-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

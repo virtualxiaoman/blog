@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "id": "922819958885318689",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/922819958885318689",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月21日",
+    "pub_ts": 1713699165,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#  | #天依的周边# 新品上架\n转发关注天依，揪2位小伙伴赠出【代号洛天依卡套】1个。\n旅程还未到终点，故事还将继续续写……\n\n♦本期上新\n#代号洛天依#-光栅3D海报（实验室款、G星款）\n#代号洛天依#-卡套\n\n♦购买地址\n「moeyu天猫旗舰店」\n「bilibili会员购」\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "293207",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  | "
+      },
+      {
+        "type": "topic",
+        "text": "#天依的周边#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+      },
+      {
+        "type": "text",
+        "text": " 新品上架\n转发关注天依，揪2位小伙伴赠出【代号洛天依卡套】1个。\n旅程还未到终点，故事还将继续续写……\n\n♦本期上新\n"
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "-光栅3D海报（实验室款、G星款）\n"
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "-卡套\n\n♦购买地址\n「moeyu天猫旗舰店」\n「bilibili会员购」"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-21_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2e443c8220f8dd5f6fbc2cf1666b42df36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 470.427734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-21_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/05aea87670ec8a91946b783dc864838536081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 476.7470703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-21_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a30a03697294de57e3f4da830d78fb1136081646.jpg",
+        "width": 750,
+        "height": 7588,
+        "size_kb": 7167.0546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-04-21_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1275953105bd50f10fe263cf42841ff836081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 592.3818359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-04-21_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5860c33b6a13e470107aa75e969cdaf936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 397.732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-04-21_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b4fc1a6d5f32dce2b91e34573b9d28dc36081646.jpg",
+        "width": 750,
+        "height": 6780,
+        "size_kb": 4575.806640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依实验室 COUD LUO 3D海报",
+            "price": "¥35",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/74/07/74074a85b126f7efa05341c488bac064.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10318543&msource=cps_Mdynamic_36081646_cont-2-922819958885318689&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-04-21_1.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依实验室 CODE LUO ABS卡套",
+            "price": "¥19",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/76/2b/762b3f7c2b3196457abd52329c79f50d.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10318568&msource=cps_Mdynamic_36081646_cont-2-922819958885318689&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-04-21_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "293207"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6637,
+    "comment": 1386,
+    "forward": 6913
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

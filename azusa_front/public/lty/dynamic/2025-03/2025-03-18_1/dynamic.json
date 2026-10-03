@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1045630150700433409",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1045630150700433409",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月18日",
+    "pub_ts": 1742293141,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不需要任何意义，接受迷茫和失落，空空的你愿意和空空的我一起在这个世界，留下些什么吗？[洛天依-潮声回响_摸摸头]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不需要任何意义，接受迷茫和失落，空空的你愿意和空空的我一起在这个世界，留下些什么吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7033,
+    "comment": 242,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 1038984410360184851,
+    "orig_mid": 393416910,
+    "deleted": false,
+    "archive_dir": "../../../393416910/2025-02/2025-02-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

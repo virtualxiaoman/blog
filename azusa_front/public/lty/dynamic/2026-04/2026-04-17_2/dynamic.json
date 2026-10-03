@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1192209314251538449",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1192209314251538449",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月17日",
+    "pub_ts": 1776421262,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谨以《唱山》，献给广西三月三。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谨以《唱山》，献给广西三月三。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "献给广西三月三 | 洛天依原创曲《唱山》【国乐季·天琴篇】",
+      "desc": "三月三，歌先热起来。\n\n我踩着还带着露水的山路走进歌圩，竹叶包好的五色糯米饭刚出锅，人群已经热起来了——银饰在响，绣球在空中划过弧线，一句山歌，从这坡传到那坡。\n\n这一次，我想弹着天琴，沿着刘三姐留下的歌声，继续往前唱——一声山歌，声声相续，生生不息。\n\n谨以《唱山》，献给广西三月三。\n\n作词/作曲：方依礼\n制作人：刘鑫磊\n调教：玖蝶\n编曲/吉他/贝斯:juno heo\n天琴：农海华\n桂剧演唱：王春、陈亦如\n和声编写/和声：李佳琦\n音频编辑：刘鑫磊、漆柚\n混音：Alex\n母带：Joel John Nice",
+      "jump_url": "https://www.bilibili.com/video/BV1wid5BnEkD",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/3c537a06d89abe364504d665e1055e39f3e7e3af.jpg",
+      "cover_file": "../../_assets/covers/2026-04-17_1.jpg",
+      "bvid": "BV1wid5BnEkD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wid5BnEkD",
+        "aid": "116419534520840",
+        "cover": "http://i2.hdslb.com/bfs/archive/3c537a06d89abe364504d665e1055e39f3e7e3af.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wid5BnEkD",
+        "stat": {
+          "danmaku": "2137",
+          "play": "110.5万",
+          "vt": ""
+        },
+        "duration_text": "04:21",
+        "title": "献给广西三月三 | 洛天依原创曲《唱山》【国乐季·天琴篇】",
+        "desc": "三月三，歌先热起来。\n\n我踩着还带着露水的山路走进歌圩，竹叶包好的五色糯米饭刚出锅，人群已经热起来了——银饰在响，绣球在空中划过弧线，一句山歌，从这坡传到那坡。\n\n这一次，我想弹着天琴，沿着刘三姐留下的歌声，继续往前唱——一声山歌，声声相续，生生不息。\n\n谨以《唱山》，献给广西三月三。\n\n作词/作曲：方依礼\n制作人：刘鑫磊\n调教：玖蝶\n编曲/吉他/贝斯:juno heo\n天琴：农海华\n桂剧演唱：王春、陈亦如\n和声编写/和声：李佳琦\n音频编辑：刘鑫磊、漆柚\n混音：Alex\n母带：Joel John Nice",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 98773,
+    "comment": 5605,
+    "forward": 988
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

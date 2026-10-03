@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "id": "1190959459453632515",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1190959459453632515",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月14日",
+    "pub_ts": 1776130257,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #乱涂彩世界428公测#\n一场神秘的环球巡染演唱会即将开启——\n糟糕，我的天依蓝怎么被吸走啦！[洛天依国乐季动态表情包_哭哭]\n\n洛天依×《乱涂！彩世界》联动确认！[洛天依国乐季动态表情包_中]\n4月28日，和乐色少女组一起@乱涂彩世界 \n用歌声给世界涂满天依蓝吧~🎵 \n\n▉关注并转发本条动态，揪1位小伙伴送出「洛天依-霓裳步月 手办」1个。\n#乱涂彩世界联动洛天依# #洛天依超正经环球巡染#\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#乱涂彩世界428公测#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B9%B1%E6%B6%82%E5%BD%A9%E4%B8%96%E7%95%8C428%E5%85%AC%E6%B5%8B"
+      },
+      {
+        "type": "text",
+        "text": "\n一场神秘的环球巡染演唱会即将开启——\n糟糕，我的天依蓝怎么被吸走啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_哭哭]",
+        "package_id": "9546",
+        "emoji_id": "134442",
+        "name": "哭哭",
+        "url": "https://i0.hdslb.com/bfs/garb/32c3e93f4e782cd54793f85ef956537589c69102.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n洛天依×《乱涂！彩世界》联动确认！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_中]",
+        "package_id": "9546",
+        "emoji_id": "134452",
+        "name": "中",
+        "url": "https://i0.hdslb.com/bfs/garb/e0816688039b100c3fb2f6803c2402090816bce3.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n4月28日，和乐色少女组一起"
+      },
+      {
+        "type": "mention",
+        "text": "@乱涂彩世界 ",
+        "mid": 1428761468,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n用歌声给世界涂满天依蓝吧~🎵 \n\n▉关注并转发本条动态，揪1位小伙伴送出「洛天依-霓裳步月 手办」1个。\n"
+      },
+      {
+        "type": "topic",
+        "text": "#乱涂彩世界联动洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B9%B1%E6%B6%82%E5%BD%A9%E4%B8%96%E7%95%8C%E8%81%94%E5%8A%A8%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依超正经环球巡染#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%B6%85%E6%AD%A3%E7%BB%8F%E7%8E%AF%E7%90%83%E5%B7%A1%E6%9F%93"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c49e39454c14627e008794b3aa71ced436081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 981.4199829101562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/哭哭.gif",
+        "package_id": "9546",
+        "emoji_id": "134442",
+        "text": "[洛天依国乐季动态表情包_哭哭]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/中.gif",
+        "package_id": "9546",
+        "emoji_id": "134452",
+        "text": "[洛天依国乐季动态表情包_中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7515,
+    "comment": 2939,
+    "forward": 3478
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

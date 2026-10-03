@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817460558538211334",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817460558538211334",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689168268,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "自瓦纳海姆，穿越银河，为你歌唱——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "自瓦纳海姆，穿越银河，为你歌唱——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "外星少女 穿越银河放声歌唱 《来自瓦纳海姆》【洛天依11周年生日会】",
+      "desc": "自瓦纳海姆，穿越银河，为你歌唱——\n\n《来自瓦纳海姆》\n作曲/编曲：litterzy\n作词：冥凰\n调校：Creuzer\n原视频：BV1pg411f7Ae",
+      "jump_url": "https://www.bilibili.com/video/BV1ru411j793",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/7717b867bbd3dcb2a781374a16ae1b85bd07302a.jpg",
+      "cover_file": "../../_assets/covers/2023-07-12_3.jpg",
+      "bvid": "BV1ru411j793",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ru411j793",
+        "aid": "530753112",
+        "cover": "http://i0.hdslb.com/bfs/archive/7717b867bbd3dcb2a781374a16ae1b85bd07302a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ru411j793",
+        "stat": {
+          "danmaku": "461",
+          "play": "21.1万",
+          "vt": ""
+        },
+        "duration_text": "03:48",
+        "title": "外星少女 穿越银河放声歌唱 《来自瓦纳海姆》【洛天依11周年生日会】",
+        "desc": "自瓦纳海姆，穿越银河，为你歌唱——\n\n《来自瓦纳海姆》\n作曲/编曲：litterzy\n作词：冥凰\n调校：Creuzer\n原视频：BV1pg411f7Ae",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29066,
+    "comment": 964,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

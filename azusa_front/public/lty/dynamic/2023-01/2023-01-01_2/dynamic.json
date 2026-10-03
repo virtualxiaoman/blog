@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "746150052753309752",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/746150052753309752",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月1日",
+    "pub_ts": 1672564997,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "何其有幸，又与大家相伴走过一年啦~\n美好的过去应当珍藏，未知的远方也更值得期待。\n元旦快乐呀！新的一年，祝大家平安顺遂，万事如意！[洛天依·夜航星_新年快乐]\n新年许下的第一个愿望永远是要一直为你们歌唱，大家许下了什么新年愿望呢？[洛天依_最喜欢你了]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "何其有幸，又与大家相伴走过一年啦~\n美好的过去应当珍藏，未知的远方也更值得期待。\n元旦快乐呀！新的一年，祝大家平安顺遂，万事如意！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_新年快乐]",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "name": "新年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/80d5195ee966465f5f338db26f2faba51afcd217.png"
+      },
+      {
+        "type": "text",
+        "text": "\n新年许下的第一个愿望永远是要一直为你们歌唱，大家许下了什么新年愿望呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2aefeea599557433587572c4ccfafc4136081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 1160.2392578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/新年快乐.png",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "text": "[洛天依·夜航星_新年快乐]"
+      },
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15955,
+    "comment": 674,
+    "forward": 280
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:48:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

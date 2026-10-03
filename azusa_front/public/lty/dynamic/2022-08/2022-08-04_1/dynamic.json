@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "690394303469453346",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/690394303469453346",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月4日",
+    "pub_ts": 1659583350,
+    "location": ""
+  },
+  "topic": {
+    "id": 9865,
+    "name": "Vsinger创作激励计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9865&topic_name=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖  ❀洛天依 · 青鸟传信❀ 传说在神灵尚未消失的时代 凡人不被允许直面天空的光彩 偏有一位少年，不甘心淹没于脚下的黄土 想要追寻天边的五彩云霞 人们对他施以嘲讽：你可知道，云霞生处乃是蓬山 是神仙居所，凡人之躯怎配憧憬？ 但少年并不放弃，他奔跑、追逐，一直到筋疲力尽 可象征幸福的霞光却似乎仍然远在天边  绝望之际，青鸟从天而降，为他带来了消息 霎时间，温煦的风吹过少年的脸颊 璀璨的霞光盈满了少年的眼眶 少年涌出热泪：蓬山的仙使啊，是你为我带来了希望 青鸟却回答： 你能抵达远方的天边，那不是因为我的力量 而是因为你对幸福的渴望   #洛天依# #七夕# 这就是天依要和大家讲述的故事啦，关注我并转发本条动态，抽3位小伙伴送出【Vsinger 绮旅系列 角色立牌 洛天依款】一份。 [洛天依_最喜欢你了]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "104065",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  ❀洛天依 · 青鸟传信❀ 传说在神灵尚未消失的时代 凡人不被允许直面天空的光彩 偏有一位少年，不甘心淹没于脚下的黄土 想要追寻天边的五彩云霞 人们对他施以嘲讽：你可知道，云霞生处乃是蓬山 是神仙居所，凡人之躯怎配憧憬？ 但少年并不放弃，他奔跑、追逐，一直到筋疲力尽 可象征幸福的霞光却似乎仍然远在天边  绝望之际，青鸟从天而降，为他带来了消息 霎时间，温煦的风吹过少年的脸颊 璀璨的霞光盈满了少年的眼眶 少年涌出热泪：蓬山的仙使啊，是你为我带来了希望 青鸟却回答： 你能抵达远方的天边，那不是因为我的力量 而是因为你对幸福的渴望   "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#七夕#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%83%E5%A4%95"
+      },
+      {
+        "type": "text",
+        "text": " 这就是天依要和大家讲述的故事啦，关注我并转发本条动态，抽3位小伙伴送出【Vsinger 绮旅系列 角色立牌 洛天依款】一份。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4f07b3b5b42ddb59e9a8c3c28cbe5b0236081646.jpg",
+        "width": 3000,
+        "height": 5108,
+        "size_kb": 1054.0322265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "104065"
+  },
+  "vote": null,
+  "stats": {
+    "like": 14684,
+    "comment": 1352,
+    "forward": 14558
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

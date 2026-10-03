@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "id": "1091652950071181334",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1091652950071181334",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月20日",
+    "pub_ts": 1753008659,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "各位亲爱的 Producer 老师请注意！[洛天依八音奇响动态_可爱]\n洛天依大型原创音乐征集活动「闪耀的Producer 」作品征稿期即将于7月20日今晚截止啦！\n让天依看看有没有究极死线战士呀～[洛天依八音奇响动态_嘻嘻]\n\n7月25日，正式进入紧张刺激的闪耀擂台期！\n将从所有征稿期内投稿的作品中选出36份作品分为两组进行闪耀对决！一起投出你心中闪耀的Producer吧～[洛天依八音奇响动态_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "各位亲爱的 Producer 老师请注意！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依大型原创音乐征集活动「闪耀的Producer 」作品征稿期即将于7月20日今晚截止啦！\n让天依看看有没有究极死线战士呀～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n7月25日，正式进入紧张刺激的闪耀擂台期！\n将从所有征稿期内投稿的作品中选出36份作品分为两组进行闪耀对决！一起投出你心中闪耀的Producer吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_赞]",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/311e217d343d1eb6a2330fe39518904106796890.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b6670d27adf12e7e46d9e3d013ec92236081646.jpg",
+        "width": 3600,
+        "height": 2025,
+        "size_kb": 6303.372,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-20_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e3065b139182470ee1e6c90cd6c3019a36081646.jpg",
+        "width": 1080,
+        "height": 1967,
+        "size_kb": 790.829,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/赞.gif",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "text": "[洛天依八音奇响动态_赞]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 闪耀的Producer系列周边",
+            "price": "¥12",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f5/a6/5b289f4e17b37d699677566047db83a9.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12550837&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1091652950071181334",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-20_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5578,
+    "comment": 198,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

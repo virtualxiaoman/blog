@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1174402843704033286",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1174402843704033286",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月28日",
+    "pub_ts": 1772275370,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "幸运石这次为大家带来的天依的香薰摆件和运动骑行表带周边喔！大家康康~[洛天依拜年纪动态表情包_展示]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "幸运石这次为大家带来的天依的香薰摆件和运动骑行表带周边喔！大家康康~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_展示]",
+        "package_id": "9451",
+        "emoji_id": "132873",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/010cb10b83911c7116154a8cf9380eb733a389c3.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/展示.gif",
+        "package_id": "9451",
+        "emoji_id": "132873",
+        "text": "[洛天依拜年纪动态表情包_展示]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4443,
+    "comment": 110,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 1174285792938295299,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2026-02/2026-02-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:18:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "953657274310590502",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/953657274310590502",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月13日",
+    "pub_ts": 1720879037,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“万能的宇宙大人啊 告诉我未来会好吗”\n从茫茫宇宙中回应你的，会是若干年前那个曾经的自己吗——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“万能的宇宙大人啊 告诉我未来会好吗”\n从茫茫宇宙中回应你的，会是若干年前那个曾经的自己吗——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "好像不小心掉进了《异样的风暴中心》【洛天依十二周年生日会】",
+      "desc": "“万能的宇宙大人啊 告诉我未来会好吗”\n从茫茫宇宙中回应你的，会是若干年前那个曾经的自己吗——\n\n感谢2016年@杉田朗  老师带来的这一首\n《异样的风暴中心》\n原视频：BV1js411Q7Vc\n作曲/编曲/调校：杉田朗\n作词：和田野",
+      "jump_url": "https://www.bilibili.com/video/BV18y411B7qz",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/3a86afb063f0a5bc453bf96f1cd8afe36e322dd3.jpg",
+      "cover_file": "../../_assets/covers/2024-07-13_1.jpg",
+      "bvid": "BV18y411B7qz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18y411B7qz",
+        "aid": "1956092673",
+        "cover": "http://i0.hdslb.com/bfs/archive/3a86afb063f0a5bc453bf96f1cd8afe36e322dd3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18y411B7qz",
+        "stat": {
+          "danmaku": "332",
+          "play": "52.9万",
+          "vt": ""
+        },
+        "duration_text": "05:32",
+        "title": "好像不小心掉进了《异样的风暴中心》【洛天依十二周年生日会】",
+        "desc": "“万能的宇宙大人啊 告诉我未来会好吗”\n从茫茫宇宙中回应你的，会是若干年前那个曾经的自己吗——\n\n感谢2016年@杉田朗  老师带来的这一首\n《异样的风暴中心》\n原视频：BV1js411Q7Vc\n作曲/编曲/调校：杉田朗\n作词：和田野",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23679,
+    "comment": 942,
+    "forward": 110
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

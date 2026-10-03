@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1094563713823801345",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1094563713823801345",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月28日",
+    "pub_ts": 1753686374,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "就是今晚啦！[洛天依动态流光协奏_抱抱][洛天依动态流光协奏_抱抱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "就是今晚啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5367,
+    "comment": 604,
+    "forward": 143
+  },
+  "forward": {
+    "orig_id": 1093496715106844697,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-07-25_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:36:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

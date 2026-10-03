@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "958416042245226503",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/958416042245226503",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月26日",
+    "pub_ts": 1721987024,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "如果思念可以跨越时空，请给我一个瞬间，让我再次听到你的呼唤。\n今年，天依会再次和大家相约线下演唱会的舞台！[洛天依心律共鸣表情包_开心]\n天依的演唱会巡回计划正在筹备中啦，悄悄从老v的备忘录里提取了几个关键词：十月、上海、还有......好像这几天老v也出差到其他城市看场地啦！[洛天依·收藏集表情包_想要]\n等等！还有一个歌单（待定）文件夹，让天依打开看看——[洛天依心律共鸣表情包_检查浓度]\n有这首，这首，好耶！那么，大家都期待在演唱会上看到哪些歌曲的表演呀？[洛天依·收藏集表情包_时间歌者]\n\n感谢大家一直以来的支持和等待，想听天依唱的歌，说的话，评论告诉我吧~[洛天依蝶变_害羞]\n转发关注天依，揪1位小伙伴送出【演唱会直达席位】1个！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果思念可以跨越时空，请给我一个瞬间，让我再次听到你的呼唤。\n今年，天依会再次和大家相约线下演唱会的舞台！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依的演唱会巡回计划正在筹备中啦，悄悄从老v的备忘录里提取了几个关键词：十月、上海、还有......好像这几天老v也出差到其他城市看场地啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_想要]",
+        "package_id": "5283",
+        "emoji_id": "77204",
+        "name": "想要",
+        "url": "https://i0.hdslb.com/bfs/garb/247cf69ee8cc4090a515d1d63ff6348bd2902e3e.png"
+      },
+      {
+        "type": "text",
+        "text": "\n等等！还有一个歌单（待定）文件夹，让天依打开看看——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_检查浓度]",
+        "package_id": "5361",
+        "emoji_id": "78487",
+        "name": "检查浓度",
+        "url": "https://i0.hdslb.com/bfs/garb/1a68f0ec04485c0bf009cc5fec4cd50d2d79f29c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n有这首，这首，好耶！那么，大家都期待在演唱会上看到哪些歌曲的表演呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n感谢大家一直以来的支持和等待，想听天依唱的歌，说的话，评论告诉我吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪1位小伙伴送出【演唱会直达席位】1个！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/77c1b61cc6bf39354129327b370145a736081646.jpg",
+        "width": 4000,
+        "height": 2250,
+        "size_kb": 9865.4345703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/想要.png",
+        "package_id": "5283",
+        "emoji_id": "77204",
+        "text": "[洛天依·收藏集表情包_想要]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/检查浓度.png",
+        "package_id": "5361",
+        "emoji_id": "78487",
+        "text": "[洛天依心律共鸣表情包_检查浓度]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10066,
+    "comment": 3083,
+    "forward": 3275
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

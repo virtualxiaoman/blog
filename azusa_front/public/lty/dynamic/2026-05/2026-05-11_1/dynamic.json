@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1201126856058732545",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1201126856058732545",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月11日",
+    "pub_ts": 1778497539,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "很高兴和天选姬一起唱歌，让我们拥抱彼此，期待更闪耀的明天吧~[洛天依动态流光协奏_抱抱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴和天选姬一起唱歌，让我们拥抱彼此，期待更闪耀的明天吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5434,
+    "comment": 155,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 1201109955384442921,
+    "orig_mid": 471130755,
+    "deleted": false,
+    "archive_dir": "../../../471130755/2026-05/2026-05-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

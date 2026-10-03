@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1082671026707365889",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1082671026707365889",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月26日",
+    "pub_ts": 1750917392,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "天依很高兴邀请到春野老师创作！！请期待《捉迷藏》吧~记得预约哦！[洛天依-潮声回响_摸摸头]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴邀请到春野老师创作！！请期待《捉迷藏》吧~记得预约哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3942,
+    "comment": 117,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 1082651308505169939,
+    "orig_mid": 215889001,
+    "deleted": false,
+    "archive_dir": "../../../215889001/2025-06/2025-06-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

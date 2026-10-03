@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "251905239278222301",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/251905239278222301",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月10日",
+    "pub_ts": 1557489659,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#BML##BMLVR##洛天依#\nBilibili Macro Link - Visual Release × Vsinger Live 2018官方回播上线！由BML携手Vsinger共同举办，出演艺人有洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦，现场还有2233娘以及大天狗作为特别嘉宾，一同为观众奉上了全息演唱会新体验。BML-VR2019现已公开，详情请关注官方网站https://bml.bilibili.com",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#BML#",
+        "url": "https://search.bilibili.com/all?keyword=BML"
+      },
+      {
+        "type": "topic",
+        "text": "#BMLVR#",
+        "url": "https://search.bilibili.com/all?keyword=BMLVR"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\nBilibili Macro Link - Visual Release × Vsinger Live 2018官方回播上线！由BML携手Vsinger共同举办，出演艺人有洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦，现场还有2233娘以及大天狗作为特别嘉宾，一同为观众奉上了全息演唱会新体验。BML-VR2019现已公开，详情请关注官方网站"
+      },
+      {
+        "type": "link",
+        "text": "https://bml.bilibili.com",
+        "url": "https://bml.bilibili.com"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【官方回播】Bilibili Macro Link - Visual Release × Vsinger Live 2018",
+      "desc": "Bilibili Macro Link - Visual Release × Vsinger Live 2018官方回播上线！由BML携手Vsinger共同举办，出演艺人有洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦，现场还有2233娘以及大天狗作为特别嘉宾，一同为观众奉上了全息演唱会新体验。BML-VR2019现已公开，详情请关注官方网站https://bml.bilibili.com",
+      "jump_url": "https://www.bilibili.com/video/BV1M4411Y7R1",
+      "cover_url": "http://i0.hdslb.com/bfs/bangumi/21cb4e8378d89745f88996fd3fb43d000f65de41.jpg",
+      "cover_file": "../../_assets/covers/2019-05-10_1.jpg",
+      "bvid": "BV1M4411Y7R1",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1M4411Y7R1",
+        "aid": "51915317",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/21cb4e8378d89745f88996fd3fb43d000f65de41.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1M4411Y7R1",
+        "stat": {
+          "danmaku": "6.1万",
+          "play": "194.6万",
+          "vt": ""
+        },
+        "duration_text": "02:23:34",
+        "title": "【官方回播】Bilibili Macro Link - Visual Release × Vsinger Live 2018",
+        "desc": "Bilibili Macro Link - Visual Release × Vsinger Live 2018官方回播上线！由BML携手Vsinger共同举办，出演艺人有洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦，现场还有2233娘以及大天狗作为特别嘉宾，一同为观众奉上了全息演唱会新体验。BML-VR2019现已公开，详情请关注官方网站https://bml.bilibili.com",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "BILIBILI MACRO LINK-VISUAL RELEASR 2018",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss32882",
+      "cover_url": "http://i0.hdslb.com/bfs/bangumi/image/b9bea3a720ce07a6630365b493509ae274925bdf.jpg",
+      "cover_file": "../../_assets/covers/2019-05-10_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss32882",
+        "id_str": "51915317",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/b9bea3a720ce07a6630365b493509ae274925bdf.jpg",
+        "style": 2,
+        "title": "BILIBILI MACRO LINK-VISUAL RELEASR 2018",
+        "desc1": "bilibili出品 已完结，共1集",
+        "desc2": "7.5万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 51355,
+    "comment": 6433,
+    "forward": 37
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1164735069889232961",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1164735069889232961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月2日",
+    "pub_ts": 1770024416,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "次元回响｜虚拟歌姬洛天依携实力主播，破次元同台合奏《权御天下》《万古生香》",
+      "desc": "节目名：次元回响\npart1:曲目《权御天下》\n表演：@洛天依  、唢呐金龙\n作词：St \n作曲：乌龟Sui\n\npart2:曲目《万古生香》\n表演：@洛天依  、﻿@星瞳_Official  、@黎歌Neeko  、@雪糕cheese 、@绪任克斯Syrinx  \n作词：Vagary\n作曲：litterzy",
+      "jump_url": "https://www.bilibili.com/video/BV18K6nB3Evi",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/979cb37aac1a89a02131fbeaf17c8dadbfce030c.jpg",
+      "cover_file": "../../_assets/covers/2026-02-02_1.jpg",
+      "bvid": "BV18K6nB3Evi",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18K6nB3Evi",
+        "aid": "115990591570200",
+        "cover": "http://i0.hdslb.com/bfs/archive/979cb37aac1a89a02131fbeaf17c8dadbfce030c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18K6nB3Evi",
+        "stat": {
+          "danmaku": "648",
+          "play": "76.3万",
+          "vt": ""
+        },
+        "duration_text": "07:35",
+        "title": "次元回响｜虚拟歌姬洛天依携实力主播，破次元同台合奏《权御天下》《万古生香》",
+        "desc": "节目名：次元回响\npart1:曲目《权御天下》\n表演：@洛天依  、唢呐金龙\n作词：St \n作曲：乌龟Sui\n\npart2:曲目《万古生香》\n表演：@洛天依  、﻿@星瞳_Official  、@黎歌Neeko  、@雪糕cheese 、@绪任克斯Syrinx  \n作词：Vagary\n作曲：litterzy",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 31197,
+    "comment": 733,
+    "forward": 33
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "532321712708725467",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/532321712708725467",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月4日",
+    "pub_ts": 1622779207,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #心情小语# 看到天气晴朗，心情也不禁变好了。 这样的好天气就适合踏着轻快的节奏上街玩耍~ 大家天气好的时候都会想去哪里呢？ [洛天依·夜航星_好康]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#心情小语#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BF%83%E6%83%85%E5%B0%8F%E8%AF%AD"
+      },
+      {
+        "type": "text",
+        "text": " 看到天气晴朗，心情也不禁变好了。 这样的好天气就适合踏着轻快的节奏上街玩耍~ 大家天气好的时候都会想去哪里呢？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/81832d45b21c9c1b9ead376f24551e69006d1850.jpg",
+        "width": 1266,
+        "height": 1600,
+        "size_kb": 569.84765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8239,
+    "comment": 299,
+    "forward": 92
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

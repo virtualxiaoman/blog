@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "410733177126269600",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/410733177126269600",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月11日",
+    "pub_ts": 1594469670,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嗨起来，冲呀！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嗨起来，冲呀！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6316,
+    "comment": 218,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 410335330010878187,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2020-07/2020-07-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

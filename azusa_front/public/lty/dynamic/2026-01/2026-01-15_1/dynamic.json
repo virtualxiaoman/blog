@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1157974649626165266",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1157974649626165266",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月15日",
+    "pub_ts": 1768450383,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@小啊离敲阔爱@抱着刻晴喝椰奶@satori-__-等10位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@小啊离敲阔爱",
+        "mid": 409644974,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@抱着刻晴喝椰奶",
+        "mid": 23760738,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@satori-__-",
+        "mid": 7266114,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等10位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2886,
+    "comment": 36,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 1146100473772638241,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-12/2025-12-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:13:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

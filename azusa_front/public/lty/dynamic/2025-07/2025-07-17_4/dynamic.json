@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "1090558334670471177",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/1090558334670471177",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月17日",
+    "pub_ts": 1752753799,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依十三周年生日会直播间鼎力赞助\n⭐【舰长老师们】⭐请看过来~[洛天依八音奇响动态_可爱]\n\n请大家通过填写问卷的形式登记地址信息！\n地址这里：https://www.wjx.cn/vm/Q0Txwlu.aspx# \n如果有一直没有填写但上舰了的小伙伴，天依也会进行再次私信提醒~[洛天依八音奇响动态_爱意]\n\n💙7 月 1 日-7 月 31 日，在天依直播间开通大航海均可获得对应礼物一份，详情可以戳网页链接[洛天依八音奇响动态_美丽]\n\n❗注意注意\n如果有冒领或者假填信息的坏人，会永远禁止参与任何福利抽奖活动哦！ [洛天依八音奇响动态_愤怒]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依十三周年生日会直播间鼎力赞助\n⭐【舰长老师们】⭐请看过来~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n请大家通过填写问卷的形式登记地址信息！\n地址这里："
+      },
+      {
+        "type": "text",
+        "text": "https://www.wjx.cn/vm/Q0Txwlu.aspx#"
+      },
+      {
+        "type": "text",
+        "text": " \n如果有一直没有填写但上舰了的小伙伴，天依也会进行再次私信提醒~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💙7 月 1 日-7 月 31 日，在天依直播间开通大航海均可获得对应礼物一份，详情可以戳"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/y8CKpDG"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n❗注意注意\n如果有冒领或者假填信息的坏人，会永远禁止参与任何福利抽奖活动哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_愤怒]",
+        "package_id": "8362",
+        "emoji_id": "115075",
+        "name": "愤怒",
+        "url": "https://i0.hdslb.com/bfs/garb/b837967cc9b1808c8880344efd99aa701d8742d8.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/愤怒.gif",
+        "package_id": "8362",
+        "emoji_id": "115075",
+        "text": "[洛天依八音奇响动态_愤怒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5559,
+    "comment": 586,
+    "forward": 59
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

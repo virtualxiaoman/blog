@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "936162502462406676",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/936162502462406676",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月27日",
+    "pub_ts": 1716805718,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "周一周一，你需要天依的_____补充能量？[洛天依幻游世界_摸摸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "周一周一，你需要天依的_____补充能量？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_摸摸]",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c97346bd9f5bb64a1cad8eecf85f50cc7a083eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-27_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dcaa7e179d6f35b6b7dee336c7e7fe7236081646.png",
+        "width": 1426,
+        "height": 1426,
+        "size_kb": 258.494140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/摸摸.png",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "text": "[洛天依幻游世界_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6770,
+    "comment": 673,
+    "forward": 78
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

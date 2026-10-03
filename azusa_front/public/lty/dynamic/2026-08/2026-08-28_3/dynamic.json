@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1241558273755185154",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1241558273755185154",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月28日",
+    "pub_ts": 1787911212,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天涯 / 雄之助 feat. 洛天依",
+      "desc": "投稿了新曲！\n这是 “闪耀的Producer” 的参加曲目\n请多多指教 !!!\n\n◇Off Vocal：https://drive.google.com/drive/folders/1EJN5JzrnItRt9IKRCX09lf_nfj0Cl4p1?usp=drive_link\n\n-----------------------------------------\nMusic：雄之助\nLyrics：牛肉\nVocal Tuning：晴いちばん\nIllustration：くさじろう\nMovie：月咲\n-----",
+      "jump_url": "https://www.bilibili.com/video/BV1mr8d6mEBh",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/ee30575da9042a964fc38a3c5af9caed91956a64.jpg",
+      "cover_file": "../../_assets/covers/2026-08-28_1.jpg",
+      "bvid": "BV1mr8d6mEBh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1mr8d6mEBh",
+        "aid": "117161456771059",
+        "cover": "http://i2.hdslb.com/bfs/archive/ee30575da9042a964fc38a3c5af9caed91956a64.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1mr8d6mEBh",
+        "stat": {
+          "danmaku": "922",
+          "play": "104.1万",
+          "vt": ""
+        },
+        "duration_text": "02:35",
+        "title": "天涯 / 雄之助 feat. 洛天依",
+        "desc": "投稿了新曲！\n这是 “闪耀的Producer” 的参加曲目\n请多多指教 !!!\n\n◇Off Vocal：https://drive.google.com/drive/folders/1EJN5JzrnItRt9IKRCX09lf_nfj0Cl4p1?usp=drive_link\n\n-----------------------------------------\nMusic：雄之助\nLyrics：牛肉\nVocal Tuning：晴いちばん\nIllustration：くさじろう\nMovie：月咲\n-----",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 83084,
+    "comment": 2923,
+    "forward": 24
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

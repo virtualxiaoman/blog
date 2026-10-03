@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "648069582480736294",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/648069582480736294",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月12日",
+    "pub_ts": 1649728858,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "阿绫生日快乐！ 为今天的寿星换一个我的同款发型~ @乐正绫 ，喜欢不！[洛天依9th_生日快乐]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "阿绫生日快乐！ 为今天的寿星换一个我的同款发型~ "
+      },
+      {
+        "type": "mention",
+        "text": "@乐正绫 ",
+        "mid": 406948651,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "，喜欢不！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_生日快乐]",
+        "package_id": "255",
+        "emoji_id": "4239",
+        "name": "生日快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/339f77a523e86bc17adc2b377125e45b51e0fc5c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f709bd2705eb0d789a716846df9cef66e45a7be8.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 531.6699829101562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/生日快乐.png",
+        "package_id": "255",
+        "emoji_id": "4239",
+        "text": "[洛天依9th_生日快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15959,
+    "comment": 811,
+    "forward": 272
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:45:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

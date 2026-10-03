@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "929508726203744305",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/929508726203744305",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月9日",
+    "pub_ts": 1715256515,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小酌三盏两杯，理不清缠绕的情结[洛天依歌行四方_竹中吟笛]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小酌三盏两杯，理不清缠绕的情结"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_竹中吟笛]",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "name": "竹中吟笛",
+        "url": "https://i0.hdslb.com/bfs/emote/9791340aaccc3b71292ebc206cb2a962ea1848be.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/竹中吟笛.png",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "text": "[洛天依歌行四方_竹中吟笛]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5403,
+    "comment": 157,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 929505204331610117,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-05/2024-05-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

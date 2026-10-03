@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "866022095887269896",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/866022095887269896",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月20日",
+    "pub_ts": 1700474882,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "新的一周，为大家带来《天依游学记》内蒙篇单曲新进度啦！[洛天依蝶变_YEAH！]\n“青翠野草绵延 跨过山脊的视线\n歌声拍打水面 激起亘古的漪涟”\n嘿嘿，天依悄悄问了作词@果汁凉菜 老师，给大家透露两句歌词~\n对了对了，这次天依还邀请到了老朋友XXXX老师合作，大家猜到是谁了嘛[洛天依蝶变_电子琴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新的一周，为大家带来《天依游学记》内蒙篇单曲新进度啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“青翠野草绵延 跨过山脊的视线\n歌声拍打水面 激起亘古的漪涟”\n嘿嘿，天依悄悄问了作词"
+      },
+      {
+        "type": "mention",
+        "text": "@果汁凉菜",
+        "mid": 1629850,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师，给大家透露两句歌词~\n对了对了，这次天依还邀请到了老朋友XXXX老师合作，大家猜到是谁了嘛"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-11-20_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/d3725fbc364169aa95e35c481efd46aa36081646.jpg",
+        "width": 1080,
+        "height": 3710,
+        "size_kb": 431.55999755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-11-20_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/989a19389e005e99ca7d5dc77a3ab79236081646.jpg",
+        "width": 1076,
+        "height": 4372,
+        "size_kb": 681.4638671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5818,
+    "comment": 223,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:00:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "201741593216281777",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/201741593216281777",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年12月26日",
+    "pub_ts": 1545810025,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "|ω・`)Knock knock，请问有人在家吗？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "|ω・`)Knock knock，请问有人在家吗？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3298,
+    "comment": 252,
+    "forward": 12
+  },
+  "forward": {
+    "orig_id": 201417615243719297,
+    "orig_mid": 84817546,
+    "deleted": false,
+    "archive_dir": "../../../84817546/2018-12/2018-12-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:19:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

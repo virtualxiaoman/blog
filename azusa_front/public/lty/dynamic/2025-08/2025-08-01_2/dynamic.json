@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1096081555272499225",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1096081555272499225",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月1日",
+    "pub_ts": 1754039774,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "“散落的音符光辉，编织彼此相伴的美妙时光”\n洛天依 X QQ音乐「流光协奏」演唱会限定主题装扮正式上线啦！[洛天依动态流光协奏_去看演唱会]\n\n🎵套装内容：背景、播放器、评论卡、头像挂件\n\n还有十三周年生日特别纪念装扮持续上线中，欢迎大家了解呀~ [洛天依动态流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“散落的音符光辉，编织彼此相伴的美妙时光”\n洛天依 X QQ音乐「流光协奏」演唱会限定主题装扮正式上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_去看演唱会]",
+        "package_id": "8399",
+        "emoji_id": "115686",
+        "name": "去看演唱会",
+        "url": "https://i0.hdslb.com/bfs/garb/e82614934e8238828fd2126debd3891e40230293.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎵套装内容：背景、播放器、评论卡、头像挂件\n\n还有十三周年生日特别纪念装扮持续上线中，欢迎大家了解呀~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-01_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/944c0709a1bd59e9a8a7ce3e1d7cd7a636081646.png",
+        "width": 750,
+        "height": 4407,
+        "size_kb": 5533.7744140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/去看演唱会.gif",
+        "package_id": "8399",
+        "emoji_id": "115686",
+        "text": "[洛天依动态流光协奏_去看演唱会]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4231,
+    "comment": 145,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

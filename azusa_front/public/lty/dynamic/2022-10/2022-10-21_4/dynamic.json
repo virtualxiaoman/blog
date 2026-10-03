@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "719483494163546134",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/719483494163546134",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月21日",
+    "pub_ts": 1666356205,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢大家今晚的陪伴[洛天依·夜航星_比心]，希望大家可以多多支持创作老师们呀！天依也要努力升级自己[洛天依9th_社会]，给大家带来更多好听的歌！[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢大家今晚的陪伴"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "，希望大家可以多多支持创作老师们呀！天依也要努力升级自己"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "text",
+        "text": "，给大家带来更多好听的歌！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7221,
+    "comment": 237,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 719479989470232581,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-10/2022-10-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "1088766968252596241",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088766968252596241",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月13日",
+    "pub_ts": 1752336714,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢@中华恐龙园 的精心布置，大家的热情天依也感受到啦！希望大家有度过愉快的一天～\n7月13日，活动仍将继续，期待和大家继续相会中华恐龙园创造美好的回忆！[洛天依八音奇响动态_爱意]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@中华恐龙园 ",
+        "mid": 691348193,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的精心布置，大家的热情天依也感受到啦！希望大家有度过愉快的一天～\n7月13日，活动仍将继续，期待和大家继续相会中华恐龙园创造美好的回忆！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依✖️中华恐龙园 生日闪耀LIVE夜首日圆满结束！7月13日精彩继续～",
+      "desc": "感谢@中华恐龙园  的精心布置，大家的热情天依也感受到啦！希望大家有度过愉快的一天～\n7月13日，活动仍将继续，期待和大家继续相会中华恐龙园创造美好的回忆！",
+      "jump_url": "https://www.bilibili.com/video/BV1WmMdzTELW",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/27748b80f1aa5a6b007d738c35764a528d042db5.jpg",
+      "cover_file": "../../_assets/covers/2025-07-13_1.jpg",
+      "bvid": "BV1WmMdzTELW",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1WmMdzTELW",
+        "aid": "114841117264042",
+        "cover": "http://i0.hdslb.com/bfs/archive/27748b80f1aa5a6b007d738c35764a528d042db5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1WmMdzTELW",
+        "stat": {
+          "danmaku": "39",
+          "play": "4.3万",
+          "vt": ""
+        },
+        "duration_text": "00:44",
+        "title": "洛天依✖️中华恐龙园 生日闪耀LIVE夜首日圆满结束！7月13日精彩继续～",
+        "desc": "感谢@中华恐龙园  的精心布置，大家的热情天依也感受到啦！希望大家有度过愉快的一天～\n7月13日，活动仍将继续，期待和大家继续相会中华恐龙园创造美好的回忆！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10629,
+    "comment": 642,
+    "forward": 53
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "1086447144766799894",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1086447144766799894",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月6日",
+    "pub_ts": 1751796588,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#⚙#洛天依0712生日快乐#\n洛天依十三周年 X 中华恐龙园 生日闪耀LIVE夜 详细情报来啦！[歌行宇宙表情包_可靠]\n\n除了无人机秀、天依人偶花车巡游\n乐园还准备了随舞合唱活动、痛车展示，并精心布置了餐厅和园区\n生日礼盒也将在乐园限量开启售卖，一起度过难忘的共鸣之夜吧！[歌行宇宙表情包_爽]\n\n✨演出时间&地点\n7月12日-7月13日 中华恐龙园·湖中舞台\n✨购票平台\nbilibili会员购等\n\n详情小伙伴们可以戳长图查看哦！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依十三周年 X 中华恐龙园 生日闪耀LIVE夜 详细情报来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_可靠]",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/c4947ffce07dd9355cf893acf531afbbde05efbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n除了无人机秀、天依人偶花车巡游\n乐园还准备了随舞合唱活动、痛车展示，并精心布置了餐厅和园区\n生日礼盒也将在乐园限量开启售卖，一起度过难忘的共鸣之夜吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_爽]",
+        "package_id": "5880",
+        "emoji_id": "86899",
+        "name": "爽",
+        "url": "https://i0.hdslb.com/bfs/garb/361a1c189329c4caa9688a99ac4936b80eda2a02.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨演出时间&地点\n7月12日-7月13日 中华恐龙园·湖中舞台\n✨购票平台\nbilibili会员购等\n\n详情小伙伴们可以戳长图查看哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3150feee63e1fa809cd7ac22cd7bc35e36081646.jpg",
+        "width": 1000,
+        "height": 20608,
+        "size_kb": 12718.2392578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/可靠.png",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "text": "[歌行宇宙表情包_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/爽.png",
+        "package_id": "5880",
+        "emoji_id": "86899",
+        "text": "[歌行宇宙表情包_爽]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "常州·中华恐龙园洛天依生日闪耀LIVE夜",
+            "price": "¥198",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202506/oRprloQ91749552009335.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=103382&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1086447144766799894",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-06_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4485,
+    "comment": 195,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

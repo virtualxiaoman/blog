@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "681941597317759001",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/681941597317759001",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月12日",
+    "pub_ts": 1657615301,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依0712生日快乐# 马上天依10周年生日会的预热直播就要开启啦，大家答应过天依的！一会都要来哦！！[洛天依_拉钩] 直播前，来个小游戏，一起来猜猜今晚天依会表演哪些歌曲吧？[洛天依_棒] 嗯......从猜中5首及以上歌曲的小伙伴中抽3个送个小礼物好啦！[洛天依_周年快乐]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 马上天依10周年生日会的预热直播就要开启啦，大家答应过天依的！一会都要来哦！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_拉钩]",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "name": "拉钩",
+        "url": "http://i0.hdslb.com/bfs/emote/31e12ae73ce2d260a0366e1f1df0c18a55a2543b.png"
+      },
+      {
+        "type": "text",
+        "text": " 直播前，来个小游戏，一起来猜猜今晚天依会表演哪些歌曲吧？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_棒]",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "name": "棒",
+        "url": "http://i0.hdslb.com/bfs/emote/abacb9fcc2526c00ff071917c51d7a474218609d.png"
+      },
+      {
+        "type": "text",
+        "text": " 嗯......从猜中5首及以上歌曲的小伙伴中抽3个送个小礼物好啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-12_5.gif",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/826e31acd052ffef29ffa27978bd82fe36081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 149.7899932861328,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/拉钩.png",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "text": "[洛天依_拉钩]"
+      },
+      {
+        "file": "../../_assets/emojis/340/棒.png",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "text": "[洛天依_棒]"
+      },
+      {
+        "file": "../../_assets/emojis/340/周年快乐.png",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "text": "[洛天依_周年快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9481,
+    "comment": 1396,
+    "forward": 169
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:51:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

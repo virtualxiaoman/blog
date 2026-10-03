@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "915329480077082644",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/915329480077082644",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月1日",
+    "pub_ts": 1711955152,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "\n山中无天依，洛包称大王ᕙ(`▿´)ᕗ\n阔呀！！这个账号以后就是我小洛包了的啦！！[洛·LUO_哼哼]\n哼哼，来为新王的诞生献上小笼包吧！！[洛·LUO_嗷呜]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "\n山中无天依，洛包称大王ᕙ(`▿´)ᕗ\n阔呀！！这个账号以后就是我小洛包了的啦！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_哼哼]",
+        "package_id": "4400",
+        "emoji_id": "62226",
+        "name": "哼哼",
+        "url": "https://i0.hdslb.com/bfs/emote/b546de8caf433060a77e7c90b19c409571e3603d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n哼哼，来为新王的诞生献上小笼包吧！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_嗷呜]",
+        "package_id": "4400",
+        "emoji_id": "62227",
+        "name": "嗷呜",
+        "url": "https://i0.hdslb.com/bfs/emote/ed6b1762ba688c80012db1fb819dd3a1b5b01098.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/61b062ddb1c3d82611deea4c34168a1436081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 505.260009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/哼哼.png",
+        "package_id": "4400",
+        "emoji_id": "62226",
+        "text": "[洛·LUO_哼哼]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/嗷呜.png",
+        "package_id": "4400",
+        "emoji_id": "62227",
+        "text": "[洛·LUO_嗷呜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8873,
+    "comment": 665,
+    "forward": 339
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

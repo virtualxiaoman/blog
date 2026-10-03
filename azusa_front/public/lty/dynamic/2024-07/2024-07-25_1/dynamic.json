@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "957999851327455280",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/957999851327455280",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月25日",
+    "pub_ts": 1721890122,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "F:NEX Vsinger 洛天依 歌行ver. 1/7手办 预售现已开启～[天依游学记_打call]\n\n循声而行 自由而歌\n歌行旅程未完待续\n\n哔哩哔哩会员购星光宝盒独家特典首发\n🔹传送门 网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "F:NEX Vsinger 洛天依 歌行ver. 1/7手办 预售现已开启～"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_打call]",
+        "package_id": "2363",
+        "emoji_id": "41454",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2393f61d10f6d623559e5ead42dc1d531fa96c70.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n循声而行 自由而歌\n歌行旅程未完待续\n\n哔哩哔哩会员购星光宝盒独家特典首发\n🔹传送门 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/Agvq5T3"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-25_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2e0fece8153a854581495dac0e348ca036081646.png",
+        "width": 1920,
+        "height": 1620,
+        "size_kb": 5236.89013671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-25_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fba6a4a527bb6015df3060632705fca536081646.png",
+        "width": 5504,
+        "height": 8256,
+        "size_kb": 13928.83984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-25_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/289fcbc86f8ee8f9f6db0709a626497536081646.png",
+        "width": 5504,
+        "height": 8256,
+        "size_kb": 13724.9296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/打call.png",
+        "package_id": "2363",
+        "emoji_id": "41454",
+        "text": "[天依游学记_打call]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "F:NEX Vsinger 洛天依 歌行ver. 1/7手办",
+            "price": "¥899",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/df/03/df031b6d728e1ee8d9f4cc81a9e21902.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10476796&msource=cps_Mdynamic_36081646_cont-2-957999851327455280&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-25_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5353,
+    "comment": 349,
+    "forward": 69
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

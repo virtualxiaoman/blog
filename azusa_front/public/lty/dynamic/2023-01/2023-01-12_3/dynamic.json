@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "750229666107752452",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/750229666107752452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月12日",
+    "pub_ts": 1673514856,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依有师傅了#\n天依来剧透啦！这次演出的节目是《神鸟》，天依有新衣服穿哦！[洛天依·夜航星_摸摸]\n会与师傅一起用音乐连接时空，带领大家感受四千年前的文化魅力，希望大家能够喜欢～\n#2023欢乐春节音乐会#1月14日 20:10@河南卫视 全网播出[洛天依_集合]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依有师傅了#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%9C%89%E5%B8%88%E5%82%85%E4%BA%86"
+      },
+      {
+        "type": "text",
+        "text": "\n天依来剧透啦！这次演出的节目是《神鸟》，天依有新衣服穿哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "\n会与师傅一起用音乐连接时空，带领大家感受四千年前的文化魅力，希望大家能够喜欢～\n"
+      },
+      {
+        "type": "topic",
+        "text": "#2023欢乐春节音乐会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%AC%A2%E4%B9%90%E6%98%A5%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "1月14日 20:10"
+      },
+      {
+        "type": "mention",
+        "text": "@河南卫视 ",
+        "mid": 2057655323,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "全网播出"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_集合]",
+        "package_id": "340",
+        "emoji_id": "5575",
+        "name": "集合",
+        "url": "http://i0.hdslb.com/bfs/emote/a24ab2b5ab6c00c2869696ddf7132e7818c2ab1f.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      },
+      {
+        "file": "../../_assets/emojis/340/集合.png",
+        "package_id": "340",
+        "emoji_id": "5575",
+        "text": "[洛天依_集合]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "#洛天依有师傅了#天依来剧透啦！这次演出的节目是《神鸟》，天依有新衣服穿哦！[洛天依·夜航星_摸摸]会与师傅一起用音乐连接时空，带领大家感受四千年前的文化…",
+      "desc": "#洛天依有师傅了#\n天依来剧透啦！这次演出的节目是《神鸟》，天依有新衣服穿哦！[洛天依·夜航星_摸摸]\n会与师傅一起用音乐连接时空，带领大家感受四千年前的文化魅力，希望大家能够喜欢～\n#2023欢乐春节音乐会#1月14日 20:10@河南卫视 全网播出[洛天依_集合]",
+      "jump_url": "https://www.bilibili.com/video/BV1pA411f7Eg",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/fb34e518bf99b53391eded97238a2170cb9c36e9.png",
+      "cover_file": "../../_assets/covers/2023-01-12_1.png",
+      "bvid": "BV1pA411f7Eg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pA411f7Eg",
+        "aid": "307737749",
+        "cover": "http://i1.hdslb.com/bfs/archive/fb34e518bf99b53391eded97238a2170cb9c36e9.png",
+        "jump_url": "//www.bilibili.com/video/BV1pA411f7Eg",
+        "stat": {
+          "danmaku": "173",
+          "play": "7.2万",
+          "vt": ""
+        },
+        "duration_text": "00:23",
+        "title": "#洛天依有师傅了#天依来剧透啦！这次演出的节目是《神鸟》，天依有新衣服穿哦！[洛天依·夜航星_摸摸]会与师傅一起用音乐连接时空，带领大家感受四千年前的文化…",
+        "desc": "#洛天依有师傅了#\n天依来剧透啦！这次演出的节目是《神鸟》，天依有新衣服穿哦！[洛天依·夜航星_摸摸]\n会与师傅一起用音乐连接时空，带领大家感受四千年前的文化魅力，希望大家能够喜欢～\n#2023欢乐春节音乐会#1月14日 20:10@河南卫视 全网播出[洛天依_集合]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17996,
+    "comment": 750,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

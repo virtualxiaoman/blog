@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "732062998093365253",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/732062998093365253",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月24日",
+    "pub_ts": 1669285099,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "小天依来咯！ 你需要一只小猫咪陪你度过寒冷的冬天吗？[洛天依_捏捏] 和我晒晒你的“冬日保暖神器”吧！11月29日，从关注并转发的小伙伴里抽1位送Q版毛绒玩偶一个~[洛天依_礼物]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小天依来咯！ 你需要一只小猫咪陪你度过寒冷的冬天吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " 和我晒晒你的“冬日保暖神器”吧！11月29日，从关注并转发的小伙伴里抽1位送Q版毛绒玩偶一个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/23dbcc101674485d9ce6caa231f4122136081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 140.52999877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-11-24_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d59817f20d6ba7012e0a5b37acc501c936081646.jpg",
+        "width": 1196,
+        "height": 882,
+        "size_kb": 98.91000366210938,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      },
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9556,
+    "comment": 911,
+    "forward": 1762
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

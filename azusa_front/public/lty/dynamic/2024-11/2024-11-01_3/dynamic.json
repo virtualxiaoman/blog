@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "994786654220714049",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/994786654220714049",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月1日",
+    "pub_ts": 1730455217,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "来吧，跟随海底最杰出的歌者，徜徉在充满奇迹的蔚蓝世界，\n聆听来自不同族群共同献上的礼赞。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来吧，跟随海底最杰出的歌者，徜徉在充满奇迹的蔚蓝世界，\n聆听来自不同族群共同献上的礼赞。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来自塞壬的歌谣，听『潮声回响』【洛天依海洋之心原创曲】",
+      "desc": "拨动琴弦，应和海浪之声；抒写祈愿，让旋律随洋流蔓延；\n越过日夜更替、潮汐起伏，汇聚热情与想象，让传说中的歌谣自由传扬。\n来吧，跟随海底最杰出的歌者，徜徉在充满奇迹的蔚蓝世界，\n聆听来自不同族群共同献上的礼赞。\n\n洛天依海洋之心轻故事集主题单曲《潮声回响》\n演唱：洛天依\n作曲/制作：李建衡\n作词：大九_LN\n编曲：1AN孙毅然、李建衡\n吉他：RK\n调校：莫米兔\n混音/母带：罗文Rown\n监制：林星捷\n策划：兔麻头\n视频制作：YH_studio\n🎵小彩蛋：本次歌曲使用了多个声库哦~大家能听出来具体使用了哪些声",
+      "jump_url": "https://www.bilibili.com/video/BV1ivSiYbENA",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/299bb27aaa409aba2064cc24010536dd5654dc2b.jpg",
+      "cover_file": "../../_assets/covers/2024-11-01_1.jpg",
+      "bvid": "BV1ivSiYbENA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ivSiYbENA",
+        "aid": "113395206456490",
+        "cover": "http://i1.hdslb.com/bfs/archive/299bb27aaa409aba2064cc24010536dd5654dc2b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ivSiYbENA",
+        "stat": {
+          "danmaku": "1.9万",
+          "play": "166万",
+          "vt": ""
+        },
+        "duration_text": "03:50",
+        "title": "来自塞壬的歌谣，听『潮声回响』【洛天依海洋之心原创曲】",
+        "desc": "拨动琴弦，应和海浪之声；抒写祈愿，让旋律随洋流蔓延；\n越过日夜更替、潮汐起伏，汇聚热情与想象，让传说中的歌谣自由传扬。\n来吧，跟随海底最杰出的歌者，徜徉在充满奇迹的蔚蓝世界，\n聆听来自不同族群共同献上的礼赞。\n\n洛天依海洋之心轻故事集主题单曲《潮声回响》\n演唱：洛天依\n作曲/制作：李建衡\n作词：大九_LN\n编曲：1AN孙毅然、李建衡\n吉他：RK\n调校：莫米兔\n混音/母带：罗文Rown\n监制：林星捷\n策划：兔麻头\n视频制作：YH_studio\n🎵小彩蛋：本次歌曲使用了多个声库哦~大家能听出来具体使用了哪些声",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 146502,
+    "comment": 6628,
+    "forward": 586
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

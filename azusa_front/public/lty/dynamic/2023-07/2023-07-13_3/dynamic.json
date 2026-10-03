@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817762876987015192",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817762876987015192",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689238657,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "“我愿成为照亮你的第一束光”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“我愿成为照亮你的第一束光”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "而我也曾是你《万分之一的光》【洛天依11周年生日会】",
+      "desc": "“我愿成为照亮你的第一束光”\n\n《万分之一的光》\n作曲/作词/编曲：ChiliChill\n调校：动点P\n原视频：BV1Tp4y1S7cu",
+      "jump_url": "https://www.bilibili.com/video/BV1j14y197ZR",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6f99ee5722d4c35f8b3aaf3fbb5a51cb80e47c8a.jpg",
+      "cover_file": "../../_assets/covers/2023-07-13_3.jpg",
+      "bvid": "BV1j14y197ZR",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1j14y197ZR",
+        "aid": "785980862",
+        "cover": "http://i1.hdslb.com/bfs/archive/6f99ee5722d4c35f8b3aaf3fbb5a51cb80e47c8a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1j14y197ZR",
+        "stat": {
+          "danmaku": "593",
+          "play": "34.9万",
+          "vt": ""
+        },
+        "duration_text": "04:13",
+        "title": "而我也曾是你《万分之一的光》【洛天依11周年生日会】",
+        "desc": "“我愿成为照亮你的第一束光”\n\n《万分之一的光》\n作曲/作词/编曲：ChiliChill\n调校：动点P\n原视频：BV1Tp4y1S7cu",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 59814,
+    "comment": 684,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

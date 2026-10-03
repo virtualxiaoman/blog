@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1061933631773081616",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1061933631773081616",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月1日",
+    "pub_ts": 1746089091,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "歌声响彻寰宇的宇宙歌姬\n传闻夜晚她会化身地下飙车手\n在众多竞速赛事中斩获记录，成为不败神话......[代号洛天依_我有个秘密]\n\n🏍【洛天依·复古未来系列Q版手办】即将上线，设计原画公开——\ntips：手办中人物与机车可单独拆分购买，人物+机车组合购买可享优惠价~\n\n❗ 正比手办企划❗ \n洛天依·复古未来系列正比手办企划也已确认~\n还有更多造型未来解锁，敬请期待！[洛天依-潮声回响_祝贺]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "歌声响彻寰宇的宇宙歌姬\n传闻夜晚她会化身地下飙车手\n在众多竞速赛事中斩获记录，成为不败神话......"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_我有个秘密]",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "name": "我有个秘密",
+        "url": "https://i0.hdslb.com/bfs/emote/e8a1f0a3f2176c9c82df39181fbd69f3fe6b7ebd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏍【洛天依·复古未来系列Q版手办】即将上线，设计原画公开——\ntips：手办中人物与机车可单独拆分购买，人物+机车组合购买可享优惠价~\n\n❗ 正比手办企划❗ \n洛天依·复古未来系列正比手办企划也已确认~\n还有更多造型未来解锁，敬请期待！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bc9d06243360b97cc6cfcc73c970866d36081646.png",
+        "width": 960,
+        "height": 1358,
+        "size_kb": 1416.2490234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/我有个秘密.png",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "text": "[代号洛天依_我有个秘密]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6878,
+    "comment": 302,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "853774949412765698",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/853774949412765698",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月18日",
+    "pub_ts": 1697623371,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "铛铛！唱片机新场景解锁啦~伴着和煦的暖阳与秋风，来听天依唱歌吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "铛铛！唱片机新场景解锁啦~伴着和煦的暖阳与秋风，来听天依唱歌吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第四期·秋游 | 开启属于天依和你的秋日歌单",
+      "desc": "铛铛！唱片机新场景解锁啦~伴着和煦的暖阳与秋风，来听天依唱歌吧！\n点播功能持续开放中，快快留下你的宝藏歌曲~\n还有还有，大家想看什么样的冬季场景天依呀？\n\n【天依唱片机秋季篇第一期·歌单】 感谢老师们的创作与授权~♥\n1.老街北BV1K4411A7Yc\n2.女儿国·志异BV1Zk4y137md\n3.三千世界鸦杀尽BV12x411F7rK\n4.万物与我同归于寂BV1AF411j7v3\n5.自然时代的旅行BV1Ws41127AV\n6.刀刀致命BV1Rw411h7bq\n7.雨好大我没有伞BV17V4y177r3",
+      "jump_url": "https://www.bilibili.com/video/BV1YQ4y1s7G3",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/7dc31df2c3e9f1b41b1f7d8f30bf6a4db1d593df.jpg",
+      "cover_file": "../../_assets/covers/2023-10-18_1.jpg",
+      "bvid": "BV1YQ4y1s7G3",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YQ4y1s7G3",
+        "aid": "704808792",
+        "cover": "http://i1.hdslb.com/bfs/archive/7dc31df2c3e9f1b41b1f7d8f30bf6a4db1d593df.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YQ4y1s7G3",
+        "stat": {
+          "danmaku": "530",
+          "play": "28.6万",
+          "vt": ""
+        },
+        "duration_text": "55:41",
+        "title": "【天依唱片机】第四期·秋游 | 开启属于天依和你的秋日歌单",
+        "desc": "铛铛！唱片机新场景解锁啦~伴着和煦的暖阳与秋风，来听天依唱歌吧！\n点播功能持续开放中，快快留下你的宝藏歌曲~\n还有还有，大家想看什么样的冬季场景天依呀？\n\n【天依唱片机秋季篇第一期·歌单】 感谢老师们的创作与授权~♥\n1.老街北BV1K4411A7Yc\n2.女儿国·志异BV1Zk4y137md\n3.三千世界鸦杀尽BV12x411F7rK\n4.万物与我同归于寂BV1AF411j7v3\n5.自然时代的旅行BV1Ws41127AV\n6.刀刀致命BV1Rw411h7bq\n7.雨好大我没有伞BV17V4y177r3",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 60853,
+    "comment": 923,
+    "forward": 133
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

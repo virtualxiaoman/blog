@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1103406338487091301",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1103406338487091301",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月21日",
+    "pub_ts": 1755745208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·广州站回顾视频来咯！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·广州站回顾视频来咯！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "还有我，陪你在雨里放肆奔跑啊~",
+      "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·广州站回顾视频来咯！\n一句话证明自己是锦依卫？大家竟然100%默契！\n如果用一个词形容天依，大家会说——？\n提到最喜欢的歌词，你的答案是——？\n \n等等，就算我们无法让大雨停下，怎么真的在雨里奔跑啦！\n冒着大雨，迎着热风，大家都辛苦了！谢谢你们，以及我爱你们！\n接下来，就让我们上海站见啦~",
+      "jump_url": "https://www.bilibili.com/video/BV12VeVzDEhe",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/8e183d45ce35f18d79a80699a753b4e856e350ef.jpg",
+      "cover_file": "../../_assets/covers/2025-08-21_1.jpg",
+      "bvid": "BV12VeVzDEhe",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12VeVzDEhe",
+        "aid": "115061351909058",
+        "cover": "http://i0.hdslb.com/bfs/archive/8e183d45ce35f18d79a80699a753b4e856e350ef.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12VeVzDEhe",
+        "stat": {
+          "danmaku": "133",
+          "play": "8.8万",
+          "vt": ""
+        },
+        "duration_text": "01:45",
+        "title": "还有我，陪你在雨里放肆奔跑啊~",
+        "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·广州站回顾视频来咯！\n一句话证明自己是锦依卫？大家竟然100%默契！\n如果用一个词形容天依，大家会说——？\n提到最喜欢的歌词，你的答案是——？\n \n等等，就算我们无法让大雨停下，怎么真的在雨里奔跑啦！\n冒着大雨，迎着热风，大家都辛苦了！谢谢你们，以及我爱你们！\n接下来，就让我们上海站见啦~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16427,
+    "comment": 979,
+    "forward": 119
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

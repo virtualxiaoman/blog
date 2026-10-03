@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "919781162159702050",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/919781162159702050",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月13日",
+    "pub_ts": 1712991640,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n令人安心的身影、熟悉的面容，就这样猝不及防地出现在陌生的时空中。\n但在时空紊乱、世界线交错的此时此刻，究竟是福还是祸？[代号洛天依_好奇]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n令人安心的身影、熟悉的面容，就这样猝不及防地出现在陌生的时空中。\n但在时空紊乱、世界线交错的此时此刻，究竟是福还是祸？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好奇]",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "name": "好奇",
+        "url": "https://i0.hdslb.com/bfs/emote/80da8619e3ccf95d4129a06099d592fca5fa49fe.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-13_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/87773cfbd5d41c3b7ce573a93cc80f4b36081646.jpg",
+        "width": 5000,
+        "height": 3500,
+        "size_kb": 6997.1298828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好奇.png",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "text": "[代号洛天依_好奇]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6079,
+    "comment": 326,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

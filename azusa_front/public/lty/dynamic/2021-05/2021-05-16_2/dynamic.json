@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "525390052110464273",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/525390052110464273",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月16日",
+    "pub_ts": 1621165304,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一个微笑[洛天依·夜航星_转运]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一个微笑"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_转运]",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "name": "转运",
+        "url": "http://i0.hdslb.com/bfs/emote/2513203daab74688cea2c9a595e051f53fbcaa94.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/转运.png",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "text": "[洛天依·夜航星_转运]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6471,
+    "comment": 176,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 524697857994729495,
+    "orig_mid": 11491502,
+    "deleted": false,
+    "archive_dir": "../../../11491502/2021-05/2021-05-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

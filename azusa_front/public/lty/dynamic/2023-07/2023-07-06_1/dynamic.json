@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "815206714320093186",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/815206714320093186",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月6日",
+    "pub_ts": 1688643504,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 「TAITO COREFUL 洛天依 小厨娘VER.景品手办」预售开启\n转+关，抽1位小伙伴获得同款景品一份~\n\n小厨娘天依来啦！\n要吃一些点心休息一下吗？[代号洛天依_好好7]\n\n※【产品信息】\n售价：99元\n出品方：TAITO COREFUL\n预售截止时间：7月14日\n\n欧气宝箱，100%减尾款，更多优惠活动可前往会员购查看哦\n网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "161918",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 「TAITO COREFUL 洛天依 小厨娘VER.景品手办」预售开启\n转+关，抽1位小伙伴获得同款景品一份~\n\n小厨娘天依来啦！\n要吃一些点心休息一下吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※【产品信息】\n售价：99元\n出品方：TAITO COREFUL\n预售截止时间：7月14日\n\n欧气宝箱，100%减尾款，更多优惠活动可前往会员购查看哦\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/IXqibwrk2.html?msource=yyqbanner_dt_taito"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2025056a619fc6e77387a1888bc5122036081646.jpg",
+        "width": 5464,
+        "height": 8192,
+        "size_kb": 4645.8427734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-06_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2c8604beeb0f80921d2b0c4685a44a9336081646.jpg",
+        "width": 8192,
+        "height": 5464,
+        "size_kb": 4867.546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ea4401cef176d92322b9b916b097771d36081646.jpg",
+        "width": 5464,
+        "height": 8192,
+        "size_kb": 4218.56640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-07-06_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7e41a83549b98812b6a5b13c173b74c436081646.jpg",
+        "width": 3661,
+        "height": 5491,
+        "size_kb": 2996.2705078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-07-06_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fef5b62c73f75aba972bcac0b73bbadd36081646.jpg",
+        "width": 3661,
+        "height": 5491,
+        "size_kb": 2922.7998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-07-06_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e1b3a99790bba25d159416b6c94cb7c336081646.jpg",
+        "width": 1923,
+        "height": 2884,
+        "size_kb": 3331.1494140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "161918"
+  },
+  "vote": null,
+  "stats": {
+    "like": 11758,
+    "comment": 1393,
+    "forward": 10555
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:54:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

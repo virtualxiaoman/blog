@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "350609252798779115",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/350609252798779115",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月31日",
+    "pub_ts": 1580470978,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "故乡是能治愈伤痛的避风港~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "故乡是能治愈伤痛的避风港~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6818,
+    "comment": 187,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 350497867117551079,
+    "orig_mid": 11870424,
+    "deleted": false,
+    "archive_dir": "../../../11870424/2020-01/2020-01-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

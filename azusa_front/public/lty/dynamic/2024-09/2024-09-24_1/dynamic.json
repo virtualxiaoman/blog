@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "980596254106976262",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/980596254106976262",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月24日",
+    "pub_ts": 1727151257,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 亲爱的各位乘客，飞船即将到达航行特别纪念站——\n【洛天依·收藏集——歌行宇宙】正式开启啦！[歌行宇宙表情包_哇]\n🪐传送门：网页链接\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份~\n\n🪐卡池收录：歌行宇宙系列视觉插画动态数字音乐卡、特色音乐卡、全新未公开精美数字卡牌\n🪐羁绊之礼解锁：钻石头像、空间背景、专属表情包、专属动态个性主题、专属头像框、出框头像\n🪐限时卡池开启时间：9月24日12:00-11月10日23:59\n\n和天依一起，在音乐宇宙中尽情遨游吧！[歌行宇宙表情包_歌行宇宙]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "319625",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 亲爱的各位乘客，飞船即将到达航行特别纪念站——\n【洛天依·收藏集——歌行宇宙】正式开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_哇]",
+        "package_id": "5880",
+        "emoji_id": "86891",
+        "name": "哇",
+        "url": "https://i0.hdslb.com/bfs/garb/2fa2de858a060d8867002d0aa01bd6c901224acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🪐传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=103847&f_source=social&from=official"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份~\n\n🪐卡池收录：歌行宇宙系列视觉插画动态数字音乐卡、特色音乐卡、全新未公开精美数字卡牌\n🪐羁绊之礼解锁：钻石头像、空间背景、专属表情包、专属动态个性主题、专属头像框、出框头像\n🪐限时卡池开启时间：9月24日12:00-11月10日23:59\n\n和天依一起，在音乐宇宙中尽情遨游吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_歌行宇宙]",
+        "package_id": "5880",
+        "emoji_id": "86895",
+        "name": "歌行宇宙",
+        "url": "https://i0.hdslb.com/bfs/garb/c115b67cc7a00d1b727ffbbe3bc5e8e4fdc6a4ba.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/15f5ba6fb9d01a2f25873bfefaafbb0136081646.jpg",
+        "width": 1125,
+        "height": 7725,
+        "size_kb": 6131.671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/哇.png",
+        "package_id": "5880",
+        "emoji_id": "86891",
+        "text": "[歌行宇宙表情包_哇]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/歌行宇宙.png",
+        "package_id": "5880",
+        "emoji_id": "86895",
+        "text": "[歌行宇宙表情包_歌行宇宙]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/97f05377bc598fcddd793c6cc32d2d1333dbf724.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=0&rebate=647193094&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2024-09-24_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "319625"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5046,
+    "comment": 836,
+    "forward": 5456
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

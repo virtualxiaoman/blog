@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1065246387293126739",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1065246387293126739",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月10日",
+    "pub_ts": 1746860402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@云集壹@颉未柯柠涟桉@等待一个变数中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@云集壹",
+        "mid": 400640129,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@颉未柯柠涟桉",
+        "mid": 1650567380,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@等待一个变数",
+        "mid": 496594783,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4055,
+    "comment": 250,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 1061535887758721044,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-04/2025-04-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "713900075307237376",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/713900075307237376",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月6日",
+    "pub_ts": 1665056214,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢愿意与我共鸣，谢谢可以为你歌唱，属于我们的故事与回忆，流淌在这些动听的歌谣里，也许会渐行渐远，但永远弥足珍贵。[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢愿意与我共鸣，谢谢可以为你歌唱，属于我们的故事与回忆，流淌在这些动听的歌谣里，也许会渐行渐远，但永远弥足珍贵。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6722,
+    "comment": 257,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 711860936515780672,
+    "orig_mid": 312381,
+    "deleted": false,
+    "archive_dir": "../../../312381/2022-10/2022-10-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "899797448142094341",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/899797448142094341",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月19日",
+    "pub_ts": 1708338819,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "今日#雨水#，春雨润而万物生。\n新春伊始，对万物万事都充满崭新的期待~[古色花香洛天依_期待]\n虽然下雨的时候出行会有些烦恼，但听着细密的雨声，心情也会宁静下来。\n大家有什么下雨的时候喜欢做的事情，听的歌吗？[古色花香洛天依_贴贴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今日"
+      },
+      {
+        "type": "topic",
+        "text": "#雨水#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9B%A8%E6%B0%B4"
+      },
+      {
+        "type": "text",
+        "text": "，春雨润而万物生。\n新春伊始，对万物万事都充满崭新的期待~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n虽然下雨的时候出行会有些烦恼，但听着细密的雨声，心情也会宁静下来。\n大家有什么下雨的时候喜欢做的事情，听的歌吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_贴贴]",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/item/14830657a12203a0eecec49885447b931608c4ea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-19_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/13666f670860403905c213adc6296f8436081646.jpg",
+        "width": 1978,
+        "height": 1320,
+        "size_kb": 266.4800109863281,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/贴贴.png",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "text": "[古色花香洛天依_贴贴]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依《洛LUO》全新EP 实体专辑",
+            "price": "¥98",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/53/a2/53a20becaf310ccda37daaa492cd6bf6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10257550&msource=cps_Mdynamic_36081646_cont-2-899797448142094341&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-19_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6797,
+    "comment": 280,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

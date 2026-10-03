@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "882717252233723905",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/882717252233723905",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月4日",
+    "pub_ts": 1704362026,
+    "location": ""
+  },
+  "topic": {
+    "id": 1099829,
+    "name": "2024虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1099829&topic_name=2024%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "天依已经美美搬好小板凳，期待大家的作品啦！[洛天依歌行四方_咚嚓！]按照人类的说法，今年是天依的本命年喔[洛天依蝶变_星星眼]那天依是小龙女，很合理吧～[洛天依蝶变_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依已经美美搬好小板凳，期待大家的作品啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      },
+      {
+        "type": "text",
+        "text": "按照人类的说法，今年是天依的本命年喔"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "那天依是小龙女，很合理吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4697,
+    "comment": 283,
+    "forward": 161
+  },
+  "forward": {
+    "orig_id": 880907941438291969,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2023-12/2023-12-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "531686057550317863",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/531686057550317863",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月2日",
+    "pub_ts": 1622631207,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#上午下了雨，感觉风景都诗意了起来~ ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "上午下了雨，感觉风景都诗意了起来~ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4381,
+    "comment": 109,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 436310987280090414,
+    "orig_mid": 935899,
+    "deleted": false,
+    "archive_dir": "../../../935899/2020-09/2020-09-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:31:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

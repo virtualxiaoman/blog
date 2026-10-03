@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "982972474800996361",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/982972474800996361",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月30日",
+    "pub_ts": 1727704514,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "就让唱片机伴随大家一起迎接假期的到来吧！\n祝大家假期快乐，感谢老师们的创作与授权~❤",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "就让唱片机伴随大家一起迎接假期的到来吧！\n祝大家假期快乐，感谢老师们的创作与授权~❤"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第十三期· 沉醉 | 就随着音乐与歌声在这个夜晚沉醉",
+      "desc": "就让唱片机伴随大家一起迎接假期的到来吧！\n祝大家假期快乐，感谢老师们的创作与授权~❤\n\n1.Reeeee@COPY  BV18Y4y1V7n5\n作曲/编曲/作词/调校：COP\n2.玛 德 琳 娜 电 塔@純白  BV1nt411Y7Dj\n作曲/编曲;純白P 作词：薬 屋 调校：无 形 歌 无 形\n3.拜托@米梅林  BV1Qw41187mi\n作曲/编曲/作词/调校：米梅林\n4.嘀嗒 ₗₗ(0_0)ˡˡ@西風Seifuu  BV1cvHkeiEU2\n作曲/编曲/作词/调校：西风\n5.深蓝@小熠不是小姨  B",
+      "jump_url": "https://www.bilibili.com/video/BV1uPx4ejEce",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c017b3b2f2219f4216f478dc70ce270e7c1dfb5d.jpg",
+      "cover_file": "../../_assets/covers/2024-09-30_2.jpg",
+      "bvid": "BV1uPx4ejEce",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1uPx4ejEce",
+        "aid": "113226813604996",
+        "cover": "http://i1.hdslb.com/bfs/archive/c017b3b2f2219f4216f478dc70ce270e7c1dfb5d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1uPx4ejEce",
+        "stat": {
+          "danmaku": "118",
+          "play": "23万",
+          "vt": ""
+        },
+        "duration_text": "53:28",
+        "title": "【天依唱片机】第十三期· 沉醉 | 就随着音乐与歌声在这个夜晚沉醉",
+        "desc": "就让唱片机伴随大家一起迎接假期的到来吧！\n祝大家假期快乐，感谢老师们的创作与授权~❤\n\n1.Reeeee@COPY  BV18Y4y1V7n5\n作曲/编曲/作词/调校：COP\n2.玛 德 琳 娜 电 塔@純白  BV1nt411Y7Dj\n作曲/编曲;純白P 作词：薬 屋 调校：无 形 歌 无 形\n3.拜托@米梅林  BV1Qw41187mi\n作曲/编曲/作词/调校：米梅林\n4.嘀嗒 ₗₗ(0_0)ˡˡ@西風Seifuu  BV1cvHkeiEU2\n作曲/编曲/作词/调校：西风\n5.深蓝@小熠不是小姨  B",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14924,
+    "comment": 366,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

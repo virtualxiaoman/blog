@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "929723010700542151",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/929723010700542151",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月10日",
+    "pub_ts": 1715306407,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "江南老街的迷蒙烟雨，记叙着我们的共同回忆。\n九载岁月沉浮，热爱与原创绝不会溺毙于流言是非。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "江南老街的迷蒙烟雨，记叙着我们的共同回忆。\n九载岁月沉浮，热爱与原创绝不会溺毙于流言是非。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“消融你眉间悲戚霜雪”官方重置版《霜雪千年》来啦！",
+      "desc": "《霜雪千年》2024官方重置版歌曲正式上线啦！\n优秀的作品不会被时光所遗忘，经典的旋律不会因是非而消弭。\n很高兴和COP老师一起，邀大家再度重温九年前那一刻的回忆与感动！\n歌曲的新版PV也即将发布，请大家期待吧~\n完整音乐已上架腾讯音乐平台，希望大家多多支持留言哦！\n\nQQ音乐：https://i.y.qq.com/v8/playsong.html?songid=488446536&source=yqq&ADTAG=hz_wb_sf&channelId=10081987\n酷狗音乐：https://m3ws",
+      "jump_url": "https://www.bilibili.com/video/BV1RC411E7au",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5938461ca54d610b37a17e832a03ca96403f298d.jpg",
+      "cover_file": "../../_assets/covers/2024-05-10_1.jpg",
+      "bvid": "BV1RC411E7au",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1RC411E7au",
+        "aid": "1954258728",
+        "cover": "http://i1.hdslb.com/bfs/archive/5938461ca54d610b37a17e832a03ca96403f298d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1RC411E7au",
+        "stat": {
+          "danmaku": "722",
+          "play": "56.6万",
+          "vt": ""
+        },
+        "duration_text": "01:20",
+        "title": "“消融你眉间悲戚霜雪”官方重置版《霜雪千年》来啦！",
+        "desc": "《霜雪千年》2024官方重置版歌曲正式上线啦！\n优秀的作品不会被时光所遗忘，经典的旋律不会因是非而消弭。\n很高兴和COP老师一起，邀大家再度重温九年前那一刻的回忆与感动！\n歌曲的新版PV也即将发布，请大家期待吧~\n完整音乐已上架腾讯音乐平台，希望大家多多支持留言哦！\n\nQQ音乐：https://i.y.qq.com/v8/playsong.html?songid=488446536&source=yqq&ADTAG=hz_wb_sf&channelId=10081987\n酷狗音乐：https://m3ws",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 85013,
+    "comment": 2789,
+    "forward": 882
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

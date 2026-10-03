@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "954347363939385398",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/954347363939385398",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月15日",
+    "pub_ts": 1721039711,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "想要试试，还能走多远呢——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "想要试试，还能走多远呢——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来一场充满「Dramatic」的宇宙级演出吧！【洛天依十二周年生日会】",
+      "desc": "“在这Dramatic的世界里，你真正想要什么呢？\n想要把这世界涂抹成彩色吗，想要找到一直在寻找的答案吗。\n不要害怕，也不需要逞强，就大喊出来吧，就开始向前走吧——\n向着未知的世界、宇宙和未来！”\n\n洛天依「歌行宇宙」展览主题曲《Dramatic》\n作曲：横関 公太 Kota Yokoseki\n编曲：横関 公太 Kota Yokoseki\n作词：深川 琴美 Kotomi Fukagawa\n调校：周小蚕\n吉他：椿本 匡賜 Masashi Tsubakimoto\n贝斯：田辺 トシノ Toshino Tanab",
+      "jump_url": "https://www.bilibili.com/video/BV14z421q7Xh",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/bd33b3c05da2ac876331f10e90e3e0bd925ca676.jpg",
+      "cover_file": "../../_assets/covers/2024-07-15_1.jpg",
+      "bvid": "BV14z421q7Xh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14z421q7Xh",
+        "aid": "1356120367",
+        "cover": "http://i0.hdslb.com/bfs/archive/bd33b3c05da2ac876331f10e90e3e0bd925ca676.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14z421q7Xh",
+        "stat": {
+          "danmaku": "344",
+          "play": "54.2万",
+          "vt": ""
+        },
+        "duration_text": "03:46",
+        "title": "来一场充满「Dramatic」的宇宙级演出吧！【洛天依十二周年生日会】",
+        "desc": "“在这Dramatic的世界里，你真正想要什么呢？\n想要把这世界涂抹成彩色吗，想要找到一直在寻找的答案吗。\n不要害怕，也不需要逞强，就大喊出来吧，就开始向前走吧——\n向着未知的世界、宇宙和未来！”\n\n洛天依「歌行宇宙」展览主题曲《Dramatic》\n作曲：横関 公太 Kota Yokoseki\n编曲：横関 公太 Kota Yokoseki\n作词：深川 琴美 Kotomi Fukagawa\n调校：周小蚕\n吉他：椿本 匡賜 Masashi Tsubakimoto\n贝斯：田辺 トシノ Toshino Tanab",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 40251,
+    "comment": 1155,
+    "forward": 153
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "1088273579562237958",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1088273579562237958",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月11日",
+    "pub_ts": 1752221838,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2015年，《权御天下》作为bilibili拜年祭单品正式投稿\n2016年，登上金鹰节互联盛典晚会\n2017年，登上天依的第一场全息演唱会\n2018年，登上鸟巢国风极乐夜的舞台\n......\n会不会有不少小伙伴，正是通过这首歌曲认识天依的呢？\n转眼时隔十年光阴，天依将带着《权御天下》再次登陆今年BML的舞台~\n重置版本的歌曲和PV也将在7月15日正式上线，一起跟随熟悉的旋律，领略孙权的英雄气魄，再次点燃舞台吧！[洛天依·戏游九州动态_舞枪]\n\n《权御天下》2025官方重置版\n演唱：洛天依\n作词：ST\n作曲：没有龟壳的乌龟\n编曲：赵伟鑫、潘凯鸿\n混音：郭子敬\n调校：Creuzer\n曲绘：小狗\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2015年，《权御天下》作为bilibili拜年祭单品正式投稿\n2016年，登上金鹰节互联盛典晚会\n2017年，登上天依的第一场全息演唱会\n2018年，登上鸟巢国风极乐夜的舞台\n......\n会不会有不少小伙伴，正是通过这首歌曲认识天依的呢？\n转眼时隔十年光阴，天依将带着《权御天下》再次登陆今年BML的舞台~\n重置版本的歌曲和PV也将在7月15日正式上线，一起跟随熟悉的旋律，领略孙权的英雄气魄，再次点燃舞台吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_舞枪]",
+        "package_id": "7318",
+        "emoji_id": "98458",
+        "name": "舞枪",
+        "url": "https://i0.hdslb.com/bfs/garb/3a5e8843d63998c473621d4bbc544b9da2e99485.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n《权御天下》2025官方重置版\n演唱：洛天依\n作词：ST\n作曲：没有龟壳的乌龟\n编曲：赵伟鑫、潘凯鸿\n混音：郭子敬\n调校：Creuzer\n曲绘：小狗"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-11_11.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0ae8a223a56c6f556d5f1532e319f7bc36081646.png",
+        "width": 4000,
+        "height": 2250,
+        "size_kb": 10993.9140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/舞枪.gif",
+        "package_id": "7318",
+        "emoji_id": "98458",
+        "text": "[洛天依·戏游九州动态_舞枪]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6385,
+    "comment": 438,
+    "forward": 159
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

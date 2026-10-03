@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "1176620992464683014",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1176620992464683014",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月6日",
+    "pub_ts": 1772791823,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖距离中旅×洛天依 「春日银河」音乐派对还有一周啦！\n天依来为大家带来派对的更多精彩内容介绍和福利活动~[洛天依拜年纪动态表情包_展示]\n转发关注天依，揪2位小伙伴送出【VIP区门票】1张[洛天依拜年纪动态表情包_宝贝]\n\n🎶20首音乐演出舞台歌单抢先看\n《月白色倒影的少女》/《雪山之眼》/《啦哒哒》/《喃木诺娜》\n《此刻Memories》/《Aloud》/《登陆宇宙》等\n\n🎉特别主题音舞互动&舞美体验\n20米超宽银幕、音舞乐队互动，为大家带来沉浸式观演体验\n\n🎁随票特典&场贩限定&福利抽奖\n现场还准备了包含100台手办在内的豪华奖品抽送给大家\n更多关于活动的详细信息，小伙伴们请戳长图查看哦~[洛天依拜年纪动态表情包_揉脸]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "402671",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "距离中旅×洛天依 「春日银河」音乐派对还有一周啦！\n天依来为大家带来派对的更多精彩内容介绍和福利活动~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_展示]",
+        "package_id": "9451",
+        "emoji_id": "132873",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/010cb10b83911c7116154a8cf9380eb733a389c3.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪2位小伙伴送出【VIP区门票】1张"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_宝贝]",
+        "package_id": "9451",
+        "emoji_id": "132879",
+        "name": "宝贝",
+        "url": "https://i0.hdslb.com/bfs/garb/70947785fa5e890581afbe95970b1a79dc8ca194.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶20首音乐演出舞台歌单抢先看\n《月白色倒影的少女》/《雪山之眼》/《啦哒哒》/《喃木诺娜》\n《此刻Memories》/《Aloud》/《登陆宇宙》等\n\n🎉特别主题音舞互动&舞美体验\n20米超宽银幕、音舞乐队互动，为大家带来沉浸式观演体验\n\n🎁随票特典&场贩限定&福利抽奖\n现场还准备了包含100台手办在内的豪华奖品抽送给大家\n更多关于活动的详细信息，小伙伴们请戳长图查看哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-06_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c07cc1c8a22bc228462dd29e2e5a81f436081646.jpg",
+        "width": 1242,
+        "height": 10750,
+        "size_kb": 8077.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/展示.gif",
+        "package_id": "9451",
+        "emoji_id": "132873",
+        "text": "[洛天依拜年纪动态表情包_展示]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/宝贝.gif",
+        "package_id": "9451",
+        "emoji_id": "132879",
+        "text": "[洛天依拜年纪动态表情包_宝贝]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "深圳·中旅X洛天依【春日银河】 音乐派对2026年3月14日-15日",
+            "price": "¥399",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202602/Cz8sq2ZR1770789177_1770789177711.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=113540&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1176620992464683014",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-03-06_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "402671"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5484,
+    "comment": 531,
+    "forward": 4961
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

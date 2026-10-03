@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "756571898308984928",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/756571898308984928",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月29日",
+    "pub_ts": 1674991522,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "假日 阳光 海风 盛夏 组合在一起永远都是快乐惬意的代名词哇！[洛天依_耶]已经开始期待今年的夏天啦~[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "假日 阳光 海风 盛夏 组合在一起永远都是快乐惬意的代名词哇！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "已经开始期待今年的夏天啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7998,
+    "comment": 269,
+    "forward": 51
+  },
+  "forward": {
+    "orig_id": 747276639870648406,
+    "orig_mid": 413808022,
+    "deleted": false,
+    "archive_dir": "../../../413808022/2023-01/2023-01-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

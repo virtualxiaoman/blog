@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1022993422442561536",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1022993422442561536",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月16日",
+    "pub_ts": 1737022617,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在歌声里相伴度过新的一年吧！期待老师们的作品呀[洛天依·戏游九州动态_期待]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在歌声里相伴度过新的一年吧！期待老师们的作品呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_期待]",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/f68b3f62d213cd7755ec7076adab88bccf6df9bc.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/期待.gif",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "text": "[洛天依·戏游九州动态_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4225,
+    "comment": 97,
+    "forward": 60
+  },
+  "forward": {
+    "orig_id": 1021095347571654656,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2025-01/2025-01-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:25:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

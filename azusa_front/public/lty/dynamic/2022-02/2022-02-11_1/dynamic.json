@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "625889361954978023",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/625889361954978023",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月11日",
+    "pub_ts": 1644564623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "快跟上我的节奏，一起参与这场《和平精英》x洛天依海岛音舞企划~传送门：网页链接",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "快跟上我的节奏，一起参与这场《和平精英》x洛天依海岛音舞企划~传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/activity-a1YUzs9yiP.html?spm_id_from=333.337.0.0"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6922,
+    "comment": 707,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 625876335320123078,
+    "orig_mid": 434786180,
+    "deleted": false,
+    "archive_dir": "../../../434786180/2022-02/2022-02-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:41:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

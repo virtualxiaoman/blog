@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "921318867849969664",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/921318867849969664",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月17日",
+    "pub_ts": 1713349665,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "被捕捉入培养皿的CODE LUO，开启平行时空的【启示之瞳】\nSCIENTIST LUO隐藏其中，快来寻找彩蛋吧~[代号洛天依_wink]\n\nCherry x 代号洛天依\n联名键盘\n预热上线\n\n更多产品信息欢迎关注@CHERRY樱桃中国 \n限量独家特典：前1500名赠鼠标垫， 欧气宝箱随机减尾款\nbilibili独家首发：@哔哩哔哩会员购 \n传送门：https://b23.tv/UcposIA",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "被捕捉入培养皿的CODE LUO，开启平行时空的【启示之瞳】\nSCIENTIST LUO隐藏其中，快来寻找彩蛋吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\nCherry x 代号洛天依\n联名键盘\n预热上线\n\n更多产品信息欢迎关注"
+      },
+      {
+        "type": "mention",
+        "text": "@CHERRY樱桃中国 ",
+        "mid": 84567302,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n限量独家特典：前1500名赠鼠标垫， 欧气宝箱随机减尾款\nbilibili独家首发："
+      },
+      {
+        "type": "mention",
+        "text": "@哔哩哔哩会员购 ",
+        "mid": 174501086,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n传送门："
+      },
+      {
+        "type": "text",
+        "text": "https://b23.tv/UcposIA"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【Cherry x 代号洛天依】联名键盘 联名上线！",
+      "desc": "被捕捉入培养皿的CODE LUO，开启平行时空的【启示之瞳】\nSCIENTIST LUO隐藏其中，快来寻找彩蛋吧~\n\nCherry x 代号洛天依\n联名键盘\n预热上线\n\n更多产品信息欢迎关注@CHERRY樱桃中国 \n限量独家特典：前1500名赠鼠标垫， 欧气宝箱随机减尾款\nbilibili独家首发：@哔哩哔哩会员购 \n传送门：https://b23.tv/UcposIA",
+      "jump_url": "https://www.bilibili.com/video/BV1Dm411m7pT",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/0184b9781eecb5c9f9e61788c42d9906237a9e38.png",
+      "cover_file": "../../_assets/covers/2024-04-17_1.png",
+      "bvid": "BV1Dm411m7pT",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Dm411m7pT",
+        "aid": "1903288620",
+        "cover": "http://i2.hdslb.com/bfs/archive/0184b9781eecb5c9f9e61788c42d9906237a9e38.png",
+        "jump_url": "//www.bilibili.com/video/BV1Dm411m7pT",
+        "stat": {
+          "danmaku": "39",
+          "play": "17.4万",
+          "vt": ""
+        },
+        "duration_text": "00:49",
+        "title": "【Cherry x 代号洛天依】联名键盘 联名上线！",
+        "desc": "被捕捉入培养皿的CODE LUO，开启平行时空的【启示之瞳】\nSCIENTIST LUO隐藏其中，快来寻找彩蛋吧~\n\nCherry x 代号洛天依\n联名键盘\n预热上线\n\n更多产品信息欢迎关注@CHERRY樱桃中国 \n限量独家特典：前1500名赠鼠标垫， 欧气宝箱随机减尾款\nbilibili独家首发：@哔哩哔哩会员购 \n传送门：https://b23.tv/UcposIA",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依 X CHERRY 联名款 MX3.0S TKL87键机械电竞游戏办公键盘",
+            "price": "¥91",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/b6/ef/b6ef56f7625d14af56c0d9290b84bd50.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10333412&msource=cps_Mdynamic_36081646_cont-2-921318867849969664&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-04-17_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17295,
+    "comment": 700,
+    "forward": 2931
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

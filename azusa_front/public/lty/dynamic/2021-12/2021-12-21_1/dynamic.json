@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "606526872005287445",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/606526872005287445",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月21日",
+    "pub_ts": 1640056442,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 冬至快乐！请大家吃热乎乎的饺子~ 韭菜鸡蛋馅：🥟🥟🥟🥟🥟🥟🥟 白菜猪肉馅：🥟🥟🥟🥟🥟🥟🥟 三鲜虾仁馅：🥟🥟🥟🥟🥟🥟🥟 芹菜牛肉馅：🥟🥟🥟🥟🥟🥟🥟 玉米虾仁馅：🥟🥟🥟🥟🥟🥟🥟 大家最喜欢什么馅儿的？我的话，当然是全都要啦(*•̀ᴗ•́*)و ̑̑！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 冬至快乐！请大家吃热乎乎的饺子~ 韭菜鸡蛋馅：🥟🥟🥟🥟🥟🥟🥟 白菜猪肉馅：🥟🥟🥟🥟🥟🥟🥟 三鲜虾仁馅：🥟🥟🥟🥟🥟🥟🥟 芹菜牛肉馅：🥟🥟🥟🥟🥟🥟🥟 玉米虾仁馅：🥟🥟🥟🥟🥟🥟🥟 大家最喜欢什么馅儿的？我的话，当然是全都要啦(*•̀ᴗ•́*)و ̑̑！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e850972d6532e79cd0b14e19949bb386af35827a.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 1509.3399658203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10463,
+    "comment": 741,
+    "forward": 156
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

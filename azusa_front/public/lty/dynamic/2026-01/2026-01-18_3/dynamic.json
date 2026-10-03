@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "1159235162379124737",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1159235162379124737",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月18日",
+    "pub_ts": 1768743869,
+    "location": ""
+  },
+  "topic": {
+    "id": 8563,
+    "name": "B站百大UP主",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=8563&topic_name=B%E7%AB%99%E7%99%BE%E5%A4%A7UP%E4%B8%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖小西柚还在努力！恭喜《戏游九州》获得bilibili年度原创音乐奖~[洛天依·戏游九州动态_撒花]\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份！[洛天依·戏游九州动态_惬意]\n\n传承戏曲风华，唱响华风夏韵\n每一个属于《戏游九州》的播放、奖项、荣誉......\n都代表着天依和大家一起努力，成功将这份美好传递到了更远的地方！\n感谢歌曲创作团队的所有老师们，感谢陪伴支持着天依的大家\n陪天依一起，去传承与发现更多美好，谱写更多属于我们的璀璨乐章吧~[洛天依·戏游九州动态_开唱]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "396059",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "小西柚还在努力！恭喜《戏游九州》获得bilibili年度原创音乐奖~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n传承戏曲风华，唱响华风夏韵\n每一个属于《戏游九州》的播放、奖项、荣誉......\n都代表着天依和大家一起努力，成功将这份美好传递到了更远的地方！\n感谢歌曲创作团队的所有老师们，感谢陪伴支持着天依的大家\n陪天依一起，去传承与发现更多美好，谱写更多属于我们的璀璨乐章吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_开唱]",
+        "package_id": "7318",
+        "emoji_id": "98461",
+        "name": "开唱",
+        "url": "https://i0.hdslb.com/bfs/garb/99a6967fb1742b3f779da45094213e922a4e4aa8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e1e0b767b0009cb0afd0c0dae0e21a4f36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 606.5399780273438,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/开唱.gif",
+        "package_id": "7318",
+        "emoji_id": "98461",
+        "text": "[洛天依·戏游九州动态_开唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "396059"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6619,
+    "comment": 961,
+    "forward": 6321
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

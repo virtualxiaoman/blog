@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "id": "913895227299725337",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/913895227299725337",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月28日",
+    "pub_ts": 1711621214,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "●洛天依x猫噜噜工作室 | 梨花雪Ver.30cm坐姿毛绒玩偶预售即将开启~\n转发关注天依，揪1位小伙伴送出同款玩偶1个！[洛天依_礼物]\n\n梨花“依”舞，岁岁相逢！\n※洛天依梨花雪系列 坐姿毛绒玩偶\n产品售价：预售109元；现货 129 元\n预售时间：2024年3月30日18:00\n出荷时间：2024年6月中旬\n入手方式：bilibili会员购、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n传送门：网页链接\n*服装可拆卸哦\n\nPS：产品还在监修中，以最终实物为准。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "●洛天依x猫噜噜工作室 | 梨花雪Ver.30cm坐姿毛绒玩偶预售即将开启~\n转发关注天依，揪1位小伙伴送出同款玩偶1个！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n梨花“依”舞，岁岁相逢！\n※洛天依梨花雪系列 坐姿毛绒玩偶\n产品售价：预售109元；现货 129 元\n预售时间：2024年3月30日18:00\n出荷时间：2024年6月中旬\n入手方式：bilibili会员购、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/PMnYl3m"
+      },
+      {
+        "type": "text",
+        "text": "\n*服装可拆卸哦\n\nPS：产品还在监修中，以最终实物为准。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-28_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a063f5cd59d53db7bb887fab52286f4b36081646.jpg",
+        "width": 726,
+        "height": 968,
+        "size_kb": 442.7300109863281,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-03-28_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/862cb87c1ceb175f33926d2b9719f06336081646.png",
+        "width": 1000,
+        "height": 9026,
+        "size_kb": 8881.400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-03-28_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/20155e2921f4206f52c7642983e4ded036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 41.060001373291016,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-03-28_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/af2ea446037bd9631d0956e40fd51d1236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 31.65999984741211,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-03-28_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c2467b7718572489a67b148e95a5ae3a36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 44.849998474121094,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-03-28_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7e8a5679672ab8af0b2c429651988f7a36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 39.439998626708984,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "猫噜噜 Vsinger 洛天依梨花雪系列坐姿毛绒玩偶",
+            "price": "¥121",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/9a/d6/9ad624a6dd785913304259280c24cb2c.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10311720&msource=cps_Mdynamic_36081646_cont-2-913895227299725337&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-03-28_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5398,
+    "comment": 1031,
+    "forward": 2504
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

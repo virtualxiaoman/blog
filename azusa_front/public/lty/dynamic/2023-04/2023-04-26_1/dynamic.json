@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "788863648541966402",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/788863648541966402",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月26日",
+    "pub_ts": 1682510031,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "应该用什么词语描摹岁月留下的痕迹呢？或许就像走过漫长的风雪，终于有人为你点亮一把柴火，给你一个拥抱，而当光阴流逝，唯有灰烬带着余温诉说着回忆，而春天也终将到来[古色花香洛天依_哽咽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "应该用什么词语描摹岁月留下的痕迹呢？或许就像走过漫长的风雪，终于有人为你点亮一把柴火，给你一个拥抱，而当光阴流逝，唯有灰烬带着余温诉说着回忆，而春天也终将到来"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_哽咽]",
+        "package_id": "1096",
+        "emoji_id": "19448",
+        "name": "哽咽",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c067d26a81c21bc114b9b23d55455e5cc832508b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/哽咽.png",
+        "package_id": "1096",
+        "emoji_id": "19448",
+        "text": "[古色花香洛天依_哽咽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6194,
+    "comment": 205,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 784659631513272440,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2023-04/2023-04-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

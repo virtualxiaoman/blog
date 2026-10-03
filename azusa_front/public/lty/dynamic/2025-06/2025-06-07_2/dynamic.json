@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "1075599998693933125",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1075599998693933125",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月7日",
+    "pub_ts": 1749271040,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你好，code:TY712 永远为你歌唱，为你起舞\n我需要缝补我的衣服，我在试图寻找一些观众\n我将永恒伫立于此，等待为谁而歌唱\n\n谢谢条条老师带来了一首哀伤又浪漫的歌曲[洛天依-潮声回响_拜托拜托]闪耀的Producer活动火热进行中，期待老师们的视线留驻！[洛天依-潮声回响_饿了]网页链接",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你好，code:TY712 永远为你歌唱，为你起舞\n我需要缝补我的衣服，我在试图寻找一些观众\n我将永恒伫立于此，等待为谁而歌唱\n\n谢谢条条老师带来了一首哀伤又浪漫的歌曲"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_拜托拜托]",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "name": "拜托拜托",
+        "url": "https://i0.hdslb.com/bfs/garb/bff8c8fd6fbf7b88467b01da2ede27164195f188.png"
+      },
+      {
+        "type": "text",
+        "text": "闪耀的Producer活动火热进行中，期待老师们的视线留驻！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_饿了]",
+        "package_id": "7109",
+        "emoji_id": "94962",
+        "name": "饿了",
+        "url": "https://i0.hdslb.com/bfs/garb/88ab7bdcdd4788ee546d7a1a124da6c2b6a4a41a.png"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/wmKoBWh"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/拜托拜托.png",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "text": "[洛天依-潮声回响_拜托拜托]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/饿了.png",
+        "package_id": "7109",
+        "emoji_id": "94962",
+        "text": "[洛天依-潮声回响_饿了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5606,
+    "comment": 147,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1075590438064226390,
+    "orig_mid": 396194,
+    "deleted": false,
+    "archive_dir": "../../../396194/2025-06/2025-06-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

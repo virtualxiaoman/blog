@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "1229998188885180456",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1229998188885180456",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月28日",
+    "pub_ts": 1785219670,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·上海站\n官宣演出伙伴——@22和33 ！欢迎22娘和33娘~[洛天依·信号动态表情包_赞]\n\n第一次邀请到bilibili的两位站娘来天依的演唱会\n我们当然要一起——\n“欢呼着bilibili，次元咒语~”\n一起用歌声将彼此的心意相连吧！[洛天依·信号动态表情包_love之力]\n\n 🌊演出时间&场地\n8月15日 [午场]14:12 & [晚场]19:12 \n上海 · 静安体育中心\n🌊二轮开售时间\n-【午场】7月30日 19:00\n-【晚场】7月30日 19:30\n🌊传送门\n网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·上海站\n官宣演出伙伴——"
+      },
+      {
+        "type": "mention",
+        "text": "@22和33",
+        "mid": 68559,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ！欢迎22娘和33娘~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n第一次邀请到bilibili的两位站娘来天依的演唱会\n我们当然要一起——\n“欢呼着bilibili，次元咒语~”\n一起用歌声将彼此的心意相连吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n 🌊演出时间&场地\n8月15日 "
+      },
+      {
+        "type": "text",
+        "text": "[午场]"
+      },
+      {
+        "type": "text",
+        "text": "14:12 & "
+      },
+      {
+        "type": "text",
+        "text": "[晚场]"
+      },
+      {
+        "type": "text",
+        "text": "19:12 \n上海 · 静安体育中心\n🌊二轮开售时间\n-【午场】7月30日 19:00\n-【晚场】7月30日 19:30\n🌊传送门\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003089"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-28_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c86e04f9c7b0be4a229450fb26a659f836081646.jpg",
+        "width": 2000,
+        "height": 3557,
+        "size_kb": 5003.587890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202606/uOtHClDc1782467214_1782467214664.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket-renovation/detail.html?id=1003089&noTitleBar=1&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1229998188885180456",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-28_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5559,
+    "comment": 661,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

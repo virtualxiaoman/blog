@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "622271238562236342",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/622271238562236342",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月1日",
+    "pub_ts": 1643722213,
+    "location": ""
+  },
+  "topic": {
+    "id": 7831,
+    "name": "2022虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=7831&topic_name=2022%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "#2022虚拟歌手贺岁纪#\n你可还记得那些被遗忘的美好吗？\n他们从未走远，只要你愿回头，他们仍在原地。\n——我回来了。\n——欢迎回家。",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2022虚拟歌手贺岁纪#",
+        "url": "https://search.bilibili.com/all?keyword=2022%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+      },
+      {
+        "type": "text",
+        "text": "\n你可还记得那些被遗忘的美好吗？\n他们从未走远，只要你愿回头，他们仍在原地。\n——我回来了。\n——欢迎回家。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【Vsinger六人原创】布虎记（童年记忆的它，你还记得吗？）【2022虚拟歌手贺岁纪单品】",
+      "desc": "你可还记得那些被遗忘的美好吗？\n他们从未走远，只要你愿回头，他们仍在原地。\n\n——我回来了。\n——欢迎回家。\n\n——\n布虎记\n策划：瞳荧\n作曲/编曲：西门振\n作词：Vagary\n调教：纳兰寻风\n演唱：洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦\n和声设计：墨橙\n吉他：疯疯疯哥有节操\n二胡: 厉秉权\n琵琶: 孙姣玲\n竹笛: 孙 浩\n混音：西门振\n题字：长安\n画师：乙烯\nPV：点映工作室\n出品：bilibili音乐",
+      "jump_url": "https://www.bilibili.com/video/BV1Yq4y1h77V",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/0ca866a292d01b5e7675e9f11b0d23f988c9b15f.jpg",
+      "cover_file": "../../_assets/covers/2022-02-01_2.jpg",
+      "bvid": "BV1Yq4y1h77V",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Yq4y1h77V",
+        "aid": "593722988",
+        "cover": "http://i1.hdslb.com/bfs/archive/0ca866a292d01b5e7675e9f11b0d23f988c9b15f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Yq4y1h77V",
+        "stat": {
+          "danmaku": "1866",
+          "play": "39.6万",
+          "vt": ""
+        },
+        "duration_text": "04:29",
+        "title": "【Vsinger六人原创】布虎记（童年记忆的它，你还记得吗？）【2022虚拟歌手贺岁纪单品】",
+        "desc": "你可还记得那些被遗忘的美好吗？\n他们从未走远，只要你愿回头，他们仍在原地。\n\n——我回来了。\n——欢迎回家。\n\n——\n布虎记\n策划：瞳荧\n作曲/编曲：西门振\n作词：Vagary\n调教：纳兰寻风\n演唱：洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦\n和声设计：墨橙\n吉他：疯疯疯哥有节操\n二胡: 厉秉权\n琵琶: 孙姣玲\n竹笛: 孙 浩\n混音：西门振\n题字：长安\n画师：乙烯\nPV：点映工作室\n出品：bilibili音乐",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29191,
+    "comment": 1520,
+    "forward": 31
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

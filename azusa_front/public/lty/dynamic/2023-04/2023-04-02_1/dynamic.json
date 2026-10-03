@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "id": "779971266684649475",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/779971266684649475",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月2日",
+    "pub_ts": 1680439612,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 #洛天依ProjectLuo#\n【转+关】揪3位小可爱，分别获得系列同款67键多媒体旋钮机械键盘 海盐轴*1和真无线TWS降噪蓝牙耳机*1\n\n穿越银河，漫步星空\n游荡在浩瀚宇宙，踏上未知的旅程\n\n『代号洛天依 ProjectLuo系列』完全呈现\n桌垫\n手机壳\n星际能量杯\n启航多功能包\n亚克力挂件摆件\n真无线TWS降噪蓝牙耳机 M2\n67键多媒体旋钮机械键盘 海盐轴\n\n『预售时间』\n已于4月1日0点在哔哩哔哩会员购开启预售\n\n『优惠活动』\n欧气宝箱、预售尊享等优惠活动\n\n希望可以为你的生活增添一抹亮色[洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "143937",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依ProjectLuo#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9DProjectLuo"
+      },
+      {
+        "type": "text",
+        "text": "\n【转+关】揪3位小可爱，分别获得系列同款67键多媒体旋钮机械键盘 海盐轴*1和真无线TWS降噪蓝牙耳机*1\n\n穿越银河，漫步星空\n游荡在浩瀚宇宙，踏上未知的旅程\n\n『代号洛天依 ProjectLuo系列』完全呈现\n桌垫\n手机壳\n星际能量杯\n启航多功能包\n亚克力挂件摆件\n真无线TWS降噪蓝牙耳机 M2\n67键多媒体旋钮机械键盘 海盐轴\n\n『预售时间』\n已于4月1日0点在哔哩哔哩会员购开启预售\n\n『优惠活动』\n欧气宝箱、预售尊享等优惠活动\n\n希望可以为你的生活增添一抹亮色"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-02_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9c7b814fe5cf4e3980fa35a98cc927ab36081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 9442.6103515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-04-02_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6b0ebca74a51e47b3c4e2211a7ba209036081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 9582.98046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-04-02_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6fc8abeb02ad68f79df909a0411b36d236081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 7740.990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-04-02_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5e21665216e0cf3cb552429fa368a00536081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 8449.91015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-04-02_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/adfde0b287c0e954715dc8d88eb17ba236081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 7944.39013671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-04-02_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/315f9b8da08eb64b2ad038cf989a4db636081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 15157.7802734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-04-02_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b91656791ebeacfbcf1690e1adb32afa36081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 4277.990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-04-02_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/e65a1824f658831063e54ff6df764de536081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 8111.35986328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-04-02_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8bd17ff52c7f5fe60b09e777223f0c3536081646.jpg",
+        "width": 6240,
+        "height": 4160,
+        "size_kb": 10195.990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "143937"
+  },
+  "vote": null,
+  "stats": {
+    "like": 14039,
+    "comment": 2670,
+    "forward": 19309
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:52:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "821111044757782551",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/821111044757782551",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月22日",
+    "pub_ts": 1690018213,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依在第五个节目出场哦！一起期待吧~[代号洛天依_好好7]天气多变，有去现场的小伙伴千万要注意安全！！[洛天依_许愿]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依在第五个节目出场哦！一起期待吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      },
+      {
+        "type": "text",
+        "text": "天气多变，有去现场的小伙伴千万要注意安全！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      },
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5360,
+    "comment": 298,
+    "forward": 46
+  },
+  "forward": {
+    "orig_id": 820411798072066057,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2023-07/2023-07-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:55:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

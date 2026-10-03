@@ -1,0 +1,8 @@
+# #洛天依0712生日快乐# 很多小伙伴说生日热点太多，看不过来，错过了QQ装扮等…
+
+> 作者：洛天依 (36081646) ｜ 2020-07-13 19:00 ｜ 纯文字动态
+> 原文：https://www.bilibili.com/opus/411456342247396607
+> 数据：点赞 7924 · 评论 753 · 转发 9496
+> 数据统计日期是26.10.02 19:25
+
+#洛天依0712生日快乐# 很多小伙伴说生日热点太多，看不过来，错过了QQ装扮等内容，天依来这里汇总给大家啦！这次别再错过了哦~ 手机QQ限定装扮 厘米秀活动 http://qq.cn.hn/2sn [网页链接](https://t.bilibili.com/410717148308141110?tab=2) B站个性装扮（已补充上架2万套） [网页链接](https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=2156&from=official) 搜狗输入法定制皮肤 https://weibo.com/1757022731/JaLtjkcbY  每一次的放声歌唱，都是一段回忆，都是一道羁绊，如今的我们早已缔结了无数羁绊，而且还在不断地增加，8年间的感谢与感动都汇集于此—— 2020洛天依官方专辑《Moments》 https://music.163.com/#/payfee?songId=1461644515 2020洛天依庆生曲《万分之一的光》 [【洛天依原创曲】万分之一的光](https://www.bilibili.com/video/BV1Tp4y1S7cu/) 2020洛天依生日会录播 [【洛天依】2020.7.12洛天依生日会](https://www.bilibili.com/video/BV1Hk4y1B7Cx/) 洛天依八周年纪念周边 https://henian.taobao.com/

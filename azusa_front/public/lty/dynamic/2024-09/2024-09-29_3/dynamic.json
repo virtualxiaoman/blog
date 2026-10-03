@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "982560952768528386",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/982560952768528386",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月29日",
+    "pub_ts": 1727608699,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依无限共鸣全息演唱会周边场贩信息公开~[歌行宇宙表情包_mua]\n“到更大的舞台，在无垠的宇宙，以及我所有航行的终点，你的身边。”\n\n🪐场贩新品\n◆无限共鸣演唱会限定礼盒\n（包含长条徽章、双闪徽章、发光立牌、亚克力色纸、合拍透卡、明信片）\n◆徽章组合\n◆气囊支架\n◆鼠标垫\n\n🪐注意事项\n1.本次无限共鸣演唱会场贩地点为月星环球港无限遨游线下展，演唱会现场不设立销售处\n2.本次无限共鸣演唱会限定礼盒为场贩限定周边，不会进行线上销售\n3.无限遨游线下展周边售卖区无需购买展览门票即可进入\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依无限共鸣全息演唱会周边场贩信息公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“到更大的舞台，在无垠的宇宙，以及我所有航行的终点，你的身边。”\n\n🪐场贩新品\n◆无限共鸣演唱会限定礼盒\n（包含长条徽章、双闪徽章、发光立牌、亚克力色纸、合拍透卡、明信片）\n◆徽章组合\n◆气囊支架\n◆鼠标垫\n\n🪐注意事项\n1.本次无限共鸣演唱会场贩地点为月星环球港无限遨游线下展，演唱会现场不设立销售处\n2.本次无限共鸣演唱会限定礼盒为场贩限定周边，不会进行线上销售\n3.无限遨游线下展周边售卖区无需购买展览门票即可进入"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-29_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a622176a423b348d3a651f2de479d89f36081646.jpg",
+        "width": 1200,
+        "height": 5000,
+        "size_kb": 1775.951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4473,
+    "comment": 193,
+    "forward": 46
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

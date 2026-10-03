@@ -1,0 +1,66 @@
+[
+  {
+    "key": "2019-01-30_1",
+    "ym": "2019-01",
+    "date": "2019-01-30",
+    "type": "DYNAMIC_TYPE_FORWARD",
+    "typeLabel": "转发动态",
+    "title": "小伙伴们要努力的去追寻梦想哟，天依会一直给你们加油打气的",
+    "excerpt": "小伙伴们要努力的去追寻梦想哟，天依会一直给你们加油打气的",
+    "cover": null,
+    "url": "https://www.bilibili.com/opus/214778579899172190",
+    "stats": {
+      "like": 4974,
+      "comment": 240,
+      "forward": 21
+    }
+  },
+  {
+    "key": "2019-01-25_2",
+    "ym": "2019-01",
+    "date": "2019-01-25",
+    "type": "DYNAMIC_TYPE_FORWARD",
+    "typeLabel": "转发动态",
+    "title": "当世界以痛吻你，试着报之以歌吧接纳自己，世界和我都怪美的ღ( ´･ᴗ･ )",
+    "excerpt": "当世界以痛吻你，试着报之以歌吧接纳自己，世界和我都怪美的ღ( ´･ᴗ･ )",
+    "cover": null,
+    "url": "https://www.bilibili.com/opus/212875406873367973",
+    "stats": {
+      "like": 3982,
+      "comment": 147,
+      "forward": 7
+    }
+  },
+  {
+    "key": "2019-01-25_1",
+    "ym": "2019-01",
+    "date": "2019-01-25",
+    "type": "DYNAMIC_TYPE_DRAW",
+    "typeLabel": "图文动态",
+    "title": "久等啦！2019年2月23日洛天依&郎朗全息演唱会的门票今天正式开启预售选座啦 …",
+    "excerpt": "久等啦！2019年2月23日洛天依&郎朗全息演唱会的门票今天正式开启预售选座啦 大家可以前往bilibili会员购进行门票购买。 附上传送门→ bilibili会员购：网页链接 实…",
+    "cover": "https://i0.hdslb.com/bfs/album/4937a2883482bb7297b50d00963472f689f43d69.jpg",
+    "url": "https://www.bilibili.com/opus/212819731215337232",
+    "stats": {
+      "like": 5208,
+      "comment": 923,
+      "forward": 44
+    }
+  },
+  {
+    "key": "2019-01-02_1",
+    "ym": "2019-01",
+    "date": "2019-01-02",
+    "type": "DYNAMIC_TYPE_AV",
+    "typeLabel": "视频动态",
+    "title": "2018年12月31日，天依与薛之谦老师在江苏卫视跨年晚会上一起同台演出了《达拉…",
+    "excerpt": "2018年12月31日，天依与薛之谦老师在江苏卫视跨年晚会上一起同台演出了《达拉崩吧》！",
+    "cover": "https://i0.hdslb.com/bfs/archive/e42a31dc6625c4dcf2292ac9e5937098d4a0ff59.jpg",
+    "url": "https://www.bilibili.com/opus/204280584608302060",
+    "stats": {
+      "like": 198127,
+      "comment": 16934,
+      "forward": 862
+    }
+  }
+]

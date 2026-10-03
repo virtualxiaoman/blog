@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "419527401843204037",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/419527401843204037",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月4日",
+    "pub_ts": 1596517235,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "宝宝@护舒宝_Whisper 给天依出新歌啦！8月8日，来和天依一起蹲BW上的全球首发。护舒宝调研发现87%的女生在青春期会自信心下降，天依很高兴可以和@护舒宝_Whisper 再次携手，全新公益单曲《以女生之名》由年轻的女性同人团队制作，唱响 #我就是女生# 支持女生们的投入与热爱！   这首歌送给每一个正值青春的女孩子，不要在意外界的声音，勇敢绽放属于自己的光芒吧！大家喜欢天依的全新木兰造型吗，还有另一款应援造型即将上线，猜猜会是什么呢？在评论区告诉我吧~\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "宝宝"
+      },
+      {
+        "type": "mention",
+        "text": "@护舒宝_Whisper ",
+        "mid": 350276531,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "给天依出新歌啦！8月8日，来和天依一起蹲BW上的全球首发。护舒宝调研发现87%的女生在青春期会自信心下降，天依很高兴可以和"
+      },
+      {
+        "type": "mention",
+        "text": "@护舒宝_Whisper ",
+        "mid": 350276531,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "再次携手，全新公益单曲《以女生之名》由年轻的女性同人团队制作，唱响 "
+      },
+      {
+        "type": "topic",
+        "text": "#我就是女生#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%B0%B1%E6%98%AF%E5%A5%B3%E7%94%9F"
+      },
+      {
+        "type": "text",
+        "text": " 支持女生们的投入与热爱！   这首歌送给每一个正值青春的女孩子，不要在意外界的声音，勇敢绽放属于自己的光芒吧！大家喜欢天依的全新木兰造型吗，还有另一款应援造型即将上线，猜猜会是什么呢？在评论区告诉我吧~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-08-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d94516e2bca37471e0456c88e897ab770c5f14a8.jpg",
+        "width": 1080,
+        "height": 1728,
+        "size_kb": 1232.81,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10031,
+    "comment": 1039,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "id": "845993997680771073",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/845993997680771073",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月27日",
+    "pub_ts": 1695811727,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪三位小伙伴送出【洛天依随机款式】换装娃娃一份。\n天依要参加bilibili冰火歌会2023冰火秋日游啦~!\n想知道我要表演什么歌曲吗？[代号洛天依_wink]\n\n嘿嘿，不用猜啦，天依直接告诉大家答案！\n我和索尼音乐的全新合作EP首支主打单曲《登陆宇宙》，将在10月4日12:00点全球首发，初舞台版将在冰火歌会首次呈现！[代号洛天依_比心]\n10月4日晚上19点，记得预约直播来看天依哦～\n直播间地址：网页链接\n#索尼音乐牵手洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪三位小伙伴送出【洛天依随机款式】换装娃娃一份。\n天依要参加bilibili冰火歌会2023冰火秋日游啦~!\n想知道我要表演什么歌曲吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n嘿嘿，不用猜啦，天依直接告诉大家答案！\n我和索尼音乐的全新合作EP首支主打单曲《登陆宇宙》，将在10月4日12:00点全球首发，初舞台版将在冰火歌会首次呈现！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n10月4日晚上19点，记得预约直播来看天依哦～\n直播间地址："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/live/activity-CCWaTkf8EE.html?spm_id_from=333.999.rich-text.link.click"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-27_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0972789528f1b74a8561a4c62c8e595336081646.jpg",
+        "width": 1072,
+        "height": 1432,
+        "size_kb": 1050.4200439453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-27_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/369583c9bf314ff28671d80821ca2fb536081646.jpg",
+        "width": 1072,
+        "height": 1432,
+        "size_kb": 1139.6500244140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2023冰火秋日游",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2023冰火秋日游",
+        "desc1": {
+          "text": "2023-10-04 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "18.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone14 Pro Max*1份、任天堂switch游戏机*2份、Apple AirPods（第三代）*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3136514&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3136514,
+        "reserve_total": 180803,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5346,
+    "comment": 525,
+    "forward": 2238
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

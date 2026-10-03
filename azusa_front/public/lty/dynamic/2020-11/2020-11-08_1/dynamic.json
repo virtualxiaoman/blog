@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "455171262413971792",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/455171262413971792",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月8日",
+    "pub_ts": 1604816218,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "只有自己才能证明那份意义及价值，一起加油吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "只有自己才能证明那份意义及价值，一起加油吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5491,
+    "comment": 155,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 455163273774756148,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2020-11/2020-11-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

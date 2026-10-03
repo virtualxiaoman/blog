@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "1084593939384631300",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1084593939384631300",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月1日",
+    "pub_ts": 1751365105,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "​亲爱的小伙伴们，洛天依[2025无限共鸣•流光协奏]全国巡演·广州站将因故延期1日至 [8月17日 19:12]，辛苦大家互相转告[洛天依·天星问动态_求善待]，关于广州场的正式开票时间等资讯，请持续关注天依哦！[洛天依·天星问动态_可靠]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​亲爱的小伙伴们，洛天依"
+      },
+      {
+        "type": "text",
+        "text": "[2025无限共鸣•流光协奏]"
+      },
+      {
+        "type": "text",
+        "text": "全国巡演·广州站将因故延期1日至 "
+      },
+      {
+        "type": "text",
+        "text": "[8月17日 19:12]"
+      },
+      {
+        "type": "text",
+        "text": "，辛苦大家互相转告"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_求善待]",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "name": "求善待",
+        "url": "https://i0.hdslb.com/bfs/garb/141ee55afb72f66c97dab25514190936c5c96c36.gif"
+      },
+      {
+        "type": "text",
+        "text": "，关于广州场的正式开票时间等资讯，请持续关注天依哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_可靠]",
+        "package_id": "7618",
+        "emoji_id": "103413",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/0873eb8b9f1b5498551b46884913ec9d67eda283.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/求善待.gif",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "text": "[洛天依·天星问动态_求善待]"
+      },
+      {
+        "file": "../../_assets/emojis/7618/可靠.gif",
+        "package_id": "7618",
+        "emoji_id": "103413",
+        "text": "[洛天依·天星问动态_可靠]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3678,
+    "comment": 155,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 1084588364516032515,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-07/2025-07-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:32:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

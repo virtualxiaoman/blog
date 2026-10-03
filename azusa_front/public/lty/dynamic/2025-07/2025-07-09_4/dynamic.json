@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1087568809827500033",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1087568809827500033",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月9日",
+    "pub_ts": 1752057746,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶洛天依「2025无限共鸣·流光协奏」全息巡回演唱会\n系列周边及线下活动情报来啦！[洛天依·天星问动态_萌]\n\n✨演唱会场贩周边资讯\n ▷ 洛天依演唱会<场贩限定>系列礼盒\n-礼盒配置：软胶摆件*1、徽章*1、亚克力立牌*1、亚克力挂件*1、色纸*1\n-购买即赠：流光协奏镭射票*1，流光协奏纸袋*1\n\n✨更多演唱会周边资讯\n💎YOOOOSHOP × 洛天依官方授权演唱会主题快闪店，7月16日北京朝阳大悦城率先开启\n💎猫噜噜毛绒、上海公共交通卡、北京市政交通一卡通交通卡、幸运石饰品、Nova Arts可动人偶、洛天依邮政纪念礼盒等更多联合企划周边\n\n👉🏻详细小伙伴们请戳长图查看~ [洛天依·天星问动态_可靠]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶洛天依「2025无限共鸣·流光协奏」全息巡回演唱会\n系列周边及线下活动情报来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨演唱会场贩周边资讯\n ▷ 洛天依演唱会<场贩限定>系列礼盒\n-礼盒配置：软胶摆件*1、徽章*1、亚克力立牌*1、亚克力挂件*1、色纸*1\n-购买即赠：流光协奏镭射票*1，流光协奏纸袋*1\n\n✨更多演唱会周边资讯\n💎YOOOOSHOP × 洛天依官方授权演唱会主题快闪店，7月16日北京朝阳大悦城率先开启\n💎猫噜噜毛绒、上海公共交通卡、北京市政交通一卡通交通卡、幸运石饰品、Nova Arts可动人偶、洛天依邮政纪念礼盒等更多联合企划周边\n\n👉🏻详细小伙伴们请戳长图查看~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_可靠]",
+        "package_id": "7618",
+        "emoji_id": "103413",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/0873eb8b9f1b5498551b46884913ec9d67eda283.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-09_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7c2e1e10ee14bbcb2434ba1eef435fba36081646.png",
+        "width": 1125,
+        "height": 15594,
+        "size_kb": 13845.3740234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-09_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5789c719771de9e4381d65600cd287f36081646.jpg",
+        "width": 1125,
+        "height": 13052,
+        "size_kb": 8144.8095703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-09_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3ab7a0312278c6e646c5fc179f58587736081646.jpg",
+        "width": 1125,
+        "height": 7766,
+        "size_kb": 5659.0986328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      },
+      {
+        "file": "../../_assets/emojis/7618/可靠.gif",
+        "package_id": "7618",
+        "emoji_id": "103413",
+        "text": "[洛天依·天星问动态_可靠]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4012,
+    "comment": 227,
+    "forward": 78
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

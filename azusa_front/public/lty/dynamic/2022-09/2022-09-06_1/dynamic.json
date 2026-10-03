@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "702621589940731929",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/702621589940731929",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月6日",
+    "pub_ts": 1662430237,
+    "location": ""
+  },
+  "topic": {
+    "id": 56540,
+    "name": "花young生活放肆show",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=56540&topic_name=%E8%8A%B1young%E7%94%9F%E6%B4%BB%E6%94%BE%E8%82%86show"
+  },
+  "content": {
+    "title": "",
+    "text": "天依和@清风Breeze 合作推出的《绿色清风啥都有》MV即将上线[洛天依]先放送一小段#清风花young舞#～快跟着天依的节拍舞动起来！\n9月6日-10月6日，参与清风发起的#花young生活放肆show#召集令活动，投稿分享你的合唱或跟跳清风花young舞视频，即有机会瓜分万元奖金。随着旋律“绿”动，和天依一起拥抱绿色自由，show出花young浪漫生活吧！#洛天依代言清风##洛天依##花young生活·一路随行#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和"
+      },
+      {
+        "type": "mention",
+        "text": "@清风Breeze ",
+        "mid": 1521695751,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "合作推出的《绿色清风啥都有》MV即将上线"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依]",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "name": "洛天依",
+        "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
+      },
+      {
+        "type": "text",
+        "text": "先放送一小段"
+      },
+      {
+        "type": "topic",
+        "text": "#清风花young舞#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E9%A3%8E%E8%8A%B1young%E8%88%9E"
+      },
+      {
+        "type": "text",
+        "text": "～快跟着天依的节拍舞动起来！\n9月6日-10月6日，参与清风发起的"
+      },
+      {
+        "type": "topic",
+        "text": "#花young生活放肆show#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1young%E7%94%9F%E6%B4%BB%E6%94%BE%E8%82%86show"
+      },
+      {
+        "type": "text",
+        "text": "召集令活动，投稿分享你的合唱或跟跳清风花young舞视频，即有机会瓜分万元奖金。随着旋律“绿”动，和天依一起拥抱绿色自由，show出花young浪漫生活吧！"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依代言清风#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%BB%A3%E8%A8%80%E6%B8%85%E9%A3%8E"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#花young生活·一路随行#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1young%E7%94%9F%E6%B4%BB%C2%B7%E4%B8%80%E8%B7%AF%E9%9A%8F%E8%A1%8C"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/洛天依.png",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "text": "[洛天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5586,
+    "comment": 135,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 702618952830812193,
+    "orig_mid": 1521695751,
+    "deleted": false,
+    "archive_dir": "../../../1521695751/2022-09/2022-09-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

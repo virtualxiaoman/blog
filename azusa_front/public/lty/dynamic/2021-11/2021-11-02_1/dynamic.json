@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "588473698520947403",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/588473698520947403",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月2日",
+    "pub_ts": 1635853110,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  从上海WF上的惊艳GK手办，到今天「洛天依 音乐印记 燃 Ver.」正式量产决定！ 感谢@领子明 老师精益求精的打磨，从同人走向品牌，希望大家能支持他的匠心创作精神，支持他打造国产优质手办品牌的梦想！  「 洛天依 音乐印记 燃 Ver.」 品牌：BLACKRAY 比例：1/7 手办 原画：@-TID-  关注@洛天依 并转发本条内容，我将随机抽取一位小伙伴赠送新手办1个～[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  从上海WF上的惊艳GK手办，到今天「洛天依 音乐印记 燃 Ver.」正式量产决定！ 感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@领子明 ",
+        "mid": 404985296,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师精益求精的打磨，从同人走向品牌，希望大家能支持他的匠心创作精神，支持他打造国产优质手办品牌的梦想！  「 洛天依 音乐印记 燃 Ver.」 品牌：BLACKRAY 比例：1/7 手办 原画："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 关注"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依 ",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "并转发本条内容，我将随机抽取一位小伙伴赠送新手办1个～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-11-02_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bb1f99027725f075f9d1dd42ac91a4344ec3d134.png",
+        "width": 1800,
+        "height": 1200,
+        "size_kb": 1917.57421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-11-02_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8c574f1f7a6f508d22313004286151420230663d.png",
+        "width": 1800,
+        "height": 1200,
+        "size_kb": 1874.576171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-11-02_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/75a44fc9ae3b17e747c5ed54378a999d92aee610.png",
+        "width": 1800,
+        "height": 1200,
+        "size_kb": 1817.4755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-11-02_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c1ed05add7942ae7139c616ada27f2486db0515a.png",
+        "width": 1300,
+        "height": 1300,
+        "size_kb": 2453.8408203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8019,
+    "comment": 1423,
+    "forward": 4852
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

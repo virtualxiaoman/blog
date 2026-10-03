@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1252334015953764385",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1252334015953764385",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月26日",
+    "pub_ts": 1790420135,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新一期创作激励计划开启啦！[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新一期创作激励计划开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4817,
+    "comment": 180,
+    "forward": 55
+  },
+  "forward": {
+    "orig_id": 1251886761707044869,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-09/2026-09-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:40:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

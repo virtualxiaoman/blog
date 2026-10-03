@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1062603105506426917",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1062603105506426917",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月3日",
+    "pub_ts": 1746244965,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "梦幻联动！校园版《戏游九州》",
+      "desc": "洛天依&裘丹莉&大学生国风动漫社梦幻联动！这个五四青年节，跟着戏曲频道CMG戏曲《百校戏社·青青四季》去校园里《戏游九州》～",
+      "jump_url": "https://www.bilibili.com/video/BV1dyVJzcEPE",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/dc916cd11d35a307a5aa461418bdaa64d368d14d.jpg",
+      "cover_file": "../../_assets/covers/2025-05-03_1.jpg",
+      "bvid": "BV1dyVJzcEPE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1dyVJzcEPE",
+        "aid": "114441651753809",
+        "cover": "http://i1.hdslb.com/bfs/archive/dc916cd11d35a307a5aa461418bdaa64d368d14d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1dyVJzcEPE",
+        "stat": {
+          "danmaku": "358",
+          "play": "43.2万",
+          "vt": ""
+        },
+        "duration_text": "03:15",
+        "title": "梦幻联动！校园版《戏游九州》",
+        "desc": "洛天依&裘丹莉&大学生国风动漫社梦幻联动！这个五四青年节，跟着戏曲频道CMG戏曲《百校戏社·青青四季》去校园里《戏游九州》～",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18808,
+    "comment": 507,
+    "forward": 25
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

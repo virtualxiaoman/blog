@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1191759309070925848",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1191759309070925848",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月16日",
+    "pub_ts": 1776316487,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记×广西三月三非遗次元集 活动详细情报来啦！[洛天依国乐季动态表情包_爱你]\n\n🌸线下演出\n4月18日19:00，天依将在活动现场，为大家带来「天琴」主题单曲《唱山》的舞台首演，以及歌曲《玉兰开花三月三》和《千灯绘》的特别演出\n\n🌸周边快闪\n-“琴声绕桂·山歌随系列”周边（广西限定首发）\n-国乐季官方周边现场贩售\n\n🌸coser巡游活动\n\n以此次国乐季「广西天琴」主题为契机，天依很高兴再次受邀，带大家一起感受壮乡的特别魅力！ [洛天依国乐季动态表情包_唱歌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记×广西三月三非遗次元集 活动详细情报来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🌸线下演出\n4月18日19:00，天依将在活动现场，为大家带来「天琴」主题单曲《唱山》的舞台首演，以及歌曲《玉兰开花三月三》和《千灯绘》的特别演出\n\n🌸周边快闪\n-“琴声绕桂·山歌随系列”周边（广西限定首发）\n-国乐季官方周边现场贩售\n\n🌸coser巡游活动\n\n以此次国乐季「广西天琴」主题为契机，天依很高兴再次受邀，带大家一起感受壮乡的特别魅力！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_唱歌]",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/182b9d9f0601165e6b7488e28066730dbfe3fd4e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f5fe14924d1967586d96eb865771d41436081646.jpg",
+        "width": 1080,
+        "height": 11206,
+        "size_kb": 6922.0615234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/唱歌.gif",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "text": "[洛天依国乐季动态表情包_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4647,
+    "comment": 210,
+    "forward": 69
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

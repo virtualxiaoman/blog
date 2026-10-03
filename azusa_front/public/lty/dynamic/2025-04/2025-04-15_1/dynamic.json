@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1055968884298874882",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1055968884298874882",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月15日",
+    "pub_ts": 1744700315,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在春意盎然的季节，一起奏响创作之音吧~[洛天依·天星问动态_萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在春意盎然的季节，一起奏响创作之音吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4136,
+    "comment": 156,
+    "forward": 117
+  },
+  "forward": {
+    "orig_id": 1055966835609960454,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-04/2025-04-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

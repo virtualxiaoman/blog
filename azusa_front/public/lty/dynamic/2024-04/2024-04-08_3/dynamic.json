@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "917971993081413797",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/917971993081413797",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月8日",
+    "pub_ts": 1712570410,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "#天依的周边# | 新品上架\n转发关注天依，揪2位小伙伴赠出【系列小鼠标垫】1个。\n\n洛进入了实验室，保持警惕，小心装置，这里似乎掩藏着很多秘密。[代号洛天依_你不对劲]\n#代号洛天依#系列 实验室CODE LUO 系列周边上新啦！[代号洛天依_不是事儿]\n\n♦本期上新\n实验室CODE LUO-15cm大徽章\n实验室CODE LUO-26*21cm鼠标垫\n实验室CODE LUO-70*40cm大鼠标垫\n\n♦预售时间：4月19日\n\n♦购买地址\n「moeyu天猫旗舰店」\n「bilibili会员购」\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#天依的周边#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+      },
+      {
+        "type": "text",
+        "text": " | 新品上架\n转发关注天依，揪2位小伙伴赠出【系列小鼠标垫】1个。\n\n洛进入了实验室，保持警惕，小心装置，这里似乎掩藏着很多秘密。"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_你不对劲]",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "name": "你不对劲",
+        "url": "https://i0.hdslb.com/bfs/emote/f694efdafc888fce47054249dcc85a8d72359862.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "系列 实验室CODE LUO 系列周边上新啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_不是事儿]",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "name": "不是事儿",
+        "url": "https://i0.hdslb.com/bfs/emote/ce2071489d03e85e5c948cd384e5750d56025772.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♦本期上新\n实验室CODE LUO-15cm大徽章\n实验室CODE LUO-26*21cm鼠标垫\n实验室CODE LUO-70*40cm大鼠标垫\n\n♦预售时间：4月19日\n\n♦购买地址\n「moeyu天猫旗舰店」\n「bilibili会员购」"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-08_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4dbc9dff389d1fa9241af21889727be336081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 450.0166015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-08_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1638a464addc5ea2fcc7bb5f06408e7336081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 494.6591796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-08_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b90863d9522c071b6cb60c5b903310bc36081646.jpg",
+        "width": 750,
+        "height": 5391,
+        "size_kb": 3287.0869140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-04-08_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3d1298a9592a826863e6642c56cf5b8836081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 422.8896484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-04-08_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/82ce543cd1269019e6973a2d01f731e236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 451.666015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-04-08_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0981728cc660193f97e6e9990acc2c3636081646.jpg",
+        "width": 750,
+        "height": 7264,
+        "size_kb": 3556.4033203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-04-08_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cd31a0c44eb4948ff0dffe2ebdfc632d36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 486.1396484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-04-08_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d09cecd6c86ed3077e1c6d00f5e69c0236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 455.39453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-04-08_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/567d1076e0a8ee244a948aa2a4f5e84336081646.jpg",
+        "width": 750,
+        "height": 7334,
+        "size_kb": 3494.00390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/你不对劲.png",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "text": "[代号洛天依_你不对劲]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/不是事儿.png",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "text": "[代号洛天依_不是事儿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5822,
+    "comment": 1250,
+    "forward": 3799
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "id": "1169239833433866244",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169239833433866244",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月14日",
+    "pub_ts": 1771073263,
+    "location": ""
+  },
+  "topic": {
+    "id": 1332663,
+    "name": "B站春节兴趣房间阵容官宣",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1332663&topic_name=B%E7%AB%99%E6%98%A5%E8%8A%82%E5%85%B4%E8%B6%A3%E6%88%BF%E9%97%B4%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "明晚的直播是天依和P主老师们的特别访谈回哦！[洛天依·闪耀的Producer动态_有请]\n感谢@純白 @JUSF周存 @丨闹闹丶丨 @塑料小猪销售中心 @停電前夜 老师的特别受邀[洛天依·闪耀的Producer动态_幸福]\n大家投递给天依的回忆也会明天在直播间展示，谢谢大家今晚的陪伴，我们明天继续天依的直播间见吧~[洛天依·闪耀的Producer动态_我更喜欢你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明晚的直播是天依和P主老师们的特别访谈回哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_有请]",
+        "package_id": "8540",
+        "emoji_id": "117828",
+        "name": "有请",
+        "url": "https://i0.hdslb.com/bfs/garb/ec1b372c8ca1ee5c392fe6a98dd4d48c8f66eca1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@純白 ",
+        "mid": 123372,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@JUSF周存 ",
+        "mid": 341368,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@丨闹闹丶丨 ",
+        "mid": 11870424,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@塑料小猪销售中心 ",
+        "mid": 435982573,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@停電前夜 ",
+        "mid": 526573745,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师的特别受邀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n大家投递给天依的回忆也会明天在直播间展示，谢谢大家今晚的陪伴，我们明天继续天依的直播间见吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "name": "我更喜欢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/6802c9a5c0ff1d69b3bd334a33872a74b0b625e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-14_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bb065ce43090a8e1e7a0e1e1b06818b336081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 3233.27001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/有请.gif",
+        "package_id": "8540",
+        "emoji_id": "117828",
+        "text": "[洛天依·闪耀的Producer动态_有请]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/我更喜欢你.gif",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依的朋友聊天局",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依的朋友聊天局",
+        "desc1": {
+          "text": "02-15 18:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "11.2万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5380251,
+        "reserve_total": 111508,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5002,
+    "comment": 335,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

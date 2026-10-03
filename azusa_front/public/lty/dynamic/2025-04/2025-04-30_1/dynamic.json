@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "1061535887758721044",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1061535887758721044",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月30日",
+    "pub_ts": 1745996484,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖天依很荣幸担任第六届上海五五购物节“二次元消费”场景推介官\n今晚 20:30 东方卫视，请接收来自天依的特别问候，\n次元入口已开启，天依在上海，期待和大家创造更多的相遇！[洛天依·天星问动态_萌]\n\n转发关注天依，揪三位小伙伴送出【洛天依随机周边】一份～\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "355447",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "天依很荣幸担任第六届上海五五购物节“二次元消费”场景推介官\n今晚 20:30 东方卫视，请接收来自天依的特别问候，\n次元入口已开启，天依在上海，期待和大家创造更多的相遇！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n转发关注天依，揪三位小伙伴送出【洛天依随机周边】一份～"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0a03f4b228763a44e9b124f07577d0d836081646.jpg",
+        "width": 1200,
+        "height": 2357,
+        "size_kb": 3649.53,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "355447"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5229,
+    "comment": 728,
+    "forward": 5957
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

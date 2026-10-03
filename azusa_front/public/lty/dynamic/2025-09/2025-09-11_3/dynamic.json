@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "1111348166854180865",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1111348166854180865",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月11日",
+    "pub_ts": 1757594309,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖  猫噜噜带着天依的V3公式服随身坐姿挂件和大家见面啦！\n转发关注天依，揪1位小伙伴赠送同款玩偶1个~[洛天依八音奇响动态_可爱]\n\n9月12日18:00 正式开售~\n也让V3小洛陪伴在你的身边，去看更多风景吧~\n还可以为小洛换上新衣服哦！ [洛天依八音奇响动态_咪]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "377743",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  猫噜噜带着天依的V3公式服随身坐姿挂件和大家见面啦！\n转发关注天依，揪1位小伙伴赠送同款玩偶1个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n9月12日18:00 正式开售~\n也让V3小洛陪伴在你的身边，去看更多风景吧~\n还可以为小洛换上新衣服哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-11_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/96186b191b49d4af34d9cccb723e1d5236081646.jpg",
+        "width": 1000,
+        "height": 13013,
+        "size_kb": 3388.03515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "猫噜噜 Vsinger 随身坐姿毛绒挂件系列  洛天依V3公式服款",
+            "price": "¥72",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/b6/0f/1e3eb16dce514ec22adeae7c2b6ddb44.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=13129724&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1111348166854180865",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-09-11_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "377743"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6180,
+    "comment": 593,
+    "forward": 7520
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

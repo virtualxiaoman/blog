@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "712751661205946440",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/712751661205946440",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月3日",
+    "pub_ts": 1664788828,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "趁着假期出门转转，呼吸呼吸新鲜空气~ 将快乐的时刻也分享给你们鸭！ 大家现在都在做什么事情呢？[洛天依_捏捏] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "趁着假期出门转转，呼吸呼吸新鲜空气~ 将快乐的时刻也分享给你们鸭！ 大家现在都在做什么事情呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-03_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/424d0595ec5a25e4c8833fbf55747e5836081646.jpg",
+        "width": 3648,
+        "height": 5472,
+        "size_kb": 1383.239990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-10-03_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ef489c7568c95eb88294cc67e752d46636081646.jpg",
+        "width": 3648,
+        "height": 5472,
+        "size_kb": 1466.800048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-10-03_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8d074e59501583deac7d978a3af9622436081646.jpg",
+        "width": 3648,
+        "height": 5472,
+        "size_kb": 670.3499755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-10-03_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/1dbaa0d63809d315dba015d1f9d4a5fb36081646.jpg",
+        "width": 2664,
+        "height": 3996,
+        "size_kb": 1112.6400146484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11690,
+    "comment": 853,
+    "forward": 181
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

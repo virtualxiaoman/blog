@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1212554063215853572",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1212554063215853572",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月11日",
+    "pub_ts": 1781158143,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@东东臭宝贝@28676081768_bili@everoneday等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@东东臭宝贝",
+        "mid": 3461562717178707,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@28676081768_bili",
+        "mid": 406236371,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@everoneday",
+        "mid": 165585880,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2790,
+    "comment": 36,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 1208472749059604486,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-05/2026-05-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:23:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "953195350589440001",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/953195350589440001",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月12日",
+    "pub_ts": 1720771487,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "倒计时3个小时啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "倒计时3个小时啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依十二周年“共鸣之夜”生日会直播倒计时！",
+      "desc": "洛天依十二周年“共鸣之夜”生日音乐会进入最后的倒计时啦！\n全新舞台，全新音乐，全新模型，联动星轶影城百块影屏共鸣\n跳动12年的机械心脏，能否再次唤醒你心中的共鸣？\n今晚19:12，请聆听天依以歌声倾诉无限爱意——",
+      "jump_url": "https://www.bilibili.com/video/BV1Mw4m1Y79t",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/4adf630e4e37599fbf985283a52d8af5a0a7f8ec.jpg",
+      "cover_file": "../../_assets/covers/2024-07-12_3.jpg",
+      "bvid": "BV1Mw4m1Y79t",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Mw4m1Y79t",
+        "aid": "1106171064",
+        "cover": "http://i1.hdslb.com/bfs/archive/4adf630e4e37599fbf985283a52d8af5a0a7f8ec.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Mw4m1Y79t",
+        "stat": {
+          "danmaku": "251",
+          "play": "13.1万",
+          "vt": ""
+        },
+        "duration_text": "00:44",
+        "title": "洛天依十二周年“共鸣之夜”生日会直播倒计时！",
+        "desc": "洛天依十二周年“共鸣之夜”生日音乐会进入最后的倒计时啦！\n全新舞台，全新音乐，全新模型，联动星轶影城百块影屏共鸣\n跳动12年的机械心脏，能否再次唤醒你心中的共鸣？\n今晚19:12，请聆听天依以歌声倾诉无限爱意——",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15131,
+    "comment": 863,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

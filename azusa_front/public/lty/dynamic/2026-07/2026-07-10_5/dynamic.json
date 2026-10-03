@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1223366987015520261",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1223366987015520261",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月10日",
+    "pub_ts": 1783675723,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "长沙站即将开票啦！一起奔赴属于我们的那片天空吧[洛天依拜年纪动态表情包_喜欢]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "长沙站即将开票啦！一起奔赴属于我们的那片天空吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_喜欢]",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/5a250c2b1c4d4fb0597bf02da1baa32bf80a5370.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/喜欢.gif",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "text": "[洛天依拜年纪动态表情包_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4541,
+    "comment": 145,
+    "forward": 59
+  },
+  "forward": {
+    "orig_id": 1221829839708749832,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-07-06_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:29:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

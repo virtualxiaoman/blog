@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "887916447608602646",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/887916447608602646",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月18日",
+    "pub_ts": 1705572558,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "擎苍工作室x洛天依 | 灯火春澜Ver.\n●火树千春妍，清辉映月阑。一曲琵琶醉，辰龙奏华章。\n擎苍工作室 X 洛天依 甲辰龙年新春特别款洛天依「灯火春澜Ver.」Q版手办即将与大家见面啦，底座还可以作为便携式蓝牙音箱使用哦~敬请期待[天依游学记_谢谢你]\n更多后续信息可提前关注@洛天依 @擎苍工作室 \n\n*产品监修中，以最终实物为准。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "擎苍工作室x洛天依 | 灯火春澜Ver.\n●火树千春妍，清辉映月阑。一曲琵琶醉，辰龙奏华章。\n擎苍工作室 X 洛天依 甲辰龙年新春特别款洛天依「灯火春澜Ver.」Q版手办即将与大家见面啦，底座还可以作为便携式蓝牙音箱使用哦~敬请期待"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n更多后续信息可提前关注"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@擎苍工作室",
+        "mid": 430351780,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n*产品监修中，以最终实物为准。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3689041b50e9d757961c23f08d302dc836081646.jpg",
+        "width": 1010,
+        "height": 1280,
+        "size_kb": 719.736328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5423,
+    "comment": 247,
+    "forward": 123
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "529754417487375181",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/529754417487375181",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月28日",
+    "pub_ts": 1622181462,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #BML2021#今年夏天，为你们歌唱！可以期待一下天依为大家准备的小惊喜哟~[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML2021"
+      },
+      {
+        "type": "text",
+        "text": "今年夏天，为你们歌唱！可以期待一下天依为大家准备的小惊喜哟~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4125,
+    "comment": 450,
+    "forward": 122
+  },
+  "forward": {
+    "orig_id": 529724030594621408,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2021-05/2021-05-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

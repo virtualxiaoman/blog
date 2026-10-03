@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "848562057399762947",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/848562057399762947",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月4日",
+    "pub_ts": 1696409650,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "今晚的冰火歌会，天依将作为冰火歌会金秋大使，在第13个节目出场，表演和索尼音乐合作的原创EP《洛 LUO》首发单曲《登陆宇宙》，大家要来看喔！[古色花香洛天依_请你吃包子]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚的冰火歌会，天依将作为冰火歌会金秋大使，在第13个节目出场，表演和索尼音乐合作的原创EP《洛 LUO》首发单曲《登陆宇宙》，大家要来看喔！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_请你吃包子]",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "name": "请你吃包子",
+        "url": "https://i0.hdslb.com/bfs/garb/item/bd7d7eafe538d8c7c0670bb7e00b7a906ca7b66e.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-04_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/74efcdcf9c3264b12a8f38a4f2f747df36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1196.489990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/请你吃包子.png",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "text": "[古色花香洛天依_请你吃包子]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2023冰火秋日游",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2023冰火秋日游",
+        "desc1": {
+          "text": "2023-10-04 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "18.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone14 Pro Max*1份、任天堂switch游戏机*2份、Apple AirPods（第三代）*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3136514&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3136514,
+        "reserve_total": 180803,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6308,
+    "comment": 471,
+    "forward": 42
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

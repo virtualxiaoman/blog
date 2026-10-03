@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1107602822207111174",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1107602822207111174",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月1日",
+    "pub_ts": 1756722278,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起续写我们的秋日乐章吧～[洛天依·闪耀的Producer动态_有请]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起续写我们的秋日乐章吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_有请]",
+        "package_id": "8540",
+        "emoji_id": "117828",
+        "name": "有请",
+        "url": "https://i0.hdslb.com/bfs/garb/ec1b372c8ca1ee5c392fe6a98dd4d48c8f66eca1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/有请.gif",
+        "package_id": "8540",
+        "emoji_id": "117828",
+        "text": "[洛天依·闪耀的Producer动态_有请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4602,
+    "comment": 151,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 1107600198011453465,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-09/2025-09-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:39:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

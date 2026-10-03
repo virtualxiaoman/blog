@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1232993735307952137",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1232993735307952137",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月5日",
+    "pub_ts": 1785917125,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·成都站特别回顾视频来啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·成都站特别回顾视频来啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "万千诚挚热烈的光，照亮成都站的夜晚",
+      "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·成都站特别回顾视频来啦！\n本站的特别采访问题是——\n如果你和天依互换身份，你会做什么？\n你所学的专业能力，能为天依做什么？\n天依也很好奇评论区大家的答案哦！\n再次和大家一起度过难忘的夜晚，感谢成都站的大家，我们下一站上海见啦~\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会上海等站售票进行中，期待和大家再见~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003089",
+      "jump_url": "https://www.bilibili.com/video/BV1c9Mk61EPZ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a18e15553a85deb03407fda821452df43d9e1f26.jpg",
+      "cover_file": "../../_assets/covers/2026-08-05_1.jpg",
+      "bvid": "BV1c9Mk61EPZ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1c9Mk61EPZ",
+        "aid": "117041851794527",
+        "cover": "http://i1.hdslb.com/bfs/archive/a18e15553a85deb03407fda821452df43d9e1f26.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1c9Mk61EPZ",
+        "stat": {
+          "danmaku": "285",
+          "play": "7.5万",
+          "vt": ""
+        },
+        "duration_text": "02:47",
+        "title": "万千诚挚热烈的光，照亮成都站的夜晚",
+        "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·成都站特别回顾视频来啦！\n本站的特别采访问题是——\n如果你和天依互换身份，你会做什么？\n你所学的专业能力，能为天依做什么？\n天依也很好奇评论区大家的答案哦！\n再次和大家一起度过难忘的夜晚，感谢成都站的大家，我们下一站上海见啦~\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会上海等站售票进行中，期待和大家再见~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003089",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17301,
+    "comment": 867,
+    "forward": 248
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

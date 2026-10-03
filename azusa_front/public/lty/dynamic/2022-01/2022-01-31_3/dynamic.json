@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "621871458709770209",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/621871458709770209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月31日",
+    "pub_ts": 1643629132,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  喜过新年，雪迎冬奥。我参与的“相约北京”奥林匹克文化节暨第22届#相约北京国际艺术节# 开幕式将在2月2日 22:35 CCTV16频道、2月3日 16:45 凤凰卫视播出！十分开心能够用歌声为冬奥送去祝福，期待运动健儿们再创佳绩，圆梦北京～\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  喜过新年，雪迎冬奥。我参与的“相约北京”奥林匹克文化节暨第22届"
+      },
+      {
+        "type": "topic",
+        "text": "#相约北京国际艺术节#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%9B%B8%E7%BA%A6%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E8%89%BA%E6%9C%AF%E8%8A%82"
+      },
+      {
+        "type": "text",
+        "text": " 开幕式将在2月2日 22:35 CCTV16频道、2月3日 16:45 凤凰卫视播出！十分开心能够用歌声为冬奥送去祝福，期待运动健儿们再创佳绩，圆梦北京～"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-01-31_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a4c9811544b87b355870065bb3ebf02912e50a0a.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1721.760009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11104,
+    "comment": 950,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

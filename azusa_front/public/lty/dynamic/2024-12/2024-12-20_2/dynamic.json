@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1012877047916134440",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1012877047916134440",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月20日",
+    "pub_ts": 1734667215,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "愿中华戏曲文化流传千载，生生不息",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "愿中华戏曲文化流传千载，生生不息"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "献给历久弥新的中华戏曲｜戏游九州",
+      "desc": "跨越江河，踏遍九州，寻访昆曲、京剧、越剧……\n领略异彩纷呈的戏调声腔，感受一腔诉千年的震颤与共鸣。\n粉墨千年，戏游九州，山海同梦，戏魂重生。\n千载故事传说流传至今朝，千变曲艺戏腔振华彩新章。\n一袭戏装，一声开嗓，以天依为载体，将戏韵曲魂重唱。\n2024天依游学记「歌行·戏曲季」主题单曲《戏游九州》，现已上架各大音乐平台。\n献给历久弥新的中华戏曲，致敬一代又一代戏曲传承人。\n\n出品：上海哔哩哔哩科技有限公司（Vsinger）",
+      "jump_url": "https://www.bilibili.com/video/BV1HWkwYWETx",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/51ead7046f6d03b105d6d808f6e080d01ab81481.jpg",
+      "cover_file": "../../_assets/covers/2024-12-20_1.jpg",
+      "bvid": "BV1HWkwYWETx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1HWkwYWETx",
+        "aid": "113672802272752",
+        "cover": "http://i2.hdslb.com/bfs/archive/51ead7046f6d03b105d6d808f6e080d01ab81481.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+        "stat": {
+          "danmaku": "4.8万",
+          "play": "829.8万",
+          "vt": ""
+        },
+        "duration_text": "03:09",
+        "title": "献给历久弥新的中华戏曲｜戏游九州",
+        "desc": "跨越江河，踏遍九州，寻访昆曲、京剧、越剧……\n领略异彩纷呈的戏调声腔，感受一腔诉千年的震颤与共鸣。\n粉墨千年，戏游九州，山海同梦，戏魂重生。\n千载故事传说流传至今朝，千变曲艺戏腔振华彩新章。\n一袭戏装，一声开嗓，以天依为载体，将戏韵曲魂重唱。\n2024天依游学记「歌行·戏曲季」主题单曲《戏游九州》，现已上架各大音乐平台。\n献给历久弥新的中华戏曲，致敬一代又一代戏曲传承人。\n\n出品：上海哔哩哔哩科技有限公司（Vsinger）",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 191471,
+    "comment": 31253,
+    "forward": 14734
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

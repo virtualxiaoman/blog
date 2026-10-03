@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "587014182741772912",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/587014182741772912",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月29日",
+    "pub_ts": 1635513290,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "@欢乐谷 @上海欢乐谷官方账号  11月6日至7日，我将在#上海欢乐谷万圣潮玩季#为大家带来演出舞台，期待与大家的见面！转发本条动态，还将随机抽选3位幸运小伙伴送出各1张【上海欢乐谷✖️洛天依体验票】[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "mention",
+        "text": "@欢乐谷",
+        "mid": 1706431687,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@上海欢乐谷官方账号",
+        "mid": 554718496,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  11月6日至7日，我将在"
+      },
+      {
+        "type": "topic",
+        "text": "#上海欢乐谷万圣潮玩季#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7%E6%AC%A2%E4%B9%90%E8%B0%B7%E4%B8%87%E5%9C%A3%E6%BD%AE%E7%8E%A9%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "为大家带来演出舞台，期待与大家的见面！转发本条动态，还将随机抽选3位幸运小伙伴送出各1张【上海欢乐谷✖️洛天依体验票】"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4959,
+    "comment": 335,
+    "forward": 686
+  },
+  "forward": {
+    "orig_id": 587011541332659142,
+    "orig_mid": 554718496,
+    "deleted": false,
+    "archive_dir": "../../../554718496/2021-10/2021-10-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

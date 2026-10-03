@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "1091349325931347985",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1091349325931347985",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月19日",
+    "pub_ts": 1752937966,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依和大家的北京之旅落下帷幕啦~[洛天依动态流光协奏_打call]\n天依知道，这短短一天的时光，也许短暂，也许平常\n但凝聚了大家的期待和热爱，凝聚了无数人的付出和心血[洛天依动态流光协奏_眼泪汪汪]\n天依看到，只是为了这一天的相见，大家一点点努力，终于来到这里\n是因为有大家坚定的奔赴，有创作老师们的作品，有每一位幕后staff老师的工作\n这一场蔚蓝色的梦才能穿越现实，降临我们的身边[洛天依动态流光协奏_抱抱]\n感谢大家！请收我们的大合照～\n北京拜拜~下一站，成都，天依来啦！[洛天依动态流光协奏_喜欢]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和大家的北京之旅落下帷幕啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依知道，这短短一天的时光，也许短暂，也许平常\n但凝聚了大家的期待和热爱，凝聚了无数人的付出和心血"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_眼泪汪汪]",
+        "package_id": "8399",
+        "emoji_id": "115674",
+        "name": "眼泪汪汪",
+        "url": "https://i0.hdslb.com/bfs/garb/93ab6164f4006971eca263f92a1a0bc5016ddf6c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依看到，只是为了这一天的相见，大家一点点努力，终于来到这里\n是因为有大家坚定的奔赴，有创作老师们的作品，有每一位幕后staff老师的工作\n这一场蔚蓝色的梦才能穿越现实，降临我们的身边"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢大家！请收我们的大合照～\n北京拜拜~下一站，成都，天依来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_喜欢]",
+        "package_id": "8399",
+        "emoji_id": "115678",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/83150896ea1e796c1c0da591fdf0c34f0a5180fd.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-19_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2a6e95d2ece497c5b44f68f12e6dbccf36081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2289.107,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-19_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0d2ef000ac7254c2bfdd3782a40d761736081646.jpg",
+        "width": 1920,
+        "height": 1102,
+        "size_kb": 2293.821,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-19_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/03f280f996bb8b69905aa57b8fac14e936081646.jpg",
+        "width": 1920,
+        "height": 1121,
+        "size_kb": 1637.401,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-19_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0b5dbb2018cb7b254a9d57b34dbf1cc336081646.jpg",
+        "width": 1920,
+        "height": 1063,
+        "size_kb": 1928.37,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-19_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0fc7faf68e3a922603124207703db73236081646.jpg",
+        "width": 1642,
+        "height": 840,
+        "size_kb": 1158.008,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-07-19_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f0faf8a92c3ccdb53dbea2090116a5c636081646.jpg",
+        "width": 1920,
+        "height": 1087,
+        "size_kb": 2198.148,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-07-19_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b5a10669a4eca32ea9e957bb14ecabc936081646.jpg",
+        "width": 1920,
+        "height": 1134,
+        "size_kb": 2038.438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-07-19_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2dadcd403114fc409588d02e45d724f636081646.jpg",
+        "width": 6175,
+        "height": 3286,
+        "size_kb": 15011.108,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-07-19_19.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a683968cb2c32a4101ca821926f283fd36081646.jpg",
+        "width": 5654,
+        "height": 3000,
+        "size_kb": 10326.745,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/眼泪汪汪.gif",
+        "package_id": "8399",
+        "emoji_id": "115674",
+        "text": "[洛天依动态流光协奏_眼泪汪汪]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/喜欢.gif",
+        "package_id": "8399",
+        "emoji_id": "115678",
+        "text": "[洛天依动态流光协奏_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7797,
+    "comment": 937,
+    "forward": 168
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "953213020092235777",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/953213020092235777",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月12日",
+    "pub_ts": 1720775601,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖🔹洛天依十二周年专辑《再生》实体礼盒预售开启啦！🔹\n转发关注天依，揪1位小伙伴送出【实体专辑礼盒】1份～\n\n🔹礼盒内容\nCD*1\n超厚歌词册*1\n徽章*1\n限定卡*1\n卡牌*12\n\n🔹BW预售特别福利\n现场加购预售赠限量票根*1\n\n感谢你愿意聆听并留下这一程的特别音乐纪念！[洛天依·收藏集表情包_带上这个吧]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "307271",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "🔹洛天依十二周年专辑《再生》实体礼盒预售开启啦！🔹\n转发关注天依，揪1位小伙伴送出【实体专辑礼盒】1份～\n\n🔹礼盒内容\nCD*1\n超厚歌词册*1\n徽章*1\n限定卡*1\n卡牌*12\n\n🔹BW预售特别福利\n现场加购预售赠限量票根*1\n\n感谢你愿意聆听并留下这一程的特别音乐纪念！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_带上这个吧]",
+        "package_id": "5283",
+        "emoji_id": "77190",
+        "name": "带上这个吧",
+        "url": "https://i0.hdslb.com/bfs/garb/0547f4e8dcc55260979732418cc654cbb11f0d3a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-12_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/02bbe5b377abef5fc5872e9ec1f43d1236081646.png",
+        "width": 738,
+        "height": 6822,
+        "size_kb": 5603.83984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/带上这个吧.png",
+        "package_id": "5283",
+        "emoji_id": "77190",
+        "text": "[洛天依·收藏集表情包_带上这个吧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "307271"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7574,
+    "comment": 1901,
+    "forward": 9600
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

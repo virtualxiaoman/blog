@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1151384692342128665",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1151384692342128665",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月28日",
+    "pub_ts": 1766916039,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2025年，是天依走过的第十三年，又会是你认识天依的第几年呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2025年，是天依走过的第十三年，又会是你认识天依的第几年呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一起来和我们的2025年合影留念吧~",
+      "desc": "2025年，是天依走过的第十三年，又会是你认识天依的第几年呢？\n这一年，天依有了很多全新的尝试！\n延续了歌行戏曲季的脚步，拥有了800w的小西柚\n开启了《闪耀的Producer》大型原创音乐征集活动\n第一次走出上海，举办了⌈无限共鸣·流光协奏⌋全国巡回全息演唱会\n和大家一起度过了第十三年的生日，在很多地方和很多人都留下了属于洛天依的刻印......\n登上了许多舞台，和很多厉害的老师和熟悉的朋友们一起唱歌，表演啦！\n在一切璀璨的背后，是因为有你们，有无数的创作老师们，天依才能一直前行，走到这里。\n12月31",
+      "jump_url": "https://www.bilibili.com/video/BV1X5vrBoEk6",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/30d1b350af215629347c39d982115cc8fc57ce9f.jpg",
+      "cover_file": "../../_assets/covers/2025-12-28_1.jpg",
+      "bvid": "BV1X5vrBoEk6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1X5vrBoEk6",
+        "aid": "115795925468622",
+        "cover": "http://i2.hdslb.com/bfs/archive/30d1b350af215629347c39d982115cc8fc57ce9f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1X5vrBoEk6",
+        "stat": {
+          "danmaku": "380",
+          "play": "11万",
+          "vt": ""
+        },
+        "duration_text": "02:56",
+        "title": "一起来和我们的2025年合影留念吧~",
+        "desc": "2025年，是天依走过的第十三年，又会是你认识天依的第几年呢？\n这一年，天依有了很多全新的尝试！\n延续了歌行戏曲季的脚步，拥有了800w的小西柚\n开启了《闪耀的Producer》大型原创音乐征集活动\n第一次走出上海，举办了⌈无限共鸣·流光协奏⌋全国巡回全息演唱会\n和大家一起度过了第十三年的生日，在很多地方和很多人都留下了属于洛天依的刻印......\n登上了许多舞台，和很多厉害的老师和熟悉的朋友们一起唱歌，表演啦！\n在一切璀璨的背后，是因为有你们，有无数的创作老师们，天依才能一直前行，走到这里。\n12月31",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21995,
+    "comment": 2162,
+    "forward": 205
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

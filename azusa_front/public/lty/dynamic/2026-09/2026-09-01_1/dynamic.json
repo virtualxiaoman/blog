@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1242961834657447958",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1242961834657447958",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月1日",
+    "pub_ts": 1788238004,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "♟️终冕主视觉设定「黑白双王」公开\n遥远世界的理想乡，「黑白王国」相对伫立\n迷雾中的黑白双王静候时机，一场名为“终冕”的弈局即将打响[洛天依14周年·纯蓝幻乐 动态表情包_魔法]\n\n🪶主题同人征集活动特别开启\n到访理想乡的旅人，请拿上充满疑点的传说残片，于王城中揭露历史的谎言\n为新的篇章，留下你的感受吧~ [洛天依14周年·纯蓝幻乐 动态表情包_邀请]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "♟️终冕主视觉设定「黑白双王」公开\n遥远世界的理想乡，「黑白王国」相对伫立\n迷雾中的黑白双王静候时机，一场名为“终冕”的弈局即将打响"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "name": "魔法",
+        "url": "https://i0.hdslb.com/bfs/garb/586e20309a26fa9aa927c64ab9f94b6dd2f401f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪶主题同人征集活动特别开启\n到访理想乡的旅人，请拿上充满疑点的传说残片，于王城中揭露历史的谎言\n为新的篇章，留下你的感受吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "name": "邀请",
+        "url": "https://i0.hdslb.com/bfs/garb/f7f110a8c874b6bb31a453eed43cf0792bc68b41.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7824bb3be1a792acea4119f035889fb036081646.jpg",
+        "width": 1080,
+        "height": 8396,
+        "size_kb": 2061.380859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/38e74e5bf11a3b0eb14ac92a8af6504036081646.jpg",
+        "width": 960,
+        "height": 2418,
+        "size_kb": 1337.2265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/魔法.gif",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/邀请.gif",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5211,
+    "comment": 195,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

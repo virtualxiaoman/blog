@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1240081638232162401",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1240081638232162401",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月24日",
+    "pub_ts": 1787567406,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「洛天依×乐正龙牙」今夜百鬼夜行，《贱侠》无人能及！",
+      "desc": "天依很开心第一次在无限共鸣的舞台上和龙牙哥一起唱歌！\n长沙站现场的大家，喜欢我们一起为大家带来的特别演出吗？\n \n《贱侠》\n作词/作曲：阿萨Aza\n编曲：Evalia\n调教：Creuzer",
+      "jump_url": "https://www.bilibili.com/video/BV1Q2hP6jExL",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/38b9e03f13d15ccd4a2826491459b793da9da134.jpg",
+      "cover_file": "../../_assets/covers/2026-08-24_1.jpg",
+      "bvid": "BV1Q2hP6jExL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Q2hP6jExL",
+        "aid": "117149981150794",
+        "cover": "http://i0.hdslb.com/bfs/archive/38b9e03f13d15ccd4a2826491459b793da9da134.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Q2hP6jExL",
+        "stat": {
+          "danmaku": "704",
+          "play": "26.2万",
+          "vt": ""
+        },
+        "duration_text": "03:00",
+        "title": "「洛天依×乐正龙牙」今夜百鬼夜行，《贱侠》无人能及！",
+        "desc": "天依很开心第一次在无限共鸣的舞台上和龙牙哥一起唱歌！\n长沙站现场的大家，喜欢我们一起为大家带来的特别演出吗？\n \n《贱侠》\n作词/作曲：阿萨Aza\n编曲：Evalia\n调教：Creuzer",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41910,
+    "comment": 1482,
+    "forward": 196
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

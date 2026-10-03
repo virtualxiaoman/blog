@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "549406959470088144",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/549406959470088144",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月20日",
+    "pub_ts": 1626757176,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依九周年##2021虚拟歌手创作赛#\n有你们在的舞台，更加值得我热爱[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": "\n有你们在的舞台，更加值得我热爱"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6150,
+    "comment": 118,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 546425573558249217,
+    "orig_mid": 8238664,
+    "deleted": false,
+    "archive_dir": "../../../8238664/2021-07/2021-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:33:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

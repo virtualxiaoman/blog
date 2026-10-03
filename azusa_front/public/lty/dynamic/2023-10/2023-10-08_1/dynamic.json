@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "849861074539773961",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/849861074539773961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月8日",
+    "pub_ts": 1696712101,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@星璃Kirakira@笑动物世界太假@-秋山绫-中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@星璃Kirakira",
+        "mid": 210226147,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@笑动物世界太假",
+        "mid": 17335977,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@-秋山绫-",
+        "mid": 1183505132,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4252,
+    "comment": 83,
+    "forward": 11
+  },
+  "forward": {
+    "orig_id": 836689599563563014,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-09/2023-09-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

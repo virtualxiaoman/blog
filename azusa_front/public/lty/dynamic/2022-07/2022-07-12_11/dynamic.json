@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "681980325053595651",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/681980325053595651",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月12日",
+    "pub_ts": 1657624318,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我准备好啦！生日会马上就要开始了～快来直播间跟天依一起过生日吧！[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我准备好啦！生日会马上就要开始了～快来直播间跟天依一起过生日吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8236,
+    "comment": 604,
+    "forward": 93
+  },
+  "forward": {
+    "orig_id": 142626230290547383,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2018-07/2018-07-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:51:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

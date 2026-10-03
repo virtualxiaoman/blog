@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "id": "830400186880622660",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/830400186880622660",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月16日",
+    "pub_ts": 1692181010,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "在今年的生日会上，天依预告过，我即将开启一场自由的寻声之旅，大家还记得吗？\n而现在，我终于要带着这趟旅行的收获分享给大家啦！\n\n✧天依游学记·歌行 ✧全新民族风音乐拾遗企划即将开启~\n歌行的意义是什么？\n是四方见闻的收集？还是民族声音的延续？\n可以是电子音乐精灵的跃出樊笼，\n亦可以是与每一个人心底声音的纯净共鸣。\n天依将携手多位优秀的民族音乐传承人，用歌声采集人间的声音，将民族音乐之美、文化之美带给大家。\n\n精彩内容即将每日呈现，记得来天依的动态看哦！[古色花香洛天依_期待]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在今年的生日会上，天依预告过，我即将开启一场自由的寻声之旅，大家还记得吗？\n而现在，我终于要带着这趟旅行的收获分享给大家啦！\n\n✧天依游学记·歌行 ✧全新民族风音乐拾遗企划即将开启~\n歌行的意义是什么？\n是四方见闻的收集？还是民族声音的延续？\n可以是电子音乐精灵的跃出樊笼，\n亦可以是与每一个人心底声音的纯净共鸣。\n天依将携手多位优秀的民族音乐传承人，用歌声采集人间的声音，将民族音乐之美、文化之美带给大家。\n\n精彩内容即将每日呈现，记得来天依的动态看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-16_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/55a5f807887b70ec231feb1878c22b6c36081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 3042.419921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-16_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/64827d6e685990e2eb428703a2d79c2536081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2505.5751953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-08-16_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/968e3f23b4b1524a5fb3ec21816d51cf36081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2723.40234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-08-16_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4be6644cfe54b6811db7059af29788a336081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2117.447265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-08-16_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/06e2235dbccb7ceab57923bab03f670b36081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2200.1044921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-08-16_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/bd90749896dfbc52f2df0a178855f52636081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2372.9921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-08-16_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b17b26726cfad0c8e4f94f080362558236081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2585.15625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-08-16_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/767d3b578dbd5c16f154a78c7aac3e8e36081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2493.72998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-08-16_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/76d352e511da801e5d1b86d7c9fb8efe36081646.jpg",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2756.115234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7305,
+    "comment": 355,
+    "forward": 161
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

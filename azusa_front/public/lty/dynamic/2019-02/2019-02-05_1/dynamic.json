@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "216870001335434723",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/216870001335434723",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年2月5日",
+    "pub_ts": 1549332382,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大年初一Vsinger来拜年啦~！请接收我们最美好的祝福：祝大家醒狮迎春、“猪”事顺利、虎虎生威、龙腾四海、洪福齐天、三羊开泰~春节快乐啦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大年初一Vsinger来拜年啦~！请接收我们最美好的祝福：祝大家醒狮迎春、“猪”事顺利、虎虎生威、龙腾四海、洪福齐天、三羊开泰~春节快乐啦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-02-05_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9e877764ef1320a63157578d0a2cc213aeeaf9a4.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3965.6875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-02-05_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4c91ebc589042e3fa2a106a140a5e8c466704085.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3793.9228515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-02-05_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/553656e2f53ecd5347ef099ca478e2cddc3d7e0e.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 2737.3671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2019-02-05_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f5bd017d9380a5ba2e0bc2eb9879afe284a11b5d.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3289.4736328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2019-02-05_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bc8b1077a586ccc7bfd3d8e3cad99550fd57495d.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3048.1298828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2019-02-05_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bf7d882f2c43da5eb8d87cff98d0e8dc73018be2.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3164.45703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13346,
+    "comment": 944,
+    "forward": 298
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

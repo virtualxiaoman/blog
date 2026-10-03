@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "658640514836332600",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/658640514836332600",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月10日",
+    "pub_ts": 1652190095,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#转发抽奖# 甜or咸，选哪一个好呢？还好我不用纠结[洛天依_嘲笑]已经开始期待是哪一队胜出啦！（要是天依中奖了就把奖品送给大家~[洛天依_爱你]）",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": " 甜or咸，选哪一个好呢？还好我不用纠结"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_嘲笑]",
+        "package_id": "101",
+        "emoji_id": "2205",
+        "name": "嘲笑",
+        "url": "http://i0.hdslb.com/bfs/emote/0e5fef3f683b7989b036f587a143443a21fc27e2.png"
+      },
+      {
+        "type": "text",
+        "text": "已经开始期待是哪一队胜出啦！（要是天依中奖了就把奖品送给大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "）"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/嘲笑.png",
+        "package_id": "101",
+        "emoji_id": "2205",
+        "text": "[洛天依_嘲笑]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4734,
+    "comment": 153,
+    "forward": 221
+  },
+  "forward": {
+    "orig_id": 658626427322630226,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-05/2022-05-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:46:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

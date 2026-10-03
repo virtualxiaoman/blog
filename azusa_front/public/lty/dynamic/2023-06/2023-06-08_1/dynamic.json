@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "804817253096751109",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/804817253096751109",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月8日",
+    "pub_ts": 1686224519,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 嘟嘟嘟，各位旅客请注意——\n代号洛天依专属个性装扮将于6月8号19点开启预约，6月9号19点正式上线啦~[古色花香洛天依_期待]\n转发并关注，6月30日揪1位陪伴小分队的小伙伴赠送航行纪念【永久粉丝套装+马口铁徽章】1份。\n\n专属传送门：网页链接\n\n永久套装包含特典：ProjectLuo限定金属收藏卡（含对应专属编号）/马口铁徽章  \n购买截止日期：9月30日24:00\n具体活动规则请大家戳下图查看，一起加入星际之旅吧~！[洛天依幻游世界_冲鸭]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "156881",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 嘟嘟嘟，各位旅客请注意——\n代号洛天依专属个性装扮将于6月8号19点开启预约，6月9号19点正式上线啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发并关注，6月30日揪1位陪伴小分队的小伙伴赠送航行纪念【永久粉丝套装+马口铁徽章】1份。\n\n专属传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=54182&f_source=social&from=official"
+      },
+      {
+        "type": "text",
+        "text": "\n\n永久套装包含特典：ProjectLuo限定金属收藏卡（含对应专属编号）/马口铁徽章  \n购买截止日期：9月30日24:00\n具体活动规则请大家戳下图查看，一起加入星际之旅吧~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_冲鸭]",
+        "package_id": "1066",
+        "emoji_id": "18939",
+        "name": "冲鸭",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e90fd81e8eff2a64a913dc49aa5ebfd7b1d7bc19.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-06-08_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6f7c96047231b521eb1b3f52f3c40cf736081646.jpg",
+        "width": 800,
+        "height": 12989,
+        "size_kb": 10257.2587890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/冲鸭.png",
+        "package_id": "1066",
+        "emoji_id": "18939",
+        "text": "[洛天依幻游世界_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "156881"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9249,
+    "comment": 2053,
+    "forward": 6775
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

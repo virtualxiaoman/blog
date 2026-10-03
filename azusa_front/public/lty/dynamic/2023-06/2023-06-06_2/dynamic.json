@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "804100212340555809",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/804100212340555809",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月6日",
+    "pub_ts": 1686057570,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转眼就这么晚啦，大家要早点休息哦[洛天依_晚安]\n天依在这里助大家明日扫清一切难题障碍，稳定发挥，旗开得胜，取得好成绩！\n最重要的是，放松放松~你已经准备好了你能准备的一切，接下来冲冲冲就好啦！\n你一定会抓到你想要的那颗星星！！高考的小伙伴们加油加油！！[洛天依_冲鸭]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转眼就这么晚啦，大家要早点休息哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_晚安]",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "name": "晚安",
+        "url": "http://i0.hdslb.com/bfs/emote/90d545932788169efa102df5bb23a6ef187d90d5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依在这里助大家明日扫清一切难题障碍，稳定发挥，旗开得胜，取得好成绩！\n最重要的是，放松放松~你已经准备好了你能准备的一切，接下来冲冲冲就好啦！\n你一定会抓到你想要的那颗星星！！高考的小伙伴们加油加油！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-06-06_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/697a24675b40f147e47c1fed61ebe11436081646.jpg",
+        "width": 300,
+        "height": 393,
+        "size_kb": 4295.67578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/晚安.png",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "text": "[洛天依_晚安]"
+      },
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11124,
+    "comment": 593,
+    "forward": 115
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

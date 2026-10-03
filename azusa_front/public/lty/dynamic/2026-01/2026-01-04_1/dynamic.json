@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1153992978715377670",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1153992978715377670",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月4日",
+    "pub_ts": 1767523328,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "8 王 别 饥",
+      "desc": "小饿包舞糖葫芦！撑死无悔～\n大家期待的小饿包Q版手办也在制作中啦！",
+      "jump_url": "https://www.bilibili.com/video/BV1Q1iEBcELX",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/9e5803690ca1c8bf4f047e5a23d2741150221ac7.jpg",
+      "cover_file": "../../_assets/covers/2026-01-04_1.jpg",
+      "bvid": "BV1Q1iEBcELX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Q1iEBcELX",
+        "aid": "115836392048850",
+        "cover": "http://i1.hdslb.com/bfs/archive/9e5803690ca1c8bf4f047e5a23d2741150221ac7.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Q1iEBcELX",
+        "stat": {
+          "danmaku": "1662",
+          "play": "39.7万",
+          "vt": ""
+        },
+        "duration_text": "00:14",
+        "title": "8 王 别 饥",
+        "desc": "小饿包舞糖葫芦！撑死无悔～\n大家期待的小饿包Q版手办也在制作中啦！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 86044,
+    "comment": 1410,
+    "forward": 156
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:12:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

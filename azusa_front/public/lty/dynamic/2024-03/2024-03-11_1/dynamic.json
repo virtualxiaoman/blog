@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "907606136762400804",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/907606136762400804",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月11日",
+    "pub_ts": 1710156921,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有没有可爱到你呀？[古色花香洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有没有可爱到你呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5802,
+    "comment": 247,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 906472574618173442,
+    "orig_mid": 2646708,
+    "deleted": false,
+    "archive_dir": "../../../2646708/2024-03/2024-03-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

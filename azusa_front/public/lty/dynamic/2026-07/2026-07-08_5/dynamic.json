@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1222660726889381890",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1222660726889381890",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月8日",
+    "pub_ts": 1783511284,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "BW现场会有天依和景德镇特别联动的等身陶瓷和瓷板画展示哦！联名周边和生日周边也将在现场贩售～购买了天依演唱会门票的小伙伴，还能获得限定无料一份[洛天依国乐季动态表情包_爱你]转发里揪1位小伙伴送出生日礼盒一份，一起期待美好时光的到来吧！[洛天依国乐季动态表情包_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "BW现场会有天依和景德镇特别联动的等身陶瓷和瓷板画展示哦！联名周边和生日周边也将在现场贩售～购买了天依演唱会门票的小伙伴，还能获得限定无料一份"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "转发里揪1位小伙伴送出生日礼盒一份，一起期待美好时光的到来吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4280,
+    "comment": 170,
+    "forward": 673
+  },
+  "forward": {
+    "orig_id": 1222657840624173064,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-07/2026-07-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:28:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

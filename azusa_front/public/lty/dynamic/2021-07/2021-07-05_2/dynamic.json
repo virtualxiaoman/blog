@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "543895502821252204",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/543895502821252204",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月5日",
+    "pub_ts": 1625473940,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依九周年# #2021虚拟歌手创作赛#\n让人慢性中毒的歌，你陶醉了吗？[洛天依_goodjob]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": "\n让人慢性中毒的歌，你陶醉了吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5947,
+    "comment": 122,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 542806187442212827,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2021-07/2021-07-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:32:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1013617487398305800",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1013617487398305800",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月22日",
+    "pub_ts": 1734839612,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很荣幸受邀演唱雪王动画第二季主题曲《奇幻沙州》，和天依一起跟着雪王出发吧～[洛天依·戏游九州动态_好呀]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很荣幸受邀演唱雪王动画第二季主题曲《奇幻沙州》，和天依一起跟着雪王出发吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_好呀]",
+        "package_id": "7318",
+        "emoji_id": "98454",
+        "name": "好呀",
+        "url": "https://i0.hdslb.com/bfs/garb/e61e211ad0cd8a9e6dc7d32edc6594516302cb31.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/好呀.gif",
+        "package_id": "7318",
+        "emoji_id": "98454",
+        "text": "[洛天依·戏游九州动态_好呀]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3869,
+    "comment": 143,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 1013611461552898053,
+    "orig_mid": 48084221,
+    "deleted": false,
+    "archive_dir": "../../../48084221/2024-12/2024-12-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:22:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

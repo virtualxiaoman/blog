@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "id": "1167652125760552994",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1167652125760552994",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月10日",
+    "pub_ts": 1770703596,
+    "location": ""
+  },
+  "topic": {
+    "id": 1332663,
+    "name": "B站春节兴趣房间阵容官宣",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1332663&topic_name=B%E7%AB%99%E6%98%A5%E8%8A%82%E5%85%B4%E8%B6%A3%E6%88%BF%E9%97%B4%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "✨天依的直播间传送门：网页链接\n转发关注天依并预约直播，揪3位小伙伴送出【洛天依随机周边】1份~[乐鸣东方动态表情包_对]\n\n春节特别值班人员小洛，为你带来接下来的一周节目单啦！[乐鸣东方动态表情包_开心]\n\n🎇2月10日-2月13日【天依聊天室轮播时间】\n红包雨和天选时刻好礼掉落不停！\n2月10日 18:00&2月11日-13日 18:30，天依还会空降直播间和大家聊天~[乐鸣东方动态表情包_盯]\n\n❤2月14日【天依情人节专场3D慢直播时间】\n伴着天依的直播，一起度过浪漫的夜晚吧~[乐鸣东方动态表情包_干杯]\n\n🎇2月15日【天依&P主老师的2D特别访谈局】\n感谢老师们2025带来的精彩创作[乐鸣东方动态表情包_高雅]\n\n🏮2月16日【天依陪大家热热闹闹迎春晚】\n来自大家的新年祝福，特邀老师惊喜连线\n想让天依对你说的话.......天依还准备了新的舞台！[乐鸣东方动态表情包_赞]\n\n2月14日-2月16日，同样有满满红包雨和天选时刻奖品礼物哦\nPS.其他时间段，天依也会不定时刷新出没，来捕捉天依呀~\n大家记得预约直播，就让天依陪你一起，等待春晚的开启吧！ [乐鸣东方动态表情包_求求]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "✨天依的直播间传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/1546736"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依并预约直播，揪3位小伙伴送出【洛天依随机周边】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_对]",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "name": "对",
+        "url": "https://i0.hdslb.com/bfs/garb/cb93227eef06eceb7960a0a5a43d061df8ec199a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n春节特别值班人员小洛，为你带来接下来的一周节目单啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎇2月10日-2月13日【天依聊天室轮播时间】\n红包雨和天选时刻好礼掉落不停！\n2月10日 18:00&2月11日-13日 18:30，天依还会空降直播间和大家聊天~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n❤2月14日【天依情人节专场3D慢直播时间】\n伴着天依的直播，一起度过浪漫的夜晚吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎇2月15日【天依&P主老师的2D特别访谈局】\n感谢老师们2025带来的精彩创作"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_高雅]",
+        "package_id": "9343",
+        "emoji_id": "131156",
+        "name": "高雅",
+        "url": "https://i0.hdslb.com/bfs/garb/d4dfa6698a9b2eb01230dc06bb8cf3eb3dbae1f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏮2月16日【天依陪大家热热闹闹迎春晚】\n来自大家的新年祝福，特邀老师惊喜连线\n想让天依对你说的话.......天依还准备了新的舞台！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_赞]",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/01f5d64a43174985ab9c14b9859cb670656ffea6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n2月14日-2月16日，同样有满满红包雨和天选时刻奖品礼物哦\nPS.其他时间段，天依也会不定时刷新出没，来捕捉天依呀~\n大家记得预约直播，就让天依陪你一起，等待春晚的开启吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-10_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f27ecd8e3cbe55420b4376099c4c837836081646.jpg",
+        "width": 1080,
+        "height": 3852,
+        "size_kb": 514.40625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/对.gif",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "text": "[乐鸣东方动态表情包_对]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/高雅.gif",
+        "package_id": "9343",
+        "emoji_id": "131156",
+        "text": "[乐鸣东方动态表情包_高雅]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/赞.gif",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "text": "[乐鸣东方动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：情人节专场·洛天依慢直播",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：情人节专场·洛天依慢直播",
+        "desc1": {
+          "text": "02-14 18:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "7.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5375342,
+        "reserve_total": 73606,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4128,
+    "comment": 516,
+    "forward": 1295
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

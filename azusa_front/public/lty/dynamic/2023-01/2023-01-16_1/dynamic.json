@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "751673513855680544",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/751673513855680544",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月16日",
+    "pub_ts": 1673851028,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "兔年之行，注定祝福满溢，福利满怀~感谢老朋友@交通银行信用卡 为天依带来了全新的兔年装扮，新年版主题卡面和大家喜爱的一剑霜寒主题卡面于今日双双上线啦#跃动天依 奔𠓗新春#！快带上全新的天依主题信用卡，蓄满能量，升级打怪闯兔年吧！https://creditcard.bankcomm.com/content/dam/phone/mktpx/2021/03/MK21PDALTY/ltydnskxcy/index.html?channel=ltybili",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "兔年之行，注定祝福满溢，福利满怀~感谢老朋友"
+      },
+      {
+        "type": "mention",
+        "text": "@交通银行信用卡",
+        "mid": 578454094,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 为天依带来了全新的兔年装扮，新年版主题卡面和大家喜爱的一剑霜寒主题卡面于今日双双上线啦"
+      },
+      {
+        "type": "topic",
+        "text": "#跃动天依 奔𠓗新春#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%B7%83%E5%8A%A8%E5%A4%A9%E4%BE%9D%20%E5%A5%94%F0%A0%93%97%E6%96%B0%E6%98%A5"
+      },
+      {
+        "type": "text",
+        "text": "！快带上全新的天依主题信用卡，蓄满能量，升级打怪闯兔年吧！https://creditcard.bankcomm.com/content/dam/phone/mktpx/2021/03/MK21PDALTY/ltydnskxcy/index.html?channel=ltybili"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7073,
+    "comment": 199,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 751668785080959000,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2023-01/2023-01-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:49:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

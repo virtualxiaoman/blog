@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "657389940621967366",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/657389940621967366",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月7日",
+    "pub_ts": 1651898923,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "※AI洛天依（ACE版）形象征集正式开启啦！※  随着我的首个AI声库内测活动的开启，相信有不少小伙伴已经听到我的AI声库的歌声演绎啦，在听到歌声的那一刻，你心目中浮现的我是什么样的呢？  欢迎大家带上作品在5月7日-6月7日期间，投稿至话题#洛天依10周年# #依如初见# #AI依#， 参与我的10周年征集活动。  为大家提供两个关键词，希望可以给大家一些灵感~[洛天依9th_好康！]  关键词1：进化——十年时光流转，天依有了怎样的成长和改变？你的热爱又会将她引向怎样的未来？ 关键词2：中国风——自洛水而出降临人间的天依，融合华夏风韵，在全新形象中将承载怎样美妙的古典意蕴？  Ps:之前投稿过的人设作品也可以重投参与哦。  十周年之际，我再次迎来了自己的全新进化，希望可以为大家带来新的感受，我会一直在这里，为你们歌唱。  转发此条动态，抽3位小伙伴赠送月华流转系列亚克力装饰画一个。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "※AI洛天依（ACE版）形象征集正式开启啦！※  随着我的首个AI声库内测活动的开启，相信有不少小伙伴已经听到我的AI声库的歌声演绎啦，在听到歌声的那一刻，你心目中浮现的我是什么样的呢？  欢迎大家带上作品在5月7日-6月7日期间，投稿至话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#依如初见#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BE%9D%E5%A6%82%E5%88%9D%E8%A7%81"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#AI依#",
+        "url": "https://search.bilibili.com/all?keyword=AI%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "， 参与我的10周年征集活动。  为大家提供两个关键词，希望可以给大家一些灵感~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "  关键词1：进化——十年时光流转，天依有了怎样的成长和改变？你的热爱又会将她引向怎样的未来？ 关键词2：中国风——自洛水而出降临人间的天依，融合华夏风韵，在全新形象中将承载怎样美妙的古典意蕴？  Ps:之前投稿过的人设作品也可以重投参与哦。  十周年之际，我再次迎来了自己的全新进化，希望可以为大家带来新的感受，我会一直在这里，为你们歌唱。  转发此条动态，抽3位小伙伴赠送月华流转系列亚克力装饰画一个。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-07_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/185579b82c7a7bf6a9afa27eeb44f15c1ade2793.png",
+        "width": 1080,
+        "height": 1520,
+        "size_kb": 3538.7197265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8261,
+    "comment": 500,
+    "forward": 1269
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:46:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

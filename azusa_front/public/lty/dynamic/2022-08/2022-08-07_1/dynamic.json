@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "691494394924105767",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/691494394924105767",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月7日",
+    "pub_ts": 1659839485,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 🍁#立秋# 云天收夏色，木叶动秋声。 喜欢透过枫叶看太阳投射下来的光线，阳光仿佛也会在此刻染上秋天的色彩。 告别了灿烂热烈的盛夏，在这个秋季，我们之间又会发生哪些故事呢，你和我一样期待吗[洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 🍁"
+      },
+      {
+        "type": "topic",
+        "text": "#立秋#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%AB%8B%E7%A7%8B"
+      },
+      {
+        "type": "text",
+        "text": " 云天收夏色，木叶动秋声。 喜欢透过枫叶看太阳投射下来的光线，阳光仿佛也会在此刻染上秋天的色彩。 告别了灿烂热烈的盛夏，在这个秋季，我们之间又会发生哪些故事呢，你和我一样期待吗"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-07_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/7a81710cd5f147cf53365f5b4288c9d136081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 6432.06005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14831,
+    "comment": 534,
+    "forward": 254
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

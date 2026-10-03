@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "1083494681132662784",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1083494681132662784",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月28日",
+    "pub_ts": 1751109164,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "一个关于《捉迷藏》的故事[洛天依-潮声回响_天依来喽]感谢春野老师的创作[洛天依-潮声回响_拜托拜托]太好听啦！[心律共鸣动态表情包_享受音乐]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一个关于《捉迷藏》的故事"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_天依来喽]",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "name": "天依来喽",
+        "url": "https://i0.hdslb.com/bfs/garb/599551701d532db2c99d0824297d51b066a6cc59.png"
+      },
+      {
+        "type": "text",
+        "text": "感谢春野老师的创作"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_拜托拜托]",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "name": "拜托拜托",
+        "url": "https://i0.hdslb.com/bfs/garb/bff8c8fd6fbf7b88467b01da2ede27164195f188.png"
+      },
+      {
+        "type": "text",
+        "text": "太好听啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/天依来喽.png",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "text": "[洛天依-潮声回响_天依来喽]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/拜托拜托.png",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "text": "[洛天依-潮声回响_拜托拜托]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/享受音乐.gif",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "text": "[心律共鸣动态表情包_享受音乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4443,
+    "comment": 107,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1083475950779236387,
+    "orig_mid": 215889001,
+    "deleted": false,
+    "archive_dir": "../../../215889001/2025-06/2025-06-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:32:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

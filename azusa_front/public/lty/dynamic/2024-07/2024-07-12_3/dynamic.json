@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "953165384845885478",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/953165384845885478",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月12日",
+    "pub_ts": 1720764510,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，【洛天依•收藏集——心律共鸣】正式开启啦。\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份～\n\n🔹卡池收录：生日系列插画动态数字音乐卡、限量卡、特色音乐卡、精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、专属表情包、专属动态个性主题\n🔹特别活动：抽中限定卡「共鸣绽放」即可限时兑换实体镀金礼盒1份\n🔹传送门：网页链接\n\n每一刻共鸣，每一道心音，此刻，绽放、新生。\n小洛调研时间到！这次的表情包大家最喜欢——\n有没有其他想要的呀！[洛天依心律共鸣表情包_苏醒][洛天依心律共鸣表情包_开心][洛天依心律共鸣表情包_天依的肯定]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，【洛天依•收藏集——心律共鸣】正式开启啦。\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份～\n\n🔹卡池收录：生日系列插画动态数字音乐卡、限量卡、特色音乐卡、精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、专属表情包、专属动态个性主题\n🔹特别活动：抽中限定卡「共鸣绽放」即可限时兑换实体镀金礼盒1份\n🔹传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=102760&f_source=social&from=official"
+      },
+      {
+        "type": "text",
+        "text": "\n\n每一刻共鸣，每一道心音，此刻，绽放、新生。\n小洛调研时间到！这次的表情包大家最喜欢——\n有没有其他想要的呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_苏醒]",
+        "package_id": "5361",
+        "emoji_id": "78484",
+        "name": "苏醒",
+        "url": "https://i0.hdslb.com/bfs/garb/df078e8aae8d51947c39ed137cbd9dc62bafa548.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_天依的肯定]",
+        "package_id": "5361",
+        "emoji_id": "78494",
+        "name": "天依的肯定",
+        "url": "https://i0.hdslb.com/bfs/garb/604255ba0e174fb39f624a8936aa687d83f51d95.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-12_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ddc294d1ae6e25950b4ba5c210ce21af36081646.png",
+        "width": 1125,
+        "height": 8183,
+        "size_kb": 13837.419921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/苏醒.png",
+        "package_id": "5361",
+        "emoji_id": "78484",
+        "text": "[洛天依心律共鸣表情包_苏醒]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/天依的肯定.png",
+        "package_id": "5361",
+        "emoji_id": "78494",
+        "text": "[洛天依心律共鸣表情包_天依的肯定]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/97f05377bc598fcddd793c6cc32d2d1333dbf724.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=0&rebate=647193094&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2024-07-12_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5499,
+    "comment": 1361,
+    "forward": 3069
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

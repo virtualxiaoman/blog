@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "id": "1091187676229402647",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1091187676229402647",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月19日",
+    "pub_ts": 1752900329,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "大家满满的热情天依都收到啦！\n谢谢你们的花篮~你们的笑容就是最好的礼物！\n有没有在现场的小伙伴呀？让天依看到你们的双手~\n大家一定要享受今天的演出哦！[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家满满的热情天依都收到啦！\n谢谢你们的花篮~你们的笑容就是最好的礼物！\n有没有在现场的小伙伴呀？让天依看到你们的双手~\n大家一定要享受今天的演出哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f634d98bdbcf14142b3eafbf8f867d3a36081646.jpg",
+        "width": 1920,
+        "height": 1201,
+        "size_kb": 3048.281,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-19_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/967942dd68d92605a2eb22ea268e503236081646.jpg",
+        "width": 1920,
+        "height": 813,
+        "size_kb": 1940.704,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-19_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c32780d5cd6e1099c32824675caefb7e36081646.jpg",
+        "width": 1920,
+        "height": 1001,
+        "size_kb": 2691.298,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-19_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/34804769d35bf4b05feaca8265c6174e36081646.jpg",
+        "width": 1920,
+        "height": 1018,
+        "size_kb": 2069.623,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-19_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/82565f1ef4159849d19465c6e65671c336081646.jpg",
+        "width": 1920,
+        "height": 1048,
+        "size_kb": 2736.67,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-07-19_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a8704d3c330d78259a3959307e989b6736081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2905.422,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-07-19_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/557fc3b0fda825141fc748324faf46f236081646.jpg",
+        "width": 1920,
+        "height": 1160,
+        "size_kb": 1933.781,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-07-19_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fd12b5ff93fa84053b0fa2496bf72a5c36081646.jpg",
+        "width": 1920,
+        "height": 1206,
+        "size_kb": 2878.431,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-07-19_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/20bfbfa5e783b7b0e53c6567dbb6358936081646.jpg",
+        "width": 1920,
+        "height": 1141,
+        "size_kb": 2093.024,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5957,
+    "comment": 578,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

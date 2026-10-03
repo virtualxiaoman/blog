@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "681189887784779784",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/681189887784779784",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月10日",
+    "pub_ts": 1657440280,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好厉害！[洛天依][洛天依][洛天依]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好厉害！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依]",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "name": "洛天依",
+        "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依]",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "name": "洛天依",
+        "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依]",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "name": "洛天依",
+        "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/洛天依.png",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "text": "[洛天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6973,
+    "comment": 117,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 681133924363010071,
+    "orig_mid": 1941672344,
+    "deleted": false,
+    "archive_dir": "../../../1941672344/2022-07/2022-07-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:50:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

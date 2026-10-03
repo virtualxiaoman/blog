@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "666395009600192520",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/666395009600192520",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月31日",
+    "pub_ts": 1653995579,
+    "location": ""
+  },
+  "topic": {
+    "id": 33351,
+    "name": "Vsinger盛夏对战-咸队",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=33351&topic_name=Vsinger%E7%9B%9B%E5%A4%8F%E5%AF%B9%E6%88%98-%E5%92%B8%E9%98%9F"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# 就让情绪随着旋律浮沉着~[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 就让情绪随着旋律浮沉着~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5594,
+    "comment": 78,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 665375049344090169,
+    "orig_mid": 396194,
+    "deleted": false,
+    "archive_dir": "../../../396194/2022-05/2022-05-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:47:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

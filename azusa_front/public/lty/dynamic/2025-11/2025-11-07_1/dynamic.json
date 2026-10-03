@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1132454636874104867",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1132454636874104867",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月7日",
+    "pub_ts": 1762508542,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "立冬快乐呀！\n需要来一杯小洛温暖一下嘛？[逆转童话动态_吃书]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "立冬快乐呀！\n需要来一杯小洛温暖一下嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-07_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e7128987e85dedb30fb8597ea8c1329d36081646.jpg",
+        "width": 1489,
+        "height": 1920,
+        "size_kb": 1145.4200439453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10186,
+    "comment": 897,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "924669809902223363",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/924669809902223363",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月26日",
+    "pub_ts": 1714129867,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "▲洛天依x擎苍工作室 | 雪舞天音·新疆Ver. 手办预售即将开启～\n袅袅清音萦绕在天山之巅，我踏着雪色随风而舞，只为与最美好的你欣然相遇。@擎苍工作室 \n\n※手办信息※\n上架时间：4月26日 18:00；\n开售时间：4月28日 18:00；\n产品售价：199r；\n产品出荷：2024年9月下旬；\n*产品监修中，以最终实物为准。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "▲洛天依x擎苍工作室 | 雪舞天音·新疆Ver. 手办预售即将开启～\n袅袅清音萦绕在天山之巅，我踏着雪色随风而舞，只为与最美好的你欣然相遇。@擎苍工作室 \n\n※手办信息※\n上架时间：4月26日 18:00；\n开售时间：4月28日 18:00；\n产品售价：199r；\n产品出荷：2024年9月下旬；\n*产品监修中，以最终实物为准。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "▲洛天依x擎苍工作室 | 雪舞天音·新疆Ver. 手办预售即将开启～袅袅清音萦绕在天山之巅，我踏着雪色随风而舞，只为与最美好的你欣然相遇。@擎苍工作室 …",
+      "desc": "▲洛天依x擎苍工作室 | 雪舞天音·新疆Ver. 手办预售即将开启～\n袅袅清音萦绕在天山之巅，我踏着雪色随风而舞，只为与最美好的你欣然相遇。@擎苍工作室 \n\n※手办信息※\n上架时间：4月26日 18:00；\n开售时间：4月28日 18:00；\n产品售价：199r；\n产品出荷：2024年9月下旬；\n*产品监修中，以最终实物为准。",
+      "jump_url": "https://www.bilibili.com/video/BV1S142197JE",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/83b80f23c0c2cca7ddd086fc4dd86efeb8258e2b.png",
+      "cover_file": "../../_assets/covers/2024-04-26_1.png",
+      "bvid": "BV1S142197JE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1S142197JE",
+        "aid": "1553536123",
+        "cover": "http://i0.hdslb.com/bfs/archive/83b80f23c0c2cca7ddd086fc4dd86efeb8258e2b.png",
+        "jump_url": "//www.bilibili.com/video/BV1S142197JE",
+        "stat": {
+          "danmaku": "7",
+          "play": "1.9万",
+          "vt": ""
+        },
+        "duration_text": "00:17",
+        "title": "▲洛天依x擎苍工作室 | 雪舞天音·新疆Ver. 手办预售即将开启～袅袅清音萦绕在天山之巅，我踏着雪色随风而舞，只为与最美好的你欣然相遇。@擎苍工作室 …",
+        "desc": "▲洛天依x擎苍工作室 | 雪舞天音·新疆Ver. 手办预售即将开启～\n袅袅清音萦绕在天山之巅，我踏着雪色随风而舞，只为与最美好的你欣然相遇。@擎苍工作室 \n\n※手办信息※\n上架时间：4月26日 18:00；\n开售时间：4月28日 18:00；\n产品售价：199r；\n产品出荷：2024年9月下旬；\n*产品监修中，以最终实物为准。",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5658,
+    "comment": 525,
+    "forward": 2599
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

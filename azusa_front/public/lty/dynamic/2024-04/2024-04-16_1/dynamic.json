@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "920955114166943752",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/920955114166943752",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月16日",
+    "pub_ts": 1713264972,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依# \n来自虫洞的异世界魔兽，破坏了魔法王国原本的祥和。\n在王国内陷入慌乱，人人自危之际，深居简出的大魔法师降临了！\n法杖划出一个完美的弧线，巨大的法阵缓缓浮现，魔力燃烧的光芒一瞬间吞没了虫洞撕开的时空裂缝......\n在光芒落定之时，清澈的青空复原如新，和平再度回归了这个世界。\n\n*世界档案更新\n《Magic Pink》——由大魔法师“L”守护着的世界，平静祥和是这里的常态，\n而魔法能量的影响，又使得这里充满生机，在这里，能够看到许多奇妙的生物与不可思议的现象。\n情报系统已同步更新，请查收——关于Magic Pink的更多秘密。\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \n来自虫洞的异世界魔兽，破坏了魔法王国原本的祥和。\n在王国内陷入慌乱，人人自危之际，深居简出的大魔法师降临了！\n法杖划出一个完美的弧线，巨大的法阵缓缓浮现，魔力燃烧的光芒一瞬间吞没了虫洞撕开的时空裂缝......\n在光芒落定之时，清澈的青空复原如新，和平再度回归了这个世界。\n\n*世界档案更新\n《Magic Pink》——由大魔法师“L”守护着的世界，平静祥和是这里的常态，\n而魔法能量的影响，又使得这里充满生机，在这里，能够看到许多奇妙的生物与不可思议的现象。\n情报系统已同步更新，请查收——关于Magic Pink的更多秘密。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/db36085eb0bc1acb934313c326ce637136081646.jpg",
+        "width": 6400,
+        "height": 3600,
+        "size_kb": 6815.5068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/45ad562ac00dcb029a8c57d58282033536081646.jpg",
+        "width": 1080,
+        "height": 5818,
+        "size_kb": 3997.2880859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5794,
+    "comment": 245,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

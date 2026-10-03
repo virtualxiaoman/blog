@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1189980604213493764",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1189980604213493764",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月11日",
+    "pub_ts": 1775902350,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「天琴」主题单曲《唱山》4月17日即将放歌[洛天依国乐季动态表情包_唱歌]\n\n“且翻它个一座座，何惧万里路远。”\n八桂风起，山自成歌。有人以步丈山河，有人以歌答天地。\n此去千岭万壑，声从心起，山自有回音。\n\n4月18日，天依还会在广西三月三南宁民歌湖主会场带来《唱山》的舞台首演哦！\n更多关于广西三月三的线下活动情报，天依也会在之后带给大家，敬请期待~[洛天依国乐季动态表情包_爱你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「天琴」主题单曲《唱山》4月17日即将放歌"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_唱歌]",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/182b9d9f0601165e6b7488e28066730dbfe3fd4e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“且翻它个一座座，何惧万里路远。”\n八桂风起，山自成歌。有人以步丈山河，有人以歌答天地。\n此去千岭万壑，声从心起，山自有回音。\n\n4月18日，天依还会在广西三月三南宁民歌湖主会场带来《唱山》的舞台首演哦！\n更多关于广西三月三的线下活动情报，天依也会在之后带给大家，敬请期待~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6bc90d0901dc1b4015c1bee2aa8f58b936081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 5757.9501953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-04-11_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ffa0444fe3cad1ccd6d7dccf6747f29036081646.jpg",
+        "width": 2500,
+        "height": 10636,
+        "size_kb": 12493.25,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/唱歌.gif",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "text": "[洛天依国乐季动态表情包_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8239,
+    "comment": 456,
+    "forward": 142
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

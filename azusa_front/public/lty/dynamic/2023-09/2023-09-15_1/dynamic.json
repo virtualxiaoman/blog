@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "841494138948943907",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/841494138948943907",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月15日",
+    "pub_ts": 1694764022,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依挖呀挖~挖到了一首好特别的翻唱！是和天依不一样的诠释风格呢，哇这就是内蒙古人的血脉吗[代号洛天依_点赞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依挖呀挖~挖到了一首好特别的翻唱！是和天依不一样的诠释风格呢，哇这就是内蒙古人的血脉吗"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_点赞]",
+        "package_id": "1842",
+        "emoji_id": "32132",
+        "name": "点赞",
+        "url": "https://i0.hdslb.com/bfs/emote/59ce71f95d3c5d1061ecc053686769f10af8fe07.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/点赞.png",
+        "package_id": "1842",
+        "emoji_id": "32132",
+        "text": "[代号洛天依_点赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4996,
+    "comment": 86,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 841164113659822098,
+    "orig_mid": 22127115,
+    "deleted": false,
+    "archive_dir": "../../../22127115/2023-09/2023-09-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

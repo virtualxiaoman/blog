@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "556518325800134956",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/556518325800134956",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月8日",
+    "pub_ts": 1628412920,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##2021虚拟歌手创作赛#\n花儿都去哪了？",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": "\n花儿都去哪了？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6072,
+    "comment": 125,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 556071228292640354,
+    "orig_mid": 21134844,
+    "deleted": false,
+    "archive_dir": "../../../21134844/2021-08/2021-08-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:33:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

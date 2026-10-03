@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "362076050979746452",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/362076050979746452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年3月2日",
+    "pub_ts": 1583140800,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "_8(:з」∠)_ ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "_8(:з」∠)_ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8100,
+    "comment": 417,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 361714483450703465,
+    "orig_mid": 8914197,
+    "deleted": false,
+    "archive_dir": "../../../8914197/2020-03/2020-03-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

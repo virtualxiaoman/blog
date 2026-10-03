@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "873761798756499478",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/873761798756499478",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月11日",
+    "pub_ts": 1702276922,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@浅梦Cx330@十六夜咲夜一生推@迷路的何木等16位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@浅梦Cx330",
+        "mid": 417362652,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@十六夜咲夜一生推",
+        "mid": 1035273037,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@迷路的何木",
+        "mid": 1721724680,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等16位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3399,
+    "comment": 80,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 862676423726333976,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-11/2023-11-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

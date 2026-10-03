@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "833759834853605447",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/833759834853605447",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月25日",
+    "pub_ts": 1692963239,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "西藏——千山之巅 万水之源\n雪域高原之上，孕育而出最辽阔的歌声。\n歌行的第二站，天依收到拉萨扎念弹唱非遗传承人旦增益西老师的邀请，来到西藏。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "西藏——千山之巅 万水之源\n雪域高原之上，孕育而出最辽阔的歌声。\n歌行的第二站，天依收到拉萨扎念弹唱非遗传承人旦增益西老师的邀请，来到西藏。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "点击看虚拟歌手学非遗藏戏！【天依游学记·歌行 西藏篇采风Vlog】",
+      "desc": "西藏——千山之巅 万水之源\n雪域高原之上，孕育而出最辽阔的歌声。\n歌行的第二站，天依收到拉萨扎念弹唱非遗传承人旦增益西老师的邀请，来到西藏。\n\n这次游学之旅，在老师的帮助下，天依了解到了藏戏的缘起，了解到了在藏族音乐背后蕴藏的人文情怀，亲身感受到了藏族传统乐器触达灵魂的高远意蕴。\n这种美，跨越语言，无需歌词，也可以通达人心，天依还学习了一小段哦！\n我会将西藏世界音乐加入我的音乐作品，欢迎来自这里或者了解这里的朋友，分享更多西藏文化的悠久历史~\n\n拜托大家的任务列表更新啦——\n【全系列采风vlog视频（内蒙",
+      "jump_url": "https://www.bilibili.com/video/BV1Eu411N7Nr",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/1f1496529702c084f8d850f30fc41e9e6a01ca93.jpg",
+      "cover_file": "../../_assets/covers/2023-08-25_1.jpg",
+      "bvid": "BV1Eu411N7Nr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Eu411N7Nr",
+        "aid": "532722673",
+        "cover": "http://i2.hdslb.com/bfs/archive/1f1496529702c084f8d850f30fc41e9e6a01ca93.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Eu411N7Nr",
+        "stat": {
+          "danmaku": "558",
+          "play": "32万",
+          "vt": ""
+        },
+        "duration_text": "04:24",
+        "title": "点击看虚拟歌手学非遗藏戏！【天依游学记·歌行 西藏篇采风Vlog】",
+        "desc": "西藏——千山之巅 万水之源\n雪域高原之上，孕育而出最辽阔的歌声。\n歌行的第二站，天依收到拉萨扎念弹唱非遗传承人旦增益西老师的邀请，来到西藏。\n\n这次游学之旅，在老师的帮助下，天依了解到了藏戏的缘起，了解到了在藏族音乐背后蕴藏的人文情怀，亲身感受到了藏族传统乐器触达灵魂的高远意蕴。\n这种美，跨越语言，无需歌词，也可以通达人心，天依还学习了一小段哦！\n我会将西藏世界音乐加入我的音乐作品，欢迎来自这里或者了解这里的朋友，分享更多西藏文化的悠久历史~\n\n拜托大家的任务列表更新啦——\n【全系列采风vlog视频（内蒙",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 42618,
+    "comment": 1005,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

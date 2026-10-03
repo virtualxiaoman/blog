@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "657763465336717320",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/657763465336717320",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月8日",
+    "pub_ts": 1651985891,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# 感谢让天依唱出动人歌声的每一位调校老师[洛天依·夜航星_比心]希望在这趟崭新的旅途之中，讲述者与聆听者都可以收获快乐，悄悄说，每一个作品和评论我都有看到哦，大家能喜欢真是太好了[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 感谢让天依唱出动人歌声的每一位调校老师"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "希望在这趟崭新的旅途之中，讲述者与聆听者都可以收获快乐，悄悄说，每一个作品和评论我都有看到哦，大家能喜欢真是太好了"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6476,
+    "comment": 104,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 657099214284652643,
+    "orig_mid": 3241451,
+    "deleted": false,
+    "archive_dir": "../../../3241451/2022-05/2022-05-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:46:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

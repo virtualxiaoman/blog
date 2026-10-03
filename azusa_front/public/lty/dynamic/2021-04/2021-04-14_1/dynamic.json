@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "513432635517547521",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/513432635517547521",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月14日",
+    "pub_ts": 1618381251,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天是农历三月三，今年春天大家有去赏花吗？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天是农历三月三，今年春天大家有去赏花吗？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5435,
+    "comment": 271,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 5494659038447905,
+    "orig_mid": 15312,
+    "deleted": false,
+    "archive_dir": "../../../15312/2013-01/2013-01-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:29:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

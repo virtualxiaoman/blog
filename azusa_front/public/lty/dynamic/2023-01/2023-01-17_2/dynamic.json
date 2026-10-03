@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "752070050993668163",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/752070050993668163",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月17日",
+    "pub_ts": 1673943354,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#跃动天依 奔𠓗新春#诶嘿嘿，兔年快到啦，小伙伴们一起来发兔年吉祥话呀~每10位朋友为大家送上不同带“兔”的祝福语，将解锁1条天依的新年祝福哦٩(๑> ◡<๑)۶ 感谢小交为我定制的萌兔新装，同款形象的天依主题卡已上线，希望大家能喜欢~ https://creditcard.bankcomm.com/content/dam/phone/mktpx/2021/03/MK21PDALTY/ltydnskxcy/index.html?channel=ltybili",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#跃动天依 奔𠓗新春#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%B7%83%E5%8A%A8%E5%A4%A9%E4%BE%9D%20%E5%A5%94%F0%A0%93%97%E6%96%B0%E6%98%A5"
+      },
+      {
+        "type": "text",
+        "text": "诶嘿嘿，兔年快到啦，小伙伴们一起来发兔年吉祥话呀~每10位朋友为大家送上不同带“兔”的祝福语，将解锁1条天依的新年祝福哦٩(๑> ◡<๑)۶ 感谢小交为我定制的萌兔新装，同款形象的天依主题卡已上线，希望大家能喜欢~ https://creditcard.bankcomm.com/content/dam/phone/mktpx/2021/03/MK21PDALTY/ltydnskxcy/index.html?channel=ltybili"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6557,
+    "comment": 225,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 752054494656725014,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2023-01/2023-01-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:50:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

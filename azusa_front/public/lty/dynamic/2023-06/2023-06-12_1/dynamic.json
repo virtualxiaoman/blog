@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "806151621861965894",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/806151621861965894",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月12日",
+    "pub_ts": 1686535201,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@伊月恒@柚磬sauce@光影星枫中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@伊月恒",
+        "mid": 233623605,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@柚磬sauce",
+        "mid": 32006312,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@光影星枫",
+        "mid": 1473447316,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4508,
+    "comment": 215,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 802530393202884646,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-06-02_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

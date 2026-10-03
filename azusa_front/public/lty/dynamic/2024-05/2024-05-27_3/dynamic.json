@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "936178900628668452",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/936178900628668452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月27日",
+    "pub_ts": 1716809536,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "请看！雪舞天音·新疆Ver. 八音盒手办实物视频展示ing~[洛天依歌行四方_打手鼓]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "请看！雪舞天音·新疆Ver. 八音盒手办实物视频展示ing~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_打手鼓]",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "name": "打手鼓",
+        "url": "https://i0.hdslb.com/bfs/emote/d3342fd45ede3b253aaeced8db5d52aadcbfc3c2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/打手鼓.png",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "text": "[洛天依歌行四方_打手鼓]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4302,
+    "comment": 69,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 936153839509176341,
+    "orig_mid": 430351780,
+    "deleted": false,
+    "archive_dir": "../../../430351780/2024-05/2024-05-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

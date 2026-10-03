@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1159197804777701401",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1159197804777701401",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月18日",
+    "pub_ts": 1768735171,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "强势围观[洛天依八音奇响动态_嘻嘻]一会儿还有天依的表演哦！[洛天依·戏游九州动态_登场]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "强势围观"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "一会儿还有天依的表演哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_登场]",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b0e9b1358e9f604183a513a855ee7cbbafcedeaf.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/登场.gif",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "text": "[洛天依·戏游九州动态_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4169,
+    "comment": 215,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 244113120632563272,
+    "orig_mid": 235555226,
+    "deleted": false,
+    "archive_dir": "../../../235555226/2019-04/2019-04-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:14:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

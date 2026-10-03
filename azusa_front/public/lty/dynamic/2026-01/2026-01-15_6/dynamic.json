@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1158089905060970497",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1158089905060970497",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月15日",
+    "pub_ts": 1768477218,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "为大家带来天依和富士胶片的联名款氧气相机，看看喜不喜欢呀～[洛天依八音奇响动态_咪]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "为大家带来天依和富士胶片的联名款氧气相机，看看喜不喜欢呀～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4280,
+    "comment": 129,
+    "forward": 53
+  },
+  "forward": {
+    "orig_id": 1158001733707759619,
+    "orig_mid": 412418546,
+    "deleted": false,
+    "archive_dir": "../../../412418546/2026-01/2026-01-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:14:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

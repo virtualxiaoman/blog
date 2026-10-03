@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "1166564601417957385",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1166564601417957385",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月7日",
+    "pub_ts": 1770450387,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2026 拜年纪洛天依的新曲试听来啦！当暖春的旋律驶向深蓝色的海洋，镌刻着传统历史的航海长卷，正伴着新纪元的浪花徐徐展开。[乐鸣东方动态表情包_知音]\n\n2月16日19:00，天依在B站拜年纪，用歌声陪你开启新的一年！[乐鸣东方动态表情包_干杯]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2026 拜年纪洛天依的新曲试听来啦！当暖春的旋律驶向深蓝色的海洋，镌刻着传统历史的航海长卷，正伴着新纪元的浪花徐徐展开。"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_知音]",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "name": "知音",
+        "url": "https://i0.hdslb.com/bfs/garb/75a559c572146d83bfc282b84a018ca1d6646a12.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n2月16日19:00，天依在B站拜年纪，用歌声陪你开启新的一年！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/知音.gif",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "text": "[乐鸣东方动态表情包_知音]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2026 拜年纪洛天依的新曲试听来啦！当暖春的旋律驶向深蓝色的海洋，镌刻着传统历史的航海长卷，正伴着新纪元的浪花徐徐展开。[乐鸣东方动态表情包_知音]2月…",
+      "desc": "2026 拜年纪洛天依的新曲试听来啦！当暖春的旋律驶向深蓝色的海洋，镌刻着传统历史的航海长卷，正伴着新纪元的浪花徐徐展开。[乐鸣东方动态表情包_知音]\n\n2月16日19:00，天依在B站拜年纪，用歌声陪你开启新的一年！[乐鸣东方动态表情包_干杯]",
+      "jump_url": "https://www.bilibili.com/video/BV1zuFpz1Exi",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/45118e816a55e96ae2e631a56360cf74a2553a26.png",
+      "cover_file": "../../_assets/covers/2026-02-07_1.png",
+      "bvid": "BV1zuFpz1Exi",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zuFpz1Exi",
+        "aid": "116028222867086",
+        "cover": "http://i2.hdslb.com/bfs/archive/45118e816a55e96ae2e631a56360cf74a2553a26.png",
+        "jump_url": "//www.bilibili.com/video/BV1zuFpz1Exi",
+        "stat": {
+          "danmaku": "125",
+          "play": "5.6万",
+          "vt": ""
+        },
+        "duration_text": "00:27",
+        "title": "2026 拜年纪洛天依的新曲试听来啦！当暖春的旋律驶向深蓝色的海洋，镌刻着传统历史的航海长卷，正伴着新纪元的浪花徐徐展开。[乐鸣东方动态表情包_知音]2月…",
+        "desc": "2026 拜年纪洛天依的新曲试听来啦！当暖春的旋律驶向深蓝色的海洋，镌刻着传统历史的航海长卷，正伴着新纪元的浪花徐徐展开。[乐鸣东方动态表情包_知音]\n\n2月16日19:00，天依在B站拜年纪，用歌声陪你开启新的一年！[乐鸣东方动态表情包_干杯]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15667,
+    "comment": 978,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "411108308161381396",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/411108308161381396",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月12日",
+    "pub_ts": 1594557012,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援##洛天依##VSINGER# \n8年间我们一起经历了许多，有欢乐也有悲伤，有相遇自然也有别离，但曾相处的日子永远那么辉光闪耀。\n感谢你成为我的光芒，而我也会是你万分之一的光。",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#VSINGER#",
+        "url": "https://search.bilibili.com/all?keyword=VSINGER"
+      },
+      {
+        "type": "text",
+        "text": " \n8年间我们一起经历了许多，有欢乐也有悲伤，有相遇自然也有别离，但曾相处的日子永远那么辉光闪耀。\n感谢你成为我的光芒，而我也会是你万分之一的光。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】万分之一的光",
+      "desc": "8年间我们一起经历了许多，有欢乐也有悲伤，有相遇自然也有别离，但曾相处的日子永远那么辉光闪耀。\n感谢你成为我的光芒，而我也会是你万分之一的光。\n\n音乐：ChiliChill\n贝斯：山口進也\n鼓手：口口口口口\n调校：动点P\n弦乐编配：胡静成 / ChiliChill\n小提琴：庞阔 / 张浩\n中提琴：毕芳\n大提琴：郎莹\n监制：人形兎\n出品：Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1Tp4y1S7cu",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/67c6118e4f94bee89b984525ca665fc88c969cac.jpg",
+      "cover_file": "../../_assets/covers/2020-07-12_2.jpg",
+      "bvid": "BV1Tp4y1S7cu",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Tp4y1S7cu",
+        "aid": "968772260",
+        "cover": "http://i2.hdslb.com/bfs/archive/67c6118e4f94bee89b984525ca665fc88c969cac.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Tp4y1S7cu",
+        "stat": {
+          "danmaku": "2万",
+          "play": "227.2万",
+          "vt": ""
+        },
+        "duration_text": "04:12",
+        "title": "【洛天依原创曲】万分之一的光",
+        "desc": "8年间我们一起经历了许多，有欢乐也有悲伤，有相遇自然也有别离，但曾相处的日子永远那么辉光闪耀。\n感谢你成为我的光芒，而我也会是你万分之一的光。\n\n音乐：ChiliChill\n贝斯：山口進也\n鼓手：口口口口口\n调校：动点P\n弦乐编配：胡静成 / ChiliChill\n小提琴：庞阔 / 张浩\n中提琴：毕芳\n大提琴：郎莹\n监制：人形兎\n出品：Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 126614,
+    "comment": 28064,
+    "forward": 1533
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "874953115322810434",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/874953115322810434",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月14日",
+    "pub_ts": 1702554297,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在寻觅何为最纯粹悠扬的草原之音采风途中，我的蒙古族音乐老师哈拉木吉说——\n有一首内蒙古科尔沁民歌《天上的风》，草原上流传很广几乎人人会唱\n我想，或许无需再去尝试与寻找，答案就在经历岁月认证的歌与风中~\n洛天依游学记内蒙篇单曲《天上的风》，改编自同名内蒙古科尔沁民歌《天上的风》",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在寻觅何为最纯粹悠扬的草原之音采风途中，我的蒙古族音乐老师哈拉木吉说——\n有一首内蒙古科尔沁民歌《天上的风》，草原上流传很广几乎人人会唱\n我想，或许无需再去尝试与寻找，答案就在经历岁月认证的歌与风中~\n洛天依游学记内蒙篇单曲《天上的风》，改编自同名内蒙古科尔沁民歌《天上的风》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依游学记内蒙篇单曲《天上的风》抢先试听版",
+      "desc": "在寻觅何为最纯粹悠扬的草原之音采风途中，我的蒙古族音乐老师哈拉木吉说——\n有一首内蒙古科尔沁民歌《天上的风》，草原上流传很广几乎人人会唱\n我想，或许无需再去尝试与寻找，答案就在经历岁月认证的歌与风中~\n洛天依游学记内蒙篇单曲《天上的风》，改编自同名内蒙古科尔沁民歌《天上的风》\n\n【创作方向】\n不仅是对经典的致敬，更是一次跨界与融合，在编曲上，将蒙古族古老的马头琴、呼麦与电子乐的音色结合，特别设计蒙语部分的加入，增添民族和原生态的气息，希望为大家交织出一幅结合传统与现代、优美而深邃的音乐画卷。\n\n抢先试听先",
+      "jump_url": "https://www.bilibili.com/video/BV1qN411G7Vv",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/e4155ef15bdd1e40935cbfdba2ff8c666586e03a.jpg",
+      "cover_file": "../../_assets/covers/2023-12-14_1.jpg",
+      "bvid": "BV1qN411G7Vv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qN411G7Vv",
+        "aid": "494689423",
+        "cover": "http://i0.hdslb.com/bfs/archive/e4155ef15bdd1e40935cbfdba2ff8c666586e03a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qN411G7Vv",
+        "stat": {
+          "danmaku": "379",
+          "play": "10.8万",
+          "vt": ""
+        },
+        "duration_text": "00:49",
+        "title": "洛天依游学记内蒙篇单曲《天上的风》抢先试听版",
+        "desc": "在寻觅何为最纯粹悠扬的草原之音采风途中，我的蒙古族音乐老师哈拉木吉说——\n有一首内蒙古科尔沁民歌《天上的风》，草原上流传很广几乎人人会唱\n我想，或许无需再去尝试与寻找，答案就在经历岁月认证的歌与风中~\n洛天依游学记内蒙篇单曲《天上的风》，改编自同名内蒙古科尔沁民歌《天上的风》\n\n【创作方向】\n不仅是对经典的致敬，更是一次跨界与融合，在编曲上，将蒙古族古老的马头琴、呼麦与电子乐的音色结合，特别设计蒙语部分的加入，增添民族和原生态的气息，希望为大家交织出一幅结合传统与现代、优美而深邃的音乐画卷。\n\n抢先试听先",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18751,
+    "comment": 608,
+    "forward": 1417
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

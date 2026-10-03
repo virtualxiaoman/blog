@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "657527615791300629",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/657527615791300629",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月7日",
+    "pub_ts": 1651930978,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "揉揉画师太太们的肝，我的AI（ACE版）形象人设征集活动的投稿时间改为5月7日-7月5日啦！[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "揉揉画师太太们的肝，我的AI（ACE版）形象人设征集活动的投稿时间改为5月7日-7月5日啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6578,
+    "comment": 171,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 657526434675294228,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-05/2022-05-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:46:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

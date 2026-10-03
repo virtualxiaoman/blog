@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "503095173230149766",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/503095173230149766",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月17日",
+    "pub_ts": 1615974373,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今晚的梦是碳酸味[洛天依·夜航星_萌妹初醒]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚的梦是碳酸味"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5720,
+    "comment": 162,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 407798103851755148,
+    "orig_mid": 4539293,
+    "deleted": false,
+    "archive_dir": "../../../4539293/2020-07/2020-07-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

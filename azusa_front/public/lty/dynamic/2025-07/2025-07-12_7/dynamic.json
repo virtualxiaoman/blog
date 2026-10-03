@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1088672895567134742",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1088672895567134742",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752314811,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢纯K的生日祝福～距离和大家一起唱K的日子不远啦！[洛天依八音奇响动态_可爱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢纯K的生日祝福～距离和大家一起唱K的日子不远啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4045,
+    "comment": 111,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 1088670765274890257,
+    "orig_mid": 1842607550,
+    "deleted": false,
+    "archive_dir": "../../../1842607550/2025-07/2025-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:34:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

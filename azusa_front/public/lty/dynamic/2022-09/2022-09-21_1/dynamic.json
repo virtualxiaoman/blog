@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "708248701528703015",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/708248701528703015",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月21日",
+    "pub_ts": 1663740401,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖#洛天依#【新品预售即将开启】 转发并关注@洛天依 ，将随机抽选2位小伙伴赠送8王龙系列趴趴玩偶。  ◆【预售新品】 「8王龙」系列趴趴玩偶 「天依号」系列周边  ◆预售平台： -「8王龙」系列趴趴玩偶：会员购独家首发 -「天依号」系列周边：禾念淘宝店、bilibili会员购  ◆预售日期：2022.10.01  这次小8王龙将化身趴趴玩偶来到你的世界，希望你带它一起探险，为赛车“天依号”应援着的天依，也渴望为你的生活点燃激情！[洛天依_打call ]  详情请戳下方长图查看嗷↓↓↓\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "111213",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "【新品预售即将开启】 转发并关注"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ，将随机抽选2位小伙伴赠送8王龙系列趴趴玩偶。  ◆【预售新品】 「8王龙」系列趴趴玩偶 「天依号」系列周边  ◆预售平台： -「8王龙」系列趴趴玩偶：会员购独家首发 -「天依号」系列周边：禾念淘宝店、bilibili会员购  ◆预售日期：2022.10.01  这次小8王龙将化身趴趴玩偶来到你的世界，希望你带它一起探险，为赛车“天依号”应援着的天依，也渴望为你的生活点燃激情！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      },
+      {
+        "type": "text",
+        "text": "  详情请戳下方长图查看嗷↓↓↓"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c83b663ce899138d0fe2e18e1ac7453a36081646.jpg",
+        "width": 1000,
+        "height": 9079,
+        "size_kb": 2682.5234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-09-21_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/bc2f83435706b0b2893f3737413560a736081646.jpg",
+        "width": 1000,
+        "height": 11685,
+        "size_kb": 3418.7353515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/打call.png",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "text": "[洛天依_打call ]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "111213"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10131,
+    "comment": 817,
+    "forward": 12105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

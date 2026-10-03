@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "1142757666407317504",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1142757666407317504",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月5日",
+    "pub_ts": 1764907403,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依完美劲敌#\n\n✨洛天依「人格镜像·完美劲敌」荣耀手环礼盒&主题周边 预售即将开启[逆转童话动态_缘分]\n\n“对峙间蔓延未知引力，谜底重新汇聚，现在，邀请你来揭幕这场末日派戏剧。”\n\n⭐预售新品\n✦【人格镜像·完美劲敌】荣耀手环礼盒\n▷含荣耀手环9*1、洛天依定制表带*1、手环支架*1、马口铁徽章*1\n\n✦【人格镜像·完美劲敌】系列周边\n▷含马口铁徽章套组、 无边色纸、 身份证明挂件、 小立牌挂件\n 金属别针胸针、 软胶摆件盲盒、痛包、软胶贴套组\n\n>>>线下门店首发：\n部分新品将于1月1日登陆@模玩熊线下店，关于线下专属特典等讯息，敬请持续关注哦！\n>>>预售平台：\nB站-Vsinger官方旗舰店、JD-匹艾氪游戏周边自营旗舰店\n\n#天依的周边#\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依完美劲敌#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%AE%8C%E7%BE%8E%E5%8A%B2%E6%95%8C"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨洛天依「人格镜像·完美劲敌」荣耀手环礼盒&主题周边 预售即将开启"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“对峙间蔓延未知引力，谜底重新汇聚，现在，邀请你来揭幕这场末日派戏剧。”\n\n⭐预售新品\n✦【人格镜像·完美劲敌】荣耀手环礼盒\n▷含荣耀手环9*1、洛天依定制表带*1、手环支架*1、马口铁徽章*1\n\n✦【人格镜像·完美劲敌】系列周边\n▷含马口铁徽章套组、 无边色纸、 身份证明挂件、 小立牌挂件\n 金属别针胸针、 软胶摆件盲盒、痛包、软胶贴套组\n\n>>>线下门店首发：\n部分新品将于1月1日登陆@模玩熊线下店，关于线下专属特典等讯息，敬请持续关注哦！\n>>>预售平台：\nB站-Vsinger官方旗舰店、JD-匹艾氪游戏周边自营旗舰店\n\n"
+      },
+      {
+        "type": "topic",
+        "text": "#天依的周边#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-05_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2b1614234bc2d2e3b609c4502e12769a36081646.jpg",
+        "width": 750,
+        "height": 8973,
+        "size_kb": 2487.6083984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-05_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d0808650f67f134b9687876127f529ca36081646.jpg",
+        "width": 750,
+        "height": 15727,
+        "size_kb": 4799.3525390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-12-05_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/69d496148f64e1871436e6e26b76824136081646.jpg",
+        "width": 750,
+        "height": 6022,
+        "size_kb": 1662.29296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-12-05_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bfe2d6e92dd64e9154a457f17ddc3f8436081646.jpg",
+        "width": 750,
+        "height": 7990,
+        "size_kb": 2251.3818359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4308,
+    "comment": 225,
+    "forward": 50
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

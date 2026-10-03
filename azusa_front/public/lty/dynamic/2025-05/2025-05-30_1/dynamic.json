@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1072621769580347409",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1072621769580347409",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月30日",
+    "pub_ts": 1748577617,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站\n将于5月30日今晚正式开票啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站\n将于5月30日今晚正式开票啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会来啦！！",
+      "desc": "“因为热爱，不畏奔赴山海”\n洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站\n将于5月30日今晚正式开票啦！\n🎶传送门：https://show.bilibili.com/platform/detail.html?id=102448\n🎤演出时间&地点\n7月19日19:12 北京·国家体育馆副馆\n🎫即将开售\n5月30日 18:00 会员购等开启优先购票\n5月30日 19:00 会员购等正式全面开票\n🎶巡演城市\n7.19 北京/8.2 成都/8.16 广州/8.23 上海\n属于我们的蓝色荧光海洋即将",
+      "jump_url": "https://www.bilibili.com/video/BV1Bk7jz6Em4",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/25766989b3aa6629fa801c53507db116d5c2ac82.jpg",
+      "cover_file": "../../_assets/covers/2025-05-30_1.jpg",
+      "bvid": "BV1Bk7jz6Em4",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Bk7jz6Em4",
+        "aid": "114591942182265",
+        "cover": "http://i1.hdslb.com/bfs/archive/25766989b3aa6629fa801c53507db116d5c2ac82.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Bk7jz6Em4",
+        "stat": {
+          "danmaku": "272",
+          "play": "36.5万",
+          "vt": ""
+        },
+        "duration_text": "01:15",
+        "title": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会来啦！！",
+        "desc": "“因为热爱，不畏奔赴山海”\n洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站\n将于5月30日今晚正式开票啦！\n🎶传送门：https://show.bilibili.com/platform/detail.html?id=102448\n🎤演出时间&地点\n7月19日19:12 北京·国家体育馆副馆\n🎫即将开售\n5月30日 18:00 会员购等开启优先购票\n5月30日 19:00 会员购等正式全面开票\n🎶巡演城市\n7.19 北京/8.2 成都/8.16 广州/8.23 上海\n属于我们的蓝色荧光海洋即将",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15255,
+    "comment": 1105,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:30:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

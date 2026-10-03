@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "909091430932152340",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/909091430932152340",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月15日",
+    "pub_ts": 1710502743,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【天依唱片机】第八期如约而至！漫长的冬天结束，期盼的心跳，或许正与苏醒的大地同频跃动。快来听听音乐，寻找最契合当下心意的旋律吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【天依唱片机】第八期如约而至！漫长的冬天结束，期盼的心跳，或许正与苏醒的大地同频跃动。快来听听音乐，寻找最契合当下心意的旋律吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第八期·冬融 | 在暮冬暖阳下，盼冰雪融化为跃动的音符",
+      "desc": "【天依唱片机】第八期如约而至！漫长的冬天结束，期盼的心跳，或许正与苏醒的大地同频跃动。快来听听音乐，寻找最契合当下心意的旋律吧~\n\n感谢老师们的创作与授权~♥\n 1.  @Days的Wing翼  《三月雨》 BV1vx411F7Ey\n作曲/编曲/调校：Wing翼 作词：圣月樱泪\n 2.  @COPY  《XXX原创》  BV1Zt42147Px\n作曲/作词/编曲/调校：COPY\n 3.  《万物有灵》 BV1e14y1M7gK\n作曲/编曲：litterzy  作词：冥凰   调教：Creuzer\n 4.",
+      "jump_url": "https://www.bilibili.com/video/BV17H4y1s7AL",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c132b3eeaf151f323aa56b1348cc602be3762a4d.png",
+      "cover_file": "../../_assets/covers/2024-03-15_1.png",
+      "bvid": "BV17H4y1s7AL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV17H4y1s7AL",
+        "aid": "1051862346",
+        "cover": "http://i1.hdslb.com/bfs/archive/c132b3eeaf151f323aa56b1348cc602be3762a4d.png",
+        "jump_url": "//www.bilibili.com/video/BV17H4y1s7AL",
+        "stat": {
+          "danmaku": "46",
+          "play": "10.6万",
+          "vt": ""
+        },
+        "duration_text": "57:41",
+        "title": "【天依唱片机】第八期·冬融 | 在暮冬暖阳下，盼冰雪融化为跃动的音符",
+        "desc": "【天依唱片机】第八期如约而至！漫长的冬天结束，期盼的心跳，或许正与苏醒的大地同频跃动。快来听听音乐，寻找最契合当下心意的旋律吧~\n\n感谢老师们的创作与授权~♥\n 1.  @Days的Wing翼  《三月雨》 BV1vx411F7Ey\n作曲/编曲/调校：Wing翼 作词：圣月樱泪\n 2.  @COPY  《XXX原创》  BV1Zt42147Px\n作曲/作词/编曲/调校：COPY\n 3.  《万物有灵》 BV1e14y1M7gK\n作曲/编曲：litterzy  作词：冥凰   调教：Creuzer\n 4. ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13364,
+    "comment": 494,
+    "forward": 104
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

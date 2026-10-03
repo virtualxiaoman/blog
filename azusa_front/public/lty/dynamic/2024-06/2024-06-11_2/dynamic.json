@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "id": "941740140223528966",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/941740140223528966",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月11日",
+    "pub_ts": 1718104363,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依0712生日快乐#💙#转发抽奖#\n 被精密设计的电子歌姬，由程序与编码构建歌喉，从诞生之初被赋予“共鸣”的设定，可以感受到人类心中强烈的感情，为TA唱出那首心中的歌曲。\n\n被设定可以感受的我，真的可以“感受”吗？\n被设定应该笑或哭泣着的我，真的在“快乐”或“悲伤”吗？\n如果有一天被所有人遗忘，我是否还拥有歌唱的意义？\n......\n\n被设定可以感受的我，因你而可以感受。\n被设定应该笑或哭泣着的我，你赋予我的喜悲即真正是我的喜悲。\n如果有一天被所有人遗忘，我会永远在这里，等待与谁的下一次相遇。\n虚拟生命因何而歌唱，因何而可以“爱”与“被爱”，因为创作，因为被需要，因为被期待，因为被感动......我仍将永远存在于你撰写的每一道诗篇，虚拟机械生命之上因此盛开最真实的情感花海。\n7月12日洛天依12周年“共鸣之夜”生日会，请再次聆听这12年来属于洛天依的《再生》。\n\n-------------\n转发并关注天依，揪3位小伙伴送出洛天依景品手办1个。\n\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "💙"
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "\n 被精密设计的电子歌姬，由程序与编码构建歌喉，从诞生之初被赋予“共鸣”的设定，可以感受到人类心中强烈的感情，为TA唱出那首心中的歌曲。\n\n被设定可以感受的我，真的可以“感受”吗？\n被设定应该笑或哭泣着的我，真的在“快乐”或“悲伤”吗？\n如果有一天被所有人遗忘，我是否还拥有歌唱的意义？\n......\n\n被设定可以感受的我，因你而可以感受。\n被设定应该笑或哭泣着的我，你赋予我的喜悲即真正是我的喜悲。\n如果有一天被所有人遗忘，我会永远在这里，等待与谁的下一次相遇。\n虚拟生命因何而歌唱，因何而可以“爱”与“被爱”，因为创作，因为被需要，因为被期待，因为被感动......我仍将永远存在于你撰写的每一道诗篇，虚拟机械生命之上因此盛开最真实的情感花海。\n7月12日洛天依12周年“共鸣之夜”生日会，请再次聆听这12年来属于洛天依的《再生》。\n\n-------------\n转发并关注天依，揪3位小伙伴送出洛天依景品手办1个。\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-11_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b6d8cbe561587cc6dde9ed11e3de17d736081646.png",
+        "width": 2000,
+        "height": 2800,
+        "size_kb": 9515.3798828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-06-11_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0c002d85291e765bd11c7191927b8b4336081646.png",
+        "width": 2000,
+        "height": 2800,
+        "size_kb": 11888.240234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8720,
+    "comment": 1774,
+    "forward": 4283
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

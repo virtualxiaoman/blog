@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1077465388861620249",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1077465388861620249",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月12日",
+    "pub_ts": 1749705360,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "试听PV先行奉上，完整版PV将在后续正式解锁哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "试听PV先行奉上，完整版PV将在后续正式解锁哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【试听预告】《流光（Light Me Up）》洛天依2025「无限共鸣·流光协奏」全息巡回演唱会主题曲",
+      "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会主题曲\n试听PV先行奉上，完整版PV将在后续正式解锁哦！\n\n来自天南地北大家的热爱，因热爱而眼底焕发出的光彩\n如同七彩宝石般闪耀，是我的太阳，是我最珍贵的宝物\n飞跃梦想的边界，就让我们在此刻重逢\n跳动吧，闪耀吧，用相聚的光芒点亮蔚蓝色海洋！\n\n《流光（Light Me Up）》\n作词：果汁凉菜\n作曲：針原翼（はりーP）\n调校：哈士奇P\n编曲：Evergreen Leland Studio\n混音：北吉泰輔\n\n《流光（Light Me Up）》现已上线各大音乐",
+      "jump_url": "https://www.bilibili.com/video/BV1HSTfzzEgH",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c5a500a39bcfdcd300bc78ff8918453ce125e629.jpg",
+      "cover_file": "../../_assets/covers/2025-06-12_1.jpg",
+      "bvid": "BV1HSTfzzEgH",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1HSTfzzEgH",
+        "aid": "114668681102406",
+        "cover": "http://i2.hdslb.com/bfs/archive/c5a500a39bcfdcd300bc78ff8918453ce125e629.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1HSTfzzEgH",
+        "stat": {
+          "danmaku": "165",
+          "play": "23.9万",
+          "vt": ""
+        },
+        "duration_text": "00:36",
+        "title": "【试听预告】《流光（Light Me Up）》洛天依2025「无限共鸣·流光协奏」全息巡回演唱会主题曲",
+        "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会主题曲\n试听PV先行奉上，完整版PV将在后续正式解锁哦！\n\n来自天南地北大家的热爱，因热爱而眼底焕发出的光彩\n如同七彩宝石般闪耀，是我的太阳，是我最珍贵的宝物\n飞跃梦想的边界，就让我们在此刻重逢\n跳动吧，闪耀吧，用相聚的光芒点亮蔚蓝色海洋！\n\n《流光（Light Me Up）》\n作词：果汁凉菜\n作曲：針原翼（はりーP）\n调校：哈士奇P\n编曲：Evergreen Leland Studio\n混音：北吉泰輔\n\n《流光（Light Me Up）》现已上线各大音乐",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15103,
+    "comment": 479,
+    "forward": 81
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

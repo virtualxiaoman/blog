@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "1140995471399976984",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1140995471399976984",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月30日",
+    "pub_ts": 1764497110,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依完美劲敌#\n「人格镜像」第一季「完美劲敌」VOL.1「宿敌」\n原初神祇「The Artemis变革」&「The Metis谋略」档案情报公开[洛天依八音奇响动态_美丽]\n\n“她们永远争论不休，但总能在争论中，找到最完美的答案。”\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依完美劲敌#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%AE%8C%E7%BE%8E%E5%8A%B2%E6%95%8C"
+      },
+      {
+        "type": "text",
+        "text": "\n「人格镜像」第一季「完美劲敌」VOL.1「宿敌」\n原初神祇「The Artemis变革」&「The Metis谋略」档案情报公开"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“她们永远争论不休，但总能在争论中，找到最完美的答案。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7558275d6ca8a56cb334ece103116fbb36081646.jpg",
+        "width": 5000,
+        "height": 2813,
+        "size_kb": 11005.400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-11-30_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/af2dc89b7f594b7faa421d77985a104336081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2553.429931640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5306,
+    "comment": 304,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

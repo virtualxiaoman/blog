@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "1041170239475154950",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1041170239475154950",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月6日",
+    "pub_ts": 1741254737,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "❀【歌行·戏曲季】黄梅戏「天仙配·七仙女」主题插画海报公开❀\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份。\n\n“只望白头同到老，谁知鸳鸯两分。”\n主题原创单曲《聘书》将于3月9日正式上线\n人事易变，世事无常，但这天地间所有情深一往，真情相付，永值得真挚描摹。[洛天依·戏游九州动态_惬意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "❀【歌行·戏曲季】黄梅戏「天仙配·七仙女」主题插画海报公开❀\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份。\n\n“只望白头同到老，谁知鸳鸯两分。”\n主题原创单曲《聘书》将于3月9日正式上线\n人事易变，世事无常，但这天地间所有情深一往，真情相付，永值得真挚描摹。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-03-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/18a894eeb25e4821421f8598faca13f536081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2433.9375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：黄梅戏篇原创单曲《聘书》",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1PP9CYBEg3",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：黄梅戏篇原创单曲《聘书》",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "124万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1PP9CYBEg3",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1PP9CYBEg3",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4495903,
+        "reserve_total": 3796,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6144,
+    "comment": 1155,
+    "forward": 2719
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

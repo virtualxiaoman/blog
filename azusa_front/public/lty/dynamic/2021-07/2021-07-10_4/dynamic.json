@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "545705191580038995",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/545705191580038995",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月10日",
+    "pub_ts": 1625895291,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 #洛天依0712生日快乐# #洛天依九周年# 【九周年第六弹】全新的bilibili定制主题装扮即将在7月12日生日当天中午12点上线！ 头像框、点赞动画、动态卡片都基于今年生日造型特别设计过，空间还有两张新图可选为背景，把夏虫的美丽梦境凝结在手掌中的一方天地。 相较去年的生日装扮，这次还多了加载动画和进度条动画，表情包也增加好几个新的题材，相信一定能丰富大家的评论区和动态哦~ 装扮上线后将有限时三天的优惠活动，喜欢的话可别错过啦！ 关注天依+转发动态，抽10个小伙伴送九周年装扮哦！[洛天依9th_生日快乐]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "65737",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 【九周年第六弹】全新的bilibili定制主题装扮即将在7月12日生日当天中午12点上线！ 头像框、点赞动画、动态卡片都基于今年生日造型特别设计过，空间还有两张新图可选为背景，把夏虫的美丽梦境凝结在手掌中的一方天地。 相较去年的生日装扮，这次还多了加载动画和进度条动画，表情包也增加好几个新的题材，相信一定能丰富大家的评论区和动态哦~ 装扮上线后将有限时三天的优惠活动，喜欢的话可别错过啦！ 关注天依+转发动态，抽10个小伙伴送九周年装扮哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_生日快乐]",
+        "package_id": "255",
+        "emoji_id": "4239",
+        "name": "生日快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/339f77a523e86bc17adc2b377125e45b51e0fc5c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-10_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0310c6b1d2d2d15c894dcddc6f8e645ca77f8a69.jpg",
+        "width": 1080,
+        "height": 9819,
+        "size_kb": 5688.4,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/生日快乐.png",
+        "package_id": "255",
+        "emoji_id": "4239",
+        "text": "[洛天依9th_生日快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "65737"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10247,
+    "comment": 2388,
+    "forward": 10310
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "838163988802961489",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/838163988802961489",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月6日",
+    "pub_ts": 1693988661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "略略略~[代号洛天依_略略略][代号洛天依_略略略]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "略略略~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_略略略]",
+        "package_id": "1842",
+        "emoji_id": "32138",
+        "name": "略略略",
+        "url": "https://i0.hdslb.com/bfs/emote/e47616e8a637176a77f5d49c898c384de64baf8d.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_略略略]",
+        "package_id": "1842",
+        "emoji_id": "32138",
+        "name": "略略略",
+        "url": "https://i0.hdslb.com/bfs/emote/e47616e8a637176a77f5d49c898c384de64baf8d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/略略略.png",
+        "package_id": "1842",
+        "emoji_id": "32138",
+        "text": "[代号洛天依_略略略]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5678,
+    "comment": 181,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 812910861268025382,
+    "orig_mid": 293965437,
+    "deleted": false,
+    "archive_dir": "../../../293965437/2023-06/2023-06-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

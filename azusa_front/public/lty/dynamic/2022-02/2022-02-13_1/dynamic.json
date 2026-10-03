@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "626585619106641275",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/626585619106641275",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月13日",
+    "pub_ts": 1644726733,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很认真录宣传视频的时候遇到了冰墩墩…这谁忍得住啊？毕竟谁不想拥抱一下冰墩墩呢～祝我追墩顺利吧！#冰墩墩洛天依总台元宵晚会同框# ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很认真录宣传视频的时候遇到了冰墩墩…这谁忍得住啊？毕竟谁不想拥抱一下冰墩墩呢～祝我追墩顺利吧！"
+      },
+      {
+        "type": "topic",
+        "text": "#冰墩墩洛天依总台元宵晚会同框#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%80%BB%E5%8F%B0%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%90%8C%E6%A1%86"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8962,
+    "comment": 278,
+    "forward": 66
+  },
+  "forward": {
+    "orig_id": 626579820907039918,
+    "orig_mid": 222103174,
+    "deleted": false,
+    "archive_dir": "../../../222103174/2022-02/2022-02-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:42:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

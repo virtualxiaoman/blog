@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "627444088584232389",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/627444088584232389",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月15日",
+    "pub_ts": 1644926611,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今晚我和@摩登兄弟刘宇宁   宁哥合作演出，其实之前我们有小小沟通了一下身高差的问题哈哈哈，天依真的比宁哥的腿高！#总台2022元宵晚会##刘宇宁洛天依最萌身高差#刘宇宁洛天依合作#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚我和"
+      },
+      {
+        "type": "mention",
+        "text": "@摩登兄弟刘宇宁 ",
+        "mid": 1043793436,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  宁哥合作演出，其实之前我们有小小沟通了一下身高差的问题哈哈哈，天依真的比宁哥的腿高！"
+      },
+      {
+        "type": "topic",
+        "text": "#总台2022元宵晚会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B02022%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "topic",
+        "text": "#刘宇宁洛天依最萌身高差#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E5%AE%87%E5%AE%81%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%9C%80%E8%90%8C%E8%BA%AB%E9%AB%98%E5%B7%AE"
+      },
+      {
+        "type": "text",
+        "text": "刘宇宁洛天依合作#"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依连线刘宇宁",
+      "desc": "今晚我和@摩登兄弟刘宇宁 宁哥合作演出，其实之前我们有小小沟通了一下身高差的问题哈哈哈，天依真的比宁哥的腿高！#总台2022元宵晚会##刘宇宁洛天依最萌身高差# #刘宇宁洛天依合作#",
+      "jump_url": "https://www.bilibili.com/video/BV1Uu411Q7yZ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5576e496a5058a7faeae12ff4a974520cd32c81e.jpg",
+      "cover_file": "../../_assets/covers/2022-02-15_1.jpg",
+      "bvid": "BV1Uu411Q7yZ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Uu411Q7yZ",
+        "aid": "509096233",
+        "cover": "http://i0.hdslb.com/bfs/archive/5576e496a5058a7faeae12ff4a974520cd32c81e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Uu411Q7yZ",
+        "stat": {
+          "danmaku": "183",
+          "play": "8.6万",
+          "vt": ""
+        },
+        "duration_text": "00:57",
+        "title": "天依连线刘宇宁",
+        "desc": "今晚我和@摩登兄弟刘宇宁 宁哥合作演出，其实之前我们有小小沟通了一下身高差的问题哈哈哈，天依真的比宁哥的腿高！#总台2022元宵晚会##刘宇宁洛天依最萌身高差# #刘宇宁洛天依合作#",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14247,
+    "comment": 699,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:42:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

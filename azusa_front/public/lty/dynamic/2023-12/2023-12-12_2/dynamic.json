@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "id": "874189895312080896",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/874189895312080896",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月12日",
+    "pub_ts": 1702376596,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #索尼音乐牵手洛天依# \n洛天依X@索尼音乐中国  原创EP《洛 LUO》\n第二主打单曲《蝶变（Butterfly）》歌曲MV 12月15日即将上线啦！\n为了更好地诠释这首歌曲，天依特地换上了更动感帅气的新装哦！\n“接下来 请大家期待！”[洛天依蝶变_电吉他！]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \n洛天依X"
+      },
+      {
+        "type": "mention",
+        "text": "@索尼音乐中国",
+        "mid": 486906719,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  原创EP《洛 LUO》\n第二主打单曲《蝶变（Butterfly）》歌曲MV 12月15日即将上线啦！\n为了更好地诠释这首歌曲，天依特地换上了更动感帅气的新装哦！\n“接下来 请大家期待！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-12_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/06c50609f2a7d9a52b1ab8af66fd4bfc36081646.jpg",
+        "width": 2671,
+        "height": 2427,
+        "size_kb": 392.623046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：【洛天依X索尼音乐】蝶变MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Dg4y1Z71M",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：【洛天依X索尼音乐】蝶变MV",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "95.2万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Dg4y1Z71M",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Dg4y1Z71M",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3400328,
+        "reserve_total": 2960,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5742,
+    "comment": 203,
+    "forward": 68
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

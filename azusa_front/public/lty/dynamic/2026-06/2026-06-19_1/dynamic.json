@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1215518106032537600",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1215518106032537600",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月19日",
+    "pub_ts": 1781848263,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@潇湘烟雨-幻曦偌宁中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@潇湘烟雨-幻曦偌宁",
+        "mid": 48655611,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3494,
+    "comment": 88,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 1214036582879723545,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-06-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:25:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

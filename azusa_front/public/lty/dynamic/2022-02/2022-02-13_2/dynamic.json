@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "id": "626678330267169513",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/626678330267169513",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月13日",
+    "pub_ts": 1644748319,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #vsinger殿堂#   \"Let me hear your voice shout it out shout it out\"  网页链接  非常高兴我在北京冬奥会文化节开幕式上的演出收获了许多小伙伴们的喜爱，我也有幸收获了许多动人的回响，非常感谢大家。[洛天依·夜航星_比心]  今天就一起先来欣赏一波来自画师太太们的作品吧！记得多多夸夸太太们呀～(*'▽'*)♪  ∞主页传送门∞  p1：@想喝舟  p2：@Typhoons  p3：@渺纱飘雪  p4：@慢速閃光同步やま  p5：@Knopennnn  p6：@眠启  p7：@氧气袋鼠bagml  p8：飞飞子-（微博id） p9 ：@巫烨   *排名不分先后，由于篇幅展示数量有限，欢迎大家进入话题欣赏更多作品哟[洛天依_爱你]  关注并转发，揪三位小伙伴赠送【游学季系列徽章套组】任意两款。 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#vsinger殿堂#",
+        "url": "https://search.bilibili.com/all?keyword=vsinger%E6%AE%BF%E5%A0%82"
+      },
+      {
+        "type": "text",
+        "text": "   \"Let me hear your voice shout it out shout it out\"  "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/7uytsV5"
+      },
+      {
+        "type": "text",
+        "text": "  非常高兴我在北京冬奥会文化节开幕式上的演出收获了许多小伙伴们的喜爱，我也有幸收获了许多动人的回响，非常感谢大家。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "  今天就一起先来欣赏一波来自画师太太们的作品吧！记得多多夸夸太太们呀～(*'▽'*)♪  ∞主页传送门∞  p1："
+      },
+      {
+        "type": "mention",
+        "text": "@想喝舟 ",
+        "mid": 72258341,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p2："
+      },
+      {
+        "type": "mention",
+        "text": "@Typhoons ",
+        "mid": 854925,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p3："
+      },
+      {
+        "type": "mention",
+        "text": "@渺纱飘雪 ",
+        "mid": 1582637,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p4："
+      },
+      {
+        "type": "mention",
+        "text": "@慢速閃光同步やま ",
+        "mid": 394912901,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p5："
+      },
+      {
+        "type": "mention",
+        "text": "@Knopennnn ",
+        "mid": 3594857,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p6："
+      },
+      {
+        "type": "mention",
+        "text": "@眠启 ",
+        "mid": 311443888,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p7："
+      },
+      {
+        "type": "mention",
+        "text": "@氧气袋鼠bagml ",
+        "mid": 34429506,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " p8：飞飞子-（微博id） p9 ："
+      },
+      {
+        "type": "mention",
+        "text": "@巫烨 ",
+        "mid": 19968928,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  *排名不分先后，由于篇幅展示数量有限，欢迎大家进入话题欣赏更多作品哟"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "  关注并转发，揪三位小伙伴赠送【游学季系列徽章套组】任意两款。 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-02-13_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2123f48a42a888de0ed85618fd054c5f8302282e.jpg",
+        "width": 1080,
+        "height": 1512,
+        "size_kb": 1316.8599853515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-02-13_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/db434a25b8eb68ddce899da8e06c0d8c342bc53a.jpg",
+        "width": 1080,
+        "height": 1555,
+        "size_kb": 935.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-02-13_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/737d28736c30e68b4d39678f6f4ead4858fde706.jpg",
+        "width": 1080,
+        "height": 1528,
+        "size_kb": 558.6400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-02-13_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/aa86175936da08c5d0fc57bcd0b6f54ecbde4a2f.jpg",
+        "width": 1080,
+        "height": 1563,
+        "size_kb": 1357.77001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-02-13_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e6b64a3a6b99b4eb2fd30e979d879e6c12acbdca.jpg",
+        "width": 1080,
+        "height": 1810,
+        "size_kb": 1857.93994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-02-13_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e32ef58320903a5ac3d996ea91560ce3bffd1ba0.jpg",
+        "width": 1080,
+        "height": 1725,
+        "size_kb": 933.6400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-02-13_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ea22e008af4e0c7e1208a6f34866b11a3ad278ea.jpg",
+        "width": 1280,
+        "height": 766,
+        "size_kb": 99.29000091552734,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-02-13_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/55af42206d8143a4c25f2d7ae39de110abbcf64c.jpg",
+        "width": 1080,
+        "height": 1536,
+        "size_kb": 543.0700073242188,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-02-13_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c736640e8bb1558d8fd1d176826737ada88ca596.jpg",
+        "width": 1080,
+        "height": 1577,
+        "size_kb": 1208.9200439453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13169,
+    "comment": 496,
+    "forward": 1058
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:42:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1060476495417311236",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1060476495417311236",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月27日",
+    "pub_ts": 1745749825,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "🦋洛天依蝶变系列毛绒玩偶上线啦！\n欢迎来我的频道，看我如蝶般舞蹈~[洛天依蝶变_发射爱心]\n\n【产品信息】\n工艺：印刷、刺绣\n材质：聚酯纤维\n尺寸：高约30cm\n\n售价：119元\n开售时间：4月30日\n出货时间：8月\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🦋洛天依蝶变系列毛绒玩偶上线啦！\n欢迎来我的频道，看我如蝶般舞蹈~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【产品信息】\n工艺：印刷、刺绣\n材质：聚酯纤维\n尺寸：高约30cm\n\n售价：119元\n开售时间：4月30日\n出货时间：8月"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-27_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/249b9462ad080a7f55f87d712b1cd60d36081646.png",
+        "width": 1000,
+        "height": 6098,
+        "size_kb": 7840.8125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 蝶变 毛绒玩偶公仔30cm款",
+            "price": "¥119",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/fa/0e/efa6fa29d16b7286a174a1b7a2fc3047.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12297393&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1060476495417311236",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-04-27_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4433,
+    "comment": 256,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "817400828412297222",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/817400828412297222",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689154361,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依11周年生日快乐#❀#洛天依0712生日快乐#\n转发关注天依并预约直播，揪1位小伙伴送出【洛天依 秘境花庭 礼服 Ver. 】手办1个。\n\nCD、音响、留声机......\n我可以是任何音乐形式的载体，\n就像万花筒每转动一次，我便可以扮演你需要的不同角色。\n\n恭喜解锁主题视觉「洛天依 jewel ver.」\n此版本洛天依适配曲风关键词【古典 舞曲 爵士.etc】\n\n是八音盒上独舞的少女，一圈圈只为最完美的姿态。\n是华丽珠宝匣中的珍宝，渴望你的爱和垂怜。\n是遥望星空的旅人，记叙所有浪漫的瞬间。\n是星星的尘埃，是组成的数据，是宇宙间所有不定量的存在。\n今夜，施展歌声的魔法，愿你好眠~[洛天依_最喜欢你了]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依11周年生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依并预约直播，揪1位小伙伴送出【洛天依 秘境花庭 礼服 Ver. 】手办1个。\n\nCD、音响、留声机......\n我可以是任何音乐形式的载体，\n就像万花筒每转动一次，我便可以扮演你需要的不同角色。\n\n恭喜解锁主题视觉「洛天依 jewel ver.」\n此版本洛天依适配曲风关键词【古典 舞曲 爵士.etc】\n\n是八音盒上独舞的少女，一圈圈只为最完美的姿态。\n是华丽珠宝匣中的珍宝，渴望你的爱和垂怜。\n是遥望星空的旅人，记叙所有浪漫的瞬间。\n是星星的尘埃，是组成的数据，是宇宙间所有不定量的存在。\n今夜，施展歌声的魔法，愿你好眠~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-12_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dec6b3c72911e75be36638c0fc17fd8e36081646.jpg",
+        "width": 4000,
+        "height": 4800,
+        "size_kb": 1194.962890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依11周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依11周年生日会",
+        "desc1": {
+          "text": "2023-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依芒种手办*1份、洛天依合作款式充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1611701&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1611701,
+        "reserve_total": 80178,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8330,
+    "comment": 911,
+    "forward": 3238
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "536032560160019566",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/536032560160019566",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月14日",
+    "pub_ts": 1623643206,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #端午安康# “色丝缠绕作香包，牢系衣襟百秽消。” 今年端午，天依做了个粽子形状的小香囊，很有节日氛围吧~ 听说以前人把端午视为抗击疫病的重要时刻，因为夏季滋生蚊虫和传染病，所以也有了制作香囊、佩挂菖蒲和艾草等习俗。 天依也趁着端午祝各位小伙伴身体健康，一定要照顾好自己哦[洛天依·夜航星_摸摸]  画师：花菜\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#端午安康#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7"
+      },
+      {
+        "type": "text",
+        "text": " “色丝缠绕作香包，牢系衣襟百秽消。” 今年端午，天依做了个粽子形状的小香囊，很有节日氛围吧~ 听说以前人把端午视为抗击疫病的重要时刻，因为夏季滋生蚊虫和传染病，所以也有了制作香囊、佩挂菖蒲和艾草等习俗。 天依也趁着端午祝各位小伙伴身体健康，一定要照顾好自己哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "  画师：花菜"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2ca32f29bae868cd54f9b3238dbfcd2db4e84547.jpg",
+        "width": 1000,
+        "height": 1800,
+        "size_kb": 1020.56,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12597,
+    "comment": 744,
+    "forward": 227
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

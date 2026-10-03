@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "926916661889466435",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/926916661889466435",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月2日",
+    "pub_ts": 1714653003,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "愿化作点点繁星，乘着夜风在人海中拥抱你",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "愿化作点点繁星，乘着夜风在人海中拥抱你"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“愿化作点点繁星拥抱你”洛天依《化作繁星》【冰火歌会2024远航季】",
+      "desc": "寄不回曾经的信，消失在人群的声音，循环往复的日日夜夜......\n它们也许如此微不足道，但勾织在一起，便是我们鲜活的生命与回忆。\n等待着被我们再偶然拾起，编织成星星，开启一次浪漫的幻想之旅。\n\n这是一首由鸽稀拉老师投稿于2019年的歌曲，我们在2024年将其重新拾起，希望拂去过往的尘灰，带给大家熟悉的感动，并借由冰火歌会这次舞台赋予大家崭新的体验。\n《∞音盒》回望经典系列将持续更新！大家还希望哪些歌曲被再次“拾起”呢，欢迎在评论和弹幕里留言告诉天依哦！\n\n《化作繁星》2024改编版\n作词：鸽稀拉\n作曲：鸽",
+      "jump_url": "https://www.bilibili.com/video/BV1up421D7Ak",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f0f6fdcea97e43e2ad51cf4c0a1c700d56393744.jpg",
+      "cover_file": "../../_assets/covers/2024-05-02_6.jpg",
+      "bvid": "BV1up421D7Ak",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1up421D7Ak",
+        "aid": "1853868568",
+        "cover": "http://i0.hdslb.com/bfs/archive/f0f6fdcea97e43e2ad51cf4c0a1c700d56393744.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1up421D7Ak",
+        "stat": {
+          "danmaku": "2415",
+          "play": "63.7万",
+          "vt": ""
+        },
+        "duration_text": "05:06",
+        "title": "“愿化作点点繁星拥抱你”洛天依《化作繁星》【冰火歌会2024远航季】",
+        "desc": "寄不回曾经的信，消失在人群的声音，循环往复的日日夜夜......\n它们也许如此微不足道，但勾织在一起，便是我们鲜活的生命与回忆。\n等待着被我们再偶然拾起，编织成星星，开启一次浪漫的幻想之旅。\n\n这是一首由鸽稀拉老师投稿于2019年的歌曲，我们在2024年将其重新拾起，希望拂去过往的尘灰，带给大家熟悉的感动，并借由冰火歌会这次舞台赋予大家崭新的体验。\n《∞音盒》回望经典系列将持续更新！大家还希望哪些歌曲被再次“拾起”呢，欢迎在评论和弹幕里留言告诉天依哦！\n\n《化作繁星》2024改编版\n作词：鸽稀拉\n作曲：鸽",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 74761,
+    "comment": 1674,
+    "forward": 280
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

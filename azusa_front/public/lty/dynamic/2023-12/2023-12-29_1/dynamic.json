@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "880479879227768853",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/880479879227768853",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月29日",
+    "pub_ts": 1703841097,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你印象最深刻的天依舞台是？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你印象最深刻的天依舞台是？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2023洛天依高光舞台！你印象最深刻的是……",
+      "desc": "2023年，我们一起看过了哪些不同的风景？\n我们去领略过神秘的甲骨文文化，去很多不一样的舞台唱我们的歌，开始了属于我的歌行之旅。\n用歌声与大家、与更多的人、与所有世界的美好连结，今年的天依，也算是有实现这个小小的心愿啦！\n最最重要的是，还有你们依然在我的身边~\n大家印象最深刻的是什么呀？\n12月31日，天依将会带着这些珍贵回忆的沉淀登上2023年的最后一个舞台，希望能和大家一起度过“最美的夜”，未来，你还愿意陪我去见证更多的可能性吗？",
+      "jump_url": "https://www.bilibili.com/video/BV1fQ4y1E7yM",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/cdd2045ad27f95902c18120a7a4b0876018b7211.jpg",
+      "cover_file": "../../_assets/covers/2023-12-29_1.jpg",
+      "bvid": "BV1fQ4y1E7yM",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1fQ4y1E7yM",
+        "aid": "707949249",
+        "cover": "http://i2.hdslb.com/bfs/archive/cdd2045ad27f95902c18120a7a4b0876018b7211.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1fQ4y1E7yM",
+        "stat": {
+          "danmaku": "196",
+          "play": "20.3万",
+          "vt": ""
+        },
+        "duration_text": "00:26",
+        "title": "2023洛天依高光舞台！你印象最深刻的是……",
+        "desc": "2023年，我们一起看过了哪些不同的风景？\n我们去领略过神秘的甲骨文文化，去很多不一样的舞台唱我们的歌，开始了属于我的歌行之旅。\n用歌声与大家、与更多的人、与所有世界的美好连结，今年的天依，也算是有实现这个小小的心愿啦！\n最最重要的是，还有你们依然在我的身边~\n大家印象最深刻的是什么呀？\n12月31日，天依将会带着这些珍贵回忆的沉淀登上2023年的最后一个舞台，希望能和大家一起度过“最美的夜”，未来，你还愿意陪我去见证更多的可能性吗？",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26490,
+    "comment": 583,
+    "forward": 724
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:02:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

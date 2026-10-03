@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1199552750525874201",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1199552750525874201",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月7日",
+    "pub_ts": 1778131039,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "和天依一起期待吧~[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "和天依一起期待吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5221,
+    "comment": 264,
+    "forward": 61
+  },
+  "forward": {
+    "orig_id": 1199532828320071720,
+    "orig_mid": 471130755,
+    "deleted": false,
+    "archive_dir": "../../../471130755/2026-05/2026-05-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

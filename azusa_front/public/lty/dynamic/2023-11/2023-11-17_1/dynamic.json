@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "864818972469493760",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/864818972469493760",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月17日",
+    "pub_ts": 1700194758,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "歌声铭刻所有时光与回忆~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "歌声铭刻所有时光与回忆~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第五期·秋宴 | 岁月缱绻，有美景与佳曲，邀你共赏",
+      "desc": "歌声铭刻所有时光与回忆~\n\n【天依唱片机第五期·秋宴  歌单】 \n感谢老师们的创作与授权~♥\n1.@在我心底藏了好久  橘子日常BV1Du4y1j7E4\n作曲/编曲/作词/调校：在我心底藏了好久\n2.@純白  中华铄金娘BV1Es411y7J9\n作曲/编曲：纯白 作词：薇采之依 调校：DIGGER\n3.@黒白君  纷繁缭乱BV1os411d7Mo\n作曲/编曲/作词/调校：黒白君\n4.@赛亚♂sya  OVERLAP BV1Pw411Y7WE\n作曲/编曲/作词/调校：赛亚Sya\n5.@负二价-  我还没有想",
+      "jump_url": "https://www.bilibili.com/video/BV14v411c7Ro",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/431f7d4feeb61a57a4c4c6d053f29cd28471d122.jpg",
+      "cover_file": "../../_assets/covers/2023-11-17_1.jpg",
+      "bvid": "BV14v411c7Ro",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14v411c7Ro",
+        "aid": "236076530",
+        "cover": "http://i2.hdslb.com/bfs/archive/431f7d4feeb61a57a4c4c6d053f29cd28471d122.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14v411c7Ro",
+        "stat": {
+          "danmaku": "154",
+          "play": "24.1万",
+          "vt": ""
+        },
+        "duration_text": "55:45",
+        "title": "【天依唱片机】第五期·秋宴 | 岁月缱绻，有美景与佳曲，邀你共赏",
+        "desc": "歌声铭刻所有时光与回忆~\n\n【天依唱片机第五期·秋宴  歌单】 \n感谢老师们的创作与授权~♥\n1.@在我心底藏了好久  橘子日常BV1Du4y1j7E4\n作曲/编曲/作词/调校：在我心底藏了好久\n2.@純白  中华铄金娘BV1Es411y7J9\n作曲/编曲：纯白 作词：薇采之依 调校：DIGGER\n3.@黒白君  纷繁缭乱BV1os411d7Mo\n作曲/编曲/作词/调校：黒白君\n4.@赛亚♂sya  OVERLAP BV1Pw411Y7WE\n作曲/编曲/作词/调校：赛亚Sya\n5.@负二价-  我还没有想",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 47439,
+    "comment": 574,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:00:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

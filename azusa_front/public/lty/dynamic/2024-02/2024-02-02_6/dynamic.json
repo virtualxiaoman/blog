@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "id": "893560270843019266",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/893560270843019266",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月2日",
+    "pub_ts": 1706886613,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依 | 仰望星空，回归浪漫\n\n音符散落，在心中筑起银河\n宇宙浪漫，再次望向无垠的星空\nVsinger洛天依 万华依绘系列 2月3日 20点开售\n出品方：@bilibiliGoods \n预售平台：bilibili会员购，上海禾念淘宝店\n\n关注转发点赞，揪5位各送出cd展示万年历收藏画，镭射票套装，徽章x2，收藏色纸，立牌一份[洛天依_礼物]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 | 仰望星空，回归浪漫\n\n音符散落，在心中筑起银河\n宇宙浪漫，再次望向无垠的星空\nVsinger洛天依 万华依绘系列 2月3日 20点开售\n出品方："
+      },
+      {
+        "type": "mention",
+        "text": "@bilibiliGoods ",
+        "mid": 35365327,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n预售平台：bilibili会员购，上海禾念淘宝店\n\n关注转发点赞，揪5位各送出cd展示万年历收藏画，镭射票套装，徽章x2，收藏色纸，立牌一份"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-02_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/330ea75e54f5f6b211a019bcde80899536081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 172.2899932861328,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-02_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/6eed37a4fc96a1e289b6bfff942bb8cb36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 260.1400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-02_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/93920a6fcae26ad18a45ad646fa4479536081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 154.9499969482422,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-02-02_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1f58864e565e2b61134b68fa8165bc8d36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 151.86000061035156,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-02-02_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/09e11fa053024f0615a9ca915c72884d36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 187.27999877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-02-02_10.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1a738ec9f6f4436eff2a782e0ea6c3f936081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 182.17999267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-02-02_11.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/2f4ce4849b05cd89b9604cc06e552f1036081646.jpg",
+        "width": 1000,
+        "height": 26084,
+        "size_kb": 14924.6298828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-02-02_12.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/49636cb92d3180bb221b1d51bc341fa436081646.jpg",
+        "width": 1000,
+        "height": 14511,
+        "size_kb": 8434.0,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-02-02_13.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1b5a4816607ae761bd3b9ea1fe87ec5d36081646.jpg",
+        "width": 1000,
+        "height": 15783,
+        "size_kb": 9587.9296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "bilibiliGoods Vsinger洛天依 万华依绘系列 旋转流沙蓝牙音响",
+            "price": "¥254",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/51/05/5105bbdc364c3fcad730f49b0ae25e68.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10257735&msource=cps_Mdynamic_36081646_cont-2-893560270843019266&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-02_4.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 万华依绘系列 亚克力CD展示万年历收藏画",
+            "price": "¥87",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/d5/ab/d5ab66fc62c61ee1746c3e2a20c81355.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10222890&msource=cps_Mdynamic_36081646_cont-2-893560270843019266&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-02_5.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 万华依绘系列 镭射票套装",
+            "price": "¥39",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/6f/3f/6f3f8eff8453503642b495cd60c7a646.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10222882&msource=cps_Mdynamic_36081646_cont-2-893560270843019266&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-02_6.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 万华依绘系列 亚克力立牌",
+            "price": "¥75",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/c9/d6/c9d6dae6eeb15b89416aa2782bcd80e8.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10222885&msource=cps_Mdynamic_36081646_cont-2-893560270843019266&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-02_7.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 万华依绘系列 马口铁徽章75mm JEWEL VER.",
+            "price": "¥22.5",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f4/5c/f45c53086e9679afb992c36c438bf54d.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10222878&msource=cps_Mdynamic_36081646_cont-2-893560270843019266&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-02_8.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7327,
+    "comment": 1711,
+    "forward": 3173
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

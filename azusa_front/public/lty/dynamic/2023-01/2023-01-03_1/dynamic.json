@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "746793473216086212",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/746793473216086212",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月3日",
+    "pub_ts": 1672714805,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "录像可以倒带，爱与回忆又如何能够重来呢......\n直播live版的《Reeeee》来啦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "录像可以倒带，爱与回忆又如何能够重来呢......\n直播live版的《Reeeee》来啦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】Reeeee【如果一切可以倒带重来】（直播live版）",
+      "desc": "录像可以倒带，爱与回忆又如何能够重来呢......\n\n作词/作曲/编曲/调校：COP\n原视频PV：唯Tu\n原视频：BV18Y4y1V7n5",
+      "jump_url": "https://www.bilibili.com/video/BV1K3411X7Jc",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1688bffa16e8863521fbf1c83c9309ee4ea5af7a.jpg",
+      "cover_file": "../../_assets/covers/2023-01-03_1.jpg",
+      "bvid": "BV1K3411X7Jc",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1K3411X7Jc",
+        "aid": "434306324",
+        "cover": "http://i0.hdslb.com/bfs/archive/1688bffa16e8863521fbf1c83c9309ee4ea5af7a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1K3411X7Jc",
+        "stat": {
+          "danmaku": "865",
+          "play": "77.4万",
+          "vt": ""
+        },
+        "duration_text": "02:53",
+        "title": "【洛天依】Reeeee【如果一切可以倒带重来】（直播live版）",
+        "desc": "录像可以倒带，爱与回忆又如何能够重来呢......\n\n作词/作曲/编曲/调校：COP\n原视频PV：唯Tu\n原视频：BV18Y4y1V7n5",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 91930,
+    "comment": 1209,
+    "forward": 160
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:48:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

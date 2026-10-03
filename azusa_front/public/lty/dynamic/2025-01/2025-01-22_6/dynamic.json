@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1025253838004682753",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1025253838004682753",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月22日",
+    "pub_ts": 1737548911,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "寄相思与明月，盼与君共团圆[洛天依·戏游九州动态_乖巧]感谢 CCTV 网络春晚的邀请，希望这份热闹和团圆可以感染到大家，为大家送上满满的祝福！[洛天依·戏游九州动态_惬意]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "寄相思与明月，盼与君共团圆"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      },
+      {
+        "type": "text",
+        "text": "感谢 CCTV 网络春晚的邀请，希望这份热闹和团圆可以感染到大家，为大家送上满满的祝福！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5228,
+    "comment": 200,
+    "forward": 49
+  },
+  "forward": {
+    "orig_id": 1025250363360411861,
+    "orig_mid": 222103174,
+    "deleted": false,
+    "archive_dir": "../../../222103174/2025-01/2025-01-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:26:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "1017105636485234770",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1017105636485234770",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1735651760,
+    "location": ""
+  },
+  "topic": {
+    "id": 1138243,
+    "name": "上B站看跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1138243&topic_name=%E4%B8%8AB%E7%AB%99%E7%9C%8B%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依拜师陈丽君学戏曲，跨次元同台唱戏曲太惊艳了！#2024B站跨年晚会单品#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依拜师陈丽君学戏曲，跨次元同台唱戏曲太惊艳了！"
+      },
+      {
+        "type": "topic",
+        "text": "#2024B站跨年晚会单品#",
+        "url": "https://search.bilibili.com/all?keyword=2024B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%8D%95%E5%93%81"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【4K 60帧】洛天依拜师学戏曲！陈丽君洛天依联袂演绎《戏游九州》【2024B站跨年晚会单品】",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1kP63Y3Eys",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/cc2097ff3f32515156f9da2c89a076b4e9e48988.jpg",
+      "cover_file": "../../_assets/covers/2024-12-31_1.jpg",
+      "bvid": "BV1kP63Y3Eys",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1kP63Y3Eys",
+        "aid": "113741370822889",
+        "cover": "http://i0.hdslb.com/bfs/archive/cc2097ff3f32515156f9da2c89a076b4e9e48988.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kP63Y3Eys",
+        "stat": {
+          "danmaku": "2.9万",
+          "play": "376.3万",
+          "vt": ""
+        },
+        "duration_text": "05:48",
+        "title": "【4K 60帧】洛天依拜师学戏曲！陈丽君洛天依联袂演绎《戏游九州》【2024B站跨年晚会单品】",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 1
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2024最美的夜 bilibili跨年晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss48928",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/c086af8102fbec8a19c35ca0ae4f6ee7e01b2d96.jpg",
+      "cover_file": "../../_assets/covers/2024-12-31_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss48928",
+        "id_str": "113741370822889",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/c086af8102fbec8a19c35ca0ae4f6ee7e01b2d96.jpg",
+        "style": 2,
+        "title": "2024最美的夜 bilibili跨年晚会",
+        "desc1": "独家 已完结, 全4集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

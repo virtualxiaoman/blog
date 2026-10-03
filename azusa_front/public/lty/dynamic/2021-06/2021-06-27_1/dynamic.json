@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "540847325868348350",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/540847325868348350",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月27日",
+    "pub_ts": 1624764231,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##洛天依九周年#生日会报名热烈进行中！小伙伴们报名过程中遇到问题可以来看看老V整理的Q&A，说不定会有帮助~ 也别忘了7/2来看天依的直播，除了抽选，天依也会透露一些生日会其他情报哦[洛天依·夜航星_好康]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "生日会报名热烈进行中！小伙伴们报名过程中遇到问题可以来看看老V整理的Q&A，说不定会有帮助~ 也别忘了7/2来看天依的直播，除了抽选，天依也会透露一些生日会其他情报哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5466,
+    "comment": 218,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 540160247072534161,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-06/2021-06-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:32:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "817370789424660487",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/817370789424660487",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689147367,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你的小闹钟冒个泡~[代号洛天依_88~]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你的小闹钟冒个泡~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_88~]",
+        "package_id": "1842",
+        "emoji_id": "32128",
+        "name": "88~",
+        "url": "https://i0.hdslb.com/bfs/emote/969d3d4e6d21e1b1245fdc8257f471054c50abaf.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/88~.png",
+        "package_id": "1842",
+        "emoji_id": "32128",
+        "text": "[代号洛天依_88~]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5201,
+    "comment": 211,
+    "forward": 148
+  },
+  "forward": {
+    "orig_id": 817060276157284390,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-07-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:55:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

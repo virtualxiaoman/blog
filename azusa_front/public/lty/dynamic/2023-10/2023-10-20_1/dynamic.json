@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "854451368094597125",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/854451368094597125",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月20日",
+    "pub_ts": 1697780862,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，#《百变洛天依》限定纪念卡#活动已开启。\n\n✨活动时间：2023年10月20日~11月20日\n\n✨活动入口：\n网页链接\n或进入B站APP→搜索关键词“洛天依”→进入洛天依B站官方账号→下方活动栏可见\n\n✨活动规则：共计6个卡种，27个卡面，已获取虚拟卡可兑换为实体卡\n\n✨奖励加码：\n【全新卡面UR卡】：获赠洛天依手办大礼包（包含洛天依「燃」手办*2，「芒种」手办*2，「梨花雪」Q版手办*1，手办专属亚克力盒）\n【特典卡】：前85张获得用户获赠洛天依等身挂画及专属亚克力盒\n\n※抽卡活动具有随机性，小伙伴们注意理性消费哦[古色花香洛天依_呐~]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，"
+      },
+      {
+        "type": "topic",
+        "text": "#《百变洛天依》限定纪念卡#",
+        "url": "https://search.bilibili.com/all?keyword=%E3%80%8A%E7%99%BE%E5%8F%98%E6%B4%9B%E5%A4%A9%E4%BE%9D%E3%80%8B%E9%99%90%E5%AE%9A%E7%BA%AA%E5%BF%B5%E5%8D%A1"
+      },
+      {
+        "type": "text",
+        "text": "活动已开启。\n\n✨活动时间：2023年10月20日~11月20日\n\n✨活动入口：\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://music.bilibili.com/h5/tianyi-cardsec?navhide=1"
+      },
+      {
+        "type": "text",
+        "text": "\n或进入B站APP→搜索关键词“洛天依”→进入洛天依B站官方账号→下方活动栏可见\n\n✨活动规则：共计6个卡种，27个卡面，已获取虚拟卡可兑换为实体卡\n\n✨奖励加码：\n【全新卡面UR卡】：获赠洛天依手办大礼包（包含洛天依「燃」手办*2，「芒种」手办*2，「梨花雪」Q版手办*1，手办专属亚克力盒）\n【特典卡】：前85张获得用户获赠洛天依等身挂画及专属亚克力盒\n\n※抽卡活动具有随机性，小伙伴们注意理性消费哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_呐~]",
+        "package_id": "1096",
+        "emoji_id": "19449",
+        "name": "呐~",
+        "url": "https://i0.hdslb.com/bfs/garb/item/93b04b7be865fde04a22200204d39e3cb07f924f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-20_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/ef18dd00ec43d92d4891ee2221dc4ab436081646.png",
+        "width": 1120,
+        "height": 1995,
+        "size_kb": 2019.8599853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/呐~.png",
+        "package_id": "1096",
+        "emoji_id": "19449",
+        "text": "[古色花香洛天依_呐~]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5161,
+    "comment": 348,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

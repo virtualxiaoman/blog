@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088707216653942805",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088707216653942805",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752322802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "为何天意总将有情人放逐 |《聘书》洛天依十三周年生日会",
+      "desc": "“爱是跨过山重水复，天上地下唯一的脚步”\n这世间情深意往，真情相付，永值得真挚描摹\n真挚的情感总是格外动人~\n\n《聘书》\n作曲：瞿子千\n作词：温莨\n编曲：刘少卿\n混音：刘振东\n调教：哈士奇P\n原PV：BV1PP9CYBEg3",
+      "jump_url": "https://www.bilibili.com/video/BV1UduKzrEER",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/477fd215c785f9c75cb298cedbd68107d2bf0aa0.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_12.jpg",
+      "bvid": "BV1UduKzrEER",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1UduKzrEER",
+        "aid": "114832376400990",
+        "cover": "http://i2.hdslb.com/bfs/archive/477fd215c785f9c75cb298cedbd68107d2bf0aa0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1UduKzrEER",
+        "stat": {
+          "danmaku": "517",
+          "play": "106.6万",
+          "vt": ""
+        },
+        "duration_text": "04:04",
+        "title": "为何天意总将有情人放逐 |《聘书》洛天依十三周年生日会",
+        "desc": "“爱是跨过山重水复，天上地下唯一的脚步”\n这世间情深意往，真情相付，永值得真挚描摹\n真挚的情感总是格外动人~\n\n《聘书》\n作曲：瞿子千\n作词：温莨\n编曲：刘少卿\n混音：刘振东\n调教：哈士奇P\n原PV：BV1PP9CYBEg3",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26069,
+    "comment": 776,
+    "forward": 145
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

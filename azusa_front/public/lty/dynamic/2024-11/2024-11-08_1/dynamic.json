@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "997386045741858852",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/997386045741858852",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月8日",
+    "pub_ts": 1731060435,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "跨越次元边界\n惊喜联动来袭\n📅11.22-11.24  10:00-22:00\n📍上海BFC外滩\n天依将会在@万代南梦宫中国 #万代南梦宫嘉年华2024#\n为大家带来经典IP联动的特别舞台，通过二维码即可免费预约哦，来看天依吧！[歌行宇宙表情包_mua]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "跨越次元边界\n惊喜联动来袭\n📅11.22-11.24  10:00-22:00\n📍上海BFC外滩\n天依将会在"
+      },
+      {
+        "type": "mention",
+        "text": "@万代南梦宫中国",
+        "mid": 287390748,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#万代南梦宫嘉年华2024#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E4%BB%A3%E5%8D%97%E6%A2%A6%E5%AE%AB%E5%98%89%E5%B9%B4%E5%8D%8E2024"
+      },
+      {
+        "type": "text",
+        "text": "\n为大家带来经典IP联动的特别舞台，通过二维码即可免费预约哦，来看天依吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-08_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8775a5caad453458deff5c247a16680c36081646.jpg",
+        "width": 2575,
+        "height": 2575,
+        "size_kb": 2036.69140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-11-08_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0b65614b1730877d36444a18fae8ca8b36081646.jpg",
+        "width": 2575,
+        "height": 2575,
+        "size_kb": 2691.5478515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-11-08_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0b44f1e4d23b2df384a344677c21470736081646.jpg",
+        "width": 2575,
+        "height": 2575,
+        "size_kb": 3068.77734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5844,
+    "comment": 417,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

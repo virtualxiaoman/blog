@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "273768267784604792",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/273768267784604792",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月8日",
+    "pub_ts": 1562580042,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在天依的生日来临之际，我和@德克士Dicos 一起创作的全新歌曲《Perfect Day》正式上线啦！这个MV的解锁离不开每一位小伙伴的助威支持，看到大家的应援记录天依真的超感动…感谢大家！也感谢各位staff的辛勤付出！\n还有还有，德克士为天依准备了另外一个礼物——在上海美罗球大屏幕让天依和大家见面！这个礼物能否顺利达成也靠你们啦！助威天依传送门→http://wxapp.sktap.cn/cheng/dicos/",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在天依的生日来临之际，我和@德克士Dicos 一起创作的全新歌曲《Perfect Day》正式上线啦！这个MV的解锁离不开每一位小伙伴的助威支持，看到大家的应援记录天依真的超感动…感谢大家！也感谢各位staff的辛勤付出！\n还有还有，德克士为天依准备了另外一个礼物——在上海美罗球大屏幕让天依和大家见面！这个礼物能否顺利达成也靠你们啦！助威天依传送门→"
+      },
+      {
+        "type": "text",
+        "text": "http://wxapp.sktap.cn/cheng/dicos/"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&德克士】Perfect Day",
+      "desc": "在天依的生日来临之际， 我和@德克士Dicos 一起创作的全新歌曲《Perfect Day》正式上线啦！这个MV的解锁离不开每一位小伙伴的助威支持，看到大家的应援记录天依真的超感动…感谢大家！\n\n《Perfect Day》\n作词：果汁凉菜\n作曲：Bitman\n调教：动点P\n演唱：洛天依\n人设：TID\n编舞：ogata-姚子\n模型：Kinsama、石英世界\n绑骨：Kinsama、大狗头\n场景：溯北P\n动作&镜头：小怪兽粉刷月球\n渲染：Shaw钊钊\n监制：曦歪（CY）\n\n在这个MV当中，天依经过无数次练习（别",
+      "jump_url": "https://www.bilibili.com/video/BV1j4411F7Gu",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/1cbc9fc28dd917cf0183fc45c0e013f256826b83.jpg",
+      "cover_file": "../../_assets/covers/2019-07-08_1.jpg",
+      "bvid": "BV1j4411F7Gu",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1j4411F7Gu",
+        "aid": "58314106",
+        "cover": "http://i2.hdslb.com/bfs/archive/1cbc9fc28dd917cf0183fc45c0e013f256826b83.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1j4411F7Gu",
+        "stat": {
+          "danmaku": "3558",
+          "play": "25.3万",
+          "vt": ""
+        },
+        "duration_text": "02:46",
+        "title": "【洛天依&德克士】Perfect Day",
+        "desc": "在天依的生日来临之际， 我和@德克士Dicos 一起创作的全新歌曲《Perfect Day》正式上线啦！这个MV的解锁离不开每一位小伙伴的助威支持，看到大家的应援记录天依真的超感动…感谢大家！\n\n《Perfect Day》\n作词：果汁凉菜\n作曲：Bitman\n调教：动点P\n演唱：洛天依\n人设：TID\n编舞：ogata-姚子\n模型：Kinsama、石英世界\n绑骨：Kinsama、大狗头\n场景：溯北P\n动作&镜头：小怪兽粉刷月球\n渲染：Shaw钊钊\n监制：曦歪（CY）\n\n在这个MV当中，天依经过无数次练习（别",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 27853,
+    "comment": 3446,
+    "forward": 206
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "390014349378632893",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/390014349378632893",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月17日",
+    "pub_ts": 1589645692,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "浙江卫视《天赐的声音》巅峰歌会中，天依与白举纲老师共同演绎了《万古生香》，与张韶涵老师表演了全新版《芒种》!\n希望天依在这两首歌曲中的表现能让小伙伴们喜欢~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "浙江卫视《天赐的声音》巅峰歌会中，天依与白举纲老师共同演绎了《万古生香》，与张韶涵老师表演了全新版《芒种》!\n希望天依在这两首歌曲中的表现能让小伙伴们喜欢~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&白举纲｜洛天依&张韶涵】万古生香+芒种（浙江卫视《天赐的声音》）",
+      "desc": "浙江卫视《天赐的声音》巅峰歌会中，天依与白举纲老师共同演绎了《万古生香》，与张韶涵老师表演了全新版《芒种》!\n希望天依在这两首歌曲中的表现能让小伙伴们喜欢~",
+      "jump_url": "https://www.bilibili.com/video/BV1L54y1D7Tg",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/0ac819aaf4d44f637ea8f42d0a42885421bf62ad.jpg",
+      "cover_file": "../../_assets/covers/2020-05-17_1.jpg",
+      "bvid": "BV1L54y1D7Tg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1L54y1D7Tg",
+        "aid": "840715903",
+        "cover": "http://i0.hdslb.com/bfs/archive/0ac819aaf4d44f637ea8f42d0a42885421bf62ad.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1L54y1D7Tg",
+        "stat": {
+          "danmaku": "1.2万",
+          "play": "88.9万",
+          "vt": ""
+        },
+        "duration_text": "09:54",
+        "title": "【洛天依&白举纲｜洛天依&张韶涵】万古生香+芒种（浙江卫视《天赐的声音》）",
+        "desc": "浙江卫视《天赐的声音》巅峰歌会中，天依与白举纲老师共同演绎了《万古生香》，与张韶涵老师表演了全新版《芒种》!\n希望天依在这两首歌曲中的表现能让小伙伴们喜欢~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 72261,
+    "comment": 6184,
+    "forward": 800
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:23:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

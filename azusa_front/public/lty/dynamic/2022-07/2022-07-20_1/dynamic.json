@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "684936551123124263",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/684936551123124263",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月20日",
+    "pub_ts": 1658312618,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依10周年# 在大家的相伴下，天依度过了十周年生日，有幸和@交通银行信用卡   再次合作带来《知交共逍遥》，道出天依想对朋友们说出的话！信义相托，仗剑江湖#与生活交手，幸惠#幸会每一个喜欢天依的小伙伴，你们的祝福、陪伴给了天依无尽的力量，让这力量继续生长，在交手下一个十年的路上，我们一起遇见更好的生活~",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 在大家的相伴下，天依度过了十周年生日，有幸和"
+      },
+      {
+        "type": "mention",
+        "text": "@交通银行信用卡 ",
+        "mid": 578454094,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  再次合作带来《知交共逍遥》，道出天依想对朋友们说出的话！信义相托，仗剑江湖"
+      },
+      {
+        "type": "topic",
+        "text": "#与生活交手，幸惠#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E7%94%9F%E6%B4%BB%E4%BA%A4%E6%89%8B%EF%BC%8C%E5%B9%B8%E6%83%A0"
+      },
+      {
+        "type": "text",
+        "text": "幸会每一个喜欢天依的小伙伴，你们的祝福、陪伴给了天依无尽的力量，让这力量继续生长，在交手下一个十年的路上，我们一起遇见更好的生活~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X交通银行信用卡】《知交共逍遥》",
+      "desc": "每当这支《知交共逍遥》响起，天依总能忆起和大家的友情点滴，旋律回响，逍遥与共，最美好的友情就是一起进步、并肩成长，和天依一起共赴山海，追寻心中热爱吧~\n同款形象卡面直达：https://creditcardapp.bankcomm.com/applynew/front/apply/online/cardInfo.html?trackCode=A030413321454&cardId=287&channel=ltybili\n在校的小可爱们也可以冲哦：\nhttps://creditcardapp.bankco",
+      "jump_url": "https://www.bilibili.com/video/BV1zS4y177sq",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/a5b510edf7b8e87a6feab327e6a248e13f9dd0fd.jpg",
+      "cover_file": "../../_assets/covers/2022-07-20_1.jpg",
+      "bvid": "BV1zS4y177sq",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zS4y177sq",
+        "aid": "728540975",
+        "cover": "http://i0.hdslb.com/bfs/archive/a5b510edf7b8e87a6feab327e6a248e13f9dd0fd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zS4y177sq",
+        "stat": {
+          "danmaku": "383",
+          "play": "47.5万",
+          "vt": ""
+        },
+        "duration_text": "02:09",
+        "title": "【洛天依X交通银行信用卡】《知交共逍遥》",
+        "desc": "每当这支《知交共逍遥》响起，天依总能忆起和大家的友情点滴，旋律回响，逍遥与共，最美好的友情就是一起进步、并肩成长，和天依一起共赴山海，追寻心中热爱吧~\n同款形象卡面直达：https://creditcardapp.bankcomm.com/applynew/front/apply/online/cardInfo.html?trackCode=A030413321454&cardId=287&channel=ltybili\n在校的小可爱们也可以冲哦：\nhttps://creditcardapp.bankco",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 54702,
+    "comment": 1085,
+    "forward": 135
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "879009123514974224",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/879009123514974224",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月25日",
+    "pub_ts": 1703498660,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "#最美的夜官宣洛天依# #最美的夜官宣阵容刮出电子祝福# \n岁月迢迢，声声不息。 \n2024年将至，愿岁岁人长久，歌行常相伴。[天依游学记_谢谢你]\n天依期待在#2023最美的夜跨年晚会#和大家一起迎接2024的到来！\n天依将会表演什么节目，又会和哪些神秘嘉宾合作，大家一起猜猜看吧[洛天依蝶变_wink]\n\n[洛天依蝶变_YEAH！]天依游学记藏族款盒蛋火热预售中网页链接\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#最美的夜官宣洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E5%AE%98%E5%AE%A3%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#最美的夜官宣阵容刮出电子祝福#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%E5%88%AE%E5%87%BA%E7%94%B5%E5%AD%90%E7%A5%9D%E7%A6%8F"
+      },
+      {
+        "type": "text",
+        "text": " \n岁月迢迢，声声不息。 \n2024年将至，愿岁岁人长久，歌行常相伴。"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依期待在"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "和大家一起迎接2024的到来！\n天依将会表演什么节目，又会和哪些神秘嘉宾合作，大家一起猜猜看吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "天依游学记藏族款盒蛋火热预售中"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/rn1BjIN"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/45c81f4bee0c4895688f7745276c4ca036081646.jpg",
+        "width": 1440,
+        "height": 1920,
+        "size_kb": 2755.765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5482,
+    "comment": 252,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

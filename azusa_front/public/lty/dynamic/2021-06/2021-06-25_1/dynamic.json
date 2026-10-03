@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "540111434763674690",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/540111434763674690",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月25日",
+    "pub_ts": 1624592893,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依九周年生日会 7月12日 19:12 ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依九周年生日会 7月12日 19:12 "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依九周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依九周年生日会",
+        "desc1": {
+          "text": "2021-07-12 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "3.6万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 41437,
+        "reserve_total": 36439,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8692,
+    "comment": 708,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

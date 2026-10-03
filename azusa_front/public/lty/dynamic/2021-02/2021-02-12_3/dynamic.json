@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "490786282290584095",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/490786282290584095",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月12日",
+    "pub_ts": 1613108486,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# 在牛年到来之际，天依来给大家送新年礼物啦！ 天依的2021春节主题表情包已经上线，在享受假日的同时，不要忘记给亲人和小伙伴们发可爱的表情包拜年哟。 谢谢画师@-TID- 给天依设计春晚的演出服，新的一年，让我们一起把快乐传递给全世界吧[洛天依_耶]  新年新气象，发红包的时候也要换上新的封面~ 天依的定制红包封面也一起上线了，扫描图中二维码，即可领取洛天依专属红包封面，数量有限，先到先得~ 有天依陪你过大年，新的一年要更上一层楼呀[洛天依·夜航星_比心]  春晚造型、红包插图画师：TID 表情包Q版人设：Haku\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " 在牛年到来之际，天依来给大家送新年礼物啦！ 天依的2021春节主题表情包已经上线，在享受假日的同时，不要忘记给亲人和小伙伴们发可爱的表情包拜年哟。 谢谢画师"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "给天依设计春晚的演出服，新的一年，让我们一起把快乐传递给全世界吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "  新年新气象，发红包的时候也要换上新的封面~ 天依的定制红包封面也一起上线了，扫描图中二维码，即可领取洛天依专属红包封面，数量有限，先到先得~ 有天依陪你过大年，新的一年要更上一层楼呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "  春晚造型、红包插图画师：TID 表情包Q版人设：Haku"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-12_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b1fc595cd2811bba12e6353ba4d649fe3d3bc14d.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 597.3,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-02-12_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bef9e56cd7f2c903f0285ac2e33d860c89199da0.jpg",
+        "width": 1080,
+        "height": 1800,
+        "size_kb": 471.3,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-02-12_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/31473c1af5df72c394a8627bba6bec477be28928.jpg",
+        "width": 1080,
+        "height": 1800,
+        "size_kb": 544.62,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9555,
+    "comment": 620,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "525267705668204732",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/525267705668204732",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月16日",
+    "pub_ts": 1621136818,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在一望无垠的蓝天之上，有我们的梦想[洛天依_goodjob]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在一望无垠的蓝天之上，有我们的梦想"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4757,
+    "comment": 150,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 524681305189597917,
+    "orig_mid": 12113,
+    "deleted": false,
+    "archive_dir": "../../../12113/2021-05/2021-05-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

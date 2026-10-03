@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "785437342715346979",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/785437342715346979",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月17日",
+    "pub_ts": 1681712282,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#\n一场梨花雪，是否也曾拨动你的心弦～\n\n【擎苍工作室x洛天依】 |「梨花雪Ver.」原画来啦！\n春半酣，梨花先雪，柳絮飞城，素衣染天香。\n风透衫，玄鸟清歌，海棠醉红，相思轻点妆。\n新品即将上线，敬请期待！更多后续情报请关注 @擎苍工作室 @洛天依 哦[古色花香洛天依_wink]\n\n「梨花雪」原型\n原画/策划：渺纱飘雪\n策划/涂装：欢都梦绫\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n一场梨花雪，是否也曾拨动你的心弦～\n\n【擎苍工作室x洛天依】 |「梨花雪Ver.」原画来啦！\n春半酣，梨花先雪，柳絮飞城，素衣染天香。\n风透衫，玄鸟清歌，海棠醉红，相思轻点妆。\n新品即将上线，敬请期待！更多后续情报请关注 "
+      },
+      {
+        "type": "mention",
+        "text": "@擎苍工作室 ",
+        "mid": 430351780,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依 ",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n「梨花雪」原型\n原画/策划：渺纱飘雪\n策划/涂装：欢都梦绫"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-17_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c19146a187fdf0716627732e986bf31436081646.png",
+        "width": 1200,
+        "height": 1802,
+        "size_kb": 3592.070068359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8261,
+    "comment": 372,
+    "forward": 128
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:52:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

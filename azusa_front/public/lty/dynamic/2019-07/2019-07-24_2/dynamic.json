@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "279725924296511705",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/279725924296511705",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月24日",
+    "pub_ts": 1563967167,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "明年见~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明年见~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6683,
+    "comment": 471,
+    "forward": 39
+  },
+  "forward": {
+    "orig_id": 279724141882980643,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2019-07/2019-07-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

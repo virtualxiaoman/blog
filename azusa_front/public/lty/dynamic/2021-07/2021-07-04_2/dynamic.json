@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "543582829201680866",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/543582829201680866",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月4日",
+    "pub_ts": 1625401140,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "康师傅香爆脆也来为天依庆生啦!  点击B站#用香爆脆依起庆生吧#主题⻚，一起玩转香爆脆云狂欢，花式为天依庆生，还有机会获得香爆脆为大家准备的惊喜庆生礼哦~\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "康师傅香爆脆也来为天依庆生啦!  点击B站"
+      },
+      {
+        "type": "topic",
+        "text": "#用香爆脆依起庆生吧#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E9%A6%99%E7%88%86%E8%84%86%E4%BE%9D%E8%B5%B7%E5%BA%86%E7%94%9F%E5%90%A7"
+      },
+      {
+        "type": "text",
+        "text": "主题⻚，一起玩转香爆脆云狂欢，花式为天依庆生，还有机会获得香爆脆为大家准备的惊喜庆生礼哦~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bdaaf684a09a6a8ca98a7fbcd707dd13a013c4e2.jpg",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 1463.99,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-07-04_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/cf16e80709ae3634b47c6d15200da8c436f30748.jpg",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 5084.69,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7771,
+    "comment": 414,
+    "forward": 67
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

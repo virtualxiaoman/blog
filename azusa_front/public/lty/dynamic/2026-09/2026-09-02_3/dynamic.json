@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1243417990304628753",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1243417990304628753",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月2日",
+    "pub_ts": 1788344211,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "要来喽~第一次唱阿肆老师为天依创作的歌曲，天依和大家一起期待！[洛天依14周年·纯蓝幻乐 动态表情包_感动]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "要来喽~第一次唱阿肆老师为天依创作的歌曲，天依和大家一起期待！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_感动]",
+        "package_id": "10238",
+        "emoji_id": "145988",
+        "name": "感动",
+        "url": "https://i0.hdslb.com/bfs/garb/690c8ae9a245b35a06fe1eace2844c501230a9db.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/感动.gif",
+        "package_id": "10238",
+        "emoji_id": "145988",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_感动]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4368,
+    "comment": 115,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1243414713213124625,
+    "orig_mid": 52079756,
+    "deleted": false,
+    "archive_dir": "../../../52079756/2026-09/2026-09-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:39:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

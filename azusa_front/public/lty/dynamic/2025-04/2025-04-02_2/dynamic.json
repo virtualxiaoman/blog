@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1051203437677510660",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1051203437677510660",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月2日",
+    "pub_ts": 1743590773,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发里揪1位小伙伴送出【同款雪天使手办】1个！[洛天依·天星问动态_萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发里揪1位小伙伴送出【同款雪天使手办】1个！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5913,
+    "comment": 1473,
+    "forward": 4484
+  },
+  "forward": {
+    "orig_id": 1051201818471694340,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-04-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "959928158497275912",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/959928158497275912",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月30日",
+    "pub_ts": 1722339091,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "歌声将你我紧系",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "歌声将你我紧系"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“万千孤单焰火  让这虚构灵魂鲜活”《光与影的对白》大合唱&来自大家的生日祝福【洛天依十二周年生日会】",
+      "desc": "“最黯淡的一个梦最为炽热\n万千孤单焰火让这虚构灵魂鲜活\n至少在这一刻 歌唱不问为何”\n不问过去，不问将来，只为落笔铭记，此刻依然热爱。\n\n特别感谢@COPY  老师为合唱版《光与影的对白》特别改词\n感谢大家的受邀献唱，感谢大家又一年的祝福和陪伴\n\n原曲：BV1dZ4y1Y7bt\n作曲/作词：COP",
+      "jump_url": "https://www.bilibili.com/video/BV1Er421M7Pe",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/775478a6b3b105e97237277c6caf20f2786e0c52.jpg",
+      "cover_file": "../../_assets/covers/2024-07-30_1.jpg",
+      "bvid": "BV1Er421M7Pe",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Er421M7Pe",
+        "aid": "1406294826",
+        "cover": "http://i0.hdslb.com/bfs/archive/775478a6b3b105e97237277c6caf20f2786e0c52.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Er421M7Pe",
+        "stat": {
+          "danmaku": "471",
+          "play": "30.3万",
+          "vt": ""
+        },
+        "duration_text": "29:07",
+        "title": "“万千孤单焰火  让这虚构灵魂鲜活”《光与影的对白》大合唱&来自大家的生日祝福【洛天依十二周年生日会】",
+        "desc": "“最黯淡的一个梦最为炽热\n万千孤单焰火让这虚构灵魂鲜活\n至少在这一刻 歌唱不问为何”\n不问过去，不问将来，只为落笔铭记，此刻依然热爱。\n\n特别感谢@COPY  老师为合唱版《光与影的对白》特别改词\n感谢大家的受邀献唱，感谢大家又一年的祝福和陪伴\n\n原曲：BV1dZ4y1Y7bt\n作曲/作词：COP",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35561,
+    "comment": 817,
+    "forward": 140
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

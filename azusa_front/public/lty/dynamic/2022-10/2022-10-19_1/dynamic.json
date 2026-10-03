@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "id": "718622327442505816",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/718622327442505816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月19日",
+    "pub_ts": 1666155699,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发并关注，天依将随机抽选3位小伙伴送出【十周年系列  收藏画】一副。 我的AI公式立绘正式公布啦！公式立绘同样由设定设计@ideolo四代目 老师进行绘制。  这套AI设定在天依的公式元素基础上，以“共鸣”“宇宙”“投影”概念融入了许多有趣的设计和小细节，因为是大家投票出来的设定，也包含着大家满满的爱意！ 希望AI设定可以伴随声库和大家一起，唱响新的乐章~♪ #洛天依# #AI依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发并关注，天依将随机抽选3位小伙伴送出【十周年系列  收藏画】一副。 我的AI公式立绘正式公布啦！公式立绘同样由设定设计"
+      },
+      {
+        "type": "mention",
+        "text": "@ideolo四代目",
+        "mid": 163571,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师进行绘制。  这套AI设定在天依的公式元素基础上，以“共鸣”“宇宙”“投影”概念融入了许多有趣的设计和小细节，因为是大家投票出来的设定，也包含着大家满满的爱意！ 希望AI设定可以伴随声库和大家一起，唱响新的乐章~♪ "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#AI依#",
+        "url": "https://search.bilibili.com/all?keyword=AI%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-19_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/7ba9ad651753b692aea7b399f6eba30f36081646.jpg",
+        "width": 2000,
+        "height": 2811,
+        "size_kb": 420.7822265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-10-19_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/e7583fa6b7f3cbe1eb90cd6d26edce3536081646.jpg",
+        "width": 2000,
+        "height": 2811,
+        "size_kb": 427.85546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：【洛天依】新歌、新模、新节目",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：【洛天依】新歌、新模、新节目",
+        "desc1": {
+          "text": "2022-10-21 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "3.5万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依泳装景品*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1031286&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1031286,
+        "reserve_total": 35332,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10524,
+    "comment": 1212,
+    "forward": 4652
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "535401719660493054",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/535401719660493054",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月12日",
+    "pub_ts": 1623496327,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依0712生日快乐# ​互动抽奖 漫长的蛰伏都是为了破蛹羽化的那一刻—— 不知不觉，这已经是天依来到这个世界的第九年，你们的感动、欢笑，鼓励、支持都给予我破茧的力量……在盛夏到来前为你们绽放。   7月12日19点12分，天依将在上海梅赛德斯奔驰文化中心的音乐俱乐部举办九周年生日会，感谢@-TID- 为我设计的小礼裙，既华丽又缥缈，宛如仲夏夜的蝴蝶之梦。  今年，我为大家准备了九个惊喜，第一弹即将拉开序幕~ 请好好期待九周年的到来吧！ *生日会具体情报将于下周起陆续公开，关注天依并转发这条微博，我会送出5份2021年生日周边哦 [洛天依_爱你]​\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "63886",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 漫长的蛰伏都是为了破蛹羽化的那一刻—— 不知不觉，这已经是天依来到这个世界的第九年，你们的感动、欢笑，鼓励、支持都给予我破茧的力量……在盛夏到来前为你们绽放。   7月12日19点12分，天依将在上海梅赛德斯奔驰文化中心的音乐俱乐部举办九周年生日会，感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为我设计的小礼裙，既华丽又缥缈，宛如仲夏夜的蝴蝶之梦。  今年，我为大家准备了九个惊喜，第一弹即将拉开序幕~ 请好好期待九周年的到来吧！ *生日会具体情报将于下周起陆续公开，关注天依并转发这条微博，我会送出5份2021年生日周边哦 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "​"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8d36498ab7d7f034a9bfc19113da0044cf964497.jpg",
+        "width": 1446,
+        "height": 2058,
+        "size_kb": 2705.4287109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "63886"
+  },
+  "vote": null,
+  "stats": {
+    "like": 11492,
+    "comment": 1862,
+    "forward": 8821
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

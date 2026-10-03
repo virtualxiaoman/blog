@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "310877777359833729",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/310877777359833729",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年10月16日",
+    "pub_ts": 1571220273,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2019年10月18日18:00，天依的日语新单曲《T.A.O.》和PV即将上线！预告片奉上，大家会准时来给天依打call吗？\n本曲由“阳炎系列”作者、日本音乐人じん（JIN）为#洛天依#创作，邀你与天依一起，进入浩瀚的海洋，写下故事最初的一页！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2019年10月18日18:00，天依的日语新单曲《T.A.O.》和PV即将上线！预告片奉上，大家会准时来给天依打call吗？\n本曲由“阳炎系列”作者、日本音乐人じん（JIN）为"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "创作，邀你与天依一起，进入浩瀚的海洋，写下故事最初的一页！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2019年10月18日18:00，天依的",
+      "desc": "2019年10月18日18:00，天依的日语新单曲《T.A.O.》和PV即将上线！预告片奉上，大家会准时来给天依打call吗？\n本曲由“阳炎系列”作者、日本音乐人じん（JIN）为#洛天依#创作，邀你与天依一起，进入浩瀚的海洋，写下故事最初的一页！",
+      "jump_url": "https://www.bilibili.com/video/BV1YD4y1o7NU",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/21be518a74a1474d0116afbdddd6dede73d13332.jpg",
+      "cover_file": "../../_assets/covers/2019-10-16_1.jpg",
+      "bvid": "BV1YD4y1o7NU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YD4y1o7NU",
+        "aid": "712125186",
+        "cover": "http://i1.hdslb.com/bfs/archive/21be518a74a1474d0116afbdddd6dede73d13332.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YD4y1o7NU",
+        "stat": {
+          "danmaku": "0",
+          "play": "4285",
+          "vt": ""
+        },
+        "duration_text": "00:20",
+        "title": "2019年10月18日18:00，天依的",
+        "desc": "2019年10月18日18:00，天依的日语新单曲《T.A.O.》和PV即将上线！预告片奉上，大家会准时来给天依打call吗？\n本曲由“阳炎系列”作者、日本音乐人じん（JIN）为#洛天依#创作，邀你与天依一起，进入浩瀚的海洋，写下故事最初的一页！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 222,
+    "comment": 407,
+    "forward": 176
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

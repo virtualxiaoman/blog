@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "254471696983048630",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/254471696983048630",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月17日",
+    "pub_ts": 1558087209,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依0712生日快乐# 7月12日是天依的生日和出道日，今年也来参加天依的生日会，一起创造更棒的回忆吧？大家想听什么歌曲，评论告诉天依吧！ 有些小要求哟：1.天依个人独唱曲。2.原创曲。3.非商用曲。4.过往演唱会、生日会未演出曲目。 此外，生日会上会展示贺图，在6月30日前将生贺图发送到luotianyi@sh-henian.com（附上ID和QQ等联系方式），就有可能登上天依生日会哟，如此耀眼夺目的祝福，肯定要让所有人看到的，对吧？ 等你们=3=",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 7月12日是天依的生日和出道日，今年也来参加天依的生日会，一起创造更棒的回忆吧？大家想听什么歌曲，评论告诉天依吧！ 有些小要求哟：1.天依个人独唱曲。2.原创曲。3.非商用曲。4.过往演唱会、生日会未演出曲目。 此外，生日会上会展示贺图，在6月30日前将生贺图发送到"
+      },
+      {
+        "type": "text",
+        "text": "luotianyi@sh-henian.com"
+      },
+      {
+        "type": "text",
+        "text": "（附上ID和QQ等联系方式），就有可能登上天依生日会哟，如此耀眼夺目的祝福，肯定要让所有人看到的，对吧？ 等你们=3="
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6497,
+    "comment": 1979,
+    "forward": 50
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

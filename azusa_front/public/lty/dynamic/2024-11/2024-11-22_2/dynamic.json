@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1002587100811362326",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1002587100811362326",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月22日",
+    "pub_ts": 1732271400,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依X幸运石新品系列周边上架了喔！有陶瓷杯、书签和流沙手表~大家看看吧[洛天依-潮声回响_舞蹈中]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依X幸运石新品系列周边上架了喔！有陶瓷杯、书签和流沙手表~大家看看吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4260,
+    "comment": 118,
+    "forward": 77
+  },
+  "forward": {
+    "orig_id": 1002463590450462721,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2024-11/2024-11-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "501320905057139061",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/501320905057139061",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月12日",
+    "pub_ts": 1615561269,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "梦幻联动洛天依！敖子逸、叶梓颐等7位新青年来到新华社新立方沉浸式演播室，秒穿到青春主舞台畅谈“十四五”，未来五年，青年领衔！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "梦幻联动洛天依！敖子逸、叶梓颐等7位新青年来到新华社新立方沉浸式演播室，秒穿到青春主舞台畅谈“十四五”，未来五年，青年领衔！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "见洛进！地球卫士、巡天者、洛天依向你发了一个聊天邀请",
+      "desc": "梦幻联动洛天依！敖子逸、叶梓颐、任晓媛、高芫赫、鲁昊、李亚东、周柯宇等7位新青年来到新华社新立方沉浸式演播室，秒穿到青春主舞台畅谈“十四五”，未来五年，青年领衔！",
+      "jump_url": "https://www.bilibili.com/video/BV1ez4y117pC",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/9d911ee1d90a523c9880775653e37d32e9091e69.jpg",
+      "cover_file": "../../_assets/covers/2021-03-12_1.jpg",
+      "bvid": "BV1ez4y117pC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ez4y117pC",
+        "aid": "587072945",
+        "cover": "http://i0.hdslb.com/bfs/archive/9d911ee1d90a523c9880775653e37d32e9091e69.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ez4y117pC",
+        "stat": {
+          "danmaku": "628",
+          "play": "8.6万",
+          "vt": ""
+        },
+        "duration_text": "05:35",
+        "title": "见洛进！地球卫士、巡天者、洛天依向你发了一个聊天邀请",
+        "desc": "梦幻联动洛天依！敖子逸、叶梓颐、任晓媛、高芫赫、鲁昊、李亚东、周柯宇等7位新青年来到新华社新立方沉浸式演播室，秒穿到青春主舞台畅谈“十四五”，未来五年，青年领衔！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15189,
+    "comment": 629,
+    "forward": 32
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

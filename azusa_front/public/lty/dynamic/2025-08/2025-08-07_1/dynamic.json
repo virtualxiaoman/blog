@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1098321170242994200",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1098321170242994200",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月7日",
+    "pub_ts": 1754561225,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢成都站的大家！下一站，我们广州见吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢成都站的大家！下一站，我们广州见吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "还想见到你，想来到你的身边，想听到你的歌声，你的呼唤——",
+      "desc": "请查收洛天依2025「无限共鸣·流光协奏」全息巡回演唱会成都站回顾视频~\n不被理解吗？需要理由吗？没有意义吗？无谓这所有的一切！\n想见到你，想来到你的身边，想听到你的歌声，你的呼唤——\n这就是我们相聚于此的所有意义和原因，足够简单，也足够美好。\n感谢成都站的大家！下一站，我们广州见吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1YVtqzjED2",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f7007ac8f7776110959f6eb1ec5a09a78dfafe7b.jpg",
+      "cover_file": "../../_assets/covers/2025-08-07_1.jpg",
+      "bvid": "BV1YVtqzjED2",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YVtqzjED2",
+        "aid": "114986911276172",
+        "cover": "http://i1.hdslb.com/bfs/archive/f7007ac8f7776110959f6eb1ec5a09a78dfafe7b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YVtqzjED2",
+        "stat": {
+          "danmaku": "170",
+          "play": "7.1万",
+          "vt": ""
+        },
+        "duration_text": "01:55",
+        "title": "还想见到你，想来到你的身边，想听到你的歌声，你的呼唤——",
+        "desc": "请查收洛天依2025「无限共鸣·流光协奏」全息巡回演唱会成都站回顾视频~\n不被理解吗？需要理由吗？没有意义吗？无谓这所有的一切！\n想见到你，想来到你的身边，想听到你的歌声，你的呼唤——\n这就是我们相聚于此的所有意义和原因，足够简单，也足够美好。\n感谢成都站的大家！下一站，我们广州见吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15878,
+    "comment": 2696,
+    "forward": 103
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

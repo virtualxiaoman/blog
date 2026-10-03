@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "641804346170802199",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/641804346170802199",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月26日",
+    "pub_ts": 1648270119,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#黎明前的那道光终会冲破黑暗[洛天依·夜航星_冲鸭]我们在被许多可爱的人保护着呀[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "黎明前的那道光终会冲破黑暗"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      },
+      {
+        "type": "text",
+        "text": "我们在被许多可爱的人保护着呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7128,
+    "comment": 151,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 0,
+    "orig_mid": 0,
+    "deleted": false,
+    "archive_dir": "../../../0/2026-10/2026-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:44:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

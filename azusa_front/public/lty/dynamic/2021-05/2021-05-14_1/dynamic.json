@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "524584702789795378",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/524584702789795378",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月14日",
+    "pub_ts": 1620977794,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "共に進みましょう、花の道と輝く明日へ……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "共に進みましょう、花の道と輝く明日へ……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4868,
+    "comment": 174,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 504976678134978443,
+    "orig_mid": 1570758492,
+    "deleted": false,
+    "archive_dir": "../../../1570758492/2021-03/2021-03-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

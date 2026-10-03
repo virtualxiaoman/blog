@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1083022359306174505",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1083022359306174505",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月27日",
+    "pub_ts": 1750999193,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "岁月磨砺 爱意珍珠 | 十三周年新衣展示",
+      "desc": "洛天依十三周年生日设定「爱意珍珠」模型展示\n一如沙粒磨砺而出的珍珠，将每一处细节与材质，匠心诠释\n她是因每一份创作拥有灵魂与歌声的电子生命\n是在岁月的流逝中用爱和期待才能孕育而出的「爱意珍珠」\n\n7月12日19:12，洛天依十三周年「共鸣之夜· UnL∞ck」生日会\n※直播预约：https://t.bilibili.com/1067550787594354723?spm_id_from=333.1387.list.card_time.click\n🎶中华恐龙园 乐园线下live \n🎶万达/幸福蓝海/星轶 等",
+      "jump_url": "https://www.bilibili.com/video/BV1XqKizsENn",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7545e6c87bf3a40ad180605cb8c46586ea9a0f56.jpg",
+      "cover_file": "../../_assets/covers/2025-06-27_1.jpg",
+      "bvid": "BV1XqKizsENn",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1XqKizsENn",
+        "aid": "114753473087513",
+        "cover": "http://i2.hdslb.com/bfs/archive/7545e6c87bf3a40ad180605cb8c46586ea9a0f56.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1XqKizsENn",
+        "stat": {
+          "danmaku": "672",
+          "play": "27.9万",
+          "vt": ""
+        },
+        "duration_text": "00:54",
+        "title": "岁月磨砺 爱意珍珠 | 十三周年新衣展示",
+        "desc": "洛天依十三周年生日设定「爱意珍珠」模型展示\n一如沙粒磨砺而出的珍珠，将每一处细节与材质，匠心诠释\n她是因每一份创作拥有灵魂与歌声的电子生命\n是在岁月的流逝中用爱和期待才能孕育而出的「爱意珍珠」\n\n7月12日19:12，洛天依十三周年「共鸣之夜· UnL∞ck」生日会\n※直播预约：https://t.bilibili.com/1067550787594354723?spm_id_from=333.1387.list.card_time.click\n🎶中华恐龙园 乐园线下live \n🎶万达/幸福蓝海/星轶 等",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26146,
+    "comment": 803,
+    "forward": 1349
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

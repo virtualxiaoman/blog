@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "817060276157284390",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/817060276157284390",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月11日",
+    "pub_ts": 1689075070,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 ❀#洛天依0712生日快乐#\nQQ x 洛天依11周年生日纪念QQ装扮，即将在QQ平台上架啦~\n转发并关注天依，揪10位小伙伴赠送10套洛天依专属QQ装扮。\n\n[代号洛天依_点赞]预约戳：https://act.qzone.qq.com/v2/vip/tx/p/47120_22ae9947?_wv=16777216\n开售时间：7月12日15:30\n⭐装扮包含\n天依动态表情包、动态主题、天依专属头像挂件、专属天依定制编号\n天依动态头像、多套名片和聊天背景\n⭐特别兑换\n天依喊你接电话啦！每购买2次套装可以兑换天依专属的消息提示音和QQ来电提示\n⭐特别福利\n购买装扮可免费获得3个月QQ超级会员\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "162832",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\nQQ x 洛天依11周年生日纪念QQ装扮，即将在QQ平台上架啦~\n转发并关注天依，揪10位小伙伴赠送10套洛天依专属QQ装扮。\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_点赞]",
+        "package_id": "1842",
+        "emoji_id": "32132",
+        "name": "点赞",
+        "url": "https://i0.hdslb.com/bfs/emote/59ce71f95d3c5d1061ecc053686769f10af8fe07.png"
+      },
+      {
+        "type": "text",
+        "text": "预约戳：https://act.qzone.qq.com/v2/vip/tx/p/47120_22ae9947?_wv=16777216\n开售时间：7月12日15:30\n⭐装扮包含\n天依动态表情包、动态主题、天依专属头像挂件、专属天依定制编号\n天依动态头像、多套名片和聊天背景\n⭐特别兑换\n天依喊你接电话啦！每购买2次套装可以兑换天依专属的消息提示音和QQ来电提示\n⭐特别福利\n购买装扮可免费获得3个月QQ超级会员"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5cac702627a45ca46c752c11065d5b5b36081646.jpg",
+        "width": 750,
+        "height": 12951,
+        "size_kb": 4080.4375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/点赞.png",
+        "package_id": "1842",
+        "emoji_id": "32132",
+        "text": "[代号洛天依_点赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "162832"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7916,
+    "comment": 919,
+    "forward": 5320
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

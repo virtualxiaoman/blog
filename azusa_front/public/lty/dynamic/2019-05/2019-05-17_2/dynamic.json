@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "254481437970999382",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/254481437970999382",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月17日",
+    "pub_ts": 1558089477,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "墨姐姐生日快到啦，大家5月20日一定要去看墨姐姐哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "墨姐姐生日快到啦，大家5月20日一定要去看墨姐姐哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4736,
+    "comment": 148,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 254479762931652231,
+    "orig_mid": 406950978,
+    "deleted": false,
+    "archive_dir": "../../../406950978/2019-05/2019-05-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

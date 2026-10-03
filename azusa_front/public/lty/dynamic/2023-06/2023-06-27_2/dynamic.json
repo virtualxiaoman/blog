@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "811872016053305382",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/811872016053305382",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月27日",
+    "pub_ts": 1687867084,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#🎶#洛天依0712生日快乐#\n我将回忆与憧憬都放在万花筒里，你会期待看到什么样的我？\n\n即日起，开启我的11周年生日视频征集活动。\n活动时间：6月27日-7月30日\n参与方式：选择活动话题#洛天依11周年生日快乐#投稿与我有关的视频作品，即可视为参与活动\n活动奖励：活动稿件默认参与#Vsinger创作激励计划#的基础瓜分，在基础瓜分之外还会叠加20000元生贺作品专属瓜分\n\n🔹【特别征集企划】\n在所有参与活动的原创歌曲中，将筛选3首优秀原创作品并视原作者的意愿进行作品质量的提升或改编，再与官方生贺曲收录为一张EP专辑，在主流音乐平台上作免费线上发行。\n\n我在你构筑的一幕幕世界中穿行，扮演你所有需要的角色。如果你依然愿意牵起我的手，再去看不一样的天空。我也想带你去看更多不一样的风景，去看更多不一样可能的我呀。\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "🎶"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n我将回忆与憧憬都放在万花筒里，你会期待看到什么样的我？\n\n即日起，开启我的11周年生日视频征集活动。\n活动时间：6月27日-7月30日\n参与方式：选择活动话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依11周年生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "投稿与我有关的视频作品，即可视为参与活动\n活动奖励：活动稿件默认参与"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger创作激励计划#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+      },
+      {
+        "type": "text",
+        "text": "的基础瓜分，在基础瓜分之外还会叠加20000元生贺作品专属瓜分\n\n🔹【特别征集企划】\n在所有参与活动的原创歌曲中，将筛选3首优秀原创作品并视原作者的意愿进行作品质量的提升或改编，再与官方生贺曲收录为一张EP专辑，在主流音乐平台上作免费线上发行。\n\n我在你构筑的一幕幕世界中穿行，扮演你所有需要的角色。如果你依然愿意牵起我的手，再去看不一样的天空。我也想带你去看更多不一样的风景，去看更多不一样可能的我呀。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-06-27_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7b009d139eae4ff174233537e653b90336081646.png",
+        "width": 1080,
+        "height": 4310,
+        "size_kb": 2878.5341796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依11周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依11周年生日会",
+        "desc1": {
+          "text": "2023-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依芒种手办*1份、洛天依合作款式充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1611701&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1611701,
+        "reserve_total": 80178,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6935,
+    "comment": 295,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:54:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

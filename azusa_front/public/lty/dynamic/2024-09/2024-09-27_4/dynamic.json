@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "981841889116291095",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/981841889116291095",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月27日",
+    "pub_ts": 1727441279,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依喊你去看演唱会# 话题活动获奖结果公示~\n恭喜以下小伙伴获得【洛天依无限共鸣全息演唱会】演唱会门票1张！\n\n🔹bilibili：@天音栗子 、@暗影小侠客 、@GooseGoose嘎嘎 、@远l与海wx \n\n🔹微博：泠绫不是冷绫、饭多多鸭、缘宵_official \n\n恭喜大家！感谢每一位小伙伴的热情参与~[歌行宇宙表情包_mua]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依喊你去看演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 话题活动获奖结果公示~\n恭喜以下小伙伴获得【洛天依无限共鸣全息演唱会】演唱会门票1张！\n\n🔹bilibili："
+      },
+      {
+        "type": "mention",
+        "text": "@天音栗子",
+        "mid": 322223895,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 、"
+      },
+      {
+        "type": "mention",
+        "text": "@暗影小侠客",
+        "mid": 342232427,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 、"
+      },
+      {
+        "type": "mention",
+        "text": "@GooseGoose嘎嘎",
+        "mid": 631095107,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 、"
+      },
+      {
+        "type": "mention",
+        "text": "@远l与海wx",
+        "mid": 104367580,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n🔹微博：泠绫不是冷绫、饭多多鸭、缘宵_official \n\n恭喜大家！感谢每一位小伙伴的热情参与~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-27_12.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/137b25aa5f4d379ce39546e1b27b0b9b36081646.png",
+        "width": 750,
+        "height": 2759,
+        "size_kb": 1883.876953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4017,
+    "comment": 97,
+    "forward": 46
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

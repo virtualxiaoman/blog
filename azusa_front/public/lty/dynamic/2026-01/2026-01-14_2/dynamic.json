@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "id": "1157662521459474449",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1157662521459474449",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月14日",
+    "pub_ts": 1768377710,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依国乐季#\n🎶天依游学记【歌行·国乐季】\n「笛子」设定&合作艺术家公开\n\n🍃清风吹笛的侠客\n取贾湖骨笛之“鹤”，承魏晋风度之雅\n以明月关山之间飘逸潇洒的侠客形象，诠释笛子吹开千年明月的清越无双\n\n🍃合作青年笛箫演奏家@罗萌笛箫 \n罗萌老师，毕业于中央音乐学院，现就职于北京民族乐团\n\n“千里江山寒色远，芦花深处泊孤舟，笛在月明楼。”\n循着这声高亢的笛音，缓缓拉开帷幕，和天依一起缓缓步入中华国乐的绵延长河吧~[蛇来运转表情包_洛天依-]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依国乐季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "\n🎶天依游学记【歌行·国乐季】\n「笛子」设定&合作艺术家公开\n\n🍃清风吹笛的侠客\n取贾湖骨笛之“鹤”，承魏晋风度之雅\n以明月关山之间飘逸潇洒的侠客形象，诠释笛子吹开千年明月的清越无双\n\n🍃合作青年笛箫演奏家"
+      },
+      {
+        "type": "mention",
+        "text": "@罗萌笛箫 ",
+        "mid": 242300584,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n罗萌老师，毕业于中央音乐学院，现就职于北京民族乐团\n\n“千里江山寒色远，芦花深处泊孤舟，笛在月明楼。”\n循着这声高亢的笛音，缓缓拉开帷幕，和天依一起缓缓步入中华国乐的绵延长河吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-14_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c06322b63080c0d9b37bfa4922ce132a36081646.png",
+        "width": 1666,
+        "height": 1878,
+        "size_kb": 4475.18994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/20beaf2d15b4b78270956553ce8e6fdc36081646.jpg",
+        "width": 1600,
+        "height": 4909,
+        "size_kb": 775.544921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-14_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c8efe6eca0cf449287775536dbffe2bc36081646.jpg",
+        "width": 9600,
+        "height": 5400,
+        "size_kb": 9211.7197265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-01-14_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1a69747ac01b516e193ab3d432dc7c3336081646.png",
+        "width": 3000,
+        "height": 1546,
+        "size_kb": 9444.16015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5852,
+    "comment": 278,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

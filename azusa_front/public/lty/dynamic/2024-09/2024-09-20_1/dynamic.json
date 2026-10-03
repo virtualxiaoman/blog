@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "979201124147920913",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/979201124147920913",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月20日",
+    "pub_ts": 1726826428,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "因相遇而欢喜，因别离而落寞，这就是人生呀~铭刻也好，忘却也好，还是要继续前行，永远都要记得要好好地爱自己呀！[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "因相遇而欢喜，因别离而落寞，这就是人生呀~铭刻也好，忘却也好，还是要继续前行，永远都要记得要好好地爱自己呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5684,
+    "comment": 158,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 968154807603822599,
+    "orig_mid": 352831167,
+    "deleted": false,
+    "archive_dir": "../../../352831167/2024-08/2024-08-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:19:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

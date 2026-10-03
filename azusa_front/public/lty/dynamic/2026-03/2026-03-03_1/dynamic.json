@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1175455016203321352",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1175455016203321352",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月3日",
+    "pub_ts": 1772520348,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家元宵快乐！国乐季「笛琴」主题曲《云弦鹤梦》也将在今晚的虚拟新春会和大家见面哦，不见不散呀~[乐鸣东方动态表情包_知音]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家元宵快乐！国乐季「笛琴」主题曲《云弦鹤梦》也将在今晚的虚拟新春会和大家见面哦，不见不散呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_知音]",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "name": "知音",
+        "url": "https://i0.hdslb.com/bfs/garb/75a559c572146d83bfc282b84a018ca1d6646a12.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/知音.gif",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "text": "[乐鸣东方动态表情包_知音]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4631,
+    "comment": 167,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 1175381417632202882,
+    "orig_mid": 671538942,
+    "deleted": false,
+    "archive_dir": "../../../671538942/2026-03/2026-03-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:19:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

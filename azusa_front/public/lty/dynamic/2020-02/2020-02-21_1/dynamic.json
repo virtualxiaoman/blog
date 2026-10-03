@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "358338497419001756",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/358338497419001756",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月21日",
+    "pub_ts": 1582270583,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一切都会好起来的！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一切都会好起来的！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6526,
+    "comment": 169,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 358020090023032649,
+    "orig_mid": 20165629,
+    "deleted": false,
+    "archive_dir": "../../../20165629/2020-02/2020-02-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

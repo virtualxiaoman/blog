@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "id": "1060889941865660418",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1060889941865660418",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月28日",
+    "pub_ts": 1745846088,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "“好饿好饿，我真的好饿~今天的夜宵要吃什么呢？”[洛天依9th_饿龙咆哮]\n🥟【天依美食家系列周边】上线啦！跟随天依尝遍特色美食吧~！[心律共鸣动态表情包_膨胀]\n\n🥟系列周边\n马口铁徽章套装\n护腕鼠标垫\n亚克力转转摆件\n坐姿立牌\n拉绳挂包\n\n🥟开售时间：4月30日\n\n🥟出货时间：7月\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“好饿好饿，我真的好饿~今天的夜宵要吃什么呢？”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_饿龙咆哮]",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "name": "饿龙咆哮",
+        "url": "http://i0.hdslb.com/bfs/emote/55df437e8613e117f4f4bbdac4f7e659ec6691f3.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🥟【天依美食家系列周边】上线啦！跟随天依尝遍特色美食吧~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_膨胀]",
+        "package_id": "5582",
+        "emoji_id": "81889",
+        "name": "膨胀",
+        "url": "https://i0.hdslb.com/bfs/emote/beaf2342fe922a528a4c6392dc2c45b1676921e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🥟系列周边\n马口铁徽章套装\n护腕鼠标垫\n亚克力转转摆件\n坐姿立牌\n拉绳挂包\n\n🥟开售时间：4月30日\n\n🥟出货时间：7月"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-28_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3f878d622d6a3ae7c416c2b8afa8459136081646.jpg",
+        "width": 2000,
+        "height": 3125,
+        "size_kb": 634.79296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-04-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a9009bb8250d2113a15b15fcb771fb9836081646.jpg",
+        "width": 1000,
+        "height": 8136,
+        "size_kb": 3574.4716796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-04-28_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1479f9085710ae9a3a1b6658abf667cd36081646.jpg",
+        "width": 2000,
+        "height": 2750,
+        "size_kb": 501.990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/饿龙咆哮.png",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "text": "[洛天依9th_饿龙咆哮]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/膨胀.gif",
+        "package_id": "5582",
+        "emoji_id": "81889",
+        "text": "[心律共鸣动态表情包_膨胀]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 天依美食家 周边吧唧徽章/挂包/立牌/鼠标垫/摆件无边色纸",
+            "price": "¥20",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/54/31/71e16a369b790668cdba463ff306c691.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12292629&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1060889941865660418",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-04-28_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4661,
+    "comment": 241,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

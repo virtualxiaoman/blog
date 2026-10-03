@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "id": "847124497497587748",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/847124497497587748",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月30日",
+    "pub_ts": 1696074942,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "天依这次来到新疆喀什巴楚博物馆啦！\r\n还遇到了两个特别可爱的粉丝宝宝，好开心——\r\n这场奔赴远方的游学之旅，天依希望带这份纪念去到更多更远的地方！[天依游学记_谢谢你]\r\n\r\n特别感谢：\r\n上海市对口支援新疆工作前方指挥部\r\n上海市对口支援新疆工作前方指挥部巴楚分指挥部\r\n中共新疆维吾尔自治区巴楚县委员会\r\n新疆维吾尔自治区巴楚县人民政府\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依这次来到新疆喀什巴楚博物馆啦！\r\n还遇到了两个特别可爱的粉丝宝宝，好开心——\r\n这场奔赴远方的游学之旅，天依希望带这份纪念去到更多更远的地方！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\r\n\r\n特别感谢：\r\n上海市对口支援新疆工作前方指挥部\r\n上海市对口支援新疆工作前方指挥部巴楚分指挥部\r\n中共新疆维吾尔自治区巴楚县委员会\r\n新疆维吾尔自治区巴楚县人民政府"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a2cc696803f5ebc5b8a4be8e0ad6f85d36081646.jpg",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 1594.16015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/58dce2ee20837624b0de20e61e35535036081646.jpg",
+        "width": 1702,
+        "height": 1276,
+        "size_kb": 238.0751953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-09-30_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/267e280fada90fabc2f22ea7b957d25436081646.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 1248.81640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-09-30_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/51de24d67cb68e52fc4fd047e28b449336081646.jpg",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 1255.21875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-09-30_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/112c22d6a4df32bd0b1037cef7f08fcb36081646.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 1233.462890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-09-30_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/206be28b9188de9780f011ca6e44a35d36081646.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 1150.1591796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-09-30_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a1d431176c3a80c05f184da2e62c257536081646.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 621.337890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-09-30_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f1f2881a08503770a2b0bb2aff44ac7636081646.jpg",
+        "width": 1702,
+        "height": 1276,
+        "size_kb": 309.9091796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-09-30_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/289f4432d296852ffe3c9a32d4867ab636081646.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 899.482421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7080,
+    "comment": 258,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

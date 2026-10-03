@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "677175270219710467",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/677175270219710467",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月29日",
+    "pub_ts": 1656505554,
+    "location": ""
+  },
+  "topic": {
+    "id": 9865,
+    "name": "Vsinger创作激励计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9865&topic_name=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#恍然已入盛夏~吃些什么消暑的食物好呢？[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "恍然已入盛夏~吃些什么消暑的食物好呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7867,
+    "comment": 275,
+    "forward": 67
+  },
+  "forward": {
+    "orig_id": 677161281525907465,
+    "orig_mid": 206634,
+    "deleted": false,
+    "archive_dir": "../../../206634/2022-06/2022-06-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:48:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "734223641527451699",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/734223641527451699",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月30日",
+    "pub_ts": 1669788163,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "\"我是洛天依，可以叫我洛。\"\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "\"我是洛天依，可以叫我洛。\""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-30_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f66a2473a27d4308121444168cb8b81736081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1922.699951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12054,
+    "comment": 686,
+    "forward": 112
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

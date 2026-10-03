@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "380303136268601751",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/380303136268601751",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月20日",
+    "pub_ts": 1587384624,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起和天依开始欧舒丹植愈之旅吧，另外别忘了复制评论区淘口令get定制音乐礼盒哦～",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起和天依开始欧舒丹植愈之旅吧，另外别忘了复制评论区淘口令get定制音乐礼盒哦～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7344,
+    "comment": 411,
+    "forward": 91
+  },
+  "forward": {
+    "orig_id": 380300168448280560,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2020-04/2020-04-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

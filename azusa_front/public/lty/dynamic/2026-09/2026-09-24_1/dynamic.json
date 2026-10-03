@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "1251484752739827717",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1251484752739827717",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月24日",
+    "pub_ts": 1790222400,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很高兴收到2026 超动感·音乐谷漫游音乐嘉年华的邀请，来到#上海音乐谷#~[洛天依14周年·四重奏_wink]\n这次天依准备了3首舞台，10月1日18:00‌，一起用音乐感受热爱和狂欢吧！@动感101 [洛天依14周年·四重奏_唱歌]\n#超动感漫游音乐嘉年华#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴收到2026 超动感·音乐谷漫游音乐嘉年华的邀请，来到"
+      },
+      {
+        "type": "topic",
+        "text": "#上海音乐谷#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7%E9%9F%B3%E4%B9%90%E8%B0%B7"
+      },
+      {
+        "type": "text",
+        "text": "~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n这次天依准备了3首舞台，10月1日18:00‌，一起用音乐感受热爱和狂欢吧！"
+      },
+      {
+        "type": "mention",
+        "text": "@动感101",
+        "mid": 4560187,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_唱歌]",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/cbff4881919473c2dc8622f50b6dfc59d10ac785.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#超动感漫游音乐嘉年华#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E5%8A%A8%E6%84%9F%E6%BC%AB%E6%B8%B8%E9%9F%B3%E4%B9%90%E5%98%89%E5%B9%B4%E5%8D%8E"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c1784d9c5c12a5f641450c08e24fff6436081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 501.287109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/唱歌.gif",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "text": "[洛天依14周年·四重奏_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4856,
+    "comment": 217,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

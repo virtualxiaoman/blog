@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "470437045066223675",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/470437045066223675",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月19日",
+    "pub_ts": 1608370560,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是新面孔[洛天依_goodjob]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是新面孔"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5356,
+    "comment": 162,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 468614600248264215,
+    "orig_mid": 433168976,
+    "deleted": false,
+    "archive_dir": "../../../433168976/2020-12/2020-12-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

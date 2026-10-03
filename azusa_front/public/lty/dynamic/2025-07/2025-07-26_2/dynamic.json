@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1093851801535381525",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1093851801535381525",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月26日",
+    "pub_ts": 1753520619,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "消费主张｜一场梦幻且极具冲击力的视听盛宴！中国虚拟歌手@洛天依 演唱会圆满落幕 衍生品与餐饮售卖也爆了！“票根经济”如何撬动文旅市场？",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1fW8tzvE2J",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/79b3c0612ec10470b81c5d718a9996f4c99926c1.jpg",
+      "cover_file": "../../_assets/covers/2025-07-26_2.jpg",
+      "bvid": "BV1fW8tzvE2J",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1fW8tzvE2J",
+        "aid": "114918376413170",
+        "cover": "http://i1.hdslb.com/bfs/archive/79b3c0612ec10470b81c5d718a9996f4c99926c1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1fW8tzvE2J",
+        "stat": {
+          "danmaku": "73",
+          "play": "26万",
+          "vt": ""
+        },
+        "duration_text": "02:39",
+        "title": "消费主张｜一场梦幻且极具冲击力的视听盛宴！中国虚拟歌手@洛天依 演唱会圆满落幕 衍生品与餐饮售卖也爆了！“票根经济”如何撬动文旅市场？",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12781,
+    "comment": 847,
+    "forward": 13
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

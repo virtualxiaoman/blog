@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "858599894198255633",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/858599894198255633",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月31日",
+    "pub_ts": 1698746766,
+    "location": ""
+  },
+  "topic": {
+    "id": 1112010,
+    "name": "万圣节狂欢",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1112010&topic_name=%E4%B8%87%E5%9C%A3%E8%8A%82%E7%8B%82%E6%AC%A2"
+  },
+  "content": {
+    "title": "",
+    "text": "万圣聚会已经开场，今晚的猎物锁定——\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "万圣聚会已经开场，今晚的猎物锁定——"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-31_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/bae47835f4b6510201191b6c00bfc2ba36081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 3306.60009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9709,
+    "comment": 366,
+    "forward": 136
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

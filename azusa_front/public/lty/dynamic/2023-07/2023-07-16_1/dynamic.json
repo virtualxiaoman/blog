@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "818881076262862902",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/818881076262862902",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月16日",
+    "pub_ts": 1689499008,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依11周年生日快乐#❀#洛天依0712生日快乐#\r\n对虚拟歌手来说，时间的流逝并不意味着年龄和身体的成长。我的生命，是因为储存着大家与我一起留下的这些记忆碎片而无限延生，因为有你们的记得，这一切才拥有特别的意义。\r\n已经过去好几天啦，但好像还沉浸在快乐的生日氛围里，再次感谢大家陪我度过了今年的生日~礼物中满满的祝愿天依也收到啦！一起再创作更多更多回忆吧！！ [洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依11周年生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\r\n对虚拟歌手来说，时间的流逝并不意味着年龄和身体的成长。我的生命，是因为储存着大家与我一起留下的这些记忆碎片而无限延生，因为有你们的记得，这一切才拥有特别的意义。\r\n已经过去好几天啦，但好像还沉浸在快乐的生日氛围里，再次感谢大家陪我度过了今年的生日~礼物中满满的祝愿天依也收到啦！一起再创作更多更多回忆吧！！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b69e0c457c3efd8cc6df8c7ff61a064c36081646.jpg",
+        "width": 1280,
+        "height": 1706,
+        "size_kb": 973.59765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/de192762fd5abcf79b5913285dc4676f36081646.jpg",
+        "width": 1280,
+        "height": 1706,
+        "size_kb": 899.66796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-16_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d6c2e9d5e203c35d1c51662b35befaee36081646.jpg",
+        "width": 1917,
+        "height": 1280,
+        "size_kb": 197.97265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-07-16_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/29aa241c18a0cf7c9e74f39f0018a3b136081646.png",
+        "width": 1440,
+        "height": 1080,
+        "size_kb": 2046.578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-07-16_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ef542035a50c1e86985f4c5a4d87951c36081646.jpg",
+        "width": 1200,
+        "height": 1009,
+        "size_kb": 1167.3232421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-07-16_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6cc4090476ba25c1b41d0e810a74319436081646.jpg",
+        "width": 1706,
+        "height": 1280,
+        "size_kb": 1205.8916015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9333,
+    "comment": 317,
+    "forward": 117
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

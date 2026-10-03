@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "644107037054074885",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/644107037054074885",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月1日",
+    "pub_ts": 1648806256,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#Vsinger# #愚人节#快乐~大家的猜测都非常有趣哦。[tv_微笑]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#愚人节#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%84%9A%E4%BA%BA%E8%8A%82"
+      },
+      {
+        "type": "text",
+        "text": "快乐~大家的猜测都非常有趣哦。"
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_微笑]",
+        "package_id": "2",
+        "emoji_id": "45",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/emote/b98656855d782f61cb8edc7f7fca6563ecafff7e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-01_11.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/562c58d90f1667b6cc1b7dc4a18f1d2d8eda7863.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 109.12999725341797,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2/微笑.gif",
+        "package_id": "2",
+        "emoji_id": "45",
+        "text": "[tv_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9165,
+    "comment": 358,
+    "forward": 45
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

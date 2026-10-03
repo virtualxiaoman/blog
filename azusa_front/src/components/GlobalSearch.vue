@@ -45,6 +45,7 @@ import { useRoute, useRouter } from 'vue-router';
 import { searchAll, type SearchType } from '../search-index';
 import { searchContent, type ContentSearchResult } from '../content-search';
 import { scrollToElementStable } from '../utils/stableScroll';
+import { DYN_SEARCH_EVENT } from '../views/Luotianyi/dynamics-data';
 
 const route = useRoute();
 const router = useRouter();
@@ -145,6 +146,12 @@ function toggle() {
 function onGlobalKeydown(e: KeyboardEvent) {
   if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
     e.preventDefault();
+    // 洛天依页"动态"板块：Ctrl+K 改为搜索动态（由 DynamicSearchOverlay 监听处理）
+    if (route.path === '/lty' && route.query.tab === 'dynamic') {
+      if (open.value) close();
+      window.dispatchEvent(new CustomEvent(DYN_SEARCH_EVENT));
+      return;
+    }
     toggle();
   }
 }

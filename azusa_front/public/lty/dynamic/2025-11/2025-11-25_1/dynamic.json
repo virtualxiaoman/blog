@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "id": "1139155537459412994",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1139155537459412994",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月25日",
+    "pub_ts": 1764068717,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依「无限共鸣·流光协奏」全息巡回演唱会\n「武汉站」将于11月28日正式开启售票啦！[洛天依动态流光协奏_打call]\n「武汉·托帕石」城市特别视觉海报&售票资讯公开~\n转发关注天依，揪1位小伙伴送出【VVIP档】门票1张！[洛天依动态流光协奏_捧花]\n※购票地址\n-大麦\n-会员购网页链接 \n\n🎶演出时间\n12月27日 19:12\n🎶演出场地\n武汉国际博览中心\n🎶购票时间\n-【优先购票】11月28日 18:00\n-【正式开售】11月28日 19:00\n\n聚光灯舞台中央，给予我你所有的目光，我是在你的注视和灌养下，理所应当最闪耀的存在。\n来吧来吧，与我一同歌唱。[逆转童话_结婚]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "388329",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会\n「武汉站」将于11月28日正式开启售票啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n「武汉·托帕石」城市特别视觉海报&售票资讯公开~\n转发关注天依，揪1位小伙伴送出【VVIP档】门票1张！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n※购票地址\n-大麦\n-会员购"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=110561"
+      },
+      {
+        "type": "text",
+        "text": " \n\n🎶演出时间\n12月27日 19:12\n🎶演出场地\n武汉国际博览中心\n🎶购票时间\n-【优先购票】11月28日 18:00\n-【正式开售】11月28日 19:00\n\n聚光灯舞台中央，给予我你所有的目光，我是在你的注视和灌养下，理所应当最闪耀的存在。\n来吧来吧，与我一同歌唱。"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_结婚]",
+        "package_id": "8745",
+        "emoji_id": "121374",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/3fc09753896b9bf8f56f9c26dea40afc62fdae76.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-25_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/15038988bc4576ac0d7ea903a9d48f9336081646.png",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 16950.5703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-11-25_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/330b9087c5d7c2a3250fa90d74c56aec36081646.jpg",
+        "width": 1080,
+        "height": 9615,
+        "size_kb": 5719.77001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8745/结婚.png",
+        "package_id": "8745",
+        "emoji_id": "121374",
+        "text": "[逆转童话_结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "武汉· 2025洛天依《无限共鸣·流光协奏》全息巡回演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202511/4IRUpwSl1764052981121.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=110561&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1139155537459412994",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-11-25_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "388329"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6463,
+    "comment": 1243,
+    "forward": 7407
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

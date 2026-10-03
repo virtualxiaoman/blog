@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "873756661979807748",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/873756661979807748",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月11日",
+    "pub_ts": 1702275726,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "典藏卡【山海雪鸮】解锁啦，参与的小伙伴记得兑换哦[洛天依蝶变_星星眼]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "典藏卡【山海雪鸮】解锁啦，参与的小伙伴记得兑换哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3019,
+    "comment": 82,
+    "forward": 11
+  },
+  "forward": {
+    "orig_id": 873743167188369429,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-12/2023-12-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

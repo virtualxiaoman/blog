@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "id": "994828774973374466",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/994828774973374466",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1730465024,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖🌊 洛天依海洋之心主题曲《潮声回响》BV1ivSiYbENA现已发布，系列周边预售也开启啦！\n转发关注天依，随机抽选3位小伙伴送出【系列全套透卡】1份~[代号洛天依_比心]\n\n“从海的边界启程，用歌声引领你探索无垠的深海风景。\n在聆听故事与感受歌声之后，你也许想带走这些来自深海的特别纪念。\n关于这片海洋的故事，有大家的期待，一定还会有新的篇章待你再度翻开。”[代号洛天依_乖巧]\n\n🎊 预售新品\n-反光徽章、合拍透卡、反光色纸、「海洋精灵」立牌\n\n💫 入手方式：bilibili会员购、Vsinger旗舰店\n\n🎁特典：购买周边满¥49可赠【特典明信片】一份\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "325862",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "🌊 洛天依海洋之心主题曲《潮声回响》BV1ivSiYbENA现已发布，系列周边预售也开启啦！\n转发关注天依，随机抽选3位小伙伴送出【系列全套透卡】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“从海的边界启程，用歌声引领你探索无垠的深海风景。\n在聆听故事与感受歌声之后，你也许想带走这些来自深海的特别纪念。\n关于这片海洋的故事，有大家的期待，一定还会有新的篇章待你再度翻开。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_乖巧]",
+        "package_id": "1842",
+        "emoji_id": "32134",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/emote/0a8923fdeb32995953402c97450dd091e6a94bd2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎊 预售新品\n-反光徽章、合拍透卡、反光色纸、「海洋精灵」立牌\n\n💫 入手方式：bilibili会员购、Vsinger旗舰店\n\n🎁特典：购买周边满¥49可赠【特典明信片】一份"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8df3eea73ed11ed0a7f5586e23cafddf36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 131.66000366210938,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-11-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/35753320aa875a2a56f434ca6b02c5fc36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 144.3699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-11-01_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7ebbf755000a4305feca8f2737b7e9c036081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 160.1999969482422,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-11-01_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cedf11c15799f42de0e3c3c90cb1a8ee36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 161.44000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-11-01_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/aa07c16b15d796a3aaff0980d2bf600836081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 199.8699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-11-01_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/413c910be290d96d4ed6dd9376eb8d0a36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 129.13999938964844,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-11-01_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/959bc25816b6e8a567c669c9c76fbeaa36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 115.18000030517578,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-11-01_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cf39e420aeefd30c9b5dc3200c968b7436081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 136.0399932861328,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-11-01_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/13979d3e7992cfb1e3b02f2b1ca58ac836081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 128.85000610351562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/乖巧.png",
+        "package_id": "1842",
+        "emoji_id": "32134",
+        "text": "[代号洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "325862"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

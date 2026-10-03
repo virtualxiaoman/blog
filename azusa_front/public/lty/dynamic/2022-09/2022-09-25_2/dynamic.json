@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "709816514895675400",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/709816514895675400",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月25日",
+    "pub_ts": 1664105436,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#在所有女同学里，我加油最卖力[洛天依_冲鸭]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "在所有女同学里，我加油最卖力"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6975,
+    "comment": 160,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 706601229349814280,
+    "orig_mid": 1347859452,
+    "deleted": false,
+    "archive_dir": "../../../1347859452/2022-09/2022-09-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

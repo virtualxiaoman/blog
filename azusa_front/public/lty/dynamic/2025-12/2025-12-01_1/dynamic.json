@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "1141368575207931909",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1141368575207931909",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月1日",
+    "pub_ts": 1764583980,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依完美劲敌#\n「人格镜像」第一季「完美劲敌」VOL.2「异途」\n原初神祇「The Selene真理」&「The Mars自由」档案情报公开[逆转童话_驾到]\n\n“一个相信真理能拯救世界，一个相信行动才是答案\n她们从不在同一条轨道上，却总能在命运的交点擦出光。”\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依完美劲敌#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%AE%8C%E7%BE%8E%E5%8A%B2%E6%95%8C"
+      },
+      {
+        "type": "text",
+        "text": "\n「人格镜像」第一季「完美劲敌」VOL.2「异途」\n原初神祇「The Selene真理」&「The Mars自由」档案情报公开"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_驾到]",
+        "package_id": "8745",
+        "emoji_id": "121371",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/98ff458c9aea0e37181b4558978de0ae6d8fcc42.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“一个相信真理能拯救世界，一个相信行动才是答案\n她们从不在同一条轨道上，却总能在命运的交点擦出光。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b33f948f8e014dab80e417361ca7b0f836081646.png",
+        "width": 7462,
+        "height": 4198,
+        "size_kb": 11684.0498046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-01_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d1b928d4c5a57552bb42a0cd38b5e9bd36081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2725.3701171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8745/驾到.png",
+        "package_id": "8745",
+        "emoji_id": "121371",
+        "text": "[逆转童话_驾到]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4795,
+    "comment": 270,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

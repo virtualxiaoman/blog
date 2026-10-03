@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "id": "948315833937952773",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/948315833937952773",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月29日",
+    "pub_ts": 1719635386,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，【洛天依收藏集——再生】正式开启。\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份～[洛天依·收藏集表情包_感谢]\n\n🔹卡池收录：全新插画动态数字音乐卡、特色音乐卡、精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、专属表情包、专属动态个性主题\n🔹传送门：网页链接\n\n以百变形态之翼，诠释虚拟生命的无限再生。\n这次的表情包大家最喜欢……？[洛天依·收藏集表情包_盯]\n[洛天依·收藏集表情包_想要][洛天依·收藏集表情包_优雅][洛天依·收藏集表情包_来喽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，【洛天依收藏集——再生】正式开启。\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_感谢]",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "name": "感谢",
+        "url": "https://i0.hdslb.com/bfs/garb/db7b6624aa87616d6a828faa9300c8ace0fa66aa.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹卡池收录：全新插画动态数字音乐卡、特色音乐卡、精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、专属表情包、专属动态个性主题\n🔹传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=102551"
+      },
+      {
+        "type": "text",
+        "text": "\n\n以百变形态之翼，诠释虚拟生命的无限再生。\n这次的表情包大家最喜欢……？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_盯]",
+        "package_id": "5283",
+        "emoji_id": "77191",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/c111d108c592624ad8e79067d8fe71ad551d3856.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_想要]",
+        "package_id": "5283",
+        "emoji_id": "77204",
+        "name": "想要",
+        "url": "https://i0.hdslb.com/bfs/garb/247cf69ee8cc4090a515d1d63ff6348bd2902e3e.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_优雅]",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "name": "优雅",
+        "url": "https://i0.hdslb.com/bfs/garb/3cec4f187f80d79b6b621adfff8f7b3c557276f1.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_来喽]",
+        "package_id": "5283",
+        "emoji_id": "77198",
+        "name": "来喽",
+        "url": "https://i0.hdslb.com/bfs/garb/ee24e5c372ec71504ff0122980e1244a79ecc3de.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8239ff6de34699008a0e8c4519563f4e36081646.jpg",
+        "width": 1125,
+        "height": 7370,
+        "size_kb": 6864.81982421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/感谢.png",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "text": "[洛天依·收藏集表情包_感谢]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/盯.png",
+        "package_id": "5283",
+        "emoji_id": "77191",
+        "text": "[洛天依·收藏集表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/想要.png",
+        "package_id": "5283",
+        "emoji_id": "77204",
+        "text": "[洛天依·收藏集表情包_想要]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/优雅.png",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "text": "[洛天依·收藏集表情包_优雅]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/来喽.png",
+        "package_id": "5283",
+        "emoji_id": "77198",
+        "text": "[洛天依·收藏集表情包_来喽]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/97f05377bc598fcddd793c6cc32d2d1333dbf724.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=0&rebate=647193094&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2024-06-29_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6544,
+    "comment": 2175,
+    "forward": 4330
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

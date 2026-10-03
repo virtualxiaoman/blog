@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1234529057224261640",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1234529057224261640",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月9日",
+    "pub_ts": 1786274595,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "难道说…人 是 猫 ？",
+      "desc": "和天依一起变猫咪！\n一起支持@张卡斯  老师非常可爱的这首歌吧！\n\nBGM：张卡斯 《人是猫》BV1Bfjq6LEDi",
+      "jump_url": "https://www.bilibili.com/video/BV1jZu26pE4J",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/4246993d46fbdbce8154697103fc7580ca51203c.jpg",
+      "cover_file": "../../_assets/covers/2026-08-09_1.jpg",
+      "bvid": "BV1jZu26pE4J",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1jZu26pE4J",
+        "aid": "117065272854748",
+        "cover": "http://i2.hdslb.com/bfs/archive/4246993d46fbdbce8154697103fc7580ca51203c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1jZu26pE4J",
+        "stat": {
+          "danmaku": "1075",
+          "play": "102.1万",
+          "vt": ""
+        },
+        "duration_text": "00:52",
+        "title": "难道说…人 是 猫 ？",
+        "desc": "和天依一起变猫咪！\n一起支持@张卡斯  老师非常可爱的这首歌吧！\n\nBGM：张卡斯 《人是猫》BV1Bfjq6LEDi",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 264302,
+    "comment": 4395,
+    "forward": 290
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "688641617311039494",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/688641617311039494",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月30日",
+    "pub_ts": 1659175271,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "诸位江湖朋友，此次盛夏对战武林大会已到了最后的决胜阶段。 到底哪方会取得最后的胜利，诸位在网页链接投出关键的一票后，可在本客栈取对应口味的茶点歇息一番哦~[洛天依_饿龙咆哮] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "诸位江湖朋友，此次盛夏对战武林大会已到了最后的决胜阶段。 到底哪方会取得最后的胜利，诸位在"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/2022Vsinger02.html"
+      },
+      {
+        "type": "text",
+        "text": "投出关键的一票后，可在本客栈取对应口味的茶点歇息一番哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_饿龙咆哮]",
+        "package_id": "340",
+        "emoji_id": "7260",
+        "name": "饿龙咆哮",
+        "url": "http://i0.hdslb.com/bfs/emote/c907052abf2aec46c04183e6e8e992341c64d25e.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-30_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/47e31fbf7ca7bf695a446b3b63780e1b36081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 1175.9300537109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/饿龙咆哮.png",
+        "package_id": "340",
+        "emoji_id": "7260",
+        "text": "[洛天依_饿龙咆哮]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13511,
+    "comment": 517,
+    "forward": 200
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

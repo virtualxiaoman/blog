@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "id": "1081963714303754242",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1081963714303754242",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月24日",
+    "pub_ts": 1750752708,
+    "location": ""
+  },
+  "topic": {
+    "id": 1312840,
+    "name": "BILIBILI16周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1312840&topic_name=BILIBILI16%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "B站16周年庆马上就要到啦！天依在bilibili和大家一起留下了太多太多的回忆~[心律共鸣动态表情包_真好]\n这次，天依也会来到周年庆的直播间现场，为大家带来表演哦！\n就在6月26日晚19:00，欢迎大家预约直播\n一起祝bilibili 16周年快乐吧！[心律共鸣动态表情包_好厉害]\n详情请戳>>网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "B站16周年庆马上就要到啦！天依在bilibili和大家一起留下了太多太多的回忆~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n这次，天依也会来到周年庆的直播间现场，为大家带来表演哦！\n就在6月26日晚19:00，欢迎大家预约直播\n一起祝bilibili 16周年快乐吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n详情请戳>>"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/anniversary-16"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-24_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/42e19d55358661403c3532d3bc81dff936081646.png",
+        "width": 1080,
+        "height": 2005,
+        "size_kb": 1736.9033203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-24_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6ab9dd71123e11265891a49b605f059e36081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1403.1669921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/好厉害.gif",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "text": "[心律共鸣动态表情包_好厉害]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：哔哩哔哩16周年庆",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：哔哩哔哩16周年庆",
+        "desc1": {
+          "text": "2025-06-26 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "15.3万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：小电视抱枕*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4758708&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4758708,
+        "reserve_total": 153011,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "8047632"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4049,
+    "comment": 145,
+    "forward": 41
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

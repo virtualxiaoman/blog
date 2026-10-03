@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "560261806409361761",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/560261806409361761",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月18日",
+    "pub_ts": 1629284517,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依九周年# #2021虚拟歌手创作赛# 度过无数相伴的时光，唱着你们给予的歌谣，天依也希望能够为你们做些什么୧(๑•̀⌄•́๑)૭ 无论是为困倦的你泡一杯美味的咖啡，还是跟随旋律一遍一遍试唱，又或者找到不慎滚到桌底的画笔……天依会尽全力协助各位创作者~ 输入指令吧，Master！还有什么希望天依做的事，可以写在评论区哦 [洛天依9th_一起唱]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": " 度过无数相伴的时光，唱着你们给予的歌谣，天依也希望能够为你们做些什么୧(๑•̀⌄•́๑)૭ 无论是为困倦的你泡一杯美味的咖啡，还是跟随旋律一遍一遍试唱，又或者找到不慎滚到桌底的画笔……天依会尽全力协助各位创作者~ 输入指令吧，Master！还有什么希望天依做的事，可以写在评论区哦 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-08-18_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/de3ed54e4cd89b71296bc8eeb0dffab47e7de121.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 742.8369140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-08-18_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3010cc548716a018df7759e49cc65f51e2937228.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 518.5703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-08-18_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/583f118e1d4218d06c6a45fec8bed66e6719e234.jpg",
+        "width": 1000,
+        "height": 961,
+        "size_kb": 627.81640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-08-18_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5d5546e6843dd25bf5c9c6128a7c7ceb9e528f8d.jpg",
+        "width": 1000,
+        "height": 962,
+        "size_kb": 594.0947265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9313,
+    "comment": 823,
+    "forward": 174
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:34:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

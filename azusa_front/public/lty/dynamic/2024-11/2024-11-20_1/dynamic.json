@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "1001865490487836710",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/1001865490487836710",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月20日",
+    "pub_ts": 1732103387,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "大家大家！要不要来玩天依の换装小游戏！\n来给天依搭配出行LOOK吧~[洛天依-潮声回响_祝贺]\n\n游戏结束！快来看看大家给天依的搭配吧~\n大家为天依选择了一件66ccff天蓝色的旗袍\n搭配白色长袜和高跟鞋，黑色墨镜和大金链子[洛天依-潮声回响_大脑空空]\n\n那么...天依会去准备哒...？[洛天依-潮声回响_天依来喽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家大家！要不要来玩天依の换装小游戏！\n来给天依搭配出行LOOK吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n游戏结束！快来看看大家给天依的搭配吧~\n大家为天依选择了一件66ccff天蓝色的旗袍\n搭配白色长袜和高跟鞋，黑色墨镜和大金链子"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_大脑空空]",
+        "package_id": "7109",
+        "emoji_id": "94955",
+        "name": "大脑空空",
+        "url": "https://i0.hdslb.com/bfs/garb/282b22bcb2f2157164e6bcdeb262284b24ad712b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n那么...天依会去准备哒...？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_天依来喽]",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "name": "天依来喽",
+        "url": "https://i0.hdslb.com/bfs/garb/599551701d532db2c99d0824297d51b066a6cc59.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/大脑空空.png",
+        "package_id": "7109",
+        "emoji_id": "94955",
+        "text": "[洛天依-潮声回响_大脑空空]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/天依来喽.png",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "text": "[洛天依-潮声回响_天依来喽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6074,
+    "comment": 1157,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

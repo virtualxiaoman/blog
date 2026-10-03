@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "625152543141577868",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/625152543141577868",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月9日",
+    "pub_ts": 1644393069,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#是不是时常也会畅想，如果时间可以倒退，自己会做出怎样不一样的选择呢？",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "是不是时常也会畅想，如果时间可以倒退，自己会做出怎样不一样的选择呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6822,
+    "comment": 195,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 624076378950465613,
+    "orig_mid": 4037580,
+    "deleted": false,
+    "archive_dir": "../../../4037580/2022-02/2022-02-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:41:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

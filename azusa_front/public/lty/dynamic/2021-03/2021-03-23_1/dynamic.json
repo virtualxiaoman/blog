@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "505345517041905050",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/505345517041905050",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月23日",
+    "pub_ts": 1616498322,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "入夜了，星星都出来了……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "入夜了，星星都出来了……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6306,
+    "comment": 189,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 5652426071118207,
+    "orig_mid": 347773,
+    "deleted": false,
+    "archive_dir": "../../../347773/2013-02/2013-02-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

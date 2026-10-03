@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "545667563368124427",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/545667563368124427",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月10日",
+    "pub_ts": 1625886530,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#音乐现场# #现场# #演唱会# #BML# #BML2021# #音乐# #LIVE# #BML-VR2021# #洛天依#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#音乐现场#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#现场#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML#",
+        "url": "https://search.bilibili.com/all?keyword=BML"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML2021"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#音乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#LIVE#",
+        "url": "https://search.bilibili.com/all?keyword=LIVE"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML-VR2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML-VR2021"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依开场，《万分之一的光》《香草茶与黑咖啡》《安娜的橱窗》三首联唱",
+      "desc": "时隔两年，BML-VR再度开唱",
+      "jump_url": "https://www.bilibili.com/video/BV1xo4y1X7TA",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/31b86d3ae67dba21a873aa3f56261eed7abad1b8.jpg",
+      "cover_file": "../../_assets/covers/2021-07-10_3.jpg",
+      "bvid": "BV1xo4y1X7TA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1xo4y1X7TA",
+        "aid": "376601918",
+        "cover": "http://i0.hdslb.com/bfs/archive/31b86d3ae67dba21a873aa3f56261eed7abad1b8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xo4y1X7TA",
+        "stat": {
+          "danmaku": "3986",
+          "play": "47.7万",
+          "vt": ""
+        },
+        "duration_text": "12:59",
+        "title": "天依开场，《万分之一的光》《香草茶与黑咖啡》《安娜的橱窗》三首联唱",
+        "desc": "时隔两年，BML-VR再度开唱",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28975,
+    "comment": 1450,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "327188912100662251",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/327188912100662251",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年11月29日",
+    "pub_ts": 1575018005,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 小伙伴们喜欢吃火锅吗？人多一起吃幸福感会加倍哦\\(*O▽O*)/ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 小伙伴们喜欢吃火锅吗？人多一起吃幸福感会加倍哦\\(*O▽O*)/ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-11-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8ce39750b5f5be53576af39277f52eeb5180603d.jpg",
+        "width": 3507,
+        "height": 2480,
+        "size_kb": 801.275390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9696,
+    "comment": 607,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

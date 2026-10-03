@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1028452776898723848",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1028452776898723848",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月31日",
+    "pub_ts": 1738293722,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@评论区更精彩@小蔡蔡love@An夜星辰中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@评论区更精彩",
+        "mid": 374191667,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@小蔡蔡love",
+        "mid": 3461564973714023,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@An夜星辰",
+        "mid": 515033501,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4377,
+    "comment": 143,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 1017320754192056321,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-01-01_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:27:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

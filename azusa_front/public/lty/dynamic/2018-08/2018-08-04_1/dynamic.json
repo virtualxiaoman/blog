@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "148288504718604128",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/148288504718604128",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年8月4日",
+    "pub_ts": 1533364508,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "此次天依作为必胜学院美味制作人尝试了全新的曲风，喜欢的小伙伴们快来为我应援吧！依呼百应，元气必胜！\n《必胜的旅途》\n演唱：洛天依\n作词：阿良良木健\n作曲：小峰尚哉\n编曲：FIREWORKS\n制作：Kohei Yasuda\n吉他：吉長良介＆林\"カルロス\"隆治\n调教：动点P\n设定：TID\n人物模型：Kinsama\n场景模型：Yoyo\n动作：曦歪（CY）\n分镜：永远赤红的幼月、曦歪CY\n渲染：Li漫研部后期：LieP9、曦歪（CY）",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "此次天依作为必胜学院美味制作人尝试了全新的曲风，喜欢的小伙伴们快来为我应援吧！依呼百应，元气必胜！\n《必胜的旅途》\n演唱：洛天依\n作词：阿良良木健\n作曲：小峰尚哉\n编曲：FIREWORKS\n制作：Kohei Yasuda\n吉他：吉長良介＆林\"カルロス\"隆治\n调教：动点P\n设定：TID\n人物模型：Kinsama\n场景模型：Yoyo\n动作：曦歪（CY）\n分镜：永远赤红的幼月、曦歪CY\n渲染：Li"
+      },
+      {
+        "type": "unknown",
+        "text": "漫研部",
+        "url": "https://www.bilibili.com/bangumi/play/ep9",
+        "node_type": "RICH_TEXT_NODE_TYPE_OGV_EP"
+      },
+      {
+        "type": "text",
+        "text": "后期：LieP9、曦歪（CY）"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&必胜客】必胜的旅途",
+      "desc": "此次天依作为必胜学院美味制作人尝试了全新的曲风，喜欢的小伙伴们快来为我应援吧！依呼百应，元气必胜！\n《必胜的旅途》\n演唱：洛天依\n作词：阿良良木健\n作曲：小峰尚哉\n编曲：FIREWORKS\n制作：Kohei Yasuda\n吉他：吉長良介＆林\"カルロス\"隆治\n调教：动点P\n设定：TID\n人物模型：Kinsama\n场景模型：Yoyo\n动作：曦歪（CY）\n分镜：永远赤红的幼月、曦歪CY\n渲染：LieP9\n后期：LieP9、曦歪（CY）",
+      "jump_url": "https://www.bilibili.com/video/BV1Rs41137rQ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/27bcba5223ec977510086da696120523aaf5b53d.jpg",
+      "cover_file": "../../_assets/covers/2018-08-04_1.jpg",
+      "bvid": "BV1Rs41137rQ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Rs41137rQ",
+        "aid": "28483381",
+        "cover": "http://i1.hdslb.com/bfs/archive/27bcba5223ec977510086da696120523aaf5b53d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Rs41137rQ",
+        "stat": {
+          "danmaku": "1996",
+          "play": "24.4万",
+          "vt": ""
+        },
+        "duration_text": "01:59",
+        "title": "【洛天依&必胜客】必胜的旅途",
+        "desc": "此次天依作为必胜学院美味制作人尝试了全新的曲风，喜欢的小伙伴们快来为我应援吧！依呼百应，元气必胜！\n《必胜的旅途》\n演唱：洛天依\n作词：阿良良木健\n作曲：小峰尚哉\n编曲：FIREWORKS\n制作：Kohei Yasuda\n吉他：吉長良介＆林\"カルロス\"隆治\n调教：动点P\n设定：TID\n人物模型：Kinsama\n场景模型：Yoyo\n动作：曦歪（CY）\n分镜：永远赤红的幼月、曦歪CY\n渲染：LieP9\n后期：LieP9、曦歪（CY）",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15922,
+    "comment": 4178,
+    "forward": 120
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1174677575609352198",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1174677575609352198",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月1日",
+    "pub_ts": 1772339336,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "日历又翻过新的一页，和大家在一起的每一天都好开心！大家会带天依一起解锁什么新的回忆呢？[洛天依拜年纪动态表情包_喜欢]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "日历又翻过新的一页，和大家在一起的每一天都好开心！大家会带天依一起解锁什么新的回忆呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_喜欢]",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/5a250c2b1c4d4fb0597bf02da1baa32bf80a5370.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/喜欢.gif",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "text": "[洛天依拜年纪动态表情包_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4668,
+    "comment": 175,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 1174670121655861255,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-03/2026-03-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:18:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

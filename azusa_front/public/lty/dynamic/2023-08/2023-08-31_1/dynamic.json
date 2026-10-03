@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "id": "835978249902227496",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/835978249902227496",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月31日",
+    "pub_ts": 1693479754,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依游学记#\n集民族乐器之袅袅清音，集民乐艺术家之精湛技艺\n\n✦青年藏族音乐演奏家·旦增益西\n✦蒙古族青年音乐人·哈拉木吉\n✦国内世界顶级音乐乐团HAYA乐团的主要成员，新疆哈萨克族冬不拉青年演奏家 穆热阿勒·比目拉提\n✦新疆维吾尔族手鼓青年演奏家 依克拉姆·外力\n✦新疆维吾尔族热瓦普青年演奏家 努日亚·阿不力米提\n✦中央民族乐团吹管乐演奏家·丁晓逵\n\n9月1日12:00，《天依游学记·歌行》主题单曲《歌行四方》\n南来北往，天地四方，我们一同歌唱！[天依游学记_谢谢你]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n集民族乐器之袅袅清音，集民乐艺术家之精湛技艺\n\n✦青年藏族音乐演奏家·旦增益西\n✦蒙古族青年音乐人·哈拉木吉\n✦国内世界顶级音乐乐团HAYA乐团的主要成员，新疆哈萨克族冬不拉青年演奏家 穆热阿勒·比目拉提\n✦新疆维吾尔族手鼓青年演奏家 依克拉姆·外力\n✦新疆维吾尔族热瓦普青年演奏家 努日亚·阿不力米提\n✦中央民族乐团吹管乐演奏家·丁晓逵\n\n9月1日12:00，《天依游学记·歌行》主题单曲《歌行四方》\n南来北往，天地四方，我们一同歌唱！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-31_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/e39b9484b969cc6ff8a6f61699f7a41836081646.jpg",
+        "width": 6000,
+        "height": 1080,
+        "size_kb": 5828.009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：天依游学记单曲《歌行四方》",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Yp4y1j7jX",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：天依游学记单曲《歌行四方》",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "512.9万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Yp4y1j7jX",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Yp4y1j7jX",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3137454,
+        "reserve_total": 2624,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4401,
+    "comment": 85,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

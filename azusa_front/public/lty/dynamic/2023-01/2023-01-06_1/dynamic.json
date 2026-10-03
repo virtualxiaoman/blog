@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "747956112273178709",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/747956112273178709",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月6日",
+    "pub_ts": 1672985503,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2022B站跨晚# 五个舞台四种声音！这次洛天依的话筒交给你，一起来打造美妙音符~",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2022B站跨晚#",
+        "url": "https://search.bilibili.com/all?keyword=2022B%E7%AB%99%E8%B7%A8%E6%99%9A"
+      },
+      {
+        "type": "text",
+        "text": " 五个舞台四种声音！这次洛天依的话筒交给你，一起来打造美妙音符~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【指尖换音】跨次元穿梭！洛天依多重演绎《你予我的音符》【2022 B站跨年晚会单品】",
+      "desc": "2022最美的夜",
+      "jump_url": "https://www.bilibili.com/video/BV1iM411y7jK",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f9cd21ac439fe688020d685bad7fb11292cf8d95.png",
+      "cover_file": "../../_assets/covers/2023-01-06_1.png",
+      "bvid": "BV1iM411y7jK",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1iM411y7jK",
+        "aid": "522066193",
+        "cover": "http://i0.hdslb.com/bfs/archive/f9cd21ac439fe688020d685bad7fb11292cf8d95.png",
+        "jump_url": "//www.bilibili.com/video/BV1iM411y7jK",
+        "stat": {
+          "danmaku": "3.4万",
+          "play": "143.3万",
+          "vt": ""
+        },
+        "duration_text": "10:29",
+        "title": "【指尖换音】跨次元穿梭！洛天依多重演绎《你予我的音符》【2022 B站跨年晚会单品】",
+        "desc": "2022最美的夜",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2022最美的夜 bilibili晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss44003",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/c0986c8ae9e549a771963c619280b1cf305de7ec.png",
+      "cover_file": "../../_assets/covers/2023-01-06_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss44003",
+        "id_str": "522066193",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/c0986c8ae9e549a771963c619280b1cf305de7ec.png",
+        "style": 2,
+        "title": "2022最美的夜 bilibili晚会",
+        "desc1": "bilibili出品 已完结, 全3集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 38095,
+    "comment": 3411,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

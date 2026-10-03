@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "977393922190868488",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/977393922190868488",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月15日",
+    "pub_ts": 1726405656,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“地球上天空下，我们做一对傻瓜” 🎵",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“地球上天空下，我们做一对傻瓜” 🎵"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“地球上天空下 我们做一对傻瓜” | 洛天依《蝴蝶》【冰火歌会2024漫游季】",
+      "desc": "拼了命破茧的蝴蝶，或许也没有获得耀眼美丽的鳞片，\n被风雨揉碎的双翼，或许无法反抗重力的锁链。\n但没关系，即使大雨倾洒、世界崩塌，\n我也会和你一起奔向原野与晚霞。\n\n《蝴蝶》\n作词 ：温莨\n作曲 ：瞿子千\n编曲 ： 瞿子千\n调声 ：哈士奇P\n弦乐编写：王茂盛\n吉他：瞿子千\n和声 ：瞿子千\n弦乐 ：国际首席爱乐乐团\n钢琴改编：Eileen Shan Zou\n音频编辑：祝非凡@万物和声\n混音：刘振东@万物和声\n母带：全相彦\n制作人：瞿子千\n导演：tàtà\n音乐监制：TENKO",
+      "jump_url": "https://www.bilibili.com/video/BV1A14Se6EHy",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c4fc75c20e952587075c9d7484f3dc630dc8b424.jpg",
+      "cover_file": "../../_assets/covers/2024-09-15_1.jpg",
+      "bvid": "BV1A14Se6EHy",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1A14Se6EHy",
+        "aid": "113141702789354",
+        "cover": "http://i1.hdslb.com/bfs/archive/c4fc75c20e952587075c9d7484f3dc630dc8b424.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1A14Se6EHy",
+        "stat": {
+          "danmaku": "1.2万",
+          "play": "290万",
+          "vt": ""
+        },
+        "duration_text": "03:40",
+        "title": "“地球上天空下 我们做一对傻瓜” | 洛天依《蝴蝶》【冰火歌会2024漫游季】",
+        "desc": "拼了命破茧的蝴蝶，或许也没有获得耀眼美丽的鳞片，\n被风雨揉碎的双翼，或许无法反抗重力的锁链。\n但没关系，即使大雨倾洒、世界崩塌，\n我也会和你一起奔向原野与晚霞。\n\n《蝴蝶》\n作词 ：温莨\n作曲 ：瞿子千\n编曲 ： 瞿子千\n调声 ：哈士奇P\n弦乐编写：王茂盛\n吉他：瞿子千\n和声 ：瞿子千\n弦乐 ：国际首席爱乐乐团\n钢琴改编：Eileen Shan Zou\n音频编辑：祝非凡@万物和声\n混音：刘振东@万物和声\n母带：全相彦\n制作人：瞿子千\n导演：tàtà\n音乐监制：TENKO",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 129154,
+    "comment": 9802,
+    "forward": 937
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

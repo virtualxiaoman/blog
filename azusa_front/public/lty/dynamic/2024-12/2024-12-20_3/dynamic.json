@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1012950161138122771",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1012950161138122771",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月20日",
+    "pub_ts": 1734684238,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "从转发里随机揪小伙伴送出以下特别感谢礼品~\n转发达到5000，从转发里随机掉落【游学记周边礼盒】5份\n点赞达到3w，从转发里随机掉落【洛天依 音乐印记燃 手办】1个\n点赞达到10w，从转发里随机掉落【游学记专辑礼盒】10份\n\n历时半年的策划，经过反复调整与校对，主题曲《戏游九州》终于顺利和大家见面啦！\n感谢中国戏曲学会老师们的指导，感谢@人民日报 的特别受邀，让天依可以把游学记带到更多小伙伴的眼前！[心律共鸣动态表情包_真好]\n想要为大家带来更多更好的作品，想要这份热爱与坚守为更多人所知，感谢大家对天依游学记和《戏游九州》的支持呀！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "从转发里随机揪小伙伴送出以下特别感谢礼品~\n转发达到5000，从转发里随机掉落【游学记周边礼盒】5份\n点赞达到3w，从转发里随机掉落【洛天依 音乐印记燃 手办】1个\n点赞达到10w，从转发里随机掉落【游学记专辑礼盒】10份\n\n历时半年的策划，经过反复调整与校对，主题曲《戏游九州》终于顺利和大家见面啦！\n感谢中国戏曲学会老师们的指导，感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@人民日报 ",
+        "mid": 1131457022,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的特别受邀，让天依可以把游学记带到更多小伙伴的眼前！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n想要为大家带来更多更好的作品，想要这份热爱与坚守为更多人所知，感谢大家对天依游学记和《戏游九州》的支持呀！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5264,
+    "comment": 1789,
+    "forward": 3043
+  },
+  "forward": {
+    "orig_id": 1012877047916134440,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-12-20_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:22:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

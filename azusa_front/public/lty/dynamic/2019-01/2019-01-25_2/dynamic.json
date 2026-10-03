@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "212875406873367973",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/212875406873367973",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年1月25日",
+    "pub_ts": 1548402318,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "当世界以痛吻你，试着报之以歌吧~接纳自己，世界和我都怪美的ღ( ´･ᴗ･` )",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "当世界以痛吻你，试着报之以歌吧~接纳自己，世界和我都怪美的ღ( ´･ᴗ･` )"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3982,
+    "comment": 147,
+    "forward": 7
+  },
+  "forward": {
+    "orig_id": 210559934170017384,
+    "orig_mid": 12481783,
+    "deleted": false,
+    "archive_dir": "../../../12481783/2019-01/2019-01-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:19:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

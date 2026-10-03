@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "id": "1208472749059604486",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1208472749059604486",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月31日",
+    "pub_ts": 1780207888,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 【洛天依·人格镜像】珍藏集开启啦！[洛天依·人格镜像 动态表情包_出现]\n转发关注天依，揪5位小伙伴送抽【珍藏集5抽】1份~[洛天依·人格镜像 动态表情包_爱你]\n是宿命的共同体，是命运的挚友，还是针锋相对的宿敌？[洛天依·人格镜像 动态表情包_摇滚]\n\n🪞 卡池收录：动态数字音乐卡、精美数字卡牌\n🪞  羁绊之礼解锁：动态表情包、动态个性主题、头像框\n🪞 传送门：网页链接 \n\n评论区再揪5位小伙伴赠送许愿卡牌一张，一起期待更多属于她们的故事吧~[洛天依·人格镜像 动态表情包_跳舞]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "413106",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 【洛天依·人格镜像】珍藏集开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_出现]",
+        "package_id": "9834",
+        "emoji_id": "138848",
+        "name": "出现",
+        "url": "https://i0.hdslb.com/bfs/garb/e26f694f6c5085d0d6741068685e7457e5985ca7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送抽【珍藏集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_爱你]",
+        "package_id": "9834",
+        "emoji_id": "138847",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/d33ed8e20d06e87fe7a5a593669a50c3a0987042.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n是宿命的共同体，是命运的挚友，还是针锋相对的宿敌？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_摇滚]",
+        "package_id": "9834",
+        "emoji_id": "138850",
+        "name": "摇滚",
+        "url": "https://i0.hdslb.com/bfs/garb/bb8999abd4315864c5633d40e99df4839e4a892c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪞 卡池收录：动态数字音乐卡、精美数字卡牌\n🪞  羁绊之礼解锁：动态表情包、动态个性主题、头像框\n🪞 传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=113021&f_source=social&from=official"
+      },
+      {
+        "type": "text",
+        "text": " \n\n评论区再揪5位小伙伴赠送许愿卡牌一张，一起期待更多属于她们的故事吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_跳舞]",
+        "package_id": "9834",
+        "emoji_id": "138865",
+        "name": "跳舞",
+        "url": "https://i0.hdslb.com/bfs/garb/1a5d93db2b8551ac6c761f3bcd415bb965da7a7f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-31_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fcea82e8dd037e8ea58a8fa27aa338fa36081646.jpg",
+        "width": 750,
+        "height": 5138,
+        "size_kb": 1302.8017578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/出现.gif",
+        "package_id": "9834",
+        "emoji_id": "138848",
+        "text": "[洛天依·人格镜像 动态表情包_出现]"
+      },
+      {
+        "file": "../../_assets/emojis/9834/爱你.gif",
+        "package_id": "9834",
+        "emoji_id": "138847",
+        "text": "[洛天依·人格镜像 动态表情包_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9834/摇滚.gif",
+        "package_id": "9834",
+        "emoji_id": "138850",
+        "text": "[洛天依·人格镜像 动态表情包_摇滚]"
+      },
+      {
+        "file": "../../_assets/emojis/9834/跳舞.gif",
+        "package_id": "9834",
+        "emoji_id": "138865",
+        "text": "[洛天依·人格镜像 动态表情包_跳舞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "413106"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5476,
+    "comment": 583,
+    "forward": 7016
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

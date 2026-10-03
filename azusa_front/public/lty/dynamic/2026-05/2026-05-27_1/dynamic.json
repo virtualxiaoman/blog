@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1207085994321379400",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1207085994321379400",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月27日",
+    "pub_ts": 1779885009,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在混乱与命运的裂隙之间，用灵魂谱写属于彼此的「永恒挚契」",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在混乱与命运的裂隙之间，用灵魂谱写属于彼此的「永恒挚契」"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "我们永远是彼此的《永恒挚契》【洛天依人格镜像原创曲】",
+      "desc": "当月亮为王，太阳甘愿成为骑士，\n当森林遇见潮汐，歌声缝补破碎的灵魂，\n当镜中的回响选择消散于善意——\n这不是神格之间的战争，而是彼此交付的永恒契约。\n我们是宿命的共同体，是唯一的对视者，还是超越对立的最深羁绊？\n挚契之章开启，来吧，看十六位象征不同意识与情感的“原初神祇”，\n在混乱与命运的裂隙之间，用灵魂谱写属于彼此的「永恒挚契」\n\n洛天依全新轻故事主题企划「人格镜像」\n第二季主题曲「永恒挚契」\n作曲:闹闹丶，欧Ohm\n编曲:欧Ohm\n作词:河冰\n调教:某只泽，墨墨羽，陌生来访\n混音:Neo Nex\n视频",
+      "jump_url": "https://www.bilibili.com/video/BV1jHG26ZEuC",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/b4ea03dc3f4a3d1092006f066b68d5cac8013ce0.jpg",
+      "cover_file": "../../_assets/covers/2026-05-27_1.jpg",
+      "bvid": "BV1jHG26ZEuC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1jHG26ZEuC",
+        "aid": "116646513545215",
+        "cover": "http://i0.hdslb.com/bfs/archive/b4ea03dc3f4a3d1092006f066b68d5cac8013ce0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1jHG26ZEuC",
+        "stat": {
+          "danmaku": "211",
+          "play": "38.5万",
+          "vt": ""
+        },
+        "duration_text": "03:36",
+        "title": "我们永远是彼此的《永恒挚契》【洛天依人格镜像原创曲】",
+        "desc": "当月亮为王，太阳甘愿成为骑士，\n当森林遇见潮汐，歌声缝补破碎的灵魂，\n当镜中的回响选择消散于善意——\n这不是神格之间的战争，而是彼此交付的永恒契约。\n我们是宿命的共同体，是唯一的对视者，还是超越对立的最深羁绊？\n挚契之章开启，来吧，看十六位象征不同意识与情感的“原初神祇”，\n在混乱与命运的裂隙之间，用灵魂谱写属于彼此的「永恒挚契」\n\n洛天依全新轻故事主题企划「人格镜像」\n第二季主题曲「永恒挚契」\n作曲:闹闹丶，欧Ohm\n编曲:欧Ohm\n作词:河冰\n调教:某只泽，墨墨羽，陌生来访\n混音:Neo Nex\n视频",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29464,
+    "comment": 1211,
+    "forward": 193
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

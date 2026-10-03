@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "610272817921372224",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/610272817921372224",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月31日",
+    "pub_ts": 1640928613,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家！晚上见~[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家！晚上见~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6857,
+    "comment": 616,
+    "forward": 58
+  },
+  "forward": {
+    "orig_id": 610272311119416472,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-12/2021-12-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

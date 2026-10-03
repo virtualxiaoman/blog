@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "891532633949863991",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/891532633949863991",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月28日",
+    "pub_ts": 1706414517,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #索尼音乐牵手洛天依#\n如山连绵不绝，如水声声不息。\n音乐的长河中，每一道音符都可以谱写独一无二的旋律。\n捕捉它，倾听它，再以我为器，以我为名。\n自洛水而出，奏响天籁之音。[洛天依蝶变_电子琴]\n\n2月2日，洛天依X索尼音乐中国合作EP《洛 LUO》数字&实体专辑正式上线，敬请期待。[洛天依蝶变_轻唱]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n如山连绵不绝，如水声声不息。\n音乐的长河中，每一道音符都可以谱写独一无二的旋律。\n捕捉它，倾听它，再以我为器，以我为名。\n自洛水而出，奏响天籁之音。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n2月2日，洛天依X索尼音乐中国合作EP《洛 LUO》数字&实体专辑正式上线，敬请期待。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-28_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b69ee510f0f74fd4cea5bf41d146cb8436081646.png",
+        "width": 4000,
+        "height": 2034,
+        "size_kb": 16519.3828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5851,
+    "comment": 192,
+    "forward": 67
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:05:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

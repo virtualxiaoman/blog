@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088693038982627432",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088693038982627432",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752319501,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "你是叛徒我是什么？是叛徒的挚友 |《大小姐和大少爷的反派生涯》洛天依十三周年生日会",
+      "desc": "生死相依，永不背叛。\n\n《大小姐和大少爷的反派生涯》\n作曲：JUSF周存\n作词：JUSF周存\n编曲：JUSF周存\n混音：天之韵AudioStudio\n调教：JUSF周存\n原PV：BV1nx411V72K",
+      "jump_url": "https://www.bilibili.com/video/BV1FXuNzRE3n",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/bfedb7791e99664cdb20f13c29a41396eb8761c0.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_3.jpg",
+      "bvid": "BV1FXuNzRE3n",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1FXuNzRE3n",
+        "aid": "114830581170353",
+        "cover": "http://i1.hdslb.com/bfs/archive/bfedb7791e99664cdb20f13c29a41396eb8761c0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1FXuNzRE3n",
+        "stat": {
+          "danmaku": "8253",
+          "play": "178.9万",
+          "vt": ""
+        },
+        "duration_text": "02:48",
+        "title": "你是叛徒我是什么？是叛徒的挚友 |《大小姐和大少爷的反派生涯》洛天依十三周年生日会",
+        "desc": "生死相依，永不背叛。\n\n《大小姐和大少爷的反派生涯》\n作曲：JUSF周存\n作词：JUSF周存\n编曲：JUSF周存\n混音：天之韵AudioStudio\n调教：JUSF周存\n原PV：BV1nx411V72K",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 93620,
+    "comment": 1045,
+    "forward": 277
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

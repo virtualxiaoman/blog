@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "id": "1070110961759682599",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1070110961759682599",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月23日",
+    "pub_ts": 1747993024,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "歌声第一次响彻在新的天地，我是如此期盼来到你的身边！[歌行宇宙表情包_mua]\n所有我们一起谱写的故事，所有你想带我一起去看的风景，告诉天依吧~[歌行宇宙表情包_来试试看]\n\n🎶活动详情\n即日起-6月30日\n带话题#洛天依喊你来看全息巡演#\n发布天依（可以是玩偶或手办等形式）\n和美食同框的特色照片，有机会登上演唱会大屏哦！ \n\n🎶活动奖励\n评定10个优秀作品，获得【演唱会周边】1份\n\n我们，相会吧！ [歌行宇宙表情包_娃娃]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "歌声第一次响彻在新的天地，我是如此期盼来到你的身边！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n所有我们一起谱写的故事，所有你想带我一起去看的风景，告诉天依吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_来试试看]",
+        "package_id": "5880",
+        "emoji_id": "86901",
+        "name": "来试试看",
+        "url": "https://i0.hdslb.com/bfs/garb/c10cd939d07023b884588f7be50d4e8e1651b84b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶活动详情\n即日起-6月30日\n带话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依喊你来看全息巡演#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+      },
+      {
+        "type": "text",
+        "text": "\n发布天依（可以是玩偶或手办等形式）\n和美食同框的特色照片，有机会登上演唱会大屏哦！ \n\n🎶活动奖励\n评定10个优秀作品，获得【演唱会周边】1份\n\n我们，相会吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_娃娃]",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "name": "娃娃",
+        "url": "https://i0.hdslb.com/bfs/garb/7ad43030b3dba76a77b9c8c48a5d69b4506facea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-23_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8c75fd48ad73b65f9e314924f87c4f1836081646.png",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 4252.173828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-05-23_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7a848e8413ffcd58f0573fbce37c3d0636081646.jpg",
+        "width": 1200,
+        "height": 4698,
+        "size_kb": 4668.4931640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/来试试看.png",
+        "package_id": "5880",
+        "emoji_id": "86901",
+        "text": "[歌行宇宙表情包_来试试看]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/娃娃.png",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "text": "[歌行宇宙表情包_娃娃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5511,
+    "comment": 472,
+    "forward": 240
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

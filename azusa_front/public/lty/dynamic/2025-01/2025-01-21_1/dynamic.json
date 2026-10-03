@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "1024744540736585733",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1024744540736585733",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月21日",
+    "pub_ts": 1737430331,
+    "location": ""
+  },
+  "topic": {
+    "id": 328139,
+    "name": "CCTV网络春晚",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=328139&topic_name=CCTV%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "开新网友洛天依准备就绪，和天依开启一场超时空之旅吧！\n1月22日小年夜20点档，我在2025#CCTV网络春晚# “超时空客栈”等候大家的光临，一起开新向未来~！ [洛天依·戏游九州动态_双人]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "开新网友洛天依准备就绪，和天依开启一场超时空之旅吧！\n1月22日小年夜20点档，我在2025"
+      },
+      {
+        "type": "topic",
+        "text": "#CCTV网络春晚#",
+        "url": "https://search.bilibili.com/all?keyword=CCTV%E7%BD%91%E7%BB%9C%E6%98%A5%E6%99%9A"
+      },
+      {
+        "type": "text",
+        "text": " “超时空客栈”等候大家的光临，一起开新向未来~！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_双人]",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "name": "双人",
+        "url": "https://i0.hdslb.com/bfs/garb/880318464f92999a638b94641a35254f14577db9.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-21_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4ce9c1d01ccaf3183d52619fa6391b6136081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2290.523,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/双人.gif",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "text": "[洛天依·戏游九州动态_双人]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6012,
+    "comment": 417,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

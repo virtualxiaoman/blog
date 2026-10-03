@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "833390729656008742",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/833390729656008742",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月24日",
+    "pub_ts": 1692877300,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "千山之巅，万水之源\n在雪域高原之上，孕育了最辽阔的声音\n听，这是世界的回响\n\n8月25日，《天依游学记·歌行》第二集 西藏篇采风Vlog\n洛天依X拉萨扎念弹唱非遗传承人旦增益西\n期待与大家分享我的西藏游学之旅~[天依游学记_前排占楼]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "千山之巅，万水之源\n在雪域高原之上，孕育了最辽阔的声音\n听，这是世界的回响\n\n8月25日，《天依游学记·歌行》第二集 西藏篇采风Vlog\n洛天依X拉萨扎念弹唱非遗传承人旦增益西\n期待与大家分享我的西藏游学之旅~"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_前排占楼]",
+        "package_id": "2363",
+        "emoji_id": "41444",
+        "name": "前排占楼",
+        "url": "https://i0.hdslb.com/bfs/garb/item/4d2426cc6160f9bbb5c0a325e6308369396efe09.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/前排占楼.png",
+        "package_id": "2363",
+        "emoji_id": "41444",
+        "text": "[天依游学记_前排占楼]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《天依游学记·歌行》第二集西藏篇采风Vlog 8月25日 即将上线",
+      "desc": "千山之巅，万水之源\n在雪域高原之上，孕育了最辽阔的声音\n听，这是世界的回响\n\n8月25日，《天依游学记·歌行》第二集 西藏篇采风Vlog\n洛天依X拉萨扎念弹唱非遗传承人旦增益西\n期待与大家分享我的西藏游学之旅~[天依游学记_前排占楼]",
+      "jump_url": "https://www.bilibili.com/video/BV1zr4y1R7kZ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ca0b9fea54b61e9639ba7a264f91cbd0f0c52774.png",
+      "cover_file": "../../_assets/covers/2023-08-24_2.png",
+      "bvid": "BV1zr4y1R7kZ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zr4y1R7kZ",
+        "aid": "745208281",
+        "cover": "http://i0.hdslb.com/bfs/archive/ca0b9fea54b61e9639ba7a264f91cbd0f0c52774.png",
+        "jump_url": "//www.bilibili.com/video/BV1zr4y1R7kZ",
+        "stat": {
+          "danmaku": "33",
+          "play": "4.7万",
+          "vt": ""
+        },
+        "duration_text": "00:17",
+        "title": "《天依游学记·歌行》第二集西藏篇采风Vlog 8月25日 即将上线",
+        "desc": "千山之巅，万水之源\n在雪域高原之上，孕育了最辽阔的声音\n听，这是世界的回响\n\n8月25日，《天依游学记·歌行》第二集 西藏篇采风Vlog\n洛天依X拉萨扎念弹唱非遗传承人旦增益西\n期待与大家分享我的西藏游学之旅~[天依游学记_前排占楼]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12465,
+    "comment": 241,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

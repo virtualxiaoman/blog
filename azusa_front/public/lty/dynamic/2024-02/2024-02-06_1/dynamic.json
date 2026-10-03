@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "894927174278053941",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/894927174278053941",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月6日",
+    "pub_ts": 1707204870,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "\"支付宝到账，幸福和美好都到账！天依祝你龙腾四海，幸福安康！\"\n还有三天就是年，天依联合@支付宝Alipay ，为大家带来首款支付宝动态主题皮肤套装。祝你鸿运当头，招财进宝8(*'▽'*)♪\n\n✨皮肤详情\n包含独家动态主题、个性化付款码页面、视频红包封面等个行权益\n\n✨获取方式\n打开支付宝，搜索“支付宝会员”，进入洛天依皮肤活动页或在我的-支付宝会员频道-更多服务-IP潮玩馆，进入活动\n详情小伙伴们可以戳长图查看～ [Vsinger_给大佬递茶]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "\"支付宝到账，幸福和美好都到账！天依祝你龙腾四海，幸福安康！\"\n还有三天就是年，天依联合"
+      },
+      {
+        "type": "mention",
+        "text": "@支付宝Alipay",
+        "mid": 420831218,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ，为大家带来首款支付宝动态主题皮肤套装。祝你鸿运当头，招财进宝8(*'▽'*)♪\n\n✨皮肤详情\n包含独家动态主题、个性化付款码页面、视频红包封面等个行权益\n\n✨获取方式\n打开支付宝，搜索“支付宝会员”，进入洛天依皮肤活动页或在我的-支付宝会员频道-更多服务-IP潮玩馆，进入活动\n详情小伙伴们可以戳长图查看～ "
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-06_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/10bd2b681340ae6a81343f11f6aa767f36081646.png",
+        "width": 750,
+        "height": 3324,
+        "size_kb": 2868.5029296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5401,
+    "comment": 351,
+    "forward": 115
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

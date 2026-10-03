@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "884583793496686632",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/884583793496686632",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月9日",
+    "pub_ts": 1704796614,
+    "location": ""
+  },
+  "topic": {
+    "id": 8563,
+    "name": "B站百大UP主",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=8563&topic_name=B%E7%AB%99%E7%99%BE%E5%A4%A7UP%E4%B8%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依的《歌行四方》，用大量民族乐器谱写对大好河山的赞美",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依的《歌行四方》，用大量民族乐器谱写对大好河山的赞美"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依百大舞台《歌行四方》",
+      "desc": "洛天依的《歌行四方》，用大量民族乐器谱写对大好河山的赞美",
+      "jump_url": "https://www.bilibili.com/video/BV1tG411B7HA",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/dff3f2a9d87ce9692b2c27e2ff26a5cc8770333f.jpg",
+      "cover_file": "../../_assets/covers/2024-01-09_1.jpg",
+      "bvid": "BV1tG411B7HA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1tG411B7HA",
+        "aid": "410945986",
+        "cover": "http://i1.hdslb.com/bfs/archive/dff3f2a9d87ce9692b2c27e2ff26a5cc8770333f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1tG411B7HA",
+        "stat": {
+          "danmaku": "147",
+          "play": "39.8万",
+          "vt": ""
+        },
+        "duration_text": "02:09",
+        "title": "洛天依百大舞台《歌行四方》",
+        "desc": "洛天依的《歌行四方》，用大量民族乐器谱写对大好河山的赞美",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19320,
+    "comment": 438,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

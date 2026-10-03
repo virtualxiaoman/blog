@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "1224861584097017872",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1224861584097017872",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月14日",
+    "pub_ts": 1784023711,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“信号永续，同频不止”\n洛天依×@支付宝Alipay \n14周年生日限定联名动态主题套装如约而至～[洛天依·信号动态表情包_love之力]\n\n🎵套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n打开支付宝搜索“洛天依”，纪念我们的相伴时光吧[洛天依·信号动态表情包_美味]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“信号永续，同频不止”\n洛天依×"
+      },
+      {
+        "type": "mention",
+        "text": "@支付宝Alipay",
+        "mid": 420831218,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n14周年生日限定联名动态主题套装如约而至～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎵套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n打开支付宝搜索“洛天依”，纪念我们的相伴时光吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-14_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8693d22e6d21d140d5ad34d54e53e85736081646.jpg",
+        "width": 750,
+        "height": 5410,
+        "size_kb": 638.4921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4723,
+    "comment": 101,
+    "forward": 37
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

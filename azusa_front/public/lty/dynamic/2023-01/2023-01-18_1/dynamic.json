@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "752445018824769555",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/752445018824769555",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月18日",
+    "pub_ts": 1674030658,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我们一起看好不好呀~[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我们一起看好不好呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4852,
+    "comment": 236,
+    "forward": 113
+  },
+  "forward": {
+    "orig_id": 752436789659041830,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2023-01/2023-01-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:50:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

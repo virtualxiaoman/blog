@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "376575160492004725",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/376575160492004725",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月10日",
+    "pub_ts": 1586516637,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "往前走，不再回头~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "往前走，不再回头~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8634,
+    "comment": 293,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 376528014631446082,
+    "orig_mid": 503946578,
+    "deleted": false,
+    "archive_dir": "../../../503946578/2020-04/2020-04-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

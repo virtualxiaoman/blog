@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "910597220682694662",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/910597220682694662",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月19日",
+    "pub_ts": 1710853337,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "回首皆不是，与君斟别酒，你有多久没有静静听一首唯美动人的古风歌曲啦[洛·LUO_爱了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "回首皆不是，与君斟别酒，你有多久没有静静听一首唯美动人的古风歌曲啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_爱了]",
+        "package_id": "4400",
+        "emoji_id": "62225",
+        "name": "爱了",
+        "url": "https://i0.hdslb.com/bfs/emote/abd42e8708c0cfd6465a6f221717bcc35dbe6943.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/爱了.png",
+        "package_id": "4400",
+        "emoji_id": "62225",
+        "text": "[洛·LUO_爱了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4310,
+    "comment": 97,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 906723173089673281,
+    "orig_mid": 1293181541,
+    "deleted": false,
+    "archive_dir": "../../../1293181541/2024-03/2024-03-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

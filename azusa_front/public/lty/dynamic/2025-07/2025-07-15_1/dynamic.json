@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1089784501854273577",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1089784501854273577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月15日",
+    "pub_ts": 1752573627,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依再唱《权御天下》「2025官方重置版」",
+      "desc": "“生子当如孙仲谋”\n时隔十年光阴，《权御天下》迎来2025年官方重置。\n当经典的旋律响起，带给我们感动的不仅是音乐本身，更是伴随歌声响起的回忆朝暮。\n在2025，在BML，在更多舞台，我们一同，再唱《权御天下》。\n\n《权御天下》「2025官方重置版」\n演唱：洛天依\n作词：ST\n作曲：乌龟Sui\n编曲：赵伟鑫、潘凯鸿\n混音：郭子敬\n调校：Creuzer\n曲绘：小狗\n视频制作：TS映画\n\n♪歌曲已在各大音乐平台正式上线，欢迎大家前往收听~",
+      "jump_url": "https://www.bilibili.com/video/BV1FwuyzAEsw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/78a4c0a2de745ab7a7de6b0c0eca650e03ed0b04.jpg",
+      "cover_file": "../../_assets/covers/2025-07-15_1.jpg",
+      "bvid": "BV1FwuyzAEsw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1FwuyzAEsw",
+        "aid": "114855931545073",
+        "cover": "http://i2.hdslb.com/bfs/archive/78a4c0a2de745ab7a7de6b0c0eca650e03ed0b04.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1FwuyzAEsw",
+        "stat": {
+          "danmaku": "3万",
+          "play": "340.3万",
+          "vt": ""
+        },
+        "duration_text": "04:05",
+        "title": "洛天依再唱《权御天下》「2025官方重置版」",
+        "desc": "“生子当如孙仲谋”\n时隔十年光阴，《权御天下》迎来2025年官方重置。\n当经典的旋律响起，带给我们感动的不仅是音乐本身，更是伴随歌声响起的回忆朝暮。\n在2025，在BML，在更多舞台，我们一同，再唱《权御天下》。\n\n《权御天下》「2025官方重置版」\n演唱：洛天依\n作词：ST\n作曲：乌龟Sui\n编曲：赵伟鑫、潘凯鸿\n混音：郭子敬\n调校：Creuzer\n曲绘：小狗\n视频制作：TS映画\n\n♪歌曲已在各大音乐平台正式上线，欢迎大家前往收听~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 207797,
+    "comment": 8000,
+    "forward": 1712
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

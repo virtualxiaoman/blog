@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "id": "956945376745619512",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/956945376745619512",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月22日",
+    "pub_ts": 1721644608,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "moeyu洛天依「星与烟火」系列新品周边预售开启啦！\n转发关注天依，随机揪3位小伙伴送出【星与烟火-徽章】1份，奖品将会在商品实际到货时发出~[洛天依_爱你]\n\n一起去看一场烟火演出吧！\n烟花升空，漫天绚烂，烟火绽放的瞬间，定格你我的笑颜。\n会记得，你给我过的所有夏天～[洛天依_捏捏]\n\n🔹预售新品\n【徽章】网页链接\n【大徽章】网页链接\n【亚克力色纸】网页链接\n【3D海报】网页链接\n【亚克力砖】网页链接\n\n🔹购买地址\n天猫-moeyu旗舰店\nB站-会员购\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "moeyu洛天依「星与烟火」系列新品周边预售开启啦！\n转发关注天依，随机揪3位小伙伴送出【星与烟火-徽章】1份，奖品将会在商品实际到货时发出~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n一起去看一场烟火演出吧！\n烟花升空，漫天绚烂，烟火绽放的瞬间，定格你我的笑颜。\n会记得，你给我过的所有夏天～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹预售新品\n【徽章】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/RPgAnEZ"
+      },
+      {
+        "type": "text",
+        "text": "\n【大徽章】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/C927Hos"
+      },
+      {
+        "type": "text",
+        "text": "\n【亚克力色纸】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/vfCbJ78"
+      },
+      {
+        "type": "text",
+        "text": "\n【3D海报】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/cigdQue"
+      },
+      {
+        "type": "text",
+        "text": "\n【亚克力砖】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/NguZkmD"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹购买地址\n天猫-moeyu旗舰店\nB站-会员购\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/97ebfbb042c087d14d54e23c356634b036081646.jpg",
+        "width": 900,
+        "height": 1200,
+        "size_kb": 409.9599914550781,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-22_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d7ae6c2dbcf1052c27301dbf2714e31936081646.jpg",
+        "width": 750,
+        "height": 5540,
+        "size_kb": 1525.8399658203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依 星与烟火 马口铁徽章",
+            "price": "¥15",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/8c/e0/8ce0a8561707dd8f3e4bde112ef1e820.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10499362&msource=cps_Mdynamic_36081646_cont-2-956945376745619512&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-22_2.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依 星与烟火 亚克力砖",
+            "price": "¥55",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/cf/0a/cf0adea359fe9fae45a76d4aefbcbccf.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10499343&msource=cps_Mdynamic_36081646_cont-2-956945376745619512&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-22_3.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依 星与烟火 亚克力色纸",
+            "price": "¥29",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/77/21/7721d8fdc921df2d50ca80bbb897983c.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10499318&msource=cps_Mdynamic_36081646_cont-2-956945376745619512&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-22_4.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依 星与烟火 3D海报",
+            "price": "¥35",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/5a/73/5a73ca41696f624c5ca55c26e7bb212e.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10499349&msource=cps_Mdynamic_36081646_cont-2-956945376745619512&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-22_5.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依 星与烟火 大徽章",
+            "price": "¥45",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/5d/cc/5dcc2a105df534d6681e695f541ad6ce.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10499295&msource=cps_Mdynamic_36081646_cont-2-956945376745619512&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-22_6.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6846,
+    "comment": 1707,
+    "forward": 3554
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

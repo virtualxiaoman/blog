@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1163685027660169238",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1163685027660169238",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月30日",
+    "pub_ts": 1769779934,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "2月17日大年初一19:30，锁定江苏卫视\n《乐鸣东方》MV将在 ai荔枝 #江苏卫视春晚#进行卫视首播哦！\n一起共赴这场特别的“团圆”吧~[逆转童话动态_缘分]\n#2026江苏卫视春晚第三波阵容#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2月17日大年初一19:30，锁定江苏卫视\n《乐鸣东方》MV将在 ai荔枝 "
+      },
+      {
+        "type": "topic",
+        "text": "#江苏卫视春晚#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A"
+      },
+      {
+        "type": "text",
+        "text": "进行卫视首播哦！\n一起共赴这场特别的“团圆”吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#2026江苏卫视春晚第三波阵容#",
+        "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%89%E6%B3%A2%E9%98%B5%E5%AE%B9"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-30_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4e5b3a9aa4dbe3227815731774d4e98336081646.jpg",
+        "width": 1280,
+        "height": 2276,
+        "size_kb": 520.1015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6937,
+    "comment": 312,
+    "forward": 165
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

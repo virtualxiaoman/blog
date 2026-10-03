@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "903879977754165267",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/903879977754165267",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月1日",
+    "pub_ts": 1709289357,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "春雨淅沥，静候花开。\n新的一月，开启崭新的期待[洛天依蝶变_星星眼]\n天依的三月日历壁纸送给大家~\n提到三月，你会想到_______?[洛天依蝶变_yalahula]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "春雨淅沥，静候花开。\n新的一月，开启崭新的期待"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依的三月日历壁纸送给大家~\n提到三月，你会想到_______?"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/150928f4ceab9dd237aabee14db225b736081646.png",
+        "width": 1242,
+        "height": 2209,
+        "size_kb": 3927.28515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-03-01_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1c00fc039698931410393825ca898fcd36081646.png",
+        "width": 1920,
+        "height": 1440,
+        "size_kb": 3920.030029296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5418,
+    "comment": 320,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

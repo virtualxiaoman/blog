@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "945462567156842563",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/945462567156842563",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月21日",
+    "pub_ts": 1718971058,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "🔹生日主题页：网页链接 已经上线啦！\n转发关注天依并预约直播，6月22日揪1位小伙伴送出【980档2024BML门票】1张～[洛天依_礼物]\n\n🔹 生日主视觉：网页链接\n🔹 生日征集活动：网页链接\n🔹 BML参演确认：网页链接\n🔹 BW展会情报：网页链接\n🔹 生日会花絮：超燃吉他show！直击洛天依生日会彩排现场\n\n更多生日内容情报，记得关注天依的动态和主题页的更新～[洛天依_击掌]\nps.中奖小伙伴注意需在6月23日前提供个人信息哦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🔹生日主题页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/Luo2024.html"
+      },
+      {
+        "type": "text",
+        "text": " 已经上线啦！\n转发关注天依并预约直播，6月22日揪1位小伙伴送出【980档2024BML门票】1张～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹 生日主视觉："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/941740140223528966?spm_id_from=333.999.list.card_time.click"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹 生日征集活动："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/942802315715280899?spm_id_from=333.999.list.card_time.click"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹 BML参演确认："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/942056842514661385?spm_id_from=333.999.list.card_time.click"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹 BW展会情报："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/944338273334984705?spm_id_from=333.999.list.card_time.click"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹 生日会花絮："
+      },
+      {
+        "type": "video",
+        "text": "超燃吉他show！直击洛天依生日会彩排现场",
+        "url": "https://www.bilibili.com/video/BV15z42187FE",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n更多生日内容情报，记得关注天依的动态和主题页的更新～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\nps.中奖小伙伴注意需在6月23日前提供个人信息哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/94bbdcd3e6e5a8d7e5d04de2ff6fe9b536081646.png",
+        "width": 1053,
+        "height": 600,
+        "size_kb": 1336.92578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6813,
+    "comment": 896,
+    "forward": 2825
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

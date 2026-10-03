@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "255965692766725584",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/255965692766725584",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月21日",
+    "pub_ts": 1558435057,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖来看T爹送天依的521礼物啦～超级美有木有～？大家有在游戏里陪天依过节吗？ 天依来送福利啦：转发这条动态，抽出10位小伙伴送出300大作战里这款皮肤哟！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "27870",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "来看T爹送天依的521礼物啦～超级美有木有～？大家有在游戏里陪天依过节吗？ 天依来送福利啦：转发这条动态，抽出10位小伙伴送出300大作战里这款皮肤哟！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-05-21_7.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/390af4aa7039f872eff9fe36ab75b145e6cc2275.png",
+        "width": 5120,
+        "height": 4134,
+        "size_kb": 12270.1,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "27870"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7534,
+    "comment": 755,
+    "forward": 3757
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

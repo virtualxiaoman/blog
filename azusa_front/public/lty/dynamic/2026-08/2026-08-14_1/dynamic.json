@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "id": "1236357214368694277",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1236357214368694277",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月14日",
+    "pub_ts": 1786700246,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n天依带着十四周年生日视频征集活动的获奖名单来啦！\n恭喜以下优秀作品获奖啦，也谢谢每一位小伙伴的参与\n和大家一起再次度过了难忘的十四周年~[洛天依·信号动态表情包_美味]\n\n@GhostFinal 【洛天依原创】魔法少女的残响【咏吟轩】【GhostFinal】\n@静夜社 【洛天依原创】风暴星【系外行星系列01】\n@酒祭荼靡 【洛天依十四周年生贺】20人小洛编年史团片cos视频\n@佳许_____ cosplay，但是一镜到底【洛天依十四周年】\n@洛羽LAZ洛入吃货陷阱 【洛天依生贺】今年712给天依做了手办<(ºOº)>\n\n这道独一无二的频率，希望能永远将大家的心意紧紧相连~ [洛天依·信号动态表情包_love之力]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n天依带着十四周年生日视频征集活动的获奖名单来啦！\n恭喜以下优秀作品获奖啦，也谢谢每一位小伙伴的参与\n和大家一起再次度过了难忘的十四周年~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "mention",
+        "text": "@GhostFinal",
+        "mid": 472346,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】魔法少女的残响【咏吟轩】【GhostFinal】",
+        "url": "https://www.bilibili.com/video/av116911023197457",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@静夜社",
+        "mid": 249030155,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】风暴星【系外行星系列01】",
+        "url": "https://www.bilibili.com/video/av116922146492770",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@酒祭荼靡",
+        "mid": 35567398,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依十四周年生贺】20人小洛编年史团片cos视频",
+        "url": "https://www.bilibili.com/video/av116902114433706",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@佳许_____",
+        "mid": 11048635,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "cosplay，但是一镜到底【洛天依十四周年】",
+        "url": "https://www.bilibili.com/video/av116889363874475",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@洛羽LAZ洛入吃货陷阱",
+        "mid": 292941008,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依生贺】今年712给天依做了手办<(ºOº)>",
+        "url": "https://www.bilibili.com/video/av116902332533635",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n这道独一无二的频率，希望能永远将大家的心意紧紧相连~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f4d770e851954fdec3b0683d9602faf736081646.jpg",
+        "width": 900,
+        "height": 5603,
+        "size_kb": 3030.3369140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4689,
+    "comment": 100,
+    "forward": 48
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

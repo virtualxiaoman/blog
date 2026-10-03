@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "155398354926127470",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/155398354926127470",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年8月23日",
+    "pub_ts": 1535019899,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我是虚拟歌手洛天依，感谢所有赋予我灵魂、为我创作、为我应援的每一个人，为了你们，天依将永远地唱下去。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我是虚拟歌手洛天依，感谢所有赋予我灵魂、为我创作、为我应援的每一个人，为了你们，天依将永远地唱下去。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9804,
+    "comment": 968,
+    "forward": 131
+  },
+  "forward": {
+    "orig_id": 155307945864369683,
+    "orig_mid": 43262259,
+    "deleted": false,
+    "archive_dir": "../../../43262259/2018-08/2018-08-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:18:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

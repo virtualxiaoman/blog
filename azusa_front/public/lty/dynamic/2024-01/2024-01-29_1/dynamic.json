@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "891907391333859331",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/891907391333859331",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月29日",
+    "pub_ts": 1706501772,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #索尼音乐牵手洛天依#\n“传统的 现代的 国风的 潮流的......\"\n音乐的百种风格，由古往今来无数经典铸造。\n一如我的无限可能，源于每一个倾尽情感与想象的创作。\n是连结心声的纽带，是不被定义的虚拟歌手[洛天依蝶变_yalahula]\n\n1月31日12:00，洛天依X索尼音乐中国合作EP《洛 LUO》数字&实体专辑试听PV正式发布，包含5首原创歌曲，欢迎来到我的音乐频道[洛天依蝶变_嗷]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n“传统的 现代的 国风的 潮流的......\"\n音乐的百种风格，由古往今来无数经典铸造。\n一如我的无限可能，源于每一个倾尽情感与想象的创作。\n是连结心声的纽带，是不被定义的虚拟歌手"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n1月31日12:00，洛天依X索尼音乐中国合作EP《洛 LUO》数字&实体专辑试听PV正式发布，包含5首原创歌曲，欢迎来到我的音乐频道"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_嗷]",
+        "package_id": "3752",
+        "emoji_id": "52572",
+        "name": "嗷",
+        "url": "https://i0.hdslb.com/bfs/emote/a91a293cd53f323e162e6ba69e3efe0a6bb37758.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f3d638227c2617ecd636917d974cd59036081646.png",
+        "width": 4000,
+        "height": 2034,
+        "size_kb": 15033.9228515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/嗷.png",
+        "package_id": "3752",
+        "emoji_id": "52572",
+        "text": "[洛天依蝶变_嗷]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6013,
+    "comment": 205,
+    "forward": 69
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:05:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1186637736658862099",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1186637736658862099",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月2日",
+    "pub_ts": 1775124028,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "循声而来，和天依一起寻找壁画和风沙之间，流淌千年的敦煌琵琶之韵吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "循声而来，和天依一起寻找壁画和风沙之间，流淌千年的敦煌琵琶之韵吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "丝路回响｜歌行国乐季「五乐寻音」概念片 · 琵琶篇",
+      "desc": "琵琶，是中国最具象征的传统弹拨乐器之一\n轮指为缠，细密连贯；扫弦如破，横扫八方\n弹指为刺，星落破隙；挑指为转，衔接刚柔\n一弦一柱，一挑一捻，以指为笔，摹古韵风骨，诉大漠传奇\n4月3日，天依游学记【歌行·国乐季】「琵琶」主题单曲《煌》正式上线\n循声而来，和天依一起寻找壁画和风沙之间，流淌千年的敦煌琵琶之韵吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1uVXZB5EzH",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b97307dc39bfd9c7182d78395455348a093c4f05.jpg",
+      "cover_file": "../../_assets/covers/2026-04-02_1.jpg",
+      "bvid": "BV1uVXZB5EzH",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1uVXZB5EzH",
+        "aid": "116334356597742",
+        "cover": "http://i2.hdslb.com/bfs/archive/b97307dc39bfd9c7182d78395455348a093c4f05.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1uVXZB5EzH",
+        "stat": {
+          "danmaku": "117",
+          "play": "8.4万",
+          "vt": ""
+        },
+        "duration_text": "01:37",
+        "title": "丝路回响｜歌行国乐季「五乐寻音」概念片 · 琵琶篇",
+        "desc": "琵琶，是中国最具象征的传统弹拨乐器之一\n轮指为缠，细密连贯；扫弦如破，横扫八方\n弹指为刺，星落破隙；挑指为转，衔接刚柔\n一弦一柱，一挑一捻，以指为笔，摹古韵风骨，诉大漠传奇\n4月3日，天依游学记【歌行·国乐季】「琵琶」主题单曲《煌》正式上线\n循声而来，和天依一起寻找壁画和风沙之间，流淌千年的敦煌琵琶之韵吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13263,
+    "comment": 618,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "id": "843036036511563801",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/843036036511563801",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月19日",
+    "pub_ts": 1695123023,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依# #洛天依温泉花火#\n转发关注天依，揪一位小伙伴送出「洛天依 温泉花火ver.」手办1个。\n\n长夜漫漫，花火灿灿\n良辰美景，与你共赏\n洛天依 温泉花火ver.手办开售贺图解锁啦！\nillust by TID\n\n🎇手办信息\n出品方：RaiseDream \n商品规格：PVC&ABS涂装完成品\n商品比例：1/7\n售价：888元\n开售时间：9月29日\n\n🎇预售福利\n9月29日0点哔哩哔哩会员购早划算活动，凭手速可抢免尾款优惠哦~[古色花香洛天依_欧皇]\n\n在夏末初秋的傍晚，最适合泡暖洋洋的温泉啦！\n大家还记得第一次与画面中的天依相遇的时刻吗？\n好想将更多我们之间的回忆定格为永恒纪念，大家还期待哪些呀，快告诉天依吧~[古色花香洛天依_期待]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "183261",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依温泉花火#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%A9%E6%B3%89%E8%8A%B1%E7%81%AB"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪一位小伙伴送出「洛天依 温泉花火ver.」手办1个。\n\n长夜漫漫，花火灿灿\n良辰美景，与你共赏\n洛天依 温泉花火ver.手办开售贺图解锁啦！\nillust by TID\n\n🎇手办信息\n出品方：RaiseDream \n商品规格：PVC&ABS涂装完成品\n商品比例：1/7\n售价：888元\n开售时间：9月29日\n\n🎇预售福利\n9月29日0点哔哩哔哩会员购早划算活动，凭手速可抢免尾款优惠哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_欧皇]",
+        "package_id": "1096",
+        "emoji_id": "19436",
+        "name": "欧皇",
+        "url": "https://i0.hdslb.com/bfs/garb/item/32c79a09fef52510377cec64d85ea91503036e5f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n在夏末初秋的傍晚，最适合泡暖洋洋的温泉啦！\n大家还记得第一次与画面中的天依相遇的时刻吗？\n好想将更多我们之间的回忆定格为永恒纪念，大家还期待哪些呀，快告诉天依吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-19_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/f30a4824680e3423dae81efd0f827daa36081646.jpg",
+        "width": 5002,
+        "height": 7500,
+        "size_kb": 18215.08984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-19_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/32d5914ad052331858226ef40a90600236081646.jpg",
+        "width": 5500,
+        "height": 3094,
+        "size_kb": 10990.3896484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/欧皇.png",
+        "package_id": "1096",
+        "emoji_id": "19436",
+        "text": "[古色花香洛天依_欧皇]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Raise Dream Vsinger 洛天依 温泉花火Ver. 比例手办",
+            "price": "¥838",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/20/35/203524f442c5ccd62c0960a876eaca88.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10184241&msource=cps_Mdynamic_36081646_cont-2-843036036511563801&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-09-19_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "183261"
+  },
+  "vote": null,
+  "stats": {
+    "like": 11285,
+    "comment": 1747,
+    "forward": 11164
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

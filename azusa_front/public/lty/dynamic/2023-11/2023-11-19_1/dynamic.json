@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "865643842414575621",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/865643842414575621",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月19日",
+    "pub_ts": 1700386813,
+    "location": ""
+  },
+  "topic": {
+    "id": 1119714,
+    "name": "非常非常完美跟唱挑战",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1119714&topic_name=%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E5%AE%8C%E7%BE%8E%E8%B7%9F%E5%94%B1%E6%8C%91%E6%88%98"
+  },
+  "content": {
+    "title": "",
+    "text": "你非常非常完美，只要有你在会多么浪漫～[古色花香洛天依_亲亲mua]能不能给大家带来一点治愈能量呢[古色花香洛天依_贴贴]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你非常非常完美，只要有你在会多么浪漫～"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      },
+      {
+        "type": "text",
+        "text": "能不能给大家带来一点治愈能量呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_贴贴]",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/item/14830657a12203a0eecec49885447b931608c4ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/贴贴.png",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "text": "[古色花香洛天依_贴贴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4741,
+    "comment": 114,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 864902548487667717,
+    "orig_mid": 12355462,
+    "deleted": false,
+    "archive_dir": "../../../12355462/2023-11/2023-11-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

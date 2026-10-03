@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "389242848700347139",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/389242848700347139",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月14日",
+    "pub_ts": 1589466063,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今晚都早点睡吧( ˃̶̤́ ꒳ ˂̶̤̀ )",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚都早点睡吧( ˃̶̤́ ꒳ ˂̶̤̀ )"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7878,
+    "comment": 420,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 389175748425802415,
+    "orig_mid": 12481783,
+    "deleted": false,
+    "archive_dir": "../../../12481783/2020-05/2020-05-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

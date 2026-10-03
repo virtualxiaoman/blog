@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "896079475331039251",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/896079475331039251",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月9日",
+    "pub_ts": 1707473161,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家期待已久的红包封面终于赶在除夕之夜带给大家啦！\n卷❀关注，揪10位小伙伴送出【指定款】红包封面1份。\n祝大家除夕快乐，龙年大吉！\n\n※获取方式\n2月9日-2月11日，进入【洛天依】微信公众号，发送“龙年大吉”到消息界面，即可获取领取链接。\n数量有限，先到先得哦！[Vsinger_给大佬递茶]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家期待已久的红包封面终于赶在除夕之夜带给大家啦！\n卷❀关注，揪10位小伙伴送出【指定款】红包封面1份。\n祝大家除夕快乐，龙年大吉！\n\n※获取方式\n2月9日-2月11日，进入【洛天依】微信公众号，发送“龙年大吉”到消息界面，即可获取领取链接。\n数量有限，先到先得哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fb2f3f21cbac24a058b7b0fb3fdce91c36081646.jpg",
+        "width": 1079,
+        "height": 2228,
+        "size_kb": 401.49609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-09_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f0f12a7bf145c693104e156c1eb1819236081646.jpg",
+        "width": 1080,
+        "height": 2135,
+        "size_kb": 290.142578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-09_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b7143afeb0493056f1d3940291ccbb636081646.jpg",
+        "width": 1063,
+        "height": 2172,
+        "size_kb": 351.1640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-02-09_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/61ea7217c5a01a1f074be23107f31a8e36081646.jpg",
+        "width": 933,
+        "height": 1549,
+        "size_kb": 468.8173828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5322,
+    "comment": 1134,
+    "forward": 1444
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "655151124479737873",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/655151124479737873",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月1日",
+    "pub_ts": 1651377658,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  不顾危险，不畏艰辛，还原真相，记录人间。 今天是国际#劳动节#，向记者工作者致敬，向每一个为生活奋斗的你致敬！[洛天依·夜航星_冲鸭]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  不顾危险，不畏艰辛，还原真相，记录人间。 今天是国际"
+      },
+      {
+        "type": "topic",
+        "text": "#劳动节#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8A%B3%E5%8A%A8%E8%8A%82"
+      },
+      {
+        "type": "text",
+        "text": "，向记者工作者致敬，向每一个为生活奋斗的你致敬！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3f93feaa7fa522c95e41a33a5e1dbbaf55d241f9.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 570.7999877929688,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10916,
+    "comment": 323,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:45:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

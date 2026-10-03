@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1166947794101993475",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1166947794101993475",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月8日",
+    "pub_ts": 1770539606,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是满满天依元素定制细节的蓝牙耳机哦！哇！天依也想要~[乐鸣东方动态表情包_盯]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是满满天依元素定制细节的蓝牙耳机哦！哇！天依也想要~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4088,
+    "comment": 137,
+    "forward": 103
+  },
+  "forward": {
+    "orig_id": 1166885774782627893,
+    "orig_mid": 35365327,
+    "deleted": false,
+    "archive_dir": "../../../35365327/2026-02/2026-02-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:16:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

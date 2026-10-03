@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1080103611177893905",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1080103611177893905",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月19日",
+    "pub_ts": 1750319619,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "DELA老师的投稿来啦！大家记得点点预约哦~[洛天依·天星问动态_好耶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "DELA老师的投稿来啦！大家记得点点预约哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_好耶]",
+        "package_id": "7618",
+        "emoji_id": "103412",
+        "name": "好耶",
+        "url": "https://i0.hdslb.com/bfs/garb/b919fc4b96651b8c8a64b97d22d6825462f5b75d.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/好耶.gif",
+        "package_id": "7618",
+        "emoji_id": "103412",
+        "text": "[洛天依·天星问动态_好耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4297,
+    "comment": 126,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 1080069942937649156,
+    "orig_mid": 358606,
+    "deleted": false,
+    "archive_dir": "../../../358606/2025-06/2025-06-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

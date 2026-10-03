@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "502356567696201680",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/502356567696201680",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月15日",
+    "pub_ts": 1615802403,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@七塘夜月寒澈影 @没有昵称1234568 @阿飞飞菲非 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@七塘夜月寒澈影",
+        "mid": 23024069,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@没有昵称1234568",
+        "mid": 455724963,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@阿飞飞菲非",
+        "mid": 117556206,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4781,
+    "comment": 215,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 488967316390404041,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2021-02/2021-02-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "1015589740650430468",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1015589740650430468",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月27日",
+    "pub_ts": 1735298813,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "🎁转发关注天依，揪1位小伙伴送出【洛天依品茗全套周边】1份\n\n天来晚欲雪，小友，请与吾共饮一杯热茶[洛天依·戏游九州动态_惬意]\n\n❄洛天依「品茗」系列周边\n✦徽章\n✦大徽章\n✦挂件\n✦色纸\n✦立牌\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎁转发关注天依，揪1位小伙伴送出【洛天依品茗全套周边】1份\n\n天来晚欲雪，小友，请与吾共饮一杯热茶"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n❄洛天依「品茗」系列周边\n✦徽章\n✦大徽章\n✦挂件\n✦色纸\n✦立牌"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/15843d7131bd37676ed5fb7a29cdaba836081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 373.92578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-12-27_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7dfa22b3960c33a648c50c80f268569436081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 419.8671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-12-27_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5bf491ab29f89f1f6d23861fe3d0888f36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 343.1455078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-12-27_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dc836308850441b700a03e41532748df36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 412.1103515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-12-27_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ba6d4b887929bf761fb8d9a6ee3f634936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 401.162109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-12-27_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c0a05cf9e4b290293e63fe15d9631a4236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 483.5,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依 品茗系列 徽章/亚克力挂件/大吧唧/亚克力色纸/亚克力立牌",
+            "price": "¥15",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/cb/74/cb74789bd0d80753d80bbeb16035821b.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10934447&msource=cps_Mdynamic_36081646_cont-2-1015589740650430468&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-12-27_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6727,
+    "comment": 2079,
+    "forward": 5327
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

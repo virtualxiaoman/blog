@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1072335849286270981",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1072335849286270981",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月29日",
+    "pub_ts": 1748511046,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "开奖啦！恭喜@甜味莉莉公主 获得【北京站·SVIP档】门票1张~[歌行宇宙表情包_娃娃]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "开奖啦！恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@甜味莉莉公主",
+        "mid": 260250672,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 获得【北京站·SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_娃娃]",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "name": "娃娃",
+        "url": "https://i0.hdslb.com/bfs/garb/7ad43030b3dba76a77b9c8c48a5d69b4506facea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/娃娃.png",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "text": "[歌行宇宙表情包_娃娃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2801,
+    "comment": 66,
+    "forward": 11
+  },
+  "forward": {
+    "orig_id": 1071233185192345600,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-05-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "895621979685519378",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/895621979685519378",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月8日",
+    "pub_ts": 1707366642,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依来给大家拜年啦！天依注入了满满的愿望和祝福，希望大家能感受到这股浓浓的年味和温馨的团圆氛围。新的一年，让我们一起继续加油努力，成为更优秀的自己！最后，再次祝愿大家新春快乐，万事如意！[Vsinger_加依]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来给大家拜年啦！天依注入了满满的愿望和祝福，希望大家能感受到这股浓浓的年味和温馨的团圆氛围。新的一年，让我们一起继续加油努力，成为更优秀的自己！最后，再次祝愿大家新春快乐，万事如意！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4746,
+    "comment": 123,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 895212093776593043,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2024-02/2024-02-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

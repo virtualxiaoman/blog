@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "1186945569869791239",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1186945569869791239",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月3日",
+    "pub_ts": 1775195701,
+    "location": ""
+  },
+  "topic": {
+    "id": 1332080,
+    "name": "洛克王国世界正式上线",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1332080&topic_name=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+  },
+  "content": {
+    "title": "",
+    "text": "「喵喵火花和水蓝蓝，都是我最好的伙伴！」\n洛天依唱给你听，让《洛克王国：世界》陪你再长大一次~\n \n▶《洛克王国：世界》现已全平台正式上线\n▶S1赛季创作者激励火热进行中：\nhttps://www.bilibili.com/blackboard/era/ATeqln9sMMLxGtoq.html",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「喵喵火花和水蓝蓝，都是我最好的伙伴！」\n洛天依唱给你听，让《洛克王国：世界》陪你再长大一次~\n \n▶《洛克王国：世界》现已全平台正式上线\n▶S1赛季创作者激励火热进行中：\n"
+      },
+      {
+        "type": "link",
+        "text": "https://www.bilibili.com/blackboard/era/ATeqln9sMMLxGtoq.html",
+        "url": "https://www.bilibili.com/blackboard/era/ATeqln9sMMLxGtoq.html"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛克王国：世界 × 洛天依】双洛合璧，《魔法时刻》梦幻上线！",
+      "desc": "阿官温馨提示：\n《洛克王国：世界》现已全平台正式上线！\n \n*游戏支持PC/安卓/鸿蒙/iOS多端游玩，全平台数据互通。",
+      "jump_url": "https://www.bilibili.com/video/BV1EfXfBaEgr",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/4a4da01fe5605c53e376d0ef54c6f31314333492.jpg",
+      "cover_file": "../../_assets/covers/2026-04-03_1.jpg",
+      "bvid": "BV1EfXfBaEgr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1EfXfBaEgr",
+        "aid": "116335413560551",
+        "cover": "http://i1.hdslb.com/bfs/archive/4a4da01fe5605c53e376d0ef54c6f31314333492.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1EfXfBaEgr",
+        "stat": {
+          "danmaku": "2494",
+          "play": "297.5万",
+          "vt": ""
+        },
+        "duration_text": "01:53",
+        "title": "【洛克王国：世界 × 洛天依】双洛合璧，《魔法时刻》梦幻上线！",
+        "desc": "阿官温馨提示：\n《洛克王国：世界》现已全平台正式上线！\n \n*游戏支持PC/安卓/鸿蒙/iOS多端游玩，全平台数据互通。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "洛克王国：世界",
+      "desc": "",
+      "jump_url": "https://www.biligame.com/detail?id=107079&sourceFrom=1005&biz_scene=dynamic",
+      "cover_url": "https://i0.hdslb.com/bfs/game/525f97c1b299c66c58c8aabdb9ef93be1911f58e.png",
+      "cover_file": "../../_assets/covers/2026-04-03_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "进入",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "https://www.biligame.com/detail?id=107079&sourceFrom=1005&biz_scene=dynamic",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "sub_type": "game",
+        "head_text": "相关游戏",
+        "jump_url": "https://www.biligame.com/detail?id=107079&sourceFrom=1005&biz_scene=dynamic",
+        "id_str": "107079",
+        "cover": "https://i0.hdslb.com/bfs/game/525f97c1b299c66c58c8aabdb9ef93be1911f58e.png",
+        "style": 1,
+        "title": "洛克王国：世界",
+        "desc1": "角色扮演/宠物/回合制",
+        "desc2": "现已正式上线，B站下载得专属名片卡！"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 137009,
+    "comment": 4061,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

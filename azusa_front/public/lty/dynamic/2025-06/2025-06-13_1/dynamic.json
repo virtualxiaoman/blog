@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1077820672884867081",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1077820672884867081",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月13日",
+    "pub_ts": 1749788081,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·成都站\n将于6月13日今晚正式开启售票啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·成都站\n将于6月13日今晚正式开启售票啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依演唱会女团来袭！我们成都相见吧~",
+      "desc": "“我可以有千百变样貌，满足你的所有想象。”\n属于洛天依的演出舞台已经准备就绪，只待你的光临！\n\n洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·成都站\n将于6月13日今晚正式开启售票啦！\n传送门：https://show.bilibili.com/platform/detail.html?id=102803\n\n🎶演出时间\n8月2日 19:12\n🎶演出场地\n成都·华熙LIVE·528 M空间\n🎶购票时间\n-【优先购票】6月13日 18:00\n-【正式开售】6月13日 19:00\n🎶巡演城市\n7.19 北",
+      "jump_url": "https://www.bilibili.com/video/BV1MSMTzrE7e",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/0c933ef8318fe04c3d3aa63828994ce317874e16.jpg",
+      "cover_file": "../../_assets/covers/2025-06-13_1.jpg",
+      "bvid": "BV1MSMTzrE7e",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1MSMTzrE7e",
+        "aid": "114674100079712",
+        "cover": "http://i2.hdslb.com/bfs/archive/0c933ef8318fe04c3d3aa63828994ce317874e16.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1MSMTzrE7e",
+        "stat": {
+          "danmaku": "85",
+          "play": "40.2万",
+          "vt": ""
+        },
+        "duration_text": "00:29",
+        "title": "洛天依演唱会女团来袭！我们成都相见吧~",
+        "desc": "“我可以有千百变样貌，满足你的所有想象。”\n属于洛天依的演出舞台已经准备就绪，只待你的光临！\n\n洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·成都站\n将于6月13日今晚正式开启售票啦！\n传送门：https://show.bilibili.com/platform/detail.html?id=102803\n\n🎶演出时间\n8月2日 19:12\n🎶演出场地\n成都·华熙LIVE·528 M空间\n🎶购票时间\n-【优先购票】6月13日 18:00\n-【正式开售】6月13日 19:00\n🎶巡演城市\n7.19 北",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 42401,
+    "comment": 853,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

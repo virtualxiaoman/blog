@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "id": "1012595375338422297",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1012595375338422297",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月19日",
+    "pub_ts": 1734601633,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "“一声响彻云天 一腔诉千年 邀我入戏游人间”\n#洛天依游学记#「歌行·戏曲季」原创曲《戏游九州》\n12月20日12:00，MV正式上线\n完整版单曲同步上架各大音乐平台！\n\n所谓戏曲风华，如何流传千载\n台上喜怒嗔怨，台下十年苦练\n且随天依，以这一曲，唱予诸位听！[洛天依心律共鸣表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“一声响彻云天 一腔诉千年 邀我入戏游人间”\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "「歌行·戏曲季」原创曲《戏游九州》\n12月20日12:00，MV正式上线\n完整版单曲同步上架各大音乐平台！\n\n所谓戏曲风华，如何流传千载\n台上喜怒嗔怨，台下十年苦练\n且随天依，以这一曲，唱予诸位听！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-19_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c509cfa4a066070ce417f17a69e3cc4036081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 1958.634765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：天依游学记歌行戏曲季先导MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1HWkwYWETx",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：天依游学记歌行戏曲季先导MV",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "829.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4286531,
+        "reserve_total": 14370,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5391,
+    "comment": 226,
+    "forward": 117
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

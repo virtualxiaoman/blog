@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "376838970269553749",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/376838970269553749",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月11日",
+    "pub_ts": 1586578060,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家的悲伤或者快乐，又是什么做的呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家的悲伤或者快乐，又是什么做的呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9309,
+    "comment": 401,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 376561326403266905,
+    "orig_mid": 90942983,
+    "deleted": false,
+    "archive_dir": "../../../90942983/2020-04/2020-04-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

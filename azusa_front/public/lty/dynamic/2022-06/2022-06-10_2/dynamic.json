@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "670117805645889553",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/670117805645889553",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月10日",
+    "pub_ts": 1654862360,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#青春无极限，未来无极限！一起再向着梦想奔跑吧！[洛天依·夜航星_冲鸭]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "青春无极限，未来无极限！一起再向着梦想奔跑吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5789,
+    "comment": 78,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 667118432414597319,
+    "orig_mid": 543191732,
+    "deleted": false,
+    "archive_dir": "../../../543191732/2022-06/2022-06-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:47:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

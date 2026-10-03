@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "958108939251089409",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/958108939251089409",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月25日",
+    "pub_ts": 1721915521,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@幻灵丶07@fwhbd@-_-时光等10位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@幻灵丶07",
+        "mid": 187626168,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@fwhbd",
+        "mid": 1261635436,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@-_-时光",
+        "mid": 90790171,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等10位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3963,
+    "comment": 92,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 952914171958132776,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-07-11_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

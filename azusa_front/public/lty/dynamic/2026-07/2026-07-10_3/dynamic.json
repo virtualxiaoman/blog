@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1223320725915435016",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1223320725915435016",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月10日",
+    "pub_ts": 1783664952,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很开心可以再次和水月雨联动，一起奔赴属于我们的无尽夏天吧[马到成功表情包_洛天依-害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很开心可以再次和水月雨联动，一起奔赴属于我们的无尽夏天吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[马到成功表情包_洛天依-害羞]",
+        "package_id": "9378",
+        "emoji_id": "131522",
+        "name": "洛天依-害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/10d18406801ce8054895006158c15af20e5069a7.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9378/洛天依-害羞.png",
+        "package_id": "9378",
+        "emoji_id": "131522",
+        "text": "[马到成功表情包_洛天依-害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4122,
+    "comment": 95,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 1223251355772125209,
+    "orig_mid": 434249025,
+    "deleted": false,
+    "archive_dir": "../../../434249025/2026-07/2026-07-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:29:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "id": "747286861885472773",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/747286861885472773",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月4日",
+    "pub_ts": 1672829681,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "茉莉花乐团，参上！[洛天依9th_一起唱]          \n感谢大家对用阿卡贝拉的方式打开经典《茉莉花》的喜爱，\n也再次感谢stafff老师们的精彩创作~[洛天依_爱你]\n【洛天依】用阿卡贝拉的方式打开经典《茉莉花》 \n编曲/混音：EggyWalker\n调校：OQQ\n曲绘：Haku白\n视频：伊水_Uryan\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "茉莉花乐团，参上！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "          \n感谢大家对用阿卡贝拉的方式打开经典《茉莉花》的喜爱，\n也再次感谢stafff老师们的精彩创作~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依】用阿卡贝拉的方式打开经典《茉莉花》",
+        "url": "https://www.bilibili.com/video/av904264736",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " \n编曲/混音：EggyWalker\n调校：OQQ\n曲绘：Haku白\n视频：伊水_Uryan\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-04_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c4bbf79742aab63f9d5597940a20a90b36081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 126.7294921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-01-04_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5838b7e4b3cecd29cdab5b91ddca88bf36081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 131.5927734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-01-04_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b38b4b34e3c8f1b90e86d6ee5e39912d36081646.jpg",
+        "width": 4000,
+        "height": 4000,
+        "size_kb": 324.7685546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-01-04_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ca723bc50b3dd60bd2a23cf54670258a36081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 119.1318359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-01-04_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d25cdd338f5c028b9507ec8b65a0f84536081646.jpg",
+        "width": 3000,
+        "height": 2000,
+        "size_kb": 256.490234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-01-04_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4a910bb9230d9705734a614f72190de736081646.jpg",
+        "width": 4000,
+        "height": 4000,
+        "size_kb": 302.0947265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9961,
+    "comment": 309,
+    "forward": 124
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

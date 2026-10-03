@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1189237291389812756",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1189237291389812756",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月9日",
+    "pub_ts": 1775729284,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "用色环打开天依的色彩领域！",
+      "desc": "大家最喜欢什么颜色的天依呀？\n天依猜，肯定是……？",
+      "jump_url": "https://www.bilibili.com/video/BV1KkDWBzE4D",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f42557f56f1ebd2b6e03407a016006294abd3501.jpg",
+      "cover_file": "../../_assets/covers/2026-04-09_1.jpg",
+      "bvid": "BV1KkDWBzE4D",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1KkDWBzE4D",
+        "aid": "116374185706582",
+        "cover": "http://i1.hdslb.com/bfs/archive/f42557f56f1ebd2b6e03407a016006294abd3501.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1KkDWBzE4D",
+        "stat": {
+          "danmaku": "124",
+          "play": "52.2万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "用色环打开天依的色彩领域！",
+        "desc": "大家最喜欢什么颜色的天依呀？\n天依猜，肯定是……？",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 62025,
+    "comment": 1300,
+    "forward": 129
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

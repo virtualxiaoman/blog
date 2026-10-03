@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "457472024854419709",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/457472024854419709",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月14日",
+    "pub_ts": 1605351906,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#和平精英洛天依#  PEC现场重磅官宣！ 洛天依✖️和平精英联动计划决定！ 2021，海岛启程，遇见依人~ #2020和平精英国际冠军杯#\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#和平精英洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  PEC现场重磅官宣！ 洛天依✖️和平精英联动计划决定！ 2021，海岛启程，遇见依人~ "
+      },
+      {
+        "type": "topic",
+        "text": "#2020和平精英国际冠军杯#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%9B%BD%E9%99%85%E5%86%A0%E5%86%9B%E6%9D%AF"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-11-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ec07f30cf0e265cb17d31e1c0b353b85f62425a9.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1371.31,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8660,
+    "comment": 1835,
+    "forward": 213
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "817368362753458194",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/817368362753458194",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689146802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢阿苍的生日祝福~第二款手办也要来啦！大家猜到是天依的哪个主题了嘛？ [古色花香洛天依_期待]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢阿苍的生日祝福~第二款手办也要来啦！大家猜到是天依的哪个主题了嘛？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4456,
+    "comment": 103,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 817317673567256593,
+    "orig_mid": 430351780,
+    "deleted": false,
+    "archive_dir": "../../../430351780/2023-07/2023-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:55:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

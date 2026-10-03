@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "1120491795722010645",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1120491795722010645",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月6日",
+    "pub_ts": 1759723226,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不知天上宫阙，今夕是何年。\n若有月宫仙女，若能踏步明月…会是古往今来，多少诗篇中曾描绘的梦中场景呢～[蛇来运转表情包_洛天依-]\n今日中秋佳节，愿山河无恙，与君岁岁共婵娟。[洛天依·戏游九州动态_惬意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不知天上宫阙，今夕是何年。\n若有月宫仙女，若能踏步明月…会是古往今来，多少诗篇中曾描绘的梦中场景呢～"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今日中秋佳节，愿山河无恙，与君岁岁共婵娟。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-10-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e164d26bb9fb6290a491f7cd50e86b2736081646.jpg",
+        "width": 1500,
+        "height": 2000,
+        "size_kb": 1792.1199951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-10-06_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/39730eb608e557274f6d724054cf972936081646.png",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 1080.739990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9684,
+    "comment": 739,
+    "forward": 204
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

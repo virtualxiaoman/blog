@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1208076800330039315",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1208076800330039315",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月30日",
+    "pub_ts": 1780115699,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "💙2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会\n主视觉设定「纯蓝幻乐」Ver.公开～[洛天依动态流光协奏_捧花]\n\n被赋予蓝色定义，封印于冰河之下的「纯蓝魔女」\n将冰晶凝作裙摆，织鲜花遍布裙身\n洒宇宙星尘点缀帽檐，引海洋浪花落于发尾\n铺上柔软的云朵，再引蝴蝶翩跹\n她是调和万物色彩的魔法师，是与万千情感共鸣的指挥家\n六大城市，六大主题，即将为少女编织六套蔚蓝幻彩衣装\n\n🎶 巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n热烈的期盼即将唤醒少女，请不吝呼唤她的名字——\n让沉寂的心音河再次奔涌，让世界绽放为她的蓝色吧！[洛天依动态流光协奏_打call]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "💙2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会\n主视觉设定「纯蓝幻乐」Ver.公开～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n被赋予蓝色定义，封印于冰河之下的「纯蓝魔女」\n将冰晶凝作裙摆，织鲜花遍布裙身\n洒宇宙星尘点缀帽檐，引海洋浪花落于发尾\n铺上柔软的云朵，再引蝴蝶翩跹\n她是调和万物色彩的魔法师，是与万千情感共鸣的指挥家\n六大城市，六大主题，即将为少女编织六套蔚蓝幻彩衣装\n\n🎶 巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n热烈的期盼即将唤醒少女，请不吝呼唤她的名字——\n让沉寂的心音河再次奔涌，让世界绽放为她的蓝色吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-30_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3dda007ef33d5e32c8ac9843a4f23bff36081646.png",
+        "width": 750,
+        "height": 11848,
+        "size_kb": 13058.48046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-05-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/85cf38947bd17b8fac9dabce7049d96136081646.jpg",
+        "width": 3128,
+        "height": 1972,
+        "size_kb": 4702.5498046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6679,
+    "comment": 539,
+    "forward": 169
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

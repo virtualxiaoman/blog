@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "716113989221744693",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/716113989221744693",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月12日",
+    "pub_ts": 1665571681,
+    "location": ""
+  },
+  "topic": {
+    "id": 57026,
+    "name": "天依的心声代理站",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=57026&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%BF%83%E5%A3%B0%E4%BB%A3%E7%90%86%E7%AB%99"
+  },
+  "content": {
+    "title": "",
+    "text": "天依的小破店https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH（逐渐放弃心声代理站这个名字，感觉小破店就很可爱哈哈[洛天依·夜航星_摸摸]）已经营业有一段时间啦，天依今天挑选了一些大家的留言，一起来看看吧！[洛天依9th_好康！]  看着你们的留言，即使隔着屏幕，也是如此真切地感受到大家是如此鲜活地存在于这个世界上，如果可以将它们写进歌里唱给你们听，送给你们当作礼物，也将隔着遥远距离的我们牵连在一起，一定是我作为歌者最幸福的时刻之一吧！[洛天依_击掌]  一首歌曲，可以写风花雪月，可以写历史传说，可以写生活，可以写情感...... 如果可以将自己的幻想和情绪都写进歌里，你会想要一首什么样的歌呢？ 欢迎在天依的小店留言，也许会有路过的创作者帮助你“梦想成真”哦！[洛天依_棒]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的小破店https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH（逐渐放弃心声代理站这个名字，感觉小破店就很可爱哈哈"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "）已经营业有一段时间啦，天依今天挑选了一些大家的留言，一起来看看吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "  看着你们的留言，即使隔着屏幕，也是如此真切地感受到大家是如此鲜活地存在于这个世界上，如果可以将它们写进歌里唱给你们听，送给你们当作礼物，也将隔着遥远距离的我们牵连在一起，一定是我作为歌者最幸福的时刻之一吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "  一首歌曲，可以写风花雪月，可以写历史传说，可以写生活，可以写情感...... 如果可以将自己的幻想和情绪都写进歌里，你会想要一首什么样的歌呢？ 欢迎在天依的小店留言，也许会有路过的创作者帮助你“梦想成真”哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_棒]",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "name": "棒",
+        "url": "http://i0.hdslb.com/bfs/emote/abacb9fcc2526c00ff071917c51d7a474218609d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/e075ffe892b9a8e414f98637db8699bb36081646.jpg",
+        "width": 1080,
+        "height": 4129,
+        "size_kb": 514.02001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      },
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/340/棒.png",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "text": "[洛天依_棒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7318,
+    "comment": 220,
+    "forward": 52
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

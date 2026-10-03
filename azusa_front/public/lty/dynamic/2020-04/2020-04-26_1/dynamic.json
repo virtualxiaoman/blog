@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "382571669276938805",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/382571669276938805",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月26日",
+    "pub_ts": 1587912808,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "晚安",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "晚安"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10489,
+    "comment": 802,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 381970511295410701,
+    "orig_mid": 22873623,
+    "deleted": false,
+    "archive_dir": "../../../22873623/2020-04/2020-04-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "id": "1141738230163439621",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1141738230163439621",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月2日",
+    "pub_ts": 1764670047,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依完美劲敌#\n「人格镜像」第一季「完美劲敌」VOL.3「指引」\n原初神祇「The Uranus领袖」&「The Raphael庇护」档案情报公开～[逆转童话动态_吃书]\n\n“最完美的宿命是——\n映出互补的光芒。”[逆转童话动态_微笑]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依完美劲敌#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%AE%8C%E7%BE%8E%E5%8A%B2%E6%95%8C"
+      },
+      {
+        "type": "text",
+        "text": "\n「人格镜像」第一季「完美劲敌」VOL.3「指引」\n原初神祇「The Uranus领袖」&「The Raphael庇护」档案情报公开～"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“最完美的宿命是——\n映出互补的光芒。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_微笑]",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/28b7f06a3b55053c7bdebd7bf1bb006e6278fea4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-02_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/19d467388b980e5368c70be507c039a636081646.png",
+        "width": 7462,
+        "height": 4198,
+        "size_kb": 11349.830078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-02_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c0e3bc8d53281544979b4fb52e503e2036081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2325.75,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/微笑.gif",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "text": "[逆转童话动态_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5065,
+    "comment": 192,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

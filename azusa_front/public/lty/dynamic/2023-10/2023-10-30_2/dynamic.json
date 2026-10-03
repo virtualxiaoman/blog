@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "858263293306863657",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/858263293306863657",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月30日",
+    "pub_ts": 1698668395,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "咕噜咕噜゜○。○゜。Ｏ°ｏ○。_8(ÒωÓ๑ゝ∠)_",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "咕噜咕噜゜○。○゜。Ｏ°ｏ○。_8(ÒωÓ๑ゝ∠)_"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4875,
+    "comment": 132,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 857098609857921072,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2023-10/2023-10-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

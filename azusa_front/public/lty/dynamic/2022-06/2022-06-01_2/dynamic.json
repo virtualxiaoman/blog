@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "666793724298133621",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/666793724298133621",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月1日",
+    "pub_ts": 1654088412,
+    "location": ""
+  },
+  "topic": {
+    "id": 37451,
+    "name": "绿色清风治愈计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=37451&topic_name=%E7%BB%BF%E8%89%B2%E6%B8%85%E9%A3%8E%E6%B2%BB%E6%84%88%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#很荣幸担任清风品牌首位虚拟代言人！天依希望能跟清风一起，把浪漫的生活轻轻捧住，将美妙与幸福层层叠放，让更多人感受到治愈能量～ 6月1日-7月15日，参与清风发起的#绿色清风治愈计划#召集令活动，在首页领取投稿灵感，分享出你的绿色生活vlog/你独特的绿色低碳见解/用清风纸巾创作出一些有趣的、高颜值的手工品，就有机会瓜分万元现金，还有众多精美礼品等你带走。快用充满奇思妙想的创意支援我们吧！ 坚持每日签到，获取治愈值，为地球注入绿色低碳能量，还可以解锁专属大奖哦！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "很荣幸担任清风品牌首位虚拟代言人！天依希望能跟清风一起，把浪漫的生活轻轻捧住，将美妙与幸福层层叠放，让更多人感受到治愈能量～ 6月1日-7月15日，参与清风发起的"
+      },
+      {
+        "type": "topic",
+        "text": "#绿色清风治愈计划#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E8%89%B2%E6%B8%85%E9%A3%8E%E6%B2%BB%E6%84%88%E8%AE%A1%E5%88%92"
+      },
+      {
+        "type": "text",
+        "text": "召集令活动，在首页领取投稿灵感，分享出你的绿色生活vlog/你独特的绿色低碳见解/用清风纸巾创作出一些有趣的、高颜值的手工品，就有机会瓜分万元现金，还有众多精美礼品等你带走。快用充满奇思妙想的创意支援我们吧！ 坚持每日签到，获取治愈值，为地球注入绿色低碳能量，还可以解锁专属大奖哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/013fbcbeb72ac83c498aa10762557b5fa21b2552.jpg",
+        "width": 750,
+        "height": 1352,
+        "size_kb": 1076.8486328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7711,
+    "comment": 294,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

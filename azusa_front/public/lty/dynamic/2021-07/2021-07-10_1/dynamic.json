@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "545667511830613712",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/545667511830613712",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月10日",
+    "pub_ts": 1625886518,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#音乐现场# #现场# #演唱会# #BML# #BML2021# #LIVE# #音乐# #BML-VR2021#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#音乐现场#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#现场#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML#",
+        "url": "https://search.bilibili.com/all?keyword=BML"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML2021"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#LIVE#",
+        "url": "https://search.bilibili.com/all?keyword=LIVE"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#音乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML-VR2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML-VR2021"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依鹿乃对你的《谎言是恋爱的开始》，期待你的爱",
+      "desc": "你心动了吗？",
+      "jump_url": "https://www.bilibili.com/video/BV1s54y1n7iJ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b5b03a137e4aa3d03b3adb74dc69a196e92f3c5c.jpg",
+      "cover_file": "../../_assets/covers/2021-07-10_1.jpg",
+      "bvid": "BV1s54y1n7iJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1s54y1n7iJ",
+        "aid": "846619674",
+        "cover": "http://i1.hdslb.com/bfs/archive/b5b03a137e4aa3d03b3adb74dc69a196e92f3c5c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1s54y1n7iJ",
+        "stat": {
+          "danmaku": "2068",
+          "play": "93.2万",
+          "vt": ""
+        },
+        "duration_text": "05:50",
+        "title": "天依鹿乃对你的《谎言是恋爱的开始》，期待你的爱",
+        "desc": "你心动了吗？",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 57121,
+    "comment": 2147,
+    "forward": 19
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

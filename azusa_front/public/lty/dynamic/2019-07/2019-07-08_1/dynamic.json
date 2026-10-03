@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "273745139385659938",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/273745139385659938",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月8日",
+    "pub_ts": 1562574657,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "还没有预约的小伙伴记得点击预约哟~可以领取天依的勋章哒，记得要佩戴上(≧ω≦)/。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "还没有预约的小伙伴记得点击预约哟~可以领取天依的勋章哒，记得要佩戴上(≧ω≦)/。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4669,
+    "comment": 771,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 273277395974679416,
+    "orig_mid": 9617619,
+    "deleted": false,
+    "archive_dir": "../../../9617619/2019-07/2019-07-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

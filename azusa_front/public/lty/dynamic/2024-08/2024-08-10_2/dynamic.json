@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "963739130469023764",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/963739130469023764",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月10日",
+    "pub_ts": 1723226402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@冷瞳ぃ梦@釀釀醬醬@Herobrine零值等6位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@冷瞳ぃ梦",
+        "mid": 172372891,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@釀釀醬醬",
+        "mid": 643855357,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@Herobrine零值",
+        "mid": 346729666,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等6位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3684,
+    "comment": 70,
+    "forward": 9
+  },
+  "forward": {
+    "orig_id": 947614216715501569,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-06/2024-06-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

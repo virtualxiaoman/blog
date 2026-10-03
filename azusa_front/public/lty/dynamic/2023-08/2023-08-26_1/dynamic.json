@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "834060327965425769",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/834060327965425769",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月26日",
+    "pub_ts": 1693033203,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依收藏集，你收藏阵中的“不可或缺”",
+      "desc": "天依游学记·歌行\n洛天依收藏集\n成为你收藏阵中的“不可或缺”\n\n又又又解锁重磅奖励啦\n新增奖励 定制动态个性主题\n9月1日14:00惊喜上线\n\n粉丝专属福利\n截止8月26日23:59:59，购买过【洛天依8th生日纪念】、【洛天依9th生日纪念】、【洛天依十周年】、【代号洛天依】任意一套永久粉丝套装的粉丝，都将获得【洛天依收藏集-天依游学记·歌行】的1抽赠抽！\n\n众筹福利 等你解锁\n5W抽数——可解锁专属动态音声卡…\n\n快来说说，你期待在天依收藏集中邂逅_______?\n更多重磅惊喜，敬请期待！",
+      "jump_url": "https://www.bilibili.com/video/BV1Um4y1M7Hz",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/37e0cc9833b6a4482a45585798afd75aa8190fca.jpg",
+      "cover_file": "../../_assets/covers/2023-08-26_1.jpg",
+      "bvid": "BV1Um4y1M7Hz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Um4y1M7Hz",
+        "aid": "702640351",
+        "cover": "http://i2.hdslb.com/bfs/archive/37e0cc9833b6a4482a45585798afd75aa8190fca.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Um4y1M7Hz",
+        "stat": {
+          "danmaku": "16",
+          "play": "8.7万",
+          "vt": ""
+        },
+        "duration_text": "00:32",
+        "title": "洛天依收藏集，你收藏阵中的“不可或缺”",
+        "desc": "天依游学记·歌行\n洛天依收藏集\n成为你收藏阵中的“不可或缺”\n\n又又又解锁重磅奖励啦\n新增奖励 定制动态个性主题\n9月1日14:00惊喜上线\n\n粉丝专属福利\n截止8月26日23:59:59，购买过【洛天依8th生日纪念】、【洛天依9th生日纪念】、【洛天依十周年】、【代号洛天依】任意一套永久粉丝套装的粉丝，都将获得【洛天依收藏集-天依游学记·歌行】的1抽赠抽！\n\n众筹福利 等你解锁\n5W抽数——可解锁专属动态音声卡…\n\n快来说说，你期待在天依收藏集中邂逅_______?\n更多重磅惊喜，敬请期待！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11390,
+    "comment": 87,
+    "forward": 23
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

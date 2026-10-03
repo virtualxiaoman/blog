@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "241124291541798656",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/241124291541798656",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月11日",
+    "pub_ts": 1554979524,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#VOCALOID##洛天依##原创歌曲#又名《小抹布之歌》《超市的太阳虾》或者《大狗歌》",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#原创歌曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2"
+      },
+      {
+        "type": "text",
+        "text": "又名《小抹布之歌》《超市的太阳虾》或者《大狗歌》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依，原创《写给我家狗的歌》",
+      "desc": "1.专辑曲第好几弹，曾用名《超市的太阳虾》，老观众可能有印象。\n2.原本的填词因为夹带私货不好发布，但是又有点白瞎了这个曲，于是重新填了个词。\n3.准备填词的时候已经很晚了，我在那想破头皮一筹莫展，小抹布虽然已经很困，但是一直在旁边努力绕来绕去的陪着我。\n4.我发现我还在想什么，就把这一首送给小抹布好了。\n5.小抹布是一只10%的虎，20%的快乐和70%的怂构成的，100%可爱的狗。PV里的形象基本是小抹布本抹布。            \n6.顺带说，小抹布认定的主人实际是张老师。在它眼里我是一条大狗。",
+      "jump_url": "https://www.bilibili.com/video/BV1ab411M7zx",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/4f821e8c79ed343f5663c15c3b5348d93f86683f.jpg",
+      "cover_file": "../../_assets/covers/2019-04-11_1.jpg",
+      "bvid": "BV1ab411M7zx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ab411M7zx",
+        "aid": "48968906",
+        "cover": "http://i0.hdslb.com/bfs/archive/4f821e8c79ed343f5663c15c3b5348d93f86683f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ab411M7zx",
+        "stat": {
+          "danmaku": "1937",
+          "play": "70.7万",
+          "vt": ""
+        },
+        "duration_text": "02:12",
+        "title": "洛天依，原创《写给我家狗的歌》",
+        "desc": "1.专辑曲第好几弹，曾用名《超市的太阳虾》，老观众可能有印象。\n2.原本的填词因为夹带私货不好发布，但是又有点白瞎了这个曲，于是重新填了个词。\n3.准备填词的时候已经很晚了，我在那想破头皮一筹莫展，小抹布虽然已经很困，但是一直在旁边努力绕来绕去的陪着我。\n4.我发现我还在想什么，就把这一首送给小抹布好了。\n5.小抹布是一只10%的虎，20%的快乐和70%的怂构成的，100%可爱的狗。PV里的形象基本是小抹布本抹布。            \n6.顺带说，小抹布认定的主人实际是张老师。在它眼里我是一条大狗。\n",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 46715,
+    "comment": 6337,
+    "forward": 1
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

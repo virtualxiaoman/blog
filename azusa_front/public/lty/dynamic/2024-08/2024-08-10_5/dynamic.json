@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "963917994188079112",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/963917994188079112",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月10日",
+    "pub_ts": 1723268047,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "“笨蛋，我的小心思，你怎么就不懂！”[洛天依9th_气鼓鼓]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“笨蛋，我的小心思，你怎么就不懂！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_气鼓鼓]",
+        "package_id": "255",
+        "emoji_id": "4236",
+        "name": "气鼓鼓",
+        "url": "http://i0.hdslb.com/bfs/emote/629b3492a5e143d51356af647b0a9950edfe41bc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-10_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a30b3a40dbec74e8f7fca4c2360e792236081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 644.1500244140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/气鼓鼓.png",
+        "package_id": "255",
+        "emoji_id": "4236",
+        "text": "[洛天依9th_气鼓鼓]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11076,
+    "comment": 583,
+    "forward": 145
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

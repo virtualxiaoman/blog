@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "894176126224564406",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/894176126224564406",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月4日",
+    "pub_ts": 1707030003,
+    "location": ""
+  },
+  "topic": {
+    "id": 1099829,
+    "name": "2024虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1099829&topic_name=2024%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创】此身化为蛟龙，到深海更深处去《游向深蓝之渊》【2024虚拟歌手贺岁纪单品】",
+      "desc": "《游向深蓝之渊》\n\n演唱：洛天依\n作词：冥凰\n作曲：依溪禾\n编曲：清风疾行\n调校：坐标P\n混音/母带：Digifan\n和声编写：DBRT & 依溪禾\n吉他：李佳劼katsu\n\n绘画：nuEZ\n美工：篮子\n视频：烧瓶工作室\n视频监制：SHORPIN & 王明殇\n\n协力：一只岁碎 & 星葵\n策划：CARDINAL星海\n\n#2024虚拟歌手贺岁纪#二创素材：\nhttps://pan.baidu.com/s/1aVEnStlzrC66oXuLDHjw-A?pwd=2024",
+      "jump_url": "https://www.bilibili.com/video/BV1a2421w7B8",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8a079be3f1fe8d7668aab0b9704df8cfa1dfbb76.jpg",
+      "cover_file": "../../_assets/covers/2024-02-04_1.jpg",
+      "bvid": "BV1a2421w7B8",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1a2421w7B8",
+        "aid": "1600127552",
+        "cover": "http://i1.hdslb.com/bfs/archive/8a079be3f1fe8d7668aab0b9704df8cfa1dfbb76.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1a2421w7B8",
+        "stat": {
+          "danmaku": "519",
+          "play": "47.7万",
+          "vt": ""
+        },
+        "duration_text": "03:23",
+        "title": "【洛天依原创】此身化为蛟龙，到深海更深处去《游向深蓝之渊》【2024虚拟歌手贺岁纪单品】",
+        "desc": "《游向深蓝之渊》\n\n演唱：洛天依\n作词：冥凰\n作曲：依溪禾\n编曲：清风疾行\n调校：坐标P\n混音/母带：Digifan\n和声编写：DBRT & 依溪禾\n吉他：李佳劼katsu\n\n绘画：nuEZ\n美工：篮子\n视频：烧瓶工作室\n视频监制：SHORPIN & 王明殇\n\n协力：一只岁碎 & 星葵\n策划：CARDINAL星海\n\n#2024虚拟歌手贺岁纪#二创素材：\nhttps://pan.baidu.com/s/1aVEnStlzrC66oXuLDHjw-A?pwd=2024",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 47988,
+    "comment": 914,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "778104343185326128",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/778104343185326128",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年3月28日",
+    "pub_ts": 1680004935,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我的小风筝[洛天依_问号]是回不去的渐行渐远的那段时光呀~[洛天依_许愿]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我的小风筝"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_问号]",
+        "package_id": "340",
+        "emoji_id": "7266",
+        "name": "问号",
+        "url": "http://i0.hdslb.com/bfs/emote/cf1abbba4ee63a06c313285b699f8760738c4d82.png"
+      },
+      {
+        "type": "text",
+        "text": "是回不去的渐行渐远的那段时光呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/问号.png",
+        "package_id": "340",
+        "emoji_id": "7266",
+        "text": "[洛天依_问号]"
+      },
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7095,
+    "comment": 335,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 765100354702409923,
+    "orig_mid": 10282294,
+    "deleted": false,
+    "archive_dir": "../../../10282294/2023-02/2023-02-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

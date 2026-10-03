@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "922425496213389336",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/922425496213389336",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月20日",
+    "pub_ts": 1713607322,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依# \n在所有混乱迷失的时空里，你见证我的一切，并与我同在。\n\n错时空保护程序系列\n启示之瞳系列\n新品周边抢先看\n即将开启预售，敬请期待~[代号洛天依_好奇]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \n在所有混乱迷失的时空里，你见证我的一切，并与我同在。\n\n错时空保护程序系列\n启示之瞳系列\n新品周边抢先看\n即将开启预售，敬请期待~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好奇]",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "name": "好奇",
+        "url": "https://i0.hdslb.com/bfs/emote/80da8619e3ccf95d4129a06099d592fca5fa49fe.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-20_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/07867c7ab7c0d4ca51726cdd76c6cfcb36081646.png",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 3024.9462890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-20_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c6a2ebd395914a6525544dbf43d57dfc36081646.png",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 2146.6015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-20_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d209db87a23ebcba0c51bd3083b154d436081646.png",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 3468.0849609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-04-20_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/50d1af907eb24440c7d62e78f9173b7636081646.png",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 3820.2958984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好奇.png",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "text": "[代号洛天依_好奇]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5455,
+    "comment": 215,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "784427789150322691",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/784427789150322691",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月14日",
+    "pub_ts": 1681477227,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "咳咳咳，我乃宇宙洛半仙[洛天依幻游世界_变欧皇]\n今天坐在家里掐指那么一算呐，感觉有人，欧气冲天!\n（给我蹭蹭你们的欧气嘛~[古色花香洛天依_欧皇]） \n很重要的P.S. ！！！金光虽美妙，也要保持理性哦[古色花香洛天依_无辜]\n\n[洛天依幻游世界_锦鲤保佑]欧气传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "咳咳咳，我乃宇宙洛半仙"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_变欧皇]",
+        "package_id": "1066",
+        "emoji_id": "18931",
+        "name": "变欧皇",
+        "url": "https://i0.hdslb.com/bfs/garb/item/b19056279ed68163c6949b36a1651e14bf591f74.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今天坐在家里掐指那么一算呐，感觉有人，欧气冲天!\n（给我蹭蹭你们的欧气嘛~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_欧皇]",
+        "package_id": "1096",
+        "emoji_id": "19436",
+        "name": "欧皇",
+        "url": "https://i0.hdslb.com/bfs/garb/item/32c79a09fef52510377cec64d85ea91503036e5f.png"
+      },
+      {
+        "type": "text",
+        "text": "） \n很重要的P.S. ！！！金光虽美妙，也要保持理性哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_无辜]",
+        "package_id": "1096",
+        "emoji_id": "19432",
+        "name": "无辜",
+        "url": "https://i0.hdslb.com/bfs/garb/item/7cddd1e52a2af22dcf0687e96f2a3b5bd063d724.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_锦鲤保佑]",
+        "package_id": "1066",
+        "emoji_id": "18934",
+        "name": "锦鲤保佑",
+        "url": "https://i0.hdslb.com/bfs/garb/item/93fad16d3ab28739667b6c276f02bfdbbcf58cb7.png"
+      },
+      {
+        "type": "text",
+        "text": "欧气传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/activity/live-activity-full/full-next/index.html?is_live_full_webview=1&app_name=incr_lty_lottery_2023&is_live_webview=1&-Abrowser=live#/"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-14_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/96d47120e479e1da789343e759eaf69c36081646.png",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 1655.6171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/变欧皇.png",
+        "package_id": "1066",
+        "emoji_id": "18931",
+        "text": "[洛天依幻游世界_变欧皇]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/欧皇.png",
+        "package_id": "1096",
+        "emoji_id": "19436",
+        "text": "[古色花香洛天依_欧皇]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/无辜.png",
+        "package_id": "1096",
+        "emoji_id": "19432",
+        "text": "[古色花香洛天依_无辜]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/锦鲤保佑.png",
+        "package_id": "1066",
+        "emoji_id": "18934",
+        "text": "[洛天依幻游世界_锦鲤保佑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7415,
+    "comment": 485,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:52:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

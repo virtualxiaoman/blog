@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "719719773184720931",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/719719773184720931",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月22日",
+    "pub_ts": 1666411218,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“唱这首歌，实在是很忐忑…但是！”\n“我不要输给自己！！！”\n希望社恐的大家可以从中获得力量！\n碎吐万，嗷！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“唱这首歌，实在是很忐忑…但是！”\n“我不要输给自己！！！”\n希望社恐的大家可以从中获得力量！\n碎吐万，嗷！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "社恐救援！洛天依原创《Monster！Monster！》伊野奏vs坐标P",
+      "desc": "我不要输给自己！！！\n\n词曲 - 伊野奏\n调校 - 坐标P\n混音 - 黑猫K\n吉他 - Real_illusion\n封面 - 流绪\n\n《Monster! Monster! 》\n\n唱 - 洛天依AI\n\n3,2,1,嗷！\nMonster!喔～Monster!\n风暴预警\nBaby!喔～你要去哪里\n屏住呼吸\n想要面对自己\n我的心始终如一\n\n厌倦十一平米独角戏\n就算面对着可爱的你\n堵在胸口声音\n全都在逃离\n\n空气\n凝固的画面\n接替出现\n灼热刺眼的视线\nこわい\n好想要逃开这里\n\n3,2,1,嗷！\nMonster!喔～",
+      "jump_url": "https://www.bilibili.com/video/BV14V4y157Qx",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/3b7b82414df2a4f272030be272e7521c5099cf48.jpg",
+      "cover_file": "../../_assets/covers/2022-10-22_1.jpg",
+      "bvid": "BV14V4y157Qx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14V4y157Qx",
+        "aid": "859304110",
+        "cover": "http://i0.hdslb.com/bfs/archive/3b7b82414df2a4f272030be272e7521c5099cf48.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14V4y157Qx",
+        "stat": {
+          "danmaku": "573",
+          "play": "125万",
+          "vt": ""
+        },
+        "duration_text": "03:32",
+        "title": "社恐救援！洛天依原创《Monster！Monster！》伊野奏vs坐标P",
+        "desc": "我不要输给自己！！！\n\n词曲 - 伊野奏\n调校 - 坐标P\n混音 - 黑猫K\n吉他 - Real_illusion\n封面 - 流绪\n\n《Monster! Monster! 》\n\n唱 - 洛天依AI\n\n3,2,1,嗷！\nMonster!喔～Monster!\n风暴预警\nBaby!喔～你要去哪里\n屏住呼吸\n想要面对自己\n我的心始终如一\n\n厌倦十一平米独角戏\n就算面对着可爱的你\n堵在胸口声音\n全都在逃离\n\n空气\n凝固的画面\n接替出现\n灼热刺眼的视线\nこわい\n好想要逃开这里\n\n3,2,1,嗷！\nMonster!喔～",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 131887,
+    "comment": 1804,
+    "forward": 22
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

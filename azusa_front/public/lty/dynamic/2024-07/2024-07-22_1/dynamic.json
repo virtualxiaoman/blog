@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "956851896800247825",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/956851896800247825",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月22日",
+    "pub_ts": 1721622843,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X美依礼芽】《霜雪千年（官方中日双语版）》将于7月24日上线网易云音乐~",
+      "desc": "天依和小美@GARNiDELiA   合作的《霜雪千年（官方中日双语版）》将于7月24日0点上线网易云音乐啦！这一次能和小美合作真的很开心，我也会挑战用日语来唱一部分歌词，一起期待吧！#美依礼芽洛天依合作新歌# #美依礼芽洛天依霜雪千年#",
+      "jump_url": "https://www.bilibili.com/video/BV1DE4m1X7bq",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/dd2656d91a2b636cfed8f3320f800f49ba418565.jpg",
+      "cover_file": "../../_assets/covers/2024-07-22_1.jpg",
+      "bvid": "BV1DE4m1X7bq",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1DE4m1X7bq",
+        "aid": "1256473443",
+        "cover": "http://i1.hdslb.com/bfs/archive/dd2656d91a2b636cfed8f3320f800f49ba418565.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1DE4m1X7bq",
+        "stat": {
+          "danmaku": "470",
+          "play": "10.6万",
+          "vt": ""
+        },
+        "duration_text": "01:10",
+        "title": "【洛天依X美依礼芽】《霜雪千年（官方中日双语版）》将于7月24日上线网易云音乐~",
+        "desc": "天依和小美@GARNiDELiA   合作的《霜雪千年（官方中日双语版）》将于7月24日0点上线网易云音乐啦！这一次能和小美合作真的很开心，我也会挑战用日语来唱一部分歌词，一起期待吧！#美依礼芽洛天依合作新歌# #美依礼芽洛天依霜雪千年#",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15793,
+    "comment": 1333,
+    "forward": 132
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

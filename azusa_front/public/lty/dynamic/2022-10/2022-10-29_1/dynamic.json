@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "id": "722410265260326919",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/722410265260326919",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1667037647,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 #洛天依#【新品预售即将开启】 转发并关注,随机抽选1位小伙伴赠送洛天依换装玩偶套装版一个（款式自选）。  ◆【预售新品】 -TAITO Vsinger 洛天依 复活节Ver. 景品手办 -Vsinger 洛天依换装玩偶（白虎款/草莓款/雏菊款） *注：换装玩偶的娃衣可适用于20cm棉花娃娃   ◆活动日期：11月1日 00:00~11月11日 23:59  ◆活动优惠： -Vsinger 洛天依换装玩偶   bilibili会员购前50名尾款减100元（限套装），接欧气宝箱100%随机减尾款。  -TAITO Vsinger 洛天依 复活节Ver. 景品手办 bilibili会员购前300名免尾款，接欧气宝箱100%随机减尾款。  寒冷的冬天即将来临，让小天依玩偶和兔兔依温暖你的冬天吧，如果你愿意给她换上新衣服的话，她一定会很开心哒！  实物图详情请戳下方长图查看~↓↓↓\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "116883",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "【新品预售即将开启】 转发并关注,随机抽选1位小伙伴赠送洛天依换装玩偶套装版一个（款式自选）。  ◆【预售新品】 -TAITO Vsinger 洛天依 复活节Ver. 景品手办 -Vsinger 洛天依换装玩偶（白虎款/草莓款/雏菊款） *注：换装玩偶的娃衣可适用于20cm棉花娃娃   ◆活动日期：11月1日 00:00~11月11日 23:59  ◆活动优惠： -Vsinger 洛天依换装玩偶   bilibili会员购前50名尾款减100元（限套装），接欧气宝箱100%随机减尾款。  -TAITO Vsinger 洛天依 复活节Ver. 景品手办 bilibili会员购前300名免尾款，接欧气宝箱100%随机减尾款。  寒冷的冬天即将来临，让小天依玩偶和兔兔依温暖你的冬天吧，如果你愿意给她换上新衣服的话，她一定会很开心哒！  实物图详情请戳下方长图查看~↓↓↓"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c281e8c3da27e90ce05a23b248ff81bb36081646.jpg",
+        "width": 1000,
+        "height": 1001,
+        "size_kb": 133.0500030517578,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-10-29_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2d7930ffde720cf9a1694a5c000f1f2c36081646.jpg",
+        "width": 1000,
+        "height": 1001,
+        "size_kb": 142.49000549316406,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-10-29_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4ea260544d7ce1b8dc83e3dccd04a42036081646.jpg",
+        "width": 1000,
+        "height": 12192,
+        "size_kb": 9004.3203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-10-29_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8a9798a2ff266730352d6a17c53e886a36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 167.3699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-10-29_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/86ab73c12effa7d9ac2774f819e7b01a36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 133.14999389648438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-10-29_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/e240a3794a62f55ffe16105d8e2b2c2036081646.jpg",
+        "width": 1000,
+        "height": 11668,
+        "size_kb": 1120.1800537109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "116883"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

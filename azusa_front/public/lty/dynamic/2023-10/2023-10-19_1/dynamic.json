@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "854145484806160403",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/854145484806160403",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月19日",
+    "pub_ts": 1697709643,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n【新品上架】「BLACKRAY ENJOY 洛天依 青鸟传信VER.超景品手办」\n转发并关注，揪1位小伙伴送出同款超景品手办1个\n\n“蓬山此处无多路，青鸟殷勤为探看”\n云外而来的青衣信使，为你遥寄祝福之音。\n愿你所愿所念，行到深处，必有回响。\n\n天依很高兴再次牵手@领子明 老师，将备受大家喜爱的2022七夕设定#洛天依青鸟传信#以高质量超景品手办的形式带给大家~[古色花香洛天依_撒花]\n\n※手办信息※\n原画：@TAIZAaaa \n出品方：BLACKRAY ENJOY\n规格：PVC&ABS涂装完成品\n高度：259mm（含底座）\n比例：1/8\n售价：399 元\n预售时间：2023年10月31日 20点\n传送门：网页链接\n\n※独家特典\n将在双11登陆@哔哩哔哩会员购 ，敬请关注！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "200122",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n【新品上架】「BLACKRAY ENJOY 洛天依 青鸟传信VER.超景品手办」\n转发并关注，揪1位小伙伴送出同款超景品手办1个\n\n“蓬山此处无多路，青鸟殷勤为探看”\n云外而来的青衣信使，为你遥寄祝福之音。\n愿你所愿所念，行到深处，必有回响。\n\n天依很高兴再次牵手"
+      },
+      {
+        "type": "mention",
+        "text": "@领子明 ",
+        "mid": 404985296,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师，将备受大家喜爱的2022七夕设定"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依青鸟传信#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%9D%92%E9%B8%9F%E4%BC%A0%E4%BF%A1"
+      },
+      {
+        "type": "text",
+        "text": "以高质量超景品手办的形式带给大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_撒花]",
+        "package_id": "1096",
+        "emoji_id": "19443",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ba344fa47780d11bcf242fd85d5f896b98e19893.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※手办信息※\n原画："
+      },
+      {
+        "type": "mention",
+        "text": "@TAIZAaaa ",
+        "mid": 10936275,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n出品方：BLACKRAY ENJOY\n规格：PVC&ABS涂装完成品\n高度：259mm（含底座）\n比例：1/8\n售价：399 元\n预售时间：2023年10月31日 20点\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/uMcZBks"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※独家特典\n将在双11登陆"
+      },
+      {
+        "type": "mention",
+        "text": "@哔哩哔哩会员购 ",
+        "mid": 174501086,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "，敬请关注！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-19_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/376511b81b27bf61f2afa430f8cc6a5636081646.jpg",
+        "width": 1461,
+        "height": 1080,
+        "size_kb": 686.02001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-10-19_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/cc736e897bf849c387e8131bcc3d6ef136081646.jpg",
+        "width": 1594,
+        "height": 1080,
+        "size_kb": 961.02001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-10-19_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1bdc057f3eb032f95e2da7cb26377ff436081646.jpg",
+        "width": 1080,
+        "height": 1494,
+        "size_kb": 692.239990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-10-19_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/c9f9976ede5dcd143482ddf5ed1a840a36081646.jpg",
+        "width": 1497,
+        "height": 1080,
+        "size_kb": 696.9299926757812,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-10-19_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/278ffa7b7393ce9dfd636c01ff42033036081646.jpg",
+        "width": 1594,
+        "height": 1080,
+        "size_kb": 942.3800048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-10-19_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/e4e83619ffe1a2192ad1727e0b95e6b936081646.jpg",
+        "width": 712,
+        "height": 744,
+        "size_kb": 109.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-10-19_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/aff2b06132ec4324117ed64c9efa5bde36081646.jpg",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 1028.2099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-10-19_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/30c38c4624f1755e606d8783dbcdbdd236081646.jpg",
+        "width": 1235,
+        "height": 1080,
+        "size_kb": 570.8300170898438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-10-19_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1d76da435ccba802673af8fe53ae3b1b36081646.jpg",
+        "width": 1168,
+        "height": 1062,
+        "size_kb": 129.3699951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/撒花.png",
+        "package_id": "1096",
+        "emoji_id": "19443",
+        "text": "[古色花香洛天依_撒花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "BLACKRAY Vsinger 洛天依 青鸟传信 比例手办",
+            "price": "¥369",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/45/5f/455f42546721f1936436221b399e7c6e.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10190645&msource=cps_Mdynamic_36081646_cont-2-854145484806160403&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-10-19_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "200122"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10919,
+    "comment": 1811,
+    "forward": 11028
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

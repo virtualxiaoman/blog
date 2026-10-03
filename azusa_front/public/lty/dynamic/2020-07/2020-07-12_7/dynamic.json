@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "411117851582959416",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/411117851582959416",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月12日",
+    "pub_ts": 1594559234,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#VSINGER##洛天依生日快乐##2020洛天依生日会#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#VSINGER#",
+        "url": "https://search.bilibili.com/all?keyword=VSINGER"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】2020.7.12洛天依生日会",
+      "desc": "从2012年一路走至2020年，8年间刻画下的无数回忆，都在生日会上娓娓道来。\n大家的每一次应援，每一条弹幕都无可替代，都凝结着无可比拟的珍贵回忆。\n希望天依的歌声能鼓起每个人心中的勇气，跨过悲伤、无力，去迎接希望。\n愿我们一同携手成长~相扶相伴。\n天依的首张官方数字专辑也已经上线，等你来听。\n试听： BV1Tp4y1S7cu\n购买：https://y.music.163.com/m/album?id=92206376",
+      "jump_url": "https://www.bilibili.com/video/BV1Hk4y1B7Cx",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5347eafb5a65ad9a9ffc39063d686772ea1298c4.jpg",
+      "cover_file": "../../_assets/covers/2020-07-12_3.jpg",
+      "bvid": "BV1Hk4y1B7Cx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Hk4y1B7Cx",
+        "aid": "753839250",
+        "cover": "http://i1.hdslb.com/bfs/archive/5347eafb5a65ad9a9ffc39063d686772ea1298c4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Hk4y1B7Cx",
+        "stat": {
+          "danmaku": "4.1万",
+          "play": "58.7万",
+          "vt": ""
+        },
+        "duration_text": "58:06",
+        "title": "【洛天依】2020.7.12洛天依生日会",
+        "desc": "从2012年一路走至2020年，8年间刻画下的无数回忆，都在生日会上娓娓道来。\n大家的每一次应援，每一条弹幕都无可替代，都凝结着无可比拟的珍贵回忆。\n希望天依的歌声能鼓起每个人心中的勇气，跨过悲伤、无力，去迎接希望。\n愿我们一同携手成长~相扶相伴。\n天依的首张官方数字专辑也已经上线，等你来听。\n试听： BV1Tp4y1S7cu\n购买：https://y.music.163.com/m/album?id=92206376",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 66914,
+    "comment": 5196,
+    "forward": 700
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

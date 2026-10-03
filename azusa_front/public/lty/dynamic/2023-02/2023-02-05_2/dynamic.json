@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "759166067147800665",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/759166067147800665",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月5日",
+    "pub_ts": 1675595524,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@twistzzzzzzzzz丶@浅忆云江@Pardofe1is等23位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@twistzzzzzzzzz丶",
+        "mid": 203615128,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@浅忆云江",
+        "mid": 91428775,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@Pardofe1is",
+        "mid": 374403150,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等23位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5905,
+    "comment": 127,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 745401847985995863,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2022-12/2022-12-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

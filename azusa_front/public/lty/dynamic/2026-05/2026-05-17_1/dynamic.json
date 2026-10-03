@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1203341736371290121",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1203341736371290121",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月17日",
+    "pub_ts": 1779013231,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "当反乌托邦Pt.2遇上MONTAGEM PITTY~",
+      "desc": "听说大家都很喜欢这两首歌？来自天依的特别串烧演绎！希望大家喜欢，一起多多支持优秀的创作老师们吧～\n\n《反乌托邦Pt.2》\n作词／作曲：Utopia_乌托邦P   /亚细亚旷世奇才  /盐雾\n《MONTAGEM PITTY》\n作词/作曲：见过夏天P\n串烧版本参考：Ciyo",
+      "jump_url": "https://www.bilibili.com/video/BV1rYLn6NETN",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/4de4652729cca2ee357b7f9982282a56a4d7a476.jpg",
+      "cover_file": "../../_assets/covers/2026-05-17_1.jpg",
+      "bvid": "BV1rYLn6NETN",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1rYLn6NETN",
+        "aid": "116589403832600",
+        "cover": "http://i1.hdslb.com/bfs/archive/4de4652729cca2ee357b7f9982282a56a4d7a476.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1rYLn6NETN",
+        "stat": {
+          "danmaku": "771",
+          "play": "94.4万",
+          "vt": ""
+        },
+        "duration_text": "00:44",
+        "title": "当反乌托邦Pt.2遇上MONTAGEM PITTY~",
+        "desc": "听说大家都很喜欢这两首歌？来自天依的特别串烧演绎！希望大家喜欢，一起多多支持优秀的创作老师们吧～\n\n《反乌托邦Pt.2》\n作词／作曲：Utopia_乌托邦P   /亚细亚旷世奇才  /盐雾\n《MONTAGEM PITTY》\n作词/作曲：见过夏天P\n串烧版本参考：Ciyo",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 181840,
+    "comment": 3450,
+    "forward": 246
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

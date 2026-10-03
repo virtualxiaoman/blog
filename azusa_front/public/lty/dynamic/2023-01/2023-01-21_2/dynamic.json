@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "753628376810389593",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/753628376810389593",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月21日",
+    "pub_ts": 1674306180,
+    "location": ""
+  },
+  "topic": {
+    "id": 424916,
+    "name": "一起来聊聊2023拜年纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=424916&topic_name=%E4%B8%80%E8%B5%B7%E6%9D%A5%E8%81%8A%E8%81%8A2023%E6%8B%9C%E5%B9%B4%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "闭眼  我触碰幻想的边界【2023拜年纪单品】",
+      "desc": "还好我拥有不同的宇宙，\n能治愈我所有偏执的梦。",
+      "jump_url": "https://www.bilibili.com/video/BV1QY4y1Z7UZ",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/058497c5a1d404df77438fafa146446dfb1e55bd.jpg",
+      "cover_file": "../../_assets/covers/2023-01-21_1.jpg",
+      "bvid": "BV1QY4y1Z7UZ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1QY4y1Z7UZ",
+        "aid": "650548957",
+        "cover": "http://i2.hdslb.com/bfs/archive/058497c5a1d404df77438fafa146446dfb1e55bd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1QY4y1Z7UZ",
+        "stat": {
+          "danmaku": "5269",
+          "play": "232.2万",
+          "vt": ""
+        },
+        "duration_text": "03:39",
+        "title": "闭眼  我触碰幻想的边界【2023拜年纪单品】",
+        "desc": "还好我拥有不同的宇宙，\n能治愈我所有偏执的梦。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 160798,
+    "comment": 5360,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

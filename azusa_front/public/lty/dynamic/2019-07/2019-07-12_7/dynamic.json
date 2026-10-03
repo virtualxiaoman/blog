@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "275243705016151340",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/275243705016151340",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562923569,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2019洛天依生日会# 感谢必胜客对天依生日的祝福和支持~很多小伙伴很喜欢必胜客这件小红裙，必胜客有将它做出来，今天作为生日礼物送给天依啦！全球仅此一件的高级定制，嘿嘿，美得闪闪发光哟！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 感谢必胜客对天依生日的祝福和支持~很多小伙伴很喜欢必胜客这件小红裙，必胜客有将它做出来，今天作为生日礼物送给天依啦！全球仅此一件的高级定制，嘿嘿，美得闪闪发光哟！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-12_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/04aa6d21b2fd285eb832c114fa0226df0ccf9097.jpg",
+        "width": 3024,
+        "height": 4032,
+        "size_kb": 2565.125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-07-12_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ac76e441f498186afb01c77402f37c9e33c61bd7.jpg",
+        "width": 3024,
+        "height": 4032,
+        "size_kb": 2473.2001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-07-12_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d2173f2c9806bcd65413758541e3be3bef1e4077.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 5489.20703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7625,
+    "comment": 452,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

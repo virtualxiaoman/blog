@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "625590230370081797",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/625590230370081797",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月10日",
+    "pub_ts": 1644494976,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依在@和平精英 海岛战场请求集合！本次为#和平精英洛天依# 联动定制【角色-洛天依】音舞企划新衣，蕴涵多种国风元素细节，等大家加入派对一起探寻！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依在"
+      },
+      {
+        "type": "mention",
+        "text": "@和平精英",
+        "mid": 434786180,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 海岛战场请求集合！本次为"
+      },
+      {
+        "type": "topic",
+        "text": "#和平精英洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 联动定制【角色-洛天依】音舞企划新衣，蕴涵多种国风元素细节，等大家加入派对一起探寻！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6777,
+    "comment": 2110,
+    "forward": 122
+  },
+  "forward": {
+    "orig_id": 625557743244364395,
+    "orig_mid": 434786180,
+    "deleted": false,
+    "archive_dir": "../../../434786180/2022-02/2022-02-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:41:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

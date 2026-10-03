@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1088578397692494118",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088578397692494118",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752292809,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "名为宝藏的通关奖励，正是你亲手捧出的这颗珍珠，这个发光的自己。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "名为宝藏的通关奖励，正是你亲手捧出的这颗珍珠，这个发光的自己。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】珍珠【2025官方生贺曲】",
+      "desc": "这个世界很大，好像跌跌撞撞也找不到方向\n这个世界好小，即使原地兜兜转转也在前行\n我们一起闯进这个世界，淋过大雨，也看过潮汐\n你和我说迷茫，说痛苦，说心碎的过去，说够不到的梦想\n而我想拥抱你笨拙勇敢的心，是你无数次拼命拉住了自己\n我想要陪你永远走下去，无所谓遇到或好或坏的天气\n「名为宝藏的通关奖励，正是你亲手捧出的这颗珍珠，这个发光的自己。」\n \n洛天依十三周年官方生贺曲《珍珠》\n演唱：洛天依\n作曲：瞿子千\n作词：温莨\n制作人：瞿子千\n钢琴：王茂盛\n弦乐编写：王茂盛\n弦乐录音：国际首席爱乐乐团\nBass：吴",
+      "jump_url": "https://www.bilibili.com/video/BV1ZuGgzgENF",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6ba8b5162accdcff4be024d301c8b25bd73581bc.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_1.jpg",
+      "bvid": "BV1ZuGgzgENF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZuGgzgENF",
+        "aid": "114827729112249",
+        "cover": "http://i1.hdslb.com/bfs/archive/6ba8b5162accdcff4be024d301c8b25bd73581bc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZuGgzgENF",
+        "stat": {
+          "danmaku": "2万",
+          "play": "275.1万",
+          "vt": ""
+        },
+        "duration_text": "06:45",
+        "title": "【洛天依原创曲】珍珠【2025官方生贺曲】",
+        "desc": "这个世界很大，好像跌跌撞撞也找不到方向\n这个世界好小，即使原地兜兜转转也在前行\n我们一起闯进这个世界，淋过大雨，也看过潮汐\n你和我说迷茫，说痛苦，说心碎的过去，说够不到的梦想\n而我想拥抱你笨拙勇敢的心，是你无数次拼命拉住了自己\n我想要陪你永远走下去，无所谓遇到或好或坏的天气\n「名为宝藏的通关奖励，正是你亲手捧出的这颗珍珠，这个发光的自己。」\n \n洛天依十三周年官方生贺曲《珍珠》\n演唱：洛天依\n作曲：瞿子千\n作词：温莨\n制作人：瞿子千\n钢琴：王茂盛\n弦乐编写：王茂盛\n弦乐录音：国际首席爱乐乐团\nBass：吴",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 90662,
+    "comment": 9711,
+    "forward": 1511
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

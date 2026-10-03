@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "933510884120068119",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/933510884120068119",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月20日",
+    "pub_ts": 1716188340,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "形形色色的网络世界，存在许多美好，也存在很多不安全的地方，大家要注意甄别谣言，一起建设健康良好的网络环境吧！[洛天依蝶变_yalahula]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "形形色色的网络世界，存在许多美好，也存在很多不安全的地方，大家要注意甄别谣言，一起建设健康良好的网络环境吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5176,
+    "comment": 205,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 932388342881845273,
+    "orig_mid": 86335477,
+    "deleted": false,
+    "archive_dir": "../../../86335477/2024-05/2024-05-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "938016936145453091",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/938016936145453091",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月1日",
+    "pub_ts": 1717237487,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "夏天是天依最期待的季节，因为——[洛天依蝶变_星星眼]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "夏天是天依最期待的季节，因为——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3492,
+    "comment": 144,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 938011859492012038,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-06/2024-06-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

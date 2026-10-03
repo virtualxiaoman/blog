@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "627461895513631219",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/627461895513631219",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月15日",
+    "pub_ts": 1644930757,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "国风华美，冰舞翩然！洛天依刘宇宁合唱《Time to shine》",
+      "desc": "2022年元宵晚会的舞台上，洛天依和刘宇宁同台献唱《Time to shine》，全程惊艳！现场中国风满满！",
+      "jump_url": "https://www.bilibili.com/video/BV1vm4y1d7mx",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/cc25e34c818ff4210f796c3f9cf65da3d5a96137.jpg",
+      "cover_file": "../../_assets/covers/2022-02-15_2.jpg",
+      "bvid": "BV1vm4y1d7mx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1vm4y1d7mx",
+        "aid": "679068966",
+        "cover": "http://i1.hdslb.com/bfs/archive/cc25e34c818ff4210f796c3f9cf65da3d5a96137.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1vm4y1d7mx",
+        "stat": {
+          "danmaku": "8602",
+          "play": "84.7万",
+          "vt": ""
+        },
+        "duration_text": "04:14",
+        "title": "国风华美，冰舞翩然！洛天依刘宇宁合唱《Time to shine》",
+        "desc": "2022年元宵晚会的舞台上，洛天依和刘宇宁同台献唱《Time to shine》，全程惊艳！现场中国风满满！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 103082,
+    "comment": 7221,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:42:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

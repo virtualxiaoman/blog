@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "474583196036597341",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/474583196036597341",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月30日",
+    "pub_ts": 1609335911,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我是#洛天依·夜航星#的NO.000001号真爱粉，靓号在手，走路带风，解锁专属粉丝卡片，使用专属粉丝装扮，你也来生成你的专属秀起来吧！网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我是"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依·夜航星#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%C2%B7%E5%A4%9C%E8%88%AA%E6%98%9F"
+      },
+      {
+        "type": "text",
+        "text": "的NO.000001号真爱粉，靓号在手，走路带风，解锁专属粉丝卡片，使用专属粉丝装扮，你也来生成你的专属秀起来吧！"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=3741&q=6771559608910411"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-12-30_5.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1352e74092830b3631355630cc6b427eb2b9dfae.png",
+        "width": 1011,
+        "height": 414,
+        "size_kb": 679.5263671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "common",
+      "title": "洛天依·最美的夜",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=3741",
+      "cover_url": "https://i0.hdslb.com/bfs/garb/f047ac106d4e80c858d24037cd6e3c7262365050.png",
+      "cover_file": "../../_assets/covers/2020-12-30_1.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去看看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=3741",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "sub_type": "decoration",
+        "head_text": "相关装扮",
+        "jump_url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=3741",
+        "id_str": "3741",
+        "cover": "https://i0.hdslb.com/bfs/garb/f047ac106d4e80c858d24037cd6e3c7262365050.png",
+        "style": 1,
+        "title": "洛天依·最美的夜",
+        "desc1": "包括头像挂件等10件装扮内容",
+        "desc2": "已下架"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9281,
+    "comment": 1300,
+    "forward": 94
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

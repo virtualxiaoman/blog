@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "393137739797394799",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/393137739797394799",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月25日",
+    "pub_ts": 1590372913,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢汰渍邀请天依拍摄了这次环球云旅写真集 #洛天依汰渍环球街拍# 戳链接网页链接 参加B站应援为天依打call就能解锁更多城市，另外上天猫宝洁官方旗舰店购买汰渍限量礼盒，可以获得洛天依X汰渍 云旅写真集册，还可以参与晒订单抽奖活动，赢天依周边海报哦~ \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢汰渍邀请天依拍摄了这次环球云旅写真集 "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依汰渍环球街拍#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B1%B0%E6%B8%8D%E7%8E%AF%E7%90%83%E8%A1%97%E6%8B%8D"
+      },
+      {
+        "type": "text",
+        "text": " 戳链接"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/activity-TZH5.html"
+      },
+      {
+        "type": "text",
+        "text": " 参加B站应援为天依打call就能解锁更多城市，另外上天猫宝洁官方旗舰店购买汰渍限量礼盒，可以获得洛天依X汰渍 云旅写真集册，还可以参与晒订单抽奖活动，赢天依周边海报哦~ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-05-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/63b7dd42a20034e73a04429bdb95a4023f819cdc.jpg",
+        "width": 4480,
+        "height": 6720,
+        "size_kb": 12354.283203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-05-25_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/62c8d90f89369f06e380961f43775f47f94242fe.jpg",
+        "width": 1080,
+        "height": 1598,
+        "size_kb": 1198.71484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-05-25_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0157da3e3fef4b0ed87c958baa550636c4dd443a.jpg",
+        "width": 1080,
+        "height": 5055,
+        "size_kb": 1160.3447265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8296,
+    "comment": 1408,
+    "forward": 113
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:23:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

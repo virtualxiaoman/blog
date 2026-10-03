@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "905769376806862851",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/905769376806862851",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月6日",
+    "pub_ts": 1709729267,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不允许你目光移开，只爱我，只注视着我，不可以吗？[洛·LUO_神秘]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不允许你目光移开，只爱我，只注视着我，不可以吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_神秘]",
+        "package_id": "4400",
+        "emoji_id": "62228",
+        "name": "神秘",
+        "url": "https://i0.hdslb.com/bfs/emote/c72db1deec4418e6884fc499855215e6b442b91c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/神秘.png",
+        "package_id": "4400",
+        "emoji_id": "62228",
+        "text": "[洛·LUO_神秘]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5268,
+    "comment": 188,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 904257290608050370,
+    "orig_mid": 1476499175,
+    "deleted": false,
+    "archive_dir": "../../../1476499175/2024-03/2024-03-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

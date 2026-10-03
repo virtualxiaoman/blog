@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1235624119263821832",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1235624119263821832",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月12日",
+    "pub_ts": 1786529559,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "天依很高兴演唱煮ル果実老师为「闪耀的Producer」特别创作的新歌，8月16日18:00，一起期待吧！ [洛天依14周年·四重奏_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴演唱煮ル果実老师为「闪耀的Producer」特别创作的新歌，8月16日18:00，一起期待吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5291,
+    "comment": 141,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 1235620863685951554,
+    "orig_mid": 505762671,
+    "deleted": false,
+    "archive_dir": "../../../505762671/2026-08/2026-08-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:35:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

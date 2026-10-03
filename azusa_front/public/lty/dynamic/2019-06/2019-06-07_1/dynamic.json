@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "262252352361242724",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/262252352361242724",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年6月7日",
+    "pub_ts": 1559898784,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖庆祝【Vsinger全员原创曲】Attack！殿堂达成，我们来发福利啦！转发本动态抽取两名小伙伴送出Vsinger全员2019BML官方周边！ 歌曲链接：【Vsinger全员原创曲】Attack！【洛天依/言和/乐正绫/乐正龙牙/徵羽摩柯/墨清弦】",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "29286",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "庆祝【Vsinger全员原创曲】Attack！殿堂达成，我们来发福利啦！转发本动态抽取两名小伙伴送出Vsinger全员2019BML官方周边！ 歌曲链接："
+      },
+      {
+        "type": "video",
+        "text": "【Vsinger全员原创曲】Attack！【洛天依/言和/乐正绫/乐正龙牙/徵羽摩柯/墨清弦】",
+        "url": "https://www.bilibili.com/video/av54701738",
+        "video": null
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "29286"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5483,
+    "comment": 356,
+    "forward": 6426
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "id": "980689042595119129",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/980689042595119129",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月24日",
+    "pub_ts": 1727172861,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "moeyu洛天依「如你所见」系列徽章、镭射票周边预售开启啦！\n转发关注天依，揪2位小伙伴送出【如你所见海报】1份。\n\n反光变色与炫彩镭射工艺带着魔术师天依闪耀舞台\n欢迎来到天依的show time~[歌行宇宙表情包_你为我着迷]\n\n🂸上新时间：9月27日\n🂸入手方式：：天猫moeyu旗舰店、bilibili会员购\n🂸传送门：\n-徽章：网页链接\n-镭射票：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "moeyu洛天依「如你所见」系列徽章、镭射票周边预售开启啦！\n转发关注天依，揪2位小伙伴送出【如你所见海报】1份。\n\n反光变色与炫彩镭射工艺带着魔术师天依闪耀舞台\n欢迎来到天依的show time~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_你为我着迷]",
+        "package_id": "5880",
+        "emoji_id": "86898",
+        "name": "你为我着迷",
+        "url": "https://i0.hdslb.com/bfs/garb/afdb5beb3431b6a2eceee1ff6b9d6846aeb3c275.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🂸上新时间：9月27日\n🂸入手方式：：天猫moeyu旗舰店、bilibili会员购\n🂸传送门：\n-徽章："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/j7T3w0S"
+      },
+      {
+        "type": "text",
+        "text": "\n-镭射票："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/eT17NVj"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-24_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3430bf56f4551223b48ee76996f1b16f36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 478.869140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-09-24_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0e2b20f8fe8534a58430a57cd1556f4a36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 315.0302734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-09-24_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/90b4f18a1d346a8759ccb16883c9a05636081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 418.8134765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-09-24_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/df97a19f81ba6d904877bb7d2354e46336081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 496.0625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-09-24_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/13415464b180c30c385bae65c8d8032936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 483.4970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-09-24_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/eeff4a0f70b7efee1cdd4e5af0a7420b36081646.jpg",
+        "width": 900,
+        "height": 1200,
+        "size_kb": 498.29296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/你为我着迷.png",
+        "package_id": "5880",
+        "emoji_id": "86898",
+        "text": "[歌行宇宙表情包_你为我着迷]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依 如你所见系列 镭射票",
+            "price": "¥12",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/63/ca/63cad6a9b08f607a43559cfba75a9900.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10629180&msource=cps_Mdynamic_36081646_cont-2-980689042595119129&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-24_2.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依 如你所见系列 徽章",
+            "price": "¥19",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/2c/fa/2cfa7df1e9530a732a377ebe1451512f.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10629114&msource=cps_Mdynamic_36081646_cont-2-980689042595119129&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-24_3.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4832,
+    "comment": 1660,
+    "forward": 3338
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1025570299782889478",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1025570299782889478",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月23日",
+    "pub_ts": 1737622593,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "moeyu洛天依「梅影生辉」系列周边上新\n🎁转发关注天依，揪1位小伙伴送出【梅影生辉屏风画色纸】1份\n\n幽香浮动，梅影生辉，梅花与烟花一同绽放，与你共盼新春。\n\n❀ 洛天依「梅影生辉」系列周边\n✦徽章\n✦大徽章\n✦镭射票\n✦挂件\n✦屏风画色纸\n✦双插立牌\n✦旋转立牌\n\n❄购买地址\nTM-moeyu旗舰店、B站-会员购\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "moeyu洛天依「梅影生辉」系列周边上新\n🎁转发关注天依，揪1位小伙伴送出【梅影生辉屏风画色纸】1份\n\n幽香浮动，梅影生辉，梅花与烟花一同绽放，与你共盼新春。\n\n❀ 洛天依「梅影生辉」系列周边\n✦徽章\n✦大徽章\n✦镭射票\n✦挂件\n✦屏风画色纸\n✦双插立牌\n✦旋转立牌\n\n❄购买地址\nTM-moeyu旗舰店、B站-会员购"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-23_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1eb2d947121ec8f0c4602370e9d8665836081646.jpg",
+        "width": 750,
+        "height": 9706,
+        "size_kb": 6158.0615234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5787,
+    "comment": 1540,
+    "forward": 3525
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

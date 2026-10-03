@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "474989040382961819",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/474989040382961819",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月1日",
+    "pub_ts": 1609430404,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 新年快乐~ 时间真的很奇妙，有时候连一分钟都觉得漫长，直到一年过去才发现它也能“跑”得这么快。 从0迈向1，天依相信2021肯定是“一元复始，万象更新”的一年，会见到更多不同的美景，遇见更多美好的愿望，并将这些都融入歌声里。 或许每个黎明都相似，元旦的黎明却是最能承载希望的那个，天依希望每个小伙伴都能快快乐乐、开开心心的哦！  P.S.第二张图也送给大家，天依可以把大家“这———么大的心愿”都举起来！  Illustration by @-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 新年快乐~ 时间真的很奇妙，有时候连一分钟都觉得漫长，直到一年过去才发现它也能“跑”得这么快。 从0迈向1，天依相信2021肯定是“一元复始，万象更新”的一年，会见到更多不同的美景，遇见更多美好的愿望，并将这些都融入歌声里。 或许每个黎明都相似，元旦的黎明却是最能承载希望的那个，天依希望每个小伙伴都能快快乐乐、开开心心的哦！  P.S.第二张图也送给大家，天依可以把大家“这———么大的心愿”都举起来！  Illustration by "
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-01-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/64f77d6a0f2e61d802e737b0cfcbd577ddd36049.jpg",
+        "width": 1300,
+        "height": 920,
+        "size_kb": 1039.935546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-01-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/db5fa8d24d592d347392d05292628c323d7f20ad.jpg",
+        "width": 1400,
+        "height": 990,
+        "size_kb": 1099.578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14803,
+    "comment": 1186,
+    "forward": 217
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

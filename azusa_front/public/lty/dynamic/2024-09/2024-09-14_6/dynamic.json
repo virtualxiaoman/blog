@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "id": "976994747902066712",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/976994747902066712",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月14日",
+    "pub_ts": 1726312716,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "距离9月15 日洛天依歌行宇宙无限遨游沉浸式体验展开展倒计时最后一天啦！\n展览现场图抢先看～还有更多趣味和惊喜，等你来现场体验哦！[心律共鸣动态表情包_啾啾]\n\n🎫展览门票：http://t.cn/A6RG7Jz6 \n✨注意注意，今天是早鸟票最后一天啦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "距离9月15 日洛天依歌行宇宙无限遨游沉浸式体验展开展倒计时最后一天啦！\n展览现场图抢先看～还有更多趣味和惊喜，等你来现场体验哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎫展览门票："
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6RG7Jz6"
+      },
+      {
+        "type": "text",
+        "text": " \n✨注意注意，今天是早鸟票最后一天啦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-14_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9f6a3e521bc8baeca4d5ce4a35d32d2136081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 3370.8173828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-09-14_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c9753779b5f999c36e1164b7e35fd18136081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 3191.8349609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-09-14_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/293cbe8a2b12bc4a0ff446f066e3c1f536081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 5330.2001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-09-14_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0eda6d39efdd362343378ccd1ba865c236081646.jpg",
+        "width": 3199,
+        "height": 2133,
+        "size_kb": 5506.794921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-09-14_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3a0ba11bdc026a8ac97dfd2e3513ee9636081646.jpg",
+        "width": 3181,
+        "height": 2121,
+        "size_kb": 4713.443359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-09-14_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a09566ae3588e50cc63d518dceb1baf536081646.jpg",
+        "width": 2790,
+        "height": 1860,
+        "size_kb": 3160.529296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-09-14_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/16c258cf737291947e04fd84181ed5f336081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 253.548828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-09-14_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1a9e54843f14879b3328c93347a39ded36081646.jpg",
+        "width": 2133,
+        "height": 3199,
+        "size_kb": 3755.99609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-09-14_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/09ddd75a9fd37b4b2d5c731c087f229d36081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 4641.9921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海 洛天依歌行宇宙·无限遨游 沉浸式体验展",
+            "price": "¥1",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202408/ei9COXS41724405861343.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91175&msource=cps_Mdynamic_36081646_cont-2-976994747902066712&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-14_3.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4232,
+    "comment": 185,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

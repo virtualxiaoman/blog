@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1202595580243607606",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1202595580243607606",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月15日",
+    "pub_ts": 1778839503,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@吃鸡的小黑子@殷纭@秋韵1-中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@吃鸡的小黑子",
+        "mid": 1728358212,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@殷纭",
+        "mid": 1691283354,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@秋韵1-",
+        "mid": 3493294669564832,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3296,
+    "comment": 43,
+    "forward": 10
+  },
+  "forward": {
+    "orig_id": 1191463643514929206,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-04/2026-04-15_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

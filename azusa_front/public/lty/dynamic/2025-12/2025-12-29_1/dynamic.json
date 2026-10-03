@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "id": "1151787611781595168",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1151787611781595168",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月29日",
+    "pub_ts": 1767009851,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢长隆海洋王国的邀请，天依邀你共赴「横琴长隆海洋干杯奇遇跨年夜」啦！[逆转童话动态_结婚]\n\n🌟不仅有天依的舞台演出，还有专属主题打卡点、互动游戏和无人机点亮夜空特别活动哦！\n\n⏰ 活动时间：2025年12月31日  \n📍 活动地点：珠海横琴长隆海洋王国\n\n伴随跨年钟声，潜入蔚蓝梦境，与海洋星光相伴，和天依一起度过美妙浪漫的跨年夜吧~[逆转童话动态_缘分]\n#横琴长隆海洋干杯跨年夜#  #长隆海洋王国#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢长隆海洋王国的邀请，天依邀你共赴「横琴长隆海洋干杯奇遇跨年夜」啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🌟不仅有天依的舞台演出，还有专属主题打卡点、互动游戏和无人机点亮夜空特别活动哦！\n\n⏰ 活动时间：2025年12月31日  \n📍 活动地点：珠海横琴长隆海洋王国\n\n伴随跨年钟声，潜入蔚蓝梦境，与海洋星光相伴，和天依一起度过美妙浪漫的跨年夜吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#横琴长隆海洋干杯跨年夜#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%A8%AA%E7%90%B4%E9%95%BF%E9%9A%86%E6%B5%B7%E6%B4%8B%E5%B9%B2%E6%9D%AF%E8%B7%A8%E5%B9%B4%E5%A4%9C"
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "topic",
+        "text": "#长隆海洋王国#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%9A%86%E6%B5%B7%E6%B4%8B%E7%8E%8B%E5%9B%BD"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/509c8211008b0061890d673fdd73056d36081646.jpg",
+        "width": 1181,
+        "height": 1181,
+        "size_kb": 1018.7109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-29_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d25c0355440dd2bf65efc4999e6df9db36081646.jpg",
+        "width": 1181,
+        "height": 1181,
+        "size_kb": 1315.71484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-12-29_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6a28d22d9040f272b3a80c4fa87ba9e836081646.jpg",
+        "width": 1181,
+        "height": 1181,
+        "size_kb": 1407.4990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-12-29_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d7dbc2bd6a331ea61b52e8ec79509fec36081646.jpg",
+        "width": 1181,
+        "height": 1181,
+        "size_kb": 1034.5703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-12-29_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bbfdcc1cfd90d00c26d8af7184f2164936081646.jpg",
+        "width": 1181,
+        "height": 1181,
+        "size_kb": 1150.3154296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-12-29_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ea92fa13643d1f330b817be01e57283d36081646.jpg",
+        "width": 1181,
+        "height": 1181,
+        "size_kb": 1163.69140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-12-29_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8705f8ea8ab8896dab4599aa52615ece36081646.jpg",
+        "width": 1080,
+        "height": 8070,
+        "size_kb": 3262.689453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-12-29_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/af8308ae193ab3b8018ae0bec942f9ca36081646.jpg",
+        "width": 1080,
+        "height": 11717,
+        "size_kb": 5179.8525390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-12-29_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/86ff7554b2efe8f6948a583b4b7b320d36081646.jpg",
+        "width": 1080,
+        "height": 8163,
+        "size_kb": 3339.359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6000,
+    "comment": 290,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "692019940035657752",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/692019940035657752",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月8日",
+    "pub_ts": 1659961848,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#如果是在梦里，能否与你相拥，即使只有一秒，也甘愿沉溺[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "如果是在梦里，能否与你相拥，即使只有一秒，也甘愿沉溺"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7458,
+    "comment": 190,
+    "forward": 39
+  },
+  "forward": {
+    "orig_id": 690549270184460290,
+    "orig_mid": 11245348,
+    "deleted": false,
+    "archive_dir": "../../../11245348/2022-08/2022-08-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

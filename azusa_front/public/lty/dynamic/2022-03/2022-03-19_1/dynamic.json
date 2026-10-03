@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "639322679708483619",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/639322679708483619",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月19日",
+    "pub_ts": 1647692311,
+    "location": ""
+  },
+  "topic": {
+    "id": 9865,
+    "name": "Vsinger创作激励计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9865&topic_name=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#面对汹涌的浪潮，终于意识到自己竟如此弱小，即便如此，我们还是要逆着浪潮前行呀[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "面对汹涌的浪潮，终于意识到自己竟如此弱小，即便如此，我们还是要逆着浪潮前行呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5620,
+    "comment": 99,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 638900591793274968,
+    "orig_mid": 239794323,
+    "deleted": false,
+    "archive_dir": "../../../239794323/2022-03/2022-03-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

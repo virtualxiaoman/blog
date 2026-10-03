@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "1113164216440717321",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1113164216440717321",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月16日",
+    "pub_ts": 1758017141,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "🪽#洛天依逆转童话#第三篇章「古堡魂灵」揭晓\n经历苦难，失去自由，后来在王子的帮助下，最终和王子幸福地生活在一起......\n这就是一个公主的一生吗？\n“不，在被拯救的命运降临之前，对自由的渴望注定冲破囚笼，带来真正的新生。”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🪽"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依逆转童话#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+      },
+      {
+        "type": "text",
+        "text": "第三篇章「古堡魂灵」揭晓\n经历苦难，失去自由，后来在王子的帮助下，最终和王子幸福地生活在一起......\n这就是一个公主的一生吗？\n“不，在被拯救的命运降临之前，对自由的渴望注定冲破囚笼，带来真正的新生。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8b85452ba388807463d3b9a0de6534ac36081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2769.6552734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6029,
+    "comment": 302,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

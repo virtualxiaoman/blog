@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "707860801556316182",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/707860801556316182",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月20日",
+    "pub_ts": 1663650086,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  「FuRyu Vsinger 洛天依 Lollypop Ver. 泡面压 景品手办」 将于10月1日开启预售  「甜蜜的糖果、灿烂的鲜花，这世界上所有美好的事物，我都想和你一起分享！」[洛天依_捏捏]  ※【产品信息】 售价：99元 出品方： FuRyu  详情小伙伴们可以前往会员购查看[洛天依_爱你]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  「FuRyu Vsinger 洛天依 Lollypop Ver. 泡面压 景品手办」 将于10月1日开启预售  「甜蜜的糖果、灿烂的鲜花，这世界上所有美好的事物，我都想和你一起分享！」"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "  ※【产品信息】 售价：99元 出品方： FuRyu  详情小伙伴们可以前往会员购查看"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d45fcf0b5fc3348cdabf11217fd44a9636081646.jpg",
+        "width": 4480,
+        "height": 4480,
+        "size_kb": 2397.396484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-09-20_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ca4b7f3d2fb30d91d2fc66c406dde69236081646.jpg",
+        "width": 4480,
+        "height": 4480,
+        "size_kb": 1355.966796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-09-20_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0e6f19e06fd9b1ee0b2e252ca8561d2f36081646.jpg",
+        "width": 4480,
+        "height": 4480,
+        "size_kb": 1409.6884765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-09-20_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5beb28215a59591969b3de7a8f3322bf36081646.jpg",
+        "width": 4480,
+        "height": 4480,
+        "size_kb": 1301.8896484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8200,
+    "comment": 490,
+    "forward": 202
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

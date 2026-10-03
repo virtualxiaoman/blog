@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "639574399154913282",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/639574399154913282",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月20日",
+    "pub_ts": 1647750919,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "将祝福和感谢用歌声都唱进这首「梦想的翅膀」里，期待与大家共赏春暖花开的那一天#音援疫线#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "将祝福和感谢用歌声都唱进这首「梦想的翅膀」里，期待与大家共赏春暖花开的那一天"
+      },
+      {
+        "type": "topic",
+        "text": "#音援疫线#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E6%8F%B4%E7%96%AB%E7%BA%BF"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5393,
+    "comment": 90,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 639539025810554903,
+    "orig_mid": 1131457022,
+    "deleted": false,
+    "archive_dir": "../../../1131457022/2022-03/2022-03-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

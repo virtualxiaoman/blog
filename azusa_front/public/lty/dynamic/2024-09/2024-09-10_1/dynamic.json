@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "975485084132966402",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/975485084132966402",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月10日",
+    "pub_ts": 1725961220,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不知道关注天依的大家，有没有老师呀？[心律共鸣动态表情包_好厉害]\n今天是教师节，大家一起祝老师们教师节快乐吧！辛苦啦~[Vsinger_给大佬递茶]\n在为学业努力拼搏的大家也非常辛苦！天依抱抱~[洛天依幻游世界_摸摸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不知道关注天依的大家，有没有老师呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n今天是教师节，大家一起祝老师们教师节快乐吧！辛苦啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n在为学业努力拼搏的大家也非常辛苦！天依抱抱~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_摸摸]",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c97346bd9f5bb64a1cad8eecf85f50cc7a083eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/好厉害.gif",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "text": "[心律共鸣动态表情包_好厉害]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/摸摸.png",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "text": "[洛天依幻游世界_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6081,
+    "comment": 241,
+    "forward": 45
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

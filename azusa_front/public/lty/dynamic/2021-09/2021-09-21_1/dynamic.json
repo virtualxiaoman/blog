@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "572883559944947980",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/572883559944947980",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月21日",
+    "pub_ts": 1632223248,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#中秋节最快乐的事情就是和小伙伴们一起赏月啦！大家都吃了什么馅儿的月饼呀？[洛天依·夜航星_饿了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "中秋节最快乐的事情就是和小伙伴们一起赏月啦！大家都吃了什么馅儿的月饼呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_饿了]",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "name": "饿了",
+        "url": "http://i0.hdslb.com/bfs/emote/5455abac01a22978b20ec0b365c214a872a0fd14.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/饿了.png",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "text": "[洛天依·夜航星_饿了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5986,
+    "comment": 279,
+    "forward": 63
+  },
+  "forward": {
+    "orig_id": 572878809717341798,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-09/2021-09-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:36:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

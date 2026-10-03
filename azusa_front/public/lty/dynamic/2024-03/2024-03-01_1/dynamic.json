@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "903780983029891075",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/903780983029891075",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月1日",
+    "pub_ts": 1709266308,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "所有购买天依支付宝龙年套装的小伙伴都可以获得限定头像框啦！[Vsinger_加依]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "所有购买天依支付宝龙年套装的小伙伴都可以获得限定头像框啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4028,
+    "comment": 152,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 903549243782856761,
+    "orig_mid": 420831218,
+    "deleted": false,
+    "archive_dir": "../../../420831218/2024-02/2024-02-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

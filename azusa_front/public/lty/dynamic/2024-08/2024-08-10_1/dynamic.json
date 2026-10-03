@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "963708232276115480",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/963708232276115480",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月10日",
+    "pub_ts": 1723219208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@云海ve@瞳零零零@撅尽全力惹中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@云海ve",
+        "mid": 418287378,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@瞳零零零",
+        "mid": 170815701,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@撅尽全力惹",
+        "mid": 519170630,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3450,
+    "comment": 119,
+    "forward": 12
+  },
+  "forward": {
+    "orig_id": 948041295326085153,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-06/2024-06-28_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

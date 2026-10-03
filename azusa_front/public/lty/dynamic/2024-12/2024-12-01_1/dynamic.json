@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1005831192720703493",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1005831192720703493",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月1日",
+    "pub_ts": 1733026724,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新一期创作激励来啦~[歌行宇宙表情包_来试试看]快来奏响属于我们的冬季乐章吧！[洛天依-潮声回响_摸摸头]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新一期创作激励来啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_来试试看]",
+        "package_id": "5880",
+        "emoji_id": "86901",
+        "name": "来试试看",
+        "url": "https://i0.hdslb.com/bfs/garb/c10cd939d07023b884588f7be50d4e8e1651b84b.png"
+      },
+      {
+        "type": "text",
+        "text": "快来奏响属于我们的冬季乐章吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/来试试看.png",
+        "package_id": "5880",
+        "emoji_id": "86901",
+        "text": "[歌行宇宙表情包_来试试看]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4006,
+    "comment": 141,
+    "forward": 52
+  },
+  "forward": {
+    "orig_id": 1005827464680701958,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-12/2024-12-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

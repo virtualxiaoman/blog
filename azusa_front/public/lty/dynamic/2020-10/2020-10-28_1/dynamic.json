@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "450872949344064216",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/450872949344064216",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年10月28日",
+    "pub_ts": 1603815439,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不会这么晚还有人在听歌吧……？[洛天依_震惊][洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不会这么晚还有人在听歌吧……？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_震惊]",
+        "package_id": "101",
+        "emoji_id": "2211",
+        "name": "震惊",
+        "url": "http://i0.hdslb.com/bfs/emote/ba0fecf913a690a9b36b01a09b8140396b995c96.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/震惊.png",
+        "package_id": "101",
+        "emoji_id": "2211",
+        "text": "[洛天依_震惊]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6411,
+    "comment": 506,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 450621152585161282,
+    "orig_mid": 20464617,
+    "deleted": false,
+    "archive_dir": "../../../20464617/2020-10/2020-10-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

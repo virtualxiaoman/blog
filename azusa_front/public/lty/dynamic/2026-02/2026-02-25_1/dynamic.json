@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "1173186612074381318",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1173186612074381318",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月25日",
+    "pub_ts": 1771992194,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "✉嘟嘟嘟，你有一封中旅×洛天依 「春日银河」音乐派对邀请函等待查收哦！[洛天依拜年纪动态表情包_起航]\n\n🎉派对演出时间&场地\n3月14日&3月15日 19:00 \n深圳世界之窗&罗马假日广场\n\n🎉派对门票开售时间&平台\n2月25日18:00，bilibili会员购、大麦\n\n春和景明，万物可爱；银河璀璨，歌声不息。\n和天依一起相约深圳世界之窗，邂逅于浪漫的春日银河之夜吧~[洛天依拜年纪动态表情包_揉脸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "✉嘟嘟嘟，你有一封中旅×洛天依 「春日银河」音乐派对邀请函等待查收哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_起航]",
+        "package_id": "9451",
+        "emoji_id": "132884",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/garb/feb1fe1e04112100ff8f8f81dd7a52b8f017b010.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎉派对演出时间&场地\n3月14日&3月15日 19:00 \n深圳世界之窗&罗马假日广场\n\n🎉派对门票开售时间&平台\n2月25日18:00，bilibili会员购、大麦\n\n春和景明，万物可爱；银河璀璨，歌声不息。\n和天依一起相约深圳世界之窗，邂逅于浪漫的春日银河之夜吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c2173ac4badb8662e9107188a15a867136081646.jpg",
+        "width": 1242,
+        "height": 10165,
+        "size_kb": 6374.0498046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/起航.gif",
+        "package_id": "9451",
+        "emoji_id": "132884",
+        "text": "[洛天依拜年纪动态表情包_起航]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "深圳·中旅X洛天依【春日银河】 音乐派对2026年3月14日-15日",
+            "price": "¥399",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202602/Cz8sq2ZR1770789177_1770789177711.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=113540&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1173186612074381318",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-02-25_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6573,
+    "comment": 344,
+    "forward": 77
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:18:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

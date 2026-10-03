@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "855684234162995205",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/855684234162995205",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月23日",
+    "pub_ts": 1698067911,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "作者借纸巾用完实则表达了…[洛天依幻游世界_这里有诈]建议配合歌曲在厕所点开？[代号洛天依_笑笑不说话]是很有趣的一首歌！[洛天依幻游世界_好厉害]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "作者借纸巾用完实则表达了…"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_这里有诈]",
+        "package_id": "1066",
+        "emoji_id": "18929",
+        "name": "这里有诈",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a45a5552c5bf924e6436573e5c660b3f437e9497.png"
+      },
+      {
+        "type": "text",
+        "text": "建议配合歌曲在厕所点开？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_笑笑不说话]",
+        "package_id": "1842",
+        "emoji_id": "32148",
+        "name": "笑笑不说话",
+        "url": "https://i0.hdslb.com/bfs/emote/40fc6435d2c415e836cdc5c7fde6b47d54f451c3.png"
+      },
+      {
+        "type": "text",
+        "text": "是很有趣的一首歌！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_好厉害]",
+        "package_id": "1066",
+        "emoji_id": "18930",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c154096625e55c2ceaf576f0c5f86d194491d728.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/这里有诈.png",
+        "package_id": "1066",
+        "emoji_id": "18929",
+        "text": "[洛天依幻游世界_这里有诈]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/笑笑不说话.png",
+        "package_id": "1842",
+        "emoji_id": "32148",
+        "text": "[代号洛天依_笑笑不说话]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/好厉害.png",
+        "package_id": "1066",
+        "emoji_id": "18930",
+        "text": "[洛天依幻游世界_好厉害]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4707,
+    "comment": 139,
+    "forward": 13
+  },
+  "forward": {
+    "orig_id": 838930868128972946,
+    "orig_mid": 28536033,
+    "deleted": false,
+    "archive_dir": "../../../28536033/2023-09/2023-09-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

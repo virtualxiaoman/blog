@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "id": "1169480776845099008",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169480776845099008",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月15日",
+    "pub_ts": 1771129362,
+    "location": ""
+  },
+  "topic": {
+    "id": 1332663,
+    "name": "B站春节兴趣房间阵容官宣",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1332663&topic_name=B%E7%AB%99%E6%98%A5%E8%8A%82%E5%85%B4%E8%B6%A3%E6%88%BF%E9%97%B4%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "这次的新春特别直播，天依还邀请了几位老朋友和新朋友，做客天依的直播间哦！[乐鸣东方静态表情包_骄傲]\n感谢@DOUDOU_春夏秋冬 @龚琳娜 @刘宇Yu__ 老师的特别受邀~[乐鸣东方静态表情包_开心]\n和天依合作的心情，老师们给大家的新春祝福，还有惊喜合唱环节......\n明晚17:20除夕之夜，来天依的直播间看吧~[乐鸣东方静态表情包_干杯]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次的新春特别直播，天依还邀请了几位老朋友和新朋友，做客天依的直播间哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方静态表情包_骄傲]",
+        "package_id": "9344",
+        "emoji_id": "131184",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/b8719eb350b4814f6b2ae21ea8532e7dd7226b20.png"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@DOUDOU_春夏秋冬 ",
+        "mid": 646564570,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@龚琳娜 ",
+        "mid": 4976111,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@刘宇Yu__ ",
+        "mid": 17859926,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师的特别受邀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方静态表情包_开心]",
+        "package_id": "9344",
+        "emoji_id": "131169",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/a5d273c89718952dda1df5f16be49606e1eacb94.png"
+      },
+      {
+        "type": "text",
+        "text": "\n和天依合作的心情，老师们给大家的新春祝福，还有惊喜合唱环节......\n明晚17:20除夕之夜，来天依的直播间看吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方静态表情包_干杯]",
+        "package_id": "9344",
+        "emoji_id": "131177",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/94f8de69e2a43de48c47560ccfb4808ec9965a90.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-15_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/562a94a13e389b90d4da01e699cdddc136081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 3007.85009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-02-15_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bd0a1aeb46202cc7826cae32584802c336081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2791.81005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-02-15_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e4d795dfcc01f22a54f59aa8adf1b30c36081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2789.610107421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9344/骄傲.png",
+        "package_id": "9344",
+        "emoji_id": "131184",
+        "text": "[乐鸣东方静态表情包_骄傲]"
+      },
+      {
+        "file": "../../_assets/emojis/9344/开心.png",
+        "package_id": "9344",
+        "emoji_id": "131169",
+        "text": "[乐鸣东方静态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9344/干杯.png",
+        "package_id": "9344",
+        "emoji_id": "131177",
+        "text": "[乐鸣东方静态表情包_干杯]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：热热闹闹看春晚~",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：热热闹闹看春晚~",
+        "desc1": {
+          "text": "02-16 17:20 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5375688,
+        "reserve_total": 161069,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3958,
+    "comment": 201,
+    "forward": 34
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

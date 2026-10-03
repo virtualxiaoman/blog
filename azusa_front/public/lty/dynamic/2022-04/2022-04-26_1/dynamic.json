@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "653401938910511143",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/653401938910511143",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月26日",
+    "pub_ts": 1650970394,
+    "location": ""
+  },
+  "topic": {
+    "id": 9865,
+    "name": "Vsinger创作激励计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9865&topic_name=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# 啦哒哒啦哒~好可爱的一首歌！[洛天依·夜航星_起飞]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 啦哒哒啦哒~好可爱的一首歌！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6043,
+    "comment": 122,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 645905060696424454,
+    "orig_mid": 14208925,
+    "deleted": false,
+    "archive_dir": "../../../14208925/2022-04/2022-04-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:45:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

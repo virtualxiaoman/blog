@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "850795960068997125",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/850795960068997125",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月10日",
+    "pub_ts": 1696929771,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "所有无法形容的回忆与爱意，叫做《未命名》[洛天依幻游世界_i了i了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "所有无法形容的回忆与爱意，叫做《未命名》"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4873,
+    "comment": 153,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 839688466001297559,
+    "orig_mid": 14425668,
+    "deleted": false,
+    "archive_dir": "../../../14425668/2023-09/2023-09-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

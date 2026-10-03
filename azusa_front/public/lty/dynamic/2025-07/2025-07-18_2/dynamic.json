@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1090846612905787412",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1090846612905787412",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月18日",
+    "pub_ts": 1752820919,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "《流光（Light Me Up）》日语版已经上传2P，歌曲也已正式上线各大音乐平台，欢迎大家来听呀~[洛天依八音奇响动态_美丽]彩排这首歌的时候，天依总是忍不住幻想大家就在舞台下的场景，终于终于，明天就要和大家见面啦！[洛天依八音奇响动态_可爱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《流光（Light Me Up）》日语版已经上传2P，歌曲也已正式上线各大音乐平台，欢迎大家来听呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "彩排这首歌的时候，天依总是忍不住幻想大家就在舞台下的场景，终于终于，明天就要和大家见面啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3858,
+    "comment": 92,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 1088207351181213728,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-07-11_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:35:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

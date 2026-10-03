@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "838582662246432776",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/838582662246432776",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月7日",
+    "pub_ts": 1694086141,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "历时165天，跨越8732公里\n6位少数民族艺术家，4次进棚录音，22版服装设计稿，音乐mv连续拍摄24小时\n在浪漫的歌行之旅背后，也充满了许多难忘的故事。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "历时165天，跨越8732公里\n6位少数民族艺术家，4次进棚录音，22版服装设计稿，音乐mv连续拍摄24小时\n在浪漫的歌行之旅背后，也充满了许多难忘的故事。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依游学记·歌行vlog幕后掠影：历时数月 跨越千里 匠心呈现",
+      "desc": "历时165天，跨越8732公里\n6位少数民族艺术家，4次进棚录音，22版服装设计稿，音乐mv连续拍摄24小时\n在浪漫的歌行之旅背后，也充满了许多难忘的故事。\n\n“以电子虚拟歌手的机械心脏与瑰宝民族音乐共鸣”\n希望这趟歌行之旅，天依有交出这份答卷~\n\nVlog系列视频总播放量也突破100w啦！感谢大家的支持~\n新的歌曲和服装模型将在10月陆续开始与大家见面，一起期待吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1L94y1x7TD",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/af6625f13cdf86951b736367d879f1e2a5bf451a.jpg",
+      "cover_file": "../../_assets/covers/2023-09-07_1.jpg",
+      "bvid": "BV1L94y1x7TD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1L94y1x7TD",
+        "aid": "363230128",
+        "cover": "http://i1.hdslb.com/bfs/archive/af6625f13cdf86951b736367d879f1e2a5bf451a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1L94y1x7TD",
+        "stat": {
+          "danmaku": "205",
+          "play": "4.4万",
+          "vt": ""
+        },
+        "duration_text": "04:37",
+        "title": "天依游学记·歌行vlog幕后掠影：历时数月 跨越千里 匠心呈现",
+        "desc": "历时165天，跨越8732公里\n6位少数民族艺术家，4次进棚录音，22版服装设计稿，音乐mv连续拍摄24小时\n在浪漫的歌行之旅背后，也充满了许多难忘的故事。\n\n“以电子虚拟歌手的机械心脏与瑰宝民族音乐共鸣”\n希望这趟歌行之旅，天依有交出这份答卷~\n\nVlog系列视频总播放量也突破100w啦！感谢大家的支持~\n新的歌曲和服装模型将在10月陆续开始与大家见面，一起期待吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11811,
+    "comment": 431,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "272930092031393851",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/272930092031393851",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月6日",
+    "pub_ts": 1562384889,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依的生日会在悄悄逼近~这次生日会除了会在上海环球金融中心94楼的高空举办，还会在哔哩哔哩进行直播。所以天依来问问大家，直播间的粉丝勋章大家想要叫什么呀？欢迎大家在评论区留言哦(｡>∀<｡)~  7月12日19:12，天依会准时和大家见面哒~  直播间：网页链接",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的生日会在悄悄逼近~这次生日会除了会在上海环球金融中心94楼的高空举办，还会在哔哩哔哩进行直播。所以天依来问问大家，直播间的粉丝勋章大家想要叫什么呀？欢迎大家在评论区留言哦(｡>∀<｡)~  7月12日19:12，天依会准时和大家见面哒~  直播间："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/1546736"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8781,
+    "comment": 1073,
+    "forward": 59
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

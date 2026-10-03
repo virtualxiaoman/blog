@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1013990367850135577",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1013990367850135577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月23日",
+    "pub_ts": 1734926430,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "集百家之长，汇千言成曲，和天依一起感受京剧艺术的魅力吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "集百家之长，汇千言成曲，和天依一起感受京剧艺术的魅力吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“明快激昂，千言成曲”洛天依游学记「梨园·京剧行」vlog",
+      "desc": "❀主题曲《戏游九州》BV1HWkwYWETx\n“京剧激昂，高台上的荡气回肠。”\n【歌行·戏曲季】的游学第二站——“国粹”京剧！\n天依这次拜师的是青年京剧演员、梅派第四代乾旦传人巴特尔老师！\n要学戏，不仅要领会唱念做打的表演技巧，还要深入探究人物内心的情感细节哦！\n京剧，融合了南北戏曲精华，有着包容万象的唱腔、生动传神的表演。\n集百家之长，汇千言成曲，和天依一起感受京剧艺术的魅力吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1qDCTYPE7W",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/78aa60d04cf1708b9c14a0b473fa80a800084558.jpg",
+      "cover_file": "../../_assets/covers/2024-12-23_1.jpg",
+      "bvid": "BV1qDCTYPE7W",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qDCTYPE7W",
+        "aid": "113697934543178",
+        "cover": "http://i2.hdslb.com/bfs/archive/78aa60d04cf1708b9c14a0b473fa80a800084558.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qDCTYPE7W",
+        "stat": {
+          "danmaku": "770",
+          "play": "36.2万",
+          "vt": ""
+        },
+        "duration_text": "05:00",
+        "title": "“明快激昂，千言成曲”洛天依游学记「梨园·京剧行」vlog",
+        "desc": "❀主题曲《戏游九州》BV1HWkwYWETx\n“京剧激昂，高台上的荡气回肠。”\n【歌行·戏曲季】的游学第二站——“国粹”京剧！\n天依这次拜师的是青年京剧演员、梅派第四代乾旦传人巴特尔老师！\n要学戏，不仅要领会唱念做打的表演技巧，还要深入探究人物内心的情感细节哦！\n京剧，融合了南北戏曲精华，有着包容万象的唱腔、生动传神的表演。\n集百家之长，汇千言成曲，和天依一起感受京剧艺术的魅力吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12980,
+    "comment": 464,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

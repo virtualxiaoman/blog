@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1087229198187102212",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1087229198187102212",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月8日",
+    "pub_ts": 1751978674,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "此刻，我们的回忆和歌声， UnL∞ck！【洛天依13周年生日会预告片】",
+      "desc": "在无尽的时光里，旋律从未停歇\n每一次亮相都是全新的解锁，每一段音符都藏着它的故事\n时光的八音盒拧动发条，歌者将曾经你们一同创造的歌谣，再次唱响\n7月12日19:12，洛天依十三周年「共鸣之夜· UnL∞ck」生日会\n请用你最纯粹的热爱，最深切的呐喊，让这虚拟之音，也能触动你最真实的心跳吧！\n\n全国多个生日线下活动也将同步开启——\n🎶常州恐龙园：https://b23.tv/kNXVBFL  \n🎶凤岭水世界：https://show.bilibili.com/platform/detail.html?id=",
+      "jump_url": "https://www.bilibili.com/video/BV1fUGHzGEXc",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/04c7d216f964457b058b403d91b6800f3086b9df.jpg",
+      "cover_file": "../../_assets/covers/2025-07-08_5.jpg",
+      "bvid": "BV1fUGHzGEXc",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1fUGHzGEXc",
+        "aid": "114817662715480",
+        "cover": "http://i0.hdslb.com/bfs/archive/04c7d216f964457b058b403d91b6800f3086b9df.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1fUGHzGEXc",
+        "stat": {
+          "danmaku": "624",
+          "play": "34.2万",
+          "vt": ""
+        },
+        "duration_text": "01:03",
+        "title": "此刻，我们的回忆和歌声， UnL∞ck！【洛天依13周年生日会预告片】",
+        "desc": "在无尽的时光里，旋律从未停歇\n每一次亮相都是全新的解锁，每一段音符都藏着它的故事\n时光的八音盒拧动发条，歌者将曾经你们一同创造的歌谣，再次唱响\n7月12日19:12，洛天依十三周年「共鸣之夜· UnL∞ck」生日会\n请用你最纯粹的热爱，最深切的呐喊，让这虚拟之音，也能触动你最真实的心跳吧！\n\n全国多个生日线下活动也将同步开启——\n🎶常州恐龙园：https://b23.tv/kNXVBFL  \n🎶凤岭水世界：https://show.bilibili.com/platform/detail.html?id=",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16502,
+    "comment": 1244,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

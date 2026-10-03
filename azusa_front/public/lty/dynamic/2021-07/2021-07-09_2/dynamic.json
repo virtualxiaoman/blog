@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "545340729249123007",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/545340729249123007",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月9日",
+    "pub_ts": 1625810433,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依0712生日快乐# #洛天依九周年# 【九周年第五弹】非常开心成为本期@SoFigaro中文版 的封面主角，也非常感谢杂志特邀艺术家张小溪用温柔而有力的笔触为我创作，生日之际有了新的尝试和突破。在艺术家笔下，天依又一次被赋予了不同的色彩，如同之前千千万万个创作者，天依在大家的作品中，总能找到新的意义和伴我前行的力量！在这本杂志中，还有天依的其他插画在内页，大家不要错过啦~  ---------杂志发售信息---------- 7月9日下午16:00售卖通道正式开启  【So Figaro x 洛天依出道九周年创意封面杂志（含洛天依更多精美内页大片）】将在tb店：精品传媒集团 上架发售！ 感兴趣的小伙伴记得去看看哦~  #Vsinger# #洛天依#\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 【九周年第五弹】非常开心成为本期"
+      },
+      {
+        "type": "mention",
+        "text": "@SoFigaro中文版 ",
+        "mid": 526703612,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的封面主角，也非常感谢杂志特邀艺术家张小溪用温柔而有力的笔触为我创作，生日之际有了新的尝试和突破。在艺术家笔下，天依又一次被赋予了不同的色彩，如同之前千千万万个创作者，天依在大家的作品中，总能找到新的意义和伴我前行的力量！在这本杂志中，还有天依的其他插画在内页，大家不要错过啦~  ---------杂志发售信息---------- 7月9日下午16:00售卖通道正式开启  【So Figaro x 洛天依出道九周年创意封面杂志（含洛天依更多精美内页大片）】将在tb店：精品传媒集团 上架发售！ 感兴趣的小伙伴记得去看看哦~  "
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-09_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c3b2759dbebb7d314cf27f6dd54ead8ec33e281a.jpg",
+        "width": 1080,
+        "height": 1558,
+        "size_kb": 101.73,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6967,
+    "comment": 804,
+    "forward": 119
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

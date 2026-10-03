@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "474478871283469761",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/474478871283469761",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月30日",
+    "pub_ts": 1609311621,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#B站跨年晚会# #洛天依# 浩瀚宇宙中，所有人都渺小如沙粒，但天依相信每个人内心都怀着星星一般的光。 即使达成理想的过程充满孤独，只要有这份星光相伴，也能继续坚持。 对你们来说，这个星光是什么呢？信念、勇气还是与人之间的羁绊？ 很快就是2020的最后一天，我们即将向未知的世界启程，让繁星带我们远航吧！☆彡  Illustration by @-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#B站跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 浩瀚宇宙中，所有人都渺小如沙粒，但天依相信每个人内心都怀着星星一般的光。 即使达成理想的过程充满孤独，只要有这份星光相伴，也能继续坚持。 对你们来说，这个星光是什么呢？信念、勇气还是与人之间的羁绊？ 很快就是2020的最后一天，我们即将向未知的世界启程，让繁星带我们远航吧！☆彡  Illustration by "
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-12-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/040a0eafad5cbdd434ba356a45106bfe68770efd.jpg",
+        "width": 1086,
+        "height": 1800,
+        "size_kb": 791.9375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-12-30_2.gif",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/269355556bf286b94bf8b9b90d3d094a91c6a2b9.gif",
+        "width": 400,
+        "height": 665,
+        "size_kb": 6406.7197265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18702,
+    "comment": 503,
+    "forward": 244
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

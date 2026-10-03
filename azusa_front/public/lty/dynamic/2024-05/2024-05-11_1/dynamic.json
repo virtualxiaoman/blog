@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "930219457380352022",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/930219457380352022",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月11日",
+    "pub_ts": 1715421995,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依X猫噜噜萌物社|「雪舞天依·新疆」毛绒团子,毛绒趴趴挂件上线啦~\n\n想要挂在你的包包上，去看世间更多美好的风景！[洛天依歌行四方_扭脖子]\n\n互动抽奖 转发关注，随机抽选2位小伙伴随机赠送一款毛绒挂件\n\n\n\n「雪舞天依·新疆」毛绒团子  毛绒趴趴挂件\n\n产品价格：59元赠送特典\n\n预售时间：2024年5月13日18:00\n\n出荷时间:2024年7月下旬\n\n预售地址：TB猫噜噜萌物社等官方渠道 \n\n\n预售特典：\n\n预售期间购买一任意一款毛绒挂件赠送 \n\n双闪徽章*1\n\n购买两款毛绒挂件（all in）\n\n赠送双闪徽章*1＋色纸*1\n\n\n\nPS：产品还在监修中，以最终实物为准。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依X猫噜噜萌物社|「雪舞天依·新疆」毛绒团子,毛绒趴趴挂件上线啦~\n\n想要挂在你的包包上，去看世间更多美好的风景！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "296581",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注，随机抽选2位小伙伴随机赠送一款毛绒挂件\n\n\n\n「雪舞天依·新疆」毛绒团子  毛绒趴趴挂件\n\n产品价格：59元赠送特典\n\n预售时间：2024年5月13日18:00\n\n出荷时间:2024年7月下旬\n\n预售地址：TB猫噜噜萌物社等官方渠道 \n\n\n预售特典：\n\n预售期间购买一任意一款毛绒挂件赠送 \n\n双闪徽章*1\n\n购买两款毛绒挂件（all in）\n\n赠送双闪徽章*1＋色纸*1\n\n\n\nPS：产品还在监修中，以最终实物为准。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/741276fa36590c59c152a93611ee212336081646.jpg",
+        "width": 1000,
+        "height": 9125,
+        "size_kb": 2424.716796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "296581"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6014,
+    "comment": 983,
+    "forward": 3886
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

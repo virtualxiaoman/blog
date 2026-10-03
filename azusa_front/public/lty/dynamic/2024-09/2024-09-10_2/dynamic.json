@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "975519426691465220",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/975519426691465220",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月10日",
+    "pub_ts": 1725969216,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "首个动态出框头像[心律共鸣动态表情包_好厉害][心律共鸣动态表情包_好厉害]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "首个动态出框头像"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/好厉害.gif",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "text": "[心律共鸣动态表情包_好厉害]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3816,
+    "comment": 251,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 975472839177011206,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-09/2024-09-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

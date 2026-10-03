@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1208531736153030729",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1208531736153030729",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月31日",
+    "pub_ts": 1780221622,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2026洛天依全国巡演来啦！想听天依唱哪些歌？",
+      "desc": "洛天依2026全国巡回演唱会已经官宣啦！\n这次天依将会巡演全国六大城市，解锁更多新舞台~\n在舞台上和大家一起唱大家想听的歌，是最最最重要哒！\nhigh起来的、温柔的、国风的、更多风格的.......\n大家最想听到天依在今年的演唱会上唱哪些歌呢？在评论区和弹幕里投票和留言告诉天依吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1bfVJ6rET5",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d858e810684b2012d47619f69dc6f88b26ebaf25.jpg",
+      "cover_file": "../../_assets/covers/2026-05-31_1.jpg",
+      "bvid": "BV1bfVJ6rET5",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1bfVJ6rET5",
+        "aid": "116668055487711",
+        "cover": "http://i0.hdslb.com/bfs/archive/d858e810684b2012d47619f69dc6f88b26ebaf25.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1bfVJ6rET5",
+        "stat": {
+          "danmaku": "1.8万",
+          "play": "17.6万",
+          "vt": ""
+        },
+        "duration_text": "07:50",
+        "title": "2026洛天依全国巡演来啦！想听天依唱哪些歌？",
+        "desc": "洛天依2026全国巡回演唱会已经官宣啦！\n这次天依将会巡演全国六大城市，解锁更多新舞台~\n在舞台上和大家一起唱大家想听的歌，是最最最重要哒！\nhigh起来的、温柔的、国风的、更多风格的.......\n大家最想听到天依在今年的演唱会上唱哪些歌呢？在评论区和弹幕里投票和留言告诉天依吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26154,
+    "comment": 6863,
+    "forward": 324
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

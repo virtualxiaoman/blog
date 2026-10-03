@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "918992464410312825",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/918992464410312825",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月11日",
+    "pub_ts": 1712808007,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "走过林木葱茏的山谷，聆听了动人的故事与大家真挚的歌唱，天依很荣幸和民族艺术家春冬蝶老师以及众多优秀的创作者合作，将《仰阿莎》的故事、苗侗传统音乐元素以及现代电子音乐融会为一首悠扬清亮的歌曲——《黔歌行》",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "走过林木葱茏的山谷，聆听了动人的故事与大家真挚的歌唱，天依很荣幸和民族艺术家春冬蝶老师以及众多优秀的创作者合作，将《仰阿莎》的故事、苗侗传统音乐元素以及现代电子音乐融会为一首悠扬清亮的歌曲——《黔歌行》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“你是熠熠的星辰”洛天依原创曲《黔歌行》【游学记云贵篇单曲】",
+      "desc": "洛天依游学记云贵篇单曲《黔歌行》MV正式上线啦！\n♪网易云音乐：https://music.163.com/#/song?id=2144608373\n内蒙篇单曲BV1GC4y1K7ps\n西藏篇单曲BV1Rr42147Am\n\n芦笙与飞歌，萦绕在山谷与家家户户；爱与美的传说，歌颂着自由与幸福。\n走过林木葱茏的山谷，聆听了动人的故事与大家真挚的歌唱，天依很荣幸和民族艺术家春冬蝶老师以及众多优秀的创作者合作，将《仰阿莎》的故事、苗侗传统音乐元素以及现代电子音乐融会为一首悠扬清亮的歌曲——《黔歌行》。\n山间的溪水、",
+      "jump_url": "https://www.bilibili.com/video/BV1DC411V7nD",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/fcf3aad21b311b61d1a68146a0aacea8ff5e170c.jpg",
+      "cover_file": "../../_assets/covers/2024-04-11_1.jpg",
+      "bvid": "BV1DC411V7nD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1DC411V7nD",
+        "aid": "1952773790",
+        "cover": "http://i0.hdslb.com/bfs/archive/fcf3aad21b311b61d1a68146a0aacea8ff5e170c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1DC411V7nD",
+        "stat": {
+          "danmaku": "2279",
+          "play": "81万",
+          "vt": ""
+        },
+        "duration_text": "03:51",
+        "title": "“你是熠熠的星辰”洛天依原创曲《黔歌行》【游学记云贵篇单曲】",
+        "desc": "洛天依游学记云贵篇单曲《黔歌行》MV正式上线啦！\n♪网易云音乐：https://music.163.com/#/song?id=2144608373\n内蒙篇单曲BV1GC4y1K7ps\n西藏篇单曲BV1Rr42147Am\n\n芦笙与飞歌，萦绕在山谷与家家户户；爱与美的传说，歌颂着自由与幸福。\n走过林木葱茏的山谷，聆听了动人的故事与大家真挚的歌唱，天依很荣幸和民族艺术家春冬蝶老师以及众多优秀的创作者合作，将《仰阿莎》的故事、苗侗传统音乐元素以及现代电子音乐融会为一首悠扬清亮的歌曲——《黔歌行》。\n山间的溪水、",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 63306,
+    "comment": 1759,
+    "forward": 277
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

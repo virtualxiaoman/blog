@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "279318907423545319",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/279318907423545319",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月23日",
+    "pub_ts": 1563872401,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@一只小陈腐 @我有中二病怎么啦 @wsy322 中奖，已发送系统通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@一只小陈腐",
+        "mid": 11356084,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@我有中二病怎么啦",
+        "mid": 250160077,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@wsy322",
+        "mid": 356137718,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已发送系统通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4681,
+    "comment": 227,
+    "forward": 67
+  },
+  "forward": {
+    "orig_id": 275263393148395169,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2019-07-12_9"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

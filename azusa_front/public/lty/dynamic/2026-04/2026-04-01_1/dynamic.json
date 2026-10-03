@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "1186179115735056389",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1186179115735056389",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月1日",
+    "pub_ts": 1775017247,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "包的忧郁恐怕在你之上…[洛天依拜年纪动态表情包_严肃]\n\n最伟大的包包大人已经抵达她忠实的王座！\n所有小笼包，速速呈上来！[洛天依拜年纪表情包_驾到]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "包的忧郁恐怕在你之上…"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_严肃]",
+        "package_id": "9451",
+        "emoji_id": "132880",
+        "name": "严肃",
+        "url": "https://i0.hdslb.com/bfs/garb/e46cf059040a6164f16bfa84d1b32ca45939b772.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n最伟大的包包大人已经抵达她忠实的王座！\n所有小笼包，速速呈上来！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_驾到]",
+        "package_id": "9452",
+        "emoji_id": "132897",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e4830b91f3fdd59739091ad686dc70191b2b6147.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/07dceea1cfef4df3215c993850bde52536081646.jpg",
+        "width": 4000,
+        "height": 4000,
+        "size_kb": 248.63999938964844,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-04-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9584f28dcfb23829bd42121af521a70336081646.jpg",
+        "width": 1179,
+        "height": 1448,
+        "size_kb": 401.989990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/严肃.gif",
+        "package_id": "9451",
+        "emoji_id": "132880",
+        "text": "[洛天依拜年纪动态表情包_严肃]"
+      },
+      {
+        "file": "../../_assets/emojis/9452/驾到.png",
+        "package_id": "9452",
+        "emoji_id": "132897",
+        "text": "[洛天依拜年纪表情包_驾到]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8281,
+    "comment": 677,
+    "forward": 127
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

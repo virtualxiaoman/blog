@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "619247362537859076",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/619247362537859076",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月24日",
+    "pub_ts": 1643018162,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#如果有带给大家一点点快乐，就好了[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "如果有带给大家一点点快乐，就好了"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6940,
+    "comment": 162,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 617729302055245223,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2022-01/2022-01-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

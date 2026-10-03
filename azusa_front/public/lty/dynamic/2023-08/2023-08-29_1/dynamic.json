@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "835254174263279622",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/835254174263279622",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月29日",
+    "pub_ts": 1693311167,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "唯美壮观的风景，色彩斑斓的大巴扎......\n聆听了哈萨克族冬不拉两个音符弹奏出的淳朴快乐\n感受过维吾尔族热瓦普的明亮与高亢\n在这里，不同民族的传统音乐相互交融，音乐与舞蹈融入了每个新疆人民的血脉，成为他们的生活中不可分割的一部分。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "唯美壮观的风景，色彩斑斓的大巴扎......\n聆听了哈萨克族冬不拉两个音符弹奏出的淳朴快乐\n感受过维吾尔族热瓦普的明亮与高亢\n在这里，不同民族的传统音乐相互交融，音乐与舞蹈融入了每个新疆人民的血脉，成为他们的生活中不可分割的一部分。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "虚拟歌手参加哈萨克族婚礼？来到不可以没有音乐与舞蹈的地方【天依游学记·歌行 新疆篇 采风vlog】",
+      "desc": "三千年大漠风，五千年西域情。\n既然是歌行，当然要到这里——新疆！\n这次新疆之旅，天依有幸参加了阿勒老师的婚礼哦！一起祝老师新婚快乐吧~\n\n唯美壮观的风景，色彩斑斓的大巴扎......\n聆听了哈萨克族冬不拉两个音符弹奏出的淳朴快乐\n感受过维吾尔族热瓦普的明亮与高亢\n在这里，不同民族的传统音乐相互交融，音乐与舞蹈融入了每个新疆人民的血脉，成为他们的生活中不可分割的一部分。\n\n在见证了内蒙音乐的原生与天然，西藏音乐的高亢与雄壮，新疆音乐的明快与希望之后，我也开始了自己的新作品创作哦！\n9月1日，天依的这首融合了",
+      "jump_url": "https://www.bilibili.com/video/BV1Sr4y1X7hT",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/779c40c84fef1af4c2497506c322e7858c9fa760.jpg",
+      "cover_file": "../../_assets/covers/2023-08-29_1.jpg",
+      "bvid": "BV1Sr4y1X7hT",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Sr4y1X7hT",
+        "aid": "745344432",
+        "cover": "http://i2.hdslb.com/bfs/archive/779c40c84fef1af4c2497506c322e7858c9fa760.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Sr4y1X7hT",
+        "stat": {
+          "danmaku": "295",
+          "play": "17万",
+          "vt": ""
+        },
+        "duration_text": "04:51",
+        "title": "虚拟歌手参加哈萨克族婚礼？来到不可以没有音乐与舞蹈的地方【天依游学记·歌行 新疆篇 采风vlog】",
+        "desc": "三千年大漠风，五千年西域情。\n既然是歌行，当然要到这里——新疆！\n这次新疆之旅，天依有幸参加了阿勒老师的婚礼哦！一起祝老师新婚快乐吧~\n\n唯美壮观的风景，色彩斑斓的大巴扎......\n聆听了哈萨克族冬不拉两个音符弹奏出的淳朴快乐\n感受过维吾尔族热瓦普的明亮与高亢\n在这里，不同民族的传统音乐相互交融，音乐与舞蹈融入了每个新疆人民的血脉，成为他们的生活中不可分割的一部分。\n\n在见证了内蒙音乐的原生与天然，西藏音乐的高亢与雄壮，新疆音乐的明快与希望之后，我也开始了自己的新作品创作哦！\n9月1日，天依的这首融合了",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25276,
+    "comment": 638,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

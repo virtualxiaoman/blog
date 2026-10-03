@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1196691104056999961",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1196691104056999961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月29日",
+    "pub_ts": 1777464760,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嗨~你无处躲藏[逆转童话_够了]晚上好呀大家！天依来推歌啦~[逆转童话_驾到]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嗨~你无处躲藏"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_够了]",
+        "package_id": "8745",
+        "emoji_id": "121375",
+        "name": "够了",
+        "url": "https://i0.hdslb.com/bfs/garb/6b34b6387ee4a96321c7e6769db5b892ad32c1b0.png"
+      },
+      {
+        "type": "text",
+        "text": "晚上好呀大家！天依来推歌啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_驾到]",
+        "package_id": "8745",
+        "emoji_id": "121371",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/98ff458c9aea0e37181b4558978de0ae6d8fcc42.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8745/够了.png",
+        "package_id": "8745",
+        "emoji_id": "121375",
+        "text": "[逆转童话_够了]"
+      },
+      {
+        "file": "../../_assets/emojis/8745/驾到.png",
+        "package_id": "8745",
+        "emoji_id": "121371",
+        "text": "[逆转童话_驾到]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5554,
+    "comment": 153,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1192508686373748755,
+    "orig_mid": 3420460,
+    "deleted": false,
+    "archive_dir": "../../../3420460/2026-04/2026-04-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

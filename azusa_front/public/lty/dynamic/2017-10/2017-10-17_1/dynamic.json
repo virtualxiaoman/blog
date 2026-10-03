@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "40340145320571294",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/40340145320571294",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2017年10月17日",
+    "pub_ts": 1508230822,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&KFC】天生翅粉食谱颂",
+      "desc": "作品类型: 翻调曲\n原曲出处: https://www.bilibili.com/video/av308040/\n调教: 动点P\n作词: 小K（原词：H.K.君）\n作曲: H.K.君\n曲绘: TID\n简介补充: 天依我作为天生翅粉，这次和炸鸡界的大佬肯德基联动啦~！\n在此唱了首歌，给大家安利肯德基十翅一桶39元~\n听完之后是不是特别想吃辣翅和烤翅了呢~(*´∀｀*)☆\n《天生翅粉食谱颂》\n改编自《千年食谱颂》\n作词：小K（原词：H.K.君）\n作曲：H.K.君\n演唱：洛天依\n调教：动点P\n封面曲绘：TID",
+      "jump_url": "https://www.bilibili.com/video/BV13x411M7vw",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/ff1b975d429d553186e36def830b6aa7e5dcc409.jpg",
+      "cover_file": "../../_assets/covers/2017-10-17_1.jpg",
+      "bvid": "BV13x411M7vw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV13x411M7vw",
+        "aid": "15476169",
+        "cover": "http://i1.hdslb.com/bfs/archive/ff1b975d429d553186e36def830b6aa7e5dcc409.jpg",
+        "jump_url": "//www.bilibili.com/video/BV13x411M7vw",
+        "stat": {
+          "danmaku": "2816",
+          "play": "19.7万",
+          "vt": ""
+        },
+        "duration_text": "01:30",
+        "title": "【洛天依&KFC】天生翅粉食谱颂",
+        "desc": "作品类型: 翻调曲\n原曲出处: https://www.bilibili.com/video/av308040/\n调教: 动点P\n作词: 小K（原词：H.K.君）\n作曲: H.K.君\n曲绘: TID\n简介补充: 天依我作为天生翅粉，这次和炸鸡界的大佬肯德基联动啦~！\n在此唱了首歌，给大家安利肯德基十翅一桶39元~\n听完之后是不是特别想吃辣翅和烤翅了呢~(*´∀｀*)☆\n《天生翅粉食谱颂》\n改编自《千年食谱颂》\n作词：小K（原词：H.K.君）\n作曲：H.K.君\n演唱：洛天依\n调教：动点P\n封面曲绘：TID\n",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7857,
+    "comment": 4141,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

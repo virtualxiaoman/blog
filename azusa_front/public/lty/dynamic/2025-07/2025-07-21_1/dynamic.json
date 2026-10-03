@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1092005081536004101",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1092005081536004101",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月21日",
+    "pub_ts": 1753090646,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "QQ X 洛天依 演唱会主题专属套装 现已上线[洛天依流光协奏_抱抱]\n\n✨套装包含\n动态主题、专属限定编号、动态背景、动态名片、进群特效、动态挂件、动态气泡等特殊装扮\n\n✨获取方式\n打开QQ-个性装扮，搜索“洛天依”或点击首页banner可直达活动界面\n🎉 所有装扮仍然永久有效~ [洛天依流光协奏_ALLIN]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "QQ X 洛天依 演唱会主题专属套装 现已上线"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_抱抱]",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/04ae473c4cf1fcf35fc87621f732b59a71c45dac.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨套装包含\n动态主题、专属限定编号、动态背景、动态名片、进群特效、动态挂件、动态气泡等特殊装扮\n\n✨获取方式\n打开QQ-个性装扮，搜索“洛天依”或点击首页banner可直达活动界面\n🎉 所有装扮仍然永久有效~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_ALLIN]",
+        "package_id": "8393",
+        "emoji_id": "115578",
+        "name": "ALLIN",
+        "url": "https://i0.hdslb.com/bfs/garb/461f0aaab5efcd210d620c093a06f333821c1495.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-21_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1540cf585f537bb43faa03d452697d2336081646.jpg",
+        "width": 750,
+        "height": 11058,
+        "size_kb": 3397.8271484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/抱抱.png",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "text": "[洛天依流光协奏_抱抱]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/ALLIN.png",
+        "package_id": "8393",
+        "emoji_id": "115578",
+        "text": "[洛天依流光协奏_ALLIN]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4516,
+    "comment": 291,
+    "forward": 50
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

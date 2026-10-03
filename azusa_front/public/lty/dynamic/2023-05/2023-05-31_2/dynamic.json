@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "801799492844126226",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/801799492844126226",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月31日",
+    "pub_ts": 1685521892,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "依哈哈哈哈哈，这很难不快乐吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "依哈哈哈哈哈，这很难不快乐吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【上头警告】《美乐笛之歌》新单加载100%，依哈哈哈哈哈，有被笑到！",
+      "desc": "《美乐笛之歌》\n原曲：神经病之歌\n原作词/作曲：ilem\n改编作词：珍宝珠-ChupaChups\n重编曲：iKz-茶壶\n演唱：洛天依\n人物设定：御坂的蓝白",
+      "jump_url": "https://www.bilibili.com/video/BV1ro4y1M727",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/7b9e9b1f9b22736c698ff3318a0930df01ae0a99.jpg",
+      "cover_file": "../../_assets/covers/2023-05-31_1.jpg",
+      "bvid": "BV1ro4y1M727",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ro4y1M727",
+        "aid": "401782312",
+        "cover": "http://i1.hdslb.com/bfs/archive/7b9e9b1f9b22736c698ff3318a0930df01ae0a99.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ro4y1M727",
+        "stat": {
+          "danmaku": "418",
+          "play": "59.2万",
+          "vt": ""
+        },
+        "duration_text": "01:09",
+        "title": "【上头警告】《美乐笛之歌》新单加载100%，依哈哈哈哈哈，有被笑到！",
+        "desc": "《美乐笛之歌》\n原曲：神经病之歌\n原作词/作曲：ilem\n改编作词：珍宝珠-ChupaChups\n重编曲：iKz-茶壶\n演唱：洛天依\n人物设定：御坂的蓝白",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 58668,
+    "comment": 1048,
+    "forward": 104
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

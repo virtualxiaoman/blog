@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "882676132246192137",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/882676132246192137",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月4日",
+    "pub_ts": 1704352452,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 “洛天依游学记”少数民族专篇——内蒙古篇单曲《天上的风》已经正式上线啦！由天依和哈拉木吉老师合作演绎~[洛天依歌行四方_拉弓射箭]\n转发关注天依，揪3位小伙伴送出【洛天依随机款式挂件】1个哦\n“万物无言  只需沉浸在这瞬间”\n[洛天依歌行四方_拉马琴]MV:“听 这是来自草原的歌声”洛天依X哈拉木吉《天上的风》【天依游学记内蒙篇单曲】 \n[洛天依歌行四方_欢迎]歌曲：https://music.163.com/#/song?id=2111775853 \n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "259053",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " “洛天依游学记”少数民族专篇——内蒙古篇单曲《天上的风》已经正式上线啦！由天依和哈拉木吉老师合作演绎~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_拉弓射箭]",
+        "package_id": "4128",
+        "emoji_id": "58601",
+        "name": "拉弓射箭",
+        "url": "https://i0.hdslb.com/bfs/emote/c411f11cb8546f9955c17f06f267fcfa6c181ae0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪3位小伙伴送出【洛天依随机款式挂件】1个哦\n“万物无言  只需沉浸在这瞬间”\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_拉马琴]",
+        "package_id": "4128",
+        "emoji_id": "58602",
+        "name": "拉马琴",
+        "url": "https://i0.hdslb.com/bfs/emote/89f8d41460e54ee23ef07d7882d333b74087907f.png"
+      },
+      {
+        "type": "text",
+        "text": "MV:"
+      },
+      {
+        "type": "video",
+        "text": "“听 这是来自草原的歌声”洛天依X哈拉木吉《天上的风》【天依游学记内蒙篇单曲】",
+        "url": "https://www.bilibili.com/video/av750685039",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " \n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "歌曲：https://music.163.com/#/song?id=2111775853 \n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-04_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/658bbbed9b2636c2c9e9385dec6d65ce36081646.png",
+        "width": 5120,
+        "height": 2880,
+        "size_kb": 17261.830078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/拉弓射箭.png",
+        "package_id": "4128",
+        "emoji_id": "58601",
+        "text": "[洛天依歌行四方_拉弓射箭]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/拉马琴.png",
+        "package_id": "4128",
+        "emoji_id": "58602",
+        "text": "[洛天依歌行四方_拉马琴]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "259053"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6060,
+    "comment": 385,
+    "forward": 3787
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

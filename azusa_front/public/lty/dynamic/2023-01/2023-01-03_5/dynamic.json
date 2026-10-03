@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "746909871124774915",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/746909871124774915",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月3日",
+    "pub_ts": 1672741906,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“来不及了！”\n洛还没来得及做出反应，大片陨石飞速袭来，飞船失去了控制。\n一行人从废墟中醒来，发现已经坠入了神秘的A星球。技术担当α正在寻找修好飞船的方法，大家可以帮帮她吗？[洛天依_感动]\n小提示：A星球上似乎有些不同寻常的居民......\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“来不及了！”\n洛还没来得及做出反应，大片陨石飞速袭来，飞船失去了控制。\n一行人从废墟中醒来，发现已经坠入了神秘的A星球。技术担当α正在寻找修好飞船的方法，大家可以帮帮她吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_感动]",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "name": "感动",
+        "url": "http://i0.hdslb.com/bfs/emote/24de715f4b8730a5eedd1e0e6fbd2f2701143f83.png"
+      },
+      {
+        "type": "text",
+        "text": "\n小提示：A星球上似乎有些不同寻常的居民......\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-03_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6d65311461024341a064fb5f0404116436081646.jpg",
+        "width": 8000,
+        "height": 4472,
+        "size_kb": 9356.6806640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/感动.png",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "text": "[洛天依_感动]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11418,
+    "comment": 387,
+    "forward": 117
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:48:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

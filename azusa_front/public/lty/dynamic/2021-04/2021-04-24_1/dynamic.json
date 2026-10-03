@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "517262917415861763",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/517262917415861763",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月24日",
+    "pub_ts": 1619273058,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "咸咸的[洛天依·夜航星_溜了溜了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "咸咸的"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_溜了溜了]",
+        "package_id": "166",
+        "emoji_id": "3075",
+        "name": "溜了溜了",
+        "url": "http://i0.hdslb.com/bfs/emote/152d7bd6d4096ebb89974d591b9c305b29a89166.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/溜了溜了.png",
+        "package_id": "166",
+        "emoji_id": "3075",
+        "text": "[洛天依·夜航星_溜了溜了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5615,
+    "comment": 169,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 19933961130979906,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2017-06/2017-06-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

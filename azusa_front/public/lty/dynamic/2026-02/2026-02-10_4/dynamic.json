@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "1167769610333716501",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1167769610333716501",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月10日",
+    "pub_ts": 1770730950,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "大家晚上好呀！​《LOST IN TIANYI》专辑复刻&天依纪念插画集上新啦[乐鸣东方动态表情包_求求]\n\n💎洛天依《LOST IN TIANYI》专辑复刻\n               \n🎼「洛天依纪念插画集」上新\n此次插画集以时间纪念为线索，带领共鸣者们回顾过去和天依共同经历过的回忆~\n收录了2023至2024年间的170余幅官方洛天依插画作品\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家晚上好呀！​《LOST IN TIANYI》专辑复刻&天依纪念插画集上新啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💎洛天依《LOST IN TIANYI》专辑复刻\n               \n🎼「洛天依纪念插画集」上新\n此次插画集以时间纪念为线索，带领共鸣者们回顾过去和天依共同经历过的回忆~\n收录了2023至2024年间的170余幅官方洛天依插画作品\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-10_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/47fd01d692d97d7de3f7c967343236e836081646.jpg",
+        "width": 750,
+        "height": 3782,
+        "size_kb": 1700.087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-02-10_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1dc8813c9b689cfc1660a459d09b49d836081646.jpg",
+        "width": 900,
+        "height": 7322,
+        "size_kb": 2003.9267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-02-10_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/86d6d7853208f17a06c6b0d40eb8e60636081646.jpg",
+        "width": 900,
+        "height": 6141,
+        "size_kb": 1664.3857421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5975,
+    "comment": 197,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

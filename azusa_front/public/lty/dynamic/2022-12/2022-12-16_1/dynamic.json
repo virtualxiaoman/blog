@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "740137429263974457",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/740137429263974457",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月16日",
+    "pub_ts": 1671165074,
+    "location": ""
+  },
+  "topic": {
+    "id": 64547,
+    "name": "三体动画音乐神创作",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=64547&topic_name=%E4%B8%89%E4%BD%93%E5%8A%A8%E7%94%BB%E9%9F%B3%E4%B9%90%E7%A5%9E%E5%88%9B%E4%BD%9C"
+  },
+  "content": {
+    "title": "",
+    "text": "#三体##洛天依##三体ED##面壁者#\n“灭世黄昏无关逻辑，唯一谶语不存在闻名”",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#三体#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BD%93"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#三体ED#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E4%BD%93ED"
+      },
+      {
+        "type": "topic",
+        "text": "#面壁者#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9D%A2%E5%A3%81%E8%80%85"
+      },
+      {
+        "type": "text",
+        "text": "\n“灭世黄昏无关逻辑，唯一谶语不存在闻名”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依AI】三体ED·《面壁者》【灭世黄昏无关逻辑，唯一谶语不存在闻名】【原创PV付】",
+      "desc": "作词：木一\n作曲：sihan\n调校：@鬼面P  \n混音：@虎皮猫P \n视频：@花间有鹿来 \n演唱：@洛天依  \n扒谱：@雨巷独酌Rainfall  \n曲绘：@-TID- \n（曲绘来自官方企划“代号洛天依”)\n邓紫棋原作：BV1Hd4y1s7iW",
+      "jump_url": "https://www.bilibili.com/video/BV1fe4y1u7m6",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/15ceaa5b68f032cfa179b2d4f26724ecaae4a022.jpg",
+      "cover_file": "../../_assets/covers/2022-12-16_1.jpg",
+      "bvid": "BV1fe4y1u7m6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1fe4y1u7m6",
+        "aid": "648526260",
+        "cover": "http://i1.hdslb.com/bfs/archive/15ceaa5b68f032cfa179b2d4f26724ecaae4a022.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1fe4y1u7m6",
+        "stat": {
+          "danmaku": "863",
+          "play": "44.5万",
+          "vt": ""
+        },
+        "duration_text": "04:19",
+        "title": "【洛天依AI】三体ED·《面壁者》【灭世黄昏无关逻辑，唯一谶语不存在闻名】【原创PV付】",
+        "desc": "作词：木一\n作曲：sihan\n调校：@鬼面P  \n混音：@虎皮猫P \n视频：@花间有鹿来 \n演唱：@洛天依  \n扒谱：@雨巷独酌Rainfall  \n曲绘：@-TID- \n（曲绘来自官方企划“代号洛天依”)\n邓紫棋原作：BV1Hd4y1s7iW",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 46739,
+    "comment": 693,
+    "forward": 28
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

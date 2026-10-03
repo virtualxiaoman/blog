@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "230013670712477623",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/230013670712477623",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年3月12日",
+    "pub_ts": 1552392631,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 喊天依过去是要做什么呀？[可爱]#植树节想栽在你手上#\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 喊天依过去是要做什么呀？"
+      },
+      {
+        "type": "text",
+        "text": "[可爱]"
+      },
+      {
+        "type": "topic",
+        "text": "#植树节想栽在你手上#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%A4%8D%E6%A0%91%E8%8A%82%E6%83%B3%E6%A0%BD%E5%9C%A8%E4%BD%A0%E6%89%8B%E4%B8%8A"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-03-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1c34ad6971a1d831e9dfe87d60525a0b88c04a67.jpg",
+        "width": 1240,
+        "height": 5556,
+        "size_kb": 668.4052734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8446,
+    "comment": 869,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

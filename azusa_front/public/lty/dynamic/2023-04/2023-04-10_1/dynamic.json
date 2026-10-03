@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "782836954765983785",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/782836954765983785",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月10日",
+    "pub_ts": 1681106832,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这是什么呀~~[洛天依9th_好康！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这是什么呀~~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6929,
+    "comment": 544,
+    "forward": 54
+  },
+  "forward": {
+    "orig_id": 782804175536783378,
+    "orig_mid": 430351780,
+    "deleted": false,
+    "archive_dir": "../../../430351780/2023-04/2023-04-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:52:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

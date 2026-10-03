@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "1085705068913623049",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1085705068913623049",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月4日",
+    "pub_ts": 1751623810,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·广州站\n「广州·红宝石」城市特别视觉海报&演出时间地点资讯公开~\n转发关注天依，揪1位小伙伴送出【广州站SVIP门票】1张。\n\n🎶演出时间\n8月17日 19:12\n🎶演出场地\n广州华南农业大学体育馆\n🎶巡演城市\n7.19 北京/8.2 成都/8.17 广州/8.23 上海\n\n来吧来吧，给我最炽烈的爱，在属于我们的舞台，奏响最华丽的乐章！\n关于正式开票时间等更多详细资讯，请持续关注天依吧~ [洛天依·天星问动态_求善待]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·广州站\n「广州·红宝石」城市特别视觉海报&演出时间地点资讯公开~\n转发关注天依，揪1位小伙伴送出【广州站SVIP门票】1张。\n\n🎶演出时间\n8月17日 19:12\n🎶演出场地\n广州华南农业大学体育馆\n🎶巡演城市\n7.19 北京/8.2 成都/8.17 广州/8.23 上海\n\n来吧来吧，给我最炽烈的爱，在属于我们的舞台，奏响最华丽的乐章！\n关于正式开票时间等更多详细资讯，请持续关注天依吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_求善待]",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "name": "求善待",
+        "url": "https://i0.hdslb.com/bfs/garb/141ee55afb72f66c97dab25514190936c5c96c36.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-04_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0101f33b37f007e8b32e572d0fc1a59436081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 5943.3779296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/求善待.gif",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "text": "[洛天依·天星问动态_求善待]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5451,
+    "comment": 1349,
+    "forward": 2450
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

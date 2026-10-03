@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "789952208059760709",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/789952208059760709",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月29日",
+    "pub_ts": 1682763481,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "别忘了我们的约定哟！ [古色花香洛天依_wink]\n今晚，一首全新的歌曲唱给大家听～",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "别忘了我们的约定哟！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今晚，一首全新的歌曲唱给大家听～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-29_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5938c0240213b0924fd78fab571f72d536081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 4442.0498046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会之【冰火春日宴】",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会之【冰火春日宴】",
+        "desc1": {
+          "text": "2023-04-29 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "18.8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone14 Pro*1份、AirPods（第三代）*2份、壬寅虎年系列背光机械键盘*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1391948&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1391948,
+        "reserve_total": 187818,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6364,
+    "comment": 456,
+    "forward": 54
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

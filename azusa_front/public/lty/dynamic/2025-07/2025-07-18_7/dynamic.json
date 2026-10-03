@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1090932168624963603",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1090932168624963603",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月18日",
+    "pub_ts": 1752840839,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "更新天依现场打工照一张——[洛天依八音奇响动态_可爱]\n大家是不是都对舞台现在的样子很好奇？\n天依一会儿还会为大家带来舞美效果展示哦！\n不要走开~等下天依！[洛天依八音奇响动态_咪]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "更新天依现场打工照一张——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n大家是不是都对舞台现在的样子很好奇？\n天依一会儿还会为大家带来舞美效果展示哦！\n不要走开~等下天依！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-18_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/096252d9bc909c36a6b7e5d1330c266936081646.jpg",
+        "width": 2730,
+        "height": 4096,
+        "size_kb": 3539.4130859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7462,
+    "comment": 431,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

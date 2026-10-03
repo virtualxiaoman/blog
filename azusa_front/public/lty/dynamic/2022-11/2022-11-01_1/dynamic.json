@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "723546056477900816",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/723546056477900816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月1日",
+    "pub_ts": 1667302094,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 呜呜大家都变成现实主义创作者辽[洛天依9th_太好听了]听完这首歌，你的感受会不会也是：太真实啦！[洛天依9th_精神抖擞]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 呜呜大家都变成现实主义创作者辽"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      },
+      {
+        "type": "text",
+        "text": "听完这首歌，你的感受会不会也是：太真实啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_精神抖擞]",
+        "package_id": "255",
+        "emoji_id": "4232",
+        "name": "精神抖擞",
+        "url": "http://i0.hdslb.com/bfs/emote/b7dff82d645dc5f26023e0338e532f4e94fb0020.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      },
+      {
+        "file": "../../_assets/emojis/255/精神抖擞.png",
+        "package_id": "255",
+        "emoji_id": "4232",
+        "text": "[洛天依9th_精神抖擞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6908,
+    "comment": 144,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 721675636862615728,
+    "orig_mid": 10032900,
+    "deleted": false,
+    "archive_dir": "../../../10032900/2022-10/2022-10-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

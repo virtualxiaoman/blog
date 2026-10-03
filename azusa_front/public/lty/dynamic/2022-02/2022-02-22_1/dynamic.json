@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "630003644354265104",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/630003644354265104",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月22日",
+    "pub_ts": 1645522554,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#愿所有祝福的风都吹向你，助你一路远航[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "愿所有祝福的风都吹向你，助你一路远航"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6683,
+    "comment": 133,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 627074764341553856,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2022-02/2022-02-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:42:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

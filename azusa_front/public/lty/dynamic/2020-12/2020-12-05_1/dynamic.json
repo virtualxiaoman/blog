@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "465220807283085956",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/465220807283085956",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月5日",
+    "pub_ts": 1607156060,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "期望如愿以偿",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "期望如愿以偿"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6304,
+    "comment": 186,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 463874292084410055,
+    "orig_mid": 3379951,
+    "deleted": false,
+    "archive_dir": "../../../3379951/2020-12/2020-12-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

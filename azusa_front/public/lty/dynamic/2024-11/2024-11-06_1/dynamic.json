@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "996559281754996760",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/996559281754996760",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月6日",
+    "pub_ts": 1730867939,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依X QQ音乐「无限共鸣」联名装扮来啦！\n在彼此聆听着的每时每刻，就让天依陪伴在你的身边吧~[歌行宇宙表情包_可靠]\n♾套装包含\n背景\n头像挂件\n评论卡\nappicon\n\n🎶传送门\n-https://y.qq.com/forest/i4JLaCxQ5ajKjgE2/index.html?ADTAG=WB\n-在QQ音乐搜索【洛天依】\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依X QQ音乐「无限共鸣」联名装扮来啦！\n在彼此聆听着的每时每刻，就让天依陪伴在你的身边吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_可靠]",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/c4947ffce07dd9355cf893acf531afbbde05efbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n♾套装包含\n背景\n头像挂件\n评论卡\nappicon\n\n🎶传送门\n-"
+      },
+      {
+        "type": "text",
+        "text": "https://y.qq.com/forest/i4JLaCxQ5ajKjgE2/index.html?ADTAG=WB"
+      },
+      {
+        "type": "text",
+        "text": "\n-在QQ音乐搜索【洛天依】"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/295e5aaa793a08406cad38e93510a17936081646.jpg",
+        "width": 700,
+        "height": 522,
+        "size_kb": 334.11328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/可靠.png",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "text": "[歌行宇宙表情包_可靠]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5351,
+    "comment": 309,
+    "forward": 46
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1254566312323055666",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1254566312323055666",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1小时前",
+    "pub_ts": 1790939882,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "小洛也来！学功夫，练武术！",
+      "desc": "功夫小洛来也！耍枪，舞剑，挥旗......武术这块，天依在游学的时候，也是小有所成哦！\n最近天依也在筹备新一期的游学计划啦，大家想看天依去哪里学点什么呀~?",
+      "jump_url": "https://www.bilibili.com/video/BV1UcaS6qEXz",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/bf53429b89a1d58e8eda99a07dd5aee6d4e5521f.jpg",
+      "cover_file": "../../_assets/covers/2026-10-02_1.jpg",
+      "bvid": "BV1UcaS6qEXz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1UcaS6qEXz",
+        "aid": "117371020773275",
+        "cover": "http://i2.hdslb.com/bfs/archive/bf53429b89a1d58e8eda99a07dd5aee6d4e5521f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1UcaS6qEXz",
+        "stat": {
+          "danmaku": "111",
+          "play": "1.5万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "小洛也来！学功夫，练武术！",
+        "desc": "功夫小洛来也！耍枪，舞剑，挥旗......武术这块，天依在游学的时候，也是小有所成哦！\n最近天依也在筹备新一期的游学计划啦，大家想看天依去哪里学点什么呀~?",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5121,
+    "comment": 467,
+    "forward": 35
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T20:31:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

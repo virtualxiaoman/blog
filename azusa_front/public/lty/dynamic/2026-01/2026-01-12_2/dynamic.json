@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "1156971731799244801",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1156971731799244801",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月12日",
+    "pub_ts": 1768216873,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "国乐，承载华夏千年声脉\n自先秦金石到唐宋丝竹，自宫廷雅乐到坊间清曲\n器形与音法在代代传承中被打磨，被铭记\n溯音而上，去重新看见那些被细心保存的技艺与被时间磨出的情感——\n每一处声响都是一方生活的照映，每一次合奏都是共同记忆的重现。\n\n乐器为骨，人心为声\n五音共鸣，四海同频\n\n🎶「歌行·国乐季」游学路线揭晓\n六套国乐新裳、国乐印象短片、主题曲MV、文旅线下活动、系列原创单曲......\n即将陆续呈现，跟好天依的脚步哦！[洛天依八音奇响动态_美丽]\n\n🎶#洛天依国乐季#征集活动开启\n活动页：网页链接 \n带话题创作相关内容或者“召唤”天依，分享你家乡的国乐文化吧~[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "国乐，承载华夏千年声脉\n自先秦金石到唐宋丝竹，自宫廷雅乐到坊间清曲\n器形与音法在代代传承中被打磨，被铭记\n溯音而上，去重新看见那些被细心保存的技艺与被时间磨出的情感——\n每一处声响都是一方生活的照映，每一次合奏都是共同记忆的重现。\n\n乐器为骨，人心为声\n五音共鸣，四海同频\n\n🎶「歌行·国乐季」游学路线揭晓\n六套国乐新裳、国乐印象短片、主题曲MV、文旅线下活动、系列原创单曲......\n即将陆续呈现，跟好天依的脚步哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依国乐季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "征集活动开启\n活动页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/Q2V0TPuAziirzbmO.html"
+      },
+      {
+        "type": "text",
+        "text": " \n带话题创作相关内容或者“召唤”天依，分享你家乡的国乐文化吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-12_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6ee05b89e8c5a0d27f8c15e0e537cab336081646.jpg",
+        "width": 900,
+        "height": 7911,
+        "size_kb": 6066.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5695,
+    "comment": 282,
+    "forward": 115
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "594373484649006356",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/594373484649006356",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月18日",
+    "pub_ts": 1637226761,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#曾经的回忆滞留在空城，说一声再见吧，在未来一定会有更多美好的事，期待与你相遇[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "曾经的回忆滞留在空城，说一声再见吧，在未来一定会有更多美好的事，期待与你相遇"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5111,
+    "comment": 110,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 593623944133884987,
+    "orig_mid": 390934477,
+    "deleted": false,
+    "archive_dir": "../../../390934477/2021-11/2021-11-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

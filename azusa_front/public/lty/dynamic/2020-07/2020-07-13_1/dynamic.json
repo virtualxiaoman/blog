@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "411380368570552617",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/411380368570552617",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月13日",
+    "pub_ts": 1594620356,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "希望能尝遍所有的美味~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "希望能尝遍所有的美味~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7345,
+    "comment": 262,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 410961592083102308,
+    "orig_mid": 317866,
+    "deleted": false,
+    "archive_dir": "../../../317866/2020-07/2020-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

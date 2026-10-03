@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "916023813098963185",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/916023813098963185",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月3日",
+    "pub_ts": 1712116814,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲自漫步过世界之巅，感受过澄澈的热情与虔诚，天依很荣幸和民族艺术家旦增益西老师以及众多优秀的老师们再次合作，将藏戏唱腔和劳动歌、民歌以及扎年的元素融入其中，为大家带来这首游学记西藏篇单曲《雪山之眼》",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲自漫步过世界之巅，感受过澄澈的热情与虔诚，天依很荣幸和民族艺术家旦增益西老师以及众多优秀的老师们再次合作，将藏戏唱腔和劳动歌、民歌以及扎年的元素融入其中，为大家带来这首游学记西藏篇单曲《雪山之眼》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“祝祷转过千年诗篇”洛天依原创曲《雪山之眼》【游学记西藏篇单曲】",
+      "desc": "洛天依游学记西藏篇单曲《雪山之眼》MV正式与大家见面啦！\n♪网易云音乐：http://163cn.tv/HYSpj2 \n内蒙篇单曲《天上的风》BV1GC4y1K7ps\n\n飘扬的经幡与肃穆的彩绘下，人们既吟咏世事与人心，也歌颂超脱与真理。\n亲自漫步过世界之巅，感受过澄澈的热情与虔诚，天依很荣幸和民族艺术家旦增益西老师以及众多优秀的创作者再次合作，将藏戏唱腔和劳动歌、民歌以及扎年的元素融入其中，为大家带来这首游学记西藏篇单曲《雪山之眼》。\n请聆听藏地传统与现代音乐和谐融汇，古朴与潮流，共同奏响穿越时空的旋律乐",
+      "jump_url": "https://www.bilibili.com/video/BV1Rr42147Am",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/78d88df24ed944643c86b9dd40131cb613d2f164.jpg",
+      "cover_file": "../../_assets/covers/2024-04-03_1.jpg",
+      "bvid": "BV1Rr42147Am",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Rr42147Am",
+        "aid": "1402549851",
+        "cover": "http://i2.hdslb.com/bfs/archive/78d88df24ed944643c86b9dd40131cb613d2f164.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Rr42147Am",
+        "stat": {
+          "danmaku": "3245",
+          "play": "86.3万",
+          "vt": ""
+        },
+        "duration_text": "04:23",
+        "title": "“祝祷转过千年诗篇”洛天依原创曲《雪山之眼》【游学记西藏篇单曲】",
+        "desc": "洛天依游学记西藏篇单曲《雪山之眼》MV正式与大家见面啦！\n♪网易云音乐：http://163cn.tv/HYSpj2 \n内蒙篇单曲《天上的风》BV1GC4y1K7ps\n\n飘扬的经幡与肃穆的彩绘下，人们既吟咏世事与人心，也歌颂超脱与真理。\n亲自漫步过世界之巅，感受过澄澈的热情与虔诚，天依很荣幸和民族艺术家旦增益西老师以及众多优秀的创作者再次合作，将藏戏唱腔和劳动歌、民歌以及扎年的元素融入其中，为大家带来这首游学记西藏篇单曲《雪山之眼》。\n请聆听藏地传统与现代音乐和谐融汇，古朴与潮流，共同奏响穿越时空的旋律乐",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 68296,
+    "comment": 2970,
+    "forward": 458
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

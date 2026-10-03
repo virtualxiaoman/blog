@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "1238125686493806596",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1238125686493806596",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月19日",
+    "pub_ts": 1787112000,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "灯火之下，人间如画，与你同游这盛景繁华~\n阴阳师 × Vsinger 联动新篇「云华依言歌」今日开启——\n参与并转发「声动云华」活动，还有机会获得【阴阳师Vsinger联动相卡】哦！\n阴阳师和我们一起，为大家准备了「联动专属兑换码」福利，戳评论区领取吧~[洛天依14周年·四重奏_wink]\n#阴阳师Vsinger联动# #阴阳师云华依言歌#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "灯火之下，人间如画，与你同游这盛景繁华~\n阴阳师 × Vsinger 联动新篇「云华依言歌」今日开启——\n参与并转发「声动云华」活动，还有机会获得【阴阳师Vsinger联动相卡】哦！\n阴阳师和我们一起，为大家准备了「联动专属兑换码」福利，戳评论区领取吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#阴阳师Vsinger联动#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%98%B4%E9%98%B3%E5%B8%88Vsinger%E8%81%94%E5%8A%A8"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#阴阳师云华依言歌#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%98%B4%E9%98%B3%E5%B8%88%E4%BA%91%E5%8D%8E%E4%BE%9D%E8%A8%80%E6%AD%8C"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-19_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6bd4fc83134ce5109132f884b405248836081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2859.2431640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-19_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/67ab7fefe2f0a75c8b6a9244bf4c3b1c36081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2944.296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-19_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9910cc9388f4533d3c0a23735e63093f36081646.png",
+        "width": 779,
+        "height": 1074,
+        "size_kb": 1154.447265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-19_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8dd42621e5cddb73feaf721a1e261cd936081646.jpg",
+        "width": 1000,
+        "height": 2428,
+        "size_kb": 1669.6533203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-19_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e48f789bcbfa1f7bdeace8c001c2fac436081646.jpg",
+        "width": 1000,
+        "height": 1334,
+        "size_kb": 1009.912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-19_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5a44f84d7b5864f098cf719c4de466b936081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1389.7373046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5765,
+    "comment": 528,
+    "forward": 591
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

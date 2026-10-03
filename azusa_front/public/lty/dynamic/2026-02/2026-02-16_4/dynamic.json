@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "1169925709655703552",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169925709655703552",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771232956,
+    "location": ""
+  },
+  "topic": {
+    "id": 1332663,
+    "name": "B站春节兴趣房间阵容官宣",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1332663&topic_name=B%E7%AB%99%E6%98%A5%E8%8A%82%E5%85%B4%E8%B6%A3%E6%88%BF%E9%97%B4%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "今晚就是天依这次春节特别直播的最后一场啦，马上就要开始了哦！[乐鸣东方动态表情包_求求]\n让天依陪你们一起过年、看春晚吧！[乐鸣东方动态表情包_干杯]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚就是天依这次春节特别直播的最后一场啦，马上就要开始了哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n让天依陪你们一起过年、看春晚吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-16_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/174f66d134ef06f90247965f82cec29136081646.png",
+        "width": 1080,
+        "height": 2048,
+        "size_kb": 2258.679931640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：热热闹闹看春晚~",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：热热闹闹看春晚~",
+        "desc1": {
+          "text": "02-16 17:20 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5375688,
+        "reserve_total": 161069,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3570,
+    "comment": 38,
+    "forward": 20
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

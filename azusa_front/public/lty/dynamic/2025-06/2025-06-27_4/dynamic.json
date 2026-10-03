@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1083074010578681864",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1083074010578681864",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月27日",
+    "pub_ts": 1751011219,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "你可能不认识我，但你或许听过......",
+      "desc": "你可能不认识我，你可能认识我，但你或许未曾了解过这些歌曲背后的创作老师们。\n嘿嘿，天依也来跟一个模板，希望可以借这个视频，让更多小伙伴了解到他们呀！\n这是他们的闪耀舞台，而天依也有幸，曾以歌者的身份，将这些歌曲唱予大家听~\n\n视频展示歌曲，感谢我们的P主老师们的精彩创作~\n《普通disco》by ilem BV1zs411S7sz\n《权御天下》by 乌龟 BV1fx411A7hz\n《霜雪千年》by COP BV1es41127Fd\n《达拉崩吧》by ilem BV1sx411k7ug\n《绝体绝命》by 阿",
+      "jump_url": "https://www.bilibili.com/video/BV1iVKzzBEqv",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/69dc65fc88d382020256ef60b3494d4a1b6ea4a8.jpg",
+      "cover_file": "../../_assets/covers/2025-06-27_2.jpg",
+      "bvid": "BV1iVKzzBEqv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1iVKzzBEqv",
+        "aid": "114754244841173",
+        "cover": "http://i2.hdslb.com/bfs/archive/69dc65fc88d382020256ef60b3494d4a1b6ea4a8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1iVKzzBEqv",
+        "stat": {
+          "danmaku": "4.6万",
+          "play": "150.9万",
+          "vt": ""
+        },
+        "duration_text": "04:05",
+        "title": "你可能不认识我，但你或许听过......",
+        "desc": "你可能不认识我，你可能认识我，但你或许未曾了解过这些歌曲背后的创作老师们。\n嘿嘿，天依也来跟一个模板，希望可以借这个视频，让更多小伙伴了解到他们呀！\n这是他们的闪耀舞台，而天依也有幸，曾以歌者的身份，将这些歌曲唱予大家听~\n\n视频展示歌曲，感谢我们的P主老师们的精彩创作~\n《普通disco》by ilem BV1zs411S7sz\n《权御天下》by 乌龟 BV1fx411A7hz\n《霜雪千年》by COP BV1es41127Fd\n《达拉崩吧》by ilem BV1sx411k7ug\n《绝体绝命》by 阿",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 146678,
+    "comment": 2986,
+    "forward": 353
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

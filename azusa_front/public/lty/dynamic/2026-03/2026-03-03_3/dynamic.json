@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1175551541323497561",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1175551541323497561",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月3日",
+    "pub_ts": 1772542822,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "此去千山万水，唯有琴心与笛声相和，在天地寂寥处丈量情义的深浅",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "此去千山万水，唯有琴心与笛声相和，在天地寂寥处丈量情义的深浅"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“可思念因你知晓才奏鸣”洛天依原创曲《云弦鹤梦》【国乐季·笛琴篇】",
+      "desc": "“此去千山万水，唯有琴心与笛声相和，在天地寂寥处丈量情义的深浅。”\n【天依游学记·歌行国乐季】笛琴篇原创单曲《云弦鹤梦》\n以“高山流水”为主题，讲述一段知音相望的旷世情谊。\n琴音渐远，鹤影已逝，唯有那一声声笛韵，化作长天的思念，在山水之间绵延不绝。\n当古琴的松风与竹笛的清响再度交织，我们听见的，不只是千年前伯牙子期的知音绝响，更是每一个寻觅知己的灵魂，在天地间留下的回音。\n \n曲：@郑子文ZIIN  \n词：@果汁凉菜  \n调教：@哈士奇P  \n编曲：郑子文ZIIN/李佳辉\n古琴：@古琴成子  \n混音：吴澎",
+      "jump_url": "https://www.bilibili.com/video/BV1MqAozKEo4",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/345767a69d92d9e0c9e0acc69ee2fcd93ca470f6.jpg",
+      "cover_file": "../../_assets/covers/2026-03-03_1.jpg",
+      "bvid": "BV1MqAozKEo4",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1MqAozKEo4",
+        "aid": "116164789407451",
+        "cover": "http://i1.hdslb.com/bfs/archive/345767a69d92d9e0c9e0acc69ee2fcd93ca470f6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1MqAozKEo4",
+        "stat": {
+          "danmaku": "1308",
+          "play": "49.3万",
+          "vt": ""
+        },
+        "duration_text": "04:11",
+        "title": "“可思念因你知晓才奏鸣”洛天依原创曲《云弦鹤梦》【国乐季·笛琴篇】",
+        "desc": "“此去千山万水，唯有琴心与笛声相和，在天地寂寥处丈量情义的深浅。”\n【天依游学记·歌行国乐季】笛琴篇原创单曲《云弦鹤梦》\n以“高山流水”为主题，讲述一段知音相望的旷世情谊。\n琴音渐远，鹤影已逝，唯有那一声声笛韵，化作长天的思念，在山水之间绵延不绝。\n当古琴的松风与竹笛的清响再度交织，我们听见的，不只是千年前伯牙子期的知音绝响，更是每一个寻觅知己的灵魂，在天地间留下的回音。\n \n曲：@郑子文ZIIN  \n词：@果汁凉菜  \n调教：@哈士奇P  \n编曲：郑子文ZIIN/李佳辉\n古琴：@古琴成子  \n混音：吴澎",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41771,
+    "comment": 3431,
+    "forward": 512
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

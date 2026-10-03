@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "id": "1030810726828081175",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1030810726828081175",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月6日",
+    "pub_ts": 1738842725,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 【moeyu 洛天依 毛绒挂件】新品上线啦！[洛天依·天星问动态_萌]\n🎁转发关注天依，揪2位小伙伴送出【同款毛绒挂件】1份~\n\n可爱天依毛绒挂件，和你依起出行[洛天依-潮声回响_带上我]\n\n♡购买地址\nmoeyu旗舰店、bilibili会员购\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "342903",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 【moeyu 洛天依 毛绒挂件】新品上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n🎁转发关注天依，揪2位小伙伴送出【同款毛绒挂件】1份~\n\n可爱天依毛绒挂件，和你依起出行"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_带上我]",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "name": "带上我",
+        "url": "https://i0.hdslb.com/bfs/garb/b8604e41a3f022731036690e02347c08c6279ffc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♡购买地址\nmoeyu旗舰店、bilibili会员购"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-02-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0aea3003d1ac2b680b9413fe202105bb36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 184.3642578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-02-06_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/208350d8463e6096bcefa23daef052c136081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 200.2802734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-02-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/436f12e71b3e06fbe76619c1dab73d7036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 191.9208984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/带上我.png",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "text": "[洛天依-潮声回响_带上我]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依 毛绒玩偶挂件 哔哩哔哩独家首发",
+            "price": "¥69",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/d1/fc/d1fcd7714197233df386827a77ce3d65.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=11048897&msource=cps_Mdynamic_36081646_cont-2-1030810726828081175&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-02-06_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "342903"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6950,
+    "comment": 683,
+    "forward": 9425
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

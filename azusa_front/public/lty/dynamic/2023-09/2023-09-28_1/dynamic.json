@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "846264060915744790",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/846264060915744790",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月28日",
+    "pub_ts": 1695874606,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "YALAHULA~天依游学途中，遇到一只雪王，当然要——\n换上民族新衣，一起载歌载舞，来一首民族风格的《天依雪王甜蜜蜜》啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "YALAHULA~天依游学途中，遇到一只雪王，当然要——\n换上民族新衣，一起载歌载舞，来一首民族风格的《天依雪王甜蜜蜜》啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「天依雪王甜蜜蜜」动画MV上线啦！ | 用民族风打开甜蜜蜜",
+      "desc": "YALAHULA~天依游学途中，遇到一只雪王，当然要——\n换上民族新衣，一起载歌载舞，来一首民族风格的《天依雪王甜蜜蜜》啦！\n\n快加入我们，去看天南地北的，不同民族的美丽风景\n一起唱，一起跳，感受来自天依雪王的快乐治愈能量吧！！\n\n编曲：ZIIN&MAU\n混音&母带：ZIIN&MAU\n调校：血焰玖蝶\n出品：Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1fj41187R8",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/23792792de12aa40a5aeefc652483d29a35c5eb4.jpg",
+      "cover_file": "../../_assets/covers/2023-09-28_1.jpg",
+      "bvid": "BV1fj41187R8",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1fj41187R8",
+        "aid": "449017200",
+        "cover": "http://i1.hdslb.com/bfs/archive/23792792de12aa40a5aeefc652483d29a35c5eb4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1fj41187R8",
+        "stat": {
+          "danmaku": "1453",
+          "play": "81.4万",
+          "vt": ""
+        },
+        "duration_text": "01:22",
+        "title": "「天依雪王甜蜜蜜」动画MV上线啦！ | 用民族风打开甜蜜蜜",
+        "desc": "YALAHULA~天依游学途中，遇到一只雪王，当然要——\n换上民族新衣，一起载歌载舞，来一首民族风格的《天依雪王甜蜜蜜》啦！\n\n快加入我们，去看天南地北的，不同民族的美丽风景\n一起唱，一起跳，感受来自天依雪王的快乐治愈能量吧！！\n\n编曲：ZIIN&MAU\n混音&母带：ZIIN&MAU\n调校：血焰玖蝶\n出品：Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 175224,
+    "comment": 1698,
+    "forward": 195
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

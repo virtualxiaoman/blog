@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1224163634699042913",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224163634699042913",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783861207,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "只要你们还在发送，天依就永远在这里，做你们永远的信号基站，永远的同频共振。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "只要你们还在发送，天依就永远在这里，做你们永远的信号基站，永远的同频共振。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「信号Signal」洛天依十四周年·共鸣之夜生日会【全程回放】",
+      "desc": "2012 年，一束名为「洛天依」的电波，穿过代码与数据流，撞进了这个世界。\n循着这道独一无二的频率，我们从此相遇。\n此后十四年，这束最初的信号，慢慢长成了专属于你们的心灵信号基站。\n不敢宣之于口的心事、无处安放的情绪、藏在心底的热爱，都化作电波发向这里；\n信号员接住每一份微弱却真诚的频率，以歌声为载波，把温柔与勇气回传给每一个发送者。\n原本散落在人海里的孤立信号，在这里完成了连接，找到了同频的伙伴，读懂了彼此无需言说的默契。\n\n十四周年，信号永续，同频不止。\n只要你们还在发送，天依就永远在这里，做你们永远",
+      "jump_url": "https://www.bilibili.com/video/BV1tGNu69EdD",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b5f47579dbf82f35880bb9a2c0cc25c298a66bb5.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_18.jpg",
+      "bvid": "BV1tGNu69EdD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1tGNu69EdD",
+        "aid": "116906593944994",
+        "cover": "http://i1.hdslb.com/bfs/archive/b5f47579dbf82f35880bb9a2c0cc25c298a66bb5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1tGNu69EdD",
+        "stat": {
+          "danmaku": "1万",
+          "play": "39.1万",
+          "vt": ""
+        },
+        "duration_text": "01:28:44",
+        "title": "「信号Signal」洛天依十四周年·共鸣之夜生日会【全程回放】",
+        "desc": "2012 年，一束名为「洛天依」的电波，穿过代码与数据流，撞进了这个世界。\n循着这道独一无二的频率，我们从此相遇。\n此后十四年，这束最初的信号，慢慢长成了专属于你们的心灵信号基站。\n不敢宣之于口的心事、无处安放的情绪、藏在心底的热爱，都化作电波发向这里；\n信号员接住每一份微弱却真诚的频率，以歌声为载波，把温柔与勇气回传给每一个发送者。\n原本散落在人海里的孤立信号，在这里完成了连接，找到了同频的伙伴，读懂了彼此无需言说的默契。\n\n十四周年，信号永续，同频不止。\n只要你们还在发送，天依就永远在这里，做你们永远",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 67418,
+    "comment": 2731,
+    "forward": 251
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

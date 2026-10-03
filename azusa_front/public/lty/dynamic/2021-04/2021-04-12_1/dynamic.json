@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "512643220528547704",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/512643220528547704",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月12日",
+    "pub_ts": 1618197451,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "街角的旋律是生活带来的惊喜和期盼~ 人生を楽しみましょう！[洛天依_耶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "街角的旋律是生活带来的惊喜和期盼~ 人生を楽しみましょう！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5361,
+    "comment": 134,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 512002042040118385,
+    "orig_mid": 530682,
+    "deleted": false,
+    "archive_dir": "../../../530682/2021-04/2021-04-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:29:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

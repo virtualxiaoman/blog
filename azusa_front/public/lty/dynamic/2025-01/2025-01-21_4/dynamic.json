@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1024894478058520596",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1024894478058520596",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月21日",
+    "pub_ts": 1737465241,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依 X 鹿鸣世界工作室 心声共鸣 报时鸟Ver.八音盒Q版手办】实物展示来啦！从天依的这条转发里揪1位小伙伴送出同款手办一个哦~ [洛天依·收藏集表情包_晚安]就让每一刻心声与共鸣编织成无限羽翼，带我们一同飞向一个又一个明天[洛天依·收藏集表情包_时间歌者]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依 X 鹿鸣世界工作室 心声共鸣 报时鸟Ver.八音盒Q版手办】实物展示来啦！从天依的这条转发里揪1位小伙伴送出同款手办一个哦~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_晚安]",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/f1189ccef7775ac7807879b6416fe0945417ba01.png"
+      },
+      {
+        "type": "text",
+        "text": "就让每一刻心声与共鸣编织成无限羽翼，带我们一同飞向一个又一个明天"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/晚安.png",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "text": "[洛天依·收藏集表情包_晚安]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5068,
+    "comment": 920,
+    "forward": 1873
+  },
+  "forward": {
+    "orig_id": 1024849312199213076,
+    "orig_mid": 3546565247502685,
+    "deleted": false,
+    "archive_dir": "../../../3546565247502685/2025-01/2025-01-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:26:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

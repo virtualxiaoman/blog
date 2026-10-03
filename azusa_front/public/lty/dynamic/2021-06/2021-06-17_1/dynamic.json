@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "537264348186708590",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/537264348186708590",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月17日",
+    "pub_ts": 1623930004,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依一路走来，全靠大家的应援和守护。现在轮到天依来守护大家！天依携手@JINS睛姿 推出联名眼镜，为高考结束的小伙伴送上一份特殊的礼物～ 天依的梦想是为大家唱出心中的歌，“天钿”也化身麦克风一直陪伴天依站上梦想的舞台，共同努力，共同成长。这次天依和JINS的合作款眼镜，也希望能够成为大家在生活舞台上，唱出属于自己风采的麦克风。 联名款眼镜和礼品卡已在JINS睛姿天猫旗舰店和bilibili会员购正式上架。 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依一路走来，全靠大家的应援和守护。现在轮到天依来守护大家！天依携手"
+      },
+      {
+        "type": "mention",
+        "text": "@JINS睛姿 ",
+        "mid": 2128437673,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "推出联名眼镜，为高考结束的小伙伴送上一份特殊的礼物～ 天依的梦想是为大家唱出心中的歌，“天钿”也化身麦克风一直陪伴天依站上梦想的舞台，共同努力，共同成长。这次天依和JINS的合作款眼镜，也希望能够成为大家在生活舞台上，唱出属于自己风采的麦克风。 联名款眼镜和礼品卡已在JINS睛姿天猫旗舰店和bilibili会员购正式上架。 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-17_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9d2b55e2f317e11da1ce064e2a76a02abd86b75a.jpg",
+        "width": 1125,
+        "height": 1425,
+        "size_kb": 637.828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9256,
+    "comment": 339,
+    "forward": 89
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

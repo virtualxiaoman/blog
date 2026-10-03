@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1024877749168242697",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1024877749168242697",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月21日",
+    "pub_ts": 1737461346,
+    "location": ""
+  },
+  "topic": {
+    "id": 1223711,
+    "name": "2025虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1223711&topic_name=2025%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "老师们辛苦啦！大家记得去看哦～[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "老师们辛苦啦！大家记得去看哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3681,
+    "comment": 68,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1024863975208124440,
+    "orig_mid": 11218480,
+    "deleted": false,
+    "archive_dir": "../../../11218480/2025-01/2025-01-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:26:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

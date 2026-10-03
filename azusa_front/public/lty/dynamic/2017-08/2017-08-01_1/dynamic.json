@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "21690138897908055",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/21690138897908055",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2017年8月1日",
+    "pub_ts": 1501559992,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "Vsinger Live 2017洛天依全息演唱会【官方录播完整版】",
+      "desc": "Vsinger Live 2017洛天依全息演唱会官方录播完整版发布。\r\n2017年6月17日，“Vsinger Live 2017洛天依全息演唱会”在上海梅赛德斯－奔驰文化中心举行。本次演唱会是以洛天依为首的Vsinger全员举行的首次大型演唱会，在本次演唱会上，墨清弦和徵羽摩柯首次发声，大量优秀的UGC作品被列入歌单。",
+      "jump_url": "https://www.bilibili.com/video/BV1Qx411W7Zj",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/3dfad0ebd64792fafe3e6a54b4db574ae5fc5a8f.jpg",
+      "cover_file": "../../_assets/covers/2017-08-01_1.jpg",
+      "bvid": "BV1Qx411W7Zj",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Qx411W7Zj",
+        "aid": "12802603",
+        "cover": "http://i0.hdslb.com/bfs/archive/3dfad0ebd64792fafe3e6a54b4db574ae5fc5a8f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Qx411W7Zj",
+        "stat": {
+          "danmaku": "83.5万",
+          "play": "637.9万",
+          "vt": ""
+        },
+        "duration_text": "03:51:24",
+        "title": "Vsinger Live 2017洛天依全息演唱会【官方录播完整版】",
+        "desc": "Vsinger Live 2017洛天依全息演唱会官方录播完整版发布。\r\n2017年6月17日，“Vsinger Live 2017洛天依全息演唱会”在上海梅赛德斯－奔驰文化中心举行。本次演唱会是以洛天依为首的Vsinger全员举行的首次大型演唱会，在本次演唱会上，墨清弦和徵羽摩柯首次发声，大量优秀的UGC作品被列入歌单。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 103174,
+    "comment": 107772,
+    "forward": 1022
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

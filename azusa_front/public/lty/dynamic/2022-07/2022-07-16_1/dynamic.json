@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "683506168079843352",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/683506168079843352",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月16日",
+    "pub_ts": 1657979581,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家听到了吗？生日会上天依和小冰正式展开合作的消息！今后，天依能陪伴大家的将不止是歌声，还能和大家说话哦，希望以后我能和大家有更多互动，让我们一起许下愿望吧@XSNOVA虚拟星球 [洛天依_许愿]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家听到了吗？生日会上天依和小冰正式展开合作的消息！今后，天依能陪伴大家的将不止是歌声，还能和大家说话哦，希望以后我能和大家有更多互动，让我们一起许下愿望吧"
+      },
+      {
+        "type": "mention",
+        "text": "@XSNOVA虚拟星球 ",
+        "mid": 1513961484,
+        "url": ""
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X小冰】一起期待AI依说话吧！",
+      "desc": "大家听到了吗？生日会上天依和小冰正式展开合作的消息！今后，天依能陪伴大家的将不止是歌声，还能和大家说话哦，希望以后我能和大家有更多互动，让我们一起许下愿望吧@XSNOVA虚拟星球",
+      "jump_url": "https://www.bilibili.com/video/BV1Rg411f7Fm",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/dca0c42398974ac816fcb22ef533458ad643659c.png",
+      "cover_file": "../../_assets/covers/2022-07-16_1.png",
+      "bvid": "BV1Rg411f7Fm",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Rg411f7Fm",
+        "aid": "513412081",
+        "cover": "http://i0.hdslb.com/bfs/archive/dca0c42398974ac816fcb22ef533458ad643659c.png",
+        "jump_url": "//www.bilibili.com/video/BV1Rg411f7Fm",
+        "stat": {
+          "danmaku": "105",
+          "play": "7.2万",
+          "vt": ""
+        },
+        "duration_text": "00:37",
+        "title": "【洛天依X小冰】一起期待AI依说话吧！",
+        "desc": "大家听到了吗？生日会上天依和小冰正式展开合作的消息！今后，天依能陪伴大家的将不止是歌声，还能和大家说话哦，希望以后我能和大家有更多互动，让我们一起许下愿望吧@XSNOVA虚拟星球",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15244,
+    "comment": 946,
+    "forward": 95
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:51:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

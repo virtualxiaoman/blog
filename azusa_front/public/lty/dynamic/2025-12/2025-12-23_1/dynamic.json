@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1149498488731467779",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1149498488731467779",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月23日",
+    "pub_ts": 1766476873,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "“冬天当然就是要围炉煮茶啦！诶呀——”[洛天依八音奇响动态_被打]\n\n12月31日19:30，2025bilibili最美的夜跨年晚会\n一起期待饿师傅的大显身手吧！\n对了对了，小菌女士明天也有美食要分享给大家，记得来查收哦~[洛天依八音奇响动态_美丽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“冬天当然就是要围炉煮茶啦！诶呀——”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_被打]",
+        "package_id": "8362",
+        "emoji_id": "115076",
+        "name": "被打",
+        "url": "https://i0.hdslb.com/bfs/garb/688a9df9d43ffce83f14057c39906914e920c70f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n12月31日19:30，2025bilibili最美的夜跨年晚会\n一起期待饿师傅的大显身手吧！\n对了对了，小菌女士明天也有美食要分享给大家，记得来查收哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-23_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/043ac0100ccb0c8722d6f94684cedc4f36081646.jpg",
+        "width": 1440,
+        "height": 2560,
+        "size_kb": 1937.6700439453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/被打.gif",
+        "package_id": "8362",
+        "emoji_id": "115076",
+        "text": "[洛天依八音奇响动态_被打]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6570,
+    "comment": 355,
+    "forward": 100
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

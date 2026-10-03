@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1120252033490747395",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1120252033490747395",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月5日",
+    "pub_ts": 1759667402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依硬控各路神仙【洛天依x非人哉-下】",
+      "desc": "洛天依X非人哉下集\n感谢大家观看！！喜欢的话可以投个币点个关注吗\n你们都教给了洛天依什么啊！\n\n音乐来源：非人哉\n策划：阿江君\n剧本：阿江君 \n素材：阿江君 秋季喵铃铛 独角者 mullmull\n动画：阿江君 小面包\n后期：阿江君\n\n配音表\n洛天依-洛天依\n其他-小鱼干配音团队",
+      "jump_url": "https://www.bilibili.com/video/BV1DuxuztEfu",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/fa826ee2ca83f53796cfa1df11f6d14dbbdd5a37.jpg",
+      "cover_file": "../../_assets/covers/2025-10-05_1.jpg",
+      "bvid": "BV1DuxuztEfu",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1DuxuztEfu",
+        "aid": "115321063081124",
+        "cover": "http://i0.hdslb.com/bfs/archive/fa826ee2ca83f53796cfa1df11f6d14dbbdd5a37.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1DuxuztEfu",
+        "stat": {
+          "danmaku": "1523",
+          "play": "30.9万",
+          "vt": ""
+        },
+        "duration_text": "05:37",
+        "title": "天依硬控各路神仙【洛天依x非人哉-下】",
+        "desc": "洛天依X非人哉下集\n感谢大家观看！！喜欢的话可以投个币点个关注吗\n你们都教给了洛天依什么啊！\n\n音乐来源：非人哉\n策划：阿江君\n剧本：阿江君 \n素材：阿江君 秋季喵铃铛 独角者 mullmull\n动画：阿江君 小面包\n后期：阿江君\n\n配音表\n洛天依-洛天依\n其他-小鱼干配音团队",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30814,
+    "comment": 1255,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

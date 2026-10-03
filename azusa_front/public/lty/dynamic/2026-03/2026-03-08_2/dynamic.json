@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1177372903799259140",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1177372903799259140",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月8日",
+    "pub_ts": 1772966891,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛包小剧场】《 百 变 小 8 》",
+      "desc": "作为本体的功能，究竟有多强大！\n论洛包都会用自己的本体做什么事情呢？\n带上小8，万事不愁，一起变天依~！",
+      "jump_url": "https://www.bilibili.com/video/BV1sqNgziEH4",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/deb82d9caf726794f4aae56764f6eff024c88a1d.jpg",
+      "cover_file": "../../_assets/covers/2026-03-08_1.jpg",
+      "bvid": "BV1sqNgziEH4",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1sqNgziEH4",
+        "aid": "116193142836911",
+        "cover": "http://i0.hdslb.com/bfs/archive/deb82d9caf726794f4aae56764f6eff024c88a1d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1sqNgziEH4",
+        "stat": {
+          "danmaku": "368",
+          "play": "49.6万",
+          "vt": ""
+        },
+        "duration_text": "00:46",
+        "title": "【洛包小剧场】《 百 变 小 8 》",
+        "desc": "作为本体的功能，究竟有多强大！\n论洛包都会用自己的本体做什么事情呢？\n带上小8，万事不愁，一起变天依~！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 61104,
+    "comment": 1660,
+    "forward": 165
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

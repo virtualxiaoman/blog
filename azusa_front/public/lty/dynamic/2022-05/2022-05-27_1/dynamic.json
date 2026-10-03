@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "664911665318330374",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/664911665318330374",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月27日",
+    "pub_ts": 1653650211,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "做守护你的骑士，前方一切艰难险阻，皆由我斩断！  #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "做守护你的骑士，前方一切艰难险阻，皆由我斩断！  "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-27_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/295d09f82c31e72ef5ca0c9ec6050a99319ed9e8.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 5614.93994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14967,
+    "comment": 920,
+    "forward": 342
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

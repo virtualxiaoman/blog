@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "880787742483546133",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/880787742483546133",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月30日",
+    "pub_ts": 1703912777,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家捕捉到天依的身影了吗？[洛天依蝶变_wink]嘿嘿，天依真的有跳舞对吧！神秘合作嘉宾虽然大家都猜到啦，没错，是龚琳娜老师哦！12月31日晚跨年之夜，我们不见不散[洛天依蝶变_发射爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家捕捉到天依的身影了吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "嘿嘿，天依真的有跳舞对吧！神秘合作嘉宾虽然大家都猜到啦，没错，是龚琳娜老师哦！12月31日晚跨年之夜，我们不见不散"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4038,
+    "comment": 94,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 880739797754183705,
+    "orig_mid": 489412051,
+    "deleted": false,
+    "archive_dir": "../../../489412051/2023-12/2023-12-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:03:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

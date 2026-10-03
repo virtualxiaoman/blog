@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "516387169293863113",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/516387169293863113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月22日",
+    "pub_ts": 1619069157,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天是世界地球日，大家一定要好好爱护自然环境哦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天是世界地球日，大家一定要好好爱护自然环境哦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5223,
+    "comment": 158,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 8229767227086559,
+    "orig_mid": 111254,
+    "deleted": false,
+    "archive_dir": "../../../111254/2014-10/2014-10-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

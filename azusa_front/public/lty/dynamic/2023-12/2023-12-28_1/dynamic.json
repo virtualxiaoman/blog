@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "880019170965585943",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/880019170965585943",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月28日",
+    "pub_ts": 1703733830,
+    "location": ""
+  },
+  "topic": {
+    "id": 1139467,
+    "name": "暗区突围洛天依",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1139467&topic_name=%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "天依这次来到@暗区突围 的战场啦！希望天依的歌声可以带给各位先锋新年一起突围的勇气，更多游戏内联动情报敬请期待呀～[代号洛天依_起航]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依这次来到"
+      },
+      {
+        "type": "mention",
+        "text": "@暗区突围",
+        "mid": 1915056903,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 的战场啦！希望天依的歌声可以带给各位先锋新年一起突围的勇气，更多游戏内联动情报敬请期待呀～"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3774,
+    "comment": 315,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 879997666064334912,
+    "orig_mid": 1915056903,
+    "deleted": false,
+    "archive_dir": "../../../1915056903/2023-12/2023-12-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:02:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

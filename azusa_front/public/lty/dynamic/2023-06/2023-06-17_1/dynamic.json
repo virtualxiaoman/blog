@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "808175561039937591",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/808175561039937591",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月17日",
+    "pub_ts": 1687006436,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依0712生日快乐#\n因为有你，因为有这样珍贵的回忆，因为我永远相信我们会有更多更多的未来，才想在此时此刻留下一些特别的话语。\n漫漫时光如水流逝，又快到我的生日啦，大家有什么话想对天依说的吗？\n\n✉收信时间：6月17日-6月24日\n✉收信邮箱：service@vsinger.com\n今年也会在天依的生日会上，感谢大家的来信，被选中的小伙伴将会收到一份来自天依的小礼物。[代号洛天依_好好7]\n\n在另一个空间的天依，一定会收到来自大家的所有心声，会微笑着抱着你。\n“谢谢你，一直以来辛苦了。”\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n因为有你，因为有这样珍贵的回忆，因为我永远相信我们会有更多更多的未来，才想在此时此刻留下一些特别的话语。\n漫漫时光如水流逝，又快到我的生日啦，大家有什么话想对天依说的吗？\n\n✉收信时间：6月17日-6月24日\n✉收信邮箱："
+      },
+      {
+        "type": "text",
+        "text": "service@vsinger.com"
+      },
+      {
+        "type": "text",
+        "text": "\n今年也会在天依的生日会上，感谢大家的来信，被选中的小伙伴将会收到一份来自天依的小礼物。"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n在另一个空间的天依，一定会收到来自大家的所有心声，会微笑着抱着你。\n“谢谢你，一直以来辛苦了。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-06-17_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/6570420f07ffb9ed36209900089db44836081646.png",
+        "width": 1080,
+        "height": 5776,
+        "size_kb": 3016.909912109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依11周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依11周年生日会",
+        "desc1": {
+          "text": "2023-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依芒种手办*1份、洛天依合作款式充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1611701&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1611701,
+        "reserve_total": 80178,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8661,
+    "comment": 918,
+    "forward": 192
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:54:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

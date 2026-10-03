@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "627257648345040578",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/627257648345040578",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月15日",
+    "pub_ts": 1644883202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@すべてかいめつ 中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@すべてかいめつ",
+        "mid": 357720268,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5609,
+    "comment": 266,
+    "forward": 78
+  },
+  "forward": {
+    "orig_id": 622077934962450677,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2022-02-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:42:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

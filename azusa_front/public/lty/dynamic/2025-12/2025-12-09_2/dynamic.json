@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1144350029840908305",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1144350029840908305",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月9日",
+    "pub_ts": 1765278154,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·武汉站\n场贩首发·托帕石礼盒详情情报公开~[洛天依八音奇响动态_爱意]\n\n💎「托帕石礼盒」\n含软胶摆件、徽章、立牌、挂件、色纸\n\n✨演唱会现场周边贩售区\n 武汉国际博览中心B5馆\n\n倒计时18天啦！大家有没有做什么准备呀？！[洛天依八音奇响动态_嘻嘻]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·武汉站\n场贩首发·托帕石礼盒详情情报公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💎「托帕石礼盒」\n含软胶摆件、徽章、立牌、挂件、色纸\n\n✨演唱会现场周边贩售区\n 武汉国际博览中心B5馆\n\n倒计时18天啦！大家有没有做什么准备呀？！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ca8b0a7524d610e37b09e73d6b27f4ac36081646.jpg",
+        "width": 859,
+        "height": 4842,
+        "size_kb": 2624.010009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4736,
+    "comment": 203,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

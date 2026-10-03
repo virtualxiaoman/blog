@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "753232290653405272",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/753232290653405272",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月20日",
+    "pub_ts": 1674213959,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "明天19:00还有一波天依的红包封面可以领取喔，提前祝大家除夕快乐啦～[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明天19:00还有一波天依的红包封面可以领取喔，提前祝大家除夕快乐啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7690,
+    "comment": 697,
+    "forward": 226
+  },
+  "forward": {
+    "orig_id": 752469792201375858,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-01-18_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

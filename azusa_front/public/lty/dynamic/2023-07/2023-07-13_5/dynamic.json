@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817806088655077413",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817806088655077413",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689248718,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "“白鸟白鸟 替我飞去那远方”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“白鸟白鸟 替我飞去那远方”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“白鸟白鸟 替我飞去那远方”《白鸟过河滩》【洛天依11周年生日会】",
+      "desc": "“白鸟白鸟 替我飞去那远方”\n\n《白鸟过河滩》\n作词/作曲/编曲/调校：ilem\n原视频：BV1wT4y1k7Pw",
+      "jump_url": "https://www.bilibili.com/video/BV1Um4y1E7Au",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/e532ee26f72ce30c3eaf81f4ebabcee1dae99370.jpg",
+      "cover_file": "../../_assets/covers/2023-07-13_4.jpg",
+      "bvid": "BV1Um4y1E7Au",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Um4y1E7Au",
+        "aid": "700887480",
+        "cover": "http://i2.hdslb.com/bfs/archive/e532ee26f72ce30c3eaf81f4ebabcee1dae99370.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Um4y1E7Au",
+        "stat": {
+          "danmaku": "183",
+          "play": "36万",
+          "vt": ""
+        },
+        "duration_text": "03:37",
+        "title": "“白鸟白鸟 替我飞去那远方”《白鸟过河滩》【洛天依11周年生日会】",
+        "desc": "“白鸟白鸟 替我飞去那远方”\n\n《白鸟过河滩》\n作词/作曲/编曲/调校：ilem\n原视频：BV1wT4y1k7Pw",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41577,
+    "comment": 847,
+    "forward": 129
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

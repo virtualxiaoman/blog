@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "1239008527718023174",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1239008527718023174",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月21日",
+    "pub_ts": 1787317553,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "今日排练顺利结算！就等长沙站的大家啦~[洛天依14周年·纯蓝幻乐 动态表情包_登场][洛天依14周年·纯蓝幻乐 动态表情包_送花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今日排练顺利结算！就等长沙站的大家啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_登场]",
+        "package_id": "10238",
+        "emoji_id": "145970",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b86d74a2be39156754dbc1b676d658a736f1fd3c.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "name": "送花",
+        "url": "https://i0.hdslb.com/bfs/garb/250e7a83c9d9a06e2e2768a6f2c0057310d61071.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-21_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ff522aebc5ab2f63561bed2a29948e4736081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 1981.9300537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-21_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a4588b65c6d20fd1d66772cce49d0e7136081646.jpg",
+        "width": 3000,
+        "height": 2001,
+        "size_kb": 4188.919921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-21_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/be5cb432d8871ac816392dfc61f8320e36081646.jpg",
+        "width": 3000,
+        "height": 1687,
+        "size_kb": 2857.7900390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-21_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/35074efff9fde0148dd0d6306317d61536081646.jpg",
+        "width": 4172,
+        "height": 2782,
+        "size_kb": 2447.050048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-21_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b01ee337083ff222e23d2a490160a42336081646.jpg",
+        "width": 3000,
+        "height": 2001,
+        "size_kb": 3760.469970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-21_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/efcb9770ed985260d4ed2043a51cfc9c36081646.jpg",
+        "width": 3000,
+        "height": 2001,
+        "size_kb": 2158.2099609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/登场.gif",
+        "package_id": "10238",
+        "emoji_id": "145970",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/送花.gif",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7283,
+    "comment": 347,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

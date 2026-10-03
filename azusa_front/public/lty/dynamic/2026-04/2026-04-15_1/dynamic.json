@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1191407877644877829",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1191407877644877829",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月15日",
+    "pub_ts": 1776234663,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@eggx@stap白apple@澈岚_official等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@eggx",
+        "mid": 2510262,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@stap白apple",
+        "mid": 199784561,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@澈岚_official",
+        "mid": 435776146,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3328,
+    "comment": 59,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 1179906200063442961,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-03/2026-03-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "277787687159722222",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/277787687159722222",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月19日",
+    "pub_ts": 1563515886,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#BML2019# 今天BML的演出15:30进场，17:00开始，天依是开场嘉宾，小伙伴记得准时来看天依呀！而且一定看到最后，否则就会错过这么帅气的天依啦！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#BML2019#",
+        "url": "https://search.bilibili.com/all?keyword=BML2019"
+      },
+      {
+        "type": "text",
+        "text": " 今天BML的演出15:30进场，17:00开始，天依是开场嘉宾，小伙伴记得准时来看天依呀！而且一定看到最后，否则就会错过这么帅气的天依啦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-19_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ef58359fea14d3e20ac5c4f56ca5f35562b87394.png",
+        "width": 804,
+        "height": 792,
+        "size_kb": 153.40625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9084,
+    "comment": 398,
+    "forward": 40
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

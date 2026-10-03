@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "id": "1166265186374385715",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1166265186374385715",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月6日",
+    "pub_ts": 1770380674,
+    "location": ""
+  },
+  "topic": {
+    "id": 1316554,
+    "name": "洛天依流光协奏全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1316554&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%81%E5%85%89%E5%8D%8F%E5%A5%8F%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "布置ok，彩排顺利，一切准备完毕！[乐鸣东方动态表情包_对]天依都准备好啦~[乐鸣东方动态表情包_干杯]\n大家在路上了嘛？我们明天无锡体育馆见吧~[乐鸣东方动态表情包_求求]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "布置ok，彩排顺利，一切准备完毕！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_对]",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "name": "对",
+        "url": "https://i0.hdslb.com/bfs/garb/cb93227eef06eceb7960a0a5a43d061df8ec199a.gif"
+      },
+      {
+        "type": "text",
+        "text": "天依都准备好啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n大家在路上了嘛？我们明天无锡体育馆见吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-06_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3395cba6427eb358ebfd3fb45ad71cab36081646.png",
+        "width": 2500,
+        "height": 3750,
+        "size_kb": 10447.8896484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-02-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b40a479d4f95b0e1ee98d1cf5ec90c9736081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 3682.43994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-02-06_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0533019d280504e3b78b56e2928bb71536081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 3105.10009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-02-06_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3e1cbb8042e39e34e06b0679ddf93ed236081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2781.949951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-02-06_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7b881d03ba2008482fd890c462d5171f36081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2808.159912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-02-06_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/12269e1b52430751a9eca3b9f605d15136081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2563.760009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/对.gif",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "text": "[乐鸣东方动态表情包_对]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5966,
+    "comment": 413,
+    "forward": 77
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,5 +1,6 @@
 import { defineAsyncComponent, type Component } from 'vue';
 import HomeSection from './sections/HomeSection.vue';
+import DynamicSection from './sections/DynamicSection.vue';
 import ResourcesSection from './sections/ResourcesSection.vue';
 import LinksSection from './sections/LinksSection.vue';
 import PromptSection from './sections/PromptSection.vue';
@@ -34,6 +35,12 @@ export const ltySections: LtySection[] = [
     label: '首页',
     component: HomeSection,
     description: '洛天依主页：简介、形象、最新动态等',
+  },
+  {
+    key: 'dynamic',
+    label: '动态',
+    component: DynamicSection,
+    description: '动态：洛天依 B 站动态归档，按月份日历浏览',
   },
   {
     key: 'resources',

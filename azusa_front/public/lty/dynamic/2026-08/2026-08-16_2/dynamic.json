@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1237105238788276229",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1237105238788276229",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月16日",
+    "pub_ts": 1786874409,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "∴「9999」with 洛天依【Official】",
+      "desc": "万事如意（Wan Shi Ru Yi）\n象征幸福的9999，因为有了“你”的加入，才真正成为“万”。\n\n▼Credit\n◎Vocal / 洛天依\n◎Music / 煮ル果実\n◎Arrangement / 煮ル果実、Li-OH\n◎Illustration & Movie / BAKUI",
+      "jump_url": "https://www.bilibili.com/video/BV1khgH6oENg",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7e57e6214874e4d586a3b0a62bc577219743c0a0.jpg",
+      "cover_file": "../../_assets/covers/2026-08-16_1.jpg",
+      "bvid": "BV1khgH6oENg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1khgH6oENg",
+        "aid": "117086395309651",
+        "cover": "http://i2.hdslb.com/bfs/archive/7e57e6214874e4d586a3b0a62bc577219743c0a0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1khgH6oENg",
+        "stat": {
+          "danmaku": "3441",
+          "play": "112.2万",
+          "vt": ""
+        },
+        "duration_text": "03:16",
+        "title": "∴「9999」with 洛天依【Official】",
+        "desc": "万事如意（Wan Shi Ru Yi）\n象征幸福的9999，因为有了“你”的加入，才真正成为“万”。\n\n▼Credit\n◎Vocal / 洛天依\n◎Music / 煮ル果実\n◎Arrangement / 煮ル果実、Li-OH\n◎Illustration & Movie / BAKUI",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 116487,
+    "comment": 3990,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "532368076878886243",
+  "type": "DYNAMIC_TYPE_COMMON_SQUARE",
+  "kind": "common",
+  "url": "https://www.bilibili.com/opus/532368076878886243",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月4日",
+    "pub_ts": 1622790002,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#买单吧APP首席体验官# 夏季就要换新装，天依新Look及同款卡面已解锁，新装的蓝色科技风有没有很治愈呢~让你在炎热的夏季感受天依的清爽福利。每天刷任务每天获积分，还有更多惊喜等你继续来开启，上@交通银行信用卡 买单吧APP办理天依主题信用卡，跟天依一起#“5”出美好生活#吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "#买单吧APP首席体验官# 夏季就要换新装，天依新Look及同款卡面已解锁，新装的蓝色科技风有没有很治愈呢~让你在炎热的夏季感受天依的清爽福利。每天刷任务每天获积分，还有更多惊喜等你继续来开启，上@交通银行信用卡 买单吧APP办理天依主题信用卡，跟天依一起#“5”出美好生活#吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "common",
+      "title": "和天依一起买单吧",
+      "desc": "助力天依，赢周边好礼~",
+      "jump_url": "https://www.bilibili.com/blackboard/dynamic/138235?ts=1622783805",
+      "cover_url": "https://i0.hdslb.com/bfs/activity-plat/static/8a3e1fa14e30dc3be9c5324f604e5991/oNIBJo4zhb.jpg",
+      "cover_file": "../../_assets/covers/2021-06-04_1.jpg",
+      "bvid": "",
+      "extra": {
+        "id": "532368076884792528",
+        "jump_url": "https://www.bilibili.com/blackboard/dynamic/138235?ts=1622783805",
+        "cover": "https://i0.hdslb.com/bfs/activity-plat/static/8a3e1fa14e30dc3be9c5324f604e5991/oNIBJo4zhb.jpg",
+        "title": "和天依一起买单吧",
+        "desc": "助力天依，赢周边好礼~",
+        "label": "",
+        "biz_type": "211",
+        "biz_id": "0",
+        "sketch_id": "532368076977220417",
+        "badge": {
+          "icon_url": "",
+          "text": "",
+          "bg_color": "",
+          "color": ""
+        },
+        "style": 1
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4416,
+    "comment": 106,
+    "forward": 24
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

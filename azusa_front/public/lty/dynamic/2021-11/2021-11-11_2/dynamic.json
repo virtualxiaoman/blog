@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "591766954893828246",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/591766954893828246",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月11日",
+    "pub_ts": 1636619881,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#你的小怪兽突然出现！[洛天依9th_超凶]人类，真是奇妙又有趣的生物呀[洛天依9th_饿龙咆哮]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "你的小怪兽突然出现！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_超凶]",
+        "package_id": "255",
+        "emoji_id": "4229",
+        "name": "超凶",
+        "url": "http://i0.hdslb.com/bfs/emote/fa0fc632f450c6c97eb32863c18672afd4054b41.png"
+      },
+      {
+        "type": "text",
+        "text": "人类，真是奇妙又有趣的生物呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_饿龙咆哮]",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "name": "饿龙咆哮",
+        "url": "http://i0.hdslb.com/bfs/emote/55df437e8613e117f4f4bbdac4f7e659ec6691f3.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/超凶.png",
+        "package_id": "255",
+        "emoji_id": "4229",
+        "text": "[洛天依9th_超凶]"
+      },
+      {
+        "file": "../../_assets/emojis/255/饿龙咆哮.png",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "text": "[洛天依9th_饿龙咆哮]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4742,
+    "comment": 88,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 589561618042355073,
+    "orig_mid": 20464617,
+    "deleted": false,
+    "archive_dir": "../../../20464617/2021-11/2021-11-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "474118209996503490",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/474118209996503490",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月29日",
+    "pub_ts": 1609227648,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不知道这几年又出现了多少勇者跟巨龙呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不知道这几年又出现了多少勇者跟巨龙呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7165,
+    "comment": 327,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 16753331689921873,
+    "orig_mid": 3379951,
+    "deleted": false,
+    "archive_dir": "../../../3379951/2017-03/2017-03-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

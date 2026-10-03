@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088699481410502674",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088699481410502674",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752321001,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "就这样享受孤单一人 无功无过勉强地生存 |《自暴自弃》洛天依十三周年生日会",
+      "desc": "“付出成长代价变成无用陌生人”\n\n《自暴自弃》\n作曲：Sya\n作词：Sya\n编曲：Sya\n混音：JUSF周存\n调教：Sya\n原pv：BV19b411m7mq",
+      "jump_url": "https://www.bilibili.com/video/BV1sPuTzKEnw",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8e3b075b2f95f079717bb648dba45982d0297191.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_8.jpg",
+      "bvid": "BV1sPuTzKEnw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1sPuTzKEnw",
+        "aid": "114832292449633",
+        "cover": "http://i1.hdslb.com/bfs/archive/8e3b075b2f95f079717bb648dba45982d0297191.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1sPuTzKEnw",
+        "stat": {
+          "danmaku": "306",
+          "play": "81.4万",
+          "vt": ""
+        },
+        "duration_text": "03:25",
+        "title": "就这样享受孤单一人 无功无过勉强地生存 |《自暴自弃》洛天依十三周年生日会",
+        "desc": "“付出成长代价变成无用陌生人”\n\n《自暴自弃》\n作曲：Sya\n作词：Sya\n编曲：Sya\n混音：JUSF周存\n调教：Sya\n原pv：BV19b411m7mq",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25092,
+    "comment": 506,
+    "forward": 81
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

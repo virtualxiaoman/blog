@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1121608311116922883",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1121608311116922883",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月9日",
+    "pub_ts": 1759983185,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "跟随天依的歌声和旋律，一起随节奏摇摆吧～",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "跟随天依的歌声和旋律，一起随节奏摇摆吧～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《黑洞》洛天依复古未来x MORTEN x CLSTR 56 电音风格联动曲",
+      "desc": "绝对风暴，引燃黑洞！\n跟随天依的歌声和旋律，一起随节奏摇摆吧～\n\n作词：纱缇@金蜗牛 lrc\n作曲：James New/Morten Breum/Terry Zhong 钟天利\n调校：玖蝶\n制作人：Morten Breum/Terry Zhong 钟天利",
+      "jump_url": "https://www.bilibili.com/video/BV1sZxzzTEdA",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7351958af7beacfdaac97dc2016f0dfc35323088.jpg",
+      "cover_file": "../../_assets/covers/2025-10-09_1.jpg",
+      "bvid": "BV1sZxzzTEdA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1sZxzzTEdA",
+        "aid": "115342235927020",
+        "cover": "http://i2.hdslb.com/bfs/archive/7351958af7beacfdaac97dc2016f0dfc35323088.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1sZxzzTEdA",
+        "stat": {
+          "danmaku": "171",
+          "play": "21.4万",
+          "vt": ""
+        },
+        "duration_text": "01:39",
+        "title": "《黑洞》洛天依复古未来x MORTEN x CLSTR 56 电音风格联动曲",
+        "desc": "绝对风暴，引燃黑洞！\n跟随天依的歌声和旋律，一起随节奏摇摆吧～\n\n作词：纱缇@金蜗牛 lrc\n作曲：James New/Morten Breum/Terry Zhong 钟天利\n调校：玖蝶\n制作人：Morten Breum/Terry Zhong 钟天利",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20011,
+    "comment": 871,
+    "forward": 128
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

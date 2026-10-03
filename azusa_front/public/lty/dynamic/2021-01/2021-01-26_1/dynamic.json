@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "484535043289215832",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/484535043289215832",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月26日",
+    "pub_ts": 1611653006,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "春花秋月，夏夜冬雪，还想去看看更多的风景",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "春花秋月，夏夜冬雪，还想去看看更多的风景"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6078,
+    "comment": 217,
+    "forward": 61
+  },
+  "forward": {
+    "orig_id": 5328533998376577,
+    "orig_mid": 16758,
+    "deleted": false,
+    "archive_dir": "../../../16758/2012-11/2012-11-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

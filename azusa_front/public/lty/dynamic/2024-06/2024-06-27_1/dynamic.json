@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "947614216715501569",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/947614216715501569",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月27日",
+    "pub_ts": 1719472028,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依 X上海公共交通卡 心率共鸣ver.预售即将开启～\n转发关注天依，揪3位小伙伴送出【标准卡】1张，3位小伙伴送出【异形卡】1张！\n\n🔹标准卡\n浮雕UV多重工艺\n🔹异形卡\n亚克力流沙工艺，电子心脏挂饰\n\n全国通用交通卡，陪伴你的每次出行～[代号洛天依_起航]\n传送门：网页链接\n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "304598",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依 X上海公共交通卡 心率共鸣ver.预售即将开启～\n转发关注天依，揪3位小伙伴送出【标准卡】1张，3位小伙伴送出【异形卡】1张！\n\n🔹标准卡\n浮雕UV多重工艺\n🔹异形卡\n亚克力流沙工艺，电子心脏挂饰\n\n全国通用交通卡，陪伴你的每次出行～"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      },
+      {
+        "type": "text",
+        "text": "\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/VyPFSUe"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/205e47eef07ae257020c34a28de7d34736081646.jpg",
+        "width": 1280,
+        "height": 12458,
+        "size_kb": 14774.08984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海公共交通卡 Vsinger 洛天依 心律共鸣 12 周年系列 全国通用交通卡",
+            "price": "¥40",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/37/1e/371ee2243fa8b726faf24e923c1e4f45.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10447946&msource=cps_Mdynamic_36081646_cont-2-947614216715501569&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-06-27_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "304598"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6307,
+    "comment": 1329,
+    "forward": 8283
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:14:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

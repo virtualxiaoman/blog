@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "293760769317973737",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/293760769317973737",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年8月31日",
+    "pub_ts": 1567234909,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢你们陪我走过这个夏天，大家有留下哪些美好的回忆呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢你们陪我走过这个夏天，大家有留下哪些美好的回忆呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6587,
+    "comment": 303,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 293435867928299181,
+    "orig_mid": 3334365,
+    "deleted": false,
+    "archive_dir": "../../../3334365/2019-08/2019-08-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

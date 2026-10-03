@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "856743025203740753",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/856743025203740753",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月26日",
+    "pub_ts": 1698314430,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "10月27日12:00，洛天依X索尼音乐原创EP单曲《蝶变（Butterfly）》 coming soon——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "10月27日12:00，洛天依X索尼音乐原创EP单曲《蝶变（Butterfly）》 coming soon——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "全新主打曲预告来袭！洛天依X索尼音乐原创EP单曲《蝶变（Butterfly）》",
+      "desc": "“别怕 来我的视角 听我的速报\n烦恼宛如鸿毛 全都不重要\n如蝶般地舞蹈 哪会恐高 ”\n我可以有千百变样貌，无畏所有挑战主张。\n\n天依和索尼音乐合作的全新原创EP《洛 LUO》\n第二主打曲《蝶变（Butterfly）》即将与大家见面啦！\n10月27日12:00，正式上线，记得来天依的主页看哦~",
+      "jump_url": "https://www.bilibili.com/video/BV1Rw411B7tp",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5e924bf57fc764dceb896a79427450d06ee4a4eb.jpg",
+      "cover_file": "../../_assets/covers/2023-10-26_1.jpg",
+      "bvid": "BV1Rw411B7tp",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Rw411B7tp",
+        "aid": "322508107",
+        "cover": "http://i1.hdslb.com/bfs/archive/5e924bf57fc764dceb896a79427450d06ee4a4eb.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Rw411B7tp",
+        "stat": {
+          "danmaku": "100",
+          "play": "12.8万",
+          "vt": ""
+        },
+        "duration_text": "00:21",
+        "title": "全新主打曲预告来袭！洛天依X索尼音乐原创EP单曲《蝶变（Butterfly）》",
+        "desc": "“别怕 来我的视角 听我的速报\n烦恼宛如鸿毛 全都不重要\n如蝶般地舞蹈 哪会恐高 ”\n我可以有千百变样貌，无畏所有挑战主张。\n\n天依和索尼音乐合作的全新原创EP《洛 LUO》\n第二主打曲《蝶变（Butterfly）》即将与大家见面啦！\n10月27日12:00，正式上线，记得来天依的主页看哦~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17292,
+    "comment": 621,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

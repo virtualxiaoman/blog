@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "212819731215337232",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/212819731215337232",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年1月25日",
+    "pub_ts": 1548389355,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "久等啦！2019年2月23日洛天依&郎朗全息演唱会的门票今天正式开启预售选座啦 大家可以前往bilibili会员购进行门票购买。 附上传送门→ bilibili会员购：网页链接 实体门票将会在年后寄出，小伙伴们一定要注意收货地址哦~\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "久等啦！2019年2月23日洛天依&郎朗全息演唱会的门票今天正式开启预售选座啦 大家可以前往bilibili会员购进行门票购买。 附上传送门→ bilibili会员购："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=16511&from=pc"
+      },
+      {
+        "type": "text",
+        "text": " 实体门票将会在年后寄出，小伙伴们一定要注意收货地址哦~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-01-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4937a2883482bb7297b50d00963472f689f43d69.jpg",
+        "width": 2160,
+        "height": 3840,
+        "size_kb": 1839.3603515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5208,
+    "comment": 923,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

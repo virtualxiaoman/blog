@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1088248982312845316",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1088248982312845316",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月11日",
+    "pub_ts": 1752216111,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·上海站将于今晚18点和19点开启售票了哦！稍后天依还将为大家带来上海站游园会的活动情报，记得关注呀~[洛天依-潮声回响_为你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，洛天依「2025无限共鸣·流光协奏」全息巡回演唱会·上海站将于今晚18点和19点开启售票了哦！稍后天依还将为大家带来上海站游园会的活动情报，记得关注呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_为你]",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "name": "为你",
+        "url": "https://i0.hdslb.com/bfs/garb/5a766d1d166f6ea1ac769f1e138942f5906f4c13.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/为你.png",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "text": "[洛天依-潮声回响_为你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3633,
+    "comment": 192,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 1087190642260443144,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-07-08_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:34:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

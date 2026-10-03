@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "675338587462434848",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/675338587462434848",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月24日",
+    "pub_ts": 1656077918,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "大家大家！晚上好呀~全体目光向天依看齐——\n天依想在关注我的粉丝朋友里用大家的头像做一个小视频，作为凝聚大家心意的小礼物送给你们，来征求大家的同意啦！\n如果有不希望自己的头像出现的小伙伴，记得在6月30号前私信天依告知哦！ [洛天依_集合]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家大家！晚上好呀~全体目光向天依看齐——\n天依想在关注我的粉丝朋友里用大家的头像做一个小视频，作为凝聚大家心意的小礼物送给你们，来征求大家的同意啦！\n如果有不希望自己的头像出现的小伙伴，记得在6月30号前私信天依告知哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_集合]",
+        "package_id": "340",
+        "emoji_id": "5575",
+        "name": "集合",
+        "url": "http://i0.hdslb.com/bfs/emote/a24ab2b5ab6c00c2869696ddf7132e7818c2ab1f.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/集合.png",
+        "package_id": "340",
+        "emoji_id": "5575",
+        "text": "[洛天依_集合]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12841,
+    "comment": 4896,
+    "forward": 341
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:48:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

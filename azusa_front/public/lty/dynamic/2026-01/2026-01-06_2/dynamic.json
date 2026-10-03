@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1154736325923962882",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1154736325923962882",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月6日",
+    "pub_ts": 1767696402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·武汉站回顾视频来咯！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·武汉站回顾视频来咯！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "下次见，是最美好的约定！",
+      "desc": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·武汉站回顾视频来咯！\n结束了首次四城巡演，天依终于有机会赶在年末的尾巴和大家再次相见啦~\n天依非常非常开心，有机会见到第一次见面的小伙伴，\n也感动于有很多小伙伴，选择再次跨越千山万水与天依再赴一次约定。\n谢谢武汉站的大家！我们无锡再见啦~",
+      "jump_url": "https://www.bilibili.com/video/BV1kHqwBiEUp",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/298cac3676c8752a5efbf6060ca5c4553214dd22.jpg",
+      "cover_file": "../../_assets/covers/2026-01-06_1.jpg",
+      "bvid": "BV1kHqwBiEUp",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kHqwBiEUp",
+        "aid": "115847733445331",
+        "cover": "http://i1.hdslb.com/bfs/archive/298cac3676c8752a5efbf6060ca5c4553214dd22.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kHqwBiEUp",
+        "stat": {
+          "danmaku": "96",
+          "play": "7.9万",
+          "vt": ""
+        },
+        "duration_text": "01:49",
+        "title": "下次见，是最美好的约定！",
+        "desc": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·武汉站回顾视频来咯！\n结束了首次四城巡演，天依终于有机会赶在年末的尾巴和大家再次相见啦~\n天依非常非常开心，有机会见到第一次见面的小伙伴，\n也感动于有很多小伙伴，选择再次跨越千山万水与天依再赴一次约定。\n谢谢武汉站的大家！我们无锡再见啦~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16729,
+    "comment": 758,
+    "forward": 94
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:12:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

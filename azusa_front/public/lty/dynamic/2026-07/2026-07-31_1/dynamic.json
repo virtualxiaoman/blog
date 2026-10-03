@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1231107108646158336",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1231107108646158336",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月31日",
+    "pub_ts": 1785477860,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2026洛天依大型原创音乐征集活动\n——闪耀的Producer 2 现已开启！⚡\n转发关注天依，揪3位小伙伴送出【洛天依水月雨联动耳机】1份~[洛天依·信号动态表情包_美味]\n\n⚡活动规则\n7月30日-10月8日，使用洛天依音源和形象进行音乐创作\n在bilibili带话题#闪耀的Producer#投稿原创音乐作品，即可视为参与活动\n\n⚡发起人特邀新曲发布\n8位发起人每周一首原创新曲，邀你一同加入创作\n\n⚡作品分组对擂玩法\n征稿期内参与投稿的原创音乐作品，将按照稿件播放综合数据进行初筛\n选出36个作品，按投稿时间先后顺序以ABAB的形式分为Pikapika&Kirakira 两队\n两队作品将以6V6阵容在三周内由用户票选进行擂台打投\n\n⚡活动奖励\n✨闪耀对决奖励\n第一名队伍获得奖项「超人气队伍」，18份作品均获得【3000元】奖励\n第二名队伍获得奖项「高人气队伍」，18份作品均获得【2000元】奖励\n\n✨发行合作奖励\n获得发行合作奖的6首作品将收录专辑发行\n🎶一等奖 1名 【50000元】奖金\n🎶二等奖 2名 【30000元】奖金\n🎶三等奖 3名【10000元】奖金\n\n✨闪耀新人和瓜分奖励\n🎶首次投稿洛天依原创音乐作品，有机会获得闪耀新人奖【Fender电吉他】奖励。\n🎶按照作品数据，所有征集作品将瓜分共【30000元】奖金池\n\n寻找跨越次元的好音乐，期待每一个闪耀的你！ [洛天依·信号动态表情包_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2026洛天依大型原创音乐征集活动\n——闪耀的Producer 2 现已开启！⚡\n转发关注天依，揪3位小伙伴送出【洛天依水月雨联动耳机】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⚡活动规则\n7月30日-10月8日，使用洛天依音源和形象进行音乐创作\n在bilibili带话题"
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": "投稿原创音乐作品，即可视为参与活动\n\n⚡发起人特邀新曲发布\n8位发起人每周一首原创新曲，邀你一同加入创作\n\n⚡作品分组对擂玩法\n征稿期内参与投稿的原创音乐作品，将按照稿件播放综合数据进行初筛\n选出36个作品，按投稿时间先后顺序以ABAB的形式分为Pikapika&Kirakira 两队\n两队作品将以6V6阵容在三周内由用户票选进行擂台打投\n\n⚡活动奖励\n✨闪耀对决奖励\n第一名队伍获得奖项「超人气队伍」，18份作品均获得【3000元】奖励\n第二名队伍获得奖项「高人气队伍」，18份作品均获得【2000元】奖励\n\n✨发行合作奖励\n获得发行合作奖的6首作品将收录专辑发行\n🎶一等奖 1名 【50000元】奖金\n🎶二等奖 2名 【30000元】奖金\n🎶三等奖 3名【10000元】奖金\n\n✨闪耀新人和瓜分奖励\n🎶首次投稿洛天依原创音乐作品，有机会获得闪耀新人奖【Fender电吉他】奖励。\n🎶按照作品数据，所有征集作品将瓜分共【30000元】奖金池\n\n寻找跨越次元的好音乐，期待每一个闪耀的你！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-31_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/84f5fa1c678740abf1485ed724ad6e9636081646.png",
+        "width": 750,
+        "height": 6121,
+        "size_kb": 5410.5439453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5310,
+    "comment": 1246,
+    "forward": 3096
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

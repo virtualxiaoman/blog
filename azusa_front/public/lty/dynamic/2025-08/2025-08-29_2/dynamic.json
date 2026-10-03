@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1106505496717688839",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1106505496717688839",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月29日",
+    "pub_ts": 1756466787,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依领好啦！大家也记得领取哦！[洛天依动态流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依领好啦！大家也记得领取哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5315,
+    "comment": 288,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1106421373319774212,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2025-08/2025-08-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:39:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

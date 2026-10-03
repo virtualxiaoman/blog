@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1231241075118571552",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1231241075118571552",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月31日",
+    "pub_ts": 1785509052,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "来成都为了啥子？ 请填空空[洛天依·信号动态表情包_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来成都为了啥子？ 请填空空"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-31_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c152b6c0679e268f8b43f925c9ca5e8736081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 970.209,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-31_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/53b185c64f231ff9216b29424560bc5736081646.png",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 2161.991,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-31_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9403d8d7981aa30ac7548a10512b20bd36081646.jpg",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 628.87,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-31_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ee3f567777ec0cd06d7d010718e35f4036081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 3180.277,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-31_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f988174b0f98d1123ac01586bd5cbe8c36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 803.469,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-31_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cc1c786a0c5db22e8b188db954890a6c36081646.png",
+        "width": 1620,
+        "height": 1080,
+        "size_kb": 2732.316,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6938,
+    "comment": 491,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1083475950779236372",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1083475950779236372",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月28日",
+    "pub_ts": 1751104803,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "捉迷藏(鬼ごっこ) - 春野 feat.洛天依 官方MV",
+      "desc": "《捉迷藏》\n\n 这是一首为洛天依原创音乐征集活动「闪耀的Producer」特别创作的原创歌曲。\n 是我时隔七年推出的全新VOCALOID作品。\n 希望大家喜欢！\n\nFOLLOW MY WEIBO\n春野：https://weibo.com/u/6366023509\n\nTITLE\n：捉迷藏（鬼ごっこ／Oni-Gokko）\n\nCREDITS\n\nMusic, Lyics, All Instruments：Haruno\nSinger：Luo Tianyi\nMixing：NNZN\n\nDirection：Haruno,",
+      "jump_url": "https://www.bilibili.com/video/BV1ZcKdzDE5Q",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/bf52f06cae3e58c1e88ebe8a589f830beb4fab8b.jpg",
+      "cover_file": "../../_assets/covers/2025-06-28_3.jpg",
+      "bvid": "BV1ZcKdzDE5Q",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZcKdzDE5Q",
+        "aid": "114747835942125",
+        "cover": "http://i1.hdslb.com/bfs/archive/bf52f06cae3e58c1e88ebe8a589f830beb4fab8b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZcKdzDE5Q",
+        "stat": {
+          "danmaku": "7.1万",
+          "play": "1095万",
+          "vt": ""
+        },
+        "duration_text": "03:12",
+        "title": "捉迷藏(鬼ごっこ) - 春野 feat.洛天依 官方MV",
+        "desc": "《捉迷藏》\n\n 这是一首为洛天依原创音乐征集活动「闪耀的Producer」特别创作的原创歌曲。\n 是我时隔七年推出的全新VOCALOID作品。\n 希望大家喜欢！\n\nFOLLOW MY WEIBO\n春野：https://weibo.com/u/6366023509\n\nTITLE\n：捉迷藏（鬼ごっこ／Oni-Gokko）\n\nCREDITS\n\nMusic, Lyics, All Instruments：Haruno\nSinger：Luo Tianyi\nMixing：NNZN\n\nDirection：Haruno,",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 417212,
+    "comment": 28536,
+    "forward": 26
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

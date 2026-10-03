@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "230634748749005454",
+  "type": "DYNAMIC_TYPE_MUSIC",
+  "kind": "music",
+  "url": "https://www.bilibili.com/opus/230634748749005454",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年3月14日",
+    "pub_ts": 1552537237,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "锵锵锵！今天是白色情人节，作为回礼天依给大家带来一首歌~天依、言和、阿绫合唱的歌曲《神谕法则》今天正式发布啦！作为方舟指令的主题曲，这首歌的节奏感和韵律都超级棒的~希望大家能喜欢！\n\n《神谕法则》\n作曲/作词：李懋扬\n编曲：纪粹希 \n演唱：洛天依、言和、乐正绫\n调校：动次打次的动点P \n画师：TID\n\n另外《方舟指令》和Vsinger的第二期联动也在今天开启了，这次大家会在方舟世界与言和、阿绫相遇哟~我们之间又会发生怎样的故事呢？「与你的相遇　就是神谕的旋律」，就让我们的歌声为你传递欧气吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "锵锵锵！今天是白色情人节，作为回礼天依给大家带来一首歌~天依、言和、阿绫合唱的歌曲《神谕法则》今天正式发布啦！作为方舟指令的主题曲，这首歌的节奏感和韵律都超级棒的~希望大家能喜欢！\n\n《神谕法则》\n作曲/作词：李懋扬\n编曲：纪粹希 \n演唱：洛天依、言和、乐正绫\n调校：动次打次的动点P \n画师：TID\n\n另外《方舟指令》和Vsinger的第二期联动也在今天开启了，这次大家会在方舟世界与言和、阿绫相遇哟~我们之间又会发生怎样的故事呢？「与你的相遇　就是神谕的旋律」，就让我们的歌声为你传递欧气吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "music",
+      "title": "【洛天依&言和&乐正绫】神谕法则-洛天依",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/audio/au777180",
+      "cover_url": "http://i0.hdslb.com/bfs/music/02bb05d065c68be8685950e9f992e00711c80a2a.jpg",
+      "cover_file": "../../_assets/covers/2019-03-14_1.jpg",
+      "bvid": "",
+      "extra": {
+        "id": "777180",
+        "jump_url": "//www.bilibili.com/audio/au777180",
+        "cover": "http://i0.hdslb.com/bfs/music/02bb05d065c68be8685950e9f992e00711c80a2a.jpg",
+        "title": "【洛天依&言和&乐正绫】神谕法则-洛天依",
+        "label": "洛天依"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5824,
+    "comment": 803,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

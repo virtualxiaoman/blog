@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "692630997928247317",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/692630997928247317",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月10日",
+    "pub_ts": 1660104121,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@冰晶凤翎 @浪久思归TED @皓月清凉丶 中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@冰晶凤翎",
+        "mid": 483299,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@浪久思归TED",
+        "mid": 415523617,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@皓月清凉丶",
+        "mid": 381946771,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5480,
+    "comment": 139,
+    "forward": 67
+  },
+  "forward": {
+    "orig_id": 669995961718669313,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2022-06/2022-06-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

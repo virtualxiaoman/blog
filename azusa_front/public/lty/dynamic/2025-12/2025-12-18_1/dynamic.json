@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "1147623421977296905",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1147623421977296905",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月18日",
+    "pub_ts": 1766040300,
+    "location": ""
+  },
+  "topic": {
+    "id": 1327936,
+    "name": "2025音乐报告",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1327936&topic_name=2025%E9%9F%B3%E4%B9%90%E6%8A%A5%E5%91%8A"
+  },
+  "content": {
+    "title": "",
+    "text": "想看大家的音乐报告～[洛天依八音奇响动态_嘻嘻]\n有没有满满天依含量呀！[洛天依八音奇响动态_回答我]\n\n记得戳网页链接\n也许会领取到一只天依牌小电视宠物哦！[洛天依八音奇响动态_可爱]\n是谁这么厉害让小洛冲到第一名啦！[洛天依八音奇响动态_登场]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "想看大家的音乐报告～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n有没有满满天依含量呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_回答我]",
+        "package_id": "8362",
+        "emoji_id": "115078",
+        "name": "回答我",
+        "url": "https://i0.hdslb.com/bfs/garb/285cffc6eed8883ac0288bc5715686eace8692ad.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n记得戳"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://music.bilibili.com/h5/annual-report-2025?navhide=1"
+      },
+      {
+        "type": "text",
+        "text": "\n也许会领取到一只天依牌小电视宠物哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n是谁这么厉害让小洛冲到第一名啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64fb2ea5dfd09cced1d6fc41202a3e1236081646.jpg",
+        "width": 924,
+        "height": 1956,
+        "size_kb": 355.19000244140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/回答我.gif",
+        "package_id": "8362",
+        "emoji_id": "115078",
+        "text": "[洛天依八音奇响动态_回答我]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5427,
+    "comment": 817,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

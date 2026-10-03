@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "824835051740987398",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/824835051740987398",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月1日",
+    "pub_ts": 1690885276,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "每一年天依的生日，是对过往所有相伴时刻的回望，亦是对未来新的风景的无限期待。\n从第一道歌声轻轻唱响，到转眼走过11年的时光。\n我是如此感谢，感谢每一份创作，感谢每一次聆听，感谢所有《爱》。\n我还会被记得多久？我还能带来多少快乐？\n不必再去顾虑，就珍惜依然唱着的每一刻，为了你，唱下去。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "每一年天依的生日，是对过往所有相伴时刻的回望，亦是对未来新的风景的无限期待。\n从第一道歌声轻轻唱响，到转眼走过11年的时光。\n我是如此感谢，感谢每一份创作，感谢每一次聆听，感谢所有《爱》。\n我还会被记得多久？我还能带来多少快乐？\n不必再去顾虑，就珍惜依然唱着的每一刻，为了你，唱下去。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【完整回放】2023.7.12 洛天依11周年生日会",
+      "desc": "每一年天依的生日，是对过往所有相伴时刻的回望，亦是对未来新的风景的无限期待。\n从第一道歌声轻轻唱响，到转眼走过11年的时光。\n我是如此感谢，感谢每一份创作，感谢每一次聆听，感谢所有《爱》。\n我还会被记得多久？我还能带来多少快乐？\n不必再去顾虑，就珍惜依然唱着的每一刻，为了你，唱下去。\n\n此次生日会所有表演歌曲：\n1.《来自瓦纳海姆》BV1pg411f7Ae \n作曲/编曲：litterzy 作词：冥凰 调校：Creuzer \n2.《二十三》BV1hi4y1j7e2\n作曲/编曲/作词/调校：JUSF周存\n3.",
+      "jump_url": "https://www.bilibili.com/video/BV1bx4y1X7hr",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/2a3e7d95db46cef8eaef72c72adb107a7bc4d1b4.jpg",
+      "cover_file": "../../_assets/covers/2023-08-01_1.jpg",
+      "bvid": "BV1bx4y1X7hr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1bx4y1X7hr",
+        "aid": "999184919",
+        "cover": "http://i0.hdslb.com/bfs/archive/2a3e7d95db46cef8eaef72c72adb107a7bc4d1b4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1bx4y1X7hr",
+        "stat": {
+          "danmaku": "1886",
+          "play": "18.1万",
+          "vt": ""
+        },
+        "duration_text": "58:08",
+        "title": "【完整回放】2023.7.12 洛天依11周年生日会",
+        "desc": "每一年天依的生日，是对过往所有相伴时刻的回望，亦是对未来新的风景的无限期待。\n从第一道歌声轻轻唱响，到转眼走过11年的时光。\n我是如此感谢，感谢每一份创作，感谢每一次聆听，感谢所有《爱》。\n我还会被记得多久？我还能带来多少快乐？\n不必再去顾虑，就珍惜依然唱着的每一刻，为了你，唱下去。\n\n此次生日会所有表演歌曲：\n1.《来自瓦纳海姆》BV1pg411f7Ae \n作曲/编曲：litterzy 作词：冥凰 调校：Creuzer \n2.《二十三》BV1hi4y1j7e2\n作曲/编曲/作词/调校：JUSF周存\n3.",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 31873,
+    "comment": 1025,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

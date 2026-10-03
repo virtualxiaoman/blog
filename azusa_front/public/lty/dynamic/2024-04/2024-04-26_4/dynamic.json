@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "924695455145656356",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/924695455145656356",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月26日",
+    "pub_ts": 1714135838,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欢迎大家观看~可以抽福腻！[洛天依蝶变_发射爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢迎大家观看~可以抽福腻！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4613,
+    "comment": 177,
+    "forward": 52
+  },
+  "forward": {
+    "orig_id": 924690309806292994,
+    "orig_mid": 84567302,
+    "deleted": false,
+    "archive_dir": "../../../84567302/2024-04/2024-04-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:11:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

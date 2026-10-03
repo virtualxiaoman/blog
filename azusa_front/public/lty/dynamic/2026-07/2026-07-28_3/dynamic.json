@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1230043505093509127",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1230043505093509127",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月28日",
+    "pub_ts": 1785230221,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依×乐正绫】穿梭古今，巡演杭州站再唱《霜雪千年》",
+      "desc": "洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会杭州站\n天依再次和我的好朋友@乐正绫  一起，和大家再忆那年霜雪\n岁月流转，故人相逢，我们一起为大家再次唱响熟悉的歌谣\n \n《霜雪千年》\n演唱：洛天依&乐正绫\n作词/作曲/调校：COP\n编曲：上官于尧 曹文佳\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会广州站等售票进行中~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003717",
+      "jump_url": "https://www.bilibili.com/video/BV1KV3v6rERX",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/816561968087471acc5df1d9466ea5f03d40546d.jpg",
+      "cover_file": "../../_assets/covers/2026-07-28_2.jpg",
+      "bvid": "BV1KV3v6rERX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1KV3v6rERX",
+        "aid": "116996838655558",
+        "cover": "http://i1.hdslb.com/bfs/archive/816561968087471acc5df1d9466ea5f03d40546d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1KV3v6rERX",
+        "stat": {
+          "danmaku": "1794",
+          "play": "61.3万",
+          "vt": ""
+        },
+        "duration_text": "04:05",
+        "title": "【洛天依×乐正绫】穿梭古今，巡演杭州站再唱《霜雪千年》",
+        "desc": "洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会杭州站\n天依再次和我的好朋友@乐正绫  一起，和大家再忆那年霜雪\n岁月流转，故人相逢，我们一起为大家再次唱响熟悉的歌谣\n \n《霜雪千年》\n演唱：洛天依&乐正绫\n作词/作曲/调校：COP\n编曲：上官于尧 曹文佳\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会广州站等售票进行中~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003717",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 97492,
+    "comment": 3665,
+    "forward": 469
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

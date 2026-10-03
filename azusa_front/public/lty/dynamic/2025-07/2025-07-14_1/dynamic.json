@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1089377227258200072",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1089377227258200072",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月14日",
+    "pub_ts": 1752478801,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#⚙#洛天依0712生日快乐#\n在共鸣心音中凝聚的珍宝，永远熠熠闪耀。\n⚙洛天依十三周年支付宝动态主题套装来啦！\n\n🔹两套动态主题\n-洛天依爱意珍珠\n-洛天依人偶歌者\n\n🔹套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n关于获取方式等详情，大家请戳长图查看~[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n在共鸣心音中凝聚的珍宝，永远熠熠闪耀。\n⚙洛天依十三周年支付宝动态主题套装来啦！\n\n🔹两套动态主题\n-洛天依爱意珍珠\n-洛天依人偶歌者\n\n🔹套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n关于获取方式等详情，大家请戳长图查看~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-14_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7c7c6d374af12e7d9a5043c9a5c5890836081646.png",
+        "width": 750,
+        "height": 8861,
+        "size_kb": 5261.5966796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4598,
+    "comment": 175,
+    "forward": 42
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

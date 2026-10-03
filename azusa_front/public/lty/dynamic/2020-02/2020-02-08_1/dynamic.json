@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "353500491643445276",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/353500491643445276",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月8日",
+    "pub_ts": 1581144147,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "(⑅ōᴗō)۶有时候思绪会很多呢,特别是夜里，不知道大家是不是也这样呢",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "(⑅ōᴗō)۶有时候思绪会很多呢,特别是夜里，不知道大家是不是也这样呢"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7459,
+    "comment": 256,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 353236664682597227,
+    "orig_mid": 4539293,
+    "deleted": false,
+    "archive_dir": "../../../4539293/2020-02/2020-02-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

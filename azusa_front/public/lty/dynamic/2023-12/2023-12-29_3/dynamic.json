@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "880537371654750247",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/880537371654750247",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月29日",
+    "pub_ts": 1703854483,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "说好的跨晚应援福利！大家记得领取哦~[天依游学记_谢谢你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "说好的跨晚应援福利！大家记得领取哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3170,
+    "comment": 88,
+    "forward": 130
+  },
+  "forward": {
+    "orig_id": 880533656508039174,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2023-12/2023-12-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:02:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

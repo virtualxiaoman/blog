@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "id": "1010372824255168537",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1010372824255168537",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月13日",
+    "pub_ts": 1734084155,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依游学记#【歌行·戏曲季】\n❀越剧「梁山伯与祝英台」主题插画海报公开❀\n预约MV，转发关注天依，揪3位小伙伴送出「洛天依随机周边」1份~\n\n“梁兄你看，彩鹞飞起来了。”[洛天依蝶变_星星眼]\n相识相知于同窗时节，情愫萌生在点滴之间\n不甘于世俗拘束的灵魂最终化为自由的蝴蝶\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "【歌行·戏曲季】\n❀越剧「梁山伯与祝英台」主题插画海报公开❀\n预约MV，转发关注天依，揪3位小伙伴送出「洛天依随机周边」1份~\n\n“梁兄你看，彩鹞飞起来了。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n相识相知于同窗时节，情愫萌生在点滴之间\n不甘于世俗拘束的灵魂最终化为自由的蝴蝶"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-13_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/34337a50e268ee33ac726cd873963faf36081646.png",
+        "width": 1480,
+        "height": 829,
+        "size_kb": 3067.9248046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：天依游学记歌行戏曲季先导MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1HWkwYWETx",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：天依游学记歌行戏曲季先导MV",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "829.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4286531,
+        "reserve_total": 14370,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7119,
+    "comment": 1353,
+    "forward": 2667
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

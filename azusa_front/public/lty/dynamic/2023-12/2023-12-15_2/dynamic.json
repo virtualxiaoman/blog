@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "875319428793761827",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/875319428793761827",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月15日",
+    "pub_ts": 1702639586,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​#洛天依# “新辞赋的概貌 已初见棱角”\n转发关注天依，揪1位小伙伴送出【全套周边】一份[洛天依蝶变_星星眼]\n洛天依X索尼音乐原创单曲《蝶变(Butterfly)》MV上线“此刻 如蝶般舞蹈”《蝶变(Butterfly)》【洛天依X索尼音乐原创曲MV】 \n系列周边也预售开启啦！[洛天依蝶变_YEAH！]\n\n【Vsinger 洛天依 蝶变 系列】\n徽章\n色纸\n拍立得\n\n【特典】\n购买全套周边可赠贴纸1份\n\n◆预售时间：12月15日 12:00-12月31日 23:59\n◆传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " “新辞赋的概貌 已初见棱角”\n转发关注天依，揪1位小伙伴送出【全套周边】一份"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依X索尼音乐原创单曲《蝶变(Butterfly)》MV上线"
+      },
+      {
+        "type": "video",
+        "text": "“此刻 如蝶般舞蹈”《蝶变(Butterfly)》【洛天依X索尼音乐原创曲MV】",
+        "url": "https://www.bilibili.com/video/av834642047",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " \n系列周边也预售开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【Vsinger 洛天依 蝶变 系列】\n徽章\n色纸\n拍立得\n\n【特典】\n购买全套周边可赠贴纸1份\n\n◆预售时间：12月15日 12:00-12月31日 23:59\n◆传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?loadingShow=1&noTitleBar=1&itemsId=10204676#noReffer=true&goFrom=na"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-15_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/df56ff0aff279ea8a4d4500a61d4d5b236081646.jpg",
+        "width": 750,
+        "height": 3135,
+        "size_kb": 238.38999938964844,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 《蝶变》系列周边 徽章/拍立得/色纸",
+            "price": "¥12.75",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/55/09/55098915d35b362c2a8f88b5c96aab9f.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10204676&msource=cps_Mdynamic_36081646_cont-2-875319428793761827&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-15_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5624,
+    "comment": 1510,
+    "forward": 2365
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

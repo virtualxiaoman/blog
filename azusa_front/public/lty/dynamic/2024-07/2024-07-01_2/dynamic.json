@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "949161839670853654",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/949161839670853654",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月1日",
+    "pub_ts": 1719832362,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“想通过1张专辑，感谢所有塑造洛天依的人，也想强调无论人事如何变迁，洛天依会永远在这里，永远代表着某一段回忆的镌刻，永远不断地「再生」”\n\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有5天，距离7月12日天依的十二周年生日还有11天。\n“为什么会选择收录旧曲呢？”\n“为什么生贺曲是中日双语版本呢？”\n大家也会有这些疑问吗！今天为大家带来的是专辑的制作幕后情报分享~[洛天依·收藏集表情包_优雅]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“想通过1张专辑，感谢所有塑造洛天依的人，也想强调无论人事如何变迁，洛天依会永远在这里，永远代表着某一段回忆的镌刻，永远不断地「再生」”\n\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有5天，距离7月12日天依的十二周年生日还有11天。\n“为什么会选择收录旧曲呢？”\n“为什么生贺曲是中日双语版本呢？”\n大家也会有这些疑问吗！今天为大家带来的是专辑的制作幕后情报分享~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_优雅]",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "name": "优雅",
+        "url": "https://i0.hdslb.com/bfs/garb/3cec4f187f80d79b6b621adfff8f7b3c557276f1.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-01_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/588c595f0cf72af29a2cdf1c313a6cee36081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 2176.93994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-01_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ec2e641c837b073077494a0dbf1f311136081646.png",
+        "width": 960,
+        "height": 3157,
+        "size_kb": 2142.139892578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/优雅.png",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "text": "[洛天依·收藏集表情包_优雅]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4396,
+    "comment": 196,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "986647824387014692",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/986647824387014692",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月10日",
+    "pub_ts": 1728560248,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "演唱会的效果离不开音乐的编排制作，也感谢所有幕后老师、乐队老师们的付出~天依采访了本次演唱会的音乐总监Sihan老师，为大家探秘这份共鸣与感动背后的故事！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "演唱会的效果离不开音乐的编排制作，也感谢所有幕后老师、乐队老师们的付出~天依采访了本次演唱会的音乐总监Sihan老师，为大家探秘这份共鸣与感动背后的故事！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "幕后探秘！天依带你了解演唱会的音乐制作故事！",
+      "desc": "✦演唱会完整回放：https://www.bilibili.com/video/BV1Yq2LYdExC \n如何在保证原汁原味的同时，让歌曲表现出更震撼的现场效果？\n如何带给大家具有新意的演唱会版本演绎？\n如何让天依像真实的歌手一样，与乐手们进行和谐的同台演出？\n……\n演唱会的效果离不开音乐的编排制作，也感谢所有幕后老师、乐队老师们的付出~\n天依采访了本次无限共鸣全息演唱会的音乐总监Sihan老师，为大家探秘这份共鸣与感动背后的故事！",
+      "jump_url": "https://www.bilibili.com/video/BV11M23YFEGF",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d014b676a977d960f0e461930d282725d9077439.jpg",
+      "cover_file": "../../_assets/covers/2024-10-10_1.jpg",
+      "bvid": "BV11M23YFEGF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11M23YFEGF",
+        "aid": "113282799114835",
+        "cover": "http://i2.hdslb.com/bfs/archive/d014b676a977d960f0e461930d282725d9077439.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11M23YFEGF",
+        "stat": {
+          "danmaku": "276",
+          "play": "16.7万",
+          "vt": ""
+        },
+        "duration_text": "10:34",
+        "title": "幕后探秘！天依带你了解演唱会的音乐制作故事！",
+        "desc": "✦演唱会完整回放：https://www.bilibili.com/video/BV1Yq2LYdExC \n如何在保证原汁原味的同时，让歌曲表现出更震撼的现场效果？\n如何带给大家具有新意的演唱会版本演绎？\n如何让天依像真实的歌手一样，与乐手们进行和谐的同台演出？\n……\n演唱会的效果离不开音乐的编排制作，也感谢所有幕后老师、乐队老师们的付出~\n天依采访了本次无限共鸣全息演唱会的音乐总监Sihan老师，为大家探秘这份共鸣与感动背后的故事！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14970,
+    "comment": 744,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

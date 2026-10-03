@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "963625803221827602",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/963625803221827602",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月9日",
+    "pub_ts": 1723200016,
+    "location": ""
+  },
+  "topic": {
+    "id": 1105903,
+    "name": "洛天依收藏集",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1105903&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%94%B6%E8%97%8F%E9%9B%86"
+  },
+  "content": {
+    "title": "",
+    "text": "追加奖励【天依首套动态表情包】和【典藏卡】解锁啦！[心律共鸣动态表情包_可爱]天依真的很喜欢这套表情包诶嘿，终于可以用上啦！大家还喜欢嘛～[心律共鸣动态表情包_啾啾]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "追加奖励【天依首套动态表情包】和【典藏卡】解锁啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_可爱]",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/emote/ba9712392f36dd43fbb75434cb5d1df5f275bee8.gif"
+      },
+      {
+        "type": "text",
+        "text": "天依真的很喜欢这套表情包诶嘿，终于可以用上啦！大家还喜欢嘛～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/可爱.gif",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "text": "[心律共鸣动态表情包_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4303,
+    "comment": 315,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 963623157510438944,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-08/2024-08-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

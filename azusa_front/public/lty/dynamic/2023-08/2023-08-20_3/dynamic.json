@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "831918715538767911",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/831918715538767911",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月20日",
+    "pub_ts": 1692534570,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "属于我们的夏天就要结束啦，但也许也是下一个夏天的即将开始~\n就像视频播放又结束，我们还会有许多个陪伴彼此的日日夜夜。\n天依唱片机第二期来咯！点歌功能持续开放中，欢迎大家点播下一期秋季主题的歌曲~\n希望可以用这种方式陪伴着大家，也有机会让更多的小伙伴听到这些优秀的歌曲、优秀的创作者。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "属于我们的夏天就要结束啦，但也许也是下一个夏天的即将开始~\n就像视频播放又结束，我们还会有许多个陪伴彼此的日日夜夜。\n天依唱片机第二期来咯！点歌功能持续开放中，欢迎大家点播下一期秋季主题的歌曲~\n希望可以用这种方式陪伴着大家，也有机会让更多的小伙伴听到这些优秀的歌曲、优秀的创作者。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第二期·夏夜｜歌声静静流淌，我们还有很多个陪伴彼此的日日夜夜",
+      "desc": "属于我们的夏天就要结束啦，但也许也是下一个夏天的即将开始~\n就像视频播放又结束，我们还会有许多个陪伴彼此的日日夜夜。\n天依唱片机第二期来咯！点歌功能持续开放中，欢迎大家点播下一期秋季主题的歌曲~\n希望可以用这种方式陪伴着大家，也有机会让更多的小伙伴听到这些优秀的歌曲、优秀的创作者。\n\n【天依唱片机第二期·夏夜  歌单】\n感谢老师们的创作与授权~♥\n1.《为谁而为》BV1Cs411p7V3\n2.《看见了楼房后巨大的怪兽》BV1q24y1N7dX\n3.《Starlight》BV1dt41157ZF\n4.《In",
+      "jump_url": "https://www.bilibili.com/video/BV1aN4y1d7Ai",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c64f357f99b5a624e0bc4ac843d7e2daf083e953.jpg",
+      "cover_file": "../../_assets/covers/2023-08-20_1.jpg",
+      "bvid": "BV1aN4y1d7Ai",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1aN4y1d7Ai",
+        "aid": "872541590",
+        "cover": "http://i1.hdslb.com/bfs/archive/c64f357f99b5a624e0bc4ac843d7e2daf083e953.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1aN4y1d7Ai",
+        "stat": {
+          "danmaku": "619",
+          "play": "36.8万",
+          "vt": ""
+        },
+        "duration_text": "01:00:40",
+        "title": "【天依唱片机】第二期·夏夜｜歌声静静流淌，我们还有很多个陪伴彼此的日日夜夜",
+        "desc": "属于我们的夏天就要结束啦，但也许也是下一个夏天的即将开始~\n就像视频播放又结束，我们还会有许多个陪伴彼此的日日夜夜。\n天依唱片机第二期来咯！点歌功能持续开放中，欢迎大家点播下一期秋季主题的歌曲~\n希望可以用这种方式陪伴着大家，也有机会让更多的小伙伴听到这些优秀的歌曲、优秀的创作者。\n\n【天依唱片机第二期·夏夜  歌单】\n感谢老师们的创作与授权~♥\n1.《为谁而为》BV1Cs411p7V3\n2.《看见了楼房后巨大的怪兽》BV1q24y1N7dX\n3.《Starlight》BV1dt41157ZF\n4.《In",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 55304,
+    "comment": 1146,
+    "forward": 94
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

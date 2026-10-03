@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "573574302357306796",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/573574302357306796",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月23日",
+    "pub_ts": 1632384074,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小伙伴们认识天依多久了？那些紧张的备考期、与朋友们轰趴的时光是否都有天依的陪伴呢？@交通银行信用卡 携手天依以生日纪念版信用卡共同庆祝我们没有被时间冲散的友谊，并与大家一同回忆这九年来我们一起度过的难忘记忆。关注@交通银行信用卡 官方账号，带话题#最9的朋友#转发本条动态，并写下你和天依的相遇的时刻或相伴的暖心故事，我们将随机抽取10位小伙伴，每人送上天依透明装饰拼图1个。赶快打卡活动，让天依听听你们的独家“记忆”！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小伙伴们认识天依多久了？那些紧张的备考期、与朋友们轰趴的时光是否都有天依的陪伴呢？"
+      },
+      {
+        "type": "mention",
+        "text": "@交通银行信用卡",
+        "mid": 578454094,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 携手天依以生日纪念版信用卡共同庆祝我们没有被时间冲散的友谊，并与大家一同回忆这九年来我们一起度过的难忘记忆。关注"
+      },
+      {
+        "type": "mention",
+        "text": "@交通银行信用卡",
+        "mid": 578454094,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 官方账号，带话题"
+      },
+      {
+        "type": "topic",
+        "text": "#最9的朋友#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%9C%809%E7%9A%84%E6%9C%8B%E5%8F%8B"
+      },
+      {
+        "type": "text",
+        "text": "转发本条动态，并写下你和天依的相遇的时刻或相伴的暖心故事，我们将随机抽取10位小伙伴，每人送上天依透明装饰拼图1个。赶快打卡活动，让天依听听你们的独家“记忆”！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5449,
+    "comment": 288,
+    "forward": 187
+  },
+  "forward": {
+    "orig_id": 573565682354750231,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2021-09/2021-09-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:36:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

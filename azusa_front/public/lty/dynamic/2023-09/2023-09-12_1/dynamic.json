@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "840447038829101112",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/840447038829101112",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月12日",
+    "pub_ts": 1694520225,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "诶？大家是不是不能给天依发私信啦[代号洛天依_？？]\n开启今日私信回复时间——\n大家在这条评论区留言，天依会一一私信哒[代号洛天依_比心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "诶？大家是不是不能给天依发私信啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_？？]",
+        "package_id": "1842",
+        "emoji_id": "32127",
+        "name": "？？",
+        "url": "https://i0.hdslb.com/bfs/emote/40e6d78a4653eda3096a14aab5ad62ecbf4ab131.png"
+      },
+      {
+        "type": "text",
+        "text": "\n开启今日私信回复时间——\n大家在这条评论区留言，天依会一一私信哒"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-12_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8bc29f9aa76160c959f4ad9673779c0c36081646.png",
+        "width": 850,
+        "height": 850,
+        "size_kb": 226.0341796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/？？.png",
+        "package_id": "1842",
+        "emoji_id": "32127",
+        "text": "[代号洛天依_？？]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7638,
+    "comment": 2304,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

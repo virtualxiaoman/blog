@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "917939566067843090",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/917939566067843090",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月8日",
+    "pub_ts": 1712562860,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "视频更新预告\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "视频更新预告"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-08_9.jpg",
+        "live_file": "",
+        "url": "http://i1.hdslb.com/bfs/archive/cbcccb40f5b878ceaf69292c5cd3c90ab5577087.jpg",
+        "width": 1440,
+        "height": 1080,
+        "size_kb": 258.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：【洛天依游学记云贵篇单曲】黔歌行",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1DC411V7nD",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：【洛天依游学记云贵篇单曲】黔歌行",
+        "desc1": {
+          "text": "预计2024-04-11 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "81万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1DC411V7nD",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1DC411V7nD",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3667141,
+        "reserve_total": 4264,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5843,
+    "comment": 184,
+    "forward": 52
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

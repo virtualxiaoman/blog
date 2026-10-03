@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "336466032869779296",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/336466032869779296",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月24日",
+    "pub_ts": 1577178003,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 今天晚上是平安夜，各位小伙伴们打算和家人还是朋友过节呢？一个人的话也没关系，不论平安夜、圣诞节、跨年，天依都会陪小伙伴们一起度过哟~ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 今天晚上是平安夜，各位小伙伴们打算和家人还是朋友过节呢？一个人的话也没关系，不论平安夜、圣诞节、跨年，天依都会陪小伙伴们一起度过哟~ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-12-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d215bdbdba65cc52e8f6f9a7efa0a6ead648cb1f.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 278.84765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9637,
+    "comment": 564,
+    "forward": 79
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

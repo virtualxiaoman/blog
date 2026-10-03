@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "955833263658631207",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/955833263658631207",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月19日",
+    "pub_ts": 1721385674,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "存存老师投稿十二周年快乐！[洛天依心律共鸣表情包_开心]是从第一年到第十二年都能和存娘一起过周年的美好与陪伴呀~[洛天依·收藏集表情包_晚安]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "存存老师投稿十二周年快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "是从第一年到第十二年都能和存娘一起过周年的美好与陪伴呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_晚安]",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/f1189ccef7775ac7807879b6416fe0945417ba01.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/晚安.png",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "text": "[洛天依·收藏集表情包_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4503,
+    "comment": 83,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 955809753011847171,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2024-07/2024-07-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

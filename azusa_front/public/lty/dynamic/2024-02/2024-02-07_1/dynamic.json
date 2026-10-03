@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "895299333177475076",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/895299333177475076",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月7日",
+    "pub_ts": 1707291520,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "增加了大家的动态主题解锁福利[Vsinger_rua天依]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "增加了大家的动态主题解锁福利"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3406,
+    "comment": 77,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 895275195478048800,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-02/2024-02-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

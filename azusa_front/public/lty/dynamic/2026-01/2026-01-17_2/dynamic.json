@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1158814062313734147",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1158814062313734147",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月17日",
+    "pub_ts": 1768645824,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家晚上好呀，转发此条动态，揪3位小伙伴送出【洛天依随机周边一份】[洛天依八音奇响动态_可爱]天依很荣幸担任四川观察【虚拟音推大使】，演唱第32届自贡国际恐龙灯会推广曲《千灯绘》，预告pv先行上线，多个天依造型灯组也将亮相灯会，1月下旬起，让我们相约自贡中华彩灯大世界吧[洛天依八音奇响动态_美丽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家晚上好呀，转发此条动态，揪3位小伙伴送出【洛天依随机周边一份】"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "天依很荣幸担任四川观察【虚拟音推大使】，演唱第32届自贡国际恐龙灯会推广曲《千灯绘》，预告pv先行上线，多个天依造型灯组也将亮相灯会，1月下旬起，让我们相约自贡中华彩灯大世界吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5904,
+    "comment": 584,
+    "forward": 3075
+  },
+  "forward": {
+    "orig_id": 1158806297049563153,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-01-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:14:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

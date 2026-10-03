@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1192087822537850946",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1192087822537850946",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月17日",
+    "pub_ts": 1776392975,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "漫天春花，春风得“依”\n美好的春天，努比亚产品共创官洛天依邀你一起从春天出发~\n欢迎解锁你的春日出游伴侣——\n#努比亚Z80Ultra洛天依限定版# & #中兴U30Pro洛天依限定版#\n为繁复的日常，增添“依”点陪伴吧！[洛天依国乐季动态表情包_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "漫天春花，春风得“依”\n美好的春天，努比亚产品共创官洛天依邀你一起从春天出发~\n欢迎解锁你的春日出游伴侣——\n"
+      },
+      {
+        "type": "topic",
+        "text": "#努比亚Z80Ultra洛天依限定版#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8A%AA%E6%AF%94%E4%BA%9AZ80Ultra%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%99%90%E5%AE%9A%E7%89%88"
+      },
+      {
+        "type": "text",
+        "text": " & "
+      },
+      {
+        "type": "topic",
+        "text": "#中兴U30Pro洛天依限定版#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%85%B4U30Pro%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%99%90%E5%AE%9A%E7%89%88"
+      },
+      {
+        "type": "text",
+        "text": "\n为繁复的日常，增添“依”点陪伴吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a09e6410101b9063ea444d8dcc6d8da636081646.jpg",
+        "width": 2160,
+        "height": 3598,
+        "size_kb": 4778.949,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5440,
+    "comment": 218,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

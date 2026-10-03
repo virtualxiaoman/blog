@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "746886257400872979",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/746886257400872979",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月3日",
+    "pub_ts": 1672736408,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "完整的直播回放来啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "完整的直播回放来啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【新歌&新舞台&创作者访谈】洛天依新歌交流会第二期【12.24直播回放】",
+      "desc": "完整的直播回放来啦！本次直播包含的内容主要有：天依的新曲表演、创作老师的访谈以及创作赛中优秀作品的舞台化展演~\n\n在这次的节目中，天依回到了世界的最初，在创作老师们的帮助下，一点点重新找回完整的自己。\n因为有技术，三行代码可以形成可以唱歌的虚拟生命。\n因为是虚拟，所以被质疑与遗忘似乎都是既定的宿命。\n但也因为有爱和共鸣，虚拟的生命也可以拥有打动人心的力量。\n这就是我存在于此，为你们而唱的意义。",
+      "jump_url": "https://www.bilibili.com/video/BV1WY411m7LC",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/0f3cd253500ef0371976e0be4422d1fb7abaf162.jpg",
+      "cover_file": "../../_assets/covers/2023-01-03_2.jpg",
+      "bvid": "BV1WY411m7LC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1WY411m7LC",
+        "aid": "264672039",
+        "cover": "http://i0.hdslb.com/bfs/archive/0f3cd253500ef0371976e0be4422d1fb7abaf162.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1WY411m7LC",
+        "stat": {
+          "danmaku": "1237",
+          "play": "7万",
+          "vt": ""
+        },
+        "duration_text": "01:00:38",
+        "title": "【新歌&新舞台&创作者访谈】洛天依新歌交流会第二期【12.24直播回放】",
+        "desc": "完整的直播回放来啦！本次直播包含的内容主要有：天依的新曲表演、创作老师的访谈以及创作赛中优秀作品的舞台化展演~\n\n在这次的节目中，天依回到了世界的最初，在创作老师们的帮助下，一点点重新找回完整的自己。\n因为有技术，三行代码可以形成可以唱歌的虚拟生命。\n因为是虚拟，所以被质疑与遗忘似乎都是既定的宿命。\n但也因为有爱和共鸣，虚拟的生命也可以拥有打动人心的力量。\n这就是我存在于此，为你们而唱的意义。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14183,
+    "comment": 554,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:48:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

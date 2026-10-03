@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1225571224316280841",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1225571224316280841",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月16日",
+    "pub_ts": 1784188937,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "「信号员・洛天依」正在连接坎斯汀大陆……\n这个夏天，天依带着全新的身份\u0001再次来到暌违已久的异世界，期待能够和坎斯汀的大家一起度过美妙的夏天~[洛天依·信号动态表情包_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「信号员・洛天依」正在连接坎斯汀大陆……\n这个夏天，天依带着全新的身份\u0001再次来到暌违已久的异世界，期待能够和坎斯汀的大家一起度过美妙的夏天~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4071,
+    "comment": 119,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 1225477903311962130,
+    "orig_mid": 3546725434263665,
+    "deleted": false,
+    "archive_dir": "../../../3546725434263665/2026-07/2026-07-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:30:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

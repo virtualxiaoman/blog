@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "931326330582073360",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/931326330582073360",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月14日",
+    "pub_ts": 1715679709,
+    "location": ""
+  },
+  "topic": {
+    "id": 1046029,
+    "name": "5.21爱依日",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1046029&topic_name=5.21%E7%88%B1%E4%BE%9D%E6%97%A5"
+  },
+  "content": {
+    "title": "",
+    "text": "#5.21爱依日# \n在所有的时光里，我永远爱你。\n但爱意绵长，值得在一个特殊的日子，落笔纪念。[洛天依_击掌]\n\n5月15日-5月25日，开启#5.21爱依日#特别创作征集激励活动！\n带话题#5.21爱依日#投稿与我相关的视频内容，可同步参与Vsinger创作激励计划的瓜分以外；\n还将从大家投稿的作品中选出三份优质稿件各送出2000元的创作激励金~\n\n5月21日，天依还有新歌带给大家哦，敬请期待[洛天依蝶变_发射爱心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#5.21爱依日#",
+        "url": "https://search.bilibili.com/all?keyword=5.21%E7%88%B1%E4%BE%9D%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": " \n在所有的时光里，我永远爱你。\n但爱意绵长，值得在一个特殊的日子，落笔纪念。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n5月15日-5月25日，开启"
+      },
+      {
+        "type": "topic",
+        "text": "#5.21爱依日#",
+        "url": "https://search.bilibili.com/all?keyword=5.21%E7%88%B1%E4%BE%9D%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": "特别创作征集激励活动！\n带话题"
+      },
+      {
+        "type": "topic",
+        "text": "#5.21爱依日#",
+        "url": "https://search.bilibili.com/all?keyword=5.21%E7%88%B1%E4%BE%9D%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": "投稿与我相关的视频内容，可同步参与Vsinger创作激励计划的瓜分以外；\n还将从大家投稿的作品中选出三份优质稿件各送出2000元的创作激励金~\n\n5月21日，天依还有新歌带给大家哦，敬请期待"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/faf0e14221dcea0b5d4b403d0dbf363136081646.jpg",
+        "width": 1600,
+        "height": 1880,
+        "size_kb": 2131.173828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6255,
+    "comment": 251,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

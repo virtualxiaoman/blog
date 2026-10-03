@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1205200112866820117",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1205200112866820117",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月22日",
+    "pub_ts": 1779445918,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一曲关于山河、盛世与少年热血的长歌",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一曲关于山河、盛世与少年热血的长歌"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“受天命伐四方 览不尽盛世无双”洛天依原创曲《破天光》【国乐季·鼓乐篇】",
+      "desc": "循着西安鼓乐的历史脉搏，感受千年之前的盛世长安\n甲士列阵、万骑奔腾；铁衣映霜、旌旂猎猎\n三声击鼓，击出的是山河气魄、英雄意气\n是一曲关于山河、盛世与少年热血的长歌\n \n【天依游学记·歌行国乐季】鼓乐篇原创单曲《破天光》\n作词:冥凰\n作曲:邓强中\n编曲:1AN孙毅然\n调教:坐标P\n制作人:邓强中@乐人无数\n吉他:BB刘子豪\n笛子:赵崔泽昊\n曲绘：鸮-SIGMA/0X3/羽蛇\n和声:彭浩楷/杨若晨\n人声编辑:王飞@乐人无数\n混音&母带:罗文Rown@乐人无数\n音乐总监:李建衡@乐人无数\n音乐监制:TENKO/",
+      "jump_url": "https://www.bilibili.com/video/BV1XRG46YEYN",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/2221727586b1e171eaa1ef8b54f967d2fcbfe1bc.jpg",
+      "cover_file": "../../_assets/covers/2026-05-22_1.jpg",
+      "bvid": "BV1XRG46YEYN",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1XRG46YEYN",
+        "aid": "116617757330266",
+        "cover": "http://i1.hdslb.com/bfs/archive/2221727586b1e171eaa1ef8b54f967d2fcbfe1bc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1XRG46YEYN",
+        "stat": {
+          "danmaku": "1404",
+          "play": "42.4万",
+          "vt": ""
+        },
+        "duration_text": "03:34",
+        "title": "“受天命伐四方 览不尽盛世无双”洛天依原创曲《破天光》【国乐季·鼓乐篇】",
+        "desc": "循着西安鼓乐的历史脉搏，感受千年之前的盛世长安\n甲士列阵、万骑奔腾；铁衣映霜、旌旂猎猎\n三声击鼓，击出的是山河气魄、英雄意气\n是一曲关于山河、盛世与少年热血的长歌\n \n【天依游学记·歌行国乐季】鼓乐篇原创单曲《破天光》\n作词:冥凰\n作曲:邓强中\n编曲:1AN孙毅然\n调教:坐标P\n制作人:邓强中@乐人无数\n吉他:BB刘子豪\n笛子:赵崔泽昊\n曲绘：鸮-SIGMA/0X3/羽蛇\n和声:彭浩楷/杨若晨\n人声编辑:王飞@乐人无数\n混音&母带:罗文Rown@乐人无数\n音乐总监:李建衡@乐人无数\n音乐监制:TENKO/",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 40195,
+    "comment": 2146,
+    "forward": 286
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

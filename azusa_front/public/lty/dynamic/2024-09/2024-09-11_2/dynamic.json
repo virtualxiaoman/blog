@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "975737782801530883",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/975737782801530883",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月11日",
+    "pub_ts": 1726020056,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "岁岁当秋半，人人待月明。\n又是一年中秋佳节时，9月16日19:30，天依在哔哩哔哩中秋漫游夜等大家，不见不散哦～[心律共鸣动态表情包_真好]\n#洛天依# #中秋漫游夜定档0916# #中秋漫游夜#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "岁岁当秋半，人人待月明。\n又是一年中秋佳节时，9月16日19:30，天依在哔哩哔哩中秋漫游夜等大家，不见不散哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#中秋漫游夜定档0916#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%A7%8B%E6%BC%AB%E6%B8%B8%E5%A4%9C%E5%AE%9A%E6%A1%A30916"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#中秋漫游夜#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%A7%8B%E6%BC%AB%E6%B8%B8%E5%A4%9C"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fb8d59b58da34ef07e9a03b67a697cd936081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1808.7099609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：一起来看B站中秋漫游夜！",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：一起来看B站中秋漫游夜！",
+        "desc1": {
+          "text": "2024-09-16 19:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "20.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4069477,
+        "reserve_total": 203866,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "1470515198"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6488,
+    "comment": 293,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1005532662395306002",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1005532662395306002",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月30日",
+    "pub_ts": 1732957217,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "或许在某处时光的罅隙里，你也想听听，这些动听的歌谣~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "或许在某处时光的罅隙里，你也想听听，这些动听的歌谣~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第十五期· 小憩 | 用歌声铭刻彼此陪伴的每时每刻",
+      "desc": "或许在某处时光的罅隙里，你也想听听，这些动听的歌谣~\n天依唱片机第十五期来啦！感谢老师们的创作与授权❤\n壁纸画师：雨陌\n\n♪本期歌单\n1.恋爱色魔法\n作曲/编曲： HoneyWorks 作词：Key-光玉 调校：哈士奇P\n2.圆圈之外@鸽稀拉  \n作曲/编曲： 公兔（鸽稀拉） 作词：棠霜 调校：MACHWOLF\n3.我的猫狂奔了一整夜@Evalia-爱娃  \n作曲/编曲/作词： Evalia 调校：Creuzer\n4.社畜烧酒@YuH_ChiliChill  \n作曲/编曲/作词/调校：ChiliChill",
+      "jump_url": "https://www.bilibili.com/video/BV1YtzrYVEnV",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/6f7db8e5995a049c6a263c43556e2480bea84525.jpg",
+      "cover_file": "../../_assets/covers/2024-11-30_1.jpg",
+      "bvid": "BV1YtzrYVEnV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YtzrYVEnV",
+        "aid": "113566535451286",
+        "cover": "http://i0.hdslb.com/bfs/archive/6f7db8e5995a049c6a263c43556e2480bea84525.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YtzrYVEnV",
+        "stat": {
+          "danmaku": "729",
+          "play": "11.8万",
+          "vt": ""
+        },
+        "duration_text": "47:50",
+        "title": "【天依唱片机】第十五期· 小憩 | 用歌声铭刻彼此陪伴的每时每刻",
+        "desc": "或许在某处时光的罅隙里，你也想听听，这些动听的歌谣~\n天依唱片机第十五期来啦！感谢老师们的创作与授权❤\n壁纸画师：雨陌\n\n♪本期歌单\n1.恋爱色魔法\n作曲/编曲： HoneyWorks 作词：Key-光玉 调校：哈士奇P\n2.圆圈之外@鸽稀拉  \n作曲/编曲： 公兔（鸽稀拉） 作词：棠霜 调校：MACHWOLF\n3.我的猫狂奔了一整夜@Evalia-爱娃  \n作曲/编曲/作词： Evalia 调校：Creuzer\n4.社畜烧酒@YuH_ChiliChill  \n作曲/编曲/作词/调校：ChiliChill",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18429,
+    "comment": 1041,
+    "forward": 145
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

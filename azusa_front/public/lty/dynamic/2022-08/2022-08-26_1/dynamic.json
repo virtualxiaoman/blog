@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "698677375433441284",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/698677375433441284",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月26日",
+    "pub_ts": 1661511903,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "人民文娱对话洛天依：十年青春之歌",
+      "desc": "洛天依出道十周年，人民文娱与她独家对话，一起来听听她的青春故事吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1xN4y1c7W6",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b1c50def65685ffbb6598788f94db4268fa3b551.jpg",
+      "cover_file": "../../_assets/covers/2022-08-26_1.jpg",
+      "bvid": "BV1xN4y1c7W6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1xN4y1c7W6",
+        "aid": "899924066",
+        "cover": "http://i1.hdslb.com/bfs/archive/b1c50def65685ffbb6598788f94db4268fa3b551.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xN4y1c7W6",
+        "stat": {
+          "danmaku": "744",
+          "play": "22.9万",
+          "vt": ""
+        },
+        "duration_text": "02:11",
+        "title": "人民文娱对话洛天依：十年青春之歌",
+        "desc": "洛天依出道十周年，人民文娱与她独家对话，一起来听听她的青春故事吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 38085,
+    "comment": 1131,
+    "forward": 24
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

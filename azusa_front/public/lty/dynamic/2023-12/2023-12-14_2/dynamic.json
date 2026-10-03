@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "874963105390526501",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/874963105390526501",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月14日",
+    "pub_ts": 1702556623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家还喜欢嘛？歌曲已经准备完毕啦！天依还在努力为大家带来更好的MV效果[洛天依幻游世界_我就要浪]，感谢小伙伴们的耐心等待，天依将从这条转发里揪一个小伙伴送出【洛天依音乐印记 第一乐章 燃 手办】1个 ~[古色花香洛天依_亲亲mua]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家还喜欢嘛？歌曲已经准备完毕啦！天依还在努力为大家带来更好的MV效果"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_我就要浪]",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "name": "我就要浪",
+        "url": "https://i0.hdslb.com/bfs/garb/item/1f7ad55271e26aedbb481ed5159a85025d04e568.png"
+      },
+      {
+        "type": "text",
+        "text": "，感谢小伙伴们的耐心等待，天依将从这条转发里揪一个小伙伴送出【洛天依音乐印记 第一乐章 燃 手办】1个 ~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/我就要浪.png",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "text": "[洛天依幻游世界_我就要浪]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4638,
+    "comment": 758,
+    "forward": 1172
+  },
+  "forward": {
+    "orig_id": 874953115322810434,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-12-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

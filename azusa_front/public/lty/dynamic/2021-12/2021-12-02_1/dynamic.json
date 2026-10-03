@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "599574582669802813",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/599574582669802813",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月2日",
+    "pub_ts": 1638437736,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 趁着休息的时间，编了一个填词游戏[洛天依·夜航星_摸摸] 虽然比较形式老套，但还是非常期待大家的天马行空的想法！ 我已经准备好看故事啦！ 到时我会在参与互动的小伙伴中揪三个“脑洞王”，送出我的秘境花庭系列立牌一个哦[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 趁着休息的时间，编了一个填词游戏"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": " 虽然比较形式老套，但还是非常期待大家的天马行空的想法！ 我已经准备好看故事啦！ 到时我会在参与互动的小伙伴中揪三个“脑洞王”，送出我的秘境花庭系列立牌一个哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-02_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/cfe2fd54b339fdd943293802863104dda736ec53.png",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 2217.1298828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5926,
+    "comment": 476,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:39:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "946980412641509415",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/946980412641509415",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月25日",
+    "pub_ts": 1719324459,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依 X 2024 ChinaJoy 联名主题门票套装来啦！\n和天依一起踏上梦幻般的星际之旅，感受无尽的浪漫与神秘~[代号洛天依_点赞]\n\n“星际探索主题门票套装”\n🪐开售时间：7月2日\n🪐套装周边：徽章、镭射票、立牌、色纸\n🪐获取方式：“CJ魔方”小程序或ChinaJoy官方APP\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 X 2024 ChinaJoy 联名主题门票套装来啦！\n和天依一起踏上梦幻般的星际之旅，感受无尽的浪漫与神秘~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_点赞]",
+        "package_id": "1842",
+        "emoji_id": "32132",
+        "name": "点赞",
+        "url": "https://i0.hdslb.com/bfs/emote/59ce71f95d3c5d1061ecc053686769f10af8fe07.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“星际探索主题门票套装”\n🪐开售时间：7月2日\n🪐套装周边：徽章、镭射票、立牌、色纸\n🪐获取方式：“CJ魔方”小程序或ChinaJoy官方APP"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0cd52d329a14ec21138e110f361a059936081646.jpg",
+        "width": 1000,
+        "height": 2749,
+        "size_kb": 1459.150390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/点赞.png",
+        "package_id": "1842",
+        "emoji_id": "32132",
+        "text": "[代号洛天依_点赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5552,
+    "comment": 202,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

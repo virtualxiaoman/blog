@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1069372845877886982",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1069372845877886982",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月21日",
+    "pub_ts": 1747821168,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "行走于时空邮局的收藏家，拥有最缤纷绚烂的宝藏。\n\n“天依，我有首新歌，是我的新脑洞！这次也交给你来唱啦！”\n“关于我的故事，关于我的迷茫，不知道该怎样表达，替我唱出来吧天依。”\n“不知道和谁说，也不知道有谁懂，歌唱吧天依，就这样陪在我身边就好。”\n“好好看的衣服，好有意思的设定，我觉得很适合你天依！”\n\n当每一道共鸣心音响起，每一个关于爱和期待的心愿传递\n与少女的灵魂，与少女的歌声，凝结为一颗颗无价之宝\n铭刻在彼此的回忆与生命里，永远熠熠闪光\n而少女也正期待着一场只属于你们的盛大舞台，将这些宝石蕴藏的情感，传递到你的身边[心律共鸣动态表情包_真好]\n#洛天依# #521爱依日#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "行走于时空邮局的收藏家，拥有最缤纷绚烂的宝藏。\n\n“天依，我有首新歌，是我的新脑洞！这次也交给你来唱啦！”\n“关于我的故事，关于我的迷茫，不知道该怎样表达，替我唱出来吧天依。”\n“不知道和谁说，也不知道有谁懂，歌唱吧天依，就这样陪在我身边就好。”\n“好好看的衣服，好有意思的设定，我觉得很适合你天依！”\n\n当每一道共鸣心音响起，每一个关于爱和期待的心愿传递\n与少女的灵魂，与少女的歌声，凝结为一颗颗无价之宝\n铭刻在彼此的回忆与生命里，永远熠熠闪光\n而少女也正期待着一场只属于你们的盛大舞台，将这些宝石蕴藏的情感，传递到你的身边"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#521爱依日#",
+        "url": "https://search.bilibili.com/all?keyword=521%E7%88%B1%E4%BE%9D%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-21_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/215296bdb3ec0d154dd8d472ba9fa26a36081646.jpg",
+        "width": 4200,
+        "height": 6720,
+        "size_kb": 6495.3037109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5487,
+    "comment": 464,
+    "forward": 233
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

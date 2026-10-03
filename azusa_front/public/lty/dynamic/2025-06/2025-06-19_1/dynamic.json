@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1080043473050009765",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1080043473050009765",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月19日",
+    "pub_ts": 1750305617,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "毕业快乐！洛天依《我们都很棒》2025毕业歌",
+      "desc": "“青春只管疯长，生命自有方向”\n\n天依也翻唱了今年的毕业歌~\n祝已经毕业的你，毕业快乐\n祝即将毕业的你，自由生长\n活在这一刻，不被明天命名\n\n演唱：洛天依\n原唱：宋雨琦BV18uMuz2EYj\n作词：黄少峰@火星电台/薛晨\n作曲：黄少峰@火星电台\n调校：莫米兔\n画师：kaka\n混音：徐天鸿@Studio21A\n视频：纸鸢",
+      "jump_url": "https://www.bilibili.com/video/BV1P9NEzoE5o",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b521265d90313f6a6128eff114f1326acf715218.jpg",
+      "cover_file": "../../_assets/covers/2025-06-19_1.jpg",
+      "bvid": "BV1P9NEzoE5o",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1P9NEzoE5o",
+        "aid": "114704064188304",
+        "cover": "http://i1.hdslb.com/bfs/archive/b521265d90313f6a6128eff114f1326acf715218.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1P9NEzoE5o",
+        "stat": {
+          "danmaku": "714",
+          "play": "60.9万",
+          "vt": ""
+        },
+        "duration_text": "03:55",
+        "title": "毕业快乐！洛天依《我们都很棒》2025毕业歌",
+        "desc": "“青春只管疯长，生命自有方向”\n\n天依也翻唱了今年的毕业歌~\n祝已经毕业的你，毕业快乐\n祝即将毕业的你，自由生长\n活在这一刻，不被明天命名\n\n演唱：洛天依\n原唱：宋雨琦BV18uMuz2EYj\n作词：黄少峰@火星电台/薛晨\n作曲：黄少峰@火星电台\n调校：莫米兔\n画师：kaka\n混音：徐天鸿@Studio21A\n视频：纸鸢",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30917,
+    "comment": 1003,
+    "forward": 187
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

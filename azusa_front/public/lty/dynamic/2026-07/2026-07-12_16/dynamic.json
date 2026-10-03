@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224148692550811649",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224148692550811649",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783857728,
+    "location": ""
+  },
+  "topic": {
+    "id": 1338922,
+    "name": "BML-PLAY！2026",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1338922&topic_name=BML-PLAY%EF%BC%812026"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "请查收舞会邀请函，与洛天依共赴一场《不眠之夜》【BML-PLAY! 2026】",
+      "desc": "流光溢彩的夜色下，记忆化作梦的开场白，\n而时间，始终静候着下一次重逢。\n忘记时间，来梦的派对。\n愿我们在下一场那夜的梦中，再次相会~\n\n《不眠之夜》\n演唱：洛天依\n原唱：张杰\n作词：李崎/往人不识\n作曲：王可鑫Eli.W(HOYO-MiX)\n编曲：崔瀚普TSAR(HOYO-MiX)",
+      "jump_url": "https://www.bilibili.com/video/BV1RrTd6TEte",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/fdaa92ddf64009fbc300c2096a4ba26908f0e038.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_12.jpg",
+      "bvid": "BV1RrTd6TEte",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1RrTd6TEte",
+        "aid": "116873693760400",
+        "cover": "http://i1.hdslb.com/bfs/archive/fdaa92ddf64009fbc300c2096a4ba26908f0e038.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1RrTd6TEte",
+        "stat": {
+          "danmaku": "1776",
+          "play": "122.3万",
+          "vt": ""
+        },
+        "duration_text": "02:21",
+        "title": "请查收舞会邀请函，与洛天依共赴一场《不眠之夜》【BML-PLAY! 2026】",
+        "desc": "流光溢彩的夜色下，记忆化作梦的开场白，\n而时间，始终静候着下一次重逢。\n忘记时间，来梦的派对。\n愿我们在下一场那夜的梦中，再次相会~\n\n《不眠之夜》\n演唱：洛天依\n原唱：张杰\n作词：李崎/往人不识\n作曲：王可鑫Eli.W(HOYO-MiX)\n编曲：崔瀚普TSAR(HOYO-MiX)",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 118139,
+    "comment": 2736,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

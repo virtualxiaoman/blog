@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "596657204661370508",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/596657204661370508",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月24日",
+    "pub_ts": 1637758481,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 晚上好呀~ 送你一个特别的水晶球，喜欢吗？[洛天依_害羞]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 晚上好呀~ 送你一个特别的水晶球，喜欢吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-11-24_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/216424da31b94d2ea94e67593d4dfa0c640711e0.png",
+        "width": 737,
+        "height": 742,
+        "size_kb": 400.1499938964844,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9987,
+    "comment": 352,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

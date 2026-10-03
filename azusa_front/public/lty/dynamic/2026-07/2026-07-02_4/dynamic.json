@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "1220376955351728137",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1220376955351728137",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月2日",
+    "pub_ts": 1782979552,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·成都站\n演出歌曲预告&城市限定歌曲 抢先看——\n\n🦋部分演出歌曲\n《反乌托邦Pt.2》\n《乐鸣东方》\n\n🦋城市限定歌曲\n《玛德琳娜电塔》\n\n🦋演出时间&场地\n8月1日 19:12 成都·金融城演艺中心\n\n🦋全面开售时间\n7月4日 19:00\n\n有没有感到很惊喜呀？天依努力准备了好多新舞台~\n一起期待正式相见的那一天吧！[逆转童话动态_结婚]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·成都站\n演出歌曲预告&城市限定歌曲 抢先看——\n\n🦋部分演出歌曲\n《反乌托邦Pt.2》\n《乐鸣东方》\n\n🦋城市限定歌曲\n《玛德琳娜电塔》\n\n🦋演出时间&场地\n8月1日 19:12 成都·金融城演艺中心\n\n🦋全面开售时间\n7月4日 19:00\n\n有没有感到很惊喜呀？天依努力准备了好多新舞台~\n一起期待正式相见的那一天吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-02_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/aa3dad15e2775a04638ff9b356517f2b36081646.jpg",
+        "width": 1080,
+        "height": 3615,
+        "size_kb": 4010.080078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "成都·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202607/1QXOttg41782964223_1782964223702.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003172&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1220376955351728137",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-02_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3974,
+    "comment": 162,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:26:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "846723661070073873",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/846723661070073873",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月29日",
+    "pub_ts": 1695981615,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "中秋之夜的狼人少女会梦到什么呢？\n嘿嘿，会梦到大胜利！以及......\n一个大家永远永远在我身边的美梦~[洛天依_晚安]\n今昔良夜，花好月圆，愿年年岁岁，有你相伴[洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "中秋之夜的狼人少女会梦到什么呢？\n嘿嘿，会梦到大胜利！以及......\n一个大家永远永远在我身边的美梦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_晚安]",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "name": "晚安",
+        "url": "http://i0.hdslb.com/bfs/emote/90d545932788169efa102df5bb23a6ef187d90d5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今昔良夜，花好月圆，愿年年岁岁，有你相伴"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-29_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/5d23db7c335317f4d41405f8eab3653736081646.jpg",
+        "width": 5000,
+        "height": 2779,
+        "size_kb": 6876.4501953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-29_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/13d98802e437adffcf47de7e508c1ed936081646.jpg",
+        "width": 1354,
+        "height": 1354,
+        "size_kb": 214.27000427246094,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-09-29_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/52eb33a20e91e79b4affce8375db2da036081646.jpg",
+        "width": 1418,
+        "height": 1418,
+        "size_kb": 246.16000366210938,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/晚安.png",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "text": "[洛天依_晚安]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6715,
+    "comment": 389,
+    "forward": 113
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

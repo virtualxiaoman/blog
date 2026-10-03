@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "976891398170083330",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/976891398170083330",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月14日",
+    "pub_ts": 1726288653,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "领航员小洛前来报道！\n洛天依「歌行宇宙领航员 Ver.」模型完成配布啦！\n欢迎大家下载和创作，期待大家带小领航员天依去探索宇宙之外的无限风景～[心律共鸣动态表情包_真好]\n\n🪐下载传送门：http://t.cn/A6RdW18j\n🎫展览门票：http://t.cn/A6RG7Jz6 ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "领航员小洛前来报道！\n洛天依「歌行宇宙领航员 Ver.」模型完成配布啦！\n欢迎大家下载和创作，期待大家带小领航员天依去探索宇宙之外的无限风景～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪐下载传送门："
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6RdW18j"
+      },
+      {
+        "type": "text",
+        "text": "\n🎫展览门票："
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6RG7Jz6"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依「歌行宇宙领航员 Ver.」模型完成配布啦！欢迎大家下载和创作～",
+      "desc": "领航员小洛前来报道！\n洛天依「歌行宇宙领航员 Ver.」模型完成配布啦！\n欢迎大家下载和创作，期待大家带小领航员天依去探索宇宙之外的无限风景～[心律共鸣动态表情包_真好]\n\n🪐下载传送门：http://t.cn/A6RdW18j\n🎫展览门票：http://t.cn/A6RG7Jz6",
+      "jump_url": "https://www.bilibili.com/video/BV16EtNeVEdP",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/489f051612b119d62e2c671ecfa62129c89ea36d.jpg",
+      "cover_file": "../../_assets/covers/2024-09-14_1.jpg",
+      "bvid": "BV16EtNeVEdP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV16EtNeVEdP",
+        "aid": "113134035534239",
+        "cover": "http://i0.hdslb.com/bfs/archive/489f051612b119d62e2c671ecfa62129c89ea36d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV16EtNeVEdP",
+        "stat": {
+          "danmaku": "117",
+          "play": "7.1万",
+          "vt": ""
+        },
+        "duration_text": "00:13",
+        "title": "洛天依「歌行宇宙领航员 Ver.」模型完成配布啦！欢迎大家下载和创作～",
+        "desc": "领航员小洛前来报道！\n洛天依「歌行宇宙领航员 Ver.」模型完成配布啦！\n欢迎大家下载和创作，期待大家带小领航员天依去探索宇宙之外的无限风景～[心律共鸣动态表情包_真好]\n\n🪐下载传送门：http://t.cn/A6RdW18j\n🎫展览门票：http://t.cn/A6RG7Jz6",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19191,
+    "comment": 602,
+    "forward": 125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "798890567595458609",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/798890567595458609",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月23日",
+    "pub_ts": 1684844605,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "报告！天依虽迟但到~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "报告！天依虽迟但到~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依AI日语】极乐净土【报告！天依虽迟但到~】",
+      "desc": "恰逢小美的《极乐净土》热潮重新袭来，加上天依我的AI声库也迎来了日语版本的更新，当然要浅跳+浅唱一下啦！\n好像确实有点晚了，咳咳！就当继承了墨姐的反射弧好了！\n\n原唱：MARiA_GARNiDELiA\n原作：BV1HM4y1b79Z\n调校：鬼面P\n混音：虎皮猫P",
+      "jump_url": "https://www.bilibili.com/video/BV1Lh4y1o7hA",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/3e7303fa100882fead583643ab4623fd0aedf34c.jpg",
+      "cover_file": "../../_assets/covers/2023-05-23_1.jpg",
+      "bvid": "BV1Lh4y1o7hA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Lh4y1o7hA",
+        "aid": "656472344",
+        "cover": "http://i2.hdslb.com/bfs/archive/3e7303fa100882fead583643ab4623fd0aedf34c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Lh4y1o7hA",
+        "stat": {
+          "danmaku": "237",
+          "play": "26.8万",
+          "vt": ""
+        },
+        "duration_text": "01:01",
+        "title": "【洛天依AI日语】极乐净土【报告！天依虽迟但到~】",
+        "desc": "恰逢小美的《极乐净土》热潮重新袭来，加上天依我的AI声库也迎来了日语版本的更新，当然要浅跳+浅唱一下啦！\n好像确实有点晚了，咳咳！就当继承了墨姐的反射弧好了！\n\n原唱：MARiA_GARNiDELiA\n原作：BV1HM4y1b79Z\n调校：鬼面P\n混音：虎皮猫P",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 42664,
+    "comment": 1160,
+    "forward": 171
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

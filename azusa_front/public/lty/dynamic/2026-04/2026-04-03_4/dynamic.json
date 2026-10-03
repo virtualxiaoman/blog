@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1187008873381232673",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1187008873381232673",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月3日",
+    "pub_ts": 1775210440,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“大漠聆风，壁画听弦；一声琵琶，梦回千年。”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“大漠聆风，壁画听弦；一声琵琶，梦回千年。”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“我回望绿洲寻你声音”洛天依原创曲《煌》【国乐季·琵琶篇】",
+      "desc": "“大漠聆风，壁画听弦；一声琵琶，梦回千年。”\n【天依游学记·歌行国乐季】琵琶篇原创单曲《煌》\n以反弹琵琶为形，以敦煌古谱为魂，唱一曲大漠风沙里不灭的华章\n丝路古道深处，岁月与风沙无声剥落，却把乐声与色彩藏进了壁画之上\n手心的沙砾回响不尽，指尖的弦音穿越千年\n与天依一起，飞入壁画，聆听古老的弦音在今日，又能鸣奏出怎样的新声吧~\n \n作曲：Lovan\n作词：Lovan\n调教：莫米兔\n编曲：Lovan\n混音：郭子敬\n母带：郭子敬\n音乐监制:林星捷/TENKO\n特别感谢：敦煌文旅\n\n二创素材：https://pa",
+      "jump_url": "https://www.bilibili.com/video/BV13W9KBzE7N",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8a604e6cf67059d7b3efbb89104dd6e636121c5d.jpg",
+      "cover_file": "../../_assets/covers/2026-04-03_3.jpg",
+      "bvid": "BV13W9KBzE7N",
+      "extra": {
+        "type": 1,
+        "bvid": "BV13W9KBzE7N",
+        "aid": "116339725307088",
+        "cover": "http://i1.hdslb.com/bfs/archive/8a604e6cf67059d7b3efbb89104dd6e636121c5d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV13W9KBzE7N",
+        "stat": {
+          "danmaku": "865",
+          "play": "38.1万",
+          "vt": ""
+        },
+        "duration_text": "03:36",
+        "title": "“我回望绿洲寻你声音”洛天依原创曲《煌》【国乐季·琵琶篇】",
+        "desc": "“大漠聆风，壁画听弦；一声琵琶，梦回千年。”\n【天依游学记·歌行国乐季】琵琶篇原创单曲《煌》\n以反弹琵琶为形，以敦煌古谱为魂，唱一曲大漠风沙里不灭的华章\n丝路古道深处，岁月与风沙无声剥落，却把乐声与色彩藏进了壁画之上\n手心的沙砾回响不尽，指尖的弦音穿越千年\n与天依一起，飞入壁画，聆听古老的弦音在今日，又能鸣奏出怎样的新声吧~\n \n作曲：Lovan\n作词：Lovan\n调教：莫米兔\n编曲：Lovan\n混音：郭子敬\n母带：郭子敬\n音乐监制:林星捷/TENKO\n特别感谢：敦煌文旅\n\n二创素材：https://pa",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36859,
+    "comment": 2230,
+    "forward": 267
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

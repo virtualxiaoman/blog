@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "884241248393625604",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/884241248393625604",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月8日",
+    "pub_ts": 1704716859,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“我存在 就是我的一切”[洛天依蝶变_电吉他！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“我存在 就是我的一切”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5592,
+    "comment": 116,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 870117604909383700,
+    "orig_mid": 112428,
+    "deleted": false,
+    "archive_dir": "../../../112428/2023-12/2023-12-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

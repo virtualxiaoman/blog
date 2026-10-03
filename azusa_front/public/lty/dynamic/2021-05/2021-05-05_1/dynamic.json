@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "521173622577808996",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/521173622577808996",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月5日",
+    "pub_ts": 1620183590,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "夏天到了！ 吃西瓜！ 用勺子吃！[洛天依_goodjob]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "夏天到了！ 吃西瓜！ 用勺子吃！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5529,
+    "comment": 252,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 10709453709309418,
+    "orig_mid": 6161559,
+    "deleted": false,
+    "archive_dir": "../../../6161559/2016-05/2016-05-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

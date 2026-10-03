@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "932437928293957640",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/932437928293957640",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月17日",
+    "pub_ts": 1715938523,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "视频更新预告\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "视频更新预告"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/archive/f730f8d02d359258b9a79848963b43350986707b.jpg",
+        "width": 1200,
+        "height": 900,
+        "size_kb": 177.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：“在闪烁星光下相聚吧！”此刻Memories【洛天依XBDF2024十周年主题曲】",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1ds421A7EX",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：“在闪烁星光下相聚吧！”此刻Memories【洛天依XBDF2024十周年主题曲】",
+        "desc1": {
+          "text": "预计2024-05-18 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "85.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1ds421A7EX",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1ds421A7EX",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3759043,
+        "reserve_total": 3006,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4666,
+    "comment": 127,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

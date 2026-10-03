@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1196258635160748032",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1196258635160748032",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月28日",
+    "pub_ts": 1777364068,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小熊领航员来啦！转发关注天依，揪1位小伙伴送出【同款毛绒玩偶】1个~[歌行宇宙表情包_歌行宇宙]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小熊领航员来啦！转发关注天依，揪1位小伙伴送出【同款毛绒玩偶】1个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_歌行宇宙]",
+        "package_id": "5880",
+        "emoji_id": "86895",
+        "name": "歌行宇宙",
+        "url": "https://i0.hdslb.com/bfs/garb/c115b67cc7a00d1b727ffbbe3bc5e8e4fdc6a4ba.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/歌行宇宙.png",
+        "package_id": "5880",
+        "emoji_id": "86895",
+        "text": "[歌行宇宙表情包_歌行宇宙]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5579,
+    "comment": 327,
+    "forward": 1583
+  },
+  "forward": {
+    "orig_id": 1196223996288303193,
+    "orig_mid": 670763214,
+    "deleted": false,
+    "archive_dir": "../../../670763214/2026-04/2026-04-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "1224426714315096105",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1224426714315096105",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月13日",
+    "pub_ts": 1783922460,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·广州站\n将于7月17日19:00全面开启售票，「广州·宇宙」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~[洛天依·信号动态表情包_快吃]\n\n🪐购票方式\n✧ 会员购 网页链接 \n✧ 大麦\n\n🪐演出时间&场地\n8月29日 19:12 广州·亚运城综合体育馆\n\n🎶巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n星轨交织成未命名的蓝色乐谱，纯蓝魔女自银河深处启程——\n她将亿万光年外的星尘藏进歌声，让每一颗音符都像流星划过天穹\n请跟随我的的星轨航迹，飞入这场由星辰与旋律编织的无垠幻境，与天依一起，在宇宙中漫游吧~ [洛天依·信号动态表情包_逃离地球]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·广州站\n将于7月17日19:00全面开启售票，「广州·宇宙」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_快吃]",
+        "package_id": "10075",
+        "emoji_id": "142968",
+        "name": "快吃",
+        "url": "https://i0.hdslb.com/bfs/garb/c1f4502acca7a9134d036a3af81c544c092b2595.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪐购票方式\n✧ 会员购 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003717"
+      },
+      {
+        "type": "text",
+        "text": " \n✧ 大麦\n\n🪐演出时间&场地\n8月29日 19:12 广州·亚运城综合体育馆\n\n🎶巡演城市\n7.18 北京 / 7.25 杭州 / 8.1 成都 / 8.15 上海 / 8.22 长沙 / 8.29 广州\n\n星轨交织成未命名的蓝色乐谱，纯蓝魔女自银河深处启程——\n她将亿万光年外的星尘藏进歌声，让每一颗音符都像流星划过天穹\n请跟随我的的星轨航迹，飞入这场由星辰与旋律编织的无垠幻境，与天依一起，在宇宙中漫游吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_逃离地球]",
+        "package_id": "10075",
+        "emoji_id": "142972",
+        "name": "逃离地球",
+        "url": "https://i0.hdslb.com/bfs/garb/dbb88536488ea80ddb8617958a58b99ac486bf69.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-13_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/84e859505f60b3cf29ee7138f2c99c2136081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 10528.7138671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-13_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/18aa4c42bb609de777501c8e273f8d0a36081646.jpg",
+        "width": 750,
+        "height": 7484,
+        "size_kb": 3955.8623046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/快吃.gif",
+        "package_id": "10075",
+        "emoji_id": "142968",
+        "text": "[洛天依·信号动态表情包_快吃]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/逃离地球.gif",
+        "package_id": "10075",
+        "emoji_id": "142972",
+        "text": "[洛天依·信号动态表情包_逃离地球]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "广州·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202607/500sYBzw1783919702_1783919702600.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003717&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1224426714315096105",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-13_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5651,
+    "comment": 593,
+    "forward": 1638
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

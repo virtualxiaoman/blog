@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "348355756473237099",
+  "type": "DYNAMIC_TYPE_COMMON_SQUARE",
+  "kind": "common",
+  "url": "https://www.bilibili.com/opus/348355756473237099",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月25日",
+    "pub_ts": 1579946295,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天高海阔盛世飞扬，再谱十万章(⑅ōᴗō)۶！！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天高海阔盛世飞扬，再谱十万章(⑅ōᴗō)۶！！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "common",
+      "title": "万古生香【2020拜年祭单品】",
+      "desc": "万古千秋，代代有玲珑气象。\n风云史往，页页赋秀骨生香。",
+      "jump_url": "https://www.bilibili.com/video/av78977256/?share_source=bili&share_medium=web&bbid=DBB483DB-828C-4DE9-B4AC-4ED8AFFA1F6D190946infoc&ts=1579946231242",
+      "cover_url": "https://i0.hdslb.com/bfs/archive/38970300ed66bfdf787ee01af3ece91cab622b12.jpg",
+      "cover_file": "../../_assets/covers/2020-01-25_1.jpg",
+      "bvid": "",
+      "extra": {
+        "id": "348355756492864404",
+        "jump_url": "https://www.bilibili.com/video/av78977256/?share_source=bili&share_medium=web&bbid=DBB483DB-828C-4DE9-B4AC-4ED8AFFA1F6D190946infoc&ts=1579946231242",
+        "cover": "https://i0.hdslb.com/bfs/archive/38970300ed66bfdf787ee01af3ece91cab622b12.jpg",
+        "title": "万古生香【2020拜年祭单品】",
+        "desc": "万古千秋，代代有玲珑气象。\n风云史往，页页赋秀骨生香。",
+        "label": "",
+        "biz_type": "3",
+        "biz_id": "0",
+        "sketch_id": "348355756473175619",
+        "badge": {
+          "icon_url": "",
+          "text": "",
+          "bg_color": "",
+          "color": ""
+        },
+        "style": 1
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7458,
+    "comment": 286,
+    "forward": 37
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

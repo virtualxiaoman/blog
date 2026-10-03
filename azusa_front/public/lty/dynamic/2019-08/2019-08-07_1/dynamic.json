@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "284885223694973385",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/284885223694973385",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年8月7日",
+    "pub_ts": 1565168410,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #陪你过七夕# 想要带天依去哪玩呀？ 画师：TID\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#陪你过七夕#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E4%BD%A0%E8%BF%87%E4%B8%83%E5%A4%95"
+      },
+      {
+        "type": "text",
+        "text": " 想要带天依去哪玩呀？ 画师：TID"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-08-07_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/48e8e439c5c48d58d7a53ef129febb665b6066d1.png",
+        "width": 1250,
+        "height": 2000,
+        "size_kb": 2824.14453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14804,
+    "comment": 1741,
+    "forward": 195
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "1067516363430428710",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1067516363430428710",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月16日",
+    "pub_ts": 1747388922,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很高兴受邀参加韩国首尔ISEGYE FESTIVAL异世界音乐节，带来了五首歌曲演出~[歌行宇宙表情包_降临]\n即使跨越语言，天依也期待并相信着，音乐的力量可以同样传递给每一个人！\n期待在我们的舞台和大家相见~！[歌行宇宙表情包_mua]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴受邀参加韩国首尔ISEGYE FESTIVAL异世界音乐节，带来了五首歌曲演出~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_降临]",
+        "package_id": "5880",
+        "emoji_id": "86906",
+        "name": "降临",
+        "url": "https://i0.hdslb.com/bfs/garb/6d87251d0caa8b18ff773691509e23bb8770ab46.png"
+      },
+      {
+        "type": "text",
+        "text": "\n即使跨越语言，天依也期待并相信着，音乐的力量可以同样传递给每一个人！\n期待在我们的舞台和大家相见~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/降临.png",
+        "package_id": "5880",
+        "emoji_id": "86906",
+        "text": "[歌行宇宙表情包_降临]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "很高兴受邀参加韩国首尔ISEGYE FESTIVAL异世界音乐节",
+      "desc": "天依很高兴受邀参加韩国首尔ISEGYE FESTIVAL异世界音乐节，带来了五首歌曲演出~\n即使跨越语言，天依也期待并相信着，音乐的力量可以同样传递给每一个人！\n期待在我们的舞台和大家相见~！",
+      "jump_url": "https://www.bilibili.com/video/BV1YkEtzAEb9",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1385560afd90d58bcc9164bd00327e33451acbc6.jpg",
+      "cover_file": "../../_assets/covers/2025-05-16_1.jpg",
+      "bvid": "BV1YkEtzAEb9",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YkEtzAEb9",
+        "aid": "114516864009903",
+        "cover": "http://i0.hdslb.com/bfs/archive/1385560afd90d58bcc9164bd00327e33451acbc6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YkEtzAEb9",
+        "stat": {
+          "danmaku": "74",
+          "play": "5.5万",
+          "vt": ""
+        },
+        "duration_text": "00:21",
+        "title": "很高兴受邀参加韩国首尔ISEGYE FESTIVAL异世界音乐节",
+        "desc": "天依很高兴受邀参加韩国首尔ISEGYE FESTIVAL异世界音乐节，带来了五首歌曲演出~\n即使跨越语言，天依也期待并相信着，音乐的力量可以同样传递给每一个人！\n期待在我们的舞台和大家相见~！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14334,
+    "comment": 775,
+    "forward": 87
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

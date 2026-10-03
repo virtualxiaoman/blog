@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1230394745333743633",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1230394745333743633",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月29日",
+    "pub_ts": 1785312000,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2026洛天依大型原创音乐征集活动\n——「闪耀的Producer 2」人设立绘档案公开⚡\n\n心之旋律的收藏家，代号「Muse Angel」\n她收集所有散落的声音，记录每一缕内心的旋律\n那些难以诉之于口的情绪，那些千奇百怪的幻想\n请肆意藉由她的歌声绽放，让世界听到你的回响\n亲爱的Producer，你已被锁定！选择我成为你的singer吧~[洛天依·信号动态表情包_love之力]\n\n⚡闪耀的Producer第二季将于7月30日正式开启——[洛天依·信号动态表情包_打电话]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2026洛天依大型原创音乐征集活动\n——「闪耀的Producer 2」人设立绘档案公开⚡\n\n心之旋律的收藏家，代号「Muse Angel」\n她收集所有散落的声音，记录每一缕内心的旋律\n那些难以诉之于口的情绪，那些千奇百怪的幻想\n请肆意藉由她的歌声绽放，让世界听到你的回响\n亲爱的Producer，你已被锁定！选择我成为你的singer吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⚡闪耀的Producer第二季将于7月30日正式开启——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_打电话]",
+        "package_id": "10075",
+        "emoji_id": "142966",
+        "name": "打电话",
+        "url": "https://i0.hdslb.com/bfs/garb/c9fffffedc8810867acd7096014ac1b8357e86a7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-29_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6df03b9a886145ef3b6f70205e4123ff36081646.png",
+        "width": 900,
+        "height": 1200,
+        "size_kb": 1166.46484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-29_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/367ed1a1eba97e1e9a3d1326845155b036081646.png",
+        "width": 900,
+        "height": 3411,
+        "size_kb": 1888.9541015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/打电话.gif",
+        "package_id": "10075",
+        "emoji_id": "142966",
+        "text": "[洛天依·信号动态表情包_打电话]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4420,
+    "comment": 147,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

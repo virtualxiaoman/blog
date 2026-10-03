@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "815962972145844289",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/815962972145844289",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月8日",
+    "pub_ts": 1688819584,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好耶！预祝BW圆满举办~[古色花香洛天依_突然冒出]抽我抽我[古色花香洛天依_请你吃包子]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好耶！预祝BW圆满举办~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_突然冒出]",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "name": "突然冒出",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ae3f32ed6678677c8c0ed3812b10b81571e0c68.png"
+      },
+      {
+        "type": "text",
+        "text": "抽我抽我"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_请你吃包子]",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "name": "请你吃包子",
+        "url": "https://i0.hdslb.com/bfs/garb/item/bd7d7eafe538d8c7c0670bb7e00b7a906ca7b66e.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/突然冒出.png",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "text": "[古色花香洛天依_突然冒出]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/请你吃包子.png",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "text": "[古色花香洛天依_请你吃包子]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5676,
+    "comment": 179,
+    "forward": 186
+  },
+  "forward": {
+    "orig_id": 815832168923136055,
+    "orig_mid": 35365327,
+    "deleted": false,
+    "archive_dir": "../../../35365327/2023-07/2023-07-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:55:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

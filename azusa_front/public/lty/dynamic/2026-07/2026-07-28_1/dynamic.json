@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1229946350755381266",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1229946350755381266",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月28日",
+    "pub_ts": 1785207600,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n成都站·官方周边场贩活动情报来啦，成都站的大家看过来📢——\n成都站巡演限定场贩将以【Manverse漫游宇宙】小程序提前下单的形式进行售卖\n转发关注天依，揪1位小伙伴送出【成都场贩礼盒】1份~[洛天依·信号动态表情包_love之力]\n\n⏰线上预购开放时段：7月28日12:00-8月1日19:00\n\n✨“自提订单”下单与核销领取\n下单时段：7月28日12:00-8月1日17:00\n核销领取时段：8月1日17:00-19:00\n\n✨“邮寄订单”下单与核销\n下单时段：7月28日12:00-8月1日20:30\n核销领取时段：8月1日17:00-20:30\n\n关于场贩的详细规则和注意事项，请小伙伴们仔细查看长图哦！ [洛天依·信号动态表情包_赞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n成都站·官方周边场贩活动情报来啦，成都站的大家看过来📢——\n成都站巡演限定场贩将以【Manverse漫游宇宙】小程序提前下单的形式进行售卖\n转发关注天依，揪1位小伙伴送出【成都场贩礼盒】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⏰线上预购开放时段：7月28日12:00-8月1日19:00\n\n✨“自提订单”下单与核销领取\n下单时段：7月28日12:00-8月1日17:00\n核销领取时段：8月1日17:00-19:00\n\n✨“邮寄订单”下单与核销\n下单时段：7月28日12:00-8月1日20:30\n核销领取时段：8月1日17:00-20:30\n\n关于场贩的详细规则和注意事项，请小伙伴们仔细查看长图哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-28_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/688407167861af43e1e2ecbf2b95397c36081646.png",
+        "width": 859,
+        "height": 9150,
+        "size_kb": 7338.462890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-28_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1275522b22185eb384c05b9cb51758d236081646.png",
+        "width": 859,
+        "height": 6897,
+        "size_kb": 4907.8974609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5173,
+    "comment": 1090,
+    "forward": 1702
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

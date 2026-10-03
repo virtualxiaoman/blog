@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "957703154980356120",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/957703154980356120",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月24日",
+    "pub_ts": 1721821042,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "猎人还是猎物，天真还是疯狂，对手还是伙伴？这场镜面游戏，谁才是最终的赢家？将故事融入歌曲演绎一直都是老师们的拿手创作！大家请多多聆听欣赏呀~[洛·LUO_和善眼神]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "猎人还是猎物，天真还是疯狂，对手还是伙伴？这场镜面游戏，谁才是最终的赢家？将故事融入歌曲演绎一直都是老师们的拿手创作！大家请多多聆听欣赏呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_和善眼神]",
+        "package_id": "4400",
+        "emoji_id": "62223",
+        "name": "和善眼神",
+        "url": "https://i0.hdslb.com/bfs/emote/0fe405c99fadc5617c74aacc3c4b3bb3398ca091.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/和善眼神.png",
+        "package_id": "4400",
+        "emoji_id": "62223",
+        "text": "[洛·LUO_和善眼神]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5673,
+    "comment": 137,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 953255982652194915,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2024-07/2024-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

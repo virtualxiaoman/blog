@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "674184070396117010",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/674184070396117010",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月21日",
+    "pub_ts": 1655809111,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好想好想~好想好想~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好想好想~好想好想~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6331,
+    "comment": 227,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 672669201003970583,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2022-06/2022-06-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:48:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

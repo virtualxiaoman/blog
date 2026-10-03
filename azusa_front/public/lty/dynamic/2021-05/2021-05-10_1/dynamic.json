@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "523159538148435350",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/523159538148435350",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月10日",
+    "pub_ts": 1620645972,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "体会在太空漂浮的感觉[洛天依·夜航星_转运]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "体会在太空漂浮的感觉"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_转运]",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "name": "转运",
+        "url": "http://i0.hdslb.com/bfs/emote/2513203daab74688cea2c9a595e051f53fbcaa94.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/转运.png",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "text": "[洛天依·夜航星_转运]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4487,
+    "comment": 74,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 330588099543647274,
+    "orig_mid": 438335,
+    "deleted": false,
+    "archive_dir": "../../../438335/2019-12/2019-12-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "474571595335084427",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/474571595335084427",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月30日",
+    "pub_ts": 1609333210,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 这是一封来自宇宙的信息： 12月31日晚上8点， 天依的跨年纪念个性装扮将要上线。 预约请走：网页链接 以这次在B站最美的夜演出造型为主题，除了头像挂件、点赞动效、表情包及专属卡片，还有定制的加载动画及进度条图标，希望能和大家一起度过2020的最后一天，迎接那令人充满期待的2021年吧。 茫茫宇宙中，一颗星火航向了希望的黎明，即使前路尽是未知挑战，我们也要抱着信念坚定前进！ 转发这条动态抽5个小伙伴送出这次的装扮~\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "55958",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 这是一封来自宇宙的信息： 12月31日晚上8点， 天依的跨年纪念个性装扮将要上线。 预约请走："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=3741&from=official"
+      },
+      {
+        "type": "text",
+        "text": " 以这次在B站最美的夜演出造型为主题，除了头像挂件、点赞动效、表情包及专属卡片，还有定制的加载动画及进度条图标，希望能和大家一起度过2020的最后一天，迎接那令人充满期待的2021年吧。 茫茫宇宙中，一颗星火航向了希望的黎明，即使前路尽是未知挑战，我们也要抱着信念坚定前进！ 转发这条动态抽5个小伙伴送出这次的装扮~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-12-30_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8554eee259636f4fe8a35d6e9f11e14eed79a8fb.jpg",
+        "width": 1080,
+        "height": 8004,
+        "size_kb": 6034.61,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "55958"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9801,
+    "comment": 1109,
+    "forward": 9091
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

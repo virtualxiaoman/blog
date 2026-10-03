@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "971779377750605861",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/971779377750605861",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月31日",
+    "pub_ts": 1725098418,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "会永远记得，你给我的每一个瞬间",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "会永远记得，你给我的每一个瞬间"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“你给过我所有夏天”洛天依原创曲《最完美的夏天》十二周年专辑「再生」收录曲",
+      "desc": "在这个夏天，你留下过哪些难忘的回忆呢？\n会是伴随成长的离别吗，会是离梦想更进一步的期盼吗，会是平凡但快乐的简单日常吗...\n而属于我们的今年夏天，是飘扬着诞生祝福的六七月，是充满感谢与眷恋的第十二年，\n是我还想要拉起你的手，赴一场许诺已久的盛会邀约。\n“无论走多远，都会记得，你给我的每一个瞬间。”\n\n洛天依12周年纪念专辑「再生」收录曲《最完美的夏天》\n演唱：洛天依\n作词 : 木一\n作曲: Tank\n编曲: 吕绍淳\n调声: 鬼面P\n吉他 : 史扬\n和声: 瑞秋/王宇飞\n和声编写: 瑞秋/王宇飞\n和声录音",
+      "jump_url": "https://www.bilibili.com/video/BV1xW421X7E6",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/3d4f3a7ef24b9329b3ee90f248bdc077bd6cfb10.jpg",
+      "cover_file": "../../_assets/covers/2024-08-31_1.jpg",
+      "bvid": "BV1xW421X7E6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1xW421X7E6",
+        "aid": "1856680220",
+        "cover": "http://i2.hdslb.com/bfs/archive/3d4f3a7ef24b9329b3ee90f248bdc077bd6cfb10.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xW421X7E6",
+        "stat": {
+          "danmaku": "441",
+          "play": "72.8万",
+          "vt": ""
+        },
+        "duration_text": "03:41",
+        "title": "“你给过我所有夏天”洛天依原创曲《最完美的夏天》十二周年专辑「再生」收录曲",
+        "desc": "在这个夏天，你留下过哪些难忘的回忆呢？\n会是伴随成长的离别吗，会是离梦想更进一步的期盼吗，会是平凡但快乐的简单日常吗...\n而属于我们的今年夏天，是飘扬着诞生祝福的六七月，是充满感谢与眷恋的第十二年，\n是我还想要拉起你的手，赴一场许诺已久的盛会邀约。\n“无论走多远，都会记得，你给我的每一个瞬间。”\n\n洛天依12周年纪念专辑「再生」收录曲《最完美的夏天》\n演唱：洛天依\n作词 : 木一\n作曲: Tank\n编曲: 吕绍淳\n调声: 鬼面P\n吉他 : 史扬\n和声: 瑞秋/王宇飞\n和声编写: 瑞秋/王宇飞\n和声录音 ",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35047,
+    "comment": 2113,
+    "forward": 263
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "733171941474566149",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/733171941474566149",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月27日",
+    "pub_ts": 1669543295,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": " 就决定是你了！ 出来吧，天钿！[洛天依_冲鸭]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": " 就决定是你了！ 出来吧，天钿！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-27_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c4ceeb4e8b5f13d0fb4a13e24d2a235b36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 341.45001220703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10598,
+    "comment": 435,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

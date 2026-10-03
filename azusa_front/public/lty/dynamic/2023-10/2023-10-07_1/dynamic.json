@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "849688945145937920",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/849688945145937920",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月7日",
+    "pub_ts": 1696672024,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "历史深埋于过去，爱与罪的乐章谁来再次唱响[洛天依9th_太好听了]很荣幸作为演唱者陪伴存娘的恺撒系列到第五首啦[洛天依幻游世界_i了i了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "历史深埋于过去，爱与罪的乐章谁来再次唱响"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      },
+      {
+        "type": "text",
+        "text": "很荣幸作为演唱者陪伴存娘的恺撒系列到第五首啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5011,
+    "comment": 123,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 848198625857110024,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2023-10/2023-10-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

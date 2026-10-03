@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "id": "1102796285683957765",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1102796285683957765",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月19日",
+    "pub_ts": 1755603169,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "这是我们共同创造的回忆，这是我们共同谱写的乐章。[洛天依八音奇响动态_美丽]\n\n恭喜以下作品获得洛天依十三周年征集【应援类】优秀奖项！[洛天依八音奇响动态_赞]\n\n@木子森森森MORI 试图吸引一些天依脑袋【百日绘天依花神系列汇总】\n@珞一珞一不不高兴兴 “随你唾骂世风日下！”/洛天依「医学」中文填词\n@栗栗liliz 【一花依世界】🌸洛天依0712生贺☆ 像是踏入了未来的童话～✨【初投稿】 \n@扑不甜 真骑马了！来唱：一身素青纱，草柄当头花~\n@你好我叫小飞机 当你在洛天依演唱会门口，用口风琴表演串烧，会发生什么呢？\n@某HAO 【WOTA艺】武装乙女【洛天依十三周年生日快乐】\n@时颐11 【洛天依十三周年生贺】Lovely Kitchen 还记得吗？为你而制作的魔法菜单\n@阿茶有个梦 洛天依生贺——地下（车库）偶像！一起听见WO！\n@弎叁出没的三叁弎 【原创编舞】夜踊radio 0712洛天依生日快乐！【弎叁】\n@ET来自火星撒- 洛天依13周年生日快乐w 对你的感觉就是i love u(*/ω＼*)\n感谢大家的祝福和创作~ [洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这是我们共同创造的回忆，这是我们共同谱写的乐章。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n恭喜以下作品获得洛天依十三周年征集【应援类】优秀奖项！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_赞]",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/311e217d343d1eb6a2330fe39518904106796890.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "mention",
+        "text": "@木子森森森MORI",
+        "mid": 14543789,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "试图吸引一些天依脑袋【百日绘天依花神系列汇总】",
+        "url": "https://www.bilibili.com/video/av114782900327034",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@珞一珞一不不高兴兴",
+        "mid": 5532083,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "“随你唾骂世风日下！”/洛天依「医学」中文填词",
+        "url": "https://www.bilibili.com/video/av114769545666205",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@栗栗liliz",
+        "mid": 362099222,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【一花依世界】🌸洛天依0712生贺☆ 像是踏入了未来的童话～✨【初投稿】",
+        "url": "https://www.bilibili.com/video/av114817394279883",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@扑不甜",
+        "mid": 4293178,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "真骑马了！来唱：一身素青纱，草柄当头花~",
+        "url": "https://www.bilibili.com/video/av114883278478667",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@你好我叫小飞机",
+        "mid": 1982075970,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "当你在洛天依演唱会门口，用口风琴表演串烧，会发生什么呢？",
+        "url": "https://www.bilibili.com/video/av114881466474327",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@某HAO",
+        "mid": 98373791,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【WOTA艺】武装乙女【洛天依十三周年生日快乐】",
+        "url": "https://www.bilibili.com/video/av114833953526013",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@时颐11",
+        "mid": 3494380526635890,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依十三周年生贺】Lovely Kitchen 还记得吗？为你而制作的魔法菜单",
+        "url": "https://www.bilibili.com/video/av114822846879301",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@阿茶有个梦",
+        "mid": 634350247,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "洛天依生贺——地下（车库）偶像！一起听见WO！",
+        "url": "https://www.bilibili.com/video/av114832745565471",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@弎叁出没的三叁弎",
+        "mid": 67836911,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "【原创编舞】夜踊radio 0712洛天依生日快乐！【弎叁】",
+        "url": "https://www.bilibili.com/video/av114815716558283",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@ET来自火星撒-",
+        "mid": 4395667,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "video",
+        "text": "洛天依13周年生日快乐w 对你的感觉就是i love u(*/ω＼*)",
+        "url": "https://www.bilibili.com/video/av114838902676730",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "感谢大家的祝福和创作~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c88cc88fd2b96377ffbbace6dd422ffd36081646.jpg",
+        "width": 1280,
+        "height": 6912,
+        "size_kb": 1537.330078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/赞.gif",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "text": "[洛天依八音奇响动态_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5865,
+    "comment": 248,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

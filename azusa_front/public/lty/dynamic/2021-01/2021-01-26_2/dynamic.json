@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "484559855314423144",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/484559855314423144",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月26日",
+    "pub_ts": 1611658783,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "实体专辑《Moments》先行预售即将开始，珍藏回忆里那一抹蓝色，继续我们未尽的旅途吧~ 希望小伙伴们也会喜欢这次特别定制的拍立得跟充电宝[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "实体专辑《Moments》先行预售即将开始，珍藏回忆里那一抹蓝色，继续我们未尽的旅途吧~ 希望小伙伴们也会喜欢这次特别定制的拍立得跟充电宝"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5683,
+    "comment": 276,
+    "forward": 62
+  },
+  "forward": {
+    "orig_id": 484557913986043402,
+    "orig_mid": 174501086,
+    "deleted": false,
+    "archive_dir": "../../../174501086/2021-01/2021-01-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

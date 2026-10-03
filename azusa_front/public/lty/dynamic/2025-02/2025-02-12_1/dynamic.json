@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1033022398756028432",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1033022398756028432",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月12日",
+    "pub_ts": 1739357670,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "铛铛~是大家之前给天依搭配的出行look哦！\n在大家的搭配下，变成了「天依 大佬Ver.」 [洛天依·戏游九州动态_呆滞]\n元宵节快乐！大家今天吃汤圆了没有呀~？[洛天依-潮声回响_摸摸头]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "铛铛~是大家之前给天依搭配的出行look哦！\n在大家的搭配下，变成了「天依 大佬Ver.」 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_呆滞]",
+        "package_id": "7318",
+        "emoji_id": "98463",
+        "name": "呆滞",
+        "url": "https://i0.hdslb.com/bfs/garb/6424b104fd66bb8fcc5c1f7f19aad182533dc45e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n元宵节快乐！大家今天吃汤圆了没有呀~？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-02-12_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7481dd1ad61bfc7f0e476a67f337c9e036081646.jpg",
+        "width": 1700,
+        "height": 1850,
+        "size_kb": 145.892578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/呆滞.gif",
+        "package_id": "7318",
+        "emoji_id": "98463",
+        "text": "[洛天依·戏游九州动态_呆滞]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7744,
+    "comment": 482,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

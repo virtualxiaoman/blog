@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "959643273562947589",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/959643273562947589",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月30日",
+    "pub_ts": 1722272761,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@树皆为秋色@星海之依中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@树皆为秋色",
+        "mid": 39509208,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@星海之依",
+        "mid": 410935209,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4061,
+    "comment": 97,
+    "forward": 9
+  },
+  "forward": {
+    "orig_id": 930219457380352022,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-05/2024-05-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

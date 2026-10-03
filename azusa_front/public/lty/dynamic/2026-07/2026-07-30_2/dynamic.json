@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "id": "1230735175209451526",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1230735175209451526",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月30日",
+    "pub_ts": 1785391263,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2026洛天依大型原创音乐征集活动\n——闪耀的Producer2 发起人阵容公开⚡\n\n✨Pikapika组\n@Z新豪 \n@JUSF周存 \n@煮ル果実 \n@雄之助 \n\n⭐Kirakira 组\n@炸鸡少女阿肆 \n@亚细亚旷世奇才 \n@みきとP_mikitoP \n@香椎モイミ \n\n八位才华横溢的原创音乐人，将担当本次闪耀发起人\n携全新洛天依原创歌曲，向你发出最诚挚的邀约\n歌声跨越国界与次元界限，用音乐带来最纯粹的共鸣\n一起加入这场属于你和洛天依的创作盛会吧~[洛天依·闪耀的Producer动态_全肯定]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2026洛天依大型原创音乐征集活动\n——闪耀的Producer2 发起人阵容公开⚡\n\n✨Pikapika组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@Z新豪 ",
+        "mid": 2720641,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@JUSF周存 ",
+        "mid": 341368,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@煮ル果実 ",
+        "mid": 505762671,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@雄之助 ",
+        "mid": 25480353,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n\n⭐Kirakira 组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@炸鸡少女阿肆 ",
+        "mid": 52079756,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@亚细亚旷世奇才 ",
+        "mid": 2010145557,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@みきとP_mikitoP ",
+        "mid": 108833238,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@香椎モイミ ",
+        "mid": 627704742,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n\n八位才华横溢的原创音乐人，将担当本次闪耀发起人\n携全新洛天依原创歌曲，向你发出最诚挚的邀约\n歌声跨越国界与次元界限，用音乐带来最纯粹的共鸣\n一起加入这场属于你和洛天依的创作盛会吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "name": "全肯定",
+        "url": "https://i0.hdslb.com/bfs/garb/d75992612c05c5748714d5349019c026a99e741d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d4ed660c8d9b57a14a83e3bf3e2e2d4236081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2144.324,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/387c49b14fdd08cf2b287f76ddfaa1e336081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2208.079,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-30_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3171ede058c9112868783a60df43193036081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2180.783,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-30_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ac9d6c7bbbe90fc2d0cabef17e078e0f36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2177.113,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-30_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/68fb3d1fd25e77a1e62d9f860211491a36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2562.009,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-30_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c14fef63a016c54f10e63feef76a755b36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2160.814,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-07-30_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a81fd022d97b8555dc4313175036337536081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2142.916,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-07-30_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8b5b3654eddd3e57830c9c07b72aeae936081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2161.03,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-07-30_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4fe0e386875e18585e8d669f86afc7bd36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2183.482,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/全肯定.gif",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6384,
+    "comment": 1024,
+    "forward": 294
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

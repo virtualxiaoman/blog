@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1084158842006142995",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1084158842006142995",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月30日",
+    "pub_ts": 1751263801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@奕光流依@饕餮HYC晨曦@洛花时节又逢君中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@奕光流依",
+        "mid": 400588353,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@饕餮HYC晨曦",
+        "mid": 1500079352,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@洛花时节又逢君",
+        "mid": 391247736,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3155,
+    "comment": 64,
+    "forward": 12
+  },
+  "forward": {
+    "orig_id": 1083788177757437961,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-06-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:32:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

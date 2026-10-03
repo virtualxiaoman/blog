@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1193985867371249670",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1193985867371249670",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月22日",
+    "pub_ts": 1776834898,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢龚老师大气磅礴地演绎，太好听啦！[乐鸣东方动态表情包_知音]一起再次领略中华乐器与山河共鸣，被人情滋润，绵延至今的动人魅力吧～[乐鸣东方动态表情包_求求]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢龚老师大气磅礴地演绎，太好听啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_知音]",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "name": "知音",
+        "url": "https://i0.hdslb.com/bfs/garb/75a559c572146d83bfc282b84a018ca1d6646a12.gif"
+      },
+      {
+        "type": "text",
+        "text": "一起再次领略中华乐器与山河共鸣，被人情滋润，绵延至今的动人魅力吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/知音.gif",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "text": "[乐鸣东方动态表情包_知音]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5452,
+    "comment": 106,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1193974292409221157,
+    "orig_mid": 4976111,
+    "deleted": false,
+    "archive_dir": "../../../4976111/2026-04/2026-04-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

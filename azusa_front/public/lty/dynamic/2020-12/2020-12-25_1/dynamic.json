@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "id": "472665110891893218",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/472665110891893218",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月25日",
+    "pub_ts": 1608889322,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 昨天《香草茶与黑咖啡》MV里天依穿的lo裙大家觉得好看吗？相信大家已经注意到了，这套裙子就是今年Vsinger Live上唱《万分之一的光》的同款，上面还包含了8跟∞的元素。很开心这次能穿上“平成魔女”合作的这两款lo裙，天依也非常喜欢这次的双子设计，喜欢的小伙伴们也很快就可以拥有啦！ 2020年12月27日12点，《Moments》实体专辑特别版将抢先限量预售，限量188套。特别版包含CD、立牌、实体Lolita裙Fullset（深色浅色任选一款）。普通版、礼盒版、豪华版也将在近期上线，请大家继续关注天依的最新消息哦[洛天依_爱你] 另外天依有一个福利要送给大家，关注天依并转发动态，抽两个小伙伴各送1条裙子（颜色随机）[洛天依_goodjob]  还等什么，快行动起来吧~ [洛天依_捏捏] ​互动抽奖 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 昨天《香草茶与黑咖啡》MV里天依穿的lo裙大家觉得好看吗？相信大家已经注意到了，这套裙子就是今年Vsinger Live上唱《万分之一的光》的同款，上面还包含了8跟∞的元素。很开心这次能穿上“平成魔女”合作的这两款lo裙，天依也非常喜欢这次的双子设计，喜欢的小伙伴们也很快就可以拥有啦！ 2020年12月27日12点，《Moments》实体专辑特别版将抢先限量预售，限量188套。特别版包含CD、立牌、实体Lolita裙Fullset（深色浅色任选一款）。普通版、礼盒版、豪华版也将在近期上线，请大家继续关注天依的最新消息哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " 另外天依有一个福利要送给大家，关注天依并转发动态，抽两个小伙伴各送1条裙子（颜色随机）"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      },
+      {
+        "type": "text",
+        "text": "  还等什么，快行动起来吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "55673",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-12-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/708aa5d451fadd5f431b8e97bae6c61adc3edf40.jpg",
+        "width": 2000,
+        "height": 2997,
+        "size_kb": 4659.751953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-12-25_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/adfe5e90d3adc64014dc0f7f0b7e45789aa19c8b.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 4078.4208984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-12-25_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5a878bc35500fb5c4dc8b41505466037ab4f3273.jpg",
+        "width": 2000,
+        "height": 2997,
+        "size_kb": 4212.0908203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-12-25_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5798195444d0d1ce9d324c5a57c15640f8f8d89e.jpg",
+        "width": 1000,
+        "height": 16400,
+        "size_kb": 5469.2666015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2020-12-25_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/972b1a45bad450f7c8f7a22ecc4d759ea37b8146.jpg",
+        "width": 1000,
+        "height": 1874,
+        "size_kb": 894.9267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2020-12-25_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d8384b3d3d6bb82a22b7d749bf4681f210285fb1.jpg",
+        "width": 1000,
+        "height": 11978,
+        "size_kb": 5005.4931640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2020-12-25_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/93c917a29d274e7343aeb2dec0c0e5556080f790.jpg",
+        "width": 2000,
+        "height": 2997,
+        "size_kb": 5153.8681640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2020-12-25_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7e85fda36769cd566b582f729ca530e60f91c459.jpg",
+        "width": 2000,
+        "height": 2997,
+        "size_kb": 5508.267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2020-12-25_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/678beaf70f08d40b2904f45aaae0cb628969a58b.jpg",
+        "width": 2000,
+        "height": 2997,
+        "size_kb": 5236.7919921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "55673"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6930,
+    "comment": 1001,
+    "forward": 4297
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

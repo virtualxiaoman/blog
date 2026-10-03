@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "1169509432854315060",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169509432854315060",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月15日",
+    "pub_ts": 1771136034,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛包也来给大家拜年啦！[乐鸣东方动态表情包_开心]\n让小福包带给大家满满新春福气～\n现已上架微信表情，欢迎大家使用[乐鸣东方动态表情包_盯]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛包也来给大家拜年啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n让小福包带给大家满满新春福气～\n现已上架微信表情，欢迎大家使用"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-15_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e11b75ab9ce5b11cbc017b305ab96fc336081646.jpg",
+        "width": 900,
+        "height": 1964,
+        "size_kb": 1482.5,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依的朋友聊天局",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依的朋友聊天局",
+        "desc1": {
+          "text": "02-15 18:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "11.2万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5380251,
+        "reserve_total": 111508,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4185,
+    "comment": 229,
+    "forward": 42
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

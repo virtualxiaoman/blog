@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "562852771198572975",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/562852771198572975",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月25日",
+    "pub_ts": 1629887773,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这个夏天充满超多开心的回忆，不过对天钿来说的话，似乎不是那么美好？[洛天依_嘲笑]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这个夏天充满超多开心的回忆，不过对天钿来说的话，似乎不是那么美好？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_嘲笑]",
+        "package_id": "101",
+        "emoji_id": "2205",
+        "name": "嘲笑",
+        "url": "http://i0.hdslb.com/bfs/emote/0e5fef3f683b7989b036f587a143443a21fc27e2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/嘲笑.png",
+        "package_id": "101",
+        "emoji_id": "2205",
+        "text": "[洛天依_嘲笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8060,
+    "comment": 455,
+    "forward": 95
+  },
+  "forward": {
+    "orig_id": 562842652262849712,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-08/2021-08-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:34:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

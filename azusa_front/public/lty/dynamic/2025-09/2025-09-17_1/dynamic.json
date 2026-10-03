@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "1113441649882562577",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1113441649882562577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月17日",
+    "pub_ts": 1758081736,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依来啦！谢谢水月雨的祝福和精心设计[洛天依·闪耀的Producer动态_可靠]，转发这条关注天依，揪1位小伙伴送出「洛天依×水月雨联名定制礼盒」 1份~[洛天依·闪耀的Producer动态_幸福]网页链接",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来啦！谢谢水月雨的祝福和精心设计"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_可靠]",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/0948f9c15324f91126a33675b15d111744117b23.gif"
+      },
+      {
+        "type": "text",
+        "text": "，转发这条关注天依，揪1位小伙伴送出「洛天依×水月雨联名定制礼盒」 1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/TaLd7h9"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/可靠.gif",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "text": "[洛天依·闪耀的Producer动态_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5605,
+    "comment": 1834,
+    "forward": 4059
+  },
+  "forward": {
+    "orig_id": 1113410245082742800,
+    "orig_mid": 434249025,
+    "deleted": false,
+    "archive_dir": "../../../434249025/2025-09/2025-09-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:40:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

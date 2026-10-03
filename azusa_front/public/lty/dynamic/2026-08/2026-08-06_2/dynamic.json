@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1233382962432573443",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1233382962432573443",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月6日",
+    "pub_ts": 1786007749,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "四季轮转，风花雪月，你最想pick哪个季节的小洛陪伴你呀？ [洛天依·信号动态表情包_美味]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "四季轮转，风花雪月，你最想pick哪个季节的小洛陪伴你呀？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5070,
+    "comment": 144,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 1233270655435145220,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2026-08/2026-08-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:35:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

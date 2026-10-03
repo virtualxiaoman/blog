@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1025636906121035861",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1025636906121035861",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月23日",
+    "pub_ts": 1737638101,
+    "location": ""
+  },
+  "topic": {
+    "id": 1223711,
+    "name": "2025虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1223711&topic_name=2025%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "Vsinger全员竟这样过年？！【原创曲】琳琅满人间【2025虚拟歌手贺岁纪单品】",
+      "desc": "作曲/编曲：PoKeR_扑克\n作词：杏花包子\n调校：陌生来访\n曲绘：白、诗驯\n视频：被动学习机\n策划：Suya\n演唱：洛天依、乐正绫、言和、乐正龙牙、墨清弦、徵羽摩柯",
+      "jump_url": "https://www.bilibili.com/video/BV1V6wWeDE53",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/30746b286dc4631a676678c511c49af11b2f1b9e.jpg",
+      "cover_file": "../../_assets/covers/2025-01-23_3.jpg",
+      "bvid": "BV1V6wWeDE53",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1V6wWeDE53",
+        "aid": "113861361408856",
+        "cover": "http://i1.hdslb.com/bfs/archive/30746b286dc4631a676678c511c49af11b2f1b9e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1V6wWeDE53",
+        "stat": {
+          "danmaku": "2483",
+          "play": "18.9万",
+          "vt": ""
+        },
+        "duration_text": "03:37",
+        "title": "Vsinger全员竟这样过年？！【原创曲】琳琅满人间【2025虚拟歌手贺岁纪单品】",
+        "desc": "作曲/编曲：PoKeR_扑克\n作词：杏花包子\n调校：陌生来访\n曲绘：白、诗驯\n视频：被动学习机\n策划：Suya\n演唱：洛天依、乐正绫、言和、乐正龙牙、墨清弦、徵羽摩柯",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16448,
+    "comment": 642,
+    "forward": 24
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "960697945481543689",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/960697945481543689",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月1日",
+    "pub_ts": 1722518321,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "放一张过去的CD，再回忆起那时的心情~\n天依唱片机第十二期来咯！感谢老师们的创作与授权❤",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "放一张过去的CD，再回忆起那时的心情~\n天依唱片机第十二期来咯！感谢老师们的创作与授权❤"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第十二期·微醺 | 放一张过去的CD听听那时我们的回忆",
+      "desc": "放一张过去的CD，再回忆起那时的心情~\n天依唱片机第十二期来咯！感谢老师们的创作与授权❤\n\n1.I . I . I G R O K@JUSF周存  BV1zM4m1S7NL\n作曲/编曲/作词/调校：JUSF周存\n2.重生@赛亚♂sya  BV16s421T762\n作曲/编曲/作词/调校：Sya\n3.ROVE@Evalia-爱娃  BV1YV411g7Yz\n作曲/编曲：Evalia-爱娃 作词：大九_LN 调校：Creuzer\n4.逃跑的天使@伊野奏  BV1cU4y1z7A9\n作曲/编曲/作词：伊野奏 调",
+      "jump_url": "https://www.bilibili.com/video/BV1UW421975p",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b70d4302404a94bbfd7635d56396ad7e12a92dc3.jpg",
+      "cover_file": "../../_assets/covers/2024-08-01_1.jpg",
+      "bvid": "BV1UW421975p",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1UW421975p",
+        "aid": "1856459989",
+        "cover": "http://i2.hdslb.com/bfs/archive/b70d4302404a94bbfd7635d56396ad7e12a92dc3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1UW421975p",
+        "stat": {
+          "danmaku": "229",
+          "play": "20.4万",
+          "vt": ""
+        },
+        "duration_text": "46:40",
+        "title": "【天依唱片机】第十二期·微醺 | 放一张过去的CD听听那时我们的回忆",
+        "desc": "放一张过去的CD，再回忆起那时的心情~\n天依唱片机第十二期来咯！感谢老师们的创作与授权❤\n\n1.I . I . I G R O K@JUSF周存  BV1zM4m1S7NL\n作曲/编曲/作词/调校：JUSF周存\n2.重生@赛亚♂sya  BV16s421T762\n作曲/编曲/作词/调校：Sya\n3.ROVE@Evalia-爱娃  BV1YV411g7Yz\n作曲/编曲：Evalia-爱娃 作词：大九_LN 调校：Creuzer\n4.逃跑的天使@伊野奏  BV1cU4y1z7A9\n作曲/编曲/作词：伊野奏 调",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16355,
+    "comment": 541,
+    "forward": 89
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "790032738650423317",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/790032738650423317",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月29日",
+    "pub_ts": 1682782231,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢大家今晚来听天依唱歌！！由ilem老师创作的这首《大地球歌厅》也会在之后发布正式版MV哦！一起期待一下吧～[洛天依幻游世界_i了i了]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢大家今晚来听天依唱歌！！由ilem老师创作的这首《大地球歌厅》也会在之后发布正式版MV哦！一起期待一下吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-29_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/fc8ef5f2a02abf441815a2f6ef4a502336081646.png",
+        "width": 1554,
+        "height": 875,
+        "size_kb": 2857.68994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8656,
+    "comment": 689,
+    "forward": 52
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

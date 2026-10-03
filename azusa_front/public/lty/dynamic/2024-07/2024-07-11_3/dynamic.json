@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "952914171958132776",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952914171958132776",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月11日",
+    "pub_ts": 1720706020,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依12周年XQQ 特别纪念装扮上新啦！\n转发关注天依，揪十位小伙伴送出<纪念装扮>一份～\n\n🔹周年纪念套装包含\n专属编号、主题、气泡、挂件、名片、背景、表情包、礼物等个性好礼~\n\n🔹庆生专场【点亮蛋糕得装扮】活动\n成功解锁，全体小伙伴可以领取挂件+气泡最高5天！\n\n🔹正式开售时间\n7月12日下午3点\n\n🔹传送门\nhttps://zb.vip.qq.com/tx/p/50366_8c2c0c48?enteranceId=bili&_wv=16777216\n\n如果你期待天依装点你的QQ世界～感兴趣的小伙伴可以蹲蹲哦！ [洛天依·收藏集表情包_不要啊]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "307181",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依12周年XQQ 特别纪念装扮上新啦！\n转发关注天依，揪十位小伙伴送出<纪念装扮>一份～\n\n🔹周年纪念套装包含\n专属编号、主题、气泡、挂件、名片、背景、表情包、礼物等个性好礼~\n\n🔹庆生专场【点亮蛋糕得装扮】活动\n成功解锁，全体小伙伴可以领取挂件+气泡最高5天！\n\n🔹正式开售时间\n7月12日下午3点\n\n🔹传送门\n"
+      },
+      {
+        "type": "text",
+        "text": "https://zb.vip.qq.com/tx/p/50366_8c2c0c48?enteranceId=bili&_wv=16777216"
+      },
+      {
+        "type": "text",
+        "text": "\n\n如果你期待天依装点你的QQ世界～感兴趣的小伙伴可以蹲蹲哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_不要啊]",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "name": "不要啊",
+        "url": "https://i0.hdslb.com/bfs/garb/dde80658b0aca4ab88c6316498ac7e27a2455dfd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-11_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e32a55ea4e8a0e7b26dd2fff001bd14f36081646.png",
+        "width": 750,
+        "height": 12434,
+        "size_kb": 14642.5380859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/不要啊.png",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "text": "[洛天依·收藏集表情包_不要啊]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "307181"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5845,
+    "comment": 1142,
+    "forward": 6373
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

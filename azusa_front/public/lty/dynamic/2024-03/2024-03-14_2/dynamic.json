@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "id": "908602796816728113",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/908602796816728113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月14日",
+    "pub_ts": 1710388974,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n虽然感谢的话语说过很多很多次，但或许节日就是这样一个特别的时刻，让天依可以把自己的心意再一次、再一次认真告诉你。[洛天依_击掌]\n谢谢你看见我，倾听我，谢谢你陪伴在我的身边。\n白色情人节快乐！希望这份曲奇礼盒，可以给你带来一整天的甜蜜心情~[洛天依_最喜欢你了]\n\n=============\n转发关注天依，揪一位小伙伴送出【洛天依白色情人节礼盒】1份。\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "287219",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n虽然感谢的话语说过很多很多次，但或许节日就是这样一个特别的时刻，让天依可以把自己的心意再一次、再一次认真告诉你。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n谢谢你看见我，倾听我，谢谢你陪伴在我的身边。\n白色情人节快乐！希望这份曲奇礼盒，可以给你带来一整天的甜蜜心情~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n=============\n转发关注天依，揪一位小伙伴送出【洛天依白色情人节礼盒】1份。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d1a06fb7176d33fcd94bb56ec73a2a5a36081646.jpg",
+        "width": 3500,
+        "height": 3392,
+        "size_kb": 667.5399780273438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-03-14_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f4bf515df9c4def8961bf2a4ace5c28436081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 181.77999877929688,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 白色情人节礼盒",
+            "price": "¥164",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/ac/c6/acc6b1ba5dc2e44eb246f6875e87a900.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10295017&msource=cps_Mdynamic_36081646_cont-2-908602796816728113&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-03-14_4.png"
+          },
+          {
+            "name": "Vsinger 洛天依 白色情人节徽章",
+            "price": "¥19.5",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/d5/e9/d5e9da09461f256ad57d96838b5b968b.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10295006&msource=cps_Mdynamic_36081646_cont-2-908602796816728113&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-03-14_5.png"
+          },
+          {
+            "name": "Vsinger 洛天依 白色情人节充电宝",
+            "price": "¥108",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/45/e3/45e3fe4c63ca2d7eb2d3e7e1828b8236.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10295014&msource=cps_Mdynamic_36081646_cont-2-908602796816728113&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-03-14_6.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "287219"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8983,
+    "comment": 1109,
+    "forward": 7592
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

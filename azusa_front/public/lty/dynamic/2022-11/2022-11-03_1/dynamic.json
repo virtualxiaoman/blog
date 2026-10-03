@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "724285039940993065",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/724285039940993065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月3日",
+    "pub_ts": 1667474152,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "合唱好开心！太好听了吧~~！！ [洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "合唱好开心！太好听了吧~~！！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7117,
+    "comment": 108,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 723538828040601796,
+    "orig_mid": 90942983,
+    "deleted": false,
+    "archive_dir": "../../../90942983/2022-11/2022-11-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

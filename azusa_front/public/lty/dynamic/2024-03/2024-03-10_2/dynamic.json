@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "907262539379769350",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/907262539379769350",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月10日",
+    "pub_ts": 1710076921,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@融景城鸡蛋中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@融景城鸡蛋",
+        "mid": 91280472,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3729,
+    "comment": 122,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 879061071141273616,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-12/2023-12-25_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

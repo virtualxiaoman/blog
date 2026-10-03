@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "920573849891766292",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/920573849891766292",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月15日",
+    "pub_ts": 1713176202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n缤纷绚烂的色彩与自由狂放的音乐，交织成这个浓墨重彩的世界。\n猝不及防的第二次穿越，降落——\n平行时空0030754[Rock of Infinite]！\n\n“这位美丽的小姐，看到你的第一眼，我就觉得你应该加入我们的乐队，我们正好缺一位主唱！”\n“诶？？！！”\n设备就位，灯光就绪。Let's rock！ [洛天依蝶变_电吉他！]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n缤纷绚烂的色彩与自由狂放的音乐，交织成这个浓墨重彩的世界。\n猝不及防的第二次穿越，降落——\n平行时空0030754"
+      },
+      {
+        "type": "text",
+        "text": "[Rock of Infinite]"
+      },
+      {
+        "type": "text",
+        "text": "！\n\n“这位美丽的小姐，看到你的第一眼，我就觉得你应该加入我们的乐队，我们正好缺一位主唱！”\n“诶？？！！”\n设备就位，灯光就绪。Let's rock！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-15_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/31ef4d5bcfc21ec90cc4d378bd1c7a0a36081646.jpg",
+        "width": 4093,
+        "height": 2894,
+        "size_kb": 10839.5400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-15_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/165b3ab4f79571c415fb5ee7b4a54a3936081646.jpg",
+        "width": 1080,
+        "height": 7276,
+        "size_kb": 6719.2998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5495,
+    "comment": 894,
+    "forward": 171
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

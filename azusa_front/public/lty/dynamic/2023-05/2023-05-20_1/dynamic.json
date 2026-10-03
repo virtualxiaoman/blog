@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "797761433575096339",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/797761433575096339",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月20日",
+    "pub_ts": 1684581708,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "再微弱的光芒，也可以拥有照亮世界的力量，我们相依取暖[洛天依_感动]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "再微弱的光芒，也可以拥有照亮世界的力量，我们相依取暖"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_感动]",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "name": "感动",
+        "url": "http://i0.hdslb.com/bfs/emote/24de715f4b8730a5eedd1e0e6fbd2f2701143f83.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/感动.png",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "text": "[洛天依_感动]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6117,
+    "comment": 181,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 796518873764462728,
+    "orig_mid": 2664345,
+    "deleted": false,
+    "archive_dir": "../../../2664345/2023-05/2023-05-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

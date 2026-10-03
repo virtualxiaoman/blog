@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "id": "919086519908564995",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/919086519908564995",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月11日",
+    "pub_ts": 1712829906,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n“你终于来了。”[代号洛天依_我有个秘密]\n“...为什么...你能控制住我？”[代号洛天依_？？]\n\n“因为，你就是我最得意的作品。在我的计划里，你是必不可少的钥匙。”[代号洛天依_你猜]\n“什么...？”[代号洛天依_好奇]\n\n“我已经无法控制这些时空。但是，我相信你会带来奇迹。所以，我会送你启程。后面的事，就交给你了。”[代号洛天依_我有个秘密]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n“你终于来了。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_我有个秘密]",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "name": "我有个秘密",
+        "url": "https://i0.hdslb.com/bfs/emote/e8a1f0a3f2176c9c82df39181fbd69f3fe6b7ebd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“...为什么...你能控制住我？”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_？？]",
+        "package_id": "1842",
+        "emoji_id": "32127",
+        "name": "？？",
+        "url": "https://i0.hdslb.com/bfs/emote/40e6d78a4653eda3096a14aab5ad62ecbf4ab131.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“因为，你就是我最得意的作品。在我的计划里，你是必不可少的钥匙。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_你猜]",
+        "package_id": "1842",
+        "emoji_id": "32142",
+        "name": "你猜",
+        "url": "https://i0.hdslb.com/bfs/emote/28b8d7e4e55379623c239da276445ec543e55e64.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“什么...？”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好奇]",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "name": "好奇",
+        "url": "https://i0.hdslb.com/bfs/emote/80da8619e3ccf95d4129a06099d592fca5fa49fe.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“我已经无法控制这些时空。但是，我相信你会带来奇迹。所以，我会送你启程。后面的事，就交给你了。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_我有个秘密]",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "name": "我有个秘密",
+        "url": "https://i0.hdslb.com/bfs/emote/e8a1f0a3f2176c9c82df39181fbd69f3fe6b7ebd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/276daec5079d406f2450228f9fb05ce436081646.jpg",
+        "width": 3600,
+        "height": 6400,
+        "size_kb": 14850.56640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/我有个秘密.png",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "text": "[代号洛天依_我有个秘密]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/？？.png",
+        "package_id": "1842",
+        "emoji_id": "32127",
+        "text": "[代号洛天依_？？]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/你猜.png",
+        "package_id": "1842",
+        "emoji_id": "32142",
+        "text": "[代号洛天依_你猜]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/好奇.png",
+        "package_id": "1842",
+        "emoji_id": "32136",
+        "text": "[代号洛天依_好奇]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9218,
+    "comment": 358,
+    "forward": 165
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

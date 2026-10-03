@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "602855860371550926",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/602855860371550926",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月11日",
+    "pub_ts": 1639201718,
+    "location": ""
+  },
+  "topic": {
+    "id": 1968,
+    "name": "洛天依扭扭舞二创",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1968&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%89%AD%E6%89%AD%E8%88%9E%E4%BA%8C%E5%88%9B"
+  },
+  "content": {
+    "title": "",
+    "text": "《Time to Shine》唱响对运动员的祝福，扭扭舞传递应援的接力棒~[洛天依_耶]  #洛天依献礼冬奥百日短片#二创征集活动 结果公布啦，感谢大家的创意应援！[洛天依_爱你]  获奖详情请戳下图查看，在本次征集活动中，我看到了各种形式的优秀作品，有用心的服装还原、精致的手工制作、还有超可爱的模型配布！[洛天依9th_好康！]  再次感谢所有参与活动的小伙伴，让我们继续一起期待冬奥的到来吧~[洛天依9th_敲碗等]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《Time to Shine》唱响对运动员的祝福，扭扭舞传递应援的接力棒~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依献礼冬奥百日短片#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%8C%AE%E7%A4%BC%E5%86%AC%E5%A5%A5%E7%99%BE%E6%97%A5%E7%9F%AD%E7%89%87"
+      },
+      {
+        "type": "text",
+        "text": "二创征集活动 结果公布啦，感谢大家的创意应援！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "  获奖详情请戳下图查看，在本次征集活动中，我看到了各种形式的优秀作品，有用心的服装还原、精致的手工制作、还有超可爱的模型配布！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "  再次感谢所有参与活动的小伙伴，让我们继续一起期待冬奥的到来吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_敲碗等]",
+        "package_id": "255",
+        "emoji_id": "4237",
+        "name": "敲碗等",
+        "url": "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-11_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8b87559c2c0f1dd4463f73c598364b88f7d90e2b.jpg",
+        "width": 750,
+        "height": 3916,
+        "size_kb": 2928.830078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/255/敲碗等.png",
+        "package_id": "255",
+        "emoji_id": "4237",
+        "text": "[洛天依9th_敲碗等]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4828,
+    "comment": 96,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:39:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

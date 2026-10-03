@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "1013350649647071233",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1013350649647071233",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月21日",
+    "pub_ts": 1734777484,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 《戏游九州》400w播放撒花~[洛天依·戏游九州动态_撒花]献给历久弥新的中华戏曲｜戏游九州\n看见大家陪伴天依一起见证，一直在评论区留言也好，向小伙伴们转发安利也好，真的特别特别感动！\n感谢大家的支持，天依将在这条转发里，揪10位小伙伴送出【戏游九州收藏集】10抽一份~\n\n接下来，天依还有更多剧种、更大舞台、更多歌行戏曲季的精彩内容带给大家！\n明天，天依游学记「梨园·昆曲行」vlog即将解锁啦，记得来看哦~ [洛天依·戏游九州动态_惬意]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "333813",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《戏游九州》400w播放撒花~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "video",
+        "text": "献给历久弥新的中华戏曲｜戏游九州",
+        "url": "https://www.bilibili.com/video/av113672802272752",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "看见大家陪伴天依一起见证，一直在评论区留言也好，向小伙伴们转发安利也好，真的特别特别感动！\n感谢大家的支持，天依将在这条转发里，揪10位小伙伴送出【戏游九州收藏集】10抽一份~\n\n接下来，天依还有更多剧种、更大舞台、更多歌行戏曲季的精彩内容带给大家！\n明天，天依游学记「梨园·昆曲行」vlog即将解锁啦，记得来看哦~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/96b129e5164860bd9014a261c003a12036081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 3510.0908203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "333813"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6572,
+    "comment": 950,
+    "forward": 6027
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

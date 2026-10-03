@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1229248867380232209",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1229248867380232209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月26日",
+    "pub_ts": 1785045205,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "追加两张特典卡，可以兑换的大家记得兑换哦[洛天依·信号动态表情包_love之力]谢谢大家的支持，评论区再揪十个小伙伴送出许愿卡牌一张～[洛天依·信号动态表情包_美味]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "追加两张特典卡，可以兑换的大家记得兑换哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "谢谢大家的支持，评论区再揪十个小伙伴送出许愿卡牌一张～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5263,
+    "comment": 1310,
+    "forward": 692
+  },
+  "forward": {
+    "orig_id": 1229219642267926565,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-07/2026-07-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:32:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

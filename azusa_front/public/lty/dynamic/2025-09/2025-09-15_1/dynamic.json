@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "1112793006697611273",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1112793006697611273",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月15日",
+    "pub_ts": 1757930712,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "👑#洛天依逆转童话#第二篇章「加冕」揭晓\n善良带来好运，美貌带来爱情，这似乎本来便是一个足够幸福圆满的故事......\n“不，被给予的命运不过是空中楼阁，一切奇迹，都可以由她自己来铸造。”[洛天依八音奇响动态_登场]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "👑"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依逆转童话#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+      },
+      {
+        "type": "text",
+        "text": "第二篇章「加冕」揭晓\n善良带来好运，美貌带来爱情，这似乎本来便是一个足够幸福圆满的故事......\n“不，被给予的命运不过是空中楼阁，一切奇迹，都可以由她自己来铸造。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c29205c97f271dad5e464985040cc8a036081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 3401.693359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6318,
+    "comment": 453,
+    "forward": 125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

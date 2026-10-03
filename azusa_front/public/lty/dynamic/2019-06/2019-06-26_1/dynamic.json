@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "269319158408032523",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/269319158408032523",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年6月26日",
+    "pub_ts": 1561544153,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#2019洛天依生日会# 天依每天看着衣柜里T爹TID设计的新裙子，心情都会特别的好哦(｡>∀<｡)~。天依的生日周边今天上架啦！ 这次不仅有小裙子相关周边，还有超重磅的特别企划： 【天依7周年定制长款钱包&卡套 】和【天依与ERIMAKI SOX联名款的翻领短袜】也一并上架啦！ 转发这条动态，7周年7份福利抽取7个幸运儿伴送出大礼包~详情见图～ 712记得来看天依生日会直播哦！传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​互动抽奖"
+      },
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 天依每天看着衣柜里T爹TID设计的新裙子，心情都会特别的好哦(｡>∀<｡)~。天依的生日周边今天上架啦！ 这次不仅有小裙子相关周边，还有超重磅的特别企划： 【天依7周年定制长款钱包&卡套 】和【天依与ERIMAKI SOX联名款的翻领短袜】也一并上架啦！ 转发这条动态，7周年7份福利抽取7个幸运儿伴送出大礼包~详情见图～ 712记得来看天依生日会直播哦！传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/1546736"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-06-26_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1720dd537a75547c7a3f93ebcfbe031c659903fa.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1675.85,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-06-26_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/cdf0ea0ff910504f0db04d888a4a197c57413b85.png",
+        "width": 960,
+        "height": 6803,
+        "size_kb": 6642.35,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7054,
+    "comment": 595,
+    "forward": 7112
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "534530670221463382",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/534530670221463382",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月10日",
+    "pub_ts": 1623293520,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##比特大爆炸#今日正式上线！开往比特宇宙的66CCFF号战机马上就要起飞啦，小伙伴们抓紧登机哟~这个夏天，果然还是适合伴随轻快的节奏在像素世界里冒险！天依陪大家一起开上战机，火力全开，打爆不开心BiuBiuBiu~~ ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#比特大爆炸#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E7%89%B9%E5%A4%A7%E7%88%86%E7%82%B8"
+      },
+      {
+        "type": "text",
+        "text": "今日正式上线！开往比特宇宙的66CCFF号战机马上就要起飞啦，小伙伴们抓紧登机哟~这个夏天，果然还是适合伴随轻快的节奏在像素世界里冒险！天依陪大家一起开上战机，火力全开，打爆不开心BiuBiuBiu~~ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4587,
+    "comment": 192,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 534517360124015211,
+    "orig_mid": 591131042,
+    "deleted": false,
+    "archive_dir": "../../../591131042/2021-06/2021-06-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:31:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

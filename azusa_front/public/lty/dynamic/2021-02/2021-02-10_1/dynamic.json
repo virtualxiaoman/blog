@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "490163898573640170",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/490163898573640170",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月10日",
+    "pub_ts": 1612963576,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# 新的一年马上就要来啦！鼠年的小尾巴里，天依一直在忙一件事。现在终于可以告诉大家了—— 明天除夕夜要做什么呢？吃饺子、来春晚、看天依！不见不散！ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " 新的一年马上就要来啦！鼠年的小尾巴里，天依一直在忙一件事。现在终于可以告诉大家了—— 明天除夕夜要做什么呢？吃饺子、来春晚、看天依！不见不散！ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-10_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7fa3f95ddb299b5e046d21105fbb06f02b86b217.jpg",
+        "width": 2244,
+        "height": 1683,
+        "size_kb": 1062.263671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19268,
+    "comment": 3075,
+    "forward": 1760
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

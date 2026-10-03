@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "607778060398316198",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/607778060398316198",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月24日",
+    "pub_ts": 1640347757,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 在平安夜许下最美好的心愿，就是希望大家永远都平安快乐~[洛天依·夜航星_比心] 今晚的圣诞晚会，我准备了好多礼物，要一起来吗？ 除了苹果，我还准备了一个大蛋糕哦！ 可惜被天钿吃掉啦，那就把天钿作为礼物好了[洛天依9th_气鼓鼓]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 在平安夜许下最美好的心愿，就是希望大家永远都平安快乐~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": " 今晚的圣诞晚会，我准备了好多礼物，要一起来吗？ 除了苹果，我还准备了一个大蛋糕哦！ 可惜被天钿吃掉啦，那就把天钿作为礼物好了"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_气鼓鼓]",
+        "package_id": "255",
+        "emoji_id": "4236",
+        "name": "气鼓鼓",
+        "url": "http://i0.hdslb.com/bfs/emote/629b3492a5e143d51356af647b0a9950edfe41bc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/382adc6567337453d1d400cd94a4abfa5d393f6e.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 5081.169921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/255/气鼓鼓.png",
+        "package_id": "255",
+        "emoji_id": "4236",
+        "text": "[洛天依9th_气鼓鼓]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10668,
+    "comment": 442,
+    "forward": 190
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

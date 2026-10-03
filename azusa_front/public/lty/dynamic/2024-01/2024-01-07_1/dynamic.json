@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "id": "883890087537934342",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/883890087537934342",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月7日",
+    "pub_ts": 1704635098,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n大家！《歌行四方》获得bilibili年度原创音乐奖啦！[洛天依歌行四方_咚嚓！]\n恰逢天依达成350w关注，转发关注天依，揪3位小伙伴获得【洛天依周边礼包】1份。[洛天依歌行四方_送哈达]\n\n集天南地北民族之声，听声声不息吟游四方，天依一直希望，可以用我的歌声传递对美好与生活最纯粹的热爱与向往。[洛天依歌行四方_欢迎]\n\n这个奖项不仅属于天依，更属于每一个《歌行四方》的创作者，属于每一个愿意去传承民族文化，感受虚拟歌手音乐的人，感谢一路陪伴天依歌行之旅的大家！是你们的真诚与热爱让“YALAHULA”走向了更远的地方~[洛天依歌行四方_行礼]\n循声而行，自由而歌，岁月迢迢，声声不息，2024歌行仍将继续，和天依一起去更多有歌声的地方吧！[洛天依歌行四方_送你花花]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "260663",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n大家！《歌行四方》获得bilibili年度原创音乐奖啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n恰逢天依达成350w关注，转发关注天依，揪3位小伙伴获得【洛天依周边礼包】1份。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送哈达]",
+        "package_id": "4128",
+        "emoji_id": "58605",
+        "name": "送哈达",
+        "url": "https://i0.hdslb.com/bfs/emote/8208f53ae2d39d6dfdfaa79e6888bf26ce961a1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n集天南地北民族之声，听声声不息吟游四方，天依一直希望，可以用我的歌声传递对美好与生活最纯粹的热爱与向往。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n这个奖项不仅属于天依，更属于每一个《歌行四方》的创作者，属于每一个愿意去传承民族文化，感受虚拟歌手音乐的人，感谢一路陪伴天依歌行之旅的大家！是你们的真诚与热爱让“YALAHULA”走向了更远的地方~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_行礼]",
+        "package_id": "4128",
+        "emoji_id": "58609",
+        "name": "行礼",
+        "url": "https://i0.hdslb.com/bfs/emote/824474fc80d88cd57dd074e183f610c0c2180b8f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n循声而行，自由而歌，岁月迢迢，声声不息，2024歌行仍将继续，和天依一起去更多有歌声的地方吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-07_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/edfe4197c1beaee50951770184a0b83e36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1213.699951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送哈达.png",
+        "package_id": "4128",
+        "emoji_id": "58605",
+        "text": "[洛天依歌行四方_送哈达]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/行礼.png",
+        "package_id": "4128",
+        "emoji_id": "58609",
+        "text": "[洛天依歌行四方_行礼]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger  洛天依 游学记 藏族款 ",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/ee/d9/eed9f88d7eae3392179b5de1fb59ddfb.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10207582&msource=cps_Mdynamic_36081646_cont-2-883890087537934342&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-01-07_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "260663"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7778,
+    "comment": 758,
+    "forward": 5949
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

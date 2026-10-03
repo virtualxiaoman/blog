@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1243320936902426630",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1243320936902426630",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月2日",
+    "pub_ts": 1788321614,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“好吧 万能的宇宙大人啊”《异样的风暴中心》【洛天依纯蓝幻乐巡演广州站】",
+      "desc": "天依为广州站的大家准备的特别礼物就是这首《异样的风暴中心》啦！\n宇宙很大，可以吞噬一切，所以我们的妄想与任性，不甘与迷茫，\n都可以丢给万能的宇宙大人吗？\n好吧，也许宇宙大人并不会回应，也没有关系，\n那么就暂且忘掉一切，在属于我们的这片宇宙里漫无目的地漂流吧~\n \n作词：和田野\n作曲：杉田朗\n编曲：电子樱桃\n调教：苍梧_abilrue",
+      "jump_url": "https://www.bilibili.com/video/BV1kotV6UE7E",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/63371ddc4902a83a33216c9730cfc9765236ac40.jpg",
+      "cover_file": "../../_assets/covers/2026-09-02_1.jpg",
+      "bvid": "BV1kotV6UE7E",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kotV6UE7E",
+        "aid": "117195883416323",
+        "cover": "http://i0.hdslb.com/bfs/archive/63371ddc4902a83a33216c9730cfc9765236ac40.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kotV6UE7E",
+        "stat": {
+          "danmaku": "41",
+          "play": "7.7万",
+          "vt": ""
+        },
+        "duration_text": "00:47",
+        "title": "“好吧 万能的宇宙大人啊”《异样的风暴中心》【洛天依纯蓝幻乐巡演广州站】",
+        "desc": "天依为广州站的大家准备的特别礼物就是这首《异样的风暴中心》啦！\n宇宙很大，可以吞噬一切，所以我们的妄想与任性，不甘与迷茫，\n都可以丢给万能的宇宙大人吗？\n好吧，也许宇宙大人并不会回应，也没有关系，\n那么就暂且忘掉一切，在属于我们的这片宇宙里漫无目的地漂流吧~\n \n作词：和田野\n作曲：杉田朗\n编曲：电子樱桃\n调教：苍梧_abilrue",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20866,
+    "comment": 1636,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

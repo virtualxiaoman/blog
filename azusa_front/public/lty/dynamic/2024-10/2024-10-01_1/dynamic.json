@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "983190388598636628",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/983190388598636628",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月1日",
+    "pub_ts": 1727755251,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "天依为何悄悄找龚老师开小灶？原来是因为——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依为何悄悄找龚老师开小灶？原来是因为——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依和龚琳娜学唱神曲《忐忑》？！「天依的演唱会筹备vlog」",
+      "desc": "天依为何悄悄找龚老师开小灶？原来是因为——\n10月5日的洛天依无限共鸣全息演唱会上，天依会和龚琳娜老师为大家带来老师的经典神曲《忐忑》的特别演出哦！\n大家都知道《忐忑》作为龚老师的代表作品，想要唱好可不容易啦，为了表演好这首歌曲，天依特地来找龚老师学习唱法，没想到学习《忐忑》竟然需要学牛叫、老虎叫、猫叫，还有公鸡叫？一起来看看天依的学习过程和成果吧！\n恰逢天依游学记的第二季是戏曲主题，天依和龚老师一拍即合，就准备在演唱会上为大家带来不一样的戏曲版《忐忑》啦，天依也和龚老师学习了戏曲的唱腔，敬请期待吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1j4xseXEcc",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/22dc3bbc8aec695b418d084e8bab0d0e260ccd6a.jpg",
+      "cover_file": "../../_assets/covers/2024-10-01_1.jpg",
+      "bvid": "BV1j4xseXEcc",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1j4xseXEcc",
+        "aid": "113225790261000",
+        "cover": "http://i0.hdslb.com/bfs/archive/22dc3bbc8aec695b418d084e8bab0d0e260ccd6a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1j4xseXEcc",
+        "stat": {
+          "danmaku": "350",
+          "play": "17.1万",
+          "vt": ""
+        },
+        "duration_text": "04:48",
+        "title": "洛天依和龚琳娜学唱神曲《忐忑》？！「天依的演唱会筹备vlog」",
+        "desc": "天依为何悄悄找龚老师开小灶？原来是因为——\n10月5日的洛天依无限共鸣全息演唱会上，天依会和龚琳娜老师为大家带来老师的经典神曲《忐忑》的特别演出哦！\n大家都知道《忐忑》作为龚老师的代表作品，想要唱好可不容易啦，为了表演好这首歌曲，天依特地来找龚老师学习唱法，没想到学习《忐忑》竟然需要学牛叫、老虎叫、猫叫，还有公鸡叫？一起来看看天依的学习过程和成果吧！\n恰逢天依游学记的第二季是戏曲主题，天依和龚老师一拍即合，就准备在演唱会上为大家带来不一样的戏曲版《忐忑》啦，天依也和龚老师学习了戏曲的唱腔，敬请期待吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25065,
+    "comment": 470,
+    "forward": 70
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

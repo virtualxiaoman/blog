@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "976979015506067457",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/976979015506067457",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月14日",
+    "pub_ts": 1726309053,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发此条动态并关注天依，揪2 位小伙伴送出霓裳步月新品手办 1 个哦！[心律共鸣动态表情包_膨胀]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发此条动态并关注天依，揪2 位小伙伴送出霓裳步月新品手办 1 个哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_膨胀]",
+        "package_id": "5582",
+        "emoji_id": "81889",
+        "name": "膨胀",
+        "url": "https://i0.hdslb.com/bfs/emote/beaf2342fe922a528a4c6392dc2c45b1676921e4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/膨胀.gif",
+        "package_id": "5582",
+        "emoji_id": "81889",
+        "text": "[心律共鸣动态表情包_膨胀]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5095,
+    "comment": 1649,
+    "forward": 4069
+  },
+  "forward": {
+    "orig_id": 976978358367682613,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-09-14_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:19:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

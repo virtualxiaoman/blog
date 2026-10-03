@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "715725599639863330",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/715725599639863330",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月11日",
+    "pub_ts": 1665481252,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "看，微风拂过花丛，飞鸟的翅翼划过蓝天。 在这个人间，每分每秒都有新的故事诞生。 用音乐将它们记录吧，用歌声将它们传颂吧~♪ 而你，愿意做我最忠实的听众吗？ [洛天依_最喜欢你了] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "看，微风拂过花丛，飞鸟的翅翼划过蓝天。 在这个人间，每分每秒都有新的故事诞生。 用音乐将它们记录吧，用歌声将它们传颂吧~♪ 而你，愿意做我最忠实的听众吗？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-11_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/54f65176236217314007d57a246302b536081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 1101.41796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10373,
+    "comment": 472,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

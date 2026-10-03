@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "743982339811442688",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/743982339811442688",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月26日",
+    "pub_ts": 1672060287,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "视频更新预告\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "视频更新预告"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-26_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/archive/7d67a931bfdd4ab4cd7dab64749bf234d9ad6eac.jpg",
+        "width": 960,
+        "height": 600,
+        "size_kb": 103.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：【洛天依】用阿卡贝拉的方式打开经典《茉莉花》",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1ZP4y1i74a",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：【洛天依】用阿卡贝拉的方式打开经典《茉莉花》",
+        "desc1": {
+          "text": "预计2022-12-27 17:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "113.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1ZP4y1i74a",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1ZP4y1i74a",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1199852,
+        "reserve_total": 4196,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9117,
+    "comment": 196,
+    "forward": 37
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

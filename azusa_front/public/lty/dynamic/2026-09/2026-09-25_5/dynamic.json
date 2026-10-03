@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1251934416519823363",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1251934416519823363",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月25日",
+    "pub_ts": 1790327096,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今晚武汉站开票哦大家！[洛天依14周年·纯蓝幻乐 动态表情包_唱歌][洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚武汉站开票哦大家！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3801,
+    "comment": 160,
+    "forward": 46
+  },
+  "forward": {
+    "orig_id": 1250464970768908294,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-09-21_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:40:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

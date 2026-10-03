@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "1245918539539283973",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1245918539539283973",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月9日",
+    "pub_ts": 1788926415,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "第五步「Castling 转移」\n你获得了第五枚棋子——“黑战车”[逆转童话动态_吃书]\n\n你看到了一支簌簌不停的笔，注视着这场终局之战。\n总是挂着笑意的神秘少女，无法行走于大地之上的吟游旅者，决定将真相带给千百年后的世间。\n“虽然我只是后勤人员，不过必要时刻还是会努努力，等待见证那个不存在的理想未来的哦。”\n\n♟️掉落「黑战车」日常碎片小故事一则~[逆转童话动态_好吃]\n“啊黑与白，啊爱与恨，创作灵感涌现出来了！”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第五步「Castling 转移」\n你获得了第五枚棋子——“黑战车”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你看到了一支簌簌不停的笔，注视着这场终局之战。\n总是挂着笑意的神秘少女，无法行走于大地之上的吟游旅者，决定将真相带给千百年后的世间。\n“虽然我只是后勤人员，不过必要时刻还是会努努力，等待见证那个不存在的理想未来的哦。”\n\n♟️掉落「黑战车」日常碎片小故事一则~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n“啊黑与白，啊爱与恨，创作灵感涌现出来了！”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0934a7d43643149e8a5529201e3cea9936081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2779.590087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-09_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e0424508d8fc32503fc7e0e4eb8f10c536081646.jpg",
+        "width": 1708,
+        "height": 4260,
+        "size_kb": 1940.300048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5443,
+    "comment": 187,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

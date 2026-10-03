@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "843783609934413829",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/843783609934413829",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月21日",
+    "pub_ts": 1695297081,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "如果用三个词语组成你心中的天依，你会用什么呀？[代号洛天依_比心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果用三个词语组成你心中的天依，你会用什么呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9654d2bc5a87894bd275568405a5255d36081646.png",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 1777.3583984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6959,
+    "comment": 1147,
+    "forward": 97
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

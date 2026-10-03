@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1008791958457417744",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1008791958457417744",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月9日",
+    "pub_ts": 1733716081,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这次上架的新品是天依主题戒指和保温杯，感兴趣的小伙伴可以看看哦~[洛天依-潮声回响_带上我]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次上架的新品是天依主题戒指和保温杯，感兴趣的小伙伴可以看看哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_带上我]",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "name": "带上我",
+        "url": "https://i0.hdslb.com/bfs/garb/b8604e41a3f022731036690e02347c08c6279ffc.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/带上我.png",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "text": "[洛天依-潮声回响_带上我]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3067,
+    "comment": 72,
+    "forward": 48
+  },
+  "forward": {
+    "orig_id": 1008769830801637383,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2024-12/2024-12-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

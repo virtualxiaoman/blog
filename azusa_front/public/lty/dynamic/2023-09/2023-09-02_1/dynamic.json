@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "836689599563563014",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/836689599563563014",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月2日",
+    "pub_ts": 1693645378,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依# #洛天依游学记#\n\n洛天依游学记原创歌曲《歌行四方》播放量100w达成啦！\n【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐\n\n感谢大家的支持与对天依歌行之旅的见证与陪伴，天依将抽3位小伙伴，送出【洛天依游学记系列 立牌】1套。\n如果之后评论破万，播放量200w送什么呢.....哎呀呀，再说啦！（没有很期待的意思[古色花香洛天依_请你吃包子]）\n\n大家希望天依歌行的下一站是哪里，又关于什么呢？在歌曲的弹幕和评论区告诉天依吧！[天依游学记_谢谢你]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "179225",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n\n洛天依游学记原创歌曲《歌行四方》播放量100w达成啦！\n"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐",
+        "url": "https://www.bilibili.com/video/av957890888",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n感谢大家的支持与对天依歌行之旅的见证与陪伴，天依将抽3位小伙伴，送出【洛天依游学记系列 立牌】1套。\n如果之后评论破万，播放量200w送什么呢.....哎呀呀，再说啦！（没有很期待的意思"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_请你吃包子]",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "name": "请你吃包子",
+        "url": "https://i0.hdslb.com/bfs/garb/item/bd7d7eafe538d8c7c0670bb7e00b7a906ca7b66e.png"
+      },
+      {
+        "type": "text",
+        "text": "）\n\n大家希望天依歌行的下一站是哪里，又关于什么呢？在歌曲的弹幕和评论区告诉天依吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-02_1.gif",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/d59a21db21efddfbf5f6586e1b6cc9ef36081646.gif",
+        "width": 712,
+        "height": 400,
+        "size_kb": 9025.5302734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/请你吃包子.png",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "text": "[古色花香洛天依_请你吃包子]"
+      },
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "179225"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8147,
+    "comment": 941,
+    "forward": 4920
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

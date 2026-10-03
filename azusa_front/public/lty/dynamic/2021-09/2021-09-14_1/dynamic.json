@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "570264390102898243",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/570264390102898243",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月14日",
+    "pub_ts": 1631613425,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#撕下标签，做最独特的自己！[洛天依9th_资词]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "撕下标签，做最独特的自己！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_资词]",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "name": "资词",
+        "url": "http://i0.hdslb.com/bfs/emote/f46f666f5403762facecf11bc465fb965de8b48a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/资词.png",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "text": "[洛天依9th_资词]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5390,
+    "comment": 95,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 566183398081176211,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2021-09/2021-09-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:36:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

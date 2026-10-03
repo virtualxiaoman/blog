@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "1085965331046858793",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1085965331046858793",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月5日",
+    "pub_ts": 1751684407,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《时光代理人》全新单曲「偷猎时间的天才」（洛天依 ver）MV公开",
+      "desc": "挣脱秩序的定义，汇入霓虹的洪流。准备好追逐他们的轨迹了吗？\n特邀画师：秋赤音\n模组制作：雀德游戏\n作词：月色君/许棉花\n演唱：@洛天依  \n调教：@哈士奇P",
+      "jump_url": "https://www.bilibili.com/video/BV1sA37zeENR",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d902b7a28bfc3e6cdc4daf1e86fb85b6e0182c67.jpg",
+      "cover_file": "../../_assets/covers/2025-07-05_1.jpg",
+      "bvid": "BV1sA37zeENR",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1sA37zeENR",
+        "aid": "114794359166132",
+        "cover": "http://i0.hdslb.com/bfs/archive/d902b7a28bfc3e6cdc4daf1e86fb85b6e0182c67.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1sA37zeENR",
+        "stat": {
+          "danmaku": "9102",
+          "play": "135万",
+          "vt": ""
+        },
+        "duration_text": "03:31",
+        "title": "《时光代理人》全新单曲「偷猎时间的天才」（洛天依 ver）MV公开",
+        "desc": "挣脱秩序的定义，汇入霓虹的洪流。准备好追逐他们的轨迹了吗？\n特邀画师：秋赤音\n模组制作：雀德游戏\n作词：月色君/许棉花\n演唱：@洛天依  \n调教：@哈士奇P",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "时光代理人 英都篇",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss48143",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/c3566191a329529014cbcc1cb141ba24b2baf366.jpg",
+      "cover_file": "../../_assets/covers/2025-07-05_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss48143",
+        "id_str": "114794359166132",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/c3566191a329529014cbcc1cb141ba24b2baf366.jpg",
+        "style": 2,
+        "title": "时光代理人 英都篇",
+        "desc1": "bilibili出品 已完结, 全6话",
+        "desc2": "1170.6万系列追番"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 49902,
+    "comment": 1648,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

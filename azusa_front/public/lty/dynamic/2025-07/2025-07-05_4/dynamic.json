@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1085980814399766601",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1085980814399766601",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月5日",
+    "pub_ts": 1751688012,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依生日闪耀LIVE夜】歪歪？天依喊你来线下过生日啦~",
+      "desc": "7月12日-13日，来@中华恐龙园   和龙龙一起庆祝@洛天依   十三周年吧！\n一票玩两天，玩乐园看生日LIVE♪(･ω･)ﾉ\n更多活动详情点击：https://b23.tv/hWwYdqx",
+      "jump_url": "https://www.bilibili.com/video/BV1v63jzJEXL",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/aa1891ae168886be850420fd681dcbdbddd4115f.jpg",
+      "cover_file": "../../_assets/covers/2025-07-05_3.jpg",
+      "bvid": "BV1v63jzJEXL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1v63jzJEXL",
+        "aid": "114794610824278",
+        "cover": "http://i2.hdslb.com/bfs/archive/aa1891ae168886be850420fd681dcbdbddd4115f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1v63jzJEXL",
+        "stat": {
+          "danmaku": "102",
+          "play": "16.7万",
+          "vt": ""
+        },
+        "duration_text": "00:49",
+        "title": "【洛天依生日闪耀LIVE夜】歪歪？天依喊你来线下过生日啦~",
+        "desc": "7月12日-13日，来@中华恐龙园   和龙龙一起庆祝@洛天依   十三周年吧！\n一票玩两天，玩乐园看生日LIVE♪(･ω･)ﾉ\n更多活动详情点击：https://b23.tv/hWwYdqx",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8247,
+    "comment": 423,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

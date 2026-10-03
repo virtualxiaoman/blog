@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "1206568510925307924",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1206568510925307924",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月26日",
+    "pub_ts": 1779764523,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很荣幸受邀参演【青橙跳动·城市在场】重庆站演唱会~[洛天依国乐季动态表情包_wink]\n歌声跨越次元奔赴山城，青春奏响毕业序章！\n6.14重庆赴约，和天依一起用旋律定格热烈时光吧～[洛天依国乐季动态表情包_爱你]#一橙又一城#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很荣幸受邀参演【青橙跳动·城市在场】重庆站演唱会~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n歌声跨越次元奔赴山城，青春奏响毕业序章！\n6.14重庆赴约，和天依一起用旋律定格热烈时光吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "topic",
+        "text": "#一橙又一城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%A9%99%E5%8F%88%E4%B8%80%E5%9F%8E"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依很荣幸受邀参演【青橙跳动·城市在场】重庆站演唱会~[洛天依国乐季动态表情包_wink]歌声跨越次元奔赴山城，青春奏响毕业序章！6.14重庆赴约，和天依…",
+      "desc": "天依很荣幸受邀参演【青橙跳动·城市在场】重庆站演唱会~[洛天依国乐季动态表情包_wink]\n歌声跨越次元奔赴山城，青春奏响毕业序章！\n6.14重庆赴约，和天依一起用旋律定格热烈时光吧～[洛天依国乐季动态表情包_爱你]#一橙又一城#",
+      "jump_url": "https://www.bilibili.com/video/BV1pZVw6EEzP",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c51b76867e13beed0eabbb644abb78144d820b57.jpg",
+      "cover_file": "../../_assets/covers/2026-05-26_1.jpg",
+      "bvid": "BV1pZVw6EEzP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pZVw6EEzP",
+        "aid": "116638628186323",
+        "cover": "http://i2.hdslb.com/bfs/archive/c51b76867e13beed0eabbb644abb78144d820b57.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1pZVw6EEzP",
+        "stat": {
+          "danmaku": "40",
+          "play": "4.6万",
+          "vt": ""
+        },
+        "duration_text": "00:22",
+        "title": "天依很荣幸受邀参演【青橙跳动·城市在场】重庆站演唱会~[洛天依国乐季动态表情包_wink]歌声跨越次元奔赴山城，青春奏响毕业序章！6.14重庆赴约，和天依…",
+        "desc": "天依很荣幸受邀参演【青橙跳动·城市在场】重庆站演唱会~[洛天依国乐季动态表情包_wink]\n歌声跨越次元奔赴山城，青春奏响毕业序章！\n6.14重庆赴约，和天依一起用旋律定格热烈时光吧～[洛天依国乐季动态表情包_爱你]#一橙又一城#",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12814,
+    "comment": 515,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

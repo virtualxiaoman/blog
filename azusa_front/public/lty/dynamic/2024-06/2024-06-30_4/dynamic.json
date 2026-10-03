@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "948817404525281302",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/948817404525281302",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月30日",
+    "pub_ts": 1719752167,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家晚上好呀，7月1日明天中午12:00，洛天依生日会线下影城活动即将正式开票啦！官方售票平台：https://shop653629.fanzhi.cn/，参与活动影城增加城市：江苏南京、江西南昌，明天上午11点，天依会发布更具体的购票攻略提醒大家，可以蹲蹲天依哦！[洛天依·收藏集表情包_晚安]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家晚上好呀，7月1日明天中午12:00，洛天依生日会线下影城活动即将正式开票啦！官方售票平台："
+      },
+      {
+        "type": "text",
+        "text": "https://shop653629.fanzhi.cn/"
+      },
+      {
+        "type": "text",
+        "text": "，参与活动影城增加城市：江苏南京、江西南昌，明天上午11点，天依会发布更具体的购票攻略提醒大家，可以蹲蹲天依哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_晚安]",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/f1189ccef7775ac7807879b6416fe0945417ba01.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/晚安.png",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "text": "[洛天依·收藏集表情包_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4270,
+    "comment": 450,
+    "forward": 50
+  },
+  "forward": {
+    "orig_id": 947312095777521699,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-06-26_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:15:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

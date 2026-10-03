@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "743840305253449792",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/743840305253449792",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月26日",
+    "pub_ts": 1672027217,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "或许想触碰的不只是春光，而是怀念曾经的某段回忆。\n希望大家也可以喜欢live版的演绎~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "或许想触碰的不只是春光，而是怀念曾经的某段回忆。\n希望大家也可以喜欢live版的演绎~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】春游【是想触碰那片刻春光还是......想念某个人...？】（直播live版）",
+      "desc": "或许想触碰的不只是春光，而是怀念曾经的某段回忆。\n原曲视频：BV1o94y117Qz\n\n作词/作曲/编曲/调校：鸽稀拉（公兔）\n希望大家也可以喜欢live版的演绎~",
+      "jump_url": "https://www.bilibili.com/video/BV1kA411X7Nz",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c6f8b4e1cc4ecf33403f429672fa7df40b9232e5.jpg",
+      "cover_file": "../../_assets/covers/2022-12-26_1.jpg",
+      "bvid": "BV1kA411X7Nz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kA411X7Nz",
+        "aid": "306667247",
+        "cover": "http://i1.hdslb.com/bfs/archive/c6f8b4e1cc4ecf33403f429672fa7df40b9232e5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kA411X7Nz",
+        "stat": {
+          "danmaku": "270",
+          "play": "28.5万",
+          "vt": ""
+        },
+        "duration_text": "02:57",
+        "title": "【洛天依】春游【是想触碰那片刻春光还是......想念某个人...？】（直播live版）",
+        "desc": "或许想触碰的不只是春光，而是怀念曾经的某段回忆。\n原曲视频：BV1o94y117Qz\n\n作词/作曲/编曲/调校：鸽稀拉（公兔）\n希望大家也可以喜欢live版的演绎~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 49739,
+    "comment": 772,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

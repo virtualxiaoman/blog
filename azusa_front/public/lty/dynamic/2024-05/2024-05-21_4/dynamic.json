@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "933940041566126087",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/933940041566126087",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月21日",
+    "pub_ts": 1716288261,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "#天依的周边# | 新品上架\n转发并关注天依，揪1位小伙伴送出挂画1份~\n猫噜噜萌物社 花依奇缘Ver.521即将开售，请接受小爱神天依爱的抱抱！\n\n❀商品信息\n洛天依50cm坐姿毛绒玩偶\n❀开售时间\n5月21日18:00 \n❀开荷时间\n8月下旬\n❀传送门\n网页链接\n❀商品售价\n￥399赠送精美挂画\n❀开售渠道\nbilibili会员购独家开售\n\n带给你舒适的抱抱体验，毛绒翅膀可拆卸，头饰服装也可穿脱哦！[代号洛天依_wink]\nPs:产品还在监修中以实物为准\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#天依的周边#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+      },
+      {
+        "type": "text",
+        "text": " | 新品上架\n转发并关注天依，揪1位小伙伴送出挂画1份~\n猫噜噜萌物社 花依奇缘Ver.521即将开售，请接受小爱神天依爱的抱抱！\n\n❀商品信息\n洛天依50cm坐姿毛绒玩偶\n❀开售时间\n5月21日18:00 \n❀开荷时间\n8月下旬\n❀传送门\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/ipC6KRt"
+      },
+      {
+        "type": "text",
+        "text": "\n❀商品售价\n￥399赠送精美挂画\n❀开售渠道\nbilibili会员购独家开售\n\n带给你舒适的抱抱体验，毛绒翅膀可拆卸，头饰服装也可穿脱哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\nPs:产品还在监修中以实物为准"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-21_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e21df6d2c8e521e1059f975ef47f48c736081646.jpg",
+        "width": 1000,
+        "height": 13185,
+        "size_kb": 4485.3935546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-05-21_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ed678c33f08cc31d46f5d5a68e92124136081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 599.8369140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-05-21_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b138a2fd28fb5d9eefff2a53315223736081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 589.810546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-05-21_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/20448c77ea7c102ea73cfb07b92a2ffb36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 810.7666015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5242,
+    "comment": 1648,
+    "forward": 2797
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

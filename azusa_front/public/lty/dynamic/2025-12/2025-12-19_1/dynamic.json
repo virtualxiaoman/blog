@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1148032771018457096",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1148032771018457096",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月19日",
+    "pub_ts": 1766135609,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "天依的跨晚演出新衣抢先看~[洛天依八音奇响动态_可爱]\n美食鉴赏家“小菌女士”&小厨神“饿师傅”已经准备就绪！\n猜猜天依会表演哪首歌曲呢？\n12月31日，和天依一起，伴着美食，迎接新年的到来吧~[洛天依八音奇响动态_馋]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的跨晚演出新衣抢先看~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n美食鉴赏家“小菌女士”&小厨神“饿师傅”已经准备就绪！\n猜猜天依会表演哪首歌曲呢？\n12月31日，和天依一起，伴着美食，迎接新年的到来吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_馋]",
+        "package_id": "8362",
+        "emoji_id": "115081",
+        "name": "馋",
+        "url": "https://i0.hdslb.com/bfs/garb/2a40e3507ce41cd6e534a0d7660e7daf4194360c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bd8c2005b375a34c5a390a4d3231ba7e36081646.jpg",
+        "width": 4050,
+        "height": 7200,
+        "size_kb": 8863.2802734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-19_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a61366911dc485e3f42e24536950103b36081646.png",
+        "width": 4000,
+        "height": 2908,
+        "size_kb": 10769.580078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/馋.gif",
+        "package_id": "8362",
+        "emoji_id": "115081",
+        "text": "[洛天依八音奇响动态_馋]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5794,
+    "comment": 388,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

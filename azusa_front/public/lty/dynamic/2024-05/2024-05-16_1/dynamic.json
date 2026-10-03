@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "id": "932098733232881688",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/932098733232881688",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月16日",
+    "pub_ts": 1715859548,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "“穿上舞靴 身上婚纱是透明白色\n今天的我 看上去是否有不一样呢？”\n你愿意，与我共赴这座纯白殿堂吗？[洛天依_击掌]\n【Vsinger 洛天依花嫁版玩偶 20CM款】新品预售开启～[洛天依_最喜欢你了]\n售价：69元/只\n传送门：https://b23.tv/YFQnZHM",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“穿上舞靴 身上婚纱是透明白色\n今天的我 看上去是否有不一样呢？”\n你愿意，与我共赴这座纯白殿堂吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n【Vsinger 洛天依花嫁版玩偶 20CM款】新品预售开启～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n售价：69元/只\n传送门："
+      },
+      {
+        "type": "text",
+        "text": "https://b23.tv/YFQnZHM"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【Vsinger 洛天依花嫁版玩偶 20CM款】新品预售开启～",
+      "desc": "“穿上舞靴 身上婚纱是透明白色\n今天的我 看上去是否有不一样呢？”\n你愿意，与我共赴这座纯白殿堂吗？\n【Vsinger 洛天依花嫁版玩偶 20CM款】新品预售开启～\n售价：69元/只\n传送门：https://b23.tv/YFQnZHM",
+      "jump_url": "https://www.bilibili.com/video/BV1ps421P7zX",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/835f87180a73a129f9a88fdfadd95999d91de399.png",
+      "cover_file": "../../_assets/covers/2024-05-16_1.png",
+      "bvid": "BV1ps421P7zX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ps421P7zX",
+        "aid": "1854658172",
+        "cover": "http://i2.hdslb.com/bfs/archive/835f87180a73a129f9a88fdfadd95999d91de399.png",
+        "jump_url": "//www.bilibili.com/video/BV1ps421P7zX",
+        "stat": {
+          "danmaku": "21",
+          "play": "2.7万",
+          "vt": ""
+        },
+        "duration_text": "00:13",
+        "title": "【Vsinger 洛天依花嫁版玩偶 20CM款】新品预售开启～",
+        "desc": "“穿上舞靴 身上婚纱是透明白色\n今天的我 看上去是否有不一样呢？”\n你愿意，与我共赴这座纯白殿堂吗？\n【Vsinger 洛天依花嫁版玩偶 20CM款】新品预售开启～\n售价：69元/只\n传送门：https://b23.tv/YFQnZHM",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依花嫁版玩偶 20CM款",
+            "price": "¥69",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/f4/35/f435d4f57e3f6c1e5454df73b7f21f4f.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10371853&msource=cps_Mdynamic_36081646_cont-2-932098733232881688&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-05-16_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6371,
+    "comment": 295,
+    "forward": 2843
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

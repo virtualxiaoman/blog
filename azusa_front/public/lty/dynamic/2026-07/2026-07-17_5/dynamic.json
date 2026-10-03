@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1225965090011873314",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1225965090011873314",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月17日",
+    "pub_ts": 1784280641,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今晚广州站要来啦[洛天依·信号动态表情包_耶哦]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今晚广州站要来啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_耶哦]",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "name": "耶哦",
+        "url": "https://i0.hdslb.com/bfs/garb/1d59a18d1184d7dc2c7a93fa6c404c0c1e4fe425.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/耶哦.gif",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "text": "[洛天依·信号动态表情包_耶哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4557,
+    "comment": 238,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 1224426714315096105,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-07-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:31:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

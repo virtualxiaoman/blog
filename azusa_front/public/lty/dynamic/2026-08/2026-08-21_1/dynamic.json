@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "1238907145042264068",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1238907145042264068",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月21日",
+    "pub_ts": 1787293948,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "天依 6 0 0 w 粉丝啦——！",
+    "text": "互动抽奖  感谢大家陪伴天依一路走来~[洛天依14周年·四重奏_爱你]\n固执的夏虫编织着美梦，只要结群飞行，就能甩开脆弱\n感谢你成为我六百万分之一的光，感谢你照亮我，陪伴我\n我们要一起解锁更多奇迹，更多未来！[洛天依14周年·四重奏_wink]\n\n转发关注天依，揪60个小伙伴送出【天依的随机周边礼物】1份~\n今天天依会一直陪着大家聊天哦，想要私信也可以跟天依说，天依尽量回！[洛天依14周年·四重奏_冲刺]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "422544",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  感谢大家陪伴天依一路走来~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_爱你]",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/bc2a4f74fb26c171585377e011df9d27938b2529.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n固执的夏虫编织着美梦，只要结群飞行，就能甩开脆弱\n感谢你成为我六百万分之一的光，感谢你照亮我，陪伴我\n我们要一起解锁更多奇迹，更多未来！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n转发关注天依，揪60个小伙伴送出【天依的随机周边礼物】1份~\n今天天依会一直陪着大家聊天哦，想要私信也可以跟天依说，天依尽量回！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_冲刺]",
+        "package_id": "10148",
+        "emoji_id": "144391",
+        "name": "冲刺",
+        "url": "https://i0.hdslb.com/bfs/garb/c2f25e157e3d4619b939a2125734127355e87f84.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-21_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9d06db567552cb57ff4dd68e3ef2a9aa36081646.jpg",
+        "width": 1179,
+        "height": 2453,
+        "size_kb": 2724.548828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/爱你.gif",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "text": "[洛天依14周年·四重奏_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/冲刺.gif",
+        "package_id": "10148",
+        "emoji_id": "144391",
+        "text": "[洛天依14周年·四重奏_冲刺]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "422544"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8703,
+    "comment": 2309,
+    "forward": 10417
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

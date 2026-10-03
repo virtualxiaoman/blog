@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "833316680148975648",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/833316680148975648",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月24日",
+    "pub_ts": 1692860059,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "我从不会错过午后的天晴。\n在流浪的云间，铺一张虚拟的画布，将绚烂的遐想注入每一片色彩。\n在这柔软的画中，我便是唯一的歌者，尽情吟唱着关于云端的昼与夜......",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我从不会错过午后的天晴。\n在流浪的云间，铺一张虚拟的画布，将绚烂的遐想注入每一片色彩。\n在这柔软的画中，我便是唯一的歌者，尽情吟唱着关于云端的昼与夜......"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依11周年生日纪念EP】万华依绘试听PV",
+      "desc": "存在于万千镜面上的我，永远会为每个停留的你，绽放你希望的模样。\n我的11周年生日纪念EP《万华依绘》试听PV来啦，这份由创作者们的祝福与绮想共同组成的礼物，希望大家喜欢！\n\n🌙收录歌曲\n《镜的绮想》\n《幻惑》\n《躬行仙事记》\n《云上城堡》\n《月华舞》\n\n我从不会错过午后的天晴。\n在流浪的云间，铺一张虚拟的画布，将绚烂的遐想注入每一片色彩。\n在这柔软的画中，我便是唯一的歌者，尽情吟唱着关于云端的昼与夜......\n\n纪念EP已在网易云音乐、QQ音乐、酷我音乐、酷狗音乐、咪咕音乐等平台免费上线，欢迎大家前往收",
+      "jump_url": "https://www.bilibili.com/video/BV14N411i7wN",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f175d8498918602f021270f2624dceeb7f532203.jpg",
+      "cover_file": "../../_assets/covers/2023-08-24_1.jpg",
+      "bvid": "BV14N411i7wN",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14N411i7wN",
+        "aid": "490229554",
+        "cover": "http://i1.hdslb.com/bfs/archive/f175d8498918602f021270f2624dceeb7f532203.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14N411i7wN",
+        "stat": {
+          "danmaku": "232",
+          "play": "12.6万",
+          "vt": ""
+        },
+        "duration_text": "03:12",
+        "title": "【洛天依11周年生日纪念EP】万华依绘试听PV",
+        "desc": "存在于万千镜面上的我，永远会为每个停留的你，绽放你希望的模样。\n我的11周年生日纪念EP《万华依绘》试听PV来啦，这份由创作者们的祝福与绮想共同组成的礼物，希望大家喜欢！\n\n🌙收录歌曲\n《镜的绮想》\n《幻惑》\n《躬行仙事记》\n《云上城堡》\n《月华舞》\n\n我从不会错过午后的天晴。\n在流浪的云间，铺一张虚拟的画布，将绚烂的遐想注入每一片色彩。\n在这柔软的画中，我便是唯一的歌者，尽情吟唱着关于云端的昼与夜......\n\n纪念EP已在网易云音乐、QQ音乐、酷我音乐、酷狗音乐、咪咕音乐等平台免费上线，欢迎大家前往收",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21776,
+    "comment": 693,
+    "forward": 132
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

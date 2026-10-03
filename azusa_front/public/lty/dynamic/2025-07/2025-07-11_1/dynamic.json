@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "1088195737623199753",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1088195737623199753",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月11日",
+    "pub_ts": 1752203714,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "距离洛天依十三周年生日会倒计时最后「1」天啦！\n今日主题——「∞八音盒的漂流日记之初心舞台」\n\n穿上渐渐华丽的衣装，登上更华丽闪耀的舞台\n但属于我们的最初舞台，永远会是——\n你弹奏的和弦，你落下的画笔，你所有渴望的世界。\n回忆妥善保存，未来等待新篇，一起唱吧，我们的歌！[洛天依蝶变_轻唱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "距离洛天依十三周年生日会倒计时最后「1」天啦！\n今日主题——「∞八音盒的漂流日记之初心舞台」\n\n穿上渐渐华丽的衣装，登上更华丽闪耀的舞台\n但属于我们的最初舞台，永远会是——\n你弹奏的和弦，你落下的画笔，你所有渴望的世界。\n回忆妥善保存，未来等待新篇，一起唱吧，我们的歌！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-11_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/710c0a8229e350ec6ac08b074e1af71736081646.png",
+        "width": 4120,
+        "height": 4120,
+        "size_kb": 12981.474,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4301,
+    "comment": 181,
+    "forward": 67
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

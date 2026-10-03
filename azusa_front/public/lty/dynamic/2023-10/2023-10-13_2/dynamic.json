@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "851964354394849283",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/851964354394849283",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月13日",
+    "pub_ts": 1697201809,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "参与的小伙伴们注意，新的众筹福利《登陆宇宙》音乐卡——《宇宙舞曲》即将登场，还有专属定制头像框即将解锁啦[代号洛天依_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "参与的小伙伴们注意，新的众筹福利《登陆宇宙》音乐卡——《宇宙舞曲》即将登场，还有专属定制头像框即将解锁啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4755,
+    "comment": 147,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 851942450063736889,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-10/2023-10-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

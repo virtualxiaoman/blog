@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "418098874244954331",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/418098874244954331",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月31日",
+    "pub_ts": 1596184630,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢你们一直都在天依身边，今年也有好多很棒的作品呢~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢你们一直都在天依身边，今年也有好多很棒的作品呢~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6499,
+    "comment": 303,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 418091710239459345,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2020-07/2020-07-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

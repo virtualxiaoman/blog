@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "1186869546749788177",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1186869546749788177",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月3日",
+    "pub_ts": 1775178000,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "锦依卫集合！双洛合璧，天依来洛~[洛天依拜年纪动态表情包_好多人啊]\n洛天依 × 《洛克王国：世界》梦幻联动官宣啦！[洛天依拜年纪动态表情包_展示]\n\n这一次，天依用歌声，全新演绎经典歌曲《魔法时刻》，再赴一场童年和魔法的全新冒险吧~[洛天依拜年纪动态表情包_揉脸]\n#洛克王国世界正式上线#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "锦依卫集合！双洛合璧，天依来洛~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_好多人啊]",
+        "package_id": "9451",
+        "emoji_id": "132872",
+        "name": "好多人啊",
+        "url": "https://i0.hdslb.com/bfs/garb/797e835495e7d19c91cb95da93a6741decf6dd59.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依 × 《洛克王国：世界》梦幻联动官宣啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_展示]",
+        "package_id": "9451",
+        "emoji_id": "132873",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/010cb10b83911c7116154a8cf9380eb733a389c3.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n这一次，天依用歌声，全新演绎经典歌曲《魔法时刻》，再赴一场童年和魔法的全新冒险吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛克王国世界正式上线#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-03_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/104afece5e25f8d2ac3e80983ae77c2b36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1511.060546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/好多人啊.gif",
+        "package_id": "9451",
+        "emoji_id": "132872",
+        "text": "[洛天依拜年纪动态表情包_好多人啊]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/展示.gif",
+        "package_id": "9451",
+        "emoji_id": "132873",
+        "text": "[洛天依拜年纪动态表情包_展示]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4592,
+    "comment": 200,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

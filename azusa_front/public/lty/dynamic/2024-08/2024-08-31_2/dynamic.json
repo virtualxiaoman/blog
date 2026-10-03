@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "971751378825248786",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/971751378825248786",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月31日",
+    "pub_ts": 1725091899,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "踏在柔软的沙滩上，浪花奏响欢快的协奏曲，心情会随阳光与你的笑颜一起明媚起来。\n\n现在开启，水枪大作战！！[洛天依幻游世界_我就要浪]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "踏在柔软的沙滩上，浪花奏响欢快的协奏曲，心情会随阳光与你的笑颜一起明媚起来。\n\n现在开启，水枪大作战！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_我就要浪]",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "name": "我就要浪",
+        "url": "https://i0.hdslb.com/bfs/garb/item/1f7ad55271e26aedbb481ed5159a85025d04e568.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-31_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/13c80b94b2c36de09ca1e5eefc2edc8636081646.jpg",
+        "width": 1500,
+        "height": 2207,
+        "size_kb": 1807.989990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/我就要浪.png",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "text": "[洛天依幻游世界_我就要浪]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6791,
+    "comment": 226,
+    "forward": 92
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

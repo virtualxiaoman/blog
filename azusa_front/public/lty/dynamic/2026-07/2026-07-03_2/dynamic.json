@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1220716833261223954",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1220716833261223954",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月3日",
+    "pub_ts": 1783058686,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "打开属于你和天依的小洛播放器~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "打开属于你和天依的小洛播放器~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "给你一张过去的CD，听听你和天依的回忆~",
+      "desc": "打开小洛播放器，会是你熟悉的歌曲记忆吗？\n大家第一次认识天依是哪首歌，现在又最喜欢哪首歌呢？\n\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·上海站和成都站\n将分别于7月3日和7月4日正式开启售票啦！\n🎶上海站传送门https://show.bilibili.com/platform/detail.html?id=1003089\n🎶成都站传送门 https://show.bilibili.com/platform/detail.html?id=1003172\n\n🎶巡演城市\n7.18 北京/7.25 杭州",
+      "jump_url": "https://www.bilibili.com/video/BV169Ts6ZEWC",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/9b5efb3254402f25ee51c0668191e83b6331788c.jpg",
+      "cover_file": "../../_assets/covers/2026-07-03_1.jpg",
+      "bvid": "BV169Ts6ZEWC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV169Ts6ZEWC",
+        "aid": "116854517467335",
+        "cover": "http://i1.hdslb.com/bfs/archive/9b5efb3254402f25ee51c0668191e83b6331788c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV169Ts6ZEWC",
+        "stat": {
+          "danmaku": "916",
+          "play": "81.4万",
+          "vt": ""
+        },
+        "duration_text": "04:09",
+        "title": "给你一张过去的CD，听听你和天依的回忆~",
+        "desc": "打开小洛播放器，会是你熟悉的歌曲记忆吗？\n大家第一次认识天依是哪首歌，现在又最喜欢哪首歌呢？\n\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·上海站和成都站\n将分别于7月3日和7月4日正式开启售票啦！\n🎶上海站传送门https://show.bilibili.com/platform/detail.html?id=1003089\n🎶成都站传送门 https://show.bilibili.com/platform/detail.html?id=1003172\n\n🎶巡演城市\n7.18 北京/7.25 杭州",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 238959,
+    "comment": 3183,
+    "forward": 180
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:26:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

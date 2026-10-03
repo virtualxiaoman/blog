@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "666649812819509286",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/666649812819509286",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月1日",
+    "pub_ts": 1654054905,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“二八二五六，二八二五七，二八二九三十一”  还记得那些跳皮筋时的顺口溜吗？    嘿嘿，天钿真是居家旅行必备好物！  大家儿童节快乐！小时候还喜欢玩儿什么游戏呀？  即使长大了，也要常常拾起那份简单的快乐~[洛天依·夜航星_起飞] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“二八二五六，二八二五七，二八二九三十一”  还记得那些跳皮筋时的顺口溜吗？    嘿嘿，天钿真是居家旅行必备好物！  大家儿童节快乐！小时候还喜欢玩儿什么游戏呀？  即使长大了，也要常常拾起那份简单的快乐~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5c232317d17fe2f176f26a0f63420841c498a511.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 346.1220703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9284,
+    "comment": 473,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

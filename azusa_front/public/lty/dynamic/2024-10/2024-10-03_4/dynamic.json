@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "984059509590720533",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/984059509590720533",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月3日",
+    "pub_ts": 1727957609,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "距离演唱会开始的日子越来越近，天依真的有点小紧张了！大家现在的心情又是什么样的呢？[心律共鸣动态表情包_心软软]\nstaff老师刚刚分享了一张天依前两天排练时的照片，想起和乐队老师们辛苦排练的这几天，和无数老师们演唱会前的努力筹备，想起即将见面的大家，天依的心中又充满了力量！期待和大家在舞台上正式相见的那一天~！[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "距离演唱会开始的日子越来越近，天依真的有点小紧张了！大家现在的心情又是什么样的呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_心软软]",
+        "package_id": "5582",
+        "emoji_id": "81879",
+        "name": "心软软",
+        "url": "https://i0.hdslb.com/bfs/emote/3026492aa35c156c8c7c0e81d28be864b78ae615.gif"
+      },
+      {
+        "type": "text",
+        "text": "\nstaff老师刚刚分享了一张天依前两天排练时的照片，想起和乐队老师们辛苦排练的这几天，和无数老师们演唱会前的努力筹备，想起即将见面的大家，天依的心中又充满了力量！期待和大家在舞台上正式相见的那一天~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-03_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/21b0e1c25126572d0176f73449976fb636081646.png",
+        "width": 3514,
+        "height": 1977,
+        "size_kb": 10533.13671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/心软软.gif",
+        "package_id": "5582",
+        "emoji_id": "81879",
+        "text": "[心律共鸣动态表情包_心软软]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6984,
+    "comment": 348,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

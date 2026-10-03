@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "1117151919647752217",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1117151919647752217",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月27日",
+    "pub_ts": 1758945600,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依复古未来#特别主题设定「风暴车手」\n插画&设定公开啦！[洛天依八音奇响动态_登场]\n\n一起追逐风暴、闪电和自由！[洛天依八音奇响动态_美丽]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依复古未来#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5"
+      },
+      {
+        "type": "text",
+        "text": "特别主题设定「风暴车手」\n插画&设定公开啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n一起追逐风暴、闪电和自由！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5aaf8d52b5d8105f88a960698f1f651436081646.jpg",
+        "width": 4000,
+        "height": 2236,
+        "size_kb": 8798.5166015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-27_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3a8a335e263633a0e936ff6c0152376836081646.jpg",
+        "width": 4000,
+        "height": 2241,
+        "size_kb": 3574.1328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5650,
+    "comment": 333,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

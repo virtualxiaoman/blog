@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "1068948318432788482",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1068948318432788482",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月20日",
+    "pub_ts": 1747722325,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 发起人阵容公开⚡\n\nPikapika组\n@ilem \n@DELA_P  \n@ChinozoX_X \n\nKirakira组\n@神山羊_有機酸 \n@COPY  \n@春野xupxq_    \n\n六位虚拟歌手原创音乐制作人，将担当本次创作赛的闪耀发起人，为大家带来全新洛天依原创歌曲\n此刻，不分语言，无论国界，音乐人们将用自己的音乐，用自己的热爱，以天依为载体，为这场蓄势待发的创作舞台，带来最纯挚热烈的呼唤\n“让世界听见，属于你的音乐，属于你与洛天依的共鸣回响！”\n歌曲也将同步收录在「洛天依· 八音奇响」十三周年特别企划纪念专辑中，敬请期待！[洛天依-潮声回响_酷]\n#洛天依# #闪耀的Producer# #洛天依创作赛闪耀的发起人#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 发起人阵容公开⚡\n\nPikapika组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@ilem",
+        "mid": 3379951,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n"
+      },
+      {
+        "type": "mention",
+        "text": "@DELA_P",
+        "mid": 358606,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  \n"
+      },
+      {
+        "type": "mention",
+        "text": "@ChinozoX_X",
+        "mid": 1910879962,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\nKirakira组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@神山羊_有機酸",
+        "mid": 265967388,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n"
+      },
+      {
+        "type": "mention",
+        "text": "@COPY",
+        "mid": 396194,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  \n"
+      },
+      {
+        "type": "mention",
+        "text": "@春野xupxq_",
+        "mid": 215889001,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "    \n\n六位虚拟歌手原创音乐制作人，将担当本次创作赛的闪耀发起人，为大家带来全新洛天依原创歌曲\n此刻，不分语言，无论国界，音乐人们将用自己的音乐，用自己的热爱，以天依为载体，为这场蓄势待发的创作舞台，带来最纯挚热烈的呼唤\n“让世界听见，属于你的音乐，属于你与洛天依的共鸣回响！”\n歌曲也将同步收录在「洛天依· 八音奇响」十三周年特别企划纪念专辑中，敬请期待！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_酷]",
+        "package_id": "7109",
+        "emoji_id": "94956",
+        "name": "酷",
+        "url": "https://i0.hdslb.com/bfs/garb/3bd3235f328030440455bf04f818d25b491e6d73.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依创作赛闪耀的发起人#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%9B%E4%BD%9C%E8%B5%9B%E9%97%AA%E8%80%80%E7%9A%84%E5%8F%91%E8%B5%B7%E4%BA%BA"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/115c5fd50b0e41aecffea478c83593d536081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1702.1494140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-05-20_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ebe395e591109d6f85d4cd7fcad6f1bc36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1703.4404296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-05-20_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b1477d8900abca5438557d63b5489c4836081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1704.1748046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-05-20_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e5b1cd123a72c37cdf691f93193b53e736081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1974.3955078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-05-20_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/37f4b2033ee214715df1c025e8c14a3636081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1875.81640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-05-20_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/513d47cd82a4e26a22fa07bf26d26c3936081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1890.1591796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/酷.png",
+        "package_id": "7109",
+        "emoji_id": "94956",
+        "text": "[洛天依-潮声回响_酷]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5228,
+    "comment": 480,
+    "forward": 203
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

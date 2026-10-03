@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "1112057454908145667",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1112057454908145667",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月13日",
+    "pub_ts": 1757759453,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "🪶逆转童话设定「命运双生」揭晓\n“……哪怕是童话故事，每一个抉择，都来自于他们的自由意志，不是吗？”捧着蔷薇的少女坚定地说。\n可回应她的是冷酷而低哑的声音：“注定的命运正映照在我们身上。去吧，你自可体会这一遍遍无望的轮回。”\n“那我们就做一个赌约吧，看看‘我’的选择。”\n\n🪶主题同人征集活动特别开启\n你又会为这次不一样的命运轮回，书写怎样的篇章？期待大家的创作～[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🪶逆转童话设定「命运双生」揭晓\n“……哪怕是童话故事，每一个抉择，都来自于他们的自由意志，不是吗？”捧着蔷薇的少女坚定地说。\n可回应她的是冷酷而低哑的声音：“注定的命运正映照在我们身上。去吧，你自可体会这一遍遍无望的轮回。”\n“那我们就做一个赌约吧，看看‘我’的选择。”\n\n🪶主题同人征集活动特别开启\n你又会为这次不一样的命运轮回，书写怎样的篇章？期待大家的创作～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-13_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/42dd55212f8b5b9776c79a2dd5b0d14d36081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 1897.9599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-13_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/564c0e8052bdf6cdda5086dd2812683936081646.jpg",
+        "width": 750,
+        "height": 2170,
+        "size_kb": 1875.47998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6940,
+    "comment": 412,
+    "forward": 121
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

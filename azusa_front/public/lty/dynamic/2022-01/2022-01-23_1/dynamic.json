@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "618803323053091929",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/618803323053091929",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月23日",
+    "pub_ts": 1642914776,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起期待吧！！！[洛天依9th_敲碗等][洛天依9th_敲碗等][洛天依9th_敲碗等]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起期待吧！！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_敲碗等]",
+        "package_id": "255",
+        "emoji_id": "4237",
+        "name": "敲碗等",
+        "url": "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_敲碗等]",
+        "package_id": "255",
+        "emoji_id": "4237",
+        "name": "敲碗等",
+        "url": "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_敲碗等]",
+        "package_id": "255",
+        "emoji_id": "4237",
+        "name": "敲碗等",
+        "url": "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/敲碗等.png",
+        "package_id": "255",
+        "emoji_id": "4237",
+        "text": "[洛天依9th_敲碗等]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8322,
+    "comment": 338,
+    "forward": 99
+  },
+  "forward": {
+    "orig_id": 618775830961913040,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2022-01/2022-01-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

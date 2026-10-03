@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "409139538102068690",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/409139538102068690",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月7日",
+    "pub_ts": 1594098622,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "因系统异常，天依的套装提前上线，目前正在退款到各位已购买的用户的账户上，我们将于7月8号19点12分正式开售预约，请各位期待~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "因系统异常，天依的套装提前上线，目前正在退款到各位已购买的用户的账户上，我们将于7月8号19点12分正式开售预约，请各位期待~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7493,
+    "comment": 678,
+    "forward": 115
+  },
+  "forward": {
+    "orig_id": 408861692377067632,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2020-07-06_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:24:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

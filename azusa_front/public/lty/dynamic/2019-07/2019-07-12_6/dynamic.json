@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "275159897321198201",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/275159897321198201",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562904056,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2019洛天依生日会##VOCALOID##洛天依#如果时间是有颜色的，我想今天属于天依的时间，一定务必绚烂斑斓的！今年天依的生贺曲叫作《Starlight》，很美。\n“静静地，低着头，向繁星虔诚许愿，揉碎了漫天星光将海面装点。”\n希望你们与我一样，喜欢这首歌。\n\n《Starlight》\n作词：PoKeR/K_Lacid\n作曲/编曲/混音：PoKeR\n调教：棉花P\n演唱：洛天依\n人设：TID-  \n模型：Kinsama \n场景：Licht\n动作/分镜：小怪兽",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "如果时间是有颜色的，我想今天属于天依的时间，一定务必绚烂斑斓的！今年天依的生贺曲叫作《Starlight》，很美。\n“静静地，低着头，向繁星虔诚许愿，揉碎了漫天星光将海面装点。”\n希望你们与我一样，喜欢这首歌。\n\n《Starlight》\n作词：PoKeR/K_Lacid\n作曲/编曲/混音：PoKeR\n调教：棉花P\n演唱：洛天依\n人设：TID-  \n模型：Kinsama \n场景：Licht\n动作/分镜：小怪兽"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】Starlight",
+      "desc": "#2019洛天依生日会#如果时间有颜色，那么今天属于天依的时间，一定是五彩斑斓的！今年天依有一首很美的生贺曲——《Starlight》\n“静静地，低着头，向繁星虔诚许愿，揉碎了漫天星光将海面装点。”\n希望你们与我一样，喜欢这首歌。\n\n《Starlight》\n作词：PoKeR/K_Lacid\n作曲/编曲/混音：PoKeR\n调教：棉花P\n演唱：洛天依\n人设：TID\n模型：Kinsama \n场景：Licht\n动作/分镜：小怪兽\n渲染/后期：LieP9 \n监修：曦歪（CY） \n\n今天生日惊喜还有第二重，18:00",
+      "jump_url": "https://www.bilibili.com/video/BV1dt41157ZF",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/575a6a34f246854dbc724b709706083c86fe66db.jpg",
+      "cover_file": "../../_assets/covers/2019-07-12_1.jpg",
+      "bvid": "BV1dt41157ZF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1dt41157ZF",
+        "aid": "58824435",
+        "cover": "http://i1.hdslb.com/bfs/archive/575a6a34f246854dbc724b709706083c86fe66db.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1dt41157ZF",
+        "stat": {
+          "danmaku": "1.1万",
+          "play": "88.5万",
+          "vt": ""
+        },
+        "duration_text": "02:08",
+        "title": "【洛天依原创曲】Starlight",
+        "desc": "#2019洛天依生日会#如果时间有颜色，那么今天属于天依的时间，一定是五彩斑斓的！今年天依有一首很美的生贺曲——《Starlight》\n“静静地，低着头，向繁星虔诚许愿，揉碎了漫天星光将海面装点。”\n希望你们与我一样，喜欢这首歌。\n\n《Starlight》\n作词：PoKeR/K_Lacid\n作曲/编曲/混音：PoKeR\n调教：棉花P\n演唱：洛天依\n人设：TID\n模型：Kinsama \n场景：Licht\n动作/分镜：小怪兽\n渲染/后期：LieP9 \n监修：曦歪（CY） \n\n今天生日惊喜还有第二重，18:00",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 60163,
+    "comment": 7296,
+    "forward": 644
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

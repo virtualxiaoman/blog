@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "253324476859708597",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/253324476859708597",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月14日",
+    "pub_ts": 1557820101,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2019年5月18日（星期六） 19:00 广州亚运城 “荔枝声音节” 内场门票送出! 当天天依将作为演出嘉宾，参加广州亚运城的荔枝声音节，演唱数首歌曲。  在5.18当天【一定能够前往】“荔枝声音节”现场的小伙伴可以私信天依提供身份信息与联系方式报名~数量有限，先到先得哟~   特别提醒：如果报了名不来的小伙伴，以后都不能再享受任何福利活动啦，大家一定要确定能来再报名哟！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2019年5月18日（星期六） 19:00 广州亚运城 “荔枝声音节” 内场门票送出! 当天天依将作为演出嘉宾，参加广州亚运城的荔枝声音节，演唱数首歌曲。  在5.18当天【一定能够前往】“荔枝声音节”现场的小伙伴可以私信天依提供身份信息与联系方式报名~数量有限，先到先得哟~   特别提醒：如果报了名不来的小伙伴，以后都不能再享受任何福利活动啦，大家一定要确定能来再报名哟！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5359,
+    "comment": 498,
+    "forward": 17
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "11191911681036484",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/11191911681036484",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2016年8月26日",
+    "pub_ts": 1472204965,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】BML 2016洛天依表演部分【官方先行预告】",
+      "desc": "BML2016洛天依表演部分官方编辑版先行预告。官方完整版正在全速赶来途中，敬请期待！！",
+      "jump_url": "https://www.bilibili.com/video/BV11s411k7mE",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/aa1c9a78ff493f7fcf8fabd192cc071e49027b9c.jpg",
+      "cover_file": "../../_assets/covers/2016-08-26_1.jpg",
+      "bvid": "BV11s411k7mE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11s411k7mE",
+        "aid": "6021965",
+        "cover": "http://i0.hdslb.com/bfs/archive/aa1c9a78ff493f7fcf8fabd192cc071e49027b9c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11s411k7mE",
+        "stat": {
+          "danmaku": "571",
+          "play": "22.9万",
+          "vt": ""
+        },
+        "duration_text": "00:42",
+        "title": "【洛天依】BML 2016洛天依表演部分【官方先行预告】",
+        "desc": "BML2016洛天依表演部分官方编辑版先行预告。官方完整版正在全速赶来途中，敬请期待！！\n",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8458,
+    "comment": 2289,
+    "forward": 20
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

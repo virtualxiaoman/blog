@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "668893684134051876",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/668893684134051876",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月7日",
+    "pub_ts": 1654577347,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果用圆规给人生画一个圆，接下来这段旅程，可以代表起点，可以代表中点，但绝不是终点。\n它值得你用尽全力认真对待，但也请相信，在世界的坐标系中，你一定可以找到属于你自己独一无二的位置。\n\n下午第二门数学，祝大家运筹帷幄之中，决胜千里之外！\n#洛天依# #高考加油# #高考数学#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果用圆规给人生画一个圆，接下来这段旅程，可以代表起点，可以代表中点，但绝不是终点。\n它值得你用尽全力认真对待，但也请相信，在世界的坐标系中，你一定可以找到属于你自己独一无二的位置。\n\n下午第二门数学，祝大家运筹帷幄之中，决胜千里之外！\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#高考加油#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#高考数学#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依动态壁纸】2022高考加油！",
+      "desc": "如果用圆规给人生画一个圆，接下来这段旅程，可以代表起点，可以代表中点，但绝不是终点。\n它值得你用尽全力认真对待，但也请相信，在世界的坐标系中，你一定可以找到属于你自己独一无二的位置。\n\n下午第二门数学，祝大家运筹帷幄之中，决胜千里之外！\n#洛天依# #高考加油# #高考数学#",
+      "jump_url": "https://www.bilibili.com/video/BV1MF411V7vn",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d3ec127ee32a8418bff6f24a20f0340227491c90.jpg",
+      "cover_file": "../../_assets/covers/2022-06-07_1.jpg",
+      "bvid": "BV1MF411V7vn",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1MF411V7vn",
+        "aid": "299790635",
+        "cover": "http://i2.hdslb.com/bfs/archive/d3ec127ee32a8418bff6f24a20f0340227491c90.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1MF411V7vn",
+        "stat": {
+          "danmaku": "164",
+          "play": "11.6万",
+          "vt": ""
+        },
+        "duration_text": "00:07",
+        "title": "【洛天依动态壁纸】2022高考加油！",
+        "desc": "如果用圆规给人生画一个圆，接下来这段旅程，可以代表起点，可以代表中点，但绝不是终点。\n它值得你用尽全力认真对待，但也请相信，在世界的坐标系中，你一定可以找到属于你自己独一无二的位置。\n\n下午第二门数学，祝大家运筹帷幄之中，决胜千里之外！\n#洛天依# #高考加油# #高考数学#",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 31353,
+    "comment": 995,
+    "forward": 200
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

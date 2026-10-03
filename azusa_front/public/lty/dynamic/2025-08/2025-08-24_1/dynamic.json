@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "id": "1104355874157101080",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1104355874157101080",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月24日",
+    "pub_ts": 1755966289,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "我们的「无限共鸣·流光协奏」上海站，结束啦～[洛天依流光协奏_捧花]\n所有既定好的画面与旋律，因为有大家的到来，才拥有带动血肉共鸣的力量。\n这好像只是一个普通的夜晚，当帷幕落下，一切都归于沉寂。\n但在这个夜晚，所有热烈的呼唤、挥洒的汗水与感动的泪水都融入我们的心里，伴随大家离去的脚步散落，直到下一次，光与影再次交汇。[洛天依流光协奏_抱抱]\n大合照来啦！感谢每一个你的到来，感谢所有幕后的 staff 老师，特邀嘉宾神山羊老师、乐队老师和歌曲背后的创作老师们！\n我们，下次见～一定！一定！[洛天依八音奇响_美丽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我们的「无限共鸣·流光协奏」上海站，结束啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_捧花]",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/1970804d6735f906318f08b771381742692960d8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n所有既定好的画面与旋律，因为有大家的到来，才拥有带动血肉共鸣的力量。\n这好像只是一个普通的夜晚，当帷幕落下，一切都归于沉寂。\n但在这个夜晚，所有热烈的呼唤、挥洒的汗水与感动的泪水都融入我们的心里，伴随大家离去的脚步散落，直到下一次，光与影再次交汇。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_抱抱]",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/04ae473c4cf1fcf35fc87621f732b59a71c45dac.png"
+      },
+      {
+        "type": "text",
+        "text": "\n大合照来啦！感谢每一个你的到来，感谢所有幕后的 staff 老师，特邀嘉宾神山羊老师、乐队老师和歌曲背后的创作老师们！\n我们，下次见～一定！一定！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响_美丽]",
+        "package_id": "8363",
+        "emoji_id": "115090",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/7678ef49d2ac043c8883d112a8714dc5f0c18ba7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5577c5f3f4892bc26aee2bc3ccc174536081646.jpg",
+        "width": 1920,
+        "height": 1060,
+        "size_kb": 1976.18994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-24_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b0e49264816712d9238359d3f7fe5a5736081646.jpg",
+        "width": 1920,
+        "height": 1133,
+        "size_kb": 147.4199981689453,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-24_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d2b0f249f3b4c374d681e8539a7145a936081646.jpg",
+        "width": 1920,
+        "height": 1157,
+        "size_kb": 185.2899932861328,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-24_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c7f1a604706a4eb764a1f243fe7879cb36081646.jpg",
+        "width": 1920,
+        "height": 956,
+        "size_kb": 200.9600067138672,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-24_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a4eb0b183e260affe4e9e28f3a5f7e9936081646.jpg",
+        "width": 5000,
+        "height": 2632,
+        "size_kb": 14130.0302734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-24_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/597ea6a14d88372ccabf5274c3649eb136081646.jpg",
+        "width": 1920,
+        "height": 1187,
+        "size_kb": 119.55000305175781,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-08-24_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e04e7eb85ddede4649e2f13b3c15a67036081646.jpg",
+        "width": 1920,
+        "height": 1146,
+        "size_kb": 125.44000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-08-24_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/057ede2a3cc445d6da3239ef97d51f9136081646.jpg",
+        "width": 1920,
+        "height": 1193,
+        "size_kb": 203.4600067138672,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-08-24_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/78b36af877da77ade229836d9e98f98236081646.jpg",
+        "width": 1920,
+        "height": 1122,
+        "size_kb": 190.80999755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2025-08-24_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/906d23439aa4e6aeb71e82ace904612236081646.jpg",
+        "width": 1920,
+        "height": 1160,
+        "size_kb": 240.89999389648438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 11,
+        "file": "../../_assets/images/2025-08-24_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ec05e85ce8c03c84d904e607a5bf8c7436081646.jpg",
+        "width": 1920,
+        "height": 1063,
+        "size_kb": 163.60000610351562,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 12,
+        "file": "../../_assets/images/2025-08-24_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f31776831f50c7493110f301a83565cb36081646.jpg",
+        "width": 1920,
+        "height": 851,
+        "size_kb": 2030.6600341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 13,
+        "file": "../../_assets/images/2025-08-24_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d920d6c39a651f9165b837af8f2c090036081646.jpg",
+        "width": 1920,
+        "height": 1178,
+        "size_kb": 2325.739990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 14,
+        "file": "../../_assets/images/2025-08-24_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a8e68ecb4c15f4eaab331ec3dc903b2036081646.jpg",
+        "width": 1920,
+        "height": 1066,
+        "size_kb": 930.4000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 15,
+        "file": "../../_assets/images/2025-08-24_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7848a17b4f1190f1cd341640d73570fa36081646.jpg",
+        "width": 1920,
+        "height": 1110,
+        "size_kb": 547.72998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/捧花.png",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "text": "[洛天依流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/抱抱.png",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "text": "[洛天依流光协奏_抱抱]"
+      },
+      {
+        "file": "../../_assets/emojis/8363/美丽.png",
+        "package_id": "8363",
+        "emoji_id": "115090",
+        "text": "[洛天依八音奇响_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6103,
+    "comment": 822,
+    "forward": 121
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "568410295678749991",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/568410295678749991",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月9日",
+    "pub_ts": 1631181735,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 马上就要和羊咩咩们说再见了，这几天玩得很开心~ 下一站不知道又会有什么奇遇呢？ #洛天依游学季# \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 马上就要和羊咩咩们说再见了，这几天玩得很开心~ 下一站不知道又会有什么奇遇呢？ "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-09-09_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2afcc13d4a0f0548d412cd828369a5c16d3b709e.png",
+        "width": 900,
+        "height": 1600,
+        "size_kb": 1098.8720703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6276,
+    "comment": 179,
+    "forward": 39
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:35:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

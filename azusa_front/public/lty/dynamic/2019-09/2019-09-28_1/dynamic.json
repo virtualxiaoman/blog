@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "304148306639615979",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/304148306639615979",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年9月28日",
+    "pub_ts": 1569653446,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "将胸口炽热的火焰点燃！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "将胸口炽热的火焰点燃！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5553,
+    "comment": 97,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 303815261987679389,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2019-09/2019-09-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

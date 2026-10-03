@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "971145371849850882",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/971145371849850882",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月30日",
+    "pub_ts": 1724950802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@3302071@在下小老道@梣祎中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@3302071",
+        "mid": 362760258,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@在下小老道",
+        "mid": 1743246819,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@梣祎",
+        "mid": 548189383,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3523,
+    "comment": 76,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 947334923551768577,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-06/2024-06-26_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

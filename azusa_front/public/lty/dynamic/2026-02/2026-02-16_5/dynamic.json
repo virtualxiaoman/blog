@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1169954247567998984",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169954247567998984",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771239600,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "过年，就是要吃好喝好，快快乐乐！[乐鸣东方动态表情包_干杯]\n天依祝大家除夕快乐，马年大吉！想看大家的年夜饭啦~ [逆转童话动态_好吃]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "过年，就是要吃好喝好，快快乐乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依祝大家除夕快乐，马年大吉！想看大家的年夜饭啦~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e063fca6c8a8cfb70d54cb6692fdd21c36081646.jpg",
+        "width": 1760,
+        "height": 1760,
+        "size_kb": 583.51953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7793,
+    "comment": 556,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

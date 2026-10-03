@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "452688170024467063",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/452688170024467063",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月1日",
+    "pub_ts": 1604238078,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "也许都会回归至“无”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "也许都会回归至“无”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5286,
+    "comment": 155,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 451889117129962880,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2020-10/2020-10-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

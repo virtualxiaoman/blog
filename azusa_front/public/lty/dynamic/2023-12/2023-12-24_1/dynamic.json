@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "878544395160256642",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/878544395160256642",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月24日",
+    "pub_ts": 1703390457,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“圣诞心愿是 这首歌能被你听到”洛天依X盲人张卫原创曲《签收幸福》",
+      "desc": "“这是给大家和张卫老师的圣诞礼物，也是一个盲人音乐人最淳朴的心愿”\n\n他叫张卫，是一名视力障碍人士，也是一名音乐爱好者和原创音乐人。\n张卫老师认识我，也和很多小伙伴一样，是因为听到来自创作者们的优秀作品，因为那份同样的感动与共鸣，从此愿意将天依，作为感受音乐与世界的伙伴。\n张卫老师从2016年开始进行创作，在2021年终于鼓起勇气让大家听到他的音乐。\n这首《签收幸福》，老师希望这首歌能被更多人听到，也希望听到这首歌的人，能够感受到其中传达的快乐，找到属于自己的幸福。这是一个普通音乐人，想要在你心里播种小太",
+      "jump_url": "https://www.bilibili.com/video/BV1ww41157sb",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/8ab166df4bde56613c0074043fb45547c488f82c.jpg",
+      "cover_file": "../../_assets/covers/2023-12-24_1.jpg",
+      "bvid": "BV1ww41157sb",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ww41157sb",
+        "aid": "325193215",
+        "cover": "http://i2.hdslb.com/bfs/archive/8ab166df4bde56613c0074043fb45547c488f82c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ww41157sb",
+        "stat": {
+          "danmaku": "410",
+          "play": "42.7万",
+          "vt": ""
+        },
+        "duration_text": "09:52",
+        "title": "“圣诞心愿是 这首歌能被你听到”洛天依X盲人张卫原创曲《签收幸福》",
+        "desc": "“这是给大家和张卫老师的圣诞礼物，也是一个盲人音乐人最淳朴的心愿”\n\n他叫张卫，是一名视力障碍人士，也是一名音乐爱好者和原创音乐人。\n张卫老师认识我，也和很多小伙伴一样，是因为听到来自创作者们的优秀作品，因为那份同样的感动与共鸣，从此愿意将天依，作为感受音乐与世界的伙伴。\n张卫老师从2016年开始进行创作，在2021年终于鼓起勇气让大家听到他的音乐。\n这首《签收幸福》，老师希望这首歌能被更多人听到，也希望听到这首歌的人，能够感受到其中传达的快乐，找到属于自己的幸福。这是一个普通音乐人，想要在你心里播种小太",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 63476,
+    "comment": 933,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

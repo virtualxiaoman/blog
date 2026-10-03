@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "737610953384787977",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/737610953384787977",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月9日",
+    "pub_ts": 1670576833,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "L星冒险小分队集合成功！ 一行三人开始寻找离开L星的方法，直到这一天她们在星球上发现了一条废弃的轨道....... 穿越星际的旅行终于要正式开始了！ 预备——起飞——[洛天依·夜航星_起飞] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "L星冒险小分队集合成功！ 一行三人开始寻找离开L星的方法，直到这一天她们在星球上发现了一条废弃的轨道....... 穿越星际的旅行终于要正式开始了！ 预备——起飞——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-09_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/70a30b5560d2a3542a40d7741155568f36081646.jpg",
+        "width": 2570,
+        "height": 3640,
+        "size_kb": 4531.83984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-12-09_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/efb1adbff9ee66f5e1b045a784e3cabc36081646.jpg",
+        "width": 2570,
+        "height": 3640,
+        "size_kb": 3520.659912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-12-09_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/cf8505a18ae7b4840e07cda1a4cf51c136081646.jpg",
+        "width": 2570,
+        "height": 3640,
+        "size_kb": 4878.60986328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6211,
+    "comment": 380,
+    "forward": 59
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

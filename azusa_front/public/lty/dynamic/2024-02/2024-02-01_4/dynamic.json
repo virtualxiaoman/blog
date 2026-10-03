@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "893141627514650659",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/893141627514650659",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月1日",
+    "pub_ts": 1706789140,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依# #索尼音乐牵手洛天依#\n全新EP《洛 LUO》数字EP&实体专辑 即将上线啦！[洛天依蝶变_YEAH！]\n转发关注，揪1位小伙伴送出《洛 LUO》实体USB专辑 精装版1份。\n\n「先锋音律，国音潮风，如水音乐浪潮中，探寻无限可能」\n索尼音乐为天依量身打造首个【实体USB专辑】《洛 LUO》\n包含5首原创歌曲，十张精美插画，15:00 「 哔哩哔哩会员购」首发预售\n\n🎶《洛 LUO》实体USB专辑·精装版￥249\n「洛 LUO」定制版斜挎透明包*1个\n「洛 LUO」NFC歌曲卡*5张（可读取播放音乐）\n金属徽章*2个（款式随机，共3款）\n迷你CD造型USB*1个\n歌词册*1本\n镭射票*5张\n\n🎶《洛 LUO》实体USB专辑·简装版￥98\n专辑盒子*1个\n迷你CD造型USB*1个\n歌词册*1本\n镭射票*2张（款式随机，共5款）\n\n【数字EP】 12:00上线「网易云音乐、QQ音乐、酷狗音乐、酷我音乐平台」，售价￥12/张\n🎶购买解锁限定pv、纪念壁纸等\n🎶全平台特殊编号铭牌奖品有礼活动\n※具体商品链接和详细活动详情，大家记得明天来天依的动态看哦！ [Vsinger_给大佬递茶]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "279201",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n全新EP《洛 LUO》数字EP&实体专辑 即将上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注，揪1位小伙伴送出《洛 LUO》实体USB专辑 精装版1份。\n\n「先锋音律，国音潮风，如水音乐浪潮中，探寻无限可能」\n索尼音乐为天依量身打造首个【实体USB专辑】《洛 LUO》\n包含5首原创歌曲，十张精美插画，15:00 「 哔哩哔哩会员购」首发预售\n\n🎶《洛 LUO》实体USB专辑·精装版￥249\n「洛 LUO」定制版斜挎透明包*1个\n「洛 LUO」NFC歌曲卡*5张（可读取播放音乐）\n金属徽章*2个（款式随机，共3款）\n迷你CD造型USB*1个\n歌词册*1本\n镭射票*5张\n\n🎶《洛 LUO》实体USB专辑·简装版￥98\n专辑盒子*1个\n迷你CD造型USB*1个\n歌词册*1本\n镭射票*2张（款式随机，共5款）\n\n【数字EP】 12:00上线「网易云音乐、QQ音乐、酷狗音乐、酷我音乐平台」，售价￥12/张\n🎶购买解锁限定pv、纪念壁纸等\n🎶全平台特殊编号铭牌奖品有礼活动\n※具体商品链接和详细活动详情，大家记得明天来天依的动态看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7b6a157c071f2f227d76ea3cb4ec20e436081646.jpg",
+        "width": 900,
+        "height": 12190,
+        "size_kb": 7202.564453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "279201"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6022,
+    "comment": 812,
+    "forward": 5340
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

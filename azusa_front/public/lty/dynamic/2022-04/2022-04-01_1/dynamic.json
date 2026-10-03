@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "id": "643990020673241091",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/643990020673241091",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月1日",
+    "pub_ts": 1648779011,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依10周年# #洛天依梅菲斯双公主同屏#  恰逢《精灵旅社》系列电影终章上映和天依出道共贺十周年，很开心收到梅菲斯的邀请，参加这次精灵旅社的周年庆舞会派对~ 变装cos秀好好玩，你最喜欢哪个装扮的天依呢？  对了，我演唱的电影《精灵旅社4: 变身大冒险》中文版主题曲即将上线啦，希望大家喜欢哟！[洛天依_爱你]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依梅菲斯双公主同屏#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%A2%85%E8%8F%B2%E6%96%AF%E5%8F%8C%E5%85%AC%E4%B8%BB%E5%90%8C%E5%B1%8F"
+      },
+      {
+        "type": "text",
+        "text": "  恰逢《精灵旅社》系列电影终章上映和天依出道共贺十周年，很开心收到梅菲斯的邀请，参加这次精灵旅社的周年庆舞会派对~ 变装cos秀好好玩，你最喜欢哪个装扮的天依呢？  对了，我演唱的电影《精灵旅社4: 变身大冒险》中文版主题曲即将上线啦，希望大家喜欢哟！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/436d55f3390bd98b856baecbfecfe3172e52f9fd.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1616.6400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-04-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5c0dd5b903de74a25eb497cf7f87cfcfa87f1f0f.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1639.1400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-04-01_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/612e8a426e52148ef63130c984f3c4a236316069.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1282.4200439453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-04-01_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fd31760fc854162682f88ab0f9687ffaca90c66d.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1547.0799560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-04-01_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a2d1b5a900a3b217d0af5b7dd1a9272b2f17ffa6.jpg",
+        "width": 2000,
+        "height": 2965,
+        "size_kb": 3855.330078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-04-01_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a00f606eb4e352a97bab5b0b1b8ab597870ad78f.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1183.8299560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-04-01_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f552d186f6cf772d97e0e6a121bfc55d15805e23.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1704.93994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-04-01_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0667914b2c2cb6b489a00da0e6a73cb16734f634.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1278.52001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-04-01_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/16fac7904cf97cbfc2751c587c173c6333668d7a.jpg",
+        "width": 1680,
+        "height": 2280,
+        "size_kb": 1244.969970703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6988,
+    "comment": 413,
+    "forward": 143
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

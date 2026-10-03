@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "1020732916750090290",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1020732916750090290",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月10日",
+    "pub_ts": 1736496302,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@来如风去如雨@洛临缝雨中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@来如风去如雨",
+        "mid": 448297699,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@洛临缝雨",
+        "mid": 499279799,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3522,
+    "comment": 111,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 994015333977161750,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-10/2024-10-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:25:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

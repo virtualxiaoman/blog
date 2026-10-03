@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "729134831116484613",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/729134831116484613",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月16日",
+    "pub_ts": 1668603332,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "即使囿于现实的牢笼，在心底仍然存在一颗信念与热血的种子，等待某一刻的破土而出[洛天依_冲鸭]如果青春已经将自己抛到了背后，那就一起成为魔法中年吧！[洛天依_集合]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "即使囿于现实的牢笼，在心底仍然存在一颗信念与热血的种子，等待某一刻的破土而出"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "text",
+        "text": "如果青春已经将自己抛到了背后，那就一起成为魔法中年吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_集合]",
+        "package_id": "340",
+        "emoji_id": "5575",
+        "name": "集合",
+        "url": "http://i0.hdslb.com/bfs/emote/a24ab2b5ab6c00c2869696ddf7132e7818c2ab1f.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      },
+      {
+        "file": "../../_assets/emojis/340/集合.png",
+        "package_id": "340",
+        "emoji_id": "5575",
+        "text": "[洛天依_集合]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5879,
+    "comment": 161,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 727646491812823204,
+    "orig_mid": 174907,
+    "deleted": false,
+    "archive_dir": "../../../174907/2022-11/2022-11-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

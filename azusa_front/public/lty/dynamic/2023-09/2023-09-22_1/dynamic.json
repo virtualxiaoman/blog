@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "844171458360901650",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/844171458360901650",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月22日",
+    "pub_ts": 1695387384,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "日日夜夜，惟愿用歌声与你相伴。\n天依唱片机夏季篇最后一期来啦！\n还有互动小游戏哦~\n下一期天依有了新场景哦！我已经准备好点心等待大家来做客啦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "日日夜夜，惟愿用歌声与你相伴。\n天依唱片机夏季篇最后一期来啦！\n还有互动小游戏哦~\n下一期天依有了新场景哦！我已经准备好点心等待大家来做客啦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第三期·夏终 | 感到寂寞的时候，就来听天依唱歌吧~",
+      "desc": "日日夜夜，惟愿用歌声与你相伴~\n\n【天依唱片机第三期·夏终  歌单】\n感谢老师们的创作与授权~♥\n1.《心里有鬼》BV1Lx411k7aB\n2.《消除的魔女》BV1pj411Q7PF\n3.《Nightension》BV1M741187C5\n4.《夏花》BV1aL4y1W7V9\n5.《你和我的绝对恋爱规则》BV1at4y197qq\n6.《冷太阳》BV18V4y1h772\n7.《7305》BV1ys411z7Pp\n8.《啥啊》BV15r4y1E72p\n9.《隐桥》BV1DG4y1N7mv\n10.《Kill M",
+      "jump_url": "https://www.bilibili.com/video/BV1SV411A7Sy",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/74b0ed16f0a6e4cc989ae62add4b190e2066ea99.jpg",
+      "cover_file": "../../_assets/covers/2023-09-22_1.jpg",
+      "bvid": "BV1SV411A7Sy",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1SV411A7Sy",
+        "aid": "406265800",
+        "cover": "http://i0.hdslb.com/bfs/archive/74b0ed16f0a6e4cc989ae62add4b190e2066ea99.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1SV411A7Sy",
+        "stat": {
+          "danmaku": "478",
+          "play": "19.4万",
+          "vt": ""
+        },
+        "duration_text": "50:27",
+        "title": "【天依唱片机】第三期·夏终 | 感到寂寞的时候，就来听天依唱歌吧~",
+        "desc": "日日夜夜，惟愿用歌声与你相伴~\n\n【天依唱片机第三期·夏终  歌单】\n感谢老师们的创作与授权~♥\n1.《心里有鬼》BV1Lx411k7aB\n2.《消除的魔女》BV1pj411Q7PF\n3.《Nightension》BV1M741187C5\n4.《夏花》BV1aL4y1W7V9\n5.《你和我的绝对恋爱规则》BV1at4y197qq\n6.《冷太阳》BV18V4y1h772\n7.《7305》BV1ys411z7Pp\n8.《啥啊》BV15r4y1E72p\n9.《隐桥》BV1DG4y1N7mv\n10.《Kill M",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25788,
+    "comment": 734,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

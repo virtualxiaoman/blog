@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1104535876267933696",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1104535876267933696",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月24日",
+    "pub_ts": 1756008199,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "老朋友交通银行信用卡带着新主题皮肤卡面来和大家打招呼啦~[洛天依八音奇响动态_美丽]\n“流光协奏版”&“八音奇响版”，一起定格第13年的特别回忆！\n还有专属福利带给大家，快来get天依主题卡面吧～[洛天依八音奇响动态_可爱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "老朋友交通银行信用卡带着新主题皮肤卡面来和大家打招呼啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n“流光协奏版”&“八音奇响版”，一起定格第13年的特别回忆！\n还有专属福利带给大家，快来get天依主题卡面吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-24_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2abe7ab76e711413c2dcc6964a51d49536081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2136.346,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4350,
+    "comment": 172,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

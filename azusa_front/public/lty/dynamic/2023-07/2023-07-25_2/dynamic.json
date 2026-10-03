@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "822232082521522293",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/822232082521522293",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月25日",
+    "pub_ts": 1690279225,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "《内容过于真实 请酌情观看》",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《内容过于真实 请酌情观看》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&司墨尧原创曲】我只是个打工哒 内容过于真实！",
+      "desc": "上班哪有不发疯的！\n\n词曲编混：司墨尧smile\n唱：洛天依&司墨尧smile\n调校：动点p\n曲绘：万点水\npv：越天映画",
+      "jump_url": "https://www.bilibili.com/video/BV1Tu4y1U7Kk",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/9e2afd831663ba310e453f852532f830a02bbf25.jpg",
+      "cover_file": "../../_assets/covers/2023-07-25_1.jpg",
+      "bvid": "BV1Tu4y1U7Kk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Tu4y1U7Kk",
+        "aid": "828772114",
+        "cover": "http://i0.hdslb.com/bfs/archive/9e2afd831663ba310e453f852532f830a02bbf25.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Tu4y1U7Kk",
+        "stat": {
+          "danmaku": "615",
+          "play": "112万",
+          "vt": ""
+        },
+        "duration_text": "02:14",
+        "title": "【洛天依&司墨尧原创曲】我只是个打工哒 内容过于真实！",
+        "desc": "上班哪有不发疯的！\n\n词曲编混：司墨尧smile\n唱：洛天依&司墨尧smile\n调校：动点p\n曲绘：万点水\npv：越天映画",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 142375,
+    "comment": 957,
+    "forward": 134
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

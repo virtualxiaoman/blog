@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "1024449089961459720",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1024449089961459720",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月20日",
+    "pub_ts": 1737361541,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2025网络视听盛典阵容官宣#\n天依陪你一起过大年~！[洛天依·戏游九州动态_登场]\n1月24日腊月二十五20:00#上B站看盛典#，天依在#2025网络视听盛典# 为大家带来演出舞台，记得来看哦！[洛天依·戏游九州动态_好呀]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2025网络视听盛典阵容官宣#",
+        "url": "https://search.bilibili.com/all?keyword=2025%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3"
+      },
+      {
+        "type": "text",
+        "text": "\n天依陪你一起过大年~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_登场]",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b0e9b1358e9f604183a513a855ee7cbbafcedeaf.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n1月24日腊月二十五20:00"
+      },
+      {
+        "type": "topic",
+        "text": "#上B站看盛典#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8AB%E7%AB%99%E7%9C%8B%E7%9B%9B%E5%85%B8"
+      },
+      {
+        "type": "text",
+        "text": "，天依在"
+      },
+      {
+        "type": "topic",
+        "text": "#2025网络视听盛典#",
+        "url": "https://search.bilibili.com/all?keyword=2025%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8"
+      },
+      {
+        "type": "text",
+        "text": " 为大家带来演出舞台，记得来看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_好呀]",
+        "package_id": "7318",
+        "emoji_id": "98454",
+        "name": "好呀",
+        "url": "https://i0.hdslb.com/bfs/garb/e61e211ad0cd8a9e6dc7d32edc6594516302cb31.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e5af406798f5a48d1d7682123b85e28236081646.jpg",
+        "width": 1920,
+        "height": 3414,
+        "size_kb": 1280.848,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/登场.gif",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "text": "[洛天依·戏游九州动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/好呀.gif",
+        "package_id": "7318",
+        "emoji_id": "98454",
+        "text": "[洛天依·戏游九州动态_好呀]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4683,
+    "comment": 234,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

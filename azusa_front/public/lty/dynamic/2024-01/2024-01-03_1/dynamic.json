@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "882363385580093609",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/882363385580093609",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月3日",
+    "pub_ts": 1704279635,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“生命轮回不歇 万籁此刻无言”\n希望这首歌曲可以带大家置身于广阔无垠的草原，感受与这片草原的历史一般悠久、空气一般自由的气息。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“生命轮回不歇 万籁此刻无言”\n希望这首歌曲可以带大家置身于广阔无垠的草原，感受与这片草原的历史一般悠久、空气一般自由的气息。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“听 这是来自草原的歌声”洛天依X哈拉木吉《天上的风》【天依游学记内蒙篇单曲】",
+      "desc": "天依游学记内蒙篇单曲终于与大家见面啦！歌曲改编自经典内蒙古科尔沁民歌《天上的风》\n在原有民歌的基础上改编作曲作词，邀请老朋友蒙古族音乐人哈拉木吉老师一同演绎\n“生命轮回不歇 万籁此刻无言”\n希望这首歌曲可以带大家置身于广阔无垠的草原，感受与这片草原的历史一般悠久、空气一般自由的气息。\n\n--STAFF--\n作词：果汁凉菜\n改编作曲/编曲： 郑子文\n调校：Creuzer\n马头琴：哈拉木吉\n录音：刘天鸿、KONG STUDIO\n混音&母带：吴澎\n声乐指导：褚子杰\n和声：Mau\n音乐监制：林星捷、TENKO\n项",
+      "jump_url": "https://www.bilibili.com/video/BV1GC4y1K7ps",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/642503329c556059d843c8f5133ed2d8aaa101c3.jpg",
+      "cover_file": "../../_assets/covers/2024-01-03_1.jpg",
+      "bvid": "BV1GC4y1K7ps",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1GC4y1K7ps",
+        "aid": "750685039",
+        "cover": "http://i0.hdslb.com/bfs/archive/642503329c556059d843c8f5133ed2d8aaa101c3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1GC4y1K7ps",
+        "stat": {
+          "danmaku": "607",
+          "play": "78.9万",
+          "vt": ""
+        },
+        "duration_text": "03:51",
+        "title": "“听 这是来自草原的歌声”洛天依X哈拉木吉《天上的风》【天依游学记内蒙篇单曲】",
+        "desc": "天依游学记内蒙篇单曲终于与大家见面啦！歌曲改编自经典内蒙古科尔沁民歌《天上的风》\n在原有民歌的基础上改编作曲作词，邀请老朋友蒙古族音乐人哈拉木吉老师一同演绎\n“生命轮回不歇 万籁此刻无言”\n希望这首歌曲可以带大家置身于广阔无垠的草原，感受与这片草原的历史一般悠久、空气一般自由的气息。\n\n--STAFF--\n作词：果汁凉菜\n改编作曲/编曲： 郑子文\n调校：Creuzer\n马头琴：哈拉木吉\n录音：刘天鸿、KONG STUDIO\n混音&母带：吴澎\n声乐指导：褚子杰\n和声：Mau\n音乐监制：林星捷、TENKO\n项",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 82040,
+    "comment": 1697,
+    "forward": 207
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

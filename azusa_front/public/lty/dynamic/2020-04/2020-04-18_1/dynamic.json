@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "379527959092756881",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/379527959092756881",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月18日",
+    "pub_ts": 1587204139,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "Hey！这里是nova7号电台。天依很高兴收到@华为终端 的邀请，为大家展示nova7的潮流科技，与大家分享更好的生活瞬间。4月23日，#华为nova7#系列新品线上发布会，敬请期待！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Hey！这里是nova7号电台。天依很高兴收到"
+      },
+      {
+        "type": "mention",
+        "text": "@华为终端 ",
+        "mid": 102999485,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的邀请，为大家展示nova7的潮流科技，与大家分享更好的生活瞬间。4月23日，"
+      },
+      {
+        "type": "topic",
+        "text": "#华为nova7#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAnova7"
+      },
+      {
+        "type": "text",
+        "text": "系列新品线上发布会，敬请期待！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9197,
+    "comment": 650,
+    "forward": 127
+  },
+  "forward": {
+    "orig_id": 379525472307724856,
+    "orig_mid": 102999485,
+    "deleted": false,
+    "archive_dir": "../../../102999485/2020-04/2020-04-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "1104568535186669589",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1104568535186669589",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月24日",
+    "pub_ts": 1756015803,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "跳动吧shine shine shiny开始寻找——\n今晚19:00，还有冰火歌会哦，天依会唱《流光（Light me up）》 ！\n我们再嗨一次~！[洛天依动态流光协奏_打call]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "跳动吧shine shine shiny开始寻找——\n今晚19:00，还有冰火歌会哦，天依会唱《流光（Light me up）》 ！\n我们再嗨一次~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-24_17.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/32f254495dca210a4dfd61fb87e4f3a836081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 9044.099609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2025夏梦季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2025夏梦季",
+        "desc1": {
+          "text": "2025-08-24 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "22万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone 16 pro Max手机*1份、中国黄金Au9999福字金条（2g）*3份、100元京东购物卡*30份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4792439&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4792439,
+        "reserve_total": 219908,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5846,
+    "comment": 744,
+    "forward": 62
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

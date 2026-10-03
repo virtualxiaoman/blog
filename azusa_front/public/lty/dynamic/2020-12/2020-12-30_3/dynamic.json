@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "474543132584514257",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/474543132584514257",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月30日",
+    "pub_ts": 1609326583,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "节目单终于公布了，天依将带领大家进入2020最美的夜，一起搭上《夜航星》起飞吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "节目单终于公布了，天依将带领大家进入2020最美的夜，一起搭上《夜航星》起飞吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4845,
+    "comment": 309,
+    "forward": 117
+  },
+  "forward": {
+    "orig_id": 474540620027576659,
+    "orig_mid": 489412051,
+    "deleted": false,
+    "archive_dir": "../../../489412051/2020-12/2020-12-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

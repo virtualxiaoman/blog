@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "275139118266220719",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/275139118266220719",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562899218,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天的生日会不见不散哦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天的生日会不见不散哦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6185,
+    "comment": 393,
+    "forward": 420
+  },
+  "forward": {
+    "orig_id": 274779144173570016,
+    "orig_mid": 382806584,
+    "deleted": false,
+    "archive_dir": "../../../382806584/2019-07/2019-07-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

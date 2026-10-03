@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1226031082228416529",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1226031082228416529",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月17日",
+    "pub_ts": 1784296006,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "今日排练顺利结束！北京站的大家都到了吗？\n明天就是巡演北京首站开启，也是我们终于要正式相见的日子！[洛天依·信号动态表情包_love之力]\n今晚好好休息，明天我们一起度过快乐的一天吧~[洛天依·信号动态表情包_耶哦]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今日排练顺利结束！北京站的大家都到了吗？\n明天就是巡演北京首站开启，也是我们终于要正式相见的日子！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n今晚好好休息，明天我们一起度过快乐的一天吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_耶哦]",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "name": "耶哦",
+        "url": "https://i0.hdslb.com/bfs/garb/1d59a18d1184d7dc2c7a93fa6c404c0c1e4fe425.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b96b04f5483af34b0446a45a3eb2a53e36081646.jpg",
+        "width": 2741,
+        "height": 3655,
+        "size_kb": 8558.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-17_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5d157084a9e8ecb249080215a4a84f736081646.jpg",
+        "width": 1920,
+        "height": 1027,
+        "size_kb": 2445.840087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-17_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/97201062ef9f542c7b7db9a87d11295e36081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2151.530029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-17_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a629cb2e74c322aba354257f215f85f136081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2380.489990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-17_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/16e528153dece86eb5621207ddc0a99d36081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 1890.8900146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-17_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/02cbe08a2d8b02a02819af43b304e0c436081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 1693.800048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/耶哦.gif",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "text": "[洛天依·信号动态表情包_耶哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6796,
+    "comment": 375,
+    "forward": 70
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:31:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

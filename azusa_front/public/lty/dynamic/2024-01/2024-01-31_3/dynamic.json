@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "892759018955603991",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/892759018955603991",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月31日",
+    "pub_ts": 1706700057,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "★洛天依x擎苍工作室 | 灯火春澜Ver.手办预售即将开启\n转发并关注，揪2位小伙伴送出新品手办一个\n\n万家灯火送岁华，新曲笙歌迎春澜\n就让弦音与鼓声奏响新一年的幸福安康\n观赏与实用性兼备，大鼓可以作为蓝牙音箱使用哦！\n新的一年让天依的歌声继续陪伴你吧~[Vsinger_rua天依]\n\n※手办信息※\n上架时间：1月31日 18:00\n开售时间：2月3日 00:00\n产品售价：199R\n产品出荷：7月下旬\n\n*产品监修中，以最终实物为准。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "★洛天依x擎苍工作室 | 灯火春澜Ver.手办预售即将开启\n转发并关注，揪2位小伙伴送出新品手办一个\n\n万家灯火送岁华，新曲笙歌迎春澜\n就让弦音与鼓声奏响新一年的幸福安康\n观赏与实用性兼备，大鼓可以作为蓝牙音箱使用哦！\n新的一年让天依的歌声继续陪伴你吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※手办信息※\n上架时间：1月31日 18:00\n开售时间：2月3日 00:00\n产品售价：199R\n产品出荷：7月下旬\n\n*产品监修中，以最终实物为准。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-31_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4c2ab7c9e83f52fc5140479d75a67c9e36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 119.19999694824219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-01-31_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/55db0231f43ecd5b82b244252422d79d36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 102.91000366210938,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-01-31_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/55e37b6908445c0b0466301d534b939e36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 97.55999755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-01-31_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/48ee75702049b17dda5222b43efc473b36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 110.52999877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-01-31_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/c982912adeee3d1ce6b41584f0302ee236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 98.95999908447266,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-01-31_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4f8268b011756032f9d890d20329a72336081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 76.88999938964844,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6807,
+    "comment": 2606,
+    "forward": 4251
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:05:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

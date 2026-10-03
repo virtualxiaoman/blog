@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1219983514869432326",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1219983514869432326",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月1日",
+    "pub_ts": 1782887947,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "又是一年盛夏，今年也要和大家一起度过！[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "又是一年盛夏，今年也要和大家一起度过！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3577,
+    "comment": 61,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 1219973436709797937,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-07/2026-07-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:25:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

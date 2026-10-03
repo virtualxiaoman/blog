@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1093449637972410369",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1093449637972410369",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月25日",
+    "pub_ts": 1753426983,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@人帅被aL中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@人帅被aL",
+        "mid": 3546792996113289,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3512,
+    "comment": 84,
+    "forward": 15
+  },
+  "forward": {
+    "orig_id": 1073411549653106707,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-06/2025-06-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:36:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

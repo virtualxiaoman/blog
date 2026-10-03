@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "422593733616020614",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/422593733616020614",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月12日",
+    "pub_ts": 1597231171,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "对未来的展望，对过去的遗憾，都是属于我的重要成分",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "对未来的展望，对过去的遗憾，都是属于我的重要成分"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8106,
+    "comment": 200,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 422109712274032849,
+    "orig_mid": 1856472,
+    "deleted": false,
+    "archive_dir": "../../../1856472/2020-08/2020-08-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1206308536522375190",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1206308536522375190",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月25日",
+    "pub_ts": 1779703993,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依新形象「交通银行洛天依马年信用卡」上线啦！[洛天依国乐季动态表情包_爱你]\n小交@交通银行信用卡 这次当然也为大家准备满满惊喜福利——\n戳链接了解详情吧！\n🐎：https://creditcardapp.bankcomm.com/applynew/front/apply/new/reversion/cardInfo.html?trackCode=A122810441580&recomId=&cardId=287",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依新形象「交通银行洛天依马年信用卡」上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n小交"
+      },
+      {
+        "type": "mention",
+        "text": "@交通银行信用卡",
+        "mid": 578454094,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 这次当然也为大家准备满满惊喜福利——\n戳链接了解详情吧！\n🐎："
+      },
+      {
+        "type": "text",
+        "text": "https://creditcardapp.bankcomm.com/applynew/front/apply/new/reversion/cardInfo.html?trackCode=A122810441580&recomId=&cardId=287"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3692,
+    "comment": 108,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 1206291030230433798,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2026-05/2026-05-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

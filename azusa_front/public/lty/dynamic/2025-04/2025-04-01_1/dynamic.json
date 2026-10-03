@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "1050774610987974665",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1050774610987974665",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月1日",
+    "pub_ts": 1743490929,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“这个小洛包就是逊啦，被天依关禁闭怎么不找找自己的问题？”\n\n那我问你，是不是没有每天投喂小洛包，对包包大王教的信仰是不是不够虔诚？\n我手短是不是够不到门，是不是天依好久没有给我新衣服穿雪藏我？\n嗯？你回答我！look in my eyes！tell me why why？ ​​​[蛇来运转表情包_洛天依-大头]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“这个小洛包就是逊啦，被天依关禁闭怎么不找找自己的问题？”\n\n那我问你，是不是没有每天投喂小洛包，对包包大王教的信仰是不是不够虔诚？\n我手短是不是够不到门，是不是天依好久没有给我新衣服穿雪藏我？\n嗯？你回答我！look in my eyes！tell me why why？ ​​​"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-大头]",
+        "package_id": "7562",
+        "emoji_id": "102476",
+        "name": "洛天依-大头",
+        "url": "https://i0.hdslb.com/bfs/emote/e3c02924430a6f17aef533e60c5db3f4ad0d1e7b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/22e9328f4e9621cf90528a9c0dff33d236081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 133.9199981689453,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-大头.png",
+        "package_id": "7562",
+        "emoji_id": "102476",
+        "text": "[蛇来运转表情包_洛天依-大头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11566,
+    "comment": 960,
+    "forward": 204
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

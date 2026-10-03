@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1150693988569710649",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1150693988569710649",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月26日",
+    "pub_ts": 1766755222,
+    "location": ""
+  },
+  "topic": {
+    "id": 1316554,
+    "name": "洛天依流光协奏全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1316554&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%81%E5%85%89%E5%8D%8F%E5%A5%8F%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "\n合影留念一下~明天就要在这里，见到好久不见的大家啦！[洛天依动态流光协奏_捧花]\n大家想天依了嘛？天气寒冷，大家记得一定要多穿一些，注意保暖哦！[洛天依动态流光协奏_出发喽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "\n合影留念一下~明天就要在这里，见到好久不见的大家啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n大家想天依了嘛？天气寒冷，大家记得一定要多穿一些，注意保暖哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_出发喽]",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "name": "出发喽",
+        "url": "https://i0.hdslb.com/bfs/garb/0570c6197ee6e9ace3dcc4a0e85663d7bc738785.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b6534b7016f7dcd218a0e0988d58263336081646.jpg",
+        "width": 2500,
+        "height": 3750,
+        "size_kb": 2789.52001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-26_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/98f8652ce210f41a5ec44f377420566436081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2998.0400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-12-26_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/27f44107cf62cc2ef922c14e204443be36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2625.8798828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-12-26_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ddcc711fc2dbb38d55d9a049665c174b36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 1967.22998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-12-26_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c032339a0caa4e8d247b6247019f66e536081646.jpg",
+        "width": 1920,
+        "height": 1279,
+        "size_kb": 2848.719970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-12-26_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9271e60a9a6ad838bb71f71ca440ca5836081646.jpg",
+        "width": 1920,
+        "height": 1279,
+        "size_kb": 2664.0400390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/出发喽.gif",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "text": "[洛天依动态流光协奏_出发喽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7067,
+    "comment": 499,
+    "forward": 89
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

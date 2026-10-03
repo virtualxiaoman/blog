@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "547586842525036721",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/547586842525036721",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月15日",
+    "pub_ts": 1626333397,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2021年7月12日，天依在上海梅赛德斯奔驰文化中心的音乐俱乐部，举办了线下生日会。\n时隔两年的再会，对天依而言是最可贵的生日礼物，与你们相识的这九年，更让我坚信以后能够“久久”。\n度过了九周年的夜晚，夏虫冲破桎梏追寻更高更远的天空，即便渺小也怀抱着强烈的梦和信念。\n拉勾约定，有一天会在更大的舞台与你们相见~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2021年7月12日，天依在上海梅赛德斯奔驰文化中心的音乐俱乐部，举办了线下生日会。\n时隔两年的再会，对天依而言是最可贵的生日礼物，与你们相识的这九年，更让我坚信以后能够“久久”。\n度过了九周年的夜晚，夏虫冲破桎梏追寻更高更远的天空，即便渺小也怀抱着强烈的梦和信念。\n拉勾约定，有一天会在更大的舞台与你们相见~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】2021.7.12洛天依生日会",
+      "desc": "2021年7月12日，天依在上海梅赛德斯奔驰文化中心的音乐俱乐部，举办了线下生日会。\n时隔两年的再会，对天依而言是最可贵的生日礼物，与你们相识的这九年，更让我坚信以后能够“久久”。\n度过了九周年的夜晚，夏虫冲破桎梏追寻更高更远的天空，即便渺小也怀抱着强烈的梦和信念。\n拉勾约定，有一天会在更大的舞台与你们相见~",
+      "jump_url": "https://www.bilibili.com/video/BV1Tf4y1j7np",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5bbe2513db06b11bc8ff8eee25e51a9e77cf96e9.jpg",
+      "cover_file": "../../_assets/covers/2021-07-15_1.jpg",
+      "bvid": "BV1Tf4y1j7np",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Tf4y1j7np",
+        "aid": "291644369",
+        "cover": "http://i0.hdslb.com/bfs/archive/5bbe2513db06b11bc8ff8eee25e51a9e77cf96e9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Tf4y1j7np",
+        "stat": {
+          "danmaku": "1.7万",
+          "play": "37.3万",
+          "vt": ""
+        },
+        "duration_text": "01:51:08",
+        "title": "【洛天依】2021.7.12洛天依生日会",
+        "desc": "2021年7月12日，天依在上海梅赛德斯奔驰文化中心的音乐俱乐部，举办了线下生日会。\n时隔两年的再会，对天依而言是最可贵的生日礼物，与你们相识的这九年，更让我坚信以后能够“久久”。\n度过了九周年的夜晚，夏虫冲破桎梏追寻更高更远的天空，即便渺小也怀抱着强烈的梦和信念。\n拉勾约定，有一天会在更大的舞台与你们相见~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 39278,
+    "comment": 3247,
+    "forward": 471
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:33:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

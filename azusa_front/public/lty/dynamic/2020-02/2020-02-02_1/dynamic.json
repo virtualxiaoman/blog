@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "351267838793785094",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/351267838793785094",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月2日",
+    "pub_ts": 1580624317,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "希望大家都能变得更好呀(⑉• •⑉)‥♡",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "希望大家都能变得更好呀(⑉• •⑉)‥♡"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8920,
+    "comment": 276,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 351003620997244934,
+    "orig_mid": 5009841,
+    "deleted": false,
+    "archive_dir": "../../../5009841/2020-02/2020-02-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

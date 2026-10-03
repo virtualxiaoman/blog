@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088696904473116729",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088696904473116729",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752320401,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "GIVE ME LOVE  |《MAO!》洛天依十三周年生日会",
+      "desc": "小猫说，需要你的爱~\n\n《MAO!》\n作曲：神山羊\n作词：神山羊\n编曲：神山羊\n调教：纳兰寻风\n原pv：BV1DtMMzyEoN",
+      "jump_url": "https://www.bilibili.com/video/BV1BquKz9EJ2",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f3f002cfd3b76dd395ff55bf5442a9a5fea7bc6d.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_6.jpg",
+      "bvid": "BV1BquKz9EJ2",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1BquKz9EJ2",
+        "aid": "114830430175444",
+        "cover": "http://i1.hdslb.com/bfs/archive/f3f002cfd3b76dd395ff55bf5442a9a5fea7bc6d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1BquKz9EJ2",
+        "stat": {
+          "danmaku": "401",
+          "play": "100.2万",
+          "vt": ""
+        },
+        "duration_text": "03:13",
+        "title": "GIVE ME LOVE  |《MAO!》洛天依十三周年生日会",
+        "desc": "小猫说，需要你的爱~\n\n《MAO!》\n作曲：神山羊\n作词：神山羊\n编曲：神山羊\n调教：纳兰寻风\n原pv：BV1DtMMzyEoN",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19064,
+    "comment": 349,
+    "forward": 48
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

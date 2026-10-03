@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "467768783746312471",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/467768783746312471",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月12日",
+    "pub_ts": 1607749307,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "用坚定的心去热爱生活，趁着年轻尽情闪耀[洛天依_goodjob] 天依和太平鸟的联动曲已经在QQ、酷狗、酷我音乐发布，小伙伴们别忘了点进评论区获取链接哦",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "用坚定的心去热爱生活，趁着年轻尽情闪耀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      },
+      {
+        "type": "text",
+        "text": " 天依和太平鸟的联动曲已经在QQ、酷狗、酷我音乐发布，小伙伴们别忘了点进评论区获取链接哦"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5981,
+    "comment": 213,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 467567341187465253,
+    "orig_mid": 676067886,
+    "deleted": false,
+    "archive_dir": "../../../676067886/2020-12/2020-12-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "525685240908484010",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/525685240908484010",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月17日",
+    "pub_ts": 1621234033,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "想要展翅飞翔",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "想要展翅飞翔"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5078,
+    "comment": 125,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 524305074642930509,
+    "orig_mid": 149066,
+    "deleted": false,
+    "archive_dir": "../../../149066/2021-05/2021-05-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

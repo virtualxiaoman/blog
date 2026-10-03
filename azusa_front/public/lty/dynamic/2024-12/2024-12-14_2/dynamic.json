@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "id": "1010824629048049672",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1010824629048049672",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月14日",
+    "pub_ts": 1734189349,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "天依来看昆曲老师@昆曲张冉 的演出啦！\n演出非常非常精彩，恭喜老师演出大成功！！\n是被老师抱在怀里的幸福小天依嘿嘿[洛天依-潮声回响_摸摸头]\n有机会大家也可以去看看老师的演出，感受美丽动听的昆曲文化哦！也请期待即将发布的小天依学昆曲 vlog 吧～[洛天依-潮声回响_祝贺]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来看昆曲老师"
+      },
+      {
+        "type": "mention",
+        "text": "@昆曲张冉 ",
+        "mid": 1306241163,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的演出啦！\n演出非常非常精彩，恭喜老师演出大成功！！\n是被老师抱在怀里的幸福小天依嘿嘿"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n有机会大家也可以去看看老师的演出，感受美丽动听的昆曲文化哦！也请期待即将发布的小天依学昆曲 vlog 吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-14_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b5467e8a5dd06d070309c61e02d7373536081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 798.994,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-12-14_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8703752c1ee4462e22e7b6ca2c517bef36081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 953.597,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-12-14_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fad40028d231f45efc3403e8fa3c4b5a36081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 644.662,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-12-14_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/98c953f87f15c3d4d31bbc3c8319758436081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 868.8,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：天依游学记歌行戏曲季先导MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1HWkwYWETx",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：天依游学记歌行戏曲季先导MV",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "829.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4286531,
+        "reserve_total": 14370,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5590,
+    "comment": 219,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

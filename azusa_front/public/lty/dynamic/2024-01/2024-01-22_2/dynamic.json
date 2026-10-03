@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "id": "889358233781665800",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/889358233781665800",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月22日",
+    "pub_ts": 1705908250,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "天依很荣幸作为【冰火新春大使】，第三次来到冰火歌会的舞台啦[洛天依蝶变_YEAH！]\n这次天依准备了国风满满的串烧舞台，为大家送上新春祝福~不仅会表演索尼合作全新EP单曲《山妖》，还有两首来自P主老师的优秀作品，猜猜会是哪两首歌曲呀？[洛天依蝶变_电子琴]\n关键词：五行、民歌，评论里揪最快猜出答案的小伙伴送小礼物！！[洛天依蝶变_wink]\n2月2日晚19点，记得预约直播，来看天依哦 [洛天依蝶变_发射爱心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很荣幸作为【冰火新春大使】，第三次来到冰火歌会的舞台啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n这次天依准备了国风满满的串烧舞台，为大家送上新春祝福~不仅会表演索尼合作全新EP单曲《山妖》，还有两首来自P主老师的优秀作品，猜猜会是哪两首歌曲呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n关键词：五行、民歌，评论里揪最快猜出答案的小伙伴送小礼物！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n2月2日晚19点，记得预约直播，来看天依哦 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/558b9fb2e0c06729c0767b530c6fc84636081646.jpg",
+        "width": 1080,
+        "height": 1443,
+        "size_kb": 1278.23046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2023年度盛典",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2023年度盛典",
+        "desc1": {
+          "text": "2024-02-02 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "19.5万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone15 pro max*1份、iPad Air*1份、Apple AirPods (第三代)*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3442164&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3442164,
+        "reserve_total": 194907,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4739,
+    "comment": 209,
+    "forward": 83
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

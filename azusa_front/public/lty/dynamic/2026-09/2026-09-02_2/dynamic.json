@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1243384094396514304",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1243384094396514304",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月2日",
+    "pub_ts": 1788336319,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "大家把天依养得真是肥嘟嘟的！",
+      "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·广州站回顾视频来啦~\n从北京到广州，我们编织了一整片纯蓝幻乐之梦。\n谢谢广州站的大家，我们下次一定还会再见哒！",
+      "jump_url": "https://www.bilibili.com/video/BV1Q2tJ6SEo8",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/42f5215b471b0da6a52d1cb88a88c8613439131b.jpg",
+      "cover_file": "../../_assets/covers/2026-09-02_2.jpg",
+      "bvid": "BV1Q2tJ6SEo8",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Q2tJ6SEo8",
+        "aid": "117200379710672",
+        "cover": "http://i2.hdslb.com/bfs/archive/42f5215b471b0da6a52d1cb88a88c8613439131b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Q2tJ6SEo8",
+        "stat": {
+          "danmaku": "159",
+          "play": "34万",
+          "vt": ""
+        },
+        "duration_text": "02:03",
+        "title": "大家把天依养得真是肥嘟嘟的！",
+        "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·广州站回顾视频来啦~\n从北京到广州，我们编织了一整片纯蓝幻乐之梦。\n谢谢广州站的大家，我们下次一定还会再见哒！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 56980,
+    "comment": 1110,
+    "forward": 121
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "743917545941106761",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/743917545941106761",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月26日",
+    "pub_ts": 1672045201,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创】雪夜千阳【三体罗辑同人曲】",
+      "desc": "「我的诨名有千百种各不相同，管他是救世主还是罪魁祸首」\n------------------------------------------------------\n作曲：磁带君 Evalia\n编曲/混音：磁带君\n作词：大九_LN\n调音：鬼面P\n策划：齐亦橙P\n曲绘：-小小鱼呀-\nPV：越天映画\n演唱：洛天依",
+      "jump_url": "https://www.bilibili.com/video/BV1DA411X792",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/fc6da8507adb02deea9b35f5bc9c1a265ca82fd8.jpg",
+      "cover_file": "../../_assets/covers/2022-12-26_2.jpg",
+      "bvid": "BV1DA411X792",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1DA411X792",
+        "aid": "306694874",
+        "cover": "http://i1.hdslb.com/bfs/archive/fc6da8507adb02deea9b35f5bc9c1a265ca82fd8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1DA411X792",
+        "stat": {
+          "danmaku": "324",
+          "play": "15.6万",
+          "vt": ""
+        },
+        "duration_text": "04:12",
+        "title": "【洛天依原创】雪夜千阳【三体罗辑同人曲】",
+        "desc": "「我的诨名有千百种各不相同，管他是救世主还是罪魁祸首」\n------------------------------------------------------\n作曲：磁带君 Evalia\n编曲/混音：磁带君\n作词：大九_LN\n调音：鬼面P\n策划：齐亦橙P\n曲绘：-小小鱼呀-\nPV：越天映画\n演唱：洛天依",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17285,
+    "comment": 605,
+    "forward": 12
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

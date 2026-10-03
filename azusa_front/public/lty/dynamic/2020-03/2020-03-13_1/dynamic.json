@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "366071315453814514",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/366071315453814514",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年3月13日",
+    "pub_ts": 1584071020,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "即使不会有回信，灯火也依旧长明",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "即使不会有回信，灯火也依旧长明"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8151,
+    "comment": 248,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 365857121144473515,
+    "orig_mid": 43855,
+    "deleted": false,
+    "archive_dir": "../../../43855/2020-03/2020-03-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

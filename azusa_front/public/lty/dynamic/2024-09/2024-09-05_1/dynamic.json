@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "973652696465670144",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/973652696465670144",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月5日",
+    "pub_ts": 1725534584,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "无名的回忆和情绪，散在一个人漫步的夜里，请听~[洛天依蝶变_轻唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "无名的回忆和情绪，散在一个人漫步的夜里，请听~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4205,
+    "comment": 69,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 971021775548710953,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2024-08/2024-08-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

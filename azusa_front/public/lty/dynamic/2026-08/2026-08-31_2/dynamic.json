@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1242578708573716480",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1242578708573716480",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月31日",
+    "pub_ts": 1788148800,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#♟️#洛天依终冕#\n“白璧无瑕的光辉之下，笼罩着漆黑如墨的影。”\n洛天依全新主题企划「终冕」主视觉海报公开——\n\n琴键砌成的浮空王城，黑白双王的对峙凝于一瞬。[逆转童话动态_微笑]\n传说记载“贪婪的黑王挑起战争，贤明的白王战胜黑暗。”\n究竟是真实的记载，还是虚伪的谎言？\n纯白与漆黑，皆是宿命的棋局。 [逆转童话动态_缘分]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "♟️"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依终冕#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+      },
+      {
+        "type": "text",
+        "text": "\n“白璧无瑕的光辉之下，笼罩着漆黑如墨的影。”\n洛天依全新主题企划「终冕」主视觉海报公开——\n\n琴键砌成的浮空王城，黑白双王的对峙凝于一瞬。"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_微笑]",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/28b7f06a3b55053c7bdebd7bf1bb006e6278fea4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n传说记载“贪婪的黑王挑起战争，贤明的白王战胜黑暗。”\n究竟是真实的记载，还是虚伪的谎言？\n纯白与漆黑，皆是宿命的棋局。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-31_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cc8385b16d4adb87620cc13b1176255536081646.jpg",
+        "width": 2377,
+        "height": 3563,
+        "size_kb": 2779.0341796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/微笑.gif",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "text": "[逆转童话动态_微笑]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6878,
+    "comment": 459,
+    "forward": 134
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

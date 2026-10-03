@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "418416834968366165",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/418416834968366165",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月1日",
+    "pub_ts": 1596258661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "故事依然未完待续",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "故事依然未完待续"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7207,
+    "comment": 168,
+    "forward": 20
+  },
+  "forward": {
+    "orig_id": 417367870809442452,
+    "orig_mid": 161895056,
+    "deleted": false,
+    "archive_dir": "../../../161895056/2020-07/2020-07-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

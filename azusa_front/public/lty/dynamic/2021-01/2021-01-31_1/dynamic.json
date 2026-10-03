@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "486401593126335744",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/486401593126335744",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月31日",
+    "pub_ts": 1612087596,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "所有喜悲尽在此处，一起出演吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "所有喜悲尽在此处，一起出演吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6921,
+    "comment": 159,
+    "forward": 39
+  },
+  "forward": {
+    "orig_id": 485642328807059756,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2021-01/2021-01-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

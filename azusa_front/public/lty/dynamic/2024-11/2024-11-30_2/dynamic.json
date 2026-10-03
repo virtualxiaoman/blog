@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1005555017725247506",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1005555017725247506",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月30日",
+    "pub_ts": 1732962422,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@悠子yaa@通常召唤增殖的G@每天都要锻炼2024中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@悠子yaa",
+        "mid": 1736666816,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@通常召唤增殖的G",
+        "mid": 352924418,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@每天都要锻炼2024",
+        "mid": 1079646765,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3629,
+    "comment": 115,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 981806636016336899,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-09/2024-09-27_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

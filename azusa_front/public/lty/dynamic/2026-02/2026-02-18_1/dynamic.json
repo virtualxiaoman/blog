@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "1170700873976774674",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1170700873976774674",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月18日",
+    "pub_ts": 1771413438,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家好呀！请接收中旅×洛天依「春日银河」音乐派对「Dancer」特别邀请函～[乐鸣东方动态表情包_求求]\n\n💫招募方式\n即日起-2月26日，投递邮件至support@vsinger.com，报名成功即可获得派对邀请函门票、限定周边和周边感谢礼包一份\n\n欢迎加入这场音乐派对，一起来狂欢吧！[乐鸣东方动态表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家好呀！请接收中旅×洛天依「春日银河」音乐派对「Dancer」特别邀请函～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💫招募方式\n即日起-2月26日，投递邮件至"
+      },
+      {
+        "type": "text",
+        "text": "support@vsinger.com"
+      },
+      {
+        "type": "text",
+        "text": "，报名成功即可获得派对邀请函门票、限定周边和周边感谢礼包一份\n\n欢迎加入这场音乐派对，一起来狂欢吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-18_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bb0df323361aa603f27e82504caa642236081646.png",
+        "width": 900,
+        "height": 2038,
+        "size_kb": 1535.969970703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6485,
+    "comment": 239,
+    "forward": 54
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

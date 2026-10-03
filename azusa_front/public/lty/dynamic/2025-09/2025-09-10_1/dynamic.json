@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "1110936502821453845",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1110936502821453845",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月10日",
+    "pub_ts": 1757498461,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依收到了一封神秘的邀约来信！\n竟然是来自@凸变英雄X官方 的联合会超人气英雄幸运青~\n“一起歌唱，用歌声向大家传递幸运和幸福吧！”\n9月14日，敬请期待我们的惊喜合作曲《幸运共鸣》吧！ [洛天依八音奇响动态_美丽]\n#洛天依幸运青联动曲#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依收到了一封神秘的邀约来信！\n竟然是来自"
+      },
+      {
+        "type": "mention",
+        "text": "@凸变英雄X官方",
+        "mid": 1203126943,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 的联合会超人气英雄幸运青~\n“一起歌唱，用歌声向大家传递幸运和幸福吧！”\n9月14日，敬请期待我们的惊喜合作曲《幸运共鸣》吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依幸运青联动曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%B9%B8%E8%BF%90%E9%9D%92%E8%81%94%E5%8A%A8%E6%9B%B2"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4120b1b9709cf71c2ebb3769a727f20736081646.jpg",
+        "width": 4317,
+        "height": 7673,
+        "size_kb": 1443.90234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6316,
+    "comment": 402,
+    "forward": 111
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

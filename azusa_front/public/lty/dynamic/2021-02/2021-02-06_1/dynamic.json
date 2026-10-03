@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "488666514062762830",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/488666514062762830",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月6日",
+    "pub_ts": 1612614939,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我把所有都唱进歌里，希望你能听见[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我把所有都唱进歌里，希望你能听见"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7315,
+    "comment": 254,
+    "forward": 61
+  },
+  "forward": {
+    "orig_id": 487075885812758140,
+    "orig_mid": 35639532,
+    "deleted": false,
+    "archive_dir": "../../../35639532/2021-02/2021-02-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

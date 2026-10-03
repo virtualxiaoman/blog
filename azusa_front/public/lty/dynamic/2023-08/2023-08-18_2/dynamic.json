@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "831094098986270723",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/831094098986270723",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月18日",
+    "pub_ts": 1692342574,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "收藏集来啦！天依游学造型抢先看，大家最喜欢哪个造型呀？[古色花香洛天依_期待]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "收藏集来啦！天依游学造型抢先看，大家最喜欢哪个造型呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5003,
+    "comment": 413,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 831076631604887552,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-08/2023-08-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:56:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

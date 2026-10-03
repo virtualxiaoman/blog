@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "622269499097313400",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/622269499097313400",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月1日",
+    "pub_ts": 1643721808,
+    "location": ""
+  },
+  "topic": {
+    "id": 7831,
+    "name": "2022虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=7831&topic_name=2022%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "#2022虚拟歌手贺岁纪#\n三尺戏台上，谁曾为你唱过一场繁华；\n一桌二椅间，谁曾对你诉说几段佳话。\n戏台仍在，初心不改。\n新春佳节，让我们再整旗鼓，重新点亮希望再出发",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2022虚拟歌手贺岁纪#",
+        "url": "https://search.bilibili.com/all?keyword=2022%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+      },
+      {
+        "type": "text",
+        "text": "\n三尺戏台上，谁曾为你唱过一场繁华；\n一桌二椅间，谁曾对你诉说几段佳话。\n戏台仍在，初心不改。\n新春佳节，让我们再整旗鼓，重新点亮希望再出发"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "唢呐一响，好戏开场！洛天依×乐正绫原创《扬旗鸣鼓》【2022虚拟歌手贺岁纪单品/bilibili音乐】",
+      "desc": "三尺戏台上，谁曾为你唱过一场繁华；\n一桌二椅间，谁曾对你诉说几段佳话。\n戏台仍在，初心不改。\n新春佳节，让我们再整旗鼓，重新点亮希望再出发\n\n演唱：洛天依、乐正绫\n作曲：闹闹 / LS    编曲：闹闹\n作词：St   调校：Creuzer / 哈士奇P    混音：小欧O\n绘画：TID / R_boorain / 琉珂 / 心流酱紫 / 渺纱飘雪 / Moeko  \n视频：飞米映画  鸣谢：iKz_茶壶 / Ira   \n策划：诺诺小熊猫   出品：bilibili音乐\n箫 / 笛子：嘘嘘嘘徐泽灏  唢",
+      "jump_url": "https://www.bilibili.com/video/BV1mb4y1E7RF",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5403d5670cecb1ba7f9ff28bc3e6e705316f1ba4.jpg",
+      "cover_file": "../../_assets/covers/2022-02-01_1.jpg",
+      "bvid": "BV1mb4y1E7RF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1mb4y1E7RF",
+        "aid": "636132529",
+        "cover": "http://i0.hdslb.com/bfs/archive/5403d5670cecb1ba7f9ff28bc3e6e705316f1ba4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1mb4y1E7RF",
+        "stat": {
+          "danmaku": "4314",
+          "play": "174.8万",
+          "vt": ""
+        },
+        "duration_text": "03:32",
+        "title": "唢呐一响，好戏开场！洛天依×乐正绫原创《扬旗鸣鼓》【2022虚拟歌手贺岁纪单品/bilibili音乐】",
+        "desc": "三尺戏台上，谁曾为你唱过一场繁华；\n一桌二椅间，谁曾对你诉说几段佳话。\n戏台仍在，初心不改。\n新春佳节，让我们再整旗鼓，重新点亮希望再出发\n\n演唱：洛天依、乐正绫\n作曲：闹闹 / LS    编曲：闹闹\n作词：St   调校：Creuzer / 哈士奇P    混音：小欧O\n绘画：TID / R_boorain / 琉珂 / 心流酱紫 / 渺纱飘雪 / Moeko  \n视频：飞米映画  鸣谢：iKz_茶壶 / Ira   \n策划：诺诺小熊猫   出品：bilibili音乐\n箫 / 笛子：嘘嘘嘘徐泽灏  唢",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 94580,
+    "comment": 7990,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

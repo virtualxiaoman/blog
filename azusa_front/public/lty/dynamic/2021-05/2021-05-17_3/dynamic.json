@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "525740074763608617",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/525740074763608617",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月17日",
+    "pub_ts": 1621246800,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "再弹一曲琵琶，何如？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "再弹一曲琵琶，何如？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4534,
+    "comment": 140,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 215621359854519181,
+    "orig_mid": 2664345,
+    "deleted": false,
+    "archive_dir": "../../../2664345/2019-02/2019-02-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "858225244193685528",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/858225244193685528",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月30日",
+    "pub_ts": 1698659536,
+    "location": ""
+  },
+  "topic": {
+    "id": 1110647,
+    "name": "有它不孤单的毛绒好物",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1110647&topic_name=%E6%9C%89%E5%AE%83%E4%B8%8D%E5%AD%A4%E5%8D%95%E7%9A%84%E6%AF%9B%E7%BB%92%E5%A5%BD%E7%89%A9"
+  },
+  "content": {
+    "title": "",
+    "text": "【Vsinger 洛天依Q版毛绒玩偶 20cm】新品预售中[洛天依_捏捏]\n\nΣ(っ °Д °;)っ& ¦•ˇ3ˇ•｡)\n\n售价：49元/个\n传送门：网页链接\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【Vsinger 洛天依Q版毛绒玩偶 20cm】新品预售中"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\nΣ(っ °Д °;)っ& ¦•ˇ3ˇ•｡)\n\n售价：49元/个\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/HfFksIL"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-30_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/641d787e2d42ad9d586c0aee83eb09be36081646.jpg",
+        "width": 1000,
+        "height": 6263,
+        "size_kb": 2532.0400390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依Q版毛绒玩偶 20CM 第二弹 B款",
+            "price": "¥49",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/19/99/1999610c5dffae6ab15b1d022869b349.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10188671&msource=cps_Mdynamic_36081646_cont-2-858225244193685528&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-10-30_1.png"
+          },
+          {
+            "name": "Vsinger 洛天依Q版毛绒玩偶 20CM 第二弹 A款",
+            "price": "¥49",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/62/b0/62b0f66890ed4eb8d174dc416d7bbe12.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10188662&msource=cps_Mdynamic_36081646_cont-2-858225244193685528&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-10-30_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4356,
+    "comment": 106,
+    "forward": 41
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

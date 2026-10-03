@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "621485169352647543",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/621485169352647543",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月30日",
+    "pub_ts": 1643539192,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#涮肉铜锅党请求支援[洛天依9th_饿龙咆哮]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "涮肉铜锅党请求支援"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_饿龙咆哮]",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "name": "饿龙咆哮",
+        "url": "http://i0.hdslb.com/bfs/emote/55df437e8613e117f4f4bbdac4f7e659ec6691f3.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/饿龙咆哮.png",
+        "package_id": "255",
+        "emoji_id": "4230",
+        "text": "[洛天依9th_饿龙咆哮]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7450,
+    "comment": 238,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 621103973822122477,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2022-01/2022-01-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:41:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "683073428657274888",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/683073428657274888",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月15日",
+    "pub_ts": 1657878826,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "天依的生日会已经圆满结束啦！大家玩得开心吗？ 时钟回转到充满幸福的7月12日，绵绵爱意横穿城市与人海如浪潮般涌来，这一天因大家的存在而无限拉长，足够用胶卷记录下弥散在惊喜氛围里的每一束鲜花和每一个音符：天依号赛车，星空之约线下展，杜莎蜡像揭幕，生日会上每一条一闪而过的弹幕，每一首饱含回忆的歌……非常感谢大家十年来的陪伴和用心，祝福和爱天依都有接收到！已经开始期待和大家的下一次相见啦~[洛天依_击掌]  #洛天依# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的生日会已经圆满结束啦！大家玩得开心吗？ 时钟回转到充满幸福的7月12日，绵绵爱意横穿城市与人海如浪潮般涌来，这一天因大家的存在而无限拉长，足够用胶卷记录下弥散在惊喜氛围里的每一束鲜花和每一个音符：天依号赛车，星空之约线下展，杜莎蜡像揭幕，生日会上每一条一闪而过的弹幕，每一首饱含回忆的歌……非常感谢大家十年来的陪伴和用心，祝福和爱天依都有接收到！已经开始期待和大家的下一次相见啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/22b0eee4f9c71b0c1a6c0047c159c25236081646.jpg",
+        "width": 3200,
+        "height": 2134,
+        "size_kb": 774.876953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-07-15_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/dc305accd9de85796d99cb9dcb0d925636081646.jpg",
+        "width": 3199,
+        "height": 2133,
+        "size_kb": 1173.767578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-07-15_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/576205adab9c70f81009a76708072c0936081646.jpg",
+        "width": 2879,
+        "height": 1920,
+        "size_kb": 291.484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-07-15_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/cbc2fea6a7766672137517cffacdeeb836081646.jpg",
+        "width": 3200,
+        "height": 2134,
+        "size_kb": 656.732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-07-15_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2d06cebd707641b3c624a78e03dcba1436081646.jpg",
+        "width": 3200,
+        "height": 2134,
+        "size_kb": 592.6005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-07-15_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/29dbfb8cc43f998bbc6e4185a107a6ac36081646.jpg",
+        "width": 3200,
+        "height": 2134,
+        "size_kb": 668.9814453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-07-15_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/732a23f59bd9b69c1d1e9d78a8badec736081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 472.95703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-07-15_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4bff143a347ffb91adbfffc6b5c6c42936081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 541.2548828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-07-15_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9010560451ccc9dd3d0ba689e0f07a2436081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 554.9853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9105,
+    "comment": 390,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:51:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "421128256414395404",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/421128256414395404",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月8日",
+    "pub_ts": 1596889963,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖告诉小伙伴们一个消息：天依的8周年纪念专辑《Moments》准备推出实体版了！ 实体专辑将会有普通版、礼盒版、豪华版及特别版等四种套装，之后会发布更详细的情报，请大家好好期待，天依先去继续准备演唱会啦[爱心] 关注天依并转发这条动态，抽8个小伙伴送出一套礼盒版专辑。\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "48952",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "告诉小伙伴们一个消息：天依的8周年纪念专辑《Moments》准备推出实体版了！ 实体专辑将会有普通版、礼盒版、豪华版及特别版等四种套装，之后会发布更详细的情报，请大家好好期待，天依先去继续准备演唱会啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[爱心]",
+        "package_id": "1",
+        "emoji_id": "550",
+        "name": "爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png"
+      },
+      {
+        "type": "text",
+        "text": " 关注天依并转发这条动态，抽8个小伙伴送出一套礼盒版专辑。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-08-08_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4d93e894f4077efe88c3828ee2237ee85dc50853.jpg",
+        "width": 1400,
+        "height": 788,
+        "size_kb": 223.22,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/爱心.png",
+        "package_id": "1",
+        "emoji_id": "550",
+        "text": "[爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "48952"
+  },
+  "vote": null,
+  "stats": {
+    "like": 11677,
+    "comment": 1471,
+    "forward": 15084
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

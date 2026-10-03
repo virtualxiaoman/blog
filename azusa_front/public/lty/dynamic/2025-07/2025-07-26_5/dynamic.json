@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1093882918572392453",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1093882918572392453",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月26日",
+    "pub_ts": 1753527864,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站回顾视频来啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站回顾视频来啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "这是因热爱才能凝聚而出的梦幻奇迹！",
+      "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站回顾视频来啦！\n为同一份热爱奔赴，因同一份热爱呐喊\n这是因为大家的热爱，才能实现的盛大相会，才能凝聚的梦幻奇迹。\n感谢北京站大家的到来～我们下一站成都见！\n广州站也将在 7 月 28 日正式开票啦，一起歌唱吧～\n传送门：https://show.bilibili.com/platform/detail.html?id=105342\n\n🎶广州站购票时间\n-【优先购票】7月28日 18:00\n-【正式开售】7月28日 19:00\n🎶巡演城市\n7.19",
+      "jump_url": "https://www.bilibili.com/video/BV1Gg84zxEZw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/2415d8be39c2d3951a71671b52578161336f9f3a.jpg",
+      "cover_file": "../../_assets/covers/2025-07-26_4.jpg",
+      "bvid": "BV1Gg84zxEZw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Gg84zxEZw",
+        "aid": "114919181651889",
+        "cover": "http://i2.hdslb.com/bfs/archive/2415d8be39c2d3951a71671b52578161336f9f3a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Gg84zxEZw",
+        "stat": {
+          "danmaku": "80",
+          "play": "40.8万",
+          "vt": ""
+        },
+        "duration_text": "01:16",
+        "title": "这是因热爱才能凝聚而出的梦幻奇迹！",
+        "desc": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会·北京站回顾视频来啦！\n为同一份热爱奔赴，因同一份热爱呐喊\n这是因为大家的热爱，才能实现的盛大相会，才能凝聚的梦幻奇迹。\n感谢北京站大家的到来～我们下一站成都见！\n广州站也将在 7 月 28 日正式开票啦，一起歌唱吧～\n传送门：https://show.bilibili.com/platform/detail.html?id=105342\n\n🎶广州站购票时间\n-【优先购票】7月28日 18:00\n-【正式开售】7月28日 19:00\n🎶巡演城市\n7.19 ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15908,
+    "comment": 727,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "197329261645123983",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/197329261645123983",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年12月14日",
+    "pub_ts": 1544782699,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "年末啦！天依来放大招啦！2019年2月23日，天依将与世界钢琴大师@郎朗 老师携手，在上海梅赛德斯奔驰文化中心举办一场前所未有的演唱会！ 同时本次演唱会主视图与座位区域图大公开！TID给天依设计的白色小裙子是不是很仙呢？ 限量SVIP（付特典）将于2018年12月25日20:00 在哔哩哔哩会员购平台开票！ 价值1580元的SVIP里包含特典“洛天依限量荧光棒”与金属徽章哦~数量有限，大家注意时间哦！ 敬请期待吧♪(°∀°)ﾉ\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "年末啦！天依来放大招啦！2019年2月23日，天依将与世界钢琴大师@郎朗 老师携手，在上海梅赛德斯奔驰文化中心举办一场前所未有的演唱会！ 同时本次演唱会主视图与座位区域图大公开！TID给天依设计的白色小裙子是不是很仙呢？ 限量SVIP（付特典）将于2018年12月25日20:00 在哔哩哔哩会员购平台开票！ 价值1580元的SVIP里包含特典“洛天依限量荧光棒”与金属徽章哦~数量有限，大家注意时间哦！ 敬请期待吧♪(°∀°)ﾉ"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2018-12-14_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0594ff0ab561be1cd10291323854137cb99e42a5.png",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 10949.0126953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2018-12-14_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a47f2c1123f645dab83dbe2ce1faaf84238e6346.png",
+        "width": 1522,
+        "height": 1080,
+        "size_kb": 368.138671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6237,
+    "comment": 1094,
+    "forward": 212
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

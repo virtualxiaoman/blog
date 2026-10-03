@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "453333381489230477",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/453333381489230477",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月3日",
+    "pub_ts": 1604388303,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "蒹葭苍苍，白露为霜",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "蒹葭苍苍，白露为霜"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6058,
+    "comment": 230,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 10284144572983083,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2016-01/2016-01-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

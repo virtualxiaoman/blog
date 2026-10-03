@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "1000260237894090754",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1000260237894090754",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月16日",
+    "pub_ts": 1731729635,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "多行不义必自痹，化作春泥更护花！\n--------------------------------------------\n贱侠\n人声本家：《贱侠》唱：洛天依\n作词/作曲：阿萨Aza\n编曲/混音：Evalia\n调教：Creuzer\n曲绘：小猪码头\n视频：瓷小鱼\n--------------------------------------------\n我还记得那是一个冬天，我突然很想去超市捏薯片\n但是我控制住了我自己，哎！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "多行不义必自痹，化作春泥更护花！\n--------------------------------------------\n贱侠\n人声本家："
+      },
+      {
+        "type": "video",
+        "text": "《贱侠》",
+        "url": "https://www.bilibili.com/video/av113469630185955",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "唱：洛天依\n作词/作曲：阿萨Aza\n编曲/混音：Evalia\n调教：Creuzer\n曲绘：小猪码头\n视频：瓷小鱼\n--------------------------------------------\n我还记得那是一个冬天，我突然很想去超市捏薯片\n但是我控制住了我自己，哎！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依原创《贱侠》/ 阿萨Aza & Evalia",
+      "desc": "多行不义必自痹，化作春泥更护花！\n--------------------------------------------\n贱侠\n人声本家：BV17pmbYqEMP\n唱：洛天依\n作词/作曲：阿萨Aza\n编曲/混音：Evalia\n调教：Creuzer\n曲绘：小猪码头\n视频：瓷小鱼\n--------------------------------------------\n我还记得那是一个冬天，我突然很想去超市捏薯片\n但是我控制住了我自己，哎！",
+      "jump_url": "https://www.bilibili.com/video/BV1ZUmRYyEBv",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/aaea2ce308a75e1b5220b235dc4b68eece06f6fb.jpg",
+      "cover_file": "../../_assets/covers/2024-11-16_1.jpg",
+      "bvid": "BV1ZUmRYyEBv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZUmRYyEBv",
+        "aid": "113485216219767",
+        "cover": "http://i0.hdslb.com/bfs/archive/aaea2ce308a75e1b5220b235dc4b68eece06f6fb.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZUmRYyEBv",
+        "stat": {
+          "danmaku": "871",
+          "play": "118.3万",
+          "vt": ""
+        },
+        "duration_text": "03:01",
+        "title": "洛天依原创《贱侠》/ 阿萨Aza & Evalia",
+        "desc": "多行不义必自痹，化作春泥更护花！\n--------------------------------------------\n贱侠\n人声本家：BV17pmbYqEMP\n唱：洛天依\n作词/作曲：阿萨Aza\n编曲/混音：Evalia\n调教：Creuzer\n曲绘：小猪码头\n视频：瓷小鱼\n--------------------------------------------\n我还记得那是一个冬天，我突然很想去超市捏薯片\n但是我控制住了我自己，哎！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 77295,
+    "comment": 2100,
+    "forward": 20
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

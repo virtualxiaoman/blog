@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "id": "949547858191712262",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/949547858191712262",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月2日",
+    "pub_ts": 1719922239,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "🔹《再生》专辑金曲重制篇STAFF公开🔹\n“再唱一首过去的歌，为感谢，为铭记，为新生。”[洛天依·收藏集表情包_感谢]\n🔹收录单曲\n《三月雨》by@Days的Wing翼 \n《世末积雨云》by@COPY \n《心里有鬼》by@潜移默化♀浅姨磨花 \n《歪歪？》by@PoKeR_扑克 \n《心空》by@芹菜猪肉大馄饨 \n《化作繁星》by@鸽稀拉 \n\n🔹特邀改编\n梁凡、鬼否GriffO、绿流海 GreenBang、Chinese Football、HYPER SLASH超级斩、LS\n\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有4天，距离7月12日天依的生日还有10天啦！\n今天为大家带来的是6首收录经典歌曲的全部阵容，有大家感到惊喜的选歌吗，有大家熟悉的创作老师吗？一起来看看吧！\n经过全新改编、调校、混音的这6首经典歌曲，特别邀约了多位首次合作的音乐人和乐队老师合作，希望可以带给大家熟悉的感动的同时，为大家带来崭新的体验~[洛天依·收藏集表情包_晚安]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🔹《再生》专辑金曲重制篇STAFF公开🔹\n“再唱一首过去的歌，为感谢，为铭记，为新生。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_感谢]",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "name": "感谢",
+        "url": "https://i0.hdslb.com/bfs/garb/db7b6624aa87616d6a828faa9300c8ace0fa66aa.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹收录单曲\n《三月雨》by"
+      },
+      {
+        "type": "mention",
+        "text": "@Days的Wing翼 ",
+        "mid": 15312,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n《世末积雨云》by"
+      },
+      {
+        "type": "mention",
+        "text": "@COPY ",
+        "mid": 396194,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n《心里有鬼》by"
+      },
+      {
+        "type": "mention",
+        "text": "@潜移默化♀浅姨磨花 ",
+        "mid": 313392,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n《歪歪？》by"
+      },
+      {
+        "type": "mention",
+        "text": "@PoKeR_扑克 ",
+        "mid": 312381,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n《心空》by"
+      },
+      {
+        "type": "mention",
+        "text": "@芹菜猪肉大馄饨 ",
+        "mid": 11245348,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n《化作繁星》by"
+      },
+      {
+        "type": "mention",
+        "text": "@鸽稀拉 ",
+        "mid": 2374053,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹特邀改编\n梁凡、鬼否GriffO、绿流海 GreenBang、Chinese Football、HYPER SLASH超级斩、LS\n\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有4天，距离7月12日天依的生日还有10天啦！\n今天为大家带来的是6首收录经典歌曲的全部阵容，有大家感到惊喜的选歌吗，有大家熟悉的创作老师吗？一起来看看吧！\n经过全新改编、调校、混音的这6首经典歌曲，特别邀约了多位首次合作的音乐人和乐队老师合作，希望可以带给大家熟悉的感动的同时，为大家带来崭新的体验~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_晚安]",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/f1189ccef7775ac7807879b6416fe0945417ba01.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-02_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/449bc5e9f0330d77164c3e8e4088233836081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 2445.3701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-02_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b21ca4dbcfbf14a80a6f0af0903387a136081646.png",
+        "width": 960,
+        "height": 4194,
+        "size_kb": 3784.699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-02_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cb56276517cf4cb5d3e85d01c50231ab36081646.png",
+        "width": 960,
+        "height": 4418,
+        "size_kb": 3888.570068359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/感谢.png",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "text": "[洛天依·收藏集表情包_感谢]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/晚安.png",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "text": "[洛天依·收藏集表情包_晚安]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5893,
+    "comment": 373,
+    "forward": 188
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}
