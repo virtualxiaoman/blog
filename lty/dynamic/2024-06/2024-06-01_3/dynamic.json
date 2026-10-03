@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "938074003429392390",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/938074003429392390",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月1日",
+    "pub_ts": 1717250774,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【央视六一晚会】次元壁破了！洛天依唱《拥抱海洋》",
+      "desc": "https://w.yangshipin.cn/video?type=0&vid=t00009447m0&ptag=4_2.9.1.23502_wxf（央视频号：央视少儿）",
+      "jump_url": "https://www.bilibili.com/video/BV1K7421o7w1",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/4fd208b97f45ace696387f2383c21fa255632532.jpg",
+      "cover_file": "../../_assets/covers/2024-06-01_1.jpg",
+      "bvid": "BV1K7421o7w1",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1K7421o7w1",
+        "aid": "1655281179",
+        "cover": "http://i2.hdslb.com/bfs/archive/4fd208b97f45ace696387f2383c21fa255632532.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1K7421o7w1",
+        "stat": {
+          "danmaku": "594",
+          "play": "63万",
+          "vt": ""
+        },
+        "duration_text": "03:18",
+        "title": "【央视六一晚会】次元壁破了！洛天依唱《拥抱海洋》",
+        "desc": "https://w.yangshipin.cn/video?type=0&vid=t00009447m0&ptag=4_2.9.1.23502_wxf（央视频号：央视少儿）",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 62638,
+    "comment": 828,
+    "forward": 33
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

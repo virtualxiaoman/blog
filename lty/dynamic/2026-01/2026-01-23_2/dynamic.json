@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "id": "1161057650176163847",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1161057650176163847",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月23日",
+    "pub_ts": 1769168200,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "报告！这次天依也将出席冰火歌会！[逆转童话动态_驾到]\n很荣幸担当#2026冰火盛典新春季# 新春好运大使\n这一次，天依将为大家带来的是【天依游学记 × 自贡灯会】\n主题推广新曲《千灯绘》的全新舞台哦！[逆转童话动态_好吃]\n\n新模型，新音乐，新舞台~\n2月8日晚19:00，记得预约直播，来看天依吧！[逆转童话动态_结婚]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "报告！这次天依也将出席冰火歌会！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n很荣幸担当"
+      },
+      {
+        "type": "topic",
+        "text": "#2026冰火盛典新春季#",
+        "url": "https://search.bilibili.com/all?keyword=2026%E5%86%B0%E7%81%AB%E7%9B%9B%E5%85%B8%E6%96%B0%E6%98%A5%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": " 新春好运大使\n这一次，天依将为大家带来的是【天依游学记 × 自贡灯会】\n主题推广新曲《千灯绘》的全新舞台哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n新模型，新音乐，新舞台~\n2月8日晚19:00，记得预约直播，来看天依吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-23_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8b30a7a27871ba86108e98b6945c446136081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2949.470703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：2026冰火盛典新春季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：2026冰火盛典新春季",
+        "desc1": {
+          "text": "02-08 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "25万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone 17 pro max*1份、\"马上有钱\"黄金金钞（1g）*2份、B站随机周边*30份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=5280686&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5280686,
+        "reserve_total": 250313,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4816,
+    "comment": 234,
+    "forward": 69
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

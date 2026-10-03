@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "id": "1150275375312404488",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1150275375312404488",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月25日",
+    "pub_ts": 1766657756,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依逆转童话#征集活动获奖结果公示！感谢大家的参与~ [逆转童话动态_缘分]\n\n命运的织线纷繁纠缠，在大家的笔下，在画卷与歌声里，\n续写永不落幕的故事篇章。\n恭喜以下小伙伴在本次征集活动中获奖~[逆转童话动态_微笑]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依逆转童话#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+      },
+      {
+        "type": "text",
+        "text": "征集活动获奖结果公示！感谢大家的参与~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n命运的织线纷繁纠缠，在大家的笔下，在画卷与歌声里，\n续写永不落幕的故事篇章。\n恭喜以下小伙伴在本次征集活动中获奖~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_微笑]",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/28b7f06a3b55053c7bdebd7bf1bb006e6278fea4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-25_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c948bee7f2e057c1ce6d2c5385b665c836081646.png",
+        "width": 750,
+        "height": 1745,
+        "size_kb": 2396.759765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-25_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bb8fab302ea2e4eaed622272601a4e0436081646.png",
+        "width": 2000,
+        "height": 1000,
+        "size_kb": 3774.3046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-12-25_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a51aeac3c194b5919acc7f53ef0f0b7536081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 457.7255859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-12-25_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/97e2b07d4fd694d26660dabb777f90d736081646.jpg",
+        "width": 1497,
+        "height": 842,
+        "size_kb": 278.4599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-12-25_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9bd77e05e4434077f39ec436a7472a1836081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 356.0244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-12-25_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/717df558676a09333b1a8284eb68111936081646.png",
+        "width": 1080,
+        "height": 1924,
+        "size_kb": 3376.296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/微笑.gif",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "text": "[逆转童话动态_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4808,
+    "comment": 114,
+    "forward": 52
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

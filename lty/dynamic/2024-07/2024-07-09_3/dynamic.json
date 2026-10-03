@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "id": "952129266699468856",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952129266699468856",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月9日",
+    "pub_ts": 1720523270,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依12周年X猫噜噜萌物社 新品毛绒玩偶即将开售～\n转发关注天依，揪1位小伙伴赠送同款玩偶1个！\n \n“音乐响起，梦想的旋律依旧萦绕在指间，铭记每一次灵魂震颤后的无声共鸣。”\n毛绒绒治愈时间到！你的心律共鸣Ver.小洛正在请求与你的信号连接～\n\n🔹开售时间：2024年7月12日18:00 \n🔹产品售价：预售109r；现货129r \n🔹出荷时间：2024年10月底 \n🔹入手方式：bilibili会员购、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道 \n🔹会员购传送门：网页链接\n\nPS：娃体服饰可拆卸；产品监修中，小伙伴们以实物为准哦。[古色花香洛天依_乖巧]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "306789",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依12周年X猫噜噜萌物社 新品毛绒玩偶即将开售～\n转发关注天依，揪1位小伙伴赠送同款玩偶1个！\n \n“音乐响起，梦想的旋律依旧萦绕在指间，铭记每一次灵魂震颤后的无声共鸣。”\n毛绒绒治愈时间到！你的心律共鸣Ver.小洛正在请求与你的信号连接～\n\n🔹开售时间：2024年7月12日18:00 \n🔹产品售价：预售109r；现货129r \n🔹出荷时间：2024年10月底 \n🔹入手方式：bilibili会员购、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道 \n🔹会员购传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?loadingShow=1&noTitleBar=1&itemsId=10476151"
+      },
+      {
+        "type": "text",
+        "text": "\n\nPS：娃体服饰可拆卸；产品监修中，小伙伴们以实物为准哦。"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-09_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/790318a4a6ee42a4669b4f321042619936081646.jpg",
+        "width": 1000,
+        "height": 12827,
+        "size_kb": 5582.06005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-09_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6b90cc8953ece818c8eea5a9eb9f8f4c36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 936.77001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-09_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7c7bdc255f78e9c398a9c704d2295bb736081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 917.2899780273438,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "猫噜噜 洛天依 12周年系列 坐姿毛绒玩偶",
+            "price": "¥121",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/87/c2/87c271bd1a36a51770674bc9cfff0572.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10476151&msource=cps_Mdynamic_36081646_cont-2-952129266699468856&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-07-09_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "306789"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6194,
+    "comment": 1481,
+    "forward": 8617
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

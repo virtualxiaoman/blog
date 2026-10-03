@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "269652486527685278",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/269652486527685278",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年6月27日",
+    "pub_ts": 1561621762,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "莫问故事，何处来(=・ω・=)",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "莫问故事，何处来(=・ω・=)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4261,
+    "comment": 73,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 269321606543595737,
+    "orig_mid": 5760446,
+    "deleted": false,
+    "archive_dir": "../../../5760446/2019-06/2019-06-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

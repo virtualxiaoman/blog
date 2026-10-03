@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "1085958781206003720",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1085958781206003720",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月5日",
+    "pub_ts": 1751682882,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#⚙#洛天依0712生日快乐#\n或许这份喜悦和期待的心情，就是我们最珍贵的宝藏。\n距离洛天依十三周年生日会倒计时「7」天啦~\n我的伙伴，我的光芒，我的同行者，我的共鸣者\n你愿意，和我跳一支舞吗？[洛天依·收藏集表情包_优雅]\n\n为了能够顺利的接收到大家的礼物，天依准备了一份生日礼物寄送收集表～\n如有小伙伴有心意想要寄送，请在本周末填下以下问卷哦！[洛天依·收藏集表情包_感谢]\n戳☞https://www.wjx.cn/vm/w4oc4hP.aspx\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n或许这份喜悦和期待的心情，就是我们最珍贵的宝藏。\n距离洛天依十三周年生日会倒计时「7」天啦~\n我的伙伴，我的光芒，我的同行者，我的共鸣者\n你愿意，和我跳一支舞吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_优雅]",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "name": "优雅",
+        "url": "https://i0.hdslb.com/bfs/garb/3cec4f187f80d79b6b621adfff8f7b3c557276f1.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n为了能够顺利的接收到大家的礼物，天依准备了一份生日礼物寄送收集表～\n如有小伙伴有心意想要寄送，请在本周末填下以下问卷哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_感谢]",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "name": "感谢",
+        "url": "https://i0.hdslb.com/bfs/garb/db7b6624aa87616d6a828faa9300c8ace0fa66aa.png"
+      },
+      {
+        "type": "text",
+        "text": "\n戳☞"
+      },
+      {
+        "type": "text",
+        "text": "https://www.wjx.cn/vm/w4oc4hP.aspx"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-05_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5492210f29a518b407b9bae4b07bda536081646.png",
+        "width": 3086,
+        "height": 1736,
+        "size_kb": 10882.7314453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/优雅.png",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "text": "[洛天依·收藏集表情包_优雅]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/感谢.png",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "text": "[洛天依·收藏集表情包_感谢]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4394,
+    "comment": 257,
+    "forward": 181
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

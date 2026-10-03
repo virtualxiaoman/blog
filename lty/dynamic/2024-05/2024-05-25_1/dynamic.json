@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "935289782287728647",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/935289782287728647",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月25日",
+    "pub_ts": 1716602522,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@夜世空中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@夜世空",
+        "mid": 308809007,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3203,
+    "comment": 56,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 908572470034825224,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-03/2024-03-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

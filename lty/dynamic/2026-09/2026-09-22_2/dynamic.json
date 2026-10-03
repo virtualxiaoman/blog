@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1250835493304664065",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1250835493304664065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月22日",
+    "pub_ts": 1790071233,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "你看我这手里的胭脂虫 像不像那晚春的《花骨朵》",
+      "desc": "大家今天有没有听《花骨朵》呀~\n谢谢大家的喜欢和二创！\n\n 「闪耀的Producer 2」发起人亚细亚旷世奇才作品\n《花骨朵》BV16veP6eEeC\n作词：亚细亚旷世奇才\n作曲：亚细亚旷世奇才\n演唱：洛天依\n调校：Creuzer",
+      "jump_url": "https://www.bilibili.com/video/BV19ShJ6bE6H",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f8ac78d57881e56535b9aa89e3e7099688dfe5e5.jpg",
+      "cover_file": "../../_assets/covers/2026-09-22_1.jpg",
+      "bvid": "BV19ShJ6bE6H",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19ShJ6bE6H",
+        "aid": "117314045413792",
+        "cover": "http://i1.hdslb.com/bfs/archive/f8ac78d57881e56535b9aa89e3e7099688dfe5e5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19ShJ6bE6H",
+        "stat": {
+          "danmaku": "104",
+          "play": "14.4万",
+          "vt": ""
+        },
+        "duration_text": "00:50",
+        "title": "你看我这手里的胭脂虫 像不像那晚春的《花骨朵》",
+        "desc": "大家今天有没有听《花骨朵》呀~\n谢谢大家的喜欢和二创！\n\n 「闪耀的Producer 2」发起人亚细亚旷世奇才作品\n《花骨朵》BV16veP6eEeC\n作词：亚细亚旷世奇才\n作曲：亚细亚旷世奇才\n演唱：洛天依\n调校：Creuzer",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35384,
+    "comment": 887,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

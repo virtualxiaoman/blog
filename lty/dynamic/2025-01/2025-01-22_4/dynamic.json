@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1025245063358185489",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1025245063358185489",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月22日",
+    "pub_ts": 1737546868,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "幸运石新品周边上架，是陶瓷杯、保温杯和手表喔！[洛天依-潮声回响_摸摸头]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "幸运石新品周边上架，是陶瓷杯、保温杯和手表喔！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2942,
+    "comment": 45,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 1025094464641695780,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2025-01/2025-01-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:26:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

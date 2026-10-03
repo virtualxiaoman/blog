@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "480148228119833514",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/480148228119833514",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月14日",
+    "pub_ts": 1610631621,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "水手服[洛天依·夜航星_崇拜]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "水手服"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7903,
+    "comment": 310,
+    "forward": 50
+  },
+  "forward": {
+    "orig_id": 480142494335313063,
+    "orig_mid": 90942983,
+    "deleted": false,
+    "archive_dir": "../../../90942983/2021-01/2021-01-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

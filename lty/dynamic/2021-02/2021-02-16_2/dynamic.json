@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "492337293757245362",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/492337293757245362",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月16日",
+    "pub_ts": 1613469609,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# #转发抽奖#答对的人非常多，虽然有点不舍，但奖品有限，天依先提前祝贺那些幸运小伙伴~ 没错，答案就是《权御天下》，天依曾在多次演出中演唱这首歌曲，鸟巢国风极乐夜、金鹰节晚会、Vsinger演唱会等等，激燃中国风是不是让你感受到三国英雄的凌云壮志了呢?打call打起来[洛天依_goodjob] 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出《权御天下》限定纪念色纸~ 画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "答对的人非常多，虽然有点不舍，但奖品有限，天依先提前祝贺那些幸运小伙伴~ 没错，答案就是《权御天下》，天依曾在多次演出中演唱这首歌曲，鸟巢国风极乐夜、金鹰节晚会、Vsinger演唱会等等，激燃中国风是不是让你感受到三国英雄的凌云壮志了呢?打call打起来"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      },
+      {
+        "type": "text",
+        "text": " 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出《权御天下》限定纪念色纸~ 画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-16_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2b26d5cc0d0413c3fc4860fc9603e0cafb7f77ee.jpg",
+        "width": 750,
+        "height": 750,
+        "size_kb": 530.357421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9989,
+    "comment": 1411,
+    "forward": 2791
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

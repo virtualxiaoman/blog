@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1119881751479451686",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1119881751479451686",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月4日",
+    "pub_ts": 1759581189,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "因“天依游学记•戏曲季”与中华戏曲结缘之后，很开心能再一次以《无双花》致敬国粹，和大家一起致敬每一位在时光中默默耕耘、倔强绽放的稀有剧种传承人！还有天依独唱特别版本会在之后带给大家～[洛天依·戏游九州动态_开唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "因“天依游学记•戏曲季”与中华戏曲结缘之后，很开心能再一次以《无双花》致敬国粹，和大家一起致敬每一位在时光中默默耕耘、倔强绽放的稀有剧种传承人！还有天依独唱特别版本会在之后带给大家～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_开唱]",
+        "package_id": "7318",
+        "emoji_id": "98461",
+        "name": "开唱",
+        "url": "https://i0.hdslb.com/bfs/garb/99a6967fb1742b3f779da45094213e922a4e4aa8.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/开唱.gif",
+        "package_id": "7318",
+        "emoji_id": "98461",
+        "text": "[洛天依·戏游九州动态_开唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5819,
+    "comment": 261,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 1119454823137148945,
+    "orig_mid": 433587902,
+    "deleted": false,
+    "archive_dir": "../../../433587902/2025-10/2025-10-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:40:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

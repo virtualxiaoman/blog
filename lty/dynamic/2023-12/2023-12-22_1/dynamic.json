@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "877957633914437648",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/877957633914437648",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月22日",
+    "pub_ts": 1703253841,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这个时候就适合裹在被子里吃着零食听着歌，对吧对吧~[洛天依蝶变_ZZZ]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这个时候就适合裹在被子里吃着零食听着歌，对吧对吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_ZZZ]",
+        "package_id": "3752",
+        "emoji_id": "52577",
+        "name": "ZZZ",
+        "url": "https://i0.hdslb.com/bfs/emote/c005c3a40e37e4b18809834ef4c0df663c930535.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/ZZZ.png",
+        "package_id": "3752",
+        "emoji_id": "52577",
+        "text": "[洛天依蝶变_ZZZ]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4894,
+    "comment": 152,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 0,
+    "orig_mid": 0,
+    "deleted": false,
+    "archive_dir": "../../../0/2026-10/2026-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

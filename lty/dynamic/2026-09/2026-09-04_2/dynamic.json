@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1244155869928620048",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1244155869928620048",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月4日",
+    "pub_ts": 1788516012,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "从今天起，每天都练习一遍，对着镜子说：",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "从今天起，每天都练习一遍，对着镜子说："
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《淑女的品格》洛天依",
+      "desc": "和天依的一次特别共创，终于和大家见面了 💙\n\n从一个想法，到两个不同世界的声音真正相遇；\n很开心，这次特别的碰撞成为了一首完整的作品。\n\n淑女的品格：只要认真品味，每个人都会。\n\n▼Credits\n演唱 Vocals 洛天依\n调校 Tuning 哈士奇P\n作词 Lyricist 阿肆\n作曲 Composer 阿肆\n制作人 Producer 阿肆\n编曲 Arrangement yocho\n混音工程师 Mixing Engineer yocho\n母带工程师 Mastering Engineer yocho\n设",
+      "jump_url": "https://www.bilibili.com/video/BV1L7tU6PENU",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/915543f0905a0ef2959f12e25d997bc9daeae978.jpg",
+      "cover_file": "../../_assets/covers/2026-09-04_1.jpg",
+      "bvid": "BV1L7tU6PENU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1L7tU6PENU",
+        "aid": "117201654912358",
+        "cover": "http://i0.hdslb.com/bfs/archive/915543f0905a0ef2959f12e25d997bc9daeae978.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1L7tU6PENU",
+        "stat": {
+          "danmaku": "331",
+          "play": "38.2万",
+          "vt": ""
+        },
+        "duration_text": "03:00",
+        "title": "《淑女的品格》洛天依",
+        "desc": "和天依的一次特别共创，终于和大家见面了 💙\n\n从一个想法，到两个不同世界的声音真正相遇；\n很开心，这次特别的碰撞成为了一首完整的作品。\n\n淑女的品格：只要认真品味，每个人都会。\n\n▼Credits\n演唱 Vocals 洛天依\n调校 Tuning 哈士奇P\n作词 Lyricist 阿肆\n作曲 Composer 阿肆\n制作人 Producer 阿肆\n编曲 Arrangement yocho\n混音工程师 Mixing Engineer yocho\n母带工程师 Mastering Engineer yocho\n设",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 33493,
+    "comment": 1431,
+    "forward": 22
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "345670328177022599",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/345670328177022599",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月18日",
+    "pub_ts": 1579321045,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "(๑>؂<๑）酷酷的天依大家喜欢吗？#洛天依#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "(๑>؂<๑）酷酷的天依大家喜欢吗？"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5970,
+    "comment": 237,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 345669963104800734,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2020-01/2020-01-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

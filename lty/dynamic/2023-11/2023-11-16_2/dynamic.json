@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "864575795704627203",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/864575795704627203",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月16日",
+    "pub_ts": 1700138139,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "戴上层层叠叠的面具，扮演这场人生戏剧，疲惫厌倦、光怪陆离、讨厌什么又无法改变，但，但即使有那么多的心酸与不容易，你就是最独一无二的你，这就是属于你自己的人生舞台呀，请绽放你独特的色彩！[代号洛天依_不是事儿]很棒的原创音乐作品，大家多多支持吧[代号洛天依_好好7]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "戴上层层叠叠的面具，扮演这场人生戏剧，疲惫厌倦、光怪陆离、讨厌什么又无法改变，但，但即使有那么多的心酸与不容易，你就是最独一无二的你，这就是属于你自己的人生舞台呀，请绽放你独特的色彩！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_不是事儿]",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "name": "不是事儿",
+        "url": "https://i0.hdslb.com/bfs/emote/ce2071489d03e85e5c948cd384e5750d56025772.png"
+      },
+      {
+        "type": "text",
+        "text": "很棒的原创音乐作品，大家多多支持吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/不是事儿.png",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "text": "[代号洛天依_不是事儿]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4303,
+    "comment": 71,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 860123898911391779,
+    "orig_mid": 2709021,
+    "deleted": false,
+    "archive_dir": "../../../2709021/2023-11/2023-11-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

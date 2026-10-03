@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1183317340367880194",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1183317340367880194",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月24日",
+    "pub_ts": 1774350938,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "决战最A小洛之巅！",
+      "desc": "请选择你的pick～",
+      "jump_url": "https://www.bilibili.com/video/BV1JbQBBBEnc",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/b3129bd7bb70f2ca4c5f5a26e7c19b099c2635c1.jpg",
+      "cover_file": "../../_assets/covers/2026-03-24_1.jpg",
+      "bvid": "BV1JbQBBBEnc",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1JbQBBBEnc",
+        "aid": "116283857178118",
+        "cover": "http://i0.hdslb.com/bfs/archive/b3129bd7bb70f2ca4c5f5a26e7c19b099c2635c1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1JbQBBBEnc",
+        "stat": {
+          "danmaku": "176",
+          "play": "17万",
+          "vt": ""
+        },
+        "duration_text": "00:17",
+        "title": "决战最A小洛之巅！",
+        "desc": "请选择你的pick～",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 43035,
+    "comment": 1391,
+    "forward": 149
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

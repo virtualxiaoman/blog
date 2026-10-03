@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "529438024427255577",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/529438024427255577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月27日",
+    "pub_ts": 1622107796,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 很多小伙伴即将面对人生中非常重要的一个时刻，大家都要加油哦！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 很多小伙伴即将面对人生中非常重要的一个时刻，大家都要加油哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4628,
+    "comment": 146,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 7572065999665049,
+    "orig_mid": 890489,
+    "deleted": false,
+    "archive_dir": "../../../890489/2014-05/2014-05-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

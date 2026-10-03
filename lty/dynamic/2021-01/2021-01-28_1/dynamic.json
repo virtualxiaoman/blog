@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "485272377497999065",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/485272377497999065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月28日",
+    "pub_ts": 1611824680,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 好像又开始变冷了，这种时候天依特别推荐来杯热乎乎的奶茶，暖在手里，甜在心里~ 小伙伴们点奶茶时都喜欢加什么材料？还是有其他喜欢的热饮呢？来跟天依分享吧[洛天依_爱你] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 好像又开始变冷了，这种时候天依特别推荐来杯热乎乎的奶茶，暖在手里，甜在心里~ 小伙伴们点奶茶时都喜欢加什么材料？还是有其他喜欢的热饮呢？来跟天依分享吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-01-28_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b2006a20508e391349fa4894cc461e32d1b2f9dd.jpg",
+        "width": 900,
+        "height": 900,
+        "size_kb": 245.0400390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10337,
+    "comment": 817,
+    "forward": 134
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1238496872615641225",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1238496872615641225",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月20日",
+    "pub_ts": 1787198424,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《拼接遗憾2.0》【洛天依/美依礼芽MARiA/见过夏天P】",
+      "desc": "“不能就这样留下遗憾”\n\n《拼接遗憾2.0》\n演唱：洛天依 /@美依礼芽MARiA  \n作词：@美依礼芽MARiA  /@见过夏天P  \n作曲：@见过夏天P  \n编曲：@CTY2P_BEATS  \n制作人：@Ari鸦不齐 /乔乔\n调校：@鬼面P  \n合成器：@Evolmusic  \n混音母带：@CTY2P_BEATS  \n制作协力/分镜：@氢气有希p  \n编舞：@转呐转转转  \n副歌编舞授权：@咸叶子ww  /呐呐滋/晓新滕\n动画/角色设计：@月言誩  \n摄影/视频后期：葛一乐\n封面绘制：@月言誩  \n平",
+      "jump_url": "https://www.bilibili.com/video/BV1Uj8p6RECv",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/e0b479464c6f0ca10fe07cfbdbcfbe1363195553.jpg",
+      "cover_file": "../../_assets/covers/2026-08-20_1.jpg",
+      "bvid": "BV1Uj8p6RECv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Uj8p6RECv",
+        "aid": "117122869037009",
+        "cover": "http://i1.hdslb.com/bfs/archive/e0b479464c6f0ca10fe07cfbdbcfbe1363195553.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Uj8p6RECv",
+        "stat": {
+          "danmaku": "458",
+          "play": "57.1万",
+          "vt": ""
+        },
+        "duration_text": "01:01",
+        "title": "《拼接遗憾2.0》【洛天依/美依礼芽MARiA/见过夏天P】",
+        "desc": "“不能就这样留下遗憾”\n\n《拼接遗憾2.0》\n演唱：洛天依 /@美依礼芽MARiA  \n作词：@美依礼芽MARiA  /@见过夏天P  \n作曲：@见过夏天P  \n编曲：@CTY2P_BEATS  \n制作人：@Ari鸦不齐 /乔乔\n调校：@鬼面P  \n合成器：@Evolmusic  \n混音母带：@CTY2P_BEATS  \n制作协力/分镜：@氢气有希p  \n编舞：@转呐转转转  \n副歌编舞授权：@咸叶子ww  /呐呐滋/晓新滕\n动画/角色设计：@月言誩  \n摄影/视频后期：葛一乐\n封面绘制：@月言誩  \n平",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 58581,
+    "comment": 1880,
+    "forward": 252
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

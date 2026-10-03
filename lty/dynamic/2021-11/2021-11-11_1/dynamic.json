@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "591695319133702009",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/591695319133702009",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月11日",
+    "pub_ts": 1636603202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@源稚上杉橘政 中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@源稚上杉橘政",
+        "mid": 484784233,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4318,
+    "comment": 120,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 590232955784113040,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2021-11-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

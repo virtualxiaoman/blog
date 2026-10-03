@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "516757687529144686",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/516757687529144686",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月23日",
+    "pub_ts": 1619155425,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 世界读书日这天，跟天依一起分享那些和名著有关的歌曲吧~[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 世界读书日这天，跟天依一起分享那些和名著有关的歌曲吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4755,
+    "comment": 157,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 15629824078216562,
+    "orig_mid": 43855,
+    "deleted": false,
+    "archive_dir": "../../../43855/2017-02/2017-02-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

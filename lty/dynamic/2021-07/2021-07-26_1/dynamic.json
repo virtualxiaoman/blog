@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "551739440246529889",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/551739440246529889",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月26日",
+    "pub_ts": 1627300249,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢英伟达提供的“洛天依定制显卡”，它也将成为 #洛天依九周年# 应援征集的金奖奖励！[洛天依9th_资词]\n期待这次合作能给各位创作者带来更多便利，每一个梦都是个旋律，天依会继续陪伴大家逐梦的旅途，永不停歇~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢英伟达提供的“洛天依定制显卡”，它也将成为 "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 应援征集的金奖奖励！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_资词]",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "name": "资词",
+        "url": "http://i0.hdslb.com/bfs/emote/f46f666f5403762facecf11bc465fb965de8b48a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n期待这次合作能给各位创作者带来更多便利，每一个梦都是个旋律，天依会继续陪伴大家逐梦的旅途，永不停歇~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/资词.png",
+        "package_id": "255",
+        "emoji_id": "4243",
+        "text": "[洛天依9th_资词]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7218,
+    "comment": 199,
+    "forward": 39
+  },
+  "forward": {
+    "orig_id": 551711303917642549,
+    "orig_mid": 485703766,
+    "deleted": false,
+    "archive_dir": "../../../485703766/2021-07/2021-07-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:33:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

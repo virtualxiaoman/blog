@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "703765717676195960",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/703765717676195960",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月9日",
+    "pub_ts": 1662696625,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  十周年纪念数字专辑《依如初见》，全球上线！[洛天依_打call ] 发行平台：QQ音乐、网易云、酷狗、酷我、华为音乐、咪咕音乐、apple music 、spotify等 售价：20元/张 如果要寻找一样事物代表过去的这十年，我们共同谱写的这些乐章是最珍贵的纪念。 将歌声融入回忆装裱成册，那些曾经的美好，未来的期待，我会带着这些，永远坚定向前！[洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  十周年纪念数字专辑《依如初见》，全球上线！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      },
+      {
+        "type": "text",
+        "text": " 发行平台：QQ音乐、网易云、酷狗、酷我、华为音乐、咪咕音乐、apple music 、spotify等 售价：20元/张 如果要寻找一样事物代表过去的这十年，我们共同谱写的这些乐章是最珍贵的纪念。 将歌声融入回忆装裱成册，那些曾经的美好，未来的期待，我会带着这些，永远坚定向前！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-09_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/29cd2f801ae17cf39122d5256d1fca0336081646.png",
+        "width": 4000,
+        "height": 4000,
+        "size_kb": 10377.2138671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/打call.png",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "text": "[洛天依_打call ]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8398,
+    "comment": 720,
+    "forward": 83
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

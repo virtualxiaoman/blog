@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "955737215327010840",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/955737215327010840",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月19日",
+    "pub_ts": 1721363311,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“让我们一起唱吧  心中的歌”第十二年的《心印》【洛天依十二周年生日会】",
+      "desc": "“最初的旋律再次唱响\n那些蕴藏的情感与共鸣\n从未改变 一如往昔”\n\n作曲：LunaSafari \n作词：LunaSafari \n编曲：ToneToneT \n调校：哈士奇P",
+      "jump_url": "https://www.bilibili.com/video/BV1mE421w7vH",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f2a84cb878f035392fd946662525b0d228e6d9bf.jpg",
+      "cover_file": "../../_assets/covers/2024-07-19_1.jpg",
+      "bvid": "BV1mE421w7vH",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1mE421w7vH",
+        "aid": "1656397450",
+        "cover": "http://i1.hdslb.com/bfs/archive/f2a84cb878f035392fd946662525b0d228e6d9bf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1mE421w7vH",
+        "stat": {
+          "danmaku": "283",
+          "play": "36.4万",
+          "vt": ""
+        },
+        "duration_text": "04:07",
+        "title": "“让我们一起唱吧  心中的歌”第十二年的《心印》【洛天依十二周年生日会】",
+        "desc": "“最初的旋律再次唱响\n那些蕴藏的情感与共鸣\n从未改变 一如往昔”\n\n作曲：LunaSafari \n作词：LunaSafari \n编曲：ToneToneT \n调校：哈士奇P",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 27745,
+    "comment": 939,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

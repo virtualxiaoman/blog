@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1130982489592954904",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1130982489592954904",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月3日",
+    "pub_ts": 1762165781,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "天依的11月日历虽迟但到！\n换了新的风格，大家喜欢嘛？[逆转童话_结婚]\n气温越来越冷啦，大家记得“添衣”哦！[逆转童话_微笑]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的11月日历虽迟但到！\n换了新的风格，大家喜欢嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_结婚]",
+        "package_id": "8745",
+        "emoji_id": "121374",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/3fc09753896b9bf8f56f9c26dea40afc62fdae76.png"
+      },
+      {
+        "type": "text",
+        "text": "\n气温越来越冷啦，大家记得“添衣”哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_微笑]",
+        "package_id": "8745",
+        "emoji_id": "121373",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/0102d9112634b0630ac23c06caa15da9ec4d5c8b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-03_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cc02071b7718ff369e9d1c766398558536081646.png",
+        "width": 640,
+        "height": 1136,
+        "size_kb": 663.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-11-03_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/48b621dcc5a261bee2aa86f0f496a47236081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1238.1400146484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8745/结婚.png",
+        "package_id": "8745",
+        "emoji_id": "121374",
+        "text": "[逆转童话_结婚]"
+      },
+      {
+        "file": "../../_assets/emojis/8745/微笑.png",
+        "package_id": "8745",
+        "emoji_id": "121373",
+        "text": "[逆转童话_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6921,
+    "comment": 502,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "1096111985083285552",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1096111985083285552",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月1日",
+    "pub_ts": 1754046859,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "舰礼回家，还没有填写的舰长老师们记得填写哦！[洛天依八音奇响动态_可怜][洛天依八音奇响动态_被打][洛天依八音奇响动态_咪]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "舰礼回家，还没有填写的舰长老师们记得填写哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可怜]",
+        "package_id": "8362",
+        "emoji_id": "115072",
+        "name": "可怜",
+        "url": "https://i0.hdslb.com/bfs/garb/c61d3d9c2cfaf5329aeecbcbeea25a4961f5322f.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_被打]",
+        "package_id": "8362",
+        "emoji_id": "115076",
+        "name": "被打",
+        "url": "https://i0.hdslb.com/bfs/garb/688a9df9d43ffce83f14057c39906914e920c70f.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可怜.gif",
+        "package_id": "8362",
+        "emoji_id": "115072",
+        "text": "[洛天依八音奇响动态_可怜]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/被打.gif",
+        "package_id": "8362",
+        "emoji_id": "115076",
+        "text": "[洛天依八音奇响动态_被打]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4239,
+    "comment": 356,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 1090558334670471177,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-07/2025-07-17_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:37:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

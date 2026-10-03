@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "899441240738627607",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/899441240738627607",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月18日",
+    "pub_ts": 1708255883,
+    "location": ""
+  },
+  "topic": {
+    "id": 1155630,
+    "name": "索尼音乐牵手洛天依",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1155630&topic_name=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "告别幸福的新年假期，转眼又要开始新的征程啦！\n开工第一天，祝各行各业的小伙伴们开工大吉，即将开学的大家学业顺利呀！[Vsinger_加依]\n\n🎁开工小礼物\n卷❀关注，评论留下你想要的【洛天依收藏集】卡牌，天依会揪二十位小伙伴送出你的【心愿卡牌】\n再揪五位小伙伴送出【《洛 LUO》电子EP】1份。\n\n💿️《洛 LUO》EP赠礼惊喜加码\n※网易云音乐获得【8888】专属铭牌的小伙伴可凭截图私信天依，获得【洛天依 1/6  拾光手办】1个!\n※所有购买实体专辑的小伙伴都将获得不重复款金属徽章1个，还有EP歌曲人设新衣装模型和《洛 LUO》EP首唱会直播等待大家解锁[Vsinger_rua天依]\n\n🎶EP晒单有礼活动结束提醒\n截止至2月20日，在#索尼音乐牵手洛天依#话题中晒单（数字/实体），有机会获赠价值300/500元的天依周边礼包1份哦！[Vsinger_给大佬递茶]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "告别幸福的新年假期，转眼又要开始新的征程啦！\n开工第一天，祝各行各业的小伙伴们开工大吉，即将开学的大家学业顺利呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎁开工小礼物\n卷❀关注，评论留下你想要的【洛天依收藏集】卡牌，天依会揪二十位小伙伴送出你的【心愿卡牌】\n再揪五位小伙伴送出【《洛 LUO》电子EP】1份。\n\n💿️《洛 LUO》EP赠礼惊喜加码\n※网易云音乐获得【8888】专属铭牌的小伙伴可凭截图私信天依，获得【洛天依 1/6  拾光手办】1个!\n※所有购买实体专辑的小伙伴都将获得不重复款金属徽章1个，还有EP歌曲人设新衣装模型和《洛 LUO》EP首唱会直播等待大家解锁"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶EP晒单有礼活动结束提醒\n截止至2月20日，在"
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "话题中晒单（数字/实体），有机会获赠价值300/500元的天依周边礼包1份哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-18_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/b2357f97e53b4086232ef52c64b522fb36081646.jpg",
+        "width": 300,
+        "height": 300,
+        "size_kb": 40.81999969482422,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依《洛LUO》全新EP 实体专辑",
+            "price": "¥98",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/53/a2/53a20becaf310ccda37daaa492cd6bf6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10257550&msource=cps_Mdynamic_36081646_cont-2-899441240738627607&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-18_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7029,
+    "comment": 1848,
+    "forward": 1373
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

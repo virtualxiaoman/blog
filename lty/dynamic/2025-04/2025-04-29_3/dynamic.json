@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1061219344387670016",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1061219344387670016",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月29日",
+    "pub_ts": 1745922783,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@Fan棥某人@观槿p@静夜思风望星河中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@Fan棥某人",
+        "mid": 510585187,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@观槿p",
+        "mid": 3493084054686251,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@静夜思风望星河",
+        "mid": 2089345,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3069,
+    "comment": 29,
+    "forward": 9
+  },
+  "forward": {
+    "orig_id": 1038212712097644549,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-02/2025-02-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

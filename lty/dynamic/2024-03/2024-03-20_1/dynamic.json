@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "910673946000490517",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/910673946000490517",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月20日",
+    "pub_ts": 1710871201,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@喵叶轩@戍帝@信一千等5位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@喵叶轩",
+        "mid": 29041736,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@戍帝",
+        "mid": 477654083,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@信一千",
+        "mid": 1771778434,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2883,
+    "comment": 45,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 906004942892826677,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-03-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

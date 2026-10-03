@@ -1,0 +1,34 @@
+[
+  {
+    "key": "2016-08-31_1",
+    "ym": "2016-08",
+    "date": "2016-08-31",
+    "type": "DYNAMIC_TYPE_AV",
+    "typeLabel": "视频动态",
+    "title": "【洛天依】BML 2016洛天依表演部分【官方完整版】",
+    "excerpt": "【洛天依】BML 2016洛天依表演部分【官方完整版】",
+    "cover": "https://i1.hdslb.com/bfs/archive/567ef076c6497be41bbe692d3433171df33aa991.jpg",
+    "url": "https://www.bilibili.com/opus/11213648511651598",
+    "stats": {
+      "like": 11211,
+      "comment": 7904,
+      "forward": 34
+    }
+  },
+  {
+    "key": "2016-08-26_1",
+    "ym": "2016-08",
+    "date": "2016-08-26",
+    "type": "DYNAMIC_TYPE_AV",
+    "typeLabel": "视频动态",
+    "title": "【洛天依】BML 2016洛天依表演部分【官方先行预告】",
+    "excerpt": "【洛天依】BML 2016洛天依表演部分【官方先行预告】",
+    "cover": "https://i0.hdslb.com/bfs/archive/aa1c9a78ff493f7fcf8fabd192cc071e49027b9c.jpg",
+    "url": "https://www.bilibili.com/opus/11191911681036484",
+    "stats": {
+      "like": 8458,
+      "comment": 2289,
+      "forward": 20
+    }
+  }
+]

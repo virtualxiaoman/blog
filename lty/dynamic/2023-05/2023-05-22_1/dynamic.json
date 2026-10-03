@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "798480106160914433",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/798480106160914433",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月22日",
+    "pub_ts": 1684749037,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#\n#迪奥二零二四早春成衣秀#圆满落幕，天依身着迪奥二零二三春夏成衣系列和限量LADY DIOR手袋，感受@DIOR迪奥 大秀丰沛的灵感与文化的震撼。\n\n昨日大秀满溢艺术气息，以墨西哥艺术家弗里达•卡罗(FRIDA KAHLO)为全新系列的灵感缪斯，受其启发设计的一件件精美礼服和套装，巧妙揉合了生机色彩与多重情感，在灵感之地绽放傲人风采。\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#迪奥二零二四早春成衣秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BF%AA%E5%A5%A5%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%9B%9B%E6%97%A9%E6%98%A5%E6%88%90%E8%A1%A3%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": "圆满落幕，天依身着迪奥二零二三春夏成衣系列和限量LADY DIOR手袋，感受"
+      },
+      {
+        "type": "mention",
+        "text": "@DIOR迪奥 ",
+        "mid": 606352572,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "大秀丰沛的灵感与文化的震撼。\n\n昨日大秀满溢艺术气息，以墨西哥艺术家弗里达•卡罗(FRIDA KAHLO)为全新系列的灵感缪斯，受其启发设计的一件件精美礼服和套装，巧妙揉合了生机色彩与多重情感，在灵感之地绽放傲人风采。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-05-22_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/8d781342e3f7198d709fe8d13233cac736081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 1402.760009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-05-22_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/7a3802d0bd86ee5a40ae86125b78b06336081646.jpg",
+        "width": 1331,
+        "height": 1080,
+        "size_kb": 955.3200073242188,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-05-22_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/567e00f8f72caedebf6d5487ae8cbbed36081646.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 839.0999755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5979,
+    "comment": 435,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

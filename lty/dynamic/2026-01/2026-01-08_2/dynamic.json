@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "1155480678116098050",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1155480678116098050",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月8日",
+    "pub_ts": 1767869710,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·无锡站\n城市限定演出歌曲等惊喜揭秘环节来咯~！[洛天依八音奇响动态_可爱]\n\n✨部分演出歌曲\n《珍珠》\n《心空》\n\n💎城市限定歌曲\n《织线与终章》\n\n🎶演出时间&场地\n2月7日19:12 无锡体育中心体育馆\n🎶购票时间\n-【优先购票】1月16日 18:00\n-【正式开售】1月16日 19:00\n\n和天依一起，为流光协奏的最后一次舞台，画上圆满的句号吧~[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会·无锡站\n城市限定演出歌曲等惊喜揭秘环节来咯~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨部分演出歌曲\n《珍珠》\n《心空》\n\n💎城市限定歌曲\n《织线与终章》\n\n🎶演出时间&场地\n2月7日19:12 无锡体育中心体育馆\n🎶购票时间\n-【优先购票】1月16日 18:00\n-【正式开售】1月16日 19:00\n\n和天依一起，为流光协奏的最后一次舞台，画上圆满的句号吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-08_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/251ec3052f925993c1ca90042c8a60b636081646.jpg",
+        "width": 1080,
+        "height": 5105,
+        "size_kb": 4273.47021484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "无锡·2026洛天依「无限共鸣•流光协奏」全息演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202601/e4trjeX71767581310_1767581310508.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=112020&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1155480678116098050",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-01-08_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4725,
+    "comment": 286,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

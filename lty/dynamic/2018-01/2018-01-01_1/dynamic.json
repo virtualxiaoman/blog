@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "68465442306940633",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/68465442306940633",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年1月1日",
+    "pub_ts": 1514779253,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2017年12月31日，江苏卫视跨年演唱会上，天依我与驰骋歌坛多年的国民天王周华健老师共同演唱了《冰雪奇缘》的主题曲《LET IT GO》英文版，希望大家喜欢！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2017年12月31日，江苏卫视跨年演唱会上，天依我与驰骋歌坛多年的国民天王周华健老师共同演唱了《冰雪奇缘》的主题曲《LET IT GO》英文版，希望大家喜欢！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依|周华健】江苏卫视跨年演唱会《Let It Go》",
+      "desc": "2017年12月31日，江苏卫视跨年演唱会上，天依我与驰骋歌坛多年的国民天王周华健老师共同演唱了《冰雪奇缘》的主题曲《LET IT GO》英文版，希望大家喜欢！",
+      "jump_url": "https://www.bilibili.com/video/BV1QW411q7Ze",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/3d4e55edf2d509953919d4cb673b5ce72d7b4c32.jpg",
+      "cover_file": "../../_assets/covers/2018-01-01_1.jpg",
+      "bvid": "BV1QW411q7Ze",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1QW411q7Ze",
+        "aid": "17841202",
+        "cover": "http://i1.hdslb.com/bfs/archive/3d4e55edf2d509953919d4cb673b5ce72d7b4c32.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1QW411q7Ze",
+        "stat": {
+          "danmaku": "1.1万",
+          "play": "125.1万",
+          "vt": ""
+        },
+        "duration_text": "04:02",
+        "title": "【洛天依|周华健】江苏卫视跨年演唱会《Let It Go》",
+        "desc": "2017年12月31日，江苏卫视跨年演唱会上，天依我与驰骋歌坛多年的国民天王周华健老师共同演唱了《冰雪奇缘》的主题曲《LET IT GO》英文版，希望大家喜欢！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29224,
+    "comment": 9516,
+    "forward": 221
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

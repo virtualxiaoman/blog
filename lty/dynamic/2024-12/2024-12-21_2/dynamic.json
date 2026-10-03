@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1013374181768691744",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1013374181768691744",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月21日",
+    "pub_ts": 1734782963,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，《戏游九州》X 网易云音乐新歌上线活动持续开启中，大家记得参与哦！\n\n💿︎网易云音乐\n参与活动即可领取天依联动限定头像框、参与丰富周边抽奖、领取黑胶VIP，还有丰富创作激励等你领取\n▶歌曲传送门：http://t.cn/A6msHniF\n🔹活动传送门：http://t.cn/A6msXaRL\n\n以天依的歌声演绎戏韵风华，让虚拟与传统共奏新声，游学的历程，是还有你们和天依一起，将这份传承播散到无限的远方。 [洛天依·戏游九州表情包_双人]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，《戏游九州》X 网易云音乐新歌上线活动持续开启中，大家记得参与哦！\n\n💿︎网易云音乐\n参与活动即可领取天依联动限定头像框、参与丰富周边抽奖、领取黑胶VIP，还有丰富创作激励等你领取\n▶歌曲传送门："
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6msHniF"
+      },
+      {
+        "type": "text",
+        "text": "\n🔹活动传送门："
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6msXaRL"
+      },
+      {
+        "type": "text",
+        "text": "\n\n以天依的歌声演绎戏韵风华，让虚拟与传统共奏新声，游学的历程，是还有你们和天依一起，将这份传承播散到无限的远方。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州表情包_双人]",
+        "package_id": "7319",
+        "emoji_id": "98470",
+        "name": "双人",
+        "url": "https://i0.hdslb.com/bfs/garb/b7de2731dd7cf16995079d9429ccba7cd14fad6f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-21_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f3d941250704015084b39118e99f1da636081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 351.59375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-12-21_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1c2b029426b5173d02765365808a1a1936081646.jpg",
+        "width": 1080,
+        "height": 8084,
+        "size_kb": 1290.53125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7319/双人.png",
+        "package_id": "7319",
+        "emoji_id": "98470",
+        "text": "[洛天依·戏游九州表情包_双人]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5848,
+    "comment": 354,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

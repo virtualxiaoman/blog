@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "671544310346285078",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/671544310346285078",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月14日",
+    "pub_ts": 1655194494,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "马上，天依就要去到一个新地方啦~听说在那里，会看到超——级多厉害的人哦！期待期待[洛天依9th_好康！]\n#洛天依#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "马上，天依就要去到一个新地方啦~听说在那里，会看到超——级多厉害的人哦！期待期待"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10213,
+    "comment": 564,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

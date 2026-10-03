@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "956472123115700275",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/956472123115700275",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月21日",
+    "pub_ts": 1721534420,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“蘸笔天河绘万古生香”《万古生香》【洛天依十二周年生日会】",
+      "desc": "今夜若欠清光满堂\n\t蘸笔天河绘万古生香\n\n曲 litterzy\n词 Vagary\n调 Creuzer\n\n唱 洛天依\n吉他 litterzy 邢666\n贝斯 yuki\n鼓 Goldman",
+      "jump_url": "https://www.bilibili.com/video/BV1Ex4y1s79h",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6f879a9a37531eae4907003a29973c4d50d5d1e9.jpg",
+      "cover_file": "../../_assets/covers/2024-07-21_1.jpg",
+      "bvid": "BV1Ex4y1s79h",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Ex4y1s79h",
+        "aid": "1006467781",
+        "cover": "http://i1.hdslb.com/bfs/archive/6f879a9a37531eae4907003a29973c4d50d5d1e9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Ex4y1s79h",
+        "stat": {
+          "danmaku": "141",
+          "play": "23.8万",
+          "vt": ""
+        },
+        "duration_text": "04:55",
+        "title": "“蘸笔天河绘万古生香”《万古生香》【洛天依十二周年生日会】",
+        "desc": "今夜若欠清光满堂\n\t蘸笔天河绘万古生香\n\n曲 litterzy\n词 Vagary\n调 Creuzer\n\n唱 洛天依\n吉他 litterzy 邢666\n贝斯 yuki\n鼓 Goldman",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19717,
+    "comment": 428,
+    "forward": 22
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

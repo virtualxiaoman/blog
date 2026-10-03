@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "760900645523816472",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/760900645523816472",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月10日",
+    "pub_ts": 1675999387,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转眼大家是不是都要开学啦，虽然假期让人不舍，但永远有一些美好的回忆，只有和同学们一起才能创造呀[保卫萝卜_笔芯] ~来一场开学聚会，分享第一聚美妙时刻。天依和@清风Breeze 还带来奖学金和天依开学大礼包为大家补充能量哦！戳链接网页链接了解活动详情，一起来分享你的开学时刻吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转眼大家是不是都要开学啦，虽然假期让人不舍，但永远有一些美好的回忆，只有和同学们一起才能创造呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[保卫萝卜_笔芯]",
+        "package_id": "1",
+        "emoji_id": "4944",
+        "name": "笔芯",
+        "url": "https://i0.hdslb.com/bfs/emote/5ff2ed5cb71b02010018cc5910ac7052a03769af.png"
+      },
+      {
+        "type": "text",
+        "text": " ~来一场开学聚会，分享第一聚美妙时刻。天依和"
+      },
+      {
+        "type": "mention",
+        "text": "@清风Breeze",
+        "mid": 1521695751,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 还带来奖学金和天依开学大礼包为大家补充能量哦！戳链接"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://m.bilibili.com/opus/760863798972121091"
+      },
+      {
+        "type": "text",
+        "text": "了解活动详情，一起来分享你的开学时刻吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/笔芯.png",
+        "package_id": "1",
+        "emoji_id": "4944",
+        "text": "[保卫萝卜_笔芯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7760,
+    "comment": 188,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 760894052749017107,
+    "orig_mid": 1521695751,
+    "deleted": false,
+    "archive_dir": "../../../1521695751/2023-02/2023-02-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

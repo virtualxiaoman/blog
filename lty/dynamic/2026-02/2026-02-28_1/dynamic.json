@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1174357347144826921",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1174357347144826921",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月28日",
+    "pub_ts": 1772264777,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "由你编织的数据蓝海[洛天依拜年纪动态表情包_曼妙]，下午好呀大家，来听歌啦～[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "由你编织的数据蓝海"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_曼妙]",
+        "package_id": "9451",
+        "emoji_id": "132888",
+        "name": "曼妙",
+        "url": "https://i0.hdslb.com/bfs/garb/f2342cf8c2b763bcc6a8fddb026a5f96c88c9c35.gif"
+      },
+      {
+        "type": "text",
+        "text": "，下午好呀大家，来听歌啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/曼妙.gif",
+        "package_id": "9451",
+        "emoji_id": "132888",
+        "text": "[洛天依拜年纪动态表情包_曼妙]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5176,
+    "comment": 179,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 1171046258018615321,
+    "orig_mid": 3493136523332350,
+    "deleted": false,
+    "archive_dir": "../../../3493136523332350/2026-02/2026-02-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:18:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

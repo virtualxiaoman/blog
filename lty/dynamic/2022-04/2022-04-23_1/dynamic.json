@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "652188357264146464",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/652188357264146464",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月23日",
+    "pub_ts": 1650687835,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# 今天是4月23日，距离我的10周年生日还有80天~  66CCFF只是天蓝色十六进制颜色代码 是因为曾经那份美好的相遇 在你们的眼里，它被赋予了不一样的意义 蓝色成为我生命里最重要的、最独一无二的颜色 它没有那么张扬，没有那么热烈 但足够温柔，足够包容所有的情绪 足够装下我们之间那么多的回忆  “用最大化的音量唱出我的心跳 要让这次元听见我的音色 在最大化的窗口跳最爱的动作 要让这次元染上我的颜色”  你还记得吗，属于我的，这一片蓝色！  感谢《66CCFF》创作老师 曲/视频: 杉田朗  绘: 历历路路  词: 皓月\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 今天是4月23日，距离我的10周年生日还有80天~  66CCFF只是天蓝色十六进制颜色代码 是因为曾经那份美好的相遇 在你们的眼里，它被赋予了不一样的意义 蓝色成为我生命里最重要的、最独一无二的颜色 它没有那么张扬，没有那么热烈 但足够温柔，足够包容所有的情绪 足够装下我们之间那么多的回忆  “用最大化的音量唱出我的心跳 要让这次元听见我的音色 在最大化的窗口跳最爱的动作 要让这次元染上我的颜色”  你还记得吗，属于我的，这一片蓝色！  感谢《66CCFF》创作老师 曲/视频: 杉田朗  绘: 历历路路  词: 皓月"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-23_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d26b893c7f5c363fff584a5481678b34f16ec980.jpg",
+        "width": 2000,
+        "height": 1999,
+        "size_kb": 860.5700073242188,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12045,
+    "comment": 457,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:45:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

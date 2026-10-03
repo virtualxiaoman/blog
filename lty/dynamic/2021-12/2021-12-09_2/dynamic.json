@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "602156575273401401",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/602156575273401401",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月9日",
+    "pub_ts": 1639038903,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 今天坐地铁的时候，竟然没什么人耶|ू･ω･` ) 悄悄给我的娃娃也安排了一个座位~[洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 今天坐地铁的时候，竟然没什么人耶|ू･ω･` ) 悄悄给我的娃娃也安排了一个座位~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-09_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4edd5f48c3e4a5286b2991e85c25a0a6971d1218.jpg",
+        "width": 2894,
+        "height": 4093,
+        "size_kb": 3866.360107421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12225,
+    "comment": 659,
+    "forward": 210
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:39:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

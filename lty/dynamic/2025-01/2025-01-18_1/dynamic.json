@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1023638621045915681",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1023638621045915681",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月18日",
+    "pub_ts": 1737172839,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "这一曲《金鳞甲》，欲带你再度领略木兰将军策马征战的豪迈气魄，亦有思亲归乡的儿女柔情。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这一曲《金鳞甲》，欲带你再度领略木兰将军策马征战的豪迈气魄，亦有思亲归乡的儿女柔情。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“我自有我去留无怕，同天地斗法”洛天依原创《金鳞甲》【歌行豫剧篇单曲】",
+      "desc": "既已入戏，何不再与我流连其中——\n游园的脚步来到中原大地，豫剧朴直淳厚的气息细腻演绎东方气韵。\n豫剧名篇《花木兰》，从丰富细腻的唱腔，再到巾帼英雄精神的源远传承。\n这一曲《金鳞甲》，欲带你再度领略木兰将军策马征战的豪迈气魄，亦有思亲归乡的儿女柔情。\n“世有臣子心，能如木兰节。忠孝两不渝，千古之名焉可灭。”\n歌曲已在各大音乐平台上线，欢迎大家前往收听~\n\n-----STAFF-----\n演唱：洛天依\n作词：温莨\n作曲：瞿子千\n编曲：薛涛\n制作人：瞿子千\n调校：玖蝶\n吉他：薛涛\n贝斯：吴海涛 \n二胡：李超",
+      "jump_url": "https://www.bilibili.com/video/BV1DjcZe3E9V",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/2a26657ecc0fc45b9784c20e3cf5bb098e2ea0d2.jpg",
+      "cover_file": "../../_assets/covers/2025-01-18_1.jpg",
+      "bvid": "BV1DjcZe3E9V",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1DjcZe3E9V",
+        "aid": "113843611173610",
+        "cover": "http://i2.hdslb.com/bfs/archive/2a26657ecc0fc45b9784c20e3cf5bb098e2ea0d2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1DjcZe3E9V",
+        "stat": {
+          "danmaku": "5894",
+          "play": "138.9万",
+          "vt": ""
+        },
+        "duration_text": "03:46",
+        "title": "“我自有我去留无怕，同天地斗法”洛天依原创《金鳞甲》【歌行豫剧篇单曲】",
+        "desc": "既已入戏，何不再与我流连其中——\n游园的脚步来到中原大地，豫剧朴直淳厚的气息细腻演绎东方气韵。\n豫剧名篇《花木兰》，从丰富细腻的唱腔，再到巾帼英雄精神的源远传承。\n这一曲《金鳞甲》，欲带你再度领略木兰将军策马征战的豪迈气魄，亦有思亲归乡的儿女柔情。\n“世有臣子心，能如木兰节。忠孝两不渝，千古之名焉可灭。”\n歌曲已在各大音乐平台上线，欢迎大家前往收听~\n\n-----STAFF-----\n演唱：洛天依\n作词：温莨\n作曲：瞿子千\n编曲：薛涛\n制作人：瞿子千\n调校：玖蝶\n吉他：薛涛\n贝斯：吴海涛 \n二胡：李超 \n",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 92600,
+    "comment": 3135,
+    "forward": 432
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

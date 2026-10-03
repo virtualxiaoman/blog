@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1242710901253996567",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1242710901253996567",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月31日",
+    "pub_ts": 1788179579,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「洛天依×言和」面具后众生相 ，看《杠上开花》！",
+      "desc": "很高兴和阿和一起在广州站为大家再次带来了超帅气的新舞台！\n期待可以一起为大家唱更多歌，解锁更多珍贵回忆~\n \n《杠上开花》\n作词/作曲/编曲： iKz -茶壶\n调教：Creuzer\n绘：偶尤大肥羊",
+      "jump_url": "https://www.bilibili.com/video/BV1a1tb6GEtv",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/e304fa0a627244a3eb777c7df734d0f1b9785e08.jpg",
+      "cover_file": "../../_assets/covers/2026-08-31_2.jpg",
+      "bvid": "BV1a1tb6GEtv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1a1tb6GEtv",
+        "aid": "117190128831271",
+        "cover": "http://i1.hdslb.com/bfs/archive/e304fa0a627244a3eb777c7df734d0f1b9785e08.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1a1tb6GEtv",
+        "stat": {
+          "danmaku": "257",
+          "play": "9万",
+          "vt": ""
+        },
+        "duration_text": "04:24",
+        "title": "「洛天依×言和」面具后众生相 ，看《杠上开花》！",
+        "desc": "很高兴和阿和一起在广州站为大家再次带来了超帅气的新舞台！\n期待可以一起为大家唱更多歌，解锁更多珍贵回忆~\n \n《杠上开花》\n作词/作曲/编曲： iKz -茶壶\n调教：Creuzer\n绘：偶尤大肥羊",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21513,
+    "comment": 973,
+    "forward": 133
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

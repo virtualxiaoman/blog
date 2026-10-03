@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1247062673744462069",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1247062673744462069",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月12日",
+    "pub_ts": 1789192805,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "请诸位倾听——命运之舞的节拍，于黑与白的经纬间，协同较量",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "请诸位倾听——命运之舞的节拍，于黑与白的经纬间，协同较量"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "倾听「终冕」的棋局与终幕【洛天依终冕原创主题曲】",
+      "desc": "纯白乐土之下，暗影早已浸透；复仇号角吹响，王朝顷刻翻覆。\n旅人掌中的残片，映照千年谎言与真相的裂隙——\n孰是孰非，孰正孰恶，谁被蒙蔽，谁将背负，谁又在默处悄然蛰伏。\n向前吧，迫近被倾覆的真相；清醒吧，安宁不属于停滞的殿堂。\n白壁上任由久涸的墨浆泼淌，棋钟声早在故事外回合敲响。\n请诸位倾听——命运之舞的节拍，于黑与白的经纬间，协同较量。\n \n洛天依原创故事企划主题曲《终冕》\n演唱：洛天依\n作曲：iKz_茶壶 \n作词：果汁凉菜\n调教：哈士奇P\n编曲：绛舞乱丸\n曲绘：若干爪、破布、兔扎特、怪三木、暮暮辉、熊子酱",
+      "jump_url": "https://www.bilibili.com/video/BV1ijY76cEy4",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/9ab44b9175fe556b9190a46ee0708202099f86a2.jpg",
+      "cover_file": "../../_assets/covers/2026-09-12_1.jpg",
+      "bvid": "BV1ijY76cEy4",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ijY76cEy4",
+        "aid": "117252137421015",
+        "cover": "http://i2.hdslb.com/bfs/archive/9ab44b9175fe556b9190a46ee0708202099f86a2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ijY76cEy4",
+        "stat": {
+          "danmaku": "739",
+          "play": "21.4万",
+          "vt": ""
+        },
+        "duration_text": "03:49",
+        "title": "倾听「终冕」的棋局与终幕【洛天依终冕原创主题曲】",
+        "desc": "纯白乐土之下，暗影早已浸透；复仇号角吹响，王朝顷刻翻覆。\n旅人掌中的残片，映照千年谎言与真相的裂隙——\n孰是孰非，孰正孰恶，谁被蒙蔽，谁将背负，谁又在默处悄然蛰伏。\n向前吧，迫近被倾覆的真相；清醒吧，安宁不属于停滞的殿堂。\n白壁上任由久涸的墨浆泼淌，棋钟声早在故事外回合敲响。\n请诸位倾听——命运之舞的节拍，于黑与白的经纬间，协同较量。\n \n洛天依原创故事企划主题曲《终冕》\n演唱：洛天依\n作曲：iKz_茶壶 \n作词：果汁凉菜\n调教：哈士奇P\n编曲：绛舞乱丸\n曲绘：若干爪、破布、兔扎特、怪三木、暮暮辉、熊子酱",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35969,
+    "comment": 1615,
+    "forward": 270
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

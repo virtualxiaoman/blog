@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "id": "1084495618994339840",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1084495618994339840",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月1日",
+    "pub_ts": 1751342213,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依十三周年#⚙️#洛天依0712生日快乐#\n洛天依13 周年×猫噜噜萌物社「八音奇响」毛绒玩偶预售即将开启啦！\n转发关注天依，揪1位小伙伴赠送同款玩偶1个~[洛天依·天星问动态_萌]\n\n被赋予故事与灵魂的她，用歌声承载你的幻想与渴望\n陈列在货架中有些破旧的八音盒，会等到她的主人吗\n\n⚙️开售时间：2025年7月4日20点\n⚙️预售平台：哔哩哔哩会员购、猫噜噜官方店铺、Vsinger旗舰店等\n⚙️预售价格：119r\n⚙️现货价格：129r\n⚙️出荷时间：2025年10月 \n\nPS：服饰可穿脱~产品监修中，小伙伴们请以实物为准哦。\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "365299",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙️"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依13 周年×猫噜噜萌物社「八音奇响」毛绒玩偶预售即将开启啦！\n转发关注天依，揪1位小伙伴赠送同款玩偶1个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n被赋予故事与灵魂的她，用歌声承载你的幻想与渴望\n陈列在货架中有些破旧的八音盒，会等到她的主人吗\n\n⚙️开售时间：2025年7月4日20点\n⚙️预售平台：哔哩哔哩会员购、猫噜噜官方店铺、Vsinger旗舰店等\n⚙️预售价格：119r\n⚙️现货价格：129r\n⚙️出荷时间：2025年10月 \n\nPS：服饰可穿脱~产品监修中，小伙伴们请以实物为准哦。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/30202156c2b8757a255816533b58b6ae36081646.jpg",
+        "width": 1000,
+        "height": 11441,
+        "size_kb": 4601.6279296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 猫噜噜 洛天依 八音奇响 坐姿毛绒玩偶",
+            "price": "¥129",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/24/60/0c3435e87c980049a54729560a91f0bd.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12633190&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1084495618994339840",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-01_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "365299"
+  },
+  "vote": null,
+  "stats": {
+    "like": 4971,
+    "comment": 592,
+    "forward": 5411
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

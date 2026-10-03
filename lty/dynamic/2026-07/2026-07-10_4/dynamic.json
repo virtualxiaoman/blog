@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "1223348381171056645",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1223348381171056645",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月10日",
+    "pub_ts": 1783671391,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "将蓝色和长沙一起捕捉！[乐鸣东方动态表情包_盯]\n再来到橘子洲头，吹一吹湘江的夜风~\n离我们相见的日子越来越近啦，天依也要更加努力才行！[乐鸣东方动态表情包_收到]\n\n2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·长沙站将于今晚19点全面开票[乐鸣东方动态表情包_支持]\n🎶传送门网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "将蓝色和长沙一起捕捉！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n再来到橘子洲头，吹一吹湘江的夜风~\n离我们相见的日子越来越近啦，天依也要更加努力才行！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_收到]",
+        "package_id": "9343",
+        "emoji_id": "131158",
+        "name": "收到",
+        "url": "https://i0.hdslb.com/bfs/garb/81661b0a596faf64996f21a486b5d9e89cdaeae2.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·长沙站将于今晚19点全面开票"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n🎶传送门"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003447"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-10_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8f265158df3058d915187c4189b6a72636081646.png",
+        "width": 1559,
+        "height": 2078,
+        "size_kb": 6297.2001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-10_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0db3f5cee3127527b9a0462c6434680a36081646.jpg",
+        "width": 4445,
+        "height": 5927,
+        "size_kb": 10662.0703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/收到.gif",
+        "package_id": "9343",
+        "emoji_id": "131158",
+        "text": "[乐鸣东方动态表情包_收到]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "长沙·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202607/9izSPLUA1783071853_1783071853598.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003447&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1223348381171056645",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-10_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4927,
+    "comment": 210,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

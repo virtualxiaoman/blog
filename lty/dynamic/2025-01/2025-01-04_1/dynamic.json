@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1018541036044025940",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1018541036044025940",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月4日",
+    "pub_ts": 1735985965,
+    "location": ""
+  },
+  "topic": {
+    "id": 1138243,
+    "name": "上B站看跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1138243&topic_name=%E4%B8%8AB%E7%AB%99%E7%9C%8B%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "没想到吧！戏曲原来这么有意思？",
+      "desc": "看完了我们二次元和三次元破壁的跨年戏曲舞台《戏游九州》，有没有意犹未尽？我和天依又邀请了浙江京昆艺术中心的几位老师们，来和大家一起聊聊戏曲里的趣事和冷知识~什么是两门抱？牡丹亭得演五天五夜？戏服和靴子原来不能碰这个？快来一起涨知识吧！",
+      "jump_url": "https://www.bilibili.com/video/BV154rHYFESX",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/97e58cd72b2889ab9c4e94ccedec47abb2d3ede4.jpg",
+      "cover_file": "../../_assets/covers/2025-01-04_1.jpg",
+      "bvid": "BV154rHYFESX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV154rHYFESX",
+        "aid": "113769237713936",
+        "cover": "http://i2.hdslb.com/bfs/archive/97e58cd72b2889ab9c4e94ccedec47abb2d3ede4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV154rHYFESX",
+        "stat": {
+          "danmaku": "9756",
+          "play": "30.6万",
+          "vt": ""
+        },
+        "duration_text": "07:41",
+        "title": "没想到吧！戏曲原来这么有意思？",
+        "desc": "看完了我们二次元和三次元破壁的跨年戏曲舞台《戏游九州》，有没有意犹未尽？我和天依又邀请了浙江京昆艺术中心的几位老师们，来和大家一起聊聊戏曲里的趣事和冷知识~什么是两门抱？牡丹亭得演五天五夜？戏服和靴子原来不能碰这个？快来一起涨知识吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19488,
+    "comment": 5416,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

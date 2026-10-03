@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "621854149990238380",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/621854149990238380",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月31日",
+    "pub_ts": 1643625102,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #虎虎生V# 过年好！春节来跟天依一起玩游戏呀（详情看图~） 最简单的这个V，已经被我用掉咯~大家快想想新招式，让我看看谁的脑洞最大吧！[洛天依·夜航星_Lucky]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#虎虎生V#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%99%8E%E8%99%8E%E7%94%9FV"
+      },
+      {
+        "type": "text",
+        "text": " 过年好！春节来跟天依一起玩游戏呀（详情看图~） 最简单的这个V，已经被我用掉咯~大家快想想新招式，让我看看谁的脑洞最大吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_Lucky]",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "name": "Lucky",
+        "url": "http://i0.hdslb.com/bfs/emote/bbeb9d231773a168397697072a11373893d7c01a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-01-31_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2454d827fb636c1154eee59b03ec79645d0233f4.jpg",
+        "width": 889,
+        "height": 1028,
+        "size_kb": 180.77000427246094,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-01-31_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/781c0cce134395ccdb7da69b5b5766cb9b6a80a6.jpg",
+        "width": 1000,
+        "height": 3314,
+        "size_kb": 573.1599731445312,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/Lucky.png",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "text": "[洛天依·夜航星_Lucky]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9446,
+    "comment": 426,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1169554134884417541",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1169554134884417541",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月15日",
+    "pub_ts": 1771146442,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢刘宇老师的特别受邀[洛天依动态流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢刘宇老师的特别受邀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 2881,
+    "comment": 31,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 1169548418282946560,
+    "orig_mid": 17859926,
+    "deleted": false,
+    "archive_dir": "../../../17859926/2026-02/2026-02-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:17:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

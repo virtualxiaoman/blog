@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "980225375081594897",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/980225375081594897",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月23日",
+    "pub_ts": 1727064905,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的各位乘客，【洛天依·收藏集——歌行宇宙】预约开启啦！这次也努力想了实用又可爱的表情包，还有全新卡面、动态主题和头像框可以解锁，感兴趣的小伙伴可以预约一下哦~[心律共鸣动态表情包_啾啾]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的各位乘客，【洛天依·收藏集——歌行宇宙】预约开启啦！这次也努力想了实用又可爱的表情包，还有全新卡面、动态主题和头像框可以解锁，感兴趣的小伙伴可以预约一下哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4041,
+    "comment": 313,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 980221490310938643,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-09/2024-09-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:19:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

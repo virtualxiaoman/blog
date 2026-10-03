@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "370922639933834816",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/370922639933834816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年3月26日",
+    "pub_ts": 1585200557,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#达拉崩吧# #达拉崩吧三周年# 达拉崩吧投稿的第三年零一天，还记得那个勇者与龙的故事吗？ ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#达拉崩吧#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BE%BE%E6%8B%89%E5%B4%A9%E5%90%A7"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#达拉崩吧三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BE%BE%E6%8B%89%E5%B4%A9%E5%90%A7%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 达拉崩吧投稿的第三年零一天，还记得那个勇者与龙的故事吗？ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11144,
+    "comment": 436,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 16753331689921873,
+    "orig_mid": 3379951,
+    "deleted": false,
+    "archive_dir": "../../../3379951/2017-03/2017-03-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

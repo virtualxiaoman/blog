@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "id": "1207789540018749465",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1207789540018749465",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月29日",
+    "pub_ts": 1780048816,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖“诞生于纯蓝之中的魔女，要将世界染成五光十色的「蓝」！”[心律共鸣动态表情包_共鸣之声]\n\n2026洛天依「无限共鸣·纯蓝幻乐」全国巡回演唱会正式定档！[心律共鸣动态表情包_大成功]\n\n【主视觉海报&六大巡演城市&演出时间】全资讯公开✨\n转发关注天依，揪3位小伙伴送出【洛天依周边礼包】1份~[心律共鸣动态表情包_真好]\n\n🎶 巡演城市揭晓\n7月18日·北京\n7月25日·杭州\n8月1日  · 成都\n8月15日·上海\n8月22日·长沙\n8月29日·广州\n\n沉默的心河淤堵成冰，未曾出口的情绪坠入寂静\n期待需要回音，情感等待共鸣，沉睡的魔女亟待唤醒\n来吧，来吧，相逢的时刻即将来临，渴盼的呼声抵达冰层深处\n跟随魔女指挥家的歌声，让所有尘封的情感奔涌成蓝色的海洋吧！[洛天依动态流光协奏_打call]\n更多巡演相关资讯，请持续关注天依哦~[洛天依动态流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "412871",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "“诞生于纯蓝之中的魔女，要将世界染成五光十色的「蓝」！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_共鸣之声]",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "name": "共鸣之声",
+        "url": "https://i0.hdslb.com/bfs/emote/6707f0d70949a12fe94a919ab3b183afca52c2ec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n2026洛天依「无限共鸣·纯蓝幻乐」全国巡回演唱会正式定档！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_大成功]",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "name": "大成功",
+        "url": "https://i0.hdslb.com/bfs/emote/85f122b0f476e5896f3d2e4f867cb62a1d46b175.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【主视觉海报&六大巡演城市&演出时间】全资讯公开✨\n转发关注天依，揪3位小伙伴送出【洛天依周边礼包】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶 巡演城市揭晓\n7月18日·北京\n7月25日·杭州\n8月1日  · 成都\n8月15日·上海\n8月22日·长沙\n8月29日·广州\n\n沉默的心河淤堵成冰，未曾出口的情绪坠入寂静\n期待需要回音，情感等待共鸣，沉睡的魔女亟待唤醒\n来吧，来吧，相逢的时刻即将来临，渴盼的呼声抵达冰层深处\n跟随魔女指挥家的歌声，让所有尘封的情感奔涌成蓝色的海洋吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n更多巡演相关资讯，请持续关注天依哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2595162532c7ea4cf12806e32f2ffedb36081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 12338.849609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/共鸣之声.gif",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "text": "[心律共鸣动态表情包_共鸣之声]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/大成功.gif",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "text": "[心律共鸣动态表情包_大成功]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "412871"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9603,
+    "comment": 1750,
+    "forward": 10580
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

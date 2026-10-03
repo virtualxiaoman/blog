@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1243429170074091670",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1243429170074091670",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月2日",
+    "pub_ts": 1788346814,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "将时间的去向尽数遗忘 共坠《天涯》",
+      "desc": "大家有没有听来自闪P发起人雄之助老师的这首好听的歌曲呀？\n配合MV观看食用效果更佳哦！BV1mr8d6mEBh\n感谢和期待每一个你的喜爱和参与~\n \n2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\n✨https://b23.tv/MBvh3P6\nMusic：雄之助\nLyrics：牛肉\nVocal Tuning：晴いちばん",
+      "jump_url": "https://www.bilibili.com/video/BV1i6tJ6REaP",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/2ef128b124fbf6520780846c4f391669c835db66.jpg",
+      "cover_file": "../../_assets/covers/2026-09-02_3.jpg",
+      "bvid": "BV1i6tJ6REaP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1i6tJ6REaP",
+        "aid": "117200715384085",
+        "cover": "http://i1.hdslb.com/bfs/archive/2ef128b124fbf6520780846c4f391669c835db66.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1i6tJ6REaP",
+        "stat": {
+          "danmaku": "80",
+          "play": "7.7万",
+          "vt": ""
+        },
+        "duration_text": "00:32",
+        "title": "将时间的去向尽数遗忘 共坠《天涯》",
+        "desc": "大家有没有听来自闪P发起人雄之助老师的这首好听的歌曲呀？\n配合MV观看食用效果更佳哦！BV1mr8d6mEBh\n感谢和期待每一个你的喜爱和参与~\n \n2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\n✨https://b23.tv/MBvh3P6\nMusic：雄之助\nLyrics：牛肉\nVocal Tuning：晴いちばん",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 32821,
+    "comment": 550,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

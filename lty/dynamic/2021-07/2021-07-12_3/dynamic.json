@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "546429421854230225",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/546429421854230225",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月12日",
+    "pub_ts": 1626063914,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依九周年#\n蝴蝶经历化蛹之痛诞生翅膀，蝉在地下蛰伏以求破土光明。\n夏虫只为在仅此一次的盛夏去追逐最炽热的骄阳，一如人生短暂，我们却结群而行，努力选择自己最想要的姿态，纵情歌唱。\n#Vsinger#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "\n蝴蝶经历化蛹之痛诞生翅膀，蝉在地下蛰伏以求破土光明。\n夏虫只为在仅此一次的盛夏去追逐最炽热的骄阳，一如人生短暂，我们却结群而行，努力选择自己最想要的姿态，纵情歌唱。\n"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】夏虫【2021官方生贺曲】",
+      "desc": "蝴蝶经历化蛹之痛诞生翅膀，蝉在地下蛰伏以求破土光明。\n夏虫只为在仅此一次的盛夏去追逐最炽热的骄阳，一如人生短暂，我们却结群而行，努力选择自己最想要的姿态，纵情歌唱。\n是你们燃烧在盛夏的热情，予我破茧的力量。\n这一次，让我们一同触碰未知的绚烂奇迹吧！\n\n演唱：洛天依\n作曲：LS\n作词：果汁凉菜\n调校：Creuzer\n吉他：弓长尔玉\n曲绘：十月十日奏，KAKA02，希，yy撸猫，TID\nPV：Kin_en\n制作人：人形兎\n出品：Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1Hf4y1L7MF",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/dbda71f13a684ed76427be269b5faad127eb8f9d.jpg",
+      "cover_file": "../../_assets/covers/2021-07-12_1.jpg",
+      "bvid": "BV1Hf4y1L7MF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Hf4y1L7MF",
+        "aid": "291530455",
+        "cover": "http://i1.hdslb.com/bfs/archive/dbda71f13a684ed76427be269b5faad127eb8f9d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Hf4y1L7MF",
+        "stat": {
+          "danmaku": "2万",
+          "play": "298.7万",
+          "vt": ""
+        },
+        "duration_text": "04:20",
+        "title": "【洛天依原创曲】夏虫【2021官方生贺曲】",
+        "desc": "蝴蝶经历化蛹之痛诞生翅膀，蝉在地下蛰伏以求破土光明。\n夏虫只为在仅此一次的盛夏去追逐最炽热的骄阳，一如人生短暂，我们却结群而行，努力选择自己最想要的姿态，纵情歌唱。\n是你们燃烧在盛夏的热情，予我破茧的力量。\n这一次，让我们一同触碰未知的绚烂奇迹吧！\n\n演唱：洛天依\n作曲：LS\n作词：果汁凉菜\n调校：Creuzer\n吉他：弓长尔玉\n曲绘：十月十日奏，KAKA02，希，yy撸猫，TID\nPV：Kin_en\n制作人：人形兎\n出品：Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 142991,
+    "comment": 28172,
+    "forward": 2269
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "968109504246841347",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/968109504246841347",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月21日",
+    "pub_ts": 1724243959,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "这场盛大的「歌行宇宙」嘉年华，因蛰伏已久的期盼，因始终如一的热爱，终将华丽绽放。\n洛天依无限共鸣全息演唱会主视觉海报&演出地点&演出时间资讯公开！[心律共鸣动态表情包_共鸣之声]\n\n“为歌唱而生的虚拟歌手，以宇宙为舞台，以星空为幕布，即将盛装登场，再次唱响属于我们的歌谣。”\n🪐演出地点\n上海静安体育中心\n🪐演出时间\n2024.10.5\n日场 / 14:00\n夜场 / 19:00\n\n一场盛大的舞台，一次热烈的相聚。\n为不愿忘却的昨日，为依然期待着的明天。\n🎁转发关注天依，揪3位小伙伴送出【洛天依随机周边礼品】1份~\n📢歌行宇宙航行快报明日更新预告——\n✨无限遨游沉浸式展览&无限共鸣全息演唱会详细购票资讯\n关注前台领航记者小洛，持续为您播报~[心律共鸣动态表情包_可爱]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这场盛大的「歌行宇宙」嘉年华，因蛰伏已久的期盼，因始终如一的热爱，终将华丽绽放。\n洛天依无限共鸣全息演唱会主视觉海报&演出地点&演出时间资讯公开！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_共鸣之声]",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "name": "共鸣之声",
+        "url": "https://i0.hdslb.com/bfs/emote/6707f0d70949a12fe94a919ab3b183afca52c2ec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“为歌唱而生的虚拟歌手，以宇宙为舞台，以星空为幕布，即将盛装登场，再次唱响属于我们的歌谣。”\n🪐演出地点\n上海静安体育中心\n🪐演出时间\n2024.10.5\n日场 / 14:00\n夜场 / 19:00\n\n一场盛大的舞台，一次热烈的相聚。\n为不愿忘却的昨日，为依然期待着的明天。\n🎁转发关注天依，揪3位小伙伴送出【洛天依随机周边礼品】1份~\n📢歌行宇宙航行快报明日更新预告——\n✨无限遨游沉浸式展览&无限共鸣全息演唱会详细购票资讯\n关注前台领航记者小洛，持续为您播报~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_可爱]",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/emote/ba9712392f36dd43fbb75434cb5d1df5f275bee8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-21_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/31b40d03130262babfb00a0e653b506e36081646.png",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 15018.0400390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/共鸣之声.gif",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "text": "[心律共鸣动态表情包_共鸣之声]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/可爱.gif",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "text": "[心律共鸣动态表情包_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7993,
+    "comment": 1590,
+    "forward": 2404
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

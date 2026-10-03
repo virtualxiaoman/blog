@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "942684715192680454",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/942684715192680454",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月14日",
+    "pub_ts": 1718324289,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起弘扬国风，助力民乐新生！[Vsinger_加依]（老v代转）",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起弘扬国风，助力民乐新生！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "（老v代转）"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4668,
+    "comment": 189,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 942348896255868953,
+    "orig_mid": 3546686492248249,
+    "deleted": false,
+    "archive_dir": "../../../3546686492248249/2024-06/2024-06-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:13:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

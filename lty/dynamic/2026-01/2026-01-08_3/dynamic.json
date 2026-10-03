@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1155517241159057414",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1155517241159057414",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月8日",
+    "pub_ts": 1767878223,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@劈了啪啦稀里哗啦@取个名太难了鸭@我爱吃好丽友-等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@劈了啪啦稀里哗啦",
+        "mid": 24004519,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@取个名太难了鸭",
+        "mid": 477978142,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@我爱吃好丽友-",
+        "mid": 661213977,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4139,
+    "comment": 78,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1152549577677602816,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-12/2025-12-31_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:13:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

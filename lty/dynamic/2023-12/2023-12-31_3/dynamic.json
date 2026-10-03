@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "881244460733693957",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/881244460733693957",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月31日",
+    "pub_ts": 1704019115,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "马上有天依加码的天选时刻大奖【华为mate60】哦！应该是在18:44左右，大家记得参与呀！！[洛天依蝶变_YEAH！][洛天依蝶变_YEAH！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "马上有天依加码的天选时刻大奖【华为mate60】哦！应该是在18:44左右，大家记得参与呀！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3388,
+    "comment": 78,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 339064505263217023,
+    "orig_mid": 489412051,
+    "deleted": false,
+    "archive_dir": "../../../489412051/2019-12/2019-12-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:03:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

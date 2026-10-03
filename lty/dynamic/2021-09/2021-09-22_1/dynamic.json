@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "573118898389647810",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/573118898389647810",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月22日",
+    "pub_ts": 1632278042,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "1000万播放啦！[洛天依_耶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "1000万播放啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8551,
+    "comment": 264,
+    "forward": 72
+  },
+  "forward": {
+    "orig_id": 220025075724313564,
+    "orig_mid": 3379951,
+    "deleted": false,
+    "archive_dir": "../../../3379951/2019-02/2019-02-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:36:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

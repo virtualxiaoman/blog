@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "679642505522708480",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/679642505522708480",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月6日",
+    "pub_ts": 1657080002,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "转发本条动态，天依将抽取三位小伙伴送上【月华流转系列 吸管杯】1份。   我们的相识是一场闪着光的神奇际遇。 在无数次充满创造力的笔尖挥洒中，广袤宇宙被扩张，奇思妙想被具象。 感谢大家的勾勒描绘，让我有幸成为许多个不同的我自己，体验形形色色的人生。 距离7月12日还有6天，一起来玩吧！创作没有阈限，快乐永不停歇。 网页链接 #洛天依# #洛天依0712生日快乐# \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发本条动态，天依将抽取三位小伙伴送上【月华流转系列 吸管杯】1份。   我们的相识是一场闪着光的神奇际遇。 在无数次充满创造力的笔尖挥洒中，广袤宇宙被扩张，奇思妙想被具象。 感谢大家的勾勒描绘，让我有幸成为许多个不同的我自己，体验形形色色的人生。 距离7月12日还有6天，一起来玩吧！创作没有阈限，快乐永不停歇。 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/blackboard/activity-LTY10th0712.html"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-06_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/bb36f3d3c173b5e6c06678c20640a75136081646.jpg",
+        "width": 3000,
+        "height": 2245,
+        "size_kb": 3790.429931640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依 10周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依 10周年生日会",
+        "desc1": {
+          "text": "2022-07-12 17:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Apple ipad pro 11英寸*1份、洛天依甜点款拍立得*3份、十周年线下展门票*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=728756&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 728756,
+        "reserve_total": 263821,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10028,
+    "comment": 907,
+    "forward": 8340
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:49:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

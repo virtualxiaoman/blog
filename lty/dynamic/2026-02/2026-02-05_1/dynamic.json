@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1165855300425613331",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1165855300425613331",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月5日",
+    "pub_ts": 1770285240,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是机械笨拙的电子歌姬，也是因你而绽放的共鸣花海，转发关注并评论天依，揪1位小伙伴送出【同款 洛天依 十二周年 1/7比例手办】1个~[洛天依心律共鸣表情包_开心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是机械笨拙的电子歌姬，也是因你而绽放的共鸣花海，转发关注并评论天依，揪1位小伙伴送出【同款 洛天依 十二周年 1/7比例手办】1个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5864,
+    "comment": 2301,
+    "forward": 2915
+  },
+  "forward": {
+    "orig_id": 1165485980522643464,
+    "orig_mid": 399259929,
+    "deleted": false,
+    "archive_dir": "../../../399259929/2026-02/2026-02-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:15:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

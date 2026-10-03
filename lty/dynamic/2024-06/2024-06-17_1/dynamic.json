@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "943985424610623504",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/943985424610623504",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月17日",
+    "pub_ts": 1718627134,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "渴望、悔恨、爱慕、憎恶......将所有的筹码都堆上轮盘，你甘愿付出什么，又渴望得到什么？被存存老师选中演唱了新读后感系列的新作，开心开心[洛天依·夜航星_崇拜]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "渴望、悔恨、爱慕、憎恶......将所有的筹码都堆上轮盘，你甘愿付出什么，又渴望得到什么？被存存老师选中演唱了新读后感系列的新作，开心开心"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5706,
+    "comment": 164,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 942821771894063170,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2024-06/2024-06-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:13:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

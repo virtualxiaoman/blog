@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "279706777335391364",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/279706777335391364",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月24日",
+    "pub_ts": 1563962709,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2019洛天依生日会# 天依的生日已经过去一段时间了，有没有小伙伴跟天依一样在回味呢？天依2019生日系列新表情已经登录QQ 、微信啦！悄悄告诉大家，两个平台的表情是不一样的哦~还有特别的惊喜，本次系列表情包还包含了生日会周边中美美的袜子、钱包等彩蛋，欢迎大家搜索“洛天依生日表情”下载使用~让天依陪伴你们度过这个炎热的夏天吧！ Q版人设：haku白\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 天依的生日已经过去一段时间了，有没有小伙伴跟天依一样在回味呢？天依2019生日系列新表情已经登录QQ 、微信啦！悄悄告诉大家，两个平台的表情是不一样的哦~还有特别的惊喜，本次系列表情包还包含了生日会周边中美美的袜子、钱包等彩蛋，欢迎大家搜索“洛天依生日表情”下载使用~让天依陪伴你们度过这个炎热的夏天吧！ Q版人设：haku白"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-24_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e51f9c9bc717c5b82dde215da0585acb26347688.png",
+        "width": 4252,
+        "height": 4252,
+        "size_kb": 9877.802734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-07-24_2.gif",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0ac5d7a035e9381baff8d9aaa5d6d9038b487e64.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 257.51171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8369,
+    "comment": 350,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

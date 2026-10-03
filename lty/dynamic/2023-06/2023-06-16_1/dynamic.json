@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "807756535182655526",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/807756535182655526",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月16日",
+    "pub_ts": 1686908874,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "珍惜每一次相见的机会，让我们在今年的BML2023上相会吧~ [洛天依幻游世界_i了i了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "珍惜每一次相见的机会，让我们在今年的BML2023上相会吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5516,
+    "comment": 644,
+    "forward": 178
+  },
+  "forward": {
+    "orig_id": 807667015182450709,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2023-06/2023-06-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

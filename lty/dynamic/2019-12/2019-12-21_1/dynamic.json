@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "335352665677334212",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/335352665677334212",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月21日",
+    "pub_ts": 1576918777,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#B站跨年#好像有小伙伴在节目单公布之前就猜到天依要演唱的歌曲啦~这次表演天依会带来与以往不同的《茉莉花》，解锁全新的体验，让2019年的年末也萦绕着花香！12月31日20:00，天依将在B站新年晚会陪大家跨年，一定要来看天依~http://www.bilibili.com/blackboard/topic/2019.html?bsource=2019lastnweibo 此条动态的转评赞总数超过10000，天依会发布新衣服的超美海报！说好啦！么么哒～",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#B站跨年#",
+        "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E8%B7%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "好像有小伙伴在节目单公布之前就猜到天依要演唱的歌曲啦~这次表演天依会带来与以往不同的《茉莉花》，解锁全新的体验，让2019年的年末也萦绕着花香！12月31日20:00，天依将在B站新年晚会陪大家跨年，一定要来看天依~"
+      },
+      {
+        "type": "link",
+        "text": "http://www.bilibili.com/blackboard/topic/2019.html?bsource=2019lastnweibo",
+        "url": "http://www.bilibili.com/blackboard/topic/2019.html?bsource=2019lastnweibo"
+      },
+      {
+        "type": "text",
+        "text": " 此条动态的转评赞总数超过10000，天依会发布新衣服的超美海报！说好啦！么么哒～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "#B站跨年#好像有小伙伴在节目单公布之前",
+      "desc": "#B站跨年#好像有小伙伴在节目单公布之前就猜到天依要演唱的歌曲啦~这次表演天依会带来与以往不同的《茉莉花》，解锁全新的体验，让2019年的年末也萦绕着花香！12月31日20:00，天依将在B站新年晚会陪大家跨年，一定要来看天依~http://www.bilibili.com/blackboard/topic/2019.html?bsource=2019lastnweibo 此条动态的转评赞总数超过10000，天依会发布新衣服的超美海报！说好啦！么么哒～",
+      "jump_url": "https://www.bilibili.com/video/BV1B54y1y7sY",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f7b0782534262e309b90ff8cbf74679fca6418e6.jpg",
+      "cover_file": "../../_assets/covers/2019-12-21_1.jpg",
+      "bvid": "BV1B54y1y7sY",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1B54y1y7sY",
+        "aid": "842204775",
+        "cover": "http://i1.hdslb.com/bfs/archive/f7b0782534262e309b90ff8cbf74679fca6418e6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1B54y1y7sY",
+        "stat": {
+          "danmaku": "0",
+          "play": "9469",
+          "vt": ""
+        },
+        "duration_text": "00:17",
+        "title": "#B站跨年#好像有小伙伴在节目单公布之前",
+        "desc": "#B站跨年#好像有小伙伴在节目单公布之前就猜到天依要演唱的歌曲啦~这次表演天依会带来与以往不同的《茉莉花》，解锁全新的体验，让2019年的年末也萦绕着花香！12月31日20:00，天依将在B站新年晚会陪大家跨年，一定要来看天依~http://www.bilibili.com/blackboard/topic/2019.html?bsource=2019lastnweibo 此条动态的转评赞总数超过10000，天依会发布新衣服的超美海报！说好啦！么么哒～",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 274,
+    "comment": 1383,
+    "forward": 1971
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

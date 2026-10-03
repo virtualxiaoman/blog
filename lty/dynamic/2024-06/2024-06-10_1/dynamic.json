@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "941362561051262980",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/941362561051262980",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月10日",
+    "pub_ts": 1718016451,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "翻开青春的回忆薄，是充斥着不断自我怀疑又咬牙坚持向前的泪水，也是充盈着希望与笑意的一双双眼眸。\n再一次回望吧，再一次记录吧，告别，再出发。\n\n这几天高考的大家辛苦啦，毕业快乐！[代号洛天依_比心]\n还有还有大家端午安康呀，今天吃粽子了没有？[代号洛天依_好好7]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "翻开青春的回忆薄，是充斥着不断自我怀疑又咬牙坚持向前的泪水，也是充盈着希望与笑意的一双双眼眸。\n再一次回望吧，再一次记录吧，告别，再出发。\n\n这几天高考的大家辛苦啦，毕业快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n还有还有大家端午安康呀，今天吃粽子了没有？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e20ba2e94af7301d95464c63bc0f09de36081646.jpg",
+        "width": 2800,
+        "height": 3733,
+        "size_kb": 4224.060546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-06-10_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7ac1b15db1b5ff906f05176cc2c01e2236081646.jpg",
+        "width": 2800,
+        "height": 3733,
+        "size_kb": 5228.474609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8243,
+    "comment": 487,
+    "forward": 152
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

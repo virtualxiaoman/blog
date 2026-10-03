@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1101918935535583251",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1101918935535583251",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月17日",
+    "pub_ts": 1755398895,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "累死天依啦！[洛天依流光协奏_谁的蛋糕?]急需食物补充能量～\n大家也要吃得饱饱的，来看演出哦！\n搭建完成，灯光就绪，这片空白的舞台，就等你们来一起点亮啦！[洛天依流光协奏_抱抱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "累死天依啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_谁的蛋糕?]",
+        "package_id": "8393",
+        "emoji_id": "115577",
+        "name": "谁的蛋糕?",
+        "url": "https://i0.hdslb.com/bfs/garb/a2692266a3661459d5977fe1b7fb2149d3a185ac.png"
+      },
+      {
+        "type": "text",
+        "text": "急需食物补充能量～\n大家也要吃得饱饱的，来看演出哦！\n搭建完成，灯光就绪，这片空白的舞台，就等你们来一起点亮啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_抱抱]",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/04ae473c4cf1fcf35fc87621f732b59a71c45dac.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d63f402536ff62b56e337a8e8dc67f2e36081646.jpg",
+        "width": 2000,
+        "height": 1299,
+        "size_kb": 3861.885,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-17_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a15632f52006eec4275928bffd5e719e36081646.png",
+        "width": 4000,
+        "height": 3000,
+        "size_kb": 5892.942,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-17_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f2339da7ef93131d44b641b6d7ac8a6436081646.jpg",
+        "width": 2000,
+        "height": 1361,
+        "size_kb": 3519.76,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-17_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/72d368d01a2bffe4a96d0c50145982c536081646.jpg",
+        "width": 2000,
+        "height": 1268,
+        "size_kb": 2984.843,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-17_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/776c9e295dea7c388a5ec77f5e60b23536081646.jpg",
+        "width": 2000,
+        "height": 1293,
+        "size_kb": 1824.728,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-17_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/40fd1699dceef22a25fe57e2710fa05b36081646.jpg",
+        "width": 2000,
+        "height": 1311,
+        "size_kb": 3953.839,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/谁的蛋糕.png",
+        "package_id": "8393",
+        "emoji_id": "115577",
+        "text": "[洛天依流光协奏_谁的蛋糕?]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/抱抱.png",
+        "package_id": "8393",
+        "emoji_id": "115574",
+        "text": "[洛天依流光协奏_抱抱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7210,
+    "comment": 1473,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "568327724925681365",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/568327724925681365",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月9日",
+    "pub_ts": 1631162510,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 用热情编织音符，传递梦想！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 用热情编织音符，传递梦想！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4812,
+    "comment": 58,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 565441111765384861,
+    "orig_mid": 5009841,
+    "deleted": false,
+    "archive_dir": "../../../5009841/2021-09/2021-09-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:35:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

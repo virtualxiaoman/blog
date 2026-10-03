@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1153222968365547528",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1153222968365547528",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月2日",
+    "pub_ts": 1767344046,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "明天下午14:00-14:30，来网易云评论区找天依吧～[逆转童话动态_吃书]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明天下午14:00-14:30，来网易云评论区找天依吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6020,
+    "comment": 193,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1148061259487248451,
+    "orig_mid": 2010145557,
+    "deleted": false,
+    "archive_dir": "../../../2010145557/2025-12/2025-12-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:12:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

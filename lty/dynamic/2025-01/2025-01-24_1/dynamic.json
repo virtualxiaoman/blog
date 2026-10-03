@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "1025920386857959425",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1025920386857959425",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月24日",
+    "pub_ts": 1737704104,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "抓住龙年的尾巴，再以这一曲《大哉乾元》，提前恭祝大家新春快乐啦！\n今晚19:00，冰火歌会年度盛典，来看天依吧！[心律共鸣动态表情包_可爱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "抓住龙年的尾巴，再以这一曲《大哉乾元》，提前恭祝大家新春快乐啦！\n今晚19:00，冰火歌会年度盛典，来看天依吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_可爱]",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/emote/ba9712392f36dd43fbb75434cb5d1df5f275bee8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-24_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/695242c9b35973e4a01bb4a06ea6be2036081646.png",
+        "width": 1965,
+        "height": 1131,
+        "size_kb": 2451.099609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/可爱.gif",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "text": "[心律共鸣动态表情包_可爱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会年度盛典-新春季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会年度盛典-新春季",
+        "desc1": {
+          "text": "2025-01-24 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "22.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone 16 pro max*1份、大疆Osmo Pocket 3*1份、500元京东购物卡*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4343796&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4343796,
+        "reserve_total": 221102,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4259,
+    "comment": 127,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

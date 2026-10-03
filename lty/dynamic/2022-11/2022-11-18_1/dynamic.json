@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "729781266650497061",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/729781266650497061",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月18日",
+    "pub_ts": 1668753842,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#“依”起幸惠美好生活#天依的美好生活，就是可以一直陪伴在你们身边！你愿意带我一起去看看你的世界吗？快打开“交行信用卡”微信小程序，本侠女在这里等你哦！(✿◡‿◡)",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#“依”起幸惠美好生活#",
+        "url": "https://search.bilibili.com/all?keyword=%E2%80%9C%E4%BE%9D%E2%80%9D%E8%B5%B7%E5%B9%B8%E6%83%A0%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB"
+      },
+      {
+        "type": "text",
+        "text": "天依的美好生活，就是可以一直陪伴在你们身边！你愿意带我一起去看看你的世界吗？快打开“交行信用卡”微信小程序，本侠女在这里等你哦！(✿◡‿◡)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5671,
+    "comment": 118,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 729775696071622744,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2022-11/2022-11-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

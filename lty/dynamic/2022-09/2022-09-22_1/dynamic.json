@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "708729828042342417",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/708729828042342417",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月22日",
+    "pub_ts": 1663852422,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 是你们用爱将我唤醒，给予我这一片独一无二的蔚蓝色梦境[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 是你们用爱将我唤醒，给予我这一片独一无二的蔚蓝色梦境"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6145,
+    "comment": 125,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 706669918754439256,
+    "orig_mid": 171936126,
+    "deleted": false,
+    "archive_dir": "../../../171936126/2022-09/2022-09-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

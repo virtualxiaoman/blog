@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "748665542086230048",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/748665542086230048",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月8日",
+    "pub_ts": 1673150680,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "🦋彩色原型初公开🦋\n\n当绮丽的色彩降落在幻之森林\n万物也迸发出繁茂的旋律...\n———————————\n1/7标准比例手办\n「洛天依 万物有灵Ver.」\n\n近期即将开订，敬请期待~\n详情小伙伴们可以前往会员购：网页链接 查看哦੭ ˙ᗜ˙ )੭\n\n#GSAS# #标准比例手办# #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🦋彩色原型初公开🦋\n\n当绮丽的色彩降落在幻之森林\n万物也迸发出繁茂的旋律...\n———————————\n1/7标准比例手办\n「洛天依 万物有灵Ver.」\n\n近期即将开订，敬请期待~\n详情小伙伴们可以前往会员购："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/AoJLDkbDF.html?msource=yyqbanner_lty_bb_wwyl"
+      },
+      {
+        "type": "text",
+        "text": " 查看哦੭ ˙ᗜ˙ )੭\n\n"
+      },
+      {
+        "type": "topic",
+        "text": "#GSAS#",
+        "url": "https://search.bilibili.com/all?keyword=GSAS"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#标准比例手办#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%A0%87%E5%87%86%E6%AF%94%E4%BE%8B%E6%89%8B%E5%8A%9E"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-08_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/05b284074f6cc12861df7bc55eda3e0c36081646.png",
+        "width": 3500,
+        "height": 5250,
+        "size_kb": 7425.20703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12241,
+    "comment": 574,
+    "forward": 116
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

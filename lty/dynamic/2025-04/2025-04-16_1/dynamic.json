@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1056295520837828609",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1056295520837828609",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月16日",
+    "pub_ts": 1744776366,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "守护每一颗幼苗，守护大家，健康茁壮地成长[洛天依·戏游九州表情包_撒花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "守护每一颗幼苗，守护大家，健康茁壮地成长"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州表情包_撒花]",
+        "package_id": "7319",
+        "emoji_id": "98469",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/f3dc65d7fd3292d1ddfa988a12ba98774c7aab38.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7319/撒花.png",
+        "package_id": "7319",
+        "emoji_id": "98469",
+        "text": "[洛天依·戏游九州表情包_撒花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6698,
+    "comment": 381,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 1056269046673047559,
+    "orig_mid": 86335477,
+    "deleted": false,
+    "archive_dir": "../../../86335477/2025-04/2025-04-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

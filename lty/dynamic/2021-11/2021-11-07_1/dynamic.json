@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "590232955784113040",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/590232955784113040",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月7日",
+    "pub_ts": 1636262719,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依# 追加决定！ 「 洛天依 1/7手办 音乐印记 燃 Ver.」公布后，我们收到了来自大家的肯定，同时也看到了一些反馈的建议，为了感谢小伙伴们对这款手办的喜爱，品牌方决定追加一双肤色腿作为替换件，大家可随心替换，最终售价不变~ 详细情报，请戳→网页链接 关注并转发本条动态，随机抽取一名小伙伴送出「 洛天依 1/7手办 音乐印记 燃 Ver.」*1\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "75713",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 追加决定！ 「 洛天依 1/7手办 音乐印记 燃 Ver.」公布后，我们收到了来自大家的肯定，同时也看到了一些反馈的建议，为了感谢小伙伴们对这款手办的喜爱，品牌方决定追加一双肤色腿作为替换件，大家可随心替换，最终售价不变~ 详细情报，请戳→"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/CYV4bs"
+      },
+      {
+        "type": "text",
+        "text": " 关注并转发本条动态，随机抽取一名小伙伴送出「 洛天依 1/7手办 音乐印记 燃 Ver.」*1"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-11-07_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7d5b621e5e8ed25b7aacda2388d8c95b6e023f8b.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 552.75,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-11-07_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a6d2f2b39296f4e0c4984ff4ae933815fea546b0.png",
+        "width": 1800,
+        "height": 1200,
+        "size_kb": 2687.669921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-11-07_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/21fbb5c8a4679b04db771562709997f3fe7e9908.png",
+        "width": 900,
+        "height": 1300,
+        "size_kb": 1484.6300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-11-07_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/44748c1f91b59672bd687f16f2e0234510303960.png",
+        "width": 1726,
+        "height": 1200,
+        "size_kb": 2675.3701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2021-11-07_5.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1d37e6e8ab0a83218e8f60894bfd2c1a8697e98f.png",
+        "width": 1800,
+        "height": 1200,
+        "size_kb": 2063.25,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2021-11-07_6.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e81dd2b2b5487f273a2e43399c4e96de5dba61ee.png",
+        "width": 1097,
+        "height": 904,
+        "size_kb": 1348.06005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "75713"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9774,
+    "comment": 1539,
+    "forward": 12562
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

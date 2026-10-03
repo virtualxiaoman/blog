@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1017356264982708225",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1017356264982708225",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月1日",
+    "pub_ts": 1735710114,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "100w 播放达成感谢！[洛天依·戏游九州动态_撒花]转发里揪 3 位小伙伴赠送之后会为大家带来的【游学记实体专辑礼盒】1 份哦，大家辛苦啦！请再多多支持小西柚吧[洛天依·戏游九州动态_惬意]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "100w 播放达成感谢！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "转发里揪 3 位小伙伴赠送之后会为大家带来的【游学记实体专辑礼盒】1 份哦，大家辛苦啦！请再多多支持小西柚吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4648,
+    "comment": 1479,
+    "forward": 2135
+  },
+  "forward": {
+    "orig_id": 1017105636485234770,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-12/2024-12-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:25:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

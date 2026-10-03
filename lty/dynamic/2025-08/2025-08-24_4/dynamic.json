@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1104688708406214688",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1104688708406214688",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月24日",
+    "pub_ts": 1756043783,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "跳动吧！回应吧！享受吧！撰写吧——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "跳动吧！回应吧！享受吧！撰写吧——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“等待着与你的重逢 一起大声宣告”洛天依《流光（Light Me Up）》【冰火歌会2025夏梦季】",
+      "desc": "当你我重逢在这里，当回忆谱写成流光\n无需寒暄客套，不论过去将来\n抛下所有的烦恼，挥洒所有的热情\n一起大声宣告我们的热爱吧！\n\n洛天依「无限共鸣·流光协奏」全息巡回演唱会主题曲《流光（Light Me Up）》\n作词：果汁凉菜\n作曲：針原翼（はりーP）\n调校：哈士奇P\n编曲：Evergreen Leland Studio\n混音：北吉泰輔",
+      "jump_url": "https://www.bilibili.com/video/BV18ieEzgEcM",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/20bb6deaba2db7041901e109e07a055e880d785d.jpg",
+      "cover_file": "../../_assets/covers/2025-08-24_1.jpg",
+      "bvid": "BV18ieEzgEcM",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18ieEzgEcM",
+        "aid": "115083531258957",
+        "cover": "http://i0.hdslb.com/bfs/archive/20bb6deaba2db7041901e109e07a055e880d785d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18ieEzgEcM",
+        "stat": {
+          "danmaku": "3420",
+          "play": "63.6万",
+          "vt": ""
+        },
+        "duration_text": "03:58",
+        "title": "“等待着与你的重逢 一起大声宣告”洛天依《流光（Light Me Up）》【冰火歌会2025夏梦季】",
+        "desc": "当你我重逢在这里，当回忆谱写成流光\n无需寒暄客套，不论过去将来\n抛下所有的烦恼，挥洒所有的热情\n一起大声宣告我们的热爱吧！\n\n洛天依「无限共鸣·流光协奏」全息巡回演唱会主题曲《流光（Light Me Up）》\n作词：果汁凉菜\n作曲：針原翼（はりーP）\n调校：哈士奇P\n编曲：Evergreen Leland Studio\n混音：北吉泰輔",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41723,
+    "comment": 2256,
+    "forward": 313
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1008022094201487448",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1008022094201487448",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月7日",
+    "pub_ts": 1733536833,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "请再次跟随天依的游学故事与歌声，沿着戏曲文化发源的轨迹追溯，探寻梨园悠悠古韵吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "请再次跟随天依的游学故事与歌声，沿着戏曲文化发源的轨迹追溯，探寻梨园悠悠古韵吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《洛天依游学记·歌行戏曲季》先导片 | 随天依步入梨园，追寻古韵戏魂",
+      "desc": "歌行至今，声传四方；行歌入戏，启幕新章\n三尺红台唱尽悲欢离合，古今传说融于唱念做打\n昆曲、京剧、越剧......当虚拟之声碰撞戏韵曲魂\n这一次，请再次跟随天依的游学故事与歌声\n沿着戏曲文化发源的轨迹追溯，探寻梨园悠悠古韵吧！\n✦主题页现已上线：https://www.bilibili.com/blackboard/era/RmNTpz3EnBQZCqAR.html \n请关注天依的持续更新哦！",
+      "jump_url": "https://www.bilibili.com/video/BV1YiiBY8Enw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/43a0fe4db4c6d8c228ff1b839995cb23e14d9dea.jpg",
+      "cover_file": "../../_assets/covers/2024-12-07_1.jpg",
+      "bvid": "BV1YiiBY8Enw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YiiBY8Enw",
+        "aid": "113605576100217",
+        "cover": "http://i2.hdslb.com/bfs/archive/43a0fe4db4c6d8c228ff1b839995cb23e14d9dea.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YiiBY8Enw",
+        "stat": {
+          "danmaku": "564",
+          "play": "63.2万",
+          "vt": ""
+        },
+        "duration_text": "01:43",
+        "title": "《洛天依游学记·歌行戏曲季》先导片 | 随天依步入梨园，追寻古韵戏魂",
+        "desc": "歌行至今，声传四方；行歌入戏，启幕新章\n三尺红台唱尽悲欢离合，古今传说融于唱念做打\n昆曲、京剧、越剧......当虚拟之声碰撞戏韵曲魂\n这一次，请再次跟随天依的游学故事与歌声\n沿着戏曲文化发源的轨迹追溯，探寻梨园悠悠古韵吧！\n✦主题页现已上线：https://www.bilibili.com/blackboard/era/RmNTpz3EnBQZCqAR.html \n请关注天依的持续更新哦！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21416,
+    "comment": 877,
+    "forward": 121
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

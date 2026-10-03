@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "874149441047625750",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/874149441047625750",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月12日",
+    "pub_ts": 1702367177,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "还差一点一点[洛天依蝶变_YEAH！]//@阿良良木健:还差一点一点一点就传说了……//@阿良良木健:一点一点，还差一点一点，就传说了……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "还差一点一点"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "//"
+      },
+      {
+        "type": "mention",
+        "text": "@阿良良木健",
+        "mid": 112428,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":还差一点一点一点就传说了……//"
+      },
+      {
+        "type": "mention",
+        "text": "@阿良良木健",
+        "mid": 112428,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":一点一点，还差一点一点，就传说了……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4529,
+    "comment": 93,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 336766362755767430,
+    "orig_mid": 112428,
+    "deleted": false,
+    "archive_dir": "../../../112428/2019-12/2019-12-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

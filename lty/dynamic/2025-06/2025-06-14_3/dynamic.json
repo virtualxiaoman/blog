@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "1078225821414457352",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1078225821414457352",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月14日",
+    "pub_ts": 1749882412,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "亲爱的Producer，今天谁会pick天依呀？\n洛天依闪耀的Producer系列周边新品上线啦！[洛天依-潮声回响_带上我]\n\n⭐上架周边⭐\n色纸、镭射票、亚克力立牌、双闪徽章\n亚克力挂件、鼠标垫、毛绒玩偶\n\n✨满赠：满99元赠送【立绘收藏卡】1张\n✨预计发货时间：8月\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的Producer，今天谁会pick天依呀？\n洛天依闪耀的Producer系列周边新品上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_带上我]",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "name": "带上我",
+        "url": "https://i0.hdslb.com/bfs/garb/b8604e41a3f022731036690e02347c08c6279ffc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⭐上架周边⭐\n色纸、镭射票、亚克力立牌、双闪徽章\n亚克力挂件、鼠标垫、毛绒玩偶\n\n✨满赠：满99元赠送【立绘收藏卡】1张\n✨预计发货时间：8月"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-14_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/09fd0777cea428d1e7c15ff2bb032a0236081646.png",
+        "width": 3333,
+        "height": 3333,
+        "size_kb": 8633.87890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c17675d2cb71b701c45762ce8cc7a4b236081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 943.9912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-06-14_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8c1eed3b135875a82900af1b80adc04a36081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1554.1015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-06-14_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/68a64806f9001fc6fbf86fb767cda8a236081646.png",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1407.3720703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/带上我.png",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "text": "[洛天依-潮声回响_带上我]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 闪耀的Producer系列周边",
+            "price": "¥12",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f5/a6/5b289f4e17b37d699677566047db83a9.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12550837&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1078225821414457352",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-06-14_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4204,
+    "comment": 143,
+    "forward": 54
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

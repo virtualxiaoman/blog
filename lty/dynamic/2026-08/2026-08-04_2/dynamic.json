@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1232687229210460180",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1232687229210460180",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月4日",
+    "pub_ts": 1785845761,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“洛神号”重新起航！期待和大家再次相见~[洛天依拜年纪动态表情包_起航]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“洛神号”重新起航！期待和大家再次相见~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_起航]",
+        "package_id": "9451",
+        "emoji_id": "132884",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/garb/feb1fe1e04112100ff8f8f81dd7a52b8f017b010.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/起航.gif",
+        "package_id": "9451",
+        "emoji_id": "132884",
+        "text": "[洛天依拜年纪动态表情包_起航]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5827,
+    "comment": 175,
+    "forward": 50
+  },
+  "forward": {
+    "orig_id": 1232682028053299200,
+    "orig_mid": 3546838101658257,
+    "deleted": false,
+    "archive_dir": "../../../3546838101658257/2026-08/2026-08-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:34:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

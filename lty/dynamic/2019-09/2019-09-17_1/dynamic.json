@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "300037846841213224",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/300037846841213224",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年9月17日",
+    "pub_ts": 1568696405,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@社会你可达鸭 @咸鱼喵酱呀 @进击的小亚 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@社会你可达鸭",
+        "mid": 330064971,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@咸鱼喵酱呀",
+        "mid": 346594991,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@进击的小亚",
+        "mid": 290840415,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3922,
+    "comment": 146,
+    "forward": 5
+  },
+  "forward": {
+    "orig_id": 298538426515988571,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2019-09-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

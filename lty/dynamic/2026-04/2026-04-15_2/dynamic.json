@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "id": "1191463643514929206",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1191463643514929206",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月15日",
+    "pub_ts": 1776247647,
+    "location": ""
+  },
+  "topic": {
+    "id": 1336877,
+    "name": "闪耀的画师",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1336877&topic_name=%E9%97%AA%E8%80%80%E7%9A%84%E7%94%BB%E5%B8%88"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 拥有无限创意可能性画笔的画师们，会愿意赋予我怎样的艺术身份？\n这是属于每位画师的闪耀舞台，这是属于你和洛天依的畅想世界[洛天依国乐季动态表情包_爱你]\n✨洛天依服装&插画设计大赛「闪耀的画师」正式开启啦！\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份[洛天依国乐季动态表情包_wink]\n\n✨征集时间\n4月15日-5月31日\n\n✨征集内容\n创作与洛天依相关的插画/设定类作品，带#闪耀的画师#活动话题在bilibili发布\n投稿至对应赛道，即可视为参与活动，本次征稿主题为「畅想艺术家」\n\n✨活动奖励\n🖌插画赛道：￥7120 ×3、￥1000 ×10\n🖌设定赛道：￥5210 ×3、￥1000 ×10\n🏅收录奖：￥10000 ×8\n\n⭐特别赛道：可动人偶服设特别征集\n🎨投稿视频至#洛天依30日绘画挑战#活动，享额外瓜分￥20000 元奖励\n\n将灵感肆意铺陈，将幻想寄予画笔\n拥有无限可能的少女，正满怀期待，渴望在你的笔尖绽放\n牵起洛天依的手，用你的创意，点亮你们的缤纷世界吧！[洛天依国乐季动态表情包_美味]\n✨活动主题页：网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "407235",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 拥有无限创意可能性画笔的画师们，会愿意赋予我怎样的艺术身份？\n这是属于每位画师的闪耀舞台，这是属于你和洛天依的畅想世界"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n✨洛天依服装&插画设计大赛「闪耀的画师」正式开启啦！\n转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨征集时间\n4月15日-5月31日\n\n✨征集内容\n创作与洛天依相关的插画/设定类作品，带"
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的画师#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84%E7%94%BB%E5%B8%88"
+      },
+      {
+        "type": "text",
+        "text": "活动话题在bilibili发布\n投稿至对应赛道，即可视为参与活动，本次征稿主题为「畅想艺术家」\n\n✨活动奖励\n🖌插画赛道：￥7120 ×3、￥1000 ×10\n🖌设定赛道：￥5210 ×3、￥1000 ×10\n🏅收录奖：￥10000 ×8\n\n⭐特别赛道：可动人偶服设特别征集\n🎨投稿视频至"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依30日绘画挑战#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D30%E6%97%A5%E7%BB%98%E7%94%BB%E6%8C%91%E6%88%98"
+      },
+      {
+        "type": "text",
+        "text": "活动，享额外瓜分￥20000 元奖励\n\n将灵感肆意铺陈，将幻想寄予画笔\n拥有无限可能的少女，正满怀期待，渴望在你的笔尖绽放\n牵起洛天依的手，用你的创意，点亮你们的缤纷世界吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_美味]",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/495ebb71f34d6d2cfa019b58a73c804990b77d9c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n✨活动主题页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/LObjP1eF5FfEksOC.html"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-04-15_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/725e0cf679a403f6446c41b822a7f42936081646.png",
+        "width": 3349,
+        "height": 2158,
+        "size_kb": 8879.24609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-04-15_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3a3e298e99760491ffdfcb22123ab64036081646.png",
+        "width": 1080,
+        "height": 3679,
+        "size_kb": 2630.7978515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-04-15_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/358012e8478173c10ada57e333beea3636081646.png",
+        "width": 1080,
+        "height": 8535,
+        "size_kb": 2548.798828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/美味.gif",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "text": "[洛天依国乐季动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "407235"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7478,
+    "comment": 675,
+    "forward": 5815
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

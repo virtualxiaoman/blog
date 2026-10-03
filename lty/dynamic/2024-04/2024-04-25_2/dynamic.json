@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "id": "924280849081303045",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/924280849081303045",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月25日",
+    "pub_ts": 1714039305,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "#冰火歌会#\n这次的冰火歌会竟然是星际旅行主题？天依当然要来参加啦！[代号洛天依_起航]\n作为这次的【冰火远航大使】，为了配合这次的主题，天依准备了新的模型哦！[代号洛天依_比心]\n这次要表演的歌曲......来自P主老师的经典作品，并将会对其重新改编，一起来猜猜看吧？\n揪最快猜对的小伙伴送出【洛天依随机周边】1份~[代号洛天依_让我看看]\n如果你愿意与我共赴这场浪漫的星际之旅......5月2日晚19:00，记得预约直播，就不会错过天依啦！[代号洛天依_不是事儿]\n\n提示一：这是一首投稿于2019年由XXX老师创作的歌曲\n提示二：歌名关键字“星”\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#冰火歌会#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "\n这次的冰火歌会竟然是星际旅行主题？天依当然要来参加啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      },
+      {
+        "type": "text",
+        "text": "\n作为这次的【冰火远航大使】，为了配合这次的主题，天依准备了新的模型哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n这次要表演的歌曲......来自P主老师的经典作品，并将会对其重新改编，一起来猜猜看吧？\n揪最快猜对的小伙伴送出【洛天依随机周边】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_让我看看]",
+        "package_id": "1842",
+        "emoji_id": "32145",
+        "name": "让我看看",
+        "url": "https://i0.hdslb.com/bfs/emote/a69ed03a79f06fdfe76e4aa69713c08de3994e9e.png"
+      },
+      {
+        "type": "text",
+        "text": "\n如果你愿意与我共赴这场浪漫的星际之旅......5月2日晚19:00，记得预约直播，就不会错过天依啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_不是事儿]",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "name": "不是事儿",
+        "url": "https://i0.hdslb.com/bfs/emote/ce2071489d03e85e5c948cd384e5750d56025772.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n提示一：这是一首投稿于2019年由XXX老师创作的歌曲\n提示二：歌名关键字“星”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-25_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b486893a82dda283717f2cda268ebe0c36081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 3080.09765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/让我看看.png",
+        "package_id": "1842",
+        "emoji_id": "32145",
+        "text": "[代号洛天依_让我看看]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/不是事儿.png",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "text": "[代号洛天依_不是事儿]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2024远航季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2024远航季",
+        "desc1": {
+          "text": "2024-05-02 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "19.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iphone 15 pro max*1份、大疆 Pocket 3 口袋相机*1份、AOC游戏电竞显示器（27英寸/2k）*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3654711&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3654711,
+        "reserve_total": 191114,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4025,
+    "comment": 233,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

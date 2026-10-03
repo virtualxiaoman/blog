@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "745401847985995863",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/745401847985995863",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1672390792,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖  \n腊八佳节，新年将至。\n我怕跨年的钟声太响，淹没了我的祝福\n我怕……我怕小伙伴们忘记明晚一起跨年的约定～ฅ՞• •՞ฅ  \n[洛天依·夜航星_新年快乐]在这里，天依提前祝大家新年快乐啦！\n同时掉落一份大大大大大礼物，祝愿大家平安喜乐，红包多多—— \nBV1M3411D7YT\n\n⭐转发这条动态并关注天依，我将随机抽选1位小伙伴作为迎腊八好运锦鲤，送出以下礼品：\nApple Watch Series8\n任天堂日版switch游戏机\n洛天依 芒种ver.手办\nRazer雷蛇黑寡妇蜘蛛V3PRro蓝牙机械键盘\n华为FreeBuds4E无线蓝牙耳机\n洛天依 8王龙系列盒蛋（BOX）\n洛天依 香罗叠锦 端午礼盒\n洛天依十周年专辑礼盒\n洛天依 月华流转系列 充电宝\n洛天依 镂月行歌系列 马克杯\n另外抽选22位小伙伴送出【十周年数字专辑】1份。\n十周年专辑试听：洛天依十周年全新专辑《无尽蓝》试听PV \n\n感谢一年相伴，未来也希望能与更多人相连，带给你们温暖和爱。\n也祝大家新的一年好运连连，事事顺利！ [洛天依·夜航星_锦鲤]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "126326",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  \n腊八佳节，新年将至。\n我怕跨年的钟声太响，淹没了我的祝福\n我怕……我怕小伙伴们忘记明晚一起跨年的约定～ฅ՞• •՞ฅ  \n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_新年快乐]",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "name": "新年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/80d5195ee966465f5f338db26f2faba51afcd217.png"
+      },
+      {
+        "type": "text",
+        "text": "在这里，天依提前祝大家新年快乐啦！\n同时掉落一份大大大大大礼物，祝愿大家平安喜乐，红包多多—— \n"
+      },
+      {
+        "type": "link",
+        "text": "BV1M3411D7YT",
+        "url": "https://www.bilibili.com/video/av434411108"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⭐转发这条动态并关注天依，我将随机抽选1位小伙伴作为迎腊八好运锦鲤，送出以下礼品：\nApple Watch Series8\n任天堂日版switch游戏机\n洛天依 芒种ver.手办\nRazer雷蛇黑寡妇蜘蛛V3PRro蓝牙机械键盘\n华为FreeBuds4E无线蓝牙耳机\n洛天依 8王龙系列盒蛋（BOX）\n洛天依 香罗叠锦 端午礼盒\n洛天依十周年专辑礼盒\n洛天依 月华流转系列 充电宝\n洛天依 镂月行歌系列 马克杯\n另外抽选22位小伙伴送出【十周年数字专辑】1份。\n十周年专辑试听："
+      },
+      {
+        "type": "video",
+        "text": "洛天依十周年全新专辑《无尽蓝》试听PV",
+        "url": "https://www.bilibili.com/video/av434464478",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " \n\n感谢一年相伴，未来也希望能与更多人相连，带给你们温暖和爱。\n也祝大家新的一年好运连连，事事顺利！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b7087f1335787faba94a39f21d637ec636081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 315.2490234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-12-30_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0dcf7e8c48acb53644bbf0f7726f6aa536081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 197.416015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-12-30_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/66923467e07b4ac71fe41a453f9653f636081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 264.4560546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/新年快乐.png",
+        "package_id": "166",
+        "emoji_id": "3084",
+        "text": "[洛天依·夜航星_新年快乐]"
+      },
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "126326"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

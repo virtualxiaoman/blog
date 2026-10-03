@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "924288154802847846",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/924288154802847846",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月25日",
+    "pub_ts": 1714041006,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "唱片机·季节篇到最后的春季篇啦！浪漫的春日，适合听——\n下一篇章大家想看什么呀？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "唱片机·季节篇到最后的春季篇啦！浪漫的春日，适合听——\n下一篇章大家想看什么呀？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第九期·春游 | 加百列玫瑰，奏响春日的协奏曲",
+      "desc": "唱片机·季节篇到最后的春季篇啦！浪漫的春日，适合听——\n下一篇章大家想看什么呀？\n人设画师：TitaniumTAI\n插画绘制：Shuno\n\n感谢老师们的创作与授权~♥\n1.霜雪千年﻿@COPY  BV1es41127Fd\n作曲/作词/编曲/调校：COPY\n2.烦恼不如跳舞﻿@赛亚♂sya  BV1bC411t7fo\n作曲/作词/编曲/调校：Sya\n3.谷雨﻿@桑葚上的猴子   BV1Zs411z7Ew\n作曲/编曲：桑葚上的猴子 作词：铭言君 调校：文科生Misaki\n4.地平线﻿@TUNO桐音   BV1",
+      "jump_url": "https://www.bilibili.com/video/BV1Ti421173v",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7227f4b353801eb3c1064ddcdfc6073b6acd3eed.png",
+      "cover_file": "../../_assets/covers/2024-04-25_1.png",
+      "bvid": "BV1Ti421173v",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Ti421173v",
+        "aid": "1453660567",
+        "cover": "http://i2.hdslb.com/bfs/archive/7227f4b353801eb3c1064ddcdfc6073b6acd3eed.png",
+        "jump_url": "//www.bilibili.com/video/BV1Ti421173v",
+        "stat": {
+          "danmaku": "965",
+          "play": "35.9万",
+          "vt": ""
+        },
+        "duration_text": "56:13",
+        "title": "【天依唱片机】第九期·春游 | 加百列玫瑰，奏响春日的协奏曲",
+        "desc": "唱片机·季节篇到最后的春季篇啦！浪漫的春日，适合听——\n下一篇章大家想看什么呀？\n人设画师：TitaniumTAI\n插画绘制：Shuno\n\n感谢老师们的创作与授权~♥\n1.霜雪千年﻿@COPY  BV1es41127Fd\n作曲/作词/编曲/调校：COPY\n2.烦恼不如跳舞﻿@赛亚♂sya  BV1bC411t7fo\n作曲/作词/编曲/调校：Sya\n3.谷雨﻿@桑葚上的猴子   BV1Zs411z7Ew\n作曲/编曲：桑葚上的猴子 作词：铭言君 调校：文科生Misaki\n4.地平线﻿@TUNO桐音   BV1",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29814,
+    "comment": 600,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

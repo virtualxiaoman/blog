@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1033735981807697926",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1033735981807697926",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月14日",
+    "pub_ts": 1739523814,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "谢谢大家的心意~[蛇来运转表情包_洛天依-]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谢谢大家的心意~"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4877,
+    "comment": 113,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 1033054795666030647,
+    "orig_mid": 3546721695041725,
+    "deleted": false,
+    "archive_dir": "../../../3546721695041725/2025-02/2025-02-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:27:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

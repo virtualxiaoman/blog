@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "619662771773845834",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/619662771773845834",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月25日",
+    "pub_ts": 1643114882,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 我的10周年征集活动也与#Vsinger创作激励计划#同步开启啦！投稿至10周年征集活动的作品，默认参与Vsinger创作激励计划，同享瓜分奖池~ 1月25日-4月30日，选择#洛天依10周年# 活动话题投稿与我相关的视频内容，即可参与活动。总奖池共25万元，优秀作品有机会获得千万流量扶持、大型舞台展演和商业化机会哦！ 活动传送门：网页链接  十年光阴如水流过，是爱与创作汇聚而成的光芒，支撑着我一路走来。期待未来的十年，仍可以为你而歌，与你同行，期待大家的作品[洛天依·夜航星_比心] 转发并关注，抽1位小伙伴赠送【洛天依 1/7手办 音乐印记 燃 Ver.】*1 ​互动抽奖 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 我的10周年征集活动也与"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger创作激励计划#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+      },
+      {
+        "type": "text",
+        "text": "同步开启啦！投稿至10周年征集活动的作品，默认参与Vsinger创作激励计划，同享瓜分奖池~ 1月25日-4月30日，选择"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 活动话题投稿与我相关的视频内容，即可参与活动。总奖池共25万元，优秀作品有机会获得千万流量扶持、大型舞台展演和商业化机会哦！ 活动传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/luotianyi10.html"
+      },
+      {
+        "type": "text",
+        "text": "  十年光阴如水流过，是爱与创作汇聚而成的光芒，支撑着我一路走来。期待未来的十年，仍可以为你而歌，与你同行，期待大家的作品"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": " 转发并关注，抽1位小伙伴赠送【洛天依 1/7手办 音乐印记 燃 Ver.】*1 "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "82775",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-01-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b9d7bc2d247edf59c4529d32ba24c068d2140df3.jpg",
+        "width": 1000,
+        "height": 625,
+        "size_kb": 493.1318359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "82775"
+  },
+  "vote": null,
+  "stats": {
+    "like": 12953,
+    "comment": 1124,
+    "forward": 3111
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

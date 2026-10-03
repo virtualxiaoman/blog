@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1201881610664804352",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1201881610664804352",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月13日",
+    "pub_ts": 1778673269,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "亲爱的，别生气啦～˶╹ᵕ╹˶ಣ",
+      "desc": "天依天依，我们这样真的可以招到新的锦依卫嘛？\n嗯……说不定呢，对吧！\n\n天依知道大家都在期待，再稍等一下天依吧～\n希望会顺利完满地和大家一起开启今年的重要约会呀！",
+      "jump_url": "https://www.bilibili.com/video/BV1h25y6SEBr",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c3e2c4dfc2b40ce5d1d1cd8b93b1cbed88862d03.jpg",
+      "cover_file": "../../_assets/covers/2026-05-13_1.jpg",
+      "bvid": "BV1h25y6SEBr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1h25y6SEBr",
+        "aid": "116567123691049",
+        "cover": "http://i2.hdslb.com/bfs/archive/c3e2c4dfc2b40ce5d1d1cd8b93b1cbed88862d03.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1h25y6SEBr",
+        "stat": {
+          "danmaku": "199",
+          "play": "24.6万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "亲爱的，别生气啦～˶╹ᵕ╹˶ಣ",
+        "desc": "天依天依，我们这样真的可以招到新的锦依卫嘛？\n嗯……说不定呢，对吧！\n\n天依知道大家都在期待，再稍等一下天依吧～\n希望会顺利完满地和大家一起开启今年的重要约会呀！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 56244,
+    "comment": 1045,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

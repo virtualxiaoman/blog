@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1187676530304614421",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1187676530304614421",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月5日",
+    "pub_ts": 1775365891,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "关注这个天依可以嘛つ♡⊂",
+      "desc": "点个关注请你吃小笼包8(๑>؂<๑）\n不关注的人都坏坏喵<8(｀^´)>\n\n谢谢大家，小洛要继续努力！\nBGM：WOVOP《关注洛天依谢谢喵》BV1BE421A7qc",
+      "jump_url": "https://www.bilibili.com/video/BV1CGD5BMENB",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/3a1d7389a30690b38fcc28544768c2805cb4434d.jpg",
+      "cover_file": "../../_assets/covers/2026-04-05_1.jpg",
+      "bvid": "BV1CGD5BMENB",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1CGD5BMENB",
+        "aid": "116350362059380",
+        "cover": "http://i2.hdslb.com/bfs/archive/3a1d7389a30690b38fcc28544768c2805cb4434d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1CGD5BMENB",
+        "stat": {
+          "danmaku": "1352",
+          "play": "135.1万",
+          "vt": ""
+        },
+        "duration_text": "00:26",
+        "title": "关注这个天依可以嘛つ♡⊂",
+        "desc": "点个关注请你吃小笼包8(๑>؂<๑）\n不关注的人都坏坏喵<8(｀^´)>\n\n谢谢大家，小洛要继续努力！\nBGM：WOVOP《关注洛天依谢谢喵》BV1BE421A7qc",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 330525,
+    "comment": 5497,
+    "forward": 411
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "699410101153300488",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/699410101153300488",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月28日",
+    "pub_ts": 1661682504,
+    "location": ""
+  },
+  "topic": {
+    "id": 52539,
+    "name": "天依忽然发现",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=52539&topic_name=%E5%A4%A9%E4%BE%9D%E5%BF%BD%E7%84%B6%E5%8F%91%E7%8E%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "什么是下次一定？ 天依的朋友们说...... 当某天天依自己脱口而出的时候，才发现，原来这就是地球人一种委婉的拒绝方式吗！[洛天依_捏捏] #洛天依# \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "什么是下次一定？ 天依的朋友们说...... 当某天天依自己脱口而出的时候，才发现，原来这就是地球人一种委婉的拒绝方式吗！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-28_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6fd81506a96416e70c341ea34f05edf236081646.jpg",
+        "width": 2118,
+        "height": 4300,
+        "size_kb": 3194.93994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9599,
+    "comment": 609,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

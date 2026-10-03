@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "690114915800711218",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/690114915800711218",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月3日",
+    "pub_ts": 1659518300,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欲知后事如何，且听——咳咳，请天依吃饭的话，也不是不可以给大家一点提示啦~ [洛天依9th_略略略]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欲知后事如何，且听——咳咳，请天依吃饭的话，也不是不可以给大家一点提示啦~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_略略略]",
+        "package_id": "255",
+        "emoji_id": "4233",
+        "name": "略略略",
+        "url": "http://i0.hdslb.com/bfs/emote/bef5116ee3e8fbbb69f04eaa378e00da13d13d89.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/略略略.png",
+        "package_id": "255",
+        "emoji_id": "4233",
+        "text": "[洛天依9th_略略略]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6663,
+    "comment": 321,
+    "forward": 136
+  },
+  "forward": {
+    "orig_id": 690112257246363656,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-08/2022-08-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

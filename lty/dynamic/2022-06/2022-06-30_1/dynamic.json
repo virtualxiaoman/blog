@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "id": "677520654224850967",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/677520654224850967",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月30日",
+    "pub_ts": 1656585970,
+    "location": ""
+  },
+  "topic": {
+    "id": 43322,
+    "name": "嘉年华·解锁你的主播身份",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=43322&topic_name=%E5%98%89%E5%B9%B4%E5%8D%8E%C2%B7%E8%A7%A3%E9%94%81%E4%BD%A0%E7%9A%84%E4%B8%BB%E6%92%AD%E8%BA%AB%E4%BB%BD"
+  },
+  "content": {
+    "title": "",
+    "text": "随着天依的生日越来越近，我的AI声库人设征集赛也即将在7月5日结束了，还有想要参与的画师太太要抓紧时间啦！（记得要带上话题哦） 从画师太太们的参赛作品里，天依感受到了精巧的构思和温柔的情感，既有对经典的传承，又融入了独特的想象，一起来欣赏一部分精彩的作品吧！[洛天依_干饭]  ∞感谢各位画师太太的创作∞： p1:煎了那个鱼 p2:魔法少女萱草酱  p3:-唯Tu-  p4:Miooooos  p5:-山荷-  p6:·黎星· p7:顾芷葉  p8:有一套套一有Infinity  p9:-霧見冷水   *排名不分先后，由于篇幅展示数量有限，欢迎大家前往#洛天依10周年# #依如初见# #AI依#话题欣赏更多太太们的作品~[洛天依_棒] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "随着天依的生日越来越近，我的AI声库人设征集赛也即将在7月5日结束了，还有想要参与的画师太太要抓紧时间啦！（记得要带上话题哦） 从画师太太们的参赛作品里，天依感受到了精巧的构思和温柔的情感，既有对经典的传承，又融入了独特的想象，一起来欣赏一部分精彩的作品吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_干饭]",
+        "package_id": "340",
+        "emoji_id": "5573",
+        "name": "干饭",
+        "url": "http://i0.hdslb.com/bfs/emote/78bde0ab6c24e58e93758f7d7953b9ee287597e2.png"
+      },
+      {
+        "type": "text",
+        "text": "  ∞感谢各位画师太太的创作∞： p1:煎了那个鱼 p2:魔法少女萱草酱  p3:-唯Tu-  p4:Miooooos  p5:-山荷-  p6:·黎星· p7:顾芷葉  p8:有一套套一有Infinity  p9:-霧見冷水   *排名不分先后，由于篇幅展示数量有限，欢迎大家前往"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#依如初见#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BE%9D%E5%A6%82%E5%88%9D%E8%A7%81"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#AI依#",
+        "url": "https://search.bilibili.com/all?keyword=AI%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "话题欣赏更多太太们的作品~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_棒]",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "name": "棒",
+        "url": "http://i0.hdslb.com/bfs/emote/abacb9fcc2526c00ff071917c51d7a474218609d.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/aa01c72daf2104dbda4247cc4154ade536081646.jpg",
+        "width": 690,
+        "height": 977,
+        "size_kb": 90.380859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-06-30_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/7bee462165f818da9aa381b6f2d32f6836081646.jpg",
+        "width": 3508,
+        "height": 2480,
+        "size_kb": 728.251953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-06-30_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/75294914fe1918e8e8552b035afa590436081646.jpg",
+        "width": 1080,
+        "height": 1527,
+        "size_kb": 288.849609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-06-30_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ab82c366cdbfd3bf1899cb463a06548636081646.jpg",
+        "width": 7439,
+        "height": 2480,
+        "size_kb": 2025.8095703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-06-30_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/06941eee329a4eae1d8ccc667ff5deaa36081646.jpg",
+        "width": 4081,
+        "height": 3000,
+        "size_kb": 1503.7353515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-06-30_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/653a9131951fce42aed9c203252374e836081646.jpg",
+        "width": 3262,
+        "height": 1668,
+        "size_kb": 666.7890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-06-30_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/3e401066981b9c418cf6555caba9e3cb36081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 2637.833984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-06-30_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d6e6463ce4538cb421a384e67925c36b36081646.jpg",
+        "width": 690,
+        "height": 976,
+        "size_kb": 192.9091796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-06-30_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/16cf84189faa58cfae28cd389a627f8d36081646.jpg",
+        "width": 1024,
+        "height": 392,
+        "size_kb": 176.3037109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/干饭.png",
+        "package_id": "340",
+        "emoji_id": "5573",
+        "text": "[洛天依_干饭]"
+      },
+      {
+        "file": "../../_assets/emojis/340/棒.png",
+        "package_id": "340",
+        "emoji_id": "5571",
+        "text": "[洛天依_棒]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依 10周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依 10周年生日会",
+        "desc1": {
+          "text": "2022-07-12 17:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Apple ipad pro 11英寸*1份、洛天依甜点款拍立得*3份、十周年线下展门票*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=728756&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 728756,
+        "reserve_total": 263821,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6477,
+    "comment": 349,
+    "forward": 111
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:48:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

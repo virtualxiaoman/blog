@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "671973407725715510",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/671973407725715510",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月15日",
+    "pub_ts": 1655294401,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【纪录片】舞台上的中国 01 声乐",
+      "desc": "声乐艺术是中华艺术的重要组成部分。在这集中，我们将带领观众通过中国歌曲感受现代中国。我们探访了虚拟歌手洛天依及其幕后团队，著名京剧演员王珮瑜，杭盖乐队，上海交响乐团音乐总监余隆，女高音歌唱家黄英，以及彩虹室内合唱团团长金承志及其团员们。通过他们的故事，我们将带领观众一起领略中国歌曲的魅力，并探索当代声乐表演者们如何用中国音乐在国际舞台唱响中国故事。在这集中，我们探索了一条珍惜过去，拥抱当下的音乐之路。见证了歌手们借用声音的力量与他人形成连结。",
+      "jump_url": "https://www.bilibili.com/video/BV1Xg41197fh",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d34da23122451247c914742b25564082b3555d78.jpg",
+      "cover_file": "../../_assets/covers/2022-06-15_1.jpg",
+      "bvid": "BV1Xg41197fh",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1Xg41197fh",
+        "aid": "512432687",
+        "cover": "http://i0.hdslb.com/bfs/archive/d34da23122451247c914742b25564082b3555d78.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Xg41197fh",
+        "stat": {
+          "danmaku": "2988",
+          "play": "339.4万",
+          "vt": ""
+        },
+        "duration_text": "51:20",
+        "title": "【纪录片】舞台上的中国 01 声乐",
+        "desc": "声乐艺术是中华艺术的重要组成部分。在这集中，我们将带领观众通过中国歌曲感受现代中国。我们探访了虚拟歌手洛天依及其幕后团队，著名京剧演员王珮瑜，杭盖乐队，上海交响乐团音乐总监余隆，女高音歌唱家黄英，以及彩虹室内合唱团团长金承志及其团员们。通过他们的故事，我们将带领观众一起领略中国歌曲的魅力，并探索当代声乐表演者们如何用中国音乐在国际舞台唱响中国故事。在这集中，我们探索了一条珍惜过去，拥抱当下的音乐之路。见证了歌手们借用声音的力量与他人形成连结。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29190,
+    "comment": 2080,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

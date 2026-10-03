@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "id": "1250464970768908294",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1250464970768908294",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月21日",
+    "pub_ts": 1789984964,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·武汉站\n将于9月25日19:00全面开启售票，「武汉·无界」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~[洛天依14周年·纯蓝幻乐 动态表情包_送花]\n\n🏙️购票方式\n✧ 会员购 网页链接 \n✧ 大麦\n\n🏙️演出时间&场地\n10月31日 19:12 湖北省奥林匹克体育中心体育馆\n\n牛仔织就蓝色狂想，霓虹划破次元边界——\n纯蓝魔女化身街头酷飒的音符，在无界之境肆意穿梭。\n不被定义，不受拘束，每一步都是打破规则的旋律。\n跟随天依的节拍，在江城都市的夜空下点燃狂欢吧！[洛天依14周年·纯蓝幻乐 动态表情包_魔法]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "425833",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·武汉站\n将于9月25日19:00全面开启售票，「武汉·无界」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "name": "送花",
+        "url": "https://i0.hdslb.com/bfs/garb/250e7a83c9d9a06e2e2768a6f2c0057310d61071.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏙️购票方式\n✧ 会员购 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1006306"
+      },
+      {
+        "type": "text",
+        "text": " \n✧ 大麦\n\n🏙️演出时间&场地\n10月31日 19:12 湖北省奥林匹克体育中心体育馆\n\n牛仔织就蓝色狂想，霓虹划破次元边界——\n纯蓝魔女化身街头酷飒的音符，在无界之境肆意穿梭。\n不被定义，不受拘束，每一步都是打破规则的旋律。\n跟随天依的节拍，在江城都市的夜空下点燃狂欢吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "name": "魔法",
+        "url": "https://i0.hdslb.com/bfs/garb/586e20309a26fa9aa927c64ab9f94b6dd2f401f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cd4c3d4c1f06200f036e9dd7441d9b1d36081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 9977.890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-21_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4583444d9a3e32b995ccfafbc8b8517536081646.jpg",
+        "width": 1250,
+        "height": 12400,
+        "size_kb": 7985.0556640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/送花.gif",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/魔法.gif",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "425833"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6393,
+    "comment": 555,
+    "forward": 7384
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

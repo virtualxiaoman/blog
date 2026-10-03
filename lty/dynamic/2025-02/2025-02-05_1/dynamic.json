@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1030389081287163907",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1030389081287163907",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月5日",
+    "pub_ts": 1738744553,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "开工新气象，看奇迹小依 一键变装~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "开工新气象，看奇迹小依 一键变装~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "请选择天依的 新 年 出 装",
+      "desc": "开工新气象，看奇迹小依 一键变装~\n大家新年快乐！开工大吉呀！",
+      "jump_url": "https://www.bilibili.com/video/BV1aLPyeLE5R",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/744f0c217c99e4b9a6745c38da843bd90e44ce2b.jpg",
+      "cover_file": "../../_assets/covers/2025-02-05_1.jpg",
+      "bvid": "BV1aLPyeLE5R",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1aLPyeLE5R",
+        "aid": "113950347756222",
+        "cover": "http://i1.hdslb.com/bfs/archive/744f0c217c99e4b9a6745c38da843bd90e44ce2b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1aLPyeLE5R",
+        "stat": {
+          "danmaku": "266",
+          "play": "18.4万",
+          "vt": ""
+        },
+        "duration_text": "00:55",
+        "title": "请选择天依的 新 年 出 装",
+        "desc": "开工新气象，看奇迹小依 一键变装~\n大家新年快乐！开工大吉呀！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30021,
+    "comment": 1531,
+    "forward": 208
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

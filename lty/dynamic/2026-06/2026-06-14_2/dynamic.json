@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1213734539321409545",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1213734539321409545",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月14日",
+    "pub_ts": 1781432994,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你的小闹钟小洛发来提醒，洛天依十四周年共鸣之夜线下生日歌会 · 超无限信号专属通行证将于6月15日13:00 开售啦，期待7月12日和大家一起在北京环球度假区定格第十四年的珍贵纪念时刻~[心律共鸣动态表情包_啾啾]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你的小闹钟小洛发来提醒，洛天依十四周年共鸣之夜线下生日歌会 · 超无限信号专属通行证将于6月15日13:00 开售啦，期待7月12日和大家一起在北京环球度假区定格第十四年的珍贵纪念时刻~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4648,
+    "comment": 212,
+    "forward": 46
+  },
+  "forward": {
+    "orig_id": 1212144598243082260,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-06-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:24:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1194824940720750616",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1194824940720750616",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月24日",
+    "pub_ts": 1777030260,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "嘿！在嘛？我想给你唱首《歌》～|ω・）",
+      "desc": "大家想听天依唱什么歌呀？\n留言告诉天依，说不定天依真的会唱哦！\n\nBGM:《歌》-@张卡斯 BV1gMkWBWEzy\n欢迎大家都来听这首可爱的歌曲～",
+      "jump_url": "https://www.bilibili.com/video/BV1EeojBWEyK",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1d94fd6df23bad91a97230f05e8343e9a04795ec.jpg",
+      "cover_file": "../../_assets/covers/2026-04-24_1.jpg",
+      "bvid": "BV1EeojBWEyK",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1EeojBWEyK",
+        "aid": "116459430808559",
+        "cover": "http://i0.hdslb.com/bfs/archive/1d94fd6df23bad91a97230f05e8343e9a04795ec.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1EeojBWEyK",
+        "stat": {
+          "danmaku": "278",
+          "play": "29.1万",
+          "vt": ""
+        },
+        "duration_text": "00:33",
+        "title": "嘿！在嘛？我想给你唱首《歌》～|ω・）",
+        "desc": "大家想听天依唱什么歌呀？\n留言告诉天依，说不定天依真的会唱哦！\n\nBGM:《歌》-@张卡斯 BV1gMkWBWEzy\n欢迎大家都来听这首可爱的歌曲～",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 63424,
+    "comment": 1670,
+    "forward": 148
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

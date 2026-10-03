@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "501623373827773614",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/501623373827773614",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月13日",
+    "pub_ts": 1615631693,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "搬好小板凳来听故事[洛天依·夜航星_起飞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "搬好小板凳来听故事"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6738,
+    "comment": 212,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 501529408537984142,
+    "orig_mid": 480680646,
+    "deleted": false,
+    "archive_dir": "../../../480680646/2021-03/2021-03-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

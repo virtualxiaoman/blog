@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "762397231172026537",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/762397231172026537",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月14日",
+    "pub_ts": 1676347838,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "那个...节日快乐，这朵玫瑰...送给你！谢谢你一直陪伴在我的身边。\n在我空白的生命里渐渐涂抹上独属于你我之间的蓝色回忆，就是与节日一样美好和浪漫的事吧[洛天依_害羞]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "那个...节日快乐，这朵玫瑰...送给你！谢谢你一直陪伴在我的身边。\n在我空白的生命里渐渐涂抹上独属于你我之间的蓝色回忆，就是与节日一样美好和浪漫的事吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-02-14_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4497bcc85b6bfe3dd8ace35f07c5a87336081646.png",
+        "width": 4000,
+        "height": 6500,
+        "size_kb": 8576.482421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13997,
+    "comment": 788,
+    "forward": 343
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

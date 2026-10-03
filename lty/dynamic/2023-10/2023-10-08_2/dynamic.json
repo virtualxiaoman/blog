@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "850104543351930884",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/850104543351930884",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月8日",
+    "pub_ts": 1696768788,
+    "location": ""
+  },
+  "topic": {
+    "id": 60240,
+    "name": "寒露悄然至，几度秋意浓",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=60240&topic_name=%E5%AF%92%E9%9C%B2%E6%82%84%E7%84%B6%E8%87%B3%EF%BC%8C%E5%87%A0%E5%BA%A6%E7%A7%8B%E6%84%8F%E6%B5%93"
+  },
+  "content": {
+    "title": "",
+    "text": "今天有人刚起床就打了好几个喷嚏，有人刚出门就回来穿衣服了[代号洛天依_笑笑不说话]\n原来已经是#寒露#啦！\n大家要记得及时补充衣物，不要感冒了哦！\n天依做些什么大家可以感到温暖一点呢，嗯...一个抱抱，可以吗[古色花香洛天依_贴贴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天有人刚起床就打了好几个喷嚏，有人刚出门就回来穿衣服了"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_笑笑不说话]",
+        "package_id": "1842",
+        "emoji_id": "32148",
+        "name": "笑笑不说话",
+        "url": "https://i0.hdslb.com/bfs/emote/40fc6435d2c415e836cdc5c7fde6b47d54f451c3.png"
+      },
+      {
+        "type": "text",
+        "text": "\n原来已经是"
+      },
+      {
+        "type": "topic",
+        "text": "#寒露#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%AF%92%E9%9C%B2"
+      },
+      {
+        "type": "text",
+        "text": "啦！\n大家要记得及时补充衣物，不要感冒了哦！\n天依做些什么大家可以感到温暖一点呢，嗯...一个抱抱，可以吗"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_贴贴]",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/item/14830657a12203a0eecec49885447b931608c4ea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-08_1.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9e68a9e54664d7cc72ab40d2e1dfc71536081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 709.3193359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/笑笑不说话.png",
+        "package_id": "1842",
+        "emoji_id": "32148",
+        "text": "[代号洛天依_笑笑不说话]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/贴贴.png",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "text": "[古色花香洛天依_贴贴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7869,
+    "comment": 448,
+    "forward": 68
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

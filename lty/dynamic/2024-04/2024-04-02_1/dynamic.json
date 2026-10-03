@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "915725862620364802",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/915725862620364802",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月2日",
+    "pub_ts": 1712047442,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小洛包已被天依我重新“制服”啦[洛·LUO_和善眼神]天依的头像得换回来了，不如大家来提议最想为天依重新换上的头像怎么样呀？[洛·LUO_吃一口吧]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小洛包已被天依我重新“制服”啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_和善眼神]",
+        "package_id": "4400",
+        "emoji_id": "62223",
+        "name": "和善眼神",
+        "url": "https://i0.hdslb.com/bfs/emote/0fe405c99fadc5617c74aacc3c4b3bb3398ca091.png"
+      },
+      {
+        "type": "text",
+        "text": "天依的头像得换回来了，不如大家来提议最想为天依重新换上的头像怎么样呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_吃一口吧]",
+        "package_id": "4400",
+        "emoji_id": "62234",
+        "name": "吃一口吧",
+        "url": "https://i0.hdslb.com/bfs/emote/e1747fa217307e3b49458efd0029091743d64274.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/和善眼神.png",
+        "package_id": "4400",
+        "emoji_id": "62223",
+        "text": "[洛·LUO_和善眼神]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/吃一口吧.png",
+        "package_id": "4400",
+        "emoji_id": "62234",
+        "text": "[洛·LUO_吃一口吧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5673,
+    "comment": 597,
+    "forward": 166
+  },
+  "forward": {
+    "orig_id": 915329480077082644,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-04-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:09:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

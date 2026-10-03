@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "837470377378578452",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/837470377378578452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月4日",
+    "pub_ts": 1693827167,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "《歌行四方》播放量200w达成啦！（已经210w了啊喂！）非常感谢大家的聆听与喜欢，转发天依本条动态，揪1位三连歌曲的小伙伴送出【洛天依芒种手办】1个哦~[洛天依_礼物]没想到这么快就200w啦，嘿嘿，开心！下一波解锁再给大家送什么咧~对了对了，老V说有看见大家有一些好奇的地方，比如“YA LA HU LA”到底是什么意思啦，大家还有什么想知道的嘛？欢迎在评论区留言喔！[天依游学记_谢谢你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《歌行四方》播放量200w达成啦！（已经210w了啊喂！）非常感谢大家的聆听与喜欢，转发天依本条动态，揪1位三连歌曲的小伙伴送出【洛天依芒种手办】1个哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "没想到这么快就200w啦，嘿嘿，开心！下一波解锁再给大家送什么咧~对了对了，老V说有看见大家有一些好奇的地方，比如“YA LA HU LA”到底是什么意思啦，大家还有什么想知道的嘛？欢迎在评论区留言喔！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      },
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5800,
+    "comment": 1036,
+    "forward": 1887
+  },
+  "forward": {
+    "orig_id": 836240526373027974,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-09-01_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:57:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

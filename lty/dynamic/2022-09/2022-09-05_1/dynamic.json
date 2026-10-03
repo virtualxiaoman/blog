@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "id": "702394029683245091",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/702394029683245091",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月5日",
+    "pub_ts": 1662377254,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "开学新人设：洛天依 获得技能：随机抽选一首天依的歌词回答老师的问题[洛天依9th_社会]  咳咳，仅供娱乐，切勿模仿，天依不负责哦~[洛天依9th_略略略] 开学也有一段时间啦，大家的校园生活有发生什么有趣或者苦恼的事情吗？欢迎分享给天依呀！[洛天依9th_好康！] 最后，一首《夏虫》送给大家。【洛天依原创曲】夏虫【2021官方生贺曲】  用力振翅，向光源中心的梦想飞翔吧！[洛天依9th_一起唱] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "开学新人设：洛天依 获得技能：随机抽选一首天依的歌词回答老师的问题"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "text",
+        "text": "  咳咳，仅供娱乐，切勿模仿，天依不负责哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_略略略]",
+        "package_id": "255",
+        "emoji_id": "4233",
+        "name": "略略略",
+        "url": "http://i0.hdslb.com/bfs/emote/bef5116ee3e8fbbb69f04eaa378e00da13d13d89.png"
+      },
+      {
+        "type": "text",
+        "text": " 开学也有一段时间啦，大家的校园生活有发生什么有趣或者苦恼的事情吗？欢迎分享给天依呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": " 最后，一首《夏虫》送给大家。"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】夏虫【2021官方生贺曲】",
+        "url": "https://www.bilibili.com/video/av291530455",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "  用力振翅，向光源中心的梦想飞翔吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-05_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/75fd55221ffaa4552337c6beddfedcd836081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 459.1787109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-09-05_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b831320adf2829660e43a66ce993516036081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 473.298828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-09-05_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/3d040d479e5426d7e220b221a1a5d2aa36081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 534.2587890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-09-05_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c57f0212abfb134de8062b065c7c623836081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 526.494140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-09-05_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/003d5e3ef5cf37bdf67a108f1521c5a536081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 566.6279296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-09-05_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9f5d0142f256b7ab95891ecdc021050536081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 540.2119140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-09-05_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0c61438bda791a4c80bf72ceaf24f71536081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 514.7431640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-09-05_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/45aec09dd90a34a3941442279cff3aa536081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 524.744140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-09-05_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a8b0c472a898f2d59a701a993f9ad2c536081646.jpg",
+        "width": 3600,
+        "height": 3600,
+        "size_kb": 574.1640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      },
+      {
+        "file": "../../_assets/emojis/255/略略略.png",
+        "package_id": "255",
+        "emoji_id": "4233",
+        "text": "[洛天依9th_略略略]"
+      },
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7090,
+    "comment": 390,
+    "forward": 249
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

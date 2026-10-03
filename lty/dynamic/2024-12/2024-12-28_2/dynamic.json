@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1015938642325012533",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1015938642325012533",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月28日",
+    "pub_ts": 1735380048,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "天依和君君老师的默契度最终检测为？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和君君老师的默契度最终检测为？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来自陈丽君老师的戏曲基本功考验！天依能否顺利通过？",
+      "desc": "天依为了跨晚舞台，最近可是一秒也不敢松懈，每天都在努力练习！\n今天就请大家和君君老师一起，考核一下天依的戏曲基本功学习成果吧~\n猜猜天依和君君老师的默契度最终检测为——？\n一起期待我们的跨晚合作舞台吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1xDCbYCEdw",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f7ef211c6c10f82f948299ccc9130bb184ea8ee8.jpg",
+      "cover_file": "../../_assets/covers/2024-12-28_1.jpg",
+      "bvid": "BV1xDCbYCEdw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1xDCbYCEdw",
+        "aid": "113729307937209",
+        "cover": "http://i1.hdslb.com/bfs/archive/f7ef211c6c10f82f948299ccc9130bb184ea8ee8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xDCbYCEdw",
+        "stat": {
+          "danmaku": "3386",
+          "play": "92.7万",
+          "vt": ""
+        },
+        "duration_text": "02:47",
+        "title": "来自陈丽君老师的戏曲基本功考验！天依能否顺利通过？",
+        "desc": "天依为了跨晚舞台，最近可是一秒也不敢松懈，每天都在努力练习！\n今天就请大家和君君老师一起，考核一下天依的戏曲基本功学习成果吧~\n猜猜天依和君君老师的默契度最终检测为——？\n一起期待我们的跨晚合作舞台吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29872,
+    "comment": 2209,
+    "forward": 364
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

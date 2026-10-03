@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "967738320351133737",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/967738320351133737",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月20日",
+    "pub_ts": 1724157536,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "滴滴~各位亲爱的乘客晚上好，领航员小洛为你更新今日「歌行宇宙」航行情报啦！\n目标降落点「音乐星球」星系已锁定——[洛天依心律共鸣表情包_检查浓度]\n\n🪐降落星球\nProject Luo、夜航星、追光使者、大哉乾元、歌行四方、恋爱色魔法\n🪐降落时间&地点\n9月15日-10月31日 上海月星环球港4楼（环球大厅-环球展馆）\n\n初步数据扫描已完成！请各位乘客查收音乐星球航行地图：\n超千平米空间、1:1实体造景还原、超屏巨幕、Mapping光影秀、10米巨幅投影、趣味互动装置.......活动舞台还有惊喜嘉宾掉落哦！\n以多元先进技术，构建沉浸世界，将用音乐连结而成的回忆铺洒在属于我们的浩瀚星空，希望可以带给大家全新高能虚拟体验，领航员天依已经准备好带你一起探索啦~\n接下来，天依还将持续为大家带来展会开票信息和无限共鸣全息演唱会的首曝情报！敬请期待~[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "滴滴~各位亲爱的乘客晚上好，领航员小洛为你更新今日「歌行宇宙」航行情报啦！\n目标降落点「音乐星球」星系已锁定——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_检查浓度]",
+        "package_id": "5361",
+        "emoji_id": "78487",
+        "name": "检查浓度",
+        "url": "https://i0.hdslb.com/bfs/garb/1a68f0ec04485c0bf009cc5fec4cd50d2d79f29c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪐降落星球\nProject Luo、夜航星、追光使者、大哉乾元、歌行四方、恋爱色魔法\n🪐降落时间&地点\n9月15日-10月31日 上海月星环球港4楼（环球大厅-环球展馆）\n\n初步数据扫描已完成！请各位乘客查收音乐星球航行地图：\n超千平米空间、1:1实体造景还原、超屏巨幕、Mapping光影秀、10米巨幅投影、趣味互动装置.......活动舞台还有惊喜嘉宾掉落哦！\n以多元先进技术，构建沉浸世界，将用音乐连结而成的回忆铺洒在属于我们的浩瀚星空，希望可以带给大家全新高能虚拟体验，领航员天依已经准备好带你一起探索啦~\n接下来，天依还将持续为大家带来展会开票信息和无限共鸣全息演唱会的首曝情报！敬请期待~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fcd370b6b4ee9c62627010f8aae9009836081646.jpg",
+        "width": 4500,
+        "height": 4500,
+        "size_kb": 7505.99609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/检查浓度.png",
+        "package_id": "5361",
+        "emoji_id": "78487",
+        "text": "[洛天依心律共鸣表情包_检查浓度]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5636,
+    "comment": 362,
+    "forward": 103
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

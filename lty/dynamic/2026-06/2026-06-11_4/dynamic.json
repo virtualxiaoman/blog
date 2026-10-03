@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1212624500726693909",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1212624500726693909",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月11日",
+    "pub_ts": 1781174543,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依惯例影分身之术[乐鸣东方静态表情包_盯]今年也要一起在BW的展台上玩得开心哦～[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依惯例影分身之术"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方静态表情包_盯]",
+        "package_id": "9344",
+        "emoji_id": "131171",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/e444d2c800f93dc66fecf6b598d472aec24f04f2.png"
+      },
+      {
+        "type": "text",
+        "text": "今年也要一起在BW的展台上玩得开心哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9344/盯.png",
+        "package_id": "9344",
+        "emoji_id": "131171",
+        "text": "[乐鸣东方静态表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5175,
+    "comment": 154,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1212623701804056577,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-06/2026-06-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:24:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

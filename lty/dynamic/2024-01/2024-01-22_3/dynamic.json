@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "889414399064801284",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/889414399064801284",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月22日",
+    "pub_ts": 1705921327,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【新品上架】「洛天依 元旦系列周边」\n转发关注天依，揪1位小伙伴送出【亚克力流沙立牌】1个。\n\n“从相遇的最初到时光的尽头 永远为你而唱”[洛天依蝶变_yalahula]\n\n※系列新品※\n徽章套组\n镭射票\n流沙立牌\n\n※预售时间※\n截止至2月29日\n\n原画：@水豚ideolo \n出品：@BoomComic \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【新品上架】「洛天依 元旦系列周边」\n转发关注天依，揪1位小伙伴送出【亚克力流沙立牌】1个。\n\n“从相遇的最初到时光的尽头 永远为你而唱”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※系列新品※\n徽章套组\n镭射票\n流沙立牌\n\n※预售时间※\n截止至2月29日\n\n原画："
+      },
+      {
+        "type": "mention",
+        "text": "@水豚ideolo ",
+        "mid": 163571,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n出品："
+      },
+      {
+        "type": "mention",
+        "text": "@BoomComic ",
+        "mid": 472780637,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-22_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/a432c73eaee73b32aee4f1030e699e1136081646.jpg",
+        "width": 790,
+        "height": 3199,
+        "size_kb": 486.8800048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "暴蒙 Vsinger 洛天依新年系列 周边",
+            "price": "¥10",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/a8/ff/a8ff821c59923c5fce90691cd33cc483.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10235176&msource=cps_Mdynamic_36081646_cont-2-889414399064801284&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-01-22_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6481,
+    "comment": 1777,
+    "forward": 3806
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

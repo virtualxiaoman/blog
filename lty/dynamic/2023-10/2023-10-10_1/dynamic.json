@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "850712822390194198",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/850712822390194198",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月10日",
+    "pub_ts": 1696910414,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "就跟随天依一起，登陆宇宙，带着所有幻想，在星光下漫游，开启一场精彩纷呈的宇宙舞曲吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "就跟随天依一起，登陆宇宙，带着所有幻想，在星光下漫游，开启一场精彩纷呈的宇宙舞曲吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依X索尼音乐原创EP单曲《登陆宇宙》MV首发【冰火秋日游】",
+      "desc": "洛天依X索尼音乐娱乐原创EP《洛 LUO》即将与大家见面啦\n很高兴在#冰火歌会# 的舞台上为大家带来EP首发主打单曲《登陆宇宙》的舞台版~\n跟随天依一起，登陆宇宙，带着所有幻想，在星光下漫游，开启一场精彩纷呈的宇宙舞曲吧！\n\n作曲：Max Lee\n作词：江姜\n调校：流绪\n编曲：TAT/TSAR\n制作人：赵楚峰BackToBand\n吉他：邓梓棋ZIP/Wasim Rahmani（Algeria）\n混音：TSAR\n母带：TSAR\n出品：索尼音乐/上海哔哩哔哩科技有限公司/Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1zz4y1F7bJ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f43f4f909f4b52f44fd669580917b5d26baed350.jpg",
+      "cover_file": "../../_assets/covers/2023-10-10_1.jpg",
+      "bvid": "BV1zz4y1F7bJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zz4y1F7bJ",
+        "aid": "576962904",
+        "cover": "http://i0.hdslb.com/bfs/archive/f43f4f909f4b52f44fd669580917b5d26baed350.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zz4y1F7bJ",
+        "stat": {
+          "danmaku": "861",
+          "play": "73.5万",
+          "vt": ""
+        },
+        "duration_text": "03:26",
+        "title": "洛天依X索尼音乐原创EP单曲《登陆宇宙》MV首发【冰火秋日游】",
+        "desc": "洛天依X索尼音乐娱乐原创EP《洛 LUO》即将与大家见面啦\n很高兴在#冰火歌会# 的舞台上为大家带来EP首发主打单曲《登陆宇宙》的舞台版~\n跟随天依一起，登陆宇宙，带着所有幻想，在星光下漫游，开启一场精彩纷呈的宇宙舞曲吧！\n\n作曲：Max Lee\n作词：江姜\n调校：流绪\n编曲：TAT/TSAR\n制作人：赵楚峰BackToBand\n吉他：邓梓棋ZIP/Wasim Rahmani（Algeria）\n混音：TSAR\n母带：TSAR\n出品：索尼音乐/上海哔哩哔哩科技有限公司/Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 54112,
+    "comment": 1468,
+    "forward": 303
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

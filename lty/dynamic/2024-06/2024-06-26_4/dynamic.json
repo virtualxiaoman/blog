@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "id": "947334923551768577",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/947334923551768577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月26日",
+    "pub_ts": 1719407000,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#SONGX洛天依联名#\n洛天依 X @SONGX耳机 联名数码好物来袭！\n转发关注天依，揪3位小伙伴送出【电脑支架拓展坞&快充线&快充礼盒】全套新品1份！\n和天依一起探寻未知，踏上这场星际探险之旅吧~[代号洛天依_wink]\n——\n🔹联名款电脑支架拓展坞\n一架多用，稳稳撑起你的每一面\n🔹联名款100W PD快充线\n光速疾充，天依助你电量满格\n🔹联名款70W氮化镓GaN快充礼盒\n一充即炫，梦幻启航\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "304489",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#SONGX洛天依联名#",
+        "url": "https://search.bilibili.com/all?keyword=SONGX%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%81%94%E5%90%8D"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依 X "
+      },
+      {
+        "type": "mention",
+        "text": "@SONGX耳机 ",
+        "mid": 1681276938,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "联名数码好物来袭！\n转发关注天依，揪3位小伙伴送出【电脑支架拓展坞&快充线&快充礼盒】全套新品1份！\n和天依一起探寻未知，踏上这场星际探险之旅吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n——\n🔹联名款电脑支架拓展坞\n一架多用，稳稳撑起你的每一面\n🔹联名款100W PD快充线\n光速疾充，天依助你电量满格\n🔹联名款70W氮化镓GaN快充礼盒\n一充即炫，梦幻启航"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-26_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6674cbce6487b04b4633190099607da636081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 594.6400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-06-26_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0b7feb672a2f80309650dd6ace75781736081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 495.04998779296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-06-26_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6e37bb24512812dc92899f57fc5e864736081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 583.3800048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-06-26_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f45b710157b98539462501365566032a36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 557.2000122070312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-06-26_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c185f91d71d5ed036801b14483b39f3036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 481.3800048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-06-26_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/25deb9a419c267b7a2783cfbe791bc5536081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 548.9500122070312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-06-26_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9df2d130ebf6b1fdd1cb6cc8f2de4a2336081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 307.69000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-06-26_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/082ac43290a8bead326aaac87c117f5836081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 305.82000732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-06-26_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/33523ab46070a048a327cdd33976544936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 324.94000244140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "SONGX ✖ VSINGER洛天依联名款电脑支架360度旋转笔记本增高架拓展坞支架可折叠散热usb多口",
+            "price": "¥131",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/cd/35/cd352ad9d5c0c204e6d9d629603ec61a.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10439519&msource=cps_Mdynamic_36081646_cont-2-947334923551768577&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-06-26_4.png"
+          },
+          {
+            "name": "SONGX ✖ VSINGER洛天依100W快充线双Type-C快充线PD双C头数据线高密度编织线带灯效",
+            "price": "¥28.9",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/a4/77/a4773a15b6223a73fec43df55bb3e90c.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10440127&msource=cps_Mdynamic_36081646_cont-2-947334923551768577&track_id=__BGMT__&contentId=&from=",
+            "brief": "双C口+100W快充+高密度双色编织线+带灯效",
+            "cover_file": "../../_assets/covers/2024-06-26_5.png"
+          },
+          {
+            "name": "SONGX ✖ VSINGER洛天依70W氮化镓GaN快充头星环灯光环绕多口小体积便携桌面充电礼盒套装",
+            "price": "¥164",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/88/c4/88c401c6b8382b381625743f69c396ce.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10389858&msource=cps_Mdynamic_36081646_cont-2-947334923551768577&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-06-26_6.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "304489"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8413,
+    "comment": 2132,
+    "forward": 20710
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:14:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "587740792426794372",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/587740792426794372",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月31日",
+    "pub_ts": 1635682467,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#被老V变小了！！我的糖果，我的甜点……！！[洛天依9th_气鼓鼓]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "被老V变小了！！我的糖果，我的甜点……！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_气鼓鼓]",
+        "package_id": "255",
+        "emoji_id": "4236",
+        "name": "气鼓鼓",
+        "url": "http://i0.hdslb.com/bfs/emote/629b3492a5e143d51356af647b0a9950edfe41bc.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/气鼓鼓.png",
+        "package_id": "255",
+        "emoji_id": "4236",
+        "text": "[洛天依9th_气鼓鼓]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5329,
+    "comment": 160,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 587739091615534905,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-10/2021-10-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "873441218102558773",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/873441218102558773",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月10日",
+    "pub_ts": 1702202281,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@包子好吃--@雲力風色@lcaIos中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@包子好吃--",
+        "mid": 1438225234,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@雲力風色",
+        "mid": 499437168,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@lcaIos",
+        "mid": 43460652,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4440,
+    "comment": 64,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 867505014963175425,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-11/2023-11-24_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

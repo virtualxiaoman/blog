@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "834139960934137908",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/834139960934137908",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月26日",
+    "pub_ts": 1693051744,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家好，这里是老v，相信不少小伙伴都关注到了，天依最近开启了一场寻找歌声的游学之旅，一些企划的内容也陆陆续续和大家见面了，老v也收到了不少小伙伴对企划立意的肯定和支持，真的是非常感谢大家！当然，大家一定也有不少疑问，本期茶话会，就是对《天依游学记·歌行》企划的专项答疑会！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家好，这里是老v，相信不少小伙伴都关注到了，天依最近开启了一场寻找歌声的游学之旅，一些企划的内容也陆陆续续和大家见面了，老v也收到了不少小伙伴对企划立意的肯定和支持，真的是非常感谢大家！当然，大家一定也有不少疑问，本期茶话会，就是对《天依游学记·歌行》企划的专项答疑会！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "为什么我们要发起天依游学记企划？【天依游学记答疑茶话会】",
+      "desc": "大家好，这里是老v，相信不少小伙伴都关注到了，天依最近开启了一场寻找歌声的游学之旅，一些企划的内容也陆陆续续和大家见面了，老v也收到了不少小伙伴对企划立意的肯定和支持，真的是非常感谢大家！当然，大家一定也有不少疑问，本期茶话会，就是对《天依游学记·歌行》企划的专项答疑会！\n\n※为什么会发起洛天依游学记这个企划？\n※企划的主要内容是什么？\n※加更计划到底是什么？\n※你希望天依的下一站是你的家乡吗？",
+      "jump_url": "https://www.bilibili.com/video/BV1pw411S7gU",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/30d582821d02d086683c3c20a680c98a5eea1458.jpg",
+      "cover_file": "../../_assets/covers/2023-08-26_2.jpg",
+      "bvid": "BV1pw411S7gU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pw411S7gU",
+        "aid": "320353008",
+        "cover": "http://i1.hdslb.com/bfs/archive/30d582821d02d086683c3c20a680c98a5eea1458.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1pw411S7gU",
+        "stat": {
+          "danmaku": "178",
+          "play": "3.6万",
+          "vt": ""
+        },
+        "duration_text": "04:41",
+        "title": "为什么我们要发起天依游学记企划？【天依游学记答疑茶话会】",
+        "desc": "大家好，这里是老v，相信不少小伙伴都关注到了，天依最近开启了一场寻找歌声的游学之旅，一些企划的内容也陆陆续续和大家见面了，老v也收到了不少小伙伴对企划立意的肯定和支持，真的是非常感谢大家！当然，大家一定也有不少疑问，本期茶话会，就是对《天依游学记·歌行》企划的专项答疑会！\n\n※为什么会发起洛天依游学记这个企划？\n※企划的主要内容是什么？\n※加更计划到底是什么？\n※你希望天依的下一站是你的家乡吗？",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10260,
+    "comment": 600,
+    "forward": 23
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

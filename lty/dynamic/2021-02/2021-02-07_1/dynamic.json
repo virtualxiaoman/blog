@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "488967316390404041",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/488967316390404041",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月7日",
+    "pub_ts": 1612684975,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#你为什么喜欢洛天依# ​互动抽奖 ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#你为什么喜欢洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "57828",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "57828"
+  },
+  "vote": null,
+  "stats": {
+    "like": 13269,
+    "comment": 4022,
+    "forward": 13673
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

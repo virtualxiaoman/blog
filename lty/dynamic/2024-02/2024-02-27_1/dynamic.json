@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "902763930513834006",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/902763930513834006",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月27日",
+    "pub_ts": 1709029507,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依 灯火春澜Ver.Q版手办 实物展示\n踩着年的尾巴，天依祝大家学业、工作和生活都红红火火、顺顺利利哒！[洛天依歌行四方_咚嚓！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 灯火春澜Ver.Q版手办 实物展示\n踩着年的尾巴，天依祝大家学业、工作和生活都红红火火、顺顺利利哒！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依 灯火春澜Ver.Q版手办 实物展示",
+      "desc": "洛天依 灯火春澜Ver.Q版手办 实物展示\n踩着年的尾巴，天依祝大家学业、工作和生活都红红火火、顺顺利利哒！[洛天依歌行四方_咚嚓！]",
+      "jump_url": "https://www.bilibili.com/video/BV1TZ421y7XX",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/4447f9d5bac26872072fa36497910206092b5d68.png",
+      "cover_file": "../../_assets/covers/2024-02-27_1.png",
+      "bvid": "BV1TZ421y7XX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1TZ421y7XX",
+        "aid": "1151130190",
+        "cover": "http://i0.hdslb.com/bfs/archive/4447f9d5bac26872072fa36497910206092b5d68.png",
+        "jump_url": "//www.bilibili.com/video/BV1TZ421y7XX",
+        "stat": {
+          "danmaku": "24",
+          "play": "1.9万",
+          "vt": ""
+        },
+        "duration_text": "00:54",
+        "title": "洛天依 灯火春澜Ver.Q版手办 实物展示",
+        "desc": "洛天依 灯火春澜Ver.Q版手办 实物展示\n踩着年的尾巴，天依祝大家学业、工作和生活都红红火火、顺顺利利哒！[洛天依歌行四方_咚嚓！]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "擎苍 Vsinger 洛天依 灯火春澜 Q版手办",
+            "price": "¥184",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/b2/d1/b2d1ac964ed92f4e2a905fb6b42b38df.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10255029&msource=cps_Mdynamic_36081646_cont-2-902763930513834006&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-27_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6759,
+    "comment": 295,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

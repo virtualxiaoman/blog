@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "421040076441330255",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/421040076441330255",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月8日",
+    "pub_ts": 1596869432,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依和@护舒宝_Whisper 的木兰曲《以女生之名》正式上线啦！用音乐的力量，为热爱应援！感谢宝宝邀请天依唱响 #我就是女生# ，支持女生们的投入与热爱。天依相信，每一个女生都是闪亮的存在，相信自己，不要在意外界的声音，对每件热爱的事全力以赴，必将迎来属于自己的光芒！来和天依一起为女生力量喝彩吧！[爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和"
+      },
+      {
+        "type": "mention",
+        "text": "@护舒宝_Whisper ",
+        "mid": 350276531,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的木兰曲《以女生之名》正式上线啦！用音乐的力量，为热爱应援！感谢宝宝邀请天依唱响 "
+      },
+      {
+        "type": "topic",
+        "text": "#我就是女生#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%B0%B1%E6%98%AF%E5%A5%B3%E7%94%9F"
+      },
+      {
+        "type": "text",
+        "text": " ，支持女生们的投入与热爱。天依相信，每一个女生都是闪亮的存在，相信自己，不要在意外界的声音，对每件热爱的事全力以赴，必将迎来属于自己的光芒！来和天依一起为女生力量喝彩吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[爱心]",
+        "package_id": "1",
+        "emoji_id": "550",
+        "name": "爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/爱心.png",
+        "package_id": "1",
+        "emoji_id": "550",
+        "text": "[爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6539,
+    "comment": 348,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 421028050532825755,
+    "orig_mid": 350276531,
+    "deleted": false,
+    "archive_dir": "../../../350276531/2020-08/2020-08-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

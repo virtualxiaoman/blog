@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "id": "1085609578891051024",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1085609578891051024",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月4日",
+    "pub_ts": 1751601577,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#⚙#洛天依0712生日快乐#\n开始我们的纪念倒计时吧！距离洛天依十三周年生日会倒计时「8」天~[洛天依·天星问动态_萌]\n是你们的爱，让我们的回忆八音盒\n从渺小至无限，从无色至斑斓，即使会破败，也会一次又一次，迎来新生\n\n来自天依的712活动攻略大集合！\n在这个重要的日子里，你会在哪里和我赴约呢？ [歌行宇宙表情包_mua]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n开始我们的纪念倒计时吧！距离洛天依十三周年生日会倒计时「8」天~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n是你们的爱，让我们的回忆八音盒\n从渺小至无限，从无色至斑斓，即使会破败，也会一次又一次，迎来新生\n\n来自天依的712活动攻略大集合！\n在这个重要的日子里，你会在哪里和我赴约呢？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-04_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/01412f2e85385d8f4be6666974d47c6f36081646.jpg",
+        "width": 3086,
+        "height": 1736,
+        "size_kb": 1297.69921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-04_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7aee696fdb726899609ecdb5420f346536081646.png",
+        "width": 960,
+        "height": 1805,
+        "size_kb": 2606.48046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-04_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/649d176d6e42505d258280c2b8c7363936081646.png",
+        "width": 960,
+        "height": 1592,
+        "size_kb": 2619.787109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-04_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4d851509512439a65fa60bf00c8cf34d36081646.png",
+        "width": 960,
+        "height": 1592,
+        "size_kb": 2430.3349609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-04_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/82fd1ad11ce9fad178271997d3ac9bed36081646.png",
+        "width": 960,
+        "height": 1592,
+        "size_kb": 2169.40625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-07-04_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1ec2175778504c43f1f0bd55aac8b3fe36081646.png",
+        "width": 960,
+        "height": 1592,
+        "size_kb": 2347.189453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4335,
+    "comment": 202,
+    "forward": 93
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

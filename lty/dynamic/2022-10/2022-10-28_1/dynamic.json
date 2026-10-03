@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "721947065927598184",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/721947065927598184",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月28日",
+    "pub_ts": 1666929800,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "瓜子瓜子~美味的瓜子~[洛天依·夜航星_饿了] 屯好满满的粮食，就可以美美度过冬天啦！[洛天依·夜航星_萌妹初醒] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "瓜子瓜子~美味的瓜子~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_饿了]",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "name": "饿了",
+        "url": "http://i0.hdslb.com/bfs/emote/5455abac01a22978b20ec0b365c214a872a0fd14.png"
+      },
+      {
+        "type": "text",
+        "text": " 屯好满满的粮食，就可以美美度过冬天啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-28_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/b2acaa940d8da1f57a8586fc40ac5eac36081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 215.8779296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/饿了.png",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "text": "[洛天依·夜航星_饿了]"
+      },
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10537,
+    "comment": 395,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

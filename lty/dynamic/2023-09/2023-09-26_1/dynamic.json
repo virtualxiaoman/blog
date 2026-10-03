@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "845663371090984978",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/845663371090984978",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月26日",
+    "pub_ts": 1695734747,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我 爱 你 是这样吗？[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我 爱 你 是这样吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4834,
+    "comment": 210,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 832452296744894521,
+    "orig_mid": 35639532,
+    "deleted": false,
+    "archive_dir": "../../../35639532/2023-08/2023-08-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1088660998495141891",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1088660998495141891",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752312041,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "收到大家的祝福天依非常开心！今年的生贺曲特别推出了双版本PV，除了每年都会有的、充满精致感的曲绘PV之外，还特别制作了充满故事感的绘本PV，想要将《珍珠》这首歌里的温暖治愈，充分地传递给大家～\n我们陪伴彼此的成长，我们共同的那些回忆，我们经历过的低谷……从一粒沙到一颗珠，总有一天你我都会发出温润的光泽。\n也欢迎大家用自己的共鸣之声演绎这首《珍珠》，歌词和伴奏天依放这里啦！\nhttps://pan.baidu.com/s/1P5g4kcC9wMA40fIuxa2PIQ?pwd=0712 提取码: 0712 \n\n我在今晚19:12的生日会直播等你们哦！～[洛天依八音奇响_美丽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "收到大家的祝福天依非常开心！今年的生贺曲特别推出了双版本PV，除了每年都会有的、充满精致感的曲绘PV之外，还特别制作了充满故事感的绘本PV，想要将《珍珠》这首歌里的温暖治愈，充分地传递给大家～\n我们陪伴彼此的成长，我们共同的那些回忆，我们经历过的低谷……从一粒沙到一颗珠，总有一天你我都会发出温润的光泽。\n也欢迎大家用自己的共鸣之声演绎这首《珍珠》，歌词和伴奏天依放这里啦！\n"
+      },
+      {
+        "type": "text",
+        "text": "https://pan.baidu.com/s/1P5g4kcC9wMA40fIuxa2PIQ?pwd=0712"
+      },
+      {
+        "type": "text",
+        "text": " 提取码: 0712 \n\n我在今晚19:12的生日会直播等你们哦！～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响_美丽]",
+        "package_id": "8363",
+        "emoji_id": "115090",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/7678ef49d2ac043c8883d112a8714dc5f0c18ba7.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8363/美丽.png",
+        "package_id": "8363",
+        "emoji_id": "115090",
+        "text": "[洛天依八音奇响_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4279,
+    "comment": 143,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 1088578397692494118,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-07-12_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:34:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

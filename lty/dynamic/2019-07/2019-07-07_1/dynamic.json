@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "273440428638614201",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/273440428638614201",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月7日",
+    "pub_ts": 1562503711,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2019洛天依生日会##洛天依#7月12日晚7点12分，大家可以来我的直播间看我哟 (*≧▽≦) ～\n直播间：https://live.bilibili.com/1546736",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "7月12日晚7点12分，大家可以来我的直播间看我哟 (*≧▽≦) ～\n直播间："
+      },
+      {
+        "type": "link",
+        "text": "https://live.bilibili.com/1546736",
+        "url": "https://live.bilibili.com/1546736"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】2019生日会直播预告",
+      "desc": "【洛天依】2019生日会直播预告",
+      "jump_url": "https://www.bilibili.com/video/BV1P4411F7aa",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ecd4d38078269f815f38e8a255936965f97865f8.jpg",
+      "cover_file": "../../_assets/covers/2019-07-07_1.jpg",
+      "bvid": "BV1P4411F7aa",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1P4411F7aa",
+        "aid": "58238094",
+        "cover": "http://i0.hdslb.com/bfs/archive/ecd4d38078269f815f38e8a255936965f97865f8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1P4411F7aa",
+        "stat": {
+          "danmaku": "6622",
+          "play": "19.6万",
+          "vt": ""
+        },
+        "duration_text": "02:37",
+        "title": "【洛天依】2019生日会直播预告",
+        "desc": "【洛天依】2019生日会直播预告",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23575,
+    "comment": 3122,
+    "forward": 232
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

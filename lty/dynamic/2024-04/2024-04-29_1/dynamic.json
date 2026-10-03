@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "id": "925679969005207569",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/925679969005207569",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月29日",
+    "pub_ts": 1714365063,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依游学记#\n伴随新疆篇单曲《天山之外》的发布，《天依游学记·歌行》终于正式画下句号啦！\n感谢大家一路陪伴天依见证与聆听，单曲的壁纸也分享给大家~\n再来回顾一下游学记的所有歌曲吧！[洛天依歌行四方_竹中吟笛]\n\n[洛天依歌行四方_抚琴]主题曲《歌行四方》【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐\n[洛天依歌行四方_欢迎]内蒙篇单曲《天上的风》“听 这是来自草原的歌声”洛天依X哈拉木吉《天上的风》【天依游学记内蒙篇单曲】\n[洛天依歌行四方_吟唱]西藏篇单曲《雪山之眼》“祝祷转过千年诗篇”洛天依原创曲《雪山之眼》【游学记西藏篇单曲】\n[洛天依歌行四方_送你花花]云贵篇单曲《黔歌行》“你是熠熠的星辰”洛天依原创曲《黔歌行》【游学记云贵篇单曲】\n[洛天依歌行四方_扭脖子]新疆篇单曲《天山之外》“天山不曾规定谁像她”洛天依原创曲《天山之外》【游学记新疆篇单曲】\n\n以我的双眼，以我的歌声，再去和大家一起发现与传递更多人世间的美好，我们约定！[洛天依歌行四方_行礼]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n伴随新疆篇单曲《天山之外》的发布，《天依游学记·歌行》终于正式画下句号啦！\n感谢大家一路陪伴天依见证与聆听，单曲的壁纸也分享给大家~\n再来回顾一下游学记的所有歌曲吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_竹中吟笛]",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "name": "竹中吟笛",
+        "url": "https://i0.hdslb.com/bfs/emote/9791340aaccc3b71292ebc206cb2a962ea1848be.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_抚琴]",
+        "package_id": "4128",
+        "emoji_id": "58597",
+        "name": "抚琴",
+        "url": "https://i0.hdslb.com/bfs/emote/e52705a4f1d88c7d1f93af1d4770f99c50857d84.png"
+      },
+      {
+        "type": "text",
+        "text": "主题曲《歌行四方》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐",
+        "url": "https://www.bilibili.com/video/BV1Yp4y1j7jX/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "内蒙篇单曲《天上的风》"
+      },
+      {
+        "type": "video",
+        "text": "“听 这是来自草原的歌声”洛天依X哈拉木吉《天上的风》【天依游学记内蒙篇单曲】",
+        "url": "https://www.bilibili.com/video/BV1GC4y1K7ps/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_吟唱]",
+        "package_id": "4128",
+        "emoji_id": "58610",
+        "name": "吟唱",
+        "url": "https://i0.hdslb.com/bfs/emote/bc6c6149e9215c4f22a76209c47f8fb256410665.png"
+      },
+      {
+        "type": "text",
+        "text": "西藏篇单曲《雪山之眼》"
+      },
+      {
+        "type": "video",
+        "text": "“祝祷转过千年诗篇”洛天依原创曲《雪山之眼》【游学记西藏篇单曲】",
+        "url": "https://www.bilibili.com/video/BV1Rr42147Am/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      },
+      {
+        "type": "text",
+        "text": "云贵篇单曲《黔歌行》"
+      },
+      {
+        "type": "video",
+        "text": "“你是熠熠的星辰”洛天依原创曲《黔歌行》【游学记云贵篇单曲】",
+        "url": "https://www.bilibili.com/video/BV1DC411V7nD/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "新疆篇单曲《天山之外》"
+      },
+      {
+        "type": "video",
+        "text": "“天山不曾规定谁像她”洛天依原创曲《天山之外》【游学记新疆篇单曲】",
+        "url": "https://www.bilibili.com/video/BV16r42137W5/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n以我的双眼，以我的歌声，再去和大家一起发现与传递更多人世间的美好，我们约定！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_行礼]",
+        "package_id": "4128",
+        "emoji_id": "58609",
+        "name": "行礼",
+        "url": "https://i0.hdslb.com/bfs/emote/824474fc80d88cd57dd074e183f610c0c2180b8f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fe4b8bff65b3e8a33e7d14754b5eda9336081646.jpg",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 4106.7470703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-29_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d609ecbfdada7eadb328a0d1ae7e537836081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 3216.837890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-29_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7374b559b5dad8f2dfb5f64f5cdb922336081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2646.7890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/竹中吟笛.png",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "text": "[洛天依歌行四方_竹中吟笛]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/抚琴.png",
+        "package_id": "4128",
+        "emoji_id": "58597",
+        "text": "[洛天依歌行四方_抚琴]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/吟唱.png",
+        "package_id": "4128",
+        "emoji_id": "58610",
+        "text": "[洛天依歌行四方_吟唱]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/行礼.png",
+        "package_id": "4128",
+        "emoji_id": "58609",
+        "text": "[洛天依歌行四方_行礼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5534,
+    "comment": 235,
+    "forward": 110
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

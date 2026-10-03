@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "658962456973934633",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/658962456973934633",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月11日",
+    "pub_ts": 1652265053,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 大家久等了！我的V5形象今天终于正式发布啦！ 从V3到V4到V5，每一次的升级于我都是一次全新的蜕变，无论是歌声还是形象，天依希望在镌刻下经典印记的同时，也带给大家一些新鲜的体验。  感谢@-TID- 为我绘制的V5造型，这趟通往未来的未知旅途，期待与大家再创造更多美好的回忆~\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 大家久等了！我的V5形象今天终于正式发布啦！ 从V3到V4到V5，每一次的升级于我都是一次全新的蜕变，无论是歌声还是形象，天依希望在镌刻下经典印记的同时，也带给大家一些新鲜的体验。  感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为我绘制的V5造型，这趟通往未来的未知旅途，期待与大家再创造更多美好的回忆~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-11_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4f6013aa5b2ce8018a8dfebd8dc258ea716da2f5.jpg",
+        "width": 2000,
+        "height": 2829,
+        "size_kb": 1301.719970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-05-11_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7e9b5646b030e8ff1daf9ae690ffc8f2bfdedd5b.jpg",
+        "width": 6000,
+        "height": 3800,
+        "size_kb": 3209.3701171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11080,
+    "comment": 2205,
+    "forward": 392
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:46:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

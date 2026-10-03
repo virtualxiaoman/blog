@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "821205937526145046",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/821205937526145046",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月22日",
+    "pub_ts": 1690040307,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057463,
+    "name": "我推上BML2023了！",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057463&topic_name=%E6%88%91%E6%8E%A8%E4%B8%8ABML2023%E4%BA%86%EF%BC%81"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】《一花依世界》穿越魔都 经典再现【BML2023单品】【4K60】",
+      "desc": "“一花一世界，一梦一千年”穿越而来的小仙女，在魔都展开了一场怎样的冒险旅程？",
+      "jump_url": "https://www.bilibili.com/video/BV1kV4y1b73K",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/31b932463624400868f79e53d5d4436e628212ba.jpg",
+      "cover_file": "../../_assets/covers/2023-07-22_2.jpg",
+      "bvid": "BV1kV4y1b73K",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kV4y1b73K",
+        "aid": "871000579",
+        "cover": "http://i2.hdslb.com/bfs/archive/31b932463624400868f79e53d5d4436e628212ba.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kV4y1b73K",
+        "stat": {
+          "danmaku": "635",
+          "play": "30.8万",
+          "vt": ""
+        },
+        "duration_text": "04:48",
+        "title": "【洛天依】《一花依世界》穿越魔都 经典再现【BML2023单品】【4K60】",
+        "desc": "“一花一世界，一梦一千年”穿越而来的小仙女，在魔都展开了一场怎样的冒险旅程？",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23531,
+    "comment": 648,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

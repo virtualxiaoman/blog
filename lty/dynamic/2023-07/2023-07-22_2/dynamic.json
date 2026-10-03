@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "821205928924676162",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/821205928924676162",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月22日",
+    "pub_ts": 1690040305,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057463,
+    "name": "我推上BML2023了！",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057463&topic_name=%E6%88%91%E6%8E%A8%E4%B8%8ABML2023%E4%BA%86%EF%BC%81"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】梦幻联动！奇迹天依畅游迪士尼童话世界【BML2023单品】【4K60】",
+      "desc": "《Magical Melody》\nIP合作：华特迪士尼动画工作室\n调教：重力p\n整体制作：ROGION INC.\n美术指导：陈智慧\n演唱：洛天依\n原曲：《Once Upon A Dream(from “The Sleeping Beauty”)》、《Part of Your World(from “The Little Mermaid”)》、《How Far I'll Go(from “Moana”)》、《Let it go (from “Frozen”)》、《Try Everything (from “",
+      "jump_url": "https://www.bilibili.com/video/BV18u4y1S7TF",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f6ac923b03c19786db1aaa3bb93e8d4c42639148.jpg",
+      "cover_file": "../../_assets/covers/2023-07-22_1.jpg",
+      "bvid": "BV18u4y1S7TF",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18u4y1S7TF",
+        "aid": "828511169",
+        "cover": "http://i0.hdslb.com/bfs/archive/f6ac923b03c19786db1aaa3bb93e8d4c42639148.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18u4y1S7TF",
+        "stat": {
+          "danmaku": "1435",
+          "play": "118.4万",
+          "vt": ""
+        },
+        "duration_text": "06:11",
+        "title": "【洛天依】梦幻联动！奇迹天依畅游迪士尼童话世界【BML2023单品】【4K60】",
+        "desc": "《Magical Melody》\nIP合作：华特迪士尼动画工作室\n调教：重力p\n整体制作：ROGION INC.\n美术指导：陈智慧\n演唱：洛天依\n原曲：《Once Upon A Dream(from “The Sleeping Beauty”)》、《Part of Your World(from “The Little Mermaid”)》、《How Far I'll Go(from “Moana”)》、《Let it go (from “Frozen”)》、《Try Everything (from “",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 37769,
+    "comment": 904,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

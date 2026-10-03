@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "892652310491037720",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/892652310491037720",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月31日",
+    "pub_ts": 1706675212,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“洛”承载国风意蕴 “LUO”代表新的探索\n当潮流元素融合国风音乐，以虚拟歌手演绎先锋音律\n百变风格，诠释「洛 LUO」之名\n\n2月2日12:00，洛天依X索尼音乐 合作EP《洛 LUO》数字EP正式上线各大音乐平台，实体EP哔哩哔哩会员购首发预售，五首原创单曲，十张精美插画，还有独家限定PV、纪念壁纸等你解锁。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“洛”承载国风意蕴 “LUO”代表新的探索\n当潮流元素融合国风音乐，以虚拟歌手演绎先锋音律\n百变风格，诠释「洛 LUO」之名\n\n2月2日12:00，洛天依X索尼音乐 合作EP《洛 LUO》数字EP正式上线各大音乐平台，实体EP哔哩哔哩会员购首发预售，五首原创单曲，十张精美插画，还有独家限定PV、纪念壁纸等你解锁。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依X索尼音乐全新EP《洛 LUO》试听PV“百变风格 诠释洛之名”",
+      "desc": "“洛”承载国风意蕴  “LUO”代表新的探索\n当潮流元素融合国风音乐\n以虚拟歌手演绎先锋音律\n百变风格，诠释「洛 LUO」之名\n\n2月2日12:00，洛天依X索尼音乐 合作EP《洛 LUO》数字EP正式上线各大音乐平台，实体EP哔哩哔哩会员购首发预售，五首原创单曲，十张精美插画，还有独家限定PV、纪念壁纸等你解锁。\n\n01.登陆宇宙\n作曲：Max Lee\n作词：江姜\n调校：流绪\n编曲：TAT/TSAR\n曲绘：TID、羽蛇\n制作人：赵楚峰BackToBand\n吉他：邓梓棋ZIP/Wasim Rahmani（",
+      "jump_url": "https://www.bilibili.com/video/BV19p421Z78e",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/8ee8880a6a4233c9ed06d5a4f03b87904319fcba.jpg",
+      "cover_file": "../../_assets/covers/2024-01-31_1.jpg",
+      "bvid": "BV19p421Z78e",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19p421Z78e",
+        "aid": "1850135576",
+        "cover": "http://i2.hdslb.com/bfs/archive/8ee8880a6a4233c9ed06d5a4f03b87904319fcba.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19p421Z78e",
+        "stat": {
+          "danmaku": "588",
+          "play": "33.9万",
+          "vt": ""
+        },
+        "duration_text": "02:50",
+        "title": "洛天依X索尼音乐全新EP《洛 LUO》试听PV“百变风格 诠释洛之名”",
+        "desc": "“洛”承载国风意蕴  “LUO”代表新的探索\n当潮流元素融合国风音乐\n以虚拟歌手演绎先锋音律\n百变风格，诠释「洛 LUO」之名\n\n2月2日12:00，洛天依X索尼音乐 合作EP《洛 LUO》数字EP正式上线各大音乐平台，实体EP哔哩哔哩会员购首发预售，五首原创单曲，十张精美插画，还有独家限定PV、纪念壁纸等你解锁。\n\n01.登陆宇宙\n作曲：Max Lee\n作词：江姜\n调校：流绪\n编曲：TAT/TSAR\n曲绘：TID、羽蛇\n制作人：赵楚峰BackToBand\n吉他：邓梓棋ZIP/Wasim Rahmani（",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 33999,
+    "comment": 801,
+    "forward": 219
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:05:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

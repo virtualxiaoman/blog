@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "841900326914097220",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/841900326914097220",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月16日",
+    "pub_ts": 1694858595,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依温泉花火#\n我能想到秋夜最浪漫的事，是与你共赏这一片温泉花火。\n此情此景，恰如彼时彼刻。\n溯时光之境，将更多过往的碎片收集，凝结为永恒。\n\n山峦静谧，温泉波光粼粼\n花火灿烂，温暖一如往昔\n\n「洛天依 温泉花火ver.」手办化决定！\n出品方：RaiseDream \n商品规格：PVC&ABS涂装完成品\n商品比例：1/7\n开售时间：2023年9月29日\n出荷时间：2024年8月29日\n原画：@-TID- \n更多预售信息下周陆续公开，记得关注天依哦！[古色花香洛天依_期待]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依温泉花火#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%A9%E6%B3%89%E8%8A%B1%E7%81%AB"
+      },
+      {
+        "type": "text",
+        "text": "\n我能想到秋夜最浪漫的事，是与你共赏这一片温泉花火。\n此情此景，恰如彼时彼刻。\n溯时光之境，将更多过往的碎片收集，凝结为永恒。\n\n山峦静谧，温泉波光粼粼\n花火灿烂，温暖一如往昔\n\n「洛天依 温泉花火ver.」手办化决定！\n出品方：RaiseDream \n商品规格：PVC&ABS涂装完成品\n商品比例：1/7\n开售时间：2023年9月29日\n出荷时间：2024年8月29日\n原画："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n更多预售信息下周陆续公开，记得关注天依哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-16_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/972967ef96129142f9df98dbf0e2f6cb36081646.jpg",
+        "width": 1333,
+        "height": 2000,
+        "size_kb": 1704.6700439453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-16_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a0331eb24acfc38f0bcd2a8ffc613e4436081646.jpg",
+        "width": 1280,
+        "height": 1919,
+        "size_kb": 725.260009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8864,
+    "comment": 761,
+    "forward": 247
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

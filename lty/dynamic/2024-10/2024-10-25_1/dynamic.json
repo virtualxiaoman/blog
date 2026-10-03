@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "992176155933016067",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/992176155933016067",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月25日",
+    "pub_ts": 1729847413,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "🎵#洛天依海洋之心#轻故事集主人公「洛天依·塞壬」公开🎵\n故事开始的契机总是难以预测、无从捉摸的\n但或许绚烂的相遇，早已为璀璨的结局写下了注脚[洛天依蝶变_轻唱]\n\n“嘘——控制一下你的表情和惊叫，我不是什么危险生物，只是偶然路过。”\n“仔细听，在海水流动的每时每刻，都有天然的旋律在生长。”\n“偶遇也是缘分，来吧，听我为你演奏一曲，希望你今晚做个好梦~”[洛天依蝶变_ZZZ]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎵"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依海洋之心#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+      },
+      {
+        "type": "text",
+        "text": "轻故事集主人公「洛天依·塞壬」公开🎵\n故事开始的契机总是难以预测、无从捉摸的\n但或许绚烂的相遇，早已为璀璨的结局写下了注脚"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“嘘——控制一下你的表情和惊叫，我不是什么危险生物，只是偶然路过。”\n“仔细听，在海水流动的每时每刻，都有天然的旋律在生长。”\n“偶遇也是缘分，来吧，听我为你演奏一曲，希望你今晚做个好梦~”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_ZZZ]",
+        "package_id": "3752",
+        "emoji_id": "52577",
+        "name": "ZZZ",
+        "url": "https://i0.hdslb.com/bfs/emote/c005c3a40e37e4b18809834ef4c0df663c930535.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e2c3c3e9e66f95213753de9e42869ca636081646.jpg",
+        "width": 3613,
+        "height": 2033,
+        "size_kb": 1864.1630859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-25_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/470f4aa7b992e339f5468efd2d08cc9336081646.jpg",
+        "width": 4320,
+        "height": 2430,
+        "size_kb": 2919.177734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-25_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0eb4c267bdb4a494efecb921ab94deb436081646.jpg",
+        "width": 5434,
+        "height": 3879,
+        "size_kb": 2569.3193359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/ZZZ.png",
+        "package_id": "3752",
+        "emoji_id": "52577",
+        "text": "[洛天依蝶变_ZZZ]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6632,
+    "comment": 394,
+    "forward": 145
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

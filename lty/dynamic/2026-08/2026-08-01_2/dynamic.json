@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1231542702088126466",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1231542702088126466",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月1日",
+    "pub_ts": 1785579280,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "成都的大家，你们准备好了吗——\n谢谢大家，跨越千山万水，和天依在今晚相聚\n一起留下最难忘的夜晚吧！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "成都的大家，你们准备好了吗——\n谢谢大家，跨越千山万水，和天依在今晚相聚\n一起留下最难忘的夜晚吧！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/635b678624b01bff378e333213c52b6e36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 600.616,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-01_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/afd2f2364190674f15b33521355decdc36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 408.014,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-01_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/19629affd8e778d1e92eba3b5ed6543636081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 517.852,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-01_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b5278c4c52b5cac7a7f2fc7b5095bc8136081646.jpg",
+        "width": 1600,
+        "height": 2400,
+        "size_kb": 649.789,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-01_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c77980f1f2ef27a6ca2755859774472236081646.jpg",
+        "width": 4031,
+        "height": 2687,
+        "size_kb": 8823.225,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-01_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3fb030258777c0e6a9b5ce415fa2725f36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 190.361,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-01_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f96b6a196530e026ca273e88060d78af36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 571.855,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-01_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/49b235eae62fd06b6ea4ccbbdba5a21036081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 457.008,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-01_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/39220358788e2f96d085b5bc7c297be636081646.jpg",
+        "width": 4527,
+        "height": 3018,
+        "size_kb": 8053.292,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6323,
+    "comment": 334,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

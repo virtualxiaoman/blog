@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "387627563041448373",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/387627563041448373",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月10日",
+    "pub_ts": 1589089975,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "空气中升起怀念的气息~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "空气中升起怀念的气息~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7390,
+    "comment": 312,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 387438412679141854,
+    "orig_mid": 146339,
+    "deleted": false,
+    "archive_dir": "../../../146339/2020-05/2020-05-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

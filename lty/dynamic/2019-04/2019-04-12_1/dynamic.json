@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "241563774071273630",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/241563774071273630",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月12日",
+    "pub_ts": 1555081849,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我们一直都在！//@乐正龙牙:都在的~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我们一直都在！//"
+      },
+      {
+        "type": "mention",
+        "text": "@乐正龙牙",
+        "mid": 406948857,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":都在的~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5652,
+    "comment": 198,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 241539017882820080,
+    "orig_mid": 406948651,
+    "deleted": false,
+    "archive_dir": "../../../406948651/2019-04/2019-04-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

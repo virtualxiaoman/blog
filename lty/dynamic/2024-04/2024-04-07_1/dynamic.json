@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "917648195515842583",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/917648195515842583",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月7日",
+    "pub_ts": 1712495020,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "不在乎世界如何，伴着雨落，来首痛快的歌[洛天依蝶变_嗷]晚上好呀，今天下了好大的雨，大家那里呢[洛天依幻游世界_摸摸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不在乎世界如何，伴着雨落，来首痛快的歌"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_嗷]",
+        "package_id": "3752",
+        "emoji_id": "52572",
+        "name": "嗷",
+        "url": "https://i0.hdslb.com/bfs/emote/a91a293cd53f323e162e6ba69e3efe0a6bb37758.png"
+      },
+      {
+        "type": "text",
+        "text": "晚上好呀，今天下了好大的雨，大家那里呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_摸摸]",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c97346bd9f5bb64a1cad8eecf85f50cc7a083eca.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/嗷.png",
+        "package_id": "3752",
+        "emoji_id": "52572",
+        "text": "[洛天依蝶变_嗷]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/摸摸.png",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "text": "[洛天依幻游世界_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5132,
+    "comment": 144,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 901684145666654242,
+    "orig_mid": 1594066,
+    "deleted": false,
+    "archive_dir": "../../../1594066/2024-02/2024-02-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:09:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "586173245320284632",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/586173245320284632",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月27日",
+    "pub_ts": 1635317494,
+    "location": ""
+  },
+  "topic": {
+    "id": 1968,
+    "name": "洛天依扭扭舞二创",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1968&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%89%AD%E6%89%AD%E8%88%9E%E4%BA%8C%E5%88%9B"
+  },
+  "content": {
+    "title": "",
+    "text": "【冬奥应援接力棒传递！】\n#洛天依献礼冬奥百日短片# 二创征集活动开启~\n\n〓活动时间〓\n即刻起——2021年11月26日24:00\n\n〓参与方式〓\n投稿符合活动要求的视频，添加活动标签#洛天依扭扭舞二创#，即可视为参与活动。\n1.基于原视频稿件，剪辑、翻拍大于30秒的二创视频.;\n2.投稿需添加活动标签#洛天依扭扭舞二创#;\n3.具体内容、形式、题材不限。\n\n期待大家的创意应援！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【冬奥应援接力棒传递！】\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依献礼冬奥百日短片#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%8C%AE%E7%A4%BC%E5%86%AC%E5%A5%A5%E7%99%BE%E6%97%A5%E7%9F%AD%E7%89%87"
+      },
+      {
+        "type": "text",
+        "text": " 二创征集活动开启~\n\n〓活动时间〓\n即刻起——2021年11月26日24:00\n\n〓参与方式〓\n投稿符合活动要求的视频，添加活动标签"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依扭扭舞二创#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%89%AD%E6%89%AD%E8%88%9E%E4%BA%8C%E5%88%9B"
+      },
+      {
+        "type": "text",
+        "text": "，即可视为参与活动。\n1.基于原视频稿件，剪辑、翻拍大于30秒的二创视频.;\n2.投稿需添加活动标签"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依扭扭舞二创#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%89%AD%E6%89%AD%E8%88%9E%E4%BA%8C%E5%88%9B"
+      },
+      {
+        "type": "text",
+        "text": ";\n3.具体内容、形式、题材不限。\n\n期待大家的创意应援！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4769,
+    "comment": 100,
+    "forward": 32
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

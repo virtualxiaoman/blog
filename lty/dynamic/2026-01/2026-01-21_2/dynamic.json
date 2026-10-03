@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "1160290981306695681",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1160290981306695681",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月21日",
+    "pub_ts": 1768989696,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「天琴 × 广西文旅」\n服饰设定&合作艺术家公开~[洛天依·戏游九州动态_撒花]\n\n⚜️ 与天地沟通、伴山歌相和的琴师\n取意广西十二世居民族智慧，集壮锦鱼纹、汉族马面、瑶族系带、苗族银饰、侗族银冠等民族符号于一裳。\n以弹拨吟唱、银铃击节的琴者形象，诠释天琴从连接天地信仰到歌唱生活人情的传承与生长。\n\n⚜️特邀艺术家：广西民族师范学院-天琴弹唱艺术团、韦晴晴老师\n⚜️特邀文化指导：玉妮老师\n\n“弹拨弦鸣声清脆，银铃轻响至天明” \n跟随天依，聆听天琴清亮通透的弦音，走入桂山秀水，感受古老仪式的神圣之音，亦伴着山歌，唱响对生活的热爱与向往。[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「天琴 × 广西文旅」\n服饰设定&合作艺术家公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⚜️ 与天地沟通、伴山歌相和的琴师\n取意广西十二世居民族智慧，集壮锦鱼纹、汉族马面、瑶族系带、苗族银饰、侗族银冠等民族符号于一裳。\n以弹拨吟唱、银铃击节的琴者形象，诠释天琴从连接天地信仰到歌唱生活人情的传承与生长。\n\n⚜️特邀艺术家：广西民族师范学院-天琴弹唱艺术团、韦晴晴老师\n⚜️特邀文化指导：玉妮老师\n\n“弹拨弦鸣声清脆，银铃轻响至天明” \n跟随天依，聆听天琴清亮通透的弦音，走入桂山秀水，感受古老仪式的神圣之音，亦伴着山歌，唱响对生活的热爱与向往。"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-21_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9c50c3e170e8e2df50cbc6e33f9619c836081646.jpg",
+        "width": 9600,
+        "height": 5400,
+        "size_kb": 7107.31982421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-21_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f76611158d9babc77d3d864f3b7687b036081646.jpg",
+        "width": 1600,
+        "height": 5273,
+        "size_kb": 1622.7099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-21_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64e7e5502decdb1460951a10c217094136081646.png",
+        "width": 2500,
+        "height": 5166,
+        "size_kb": 6971.77001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5337,
+    "comment": 155,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

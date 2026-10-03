@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "id": "982915188550271011",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/982915188550271011",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月30日",
+    "pub_ts": 1727691176,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "距离#洛天依无限共鸣演唱会#还有五天啦~[歌行宇宙表情包_歌行宇宙]\n各位前来观看演唱会的小伙伴们请务必查收这份观演指南哦！[歌行宇宙表情包_可靠]\n\n📅演出时间：10月5日 日场14:00/夜场19:00\n🎟️演出场地：上海静安体育中心\n📍场馆地址：上海市静安区汶水路116号\n\n大家一定！一定！要记得带好身份证件，大件行李需要提前安置好~\n还有交通指南、特典领取、入场须知等事项告知，请戳长图查看。[歌行宇宙表情包_喜欢洛天依]\n#洛天依歌行宇宙# #洛天依喊你去看演唱会#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "距离"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依无限共鸣演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%97%A0%E9%99%90%E5%85%B1%E9%B8%A3%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "还有五天啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_歌行宇宙]",
+        "package_id": "5880",
+        "emoji_id": "86895",
+        "name": "歌行宇宙",
+        "url": "https://i0.hdslb.com/bfs/garb/c115b67cc7a00d1b727ffbbe3bc5e8e4fdc6a4ba.png"
+      },
+      {
+        "type": "text",
+        "text": "\n各位前来观看演唱会的小伙伴们请务必查收这份观演指南哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_可靠]",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/c4947ffce07dd9355cf893acf531afbbde05efbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n📅演出时间：10月5日 日场14:00/夜场19:00\n🎟️演出场地：上海静安体育中心\n📍场馆地址：上海市静安区汶水路116号\n\n大家一定！一定！要记得带好身份证件，大件行李需要提前安置好~\n还有交通指南、特典领取、入场须知等事项告知，请戳长图查看。"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_喜欢洛天依]",
+        "package_id": "5880",
+        "emoji_id": "86894",
+        "name": "喜欢洛天依",
+        "url": "https://i0.hdslb.com/bfs/garb/aaa2555398283edc81e4d1052e40904fa56c3a14.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依歌行宇宙#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%AD%8C%E8%A1%8C%E5%AE%87%E5%AE%99"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依喊你去看演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/12c2283e9aeab36e712b945b727bc3df36081646.jpg",
+        "width": 1200,
+        "height": 9500,
+        "size_kb": 2671.97265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/歌行宇宙.png",
+        "package_id": "5880",
+        "emoji_id": "86895",
+        "text": "[歌行宇宙表情包_歌行宇宙]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/可靠.png",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "text": "[歌行宇宙表情包_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/喜欢洛天依.png",
+        "package_id": "5880",
+        "emoji_id": "86894",
+        "text": "[歌行宇宙表情包_喜欢洛天依]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·洛天依2024无限共鸣演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202408/or0iy18f1724401612225.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91180&msource=cps_Mdynamic_36081646_cont-2-982915188550271011&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-30_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3418,
+    "comment": 191,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

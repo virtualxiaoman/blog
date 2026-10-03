@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "681977477491327107",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/681977477491327107",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月12日",
+    "pub_ts": 1657623655,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "非常荣幸可以成为杜莎名人堂中的一员，也很感谢大家一起参加我的蜡像揭幕仪式。  除此之外，天依还带来了一个好消息：影法师的模型已经完成配布啦！  欢迎小伙伴们去评论区下载，期待大家的新创作～   #洛天依# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "非常荣幸可以成为杜莎名人堂中的一员，也很感谢大家一起参加我的蜡像揭幕仪式。  除此之外，天依还带来了一个好消息：影法师的模型已经完成配布啦！  欢迎小伙伴们去评论区下载，期待大家的新创作～   "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-12_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a079e71362398133171d983cba25082236081646.jpg",
+        "width": 3712,
+        "height": 2475,
+        "size_kb": 4113.5703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-07-12_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f861734d000d8714b8d0eca113d5614736081646.jpg",
+        "width": 3712,
+        "height": 2475,
+        "size_kb": 3548.078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-07-12_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0fc5283ce6092f1aa5fccf3cfc77808736081646.jpg",
+        "width": 3712,
+        "height": 2475,
+        "size_kb": 4591.853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9968,
+    "comment": 353,
+    "forward": 84
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:51:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "992929256980873221",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/992929256980873221",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月27日",
+    "pub_ts": 1730022758,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "🎵#洛天依海洋之心#轻故事集角色三「洛天依·冰海天使」公开🎵\n海底生活的丰富程度，其实很大程度上取决于想象力和行动力。\n而以智慧闻名的冰海天使们，是最好的例证。[代号洛天依_你不对劲]\n\n“写作的灵感来源？当然是这片海洋本身”\n“如果你足够认真地对待每一天的生活、足够仔细地关注自己身边的环境。”\n“就会发现这里充满宝藏与奇迹，只待你用自己的方式逐一记录。[古色花香洛天依_期待]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎵"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依海洋之心#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+      },
+      {
+        "type": "text",
+        "text": "轻故事集角色三「洛天依·冰海天使」公开🎵\n海底生活的丰富程度，其实很大程度上取决于想象力和行动力。\n而以智慧闻名的冰海天使们，是最好的例证。"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_你不对劲]",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "name": "你不对劲",
+        "url": "https://i0.hdslb.com/bfs/emote/f694efdafc888fce47054249dcc85a8d72359862.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“写作的灵感来源？当然是这片海洋本身”\n“如果你足够认真地对待每一天的生活、足够仔细地关注自己身边的环境。”\n“就会发现这里充满宝藏与奇迹，只待你用自己的方式逐一记录。"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d7a60124e493fce1d8ed5856f44a368436081646.jpg",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 4411.474609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-27_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1e276643bbe2e262786dededbb51af8336081646.jpg",
+        "width": 4320,
+        "height": 2430,
+        "size_kb": 3350.689453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-27_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7dc092942302f85f4c988133d379da5036081646.jpg",
+        "width": 5000,
+        "height": 2894,
+        "size_kb": 2612.041015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/你不对劲.png",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "text": "[代号洛天依_你不对劲]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5800,
+    "comment": 296,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

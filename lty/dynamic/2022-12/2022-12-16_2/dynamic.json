@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "740224088807571464",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/740224088807571464",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月16日",
+    "pub_ts": 1671185251,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "星球上的饿狼小精灵喜欢抢夺食物，天钿经常被它欺负。\n这一天，可怜的小天钿又被饿狼抢夺了食物，伤心地哭了起来......\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "星球上的饿狼小精灵喜欢抢夺食物，天钿经常被它欺负。\n这一天，可怜的小天钿又被饿狼抢夺了食物，伤心地哭了起来......\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-16_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6a5839e6543bd0ef40647062faec477a36081646.jpg",
+        "width": 2266,
+        "height": 3210,
+        "size_kb": 863.4600219726562,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-12-16_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8388063c1172ea285dfd51c4a7bcde6436081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 998.5900268554688,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8378,
+    "comment": 297,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

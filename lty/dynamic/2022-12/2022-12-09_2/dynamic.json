@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "737630151893844024",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/737630151893844024",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月9日",
+    "pub_ts": 1670581303,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小分队最终会选择追踪哪一组信号？\n小分队驾驶着飞船在浩瀚的宇宙中寻找下一站目的地。\n突然，飞船检测到了两组星球信号！\n一组稳定而微弱，一组嘈杂而强烈。\n新地图即将解锁，小分队最终会选择追踪哪一组信号？未知的信号又将引导她们前往怎样的旅途？\n下周四为大家带来最新探索情报，记得来看哦！\n#洛天依# \n",
+    "blocks": [
+      {
+        "type": "vote",
+        "text": "小分队最终会选择追踪哪一组信号？",
+        "rid": "4384805",
+        "url": "https://www.bilibili.com/h5/vote?vote_id=4384805&dynamic_id=737630151893844024"
+      },
+      {
+        "type": "text",
+        "text": "\n小分队驾驶着飞船在浩瀚的宇宙中寻找下一站目的地。\n突然，飞船检测到了两组星球信号！\n一组稳定而微弱，一组嘈杂而强烈。\n新地图即将解锁，小分队最终会选择追踪哪一组信号？未知的信号又将引导她们前往怎样的旅途？\n下周四为大家带来最新探索情报，记得来看哦！\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "vote",
+      "title": "小分队最终会选择追踪哪一组信号？",
+      "desc": "1.2万人参与",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "vote_id": "4384805",
+        "choice_cnt": "1",
+        "default_share": "1",
+        "title": "小分队最终会选择追踪哪一组信号？",
+        "desc": "1.2万人参与",
+        "end_time": "1671185922",
+        "join_num": "12007",
+        "status": "4",
+        "type": "0",
+        "uid": "36081646",
+        "jump_url": "",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "参与",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/h5/vote?vote_id=4384805&dyn_id=737630151893844024",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "upower_action_state": 0,
+        "upower_level": "0"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": {
+    "vote_id": "4384805",
+    "choice_cnt": "1",
+    "default_share": "1",
+    "title": "小分队最终会选择追踪哪一组信号？",
+    "desc": "1.2万人参与",
+    "end_time": "1671185922",
+    "join_num": "12007",
+    "status": "4",
+    "type": "0",
+    "uid": "36081646",
+    "jump_url": "",
+    "button": {
+      "type": 1,
+      "jump_style": {
+        "icon_url": "",
+        "text": "参与",
+        "interactive": null,
+        "bg_style": 0,
+        "toast": "",
+        "disable": 0
+      },
+      "jump_url": "//www.bilibili.com/h5/vote?vote_id=4384805&dyn_id=737630151893844024",
+      "check": null,
+      "uncheck": null,
+      "status": 0,
+      "click_type": 0
+    },
+    "upower_action_state": 0,
+    "upower_level": "0"
+  },
+  "stats": {
+    "like": 5423,
+    "comment": 202,
+    "forward": 3389
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

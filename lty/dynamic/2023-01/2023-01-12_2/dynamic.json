@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "750143869837901848",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/750143869837901848",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月12日",
+    "pub_ts": 1673494880,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#欢乐春节音乐会官宣定档#终于官宣了！美滋滋地向大家介绍天依的师傅@赵聪琵琶 ，#洛天依有师傅啦#啊啊啊老师真的太美了，她的演奏超绝，现在琵琶已经成为了我最爱的传统乐器，一定要来看我们师徒二人的首秀哦！#2023欢乐春节音乐会#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#欢乐春节音乐会官宣定档#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E4%B9%90%E6%98%A5%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3"
+      },
+      {
+        "type": "text",
+        "text": "终于官宣了！美滋滋地向大家介绍天依的师傅"
+      },
+      {
+        "type": "mention",
+        "text": "@赵聪琵琶",
+        "mid": 298564809,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ，"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依有师傅啦#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%9C%89%E5%B8%88%E5%82%85%E5%95%A6"
+      },
+      {
+        "type": "text",
+        "text": "啊啊啊老师真的太美了，她的演奏超绝，现在琵琶已经成为了我最爱的传统乐器，一定要来看我们师徒二人的首秀哦！"
+      },
+      {
+        "type": "topic",
+        "text": "#2023欢乐春节音乐会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%AC%A2%E4%B9%90%E6%98%A5%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6757,
+    "comment": 228,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 750138501132976147,
+    "orig_mid": 298564809,
+    "deleted": false,
+    "archive_dir": "../../../298564809/2023-01/2023-01-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:49:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

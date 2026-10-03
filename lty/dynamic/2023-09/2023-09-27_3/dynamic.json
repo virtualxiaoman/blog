@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "845985416572043281",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/845985416572043281",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月27日",
+    "pub_ts": 1695809729,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "哇[洛天依幻游世界_哇哦]大家快来听——很高兴收到龚琳娜老师对《歌行四方》大气磅礴的演绎[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "哇"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_哇哦]",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "name": "哇哦",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e5bc68534e3271c873a8ab2cabe0eac69b01a952.png"
+      },
+      {
+        "type": "text",
+        "text": "大家快来听——很高兴收到龚琳娜老师对《歌行四方》大气磅礴的演绎"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/哇哦.png",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "text": "[洛天依幻游世界_哇哦]"
+      },
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3663,
+    "comment": 41,
+    "forward": 9
+  },
+  "forward": {
+    "orig_id": 845981490733908144,
+    "orig_mid": 4976111,
+    "deleted": false,
+    "archive_dir": "../../../4976111/2023-09/2023-09-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

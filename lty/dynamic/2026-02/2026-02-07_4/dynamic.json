@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "id": "1166594966806331411",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1166594966806331411",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月7日",
+    "pub_ts": 1770457457,
+    "location": ""
+  },
+  "topic": {
+    "id": 1316554,
+    "name": "洛天依流光协奏全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1316554&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%81%E5%85%89%E5%8D%8F%E5%A5%8F%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "无锡的大家——你们在哪里——[乐鸣东方动态表情包_支持]\n\n马上就能和大家见面啦！\n谢谢大家早早送来的漂亮花篮，也谢谢每一位千里迢迢为天依奔赴而来的你～[乐鸣东方动态表情包_干杯]\n\n今晚，天依准备了属于无锡的特别曲目，还有和演出伙伴龚琳娜老师的合唱舞台[乐鸣东方动态表情包_知音]\n所有的热爱与欢呼，都和天依一起，留在这个夜晚吧——[乐鸣东方动态表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "无锡的大家——你们在哪里——"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n马上就能和大家见面啦！\n谢谢大家早早送来的漂亮花篮，也谢谢每一位千里迢迢为天依奔赴而来的你～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n今晚，天依准备了属于无锡的特别曲目，还有和演出伙伴龚琳娜老师的合唱舞台"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_知音]",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "name": "知音",
+        "url": "https://i0.hdslb.com/bfs/garb/75a559c572146d83bfc282b84a018ca1d6646a12.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n所有的热爱与欢呼，都和天依一起，留在这个夜晚吧——"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-07_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4e7f95872b92d097e0605a728aeefebf36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2720.389892578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-02-07_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2ae8c0f02b9045518f190376ac50c78036081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2637.340087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-02-07_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/69826e7da0269ca868f1c8fd2e09528a36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2629.580078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-02-07_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b9c29e7f095ec84b08af3cbd935157d636081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 2861.7900390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-02-07_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3bda968d3cb5f63438a837fc1d4d5df136081646.jpg",
+        "width": 1281,
+        "height": 1920,
+        "size_kb": 2343.449951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-02-07_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0a902ebf9fece61720ba992cc5f8bcb636081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 3978.75,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-02-07_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b08586fb782434ea638acdbdf435c8f936081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 3804.050048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-02-07_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0559b12450315800db97e273eb36674336081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 2593.659912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-02-07_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b7d72c8b2a8e9e09479754102b23a20736081646.jpg",
+        "width": 1920,
+        "height": 1320,
+        "size_kb": 2915.949951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2026-02-07_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3be5291567a80364651c74098a538dea36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 3879.030029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 11,
+        "file": "../../_assets/images/2026-02-07_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cfb99ac82b265374224b1972751f979a36081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 4107.27001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 12,
+        "file": "../../_assets/images/2026-02-07_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dceddc0cab9db14f39d6dc7ca36f81bd36081646.jpg",
+        "width": 1281,
+        "height": 1920,
+        "size_kb": 2864.550048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 13,
+        "file": "../../_assets/images/2026-02-07_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/232c846dd7bc8d3601e2cedc3a2798b436081646.jpg",
+        "width": 1281,
+        "height": 1920,
+        "size_kb": 3195.699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 14,
+        "file": "../../_assets/images/2026-02-07_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0fed4455d0f71089964f40f8d514a8f536081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 3872.14990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 15,
+        "file": "../../_assets/images/2026-02-07_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9f079e16272c0abb0322e1390e60bb7436081646.jpg",
+        "width": 1920,
+        "height": 1280,
+        "size_kb": 3284.8701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 16,
+        "file": "../../_assets/images/2026-02-07_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/83f45511f29687daea606ca4a71b0ee736081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 3448.89990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/知音.gif",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "text": "[乐鸣东方动态表情包_知音]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5619,
+    "comment": 357,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:16:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

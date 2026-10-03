@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "820022218768515203",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/820022218768515203",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月19日",
+    "pub_ts": 1689764701,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "炎炎夏季，就让天依的歌声陪你度过吧~\n天依唱片机点歌功能持续开放中，欢迎大家点播收听！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "炎炎夏季，就让天依的歌声陪你度过吧~\n天依唱片机点歌功能持续开放中，欢迎大家点播收听！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第一期·夏日 | 来一杯夏日特饮，天依陪你度过暑假的夜晚~",
+      "desc": "炎炎夏季，就让天依的歌声陪你度过吧~\n天依唱片机点歌功能持续开放中，欢迎大家点播收听！\n希望可以用这种方式陪伴着大家，也有机会让更多的小伙伴听到这些优秀的歌曲。\n\n【天依唱片机第一期·夏日  歌单】\n1.我的悲伤是水做的BV1Qc411h7Ys\n2.啥都不想做BV1GM411i7is\n3.万分之一的光 BV1Tp4y1S7cu\n4.M87黑洞BV1U8411T7Nk\n5.蒲公英之路BV1Cs411D7VB\n6.异样的风暴中心BV1js411Q7Vc\n7.选择BV1ee4y1N7aH\n8.请你留下BV13k",
+      "jump_url": "https://www.bilibili.com/video/BV1AP411r7nh",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/8a63040eee88913162655a77170fd3d8c3085f28.jpg",
+      "cover_file": "../../_assets/covers/2023-07-19_1.jpg",
+      "bvid": "BV1AP411r7nh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1AP411r7nh",
+        "aid": "316228425",
+        "cover": "http://i2.hdslb.com/bfs/archive/8a63040eee88913162655a77170fd3d8c3085f28.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1AP411r7nh",
+        "stat": {
+          "danmaku": "1327",
+          "play": "57.9万",
+          "vt": ""
+        },
+        "duration_text": "54:51",
+        "title": "【天依唱片机】第一期·夏日 | 来一杯夏日特饮，天依陪你度过暑假的夜晚~",
+        "desc": "炎炎夏季，就让天依的歌声陪你度过吧~\n天依唱片机点歌功能持续开放中，欢迎大家点播收听！\n希望可以用这种方式陪伴着大家，也有机会让更多的小伙伴听到这些优秀的歌曲。\n\n【天依唱片机第一期·夏日  歌单】\n1.我的悲伤是水做的BV1Qc411h7Ys\n2.啥都不想做BV1GM411i7is\n3.万分之一的光 BV1Tp4y1S7cu\n4.M87黑洞BV1U8411T7Nk\n5.蒲公英之路BV1Cs411D7VB\n6.异样的风暴中心BV1js411Q7Vc\n7.选择BV1ee4y1N7aH\n8.请你留下BV13k",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 108151,
+    "comment": 1641,
+    "forward": 182
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

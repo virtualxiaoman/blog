@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "876817947164672040",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/876817947164672040",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月19日",
+    "pub_ts": 1702988487,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这么可爱珍稀的天依日语原创曲，天依不允许你错过——[洛天依蝶变_发射爱心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这么可爱珍稀的天依日语原创曲，天依不允许你错过——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4511,
+    "comment": 114,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 857942412250578967,
+    "orig_mid": 8218436,
+    "deleted": false,
+    "archive_dir": "../../../8218436/2023-10/2023-10-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

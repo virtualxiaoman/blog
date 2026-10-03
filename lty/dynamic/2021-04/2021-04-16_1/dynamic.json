@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "514119353544027831",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/514119353544027831",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月16日",
+    "pub_ts": 1618541140,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这世界有你的两千个替代品，却因为我们的相遇，使彼此变得独一无二[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这世界有你的两千个替代品，却因为我们的相遇，使彼此变得独一无二"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5442,
+    "comment": 133,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 321639784287131944,
+    "orig_mid": 605473,
+    "deleted": false,
+    "archive_dir": "../../../605473/2019-11/2019-11-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

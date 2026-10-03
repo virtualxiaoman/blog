@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "id": "813360595633963014",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/813360595633963014",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月1日",
+    "pub_ts": 1688213671,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依 x VECTOR 滑雪专业装备 潮流街头风新品来袭！\n转发并关注，抽3位小伙伴送出滑雪新品 针织帽，发带，滑雪手套 \n\n破晓黄&冰雪蓝两款缤纷色系，唤醒清晨的多巴胺~[洛天依·夜航星_萌妹初醒]\n来和天依一起感受风与自由，成为雪场上的一抹阳光吧！[代号洛天依_不是事儿]\n\n详情请点击：网页链接\n抢先出发：bilibili会员购，淘宝上海禾念\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "161044",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依 x VECTOR 滑雪专业装备 潮流街头风新品来袭！\n转发并关注，抽3位小伙伴送出滑雪新品 针织帽，发带，滑雪手套 \n\n破晓黄&冰雪蓝两款缤纷色系，唤醒清晨的多巴胺~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": "\n来和天依一起感受风与自由，成为雪场上的一抹阳光吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_不是事儿]",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "name": "不是事儿",
+        "url": "https://i0.hdslb.com/bfs/emote/ce2071489d03e85e5c948cd384e5750d56025772.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n详情请点击："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/IXqibwrk2.html?msource=yyqbanner_Vsinger"
+      },
+      {
+        "type": "text",
+        "text": "\n抢先出发：bilibili会员购，淘宝上海禾念"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0d27872afdea2f0dc397a2203452b09b36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 862.0419921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5cf97d9eb08d8c99a5a5654a29a841cb36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 1003.1064453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-01_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/77aca9611286606f1709e032f67ee62836081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 700.125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-07-01_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3cc20de26a482e6e5724302acfd0093a36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 611.873046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-07-01_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/07fbf5c793a386b73b38974cd71992fc36081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 8215.341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-07-01_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0c96cb9bbec680e89f2c4577ddaf232936081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 8481.982421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-07-01_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/018042414e53607bc92f34894132604936081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 8324.04296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-07-01_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/76f56a0c95eaaaf9ec6fc199de846fa736081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 8221.5517578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/不是事儿.png",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "text": "[代号洛天依_不是事儿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "161044"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9733,
+    "comment": 1282,
+    "forward": 8847
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:54:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "847108421410881576",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/847108421410881576",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月30日",
+    "pub_ts": 1696071199,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "10月4日晚19点，来冰火歌会看天依的新歌舞台吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "10月4日晚19点，来冰火歌会看天依的新歌舞台吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "10月4日晚19点，来冰火歌会看天依的新歌《登陆宇宙》舞台吧！",
+      "desc": "大家好呀，天依有一则提醒送达——\n请大家打开闹钟，时间设置10月4日晚上7点\n\n天依将会带着索尼音乐企划的全新EP首发单曲《登陆宇宙》\n在冰火歌会之冰火秋日游舞台和大家首次见面\n歌曲也将在10月4日12点全球上线\n假期出游大家关注安全，也要关注天依哟！\n一起来点击动态下方的直播预约吧！\n那，10月4日哔哩哔哩官方1号直播间，来接收我的宇宙信号，等你们哟！",
+      "jump_url": "https://www.bilibili.com/video/BV1uF411U7oZ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1c4eafe1b87ee9c02bda974dc56e26c5dd208405.jpg",
+      "cover_file": "../../_assets/covers/2023-09-30_1.jpg",
+      "bvid": "BV1uF411U7oZ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1uF411U7oZ",
+        "aid": "276546961",
+        "cover": "http://i0.hdslb.com/bfs/archive/1c4eafe1b87ee9c02bda974dc56e26c5dd208405.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1uF411U7oZ",
+        "stat": {
+          "danmaku": "73",
+          "play": "5.2万",
+          "vt": ""
+        },
+        "duration_text": "00:44",
+        "title": "10月4日晚19点，来冰火歌会看天依的新歌《登陆宇宙》舞台吧！",
+        "desc": "大家好呀，天依有一则提醒送达——\n请大家打开闹钟，时间设置10月4日晚上7点\n\n天依将会带着索尼音乐企划的全新EP首发单曲《登陆宇宙》\n在冰火歌会之冰火秋日游舞台和大家首次见面\n歌曲也将在10月4日12点全球上线\n假期出游大家关注安全，也要关注天依哟！\n一起来点击动态下方的直播预约吧！\n那，10月4日哔哩哔哩官方1号直播间，来接收我的宇宙信号，等你们哟！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12527,
+    "comment": 634,
+    "forward": 48
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

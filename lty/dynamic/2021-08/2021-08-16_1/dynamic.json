@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "559451522176786482",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/559451522176786482",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月16日",
+    "pub_ts": 1629095858,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##2021虚拟歌手创作赛#\n女孩子永远喜欢闪耀可爱的事物[洛天依_打call]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": "\n女孩子永远喜欢闪耀可爱的事物"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call]",
+        "package_id": "9",
+        "emoji_id": "201",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/2ab983b2519dc241666254de8e5352fbeedc96bb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9/打call.png",
+        "package_id": "9",
+        "emoji_id": "201",
+        "text": "[洛天依_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6924,
+    "comment": 248,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 543031411231277125,
+    "orig_mid": 9347737,
+    "deleted": false,
+    "archive_dir": "../../../9347737/2021-07/2021-07-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:34:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

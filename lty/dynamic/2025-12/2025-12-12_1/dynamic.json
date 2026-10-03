@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1145380942204895241",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1145380942204895241",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月12日",
+    "pub_ts": 1765518182,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依 × 前行者】 联名定制键盘来啦！[逆转童话动态_驾到]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依 × 前行者】 联名定制键盘来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4759,
+    "comment": 335,
+    "forward": 106
+  },
+  "forward": {
+    "orig_id": 1145325249358725128,
+    "orig_mid": 3493259242375305,
+    "deleted": false,
+    "archive_dir": "../../../3493259242375305/2025-12/2025-12-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:42:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

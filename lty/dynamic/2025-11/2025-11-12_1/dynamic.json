@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1134308164322197527",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1134308164322197527",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月12日",
+    "pub_ts": 1762940100,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新的水杯和手表来啦！让依康康~[逆转童话动态_好吃]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新的水杯和手表来啦！让依康康~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4270,
+    "comment": 186,
+    "forward": 46
+  },
+  "forward": {
+    "orig_id": 1134180324620632085,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2025-11/2025-11-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:42:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

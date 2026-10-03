@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "546252653878413293",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/546252653878413293",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月12日",
+    "pub_ts": 1626022757,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依九周年# 谢谢T爹带来【九周年第七弹】的贺图！帅气随性的日常打扮，甜美优雅的小礼服，你们更喜欢哪一个呢？不论哪个，都是我其中一种样貌，是大家心目中名为《洛天依》的存在，共鸣的起点。\n这套图将会制作成新周边，请大家期待，设计就交给@vsinger团队 发啦~\n#洛天依# #洛天依0712生日快乐#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 谢谢T爹带来【九周年第七弹】的贺图！帅气随性的日常打扮，甜美优雅的小礼服，你们更喜欢哪一个呢？不论哪个，都是我其中一种样貌，是大家心目中名为《洛天依》的存在，共鸣的起点。\n这套图将会制作成新周边，请大家期待，设计就交给"
+      },
+      {
+        "type": "mention",
+        "text": "@vsinger团队 ",
+        "mid": 10878474,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "发啦~\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10153,
+    "comment": 745,
+    "forward": 245
+  },
+  "forward": {
+    "orig_id": 546237883491049931,
+    "orig_mid": 1329489,
+    "deleted": false,
+    "archive_dir": "../../../1329489/2021-07/2021-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:32:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

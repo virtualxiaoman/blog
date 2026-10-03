@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "704619660261195799",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/704619660261195799",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月11日",
+    "pub_ts": 1662895449,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 月明千里，遥寄相思，我所思念的你啊，是否也正与我共赏这一轮明月呢[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 月明千里，遥寄相思，我所思念的你啊，是否也正与我共赏这一轮明月呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6435,
+    "comment": 185,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 701258345826222184,
+    "orig_mid": 319046846,
+    "deleted": false,
+    "archive_dir": "../../../319046846/2022-09/2022-09-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

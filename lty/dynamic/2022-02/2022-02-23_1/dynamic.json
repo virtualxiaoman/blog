@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "630285140808957960",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/630285140808957960",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月23日",
+    "pub_ts": 1645588095,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我的十周年征集活动延期到7月20日结束啦[洛天依·夜航星_萌妹初醒]4月30日前投稿的作品有机会登上十周年演唱会的舞台哦[洛天依·夜航星_冲鸭]希望可以更好地帮助到老师们的创作[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我的十周年征集活动延期到7月20日结束啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": "4月30日前投稿的作品有机会登上十周年演唱会的舞台哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      },
+      {
+        "type": "text",
+        "text": "希望可以更好地帮助到老师们的创作"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      },
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5405,
+    "comment": 199,
+    "forward": 60
+  },
+  "forward": {
+    "orig_id": 630062983625572388,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2022-02/2022-02-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

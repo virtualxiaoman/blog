@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1161832131529277458",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1161832131529277458",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月25日",
+    "pub_ts": 1769348523,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@元琅先生@乔烟烟@哥哥下蛋你别吃-中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@元琅先生",
+        "mid": 180184317,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@乔烟烟",
+        "mid": 47570403,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@哥哥下蛋你别吃-",
+        "mid": 33623224,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4591,
+    "comment": 82,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 1159235162379124737,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-01-18_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:15:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

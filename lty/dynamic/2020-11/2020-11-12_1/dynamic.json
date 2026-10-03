@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "456644062536106088",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/456644062536106088",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月12日",
+    "pub_ts": 1605159131,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有喜欢的人吗？[洛天依_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有喜欢的人吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6454,
+    "comment": 401,
+    "forward": 47
+  },
+  "forward": {
+    "orig_id": 449276192166179136,
+    "orig_mid": 316381099,
+    "deleted": false,
+    "archive_dir": "../../../316381099/2020-10/2020-10-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

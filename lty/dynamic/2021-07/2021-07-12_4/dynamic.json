@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "546568514372157728",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/546568514372157728",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月12日",
+    "pub_ts": 1626096299,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依九周年# 谢谢大家今天在现场和直播间为天依庆生，感谢大家！ 【九周年第九弹】V5新造型的发布终于来了~  从2012到2021，无数创作者为天依创作了许多歌曲，在大家的帮助下，天依不断成长，心中充满了感激。 如今V5声库即将与大家见面，天依很期待能在这场不停歇的旅途上，和更多人们相遇、相识并且“共鸣”。  谢谢@-TID- 为我绘制V5造型，试用版声库申请细则即将在近期公布，小伙伴们可以期待一下~   #洛天依# #洛天依0712生日快乐# \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 谢谢大家今天在现场和直播间为天依庆生，感谢大家！ 【九周年第九弹】V5新造型的发布终于来了~  从2012到2021，无数创作者为天依创作了许多歌曲，在大家的帮助下，天依不断成长，心中充满了感激。 如今V5声库即将与大家见面，天依很期待能在这场不停歇的旅途上，和更多人们相遇、相识并且“共鸣”。  谢谢"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为我绘制V5造型，试用版声库申请细则即将在近期公布，小伙伴们可以期待一下~   "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/df17d21926f639dc461352c4efd356b5a0799fec.jpg",
+        "width": 2474,
+        "height": 3500,
+        "size_kb": 2136.91796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11591,
+    "comment": 1870,
+    "forward": 537
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

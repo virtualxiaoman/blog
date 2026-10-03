@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "753210223083126919",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/753210223083126919",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月20日",
+    "pub_ts": 1674208821,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一家人，喜团圆！欢聚一堂唱响「兔儿嗨」【Vsinger六人原创/2023虚拟歌手贺岁纪单品】",
+      "desc": "岁岁守团圆，玉兔抱桂嗨。\n天公护民乐，人间福寿来。\n【2023虚拟歌手贺岁纪——Vsinger六人曲《兔儿嗨》】\n\n制作人：iKz-茶壶\n作曲/编曲/混音：litterzy\n作词：瞳荧\n\n演唱：洛天依，言和，乐正绫，乐正龙牙，徵羽摩柯，墨清弦\n调校：郑射虎\n\n绘画：阿七、才不二、ehd钸臾\n协力：云川娘\n映像：琉璃猫映像\n\n监制：诺诺小熊猫、瞳荧、青蓝",
+      "jump_url": "https://www.bilibili.com/video/BV1zK411k7ns",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/f8629c9ee71b72aa8a47eb2e3e030334133231a2.jpg",
+      "cover_file": "../../_assets/covers/2023-01-20_1.jpg",
+      "bvid": "BV1zK411k7ns",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zK411k7ns",
+        "aid": "478110491",
+        "cover": "http://i2.hdslb.com/bfs/archive/f8629c9ee71b72aa8a47eb2e3e030334133231a2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zK411k7ns",
+        "stat": {
+          "danmaku": "991",
+          "play": "38.1万",
+          "vt": ""
+        },
+        "duration_text": "03:45",
+        "title": "一家人，喜团圆！欢聚一堂唱响「兔儿嗨」【Vsinger六人原创/2023虚拟歌手贺岁纪单品】",
+        "desc": "岁岁守团圆，玉兔抱桂嗨。\n天公护民乐，人间福寿来。\n【2023虚拟歌手贺岁纪——Vsinger六人曲《兔儿嗨》】\n\n制作人：iKz-茶壶\n作曲/编曲/混音：litterzy\n作词：瞳荧\n\n演唱：洛天依，言和，乐正绫，乐正龙牙，徵羽摩柯，墨清弦\n调校：郑射虎\n\n绘画：阿七、才不二、ehd钸臾\n协力：云川娘\n映像：琉璃猫映像\n\n监制：诺诺小熊猫、瞳荧、青蓝",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 44444,
+    "comment": 1040,
+    "forward": 14
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

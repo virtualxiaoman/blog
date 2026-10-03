@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "201020098840600685",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/201020098840600685",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年12月24日",
+    "pub_ts": 1545642039,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##Vsinger##原创曲#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "topic",
+        "text": "#原创曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E6%9B%B2"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《就这样Shining》【洛天依X雀巢咖啡丝滑拿铁】",
+      "desc": "作品类型：原创曲\n演唱：洛天依\n作词：果汁凉菜\n作曲/编曲：YUICHI NAKASE / KURIS\n调教：OQQ\n人设：TID\n\n简介补充：\n#一瓶丝滑 依起愉悦# 天依与雀巢咖啡丝滑拿铁的专属MV《就这样Shining》愉悦来袭啦！欢快的旋律搭配充满活力的歌词，点亮你一整天的愉悦心情。MV中天依不仅换上了全新定制的小洋装，还首次驾驶小机车来到了户外，享用美味的咖啡和小甜点，随着旋律欢快舞动，享受着美好的午后时光！\n丝滑入口，美妙入心！来和天依一起享受这愉悦时刻吧！ \n天依还给大家带来一个好玩的小测试",
+      "jump_url": "https://www.bilibili.com/video/BV1Ut411k7MC",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/976c2aac9c98a4a59a87b65793c9f3d7bdbe3931.jpg",
+      "cover_file": "../../_assets/covers/2018-12-24_1.jpg",
+      "bvid": "BV1Ut411k7MC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Ut411k7MC",
+        "aid": "38902133",
+        "cover": "http://i1.hdslb.com/bfs/archive/976c2aac9c98a4a59a87b65793c9f3d7bdbe3931.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Ut411k7MC",
+        "stat": {
+          "danmaku": "3052",
+          "play": "24.1万",
+          "vt": ""
+        },
+        "duration_text": "03:22",
+        "title": "《就这样Shining》【洛天依X雀巢咖啡丝滑拿铁】",
+        "desc": "作品类型：原创曲\n演唱：洛天依\n作词：果汁凉菜\n作曲/编曲：YUICHI NAKASE / KURIS\n调教：OQQ\n人设：TID\n\n简介补充：\n#一瓶丝滑 依起愉悦# 天依与雀巢咖啡丝滑拿铁的专属MV《就这样Shining》愉悦来袭啦！欢快的旋律搭配充满活力的歌词，点亮你一整天的愉悦心情。MV中天依不仅换上了全新定制的小洋装，还首次驾驶小机车来到了户外，享用美味的咖啡和小甜点，随着旋律欢快舞动，享受着美好的午后时光！\n丝滑入口，美妙入心！来和天依一起享受这愉悦时刻吧！ \n天依还给大家带来一个好玩的小测试",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18164,
+    "comment": 3619,
+    "forward": 135
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

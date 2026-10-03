@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "812893006823686244",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/812893006823686244",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月30日",
+    "pub_ts": 1688104802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@lz0423@和泉逐風中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@lz0423",
+        "mid": 23136181,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@和泉逐風",
+        "mid": 650445708,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3588,
+    "comment": 48,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 779971266684649475,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-04/2023-04-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:54:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

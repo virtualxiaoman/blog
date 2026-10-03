@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "986964887431282739",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/986964887431282739",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月11日",
+    "pub_ts": 1728634070,
+    "location": ""
+  },
+  "topic": {
+    "id": 1167972,
+    "name": "资讯直通车",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1167972&topic_name=%E8%B5%84%E8%AE%AF%E7%9B%B4%E9%80%9A%E8%BD%A6"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《夜线约见》对话洛天依：虚拟新“声”的现实回响",
+      "desc": "《夜线约见》对话中国首位虚拟歌手洛天依：从二次元走到三次元，需要哪些科技狠活？",
+      "jump_url": "https://www.bilibili.com/video/BV1rJ2VY8EEE",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f4b963559be2e8990d9d2dd5603d56ece8246ba2.jpg",
+      "cover_file": "../../_assets/covers/2024-10-11_1.jpg",
+      "bvid": "BV1rJ2VY8EEE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1rJ2VY8EEE",
+        "aid": "113283570866181",
+        "cover": "http://i0.hdslb.com/bfs/archive/f4b963559be2e8990d9d2dd5603d56ece8246ba2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1rJ2VY8EEE",
+        "stat": {
+          "danmaku": "264",
+          "play": "25.4万",
+          "vt": ""
+        },
+        "duration_text": "10:13",
+        "title": "《夜线约见》对话洛天依：虚拟新“声”的现实回响",
+        "desc": "《夜线约见》对话中国首位虚拟歌手洛天依：从二次元走到三次元，需要哪些科技狠活？",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19152,
+    "comment": 705,
+    "forward": 22
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "id": "993288080028860441",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/993288080028860441",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月28日",
+    "pub_ts": 1730106303,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "🎵#洛天依海洋之心#轻故事集角色四「洛天依·灯塔水母」公开🎵\n深海守卫寒光闪烁的甲胄，如同极地洋面上终年不化的冰川。\n而冰川之下，同样会有无数暗流蛰伏，等待着在恰当的时刻迸发光芒。[洛·LUO_神秘]\n\n“其实深海并不像大家所想象的那样沉闷甚至恐怖，这里只是相对更加安静。”\n“但我们所背负的记忆和遗产，确实会让人偶尔感受到压力。”\n“如果可以，我还是希望这些沉眠的事物，能有机会再度焕发生机。”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎵"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依海洋之心#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+      },
+      {
+        "type": "text",
+        "text": "轻故事集角色四「洛天依·灯塔水母」公开🎵\n深海守卫寒光闪烁的甲胄，如同极地洋面上终年不化的冰川。\n而冰川之下，同样会有无数暗流蛰伏，等待着在恰当的时刻迸发光芒。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_神秘]",
+        "package_id": "4400",
+        "emoji_id": "62228",
+        "name": "神秘",
+        "url": "https://i0.hdslb.com/bfs/emote/c72db1deec4418e6884fc499855215e6b442b91c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“其实深海并不像大家所想象的那样沉闷甚至恐怖，这里只是相对更加安静。”\n“但我们所背负的记忆和遗产，确实会让人偶尔感受到压力。”\n“如果可以，我还是希望这些沉眠的事物，能有机会再度焕发生机。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-28_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8dd2ff83fe9f27606cc5bb494bf755a836081646.jpg",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 3760.7080078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b238338e4710762a508a7570621dbc9a36081646.jpg",
+        "width": 4320,
+        "height": 2430,
+        "size_kb": 3025.56640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-28_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5f6359dcdc79353b593c383c21299d836081646.jpg",
+        "width": 9975,
+        "height": 4409,
+        "size_kb": 2816.30078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/神秘.png",
+        "package_id": "4400",
+        "emoji_id": "62228",
+        "text": "[洛·LUO_神秘]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5980,
+    "comment": 260,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

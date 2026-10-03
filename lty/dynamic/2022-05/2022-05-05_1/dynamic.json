@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "656622009059377190",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/656622009059377190",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月5日",
+    "pub_ts": 1651720125,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  春意藏，夏初长 趁立夏好风光，感受溪水的清凉~ 夏天到啦，一起迎接美好的夏天吧！[洛天依·夜航星_萌妹初醒]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  春意藏，夏初长 趁立夏好风光，感受溪水的清凉~ 夏天到啦，一起迎接美好的夏天吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-05_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7b65e52ba8a578a93937d41dd6a30ef2b920b329.jpg",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 1363.8599853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9869,
+    "comment": 269,
+    "forward": 121
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:46:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

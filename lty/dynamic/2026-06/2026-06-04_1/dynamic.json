@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1209925526098018304",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1209925526098018304",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月4日",
+    "pub_ts": 1780546139,
+    "location": ""
+  },
+  "topic": {
+    "id": 1336877,
+    "name": "闪耀的画师",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1336877&topic_name=%E9%97%AA%E8%80%80%E7%9A%84%E7%94%BB%E5%B8%88"
+  },
+  "content": {
+    "title": "",
+    "text": "✨洛天依服装&插画设计大赛「闪耀的画师」征稿结束\n从古到今，从东到西，从摩登朋克到未来幻想\n天依看到了每位闪耀的画师，透过自己的创作绽放的才华和真挚热爱\n很荣幸可以通过自己，通过这片舞台，看到老师们闪闪发亮的创作~\n天依再次感谢每一位参与投稿的画师老师！[洛天依·人格镜像 动态表情包_卖萌]\n\n那么，在综合数据、创意、质量之后，以下入选投稿作品将正式参与第二轮投票环节\n6月4日-6月18日，每人每天都将获得3张投票，来为你喜欢的作品投上珍贵的一票吧！\n最终将从双赛道TOP13中沟通作者意向和综合票数，选出8位闪耀画师绘制新作并收录，敬请期待~[洛天依·人格镜像 动态表情包_温暖]\n\n🎨投票入口：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "✨洛天依服装&插画设计大赛「闪耀的画师」征稿结束\n从古到今，从东到西，从摩登朋克到未来幻想\n天依看到了每位闪耀的画师，透过自己的创作绽放的才华和真挚热爱\n很荣幸可以通过自己，通过这片舞台，看到老师们闪闪发亮的创作~\n天依再次感谢每一位参与投稿的画师老师！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "name": "卖萌",
+        "url": "https://i0.hdslb.com/bfs/garb/223de3fef7dd1695c542dfbd9c9c1eea377d2b46.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n那么，在综合数据、创意、质量之后，以下入选投稿作品将正式参与第二轮投票环节\n6月4日-6月18日，每人每天都将获得3张投票，来为你喜欢的作品投上珍贵的一票吧！\n最终将从双赛道TOP13中沟通作者意向和综合票数，选出8位闪耀画师绘制新作并收录，敬请期待~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_温暖]",
+        "package_id": "9834",
+        "emoji_id": "138855",
+        "name": "温暖",
+        "url": "https://i0.hdslb.com/bfs/garb/20c7316969e9748347da6aca0e6ebbafae14eed7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎨投票入口："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/sMLie9Kt7U0Ygrko.html?spm_id_from=333.337.0.0"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-04_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b74fe437573e8866d25eeeb94df1217836081646.jpg",
+        "width": 1080,
+        "height": 2380,
+        "size_kb": 1575.4189453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/卖萌.gif",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]"
+      },
+      {
+        "file": "../../_assets/emojis/9834/温暖.gif",
+        "package_id": "9834",
+        "emoji_id": "138855",
+        "text": "[洛天依·人格镜像 动态表情包_温暖]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4974,
+    "comment": 127,
+    "forward": 97
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

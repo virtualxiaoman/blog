@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1038853104623157286",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1038853104623157286",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月28日",
+    "pub_ts": 1740715237,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "生来妖身，宿命难违又如何\n本不在我，又从何酿成灾祸\n今我来，掀天倒海灌金山——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "生来妖身，宿命难违又如何\n本不在我，又从何酿成灾祸\n今我来，掀天倒海灌金山——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“定教这凡规俗矩 尽为骇浪冲淹！”洛天依原创曲《倒瞰清白》【歌行川剧篇·白蛇传】",
+      "desc": "生来妖身，宿命难违又如何\n本不在我，又从何酿成灾祸\n今我来，掀天倒海灌金山——\n\n以川剧《白蛇传》中《水漫金山》这一折戏为灵感，为大家带来【天依游学记·歌行戏曲季】川剧篇原创单曲《倒瞰清白》\n演唱：洛天依\n作曲：郑子文ZIIN@TAP MUSIC\n作词：果汁凉菜\n调教：Creuzer\n编曲：郑子文ZIIN@TAP MUSIC\n混音：吴彭\n和声：王乙钧@TAP MUSIC\n画师：清明跳河图、隔夜瓜瓜、Eee\nPV：YH_Studio\n音乐监制：林星捷/TENKO\n出品：Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1Xg9cYYEVJ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/3d8ef49c037abf0319fc4ad1a27febdd8fd97324.jpg",
+      "cover_file": "../../_assets/covers/2025-02-28_1.jpg",
+      "bvid": "BV1Xg9cYYEVJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Xg9cYYEVJ",
+        "aid": "114075187022250",
+        "cover": "http://i1.hdslb.com/bfs/archive/3d8ef49c037abf0319fc4ad1a27febdd8fd97324.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Xg9cYYEVJ",
+        "stat": {
+          "danmaku": "5958",
+          "play": "101.2万",
+          "vt": ""
+        },
+        "duration_text": "03:23",
+        "title": "“定教这凡规俗矩 尽为骇浪冲淹！”洛天依原创曲《倒瞰清白》【歌行川剧篇·白蛇传】",
+        "desc": "生来妖身，宿命难违又如何\n本不在我，又从何酿成灾祸\n今我来，掀天倒海灌金山——\n\n以川剧《白蛇传》中《水漫金山》这一折戏为灵感，为大家带来【天依游学记·歌行戏曲季】川剧篇原创单曲《倒瞰清白》\n演唱：洛天依\n作曲：郑子文ZIIN@TAP MUSIC\n作词：果汁凉菜\n调教：Creuzer\n编曲：郑子文ZIIN@TAP MUSIC\n混音：吴彭\n和声：王乙钧@TAP MUSIC\n画师：清明跳河图、隔夜瓜瓜、Eee\nPV：YH_Studio\n音乐监制：林星捷/TENKO\n出品：Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 50282,
+    "comment": 3680,
+    "forward": 573
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

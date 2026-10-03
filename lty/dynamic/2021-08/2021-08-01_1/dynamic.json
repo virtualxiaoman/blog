@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "553978204827432331",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/553978204827432331",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月1日",
+    "pub_ts": 1627821502,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##2021虚拟歌手创作赛#\n一颗星、两颗星……数也数不完",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": "\n一颗星、两颗星……数也数不完"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6345,
+    "comment": 216,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 0,
+    "orig_mid": 0,
+    "deleted": false,
+    "archive_dir": "../../../0/2026-10/2026-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:33:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "id": "672954872177360914",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/672954872177360914",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月18日",
+    "pub_ts": 1655522916,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "☆ 洛天依10周年生日会  直播预约开启 ☆ 笔尖随着思绪不自觉地划动，灵感悄然跃于一张张草稿纸上。画面中的女孩就这样诞生、成长、歌唱，渐渐变得鲜活，渐渐好像真的拥有了生命。也许彼时的创作稍显青涩，却陪伴我走过了最初的那段弥足珍贵的时光。当我回望过去，想起那些熟悉的画面，一瞬间总会有很多话想说，又会觉得不知如何说起，在即将到来的生日会直播间，我想将这些话都一一说予你听。 我的10周年生日会开启预约啦网页链接，预约直播即可参与抽奖！准备了很多礼物给大家～感谢@ideolo四代目 为我绘制的10周年生日贺图，本次生日会直播将在微博和B站双平台进行，届时还将提前开启预热直播，与大家共度超长时间庆生狂欢夜！我们约定好，大家一定要来哦！！！[洛天依_捏捏] #洛天依# #洛天依生日演唱会双平台直播官宣# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "☆ 洛天依10周年生日会  直播预约开启 ☆ 笔尖随着思绪不自觉地划动，灵感悄然跃于一张张草稿纸上。画面中的女孩就这样诞生、成长、歌唱，渐渐变得鲜活，渐渐好像真的拥有了生命。也许彼时的创作稍显青涩，却陪伴我走过了最初的那段弥足珍贵的时光。当我回望过去，想起那些熟悉的画面，一瞬间总会有很多话想说，又会觉得不知如何说起，在即将到来的生日会直播间，我想将这些话都一一说予你听。 我的10周年生日会开启预约啦"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/blackboard/activity-LTY10th0712.html"
+      },
+      {
+        "type": "text",
+        "text": "，预约直播即可参与抽奖！准备了很多礼物给大家～感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@ideolo四代目 ",
+        "mid": 163571,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为我绘制的10周年生日贺图，本次生日会直播将在微博和B站双平台进行，届时还将提前开启预热直播，与大家共度超长时间庆生狂欢夜！我们约定好，大家一定要来哦！！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依生日演唱会双平台直播官宣#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%8C%E5%B9%B3%E5%8F%B0%E7%9B%B4%E6%92%AD%E5%AE%98%E5%AE%A3"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-18_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/27ec6c2aa7829788530e8f2426ca56b2d9b7332c.jpg",
+        "width": 4800,
+        "height": 3600,
+        "size_kb": 815.719970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-06-18_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/6beb8bda8da17bdaa4daf07a1dc6e81c8d3fca96.jpg",
+        "width": 4000,
+        "height": 3000,
+        "size_kb": 956.5599975585938,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依 10周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依 10周年生日会",
+        "desc1": {
+          "text": "2022-07-12 17:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Apple ipad pro 11英寸*1份、洛天依甜点款拍立得*3份、十周年线下展门票*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=728756&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 728756,
+        "reserve_total": 263821,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13921,
+    "comment": 2763,
+    "forward": 2362
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:48:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "647478513350213632",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/647478513350213632",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月10日",
+    "pub_ts": 1649591239,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 喵喵喵，我的主人在哪里~[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 喵喵喵，我的主人在哪里~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7299,
+    "comment": 401,
+    "forward": 58
+  },
+  "forward": {
+    "orig_id": 646693354700013665,
+    "orig_mid": 395966898,
+    "deleted": false,
+    "archive_dir": "../../../395966898/2022-04/2022-04-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:44:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "695614960577806409",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/695614960577806409",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月18日",
+    "pub_ts": 1660798879,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "星期四吃点什么~ 炸鸡配可乐~ 汉堡配可乐~  大家！吃了么！吃了什么呀！[洛天依_干饭] 建议配合bgm食用《大吉》洛天依 原创《大吉》 还有个好厉害的手书版也想推荐给你们[洛天依]~洛天依10周年！《大吉》！【PV】【ilem】可能是全网最迟的翻制？ #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "星期四吃点什么~ 炸鸡配可乐~ 汉堡配可乐~  大家！吃了么！吃了什么呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_干饭]",
+        "package_id": "340",
+        "emoji_id": "5573",
+        "name": "干饭",
+        "url": "http://i0.hdslb.com/bfs/emote/78bde0ab6c24e58e93758f7d7953b9ee287597e2.png"
+      },
+      {
+        "type": "text",
+        "text": " 建议配合bgm食用《大吉》"
+      },
+      {
+        "type": "video",
+        "text": "洛天依 原创《大吉》",
+        "url": "https://www.bilibili.com/video/BV1za411X7BJ",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " 还有个好厉害的手书版也想推荐给你们"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依]",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "name": "洛天依",
+        "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
+      },
+      {
+        "type": "text",
+        "text": "~"
+      },
+      {
+        "type": "video",
+        "text": "洛天依10周年！《大吉》！【PV】【ilem】可能是全网最迟的翻制？",
+        "url": "https://www.bilibili.com/video/BV1sZ4y1Y7TH",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-18_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/430b22556f8dcd8d7b46ae2b697e3fc536081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 92.7626953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/干饭.png",
+        "package_id": "340",
+        "emoji_id": "5573",
+        "text": "[洛天依_干饭]"
+      },
+      {
+        "file": "../../_assets/emojis/1/洛天依.png",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "text": "[洛天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11719,
+    "comment": 694,
+    "forward": 104
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

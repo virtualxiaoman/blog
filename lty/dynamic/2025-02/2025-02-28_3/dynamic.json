@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1038958610497929221",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1038958610497929221",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月28日",
+    "pub_ts": 1740739802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@陆布平中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@陆布平",
+        "mid": 1055562461,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3672,
+    "comment": 72,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1024857846312861715,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-01/2025-01-21_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:27:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

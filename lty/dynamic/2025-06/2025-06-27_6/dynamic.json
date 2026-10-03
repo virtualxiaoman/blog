@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1083095794662244374",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1083095794662244374",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月27日",
+    "pub_ts": 1751016291,
+    "location": ""
+  },
+  "topic": {
+    "id": 1312840,
+    "name": "BILIBILI16周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1312840&topic_name=BILIBILI16%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "很高兴和@正直少年李发卡 李艺彤老师在周年庆的舞台上\n一起表演了@阿良良木健 阿良良老师的《CONNECT~心的连接~》 \n16周年快乐！哔哩哔哩 (゜-゜)つロ 干杯~ [洛天依-潮声回响_舞蹈中]\n全程回顾戳>>网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴和"
+      },
+      {
+        "type": "mention",
+        "text": "@正直少年李发卡",
+        "mid": 49922172,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 李艺彤老师在周年庆的舞台上\n一起表演了"
+      },
+      {
+        "type": "mention",
+        "text": "@阿良良木健",
+        "mid": 112428,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 阿良良老师的《CONNECT~心的连接~》 \n16周年快乐！哔哩哔哩 (゜-゜)つロ 干杯~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n全程回顾戳>>"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/anniversary-16"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-27_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4a17c3b4e33731a62ee25d7fdd380ea636081646.png",
+        "width": 5120,
+        "height": 3412,
+        "size_kb": 17322.0546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-27_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/279e596f4c5f5649feacf2210e6fed0236081646.png",
+        "width": 3412,
+        "height": 5120,
+        "size_kb": 16335.6142578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4241,
+    "comment": 82,
+    "forward": 23
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

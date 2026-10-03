@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1025218937062686736",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1025218937062686736",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月22日",
+    "pub_ts": 1737540785,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪3位小伙伴送出【洛天依随机徽章3款】1份~\n\n大家是不是看天依最近官宣了好多节目舞台有点看花眼啦？[洛天依·戏游九州动态_呆滞]\n天依为大家准备了一份「洛天依·新春纪」春节观演节目单，欢迎大家来看小洛和老师们的精彩作品呀~[洛天依·戏游九州动态_登场]\n就让天依一直陪伴大家，度过这个充实感满满的新年吧！ [洛天依·戏游九州动态_撒花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪3位小伙伴送出【洛天依随机徽章3款】1份~\n\n大家是不是看天依最近官宣了好多节目舞台有点看花眼啦？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_呆滞]",
+        "package_id": "7318",
+        "emoji_id": "98463",
+        "name": "呆滞",
+        "url": "https://i0.hdslb.com/bfs/garb/6424b104fd66bb8fcc5c1f7f19aad182533dc45e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依为大家准备了一份「洛天依·新春纪」春节观演节目单，欢迎大家来看小洛和老师们的精彩作品呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_登场]",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b0e9b1358e9f604183a513a855ee7cbbafcedeaf.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n就让天依一直陪伴大家，度过这个充实感满满的新年吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2864873793a480da12dcd5d39231a15e36081646.jpg",
+        "width": 1280,
+        "height": 8000,
+        "size_kb": 2528.0478515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/呆滞.gif",
+        "package_id": "7318",
+        "emoji_id": "98463",
+        "text": "[洛天依·戏游九州动态_呆滞]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/登场.gif",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "text": "[洛天依·戏游九州动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5732,
+    "comment": 1365,
+    "forward": 3389
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

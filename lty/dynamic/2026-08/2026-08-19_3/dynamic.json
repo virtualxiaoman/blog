@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1238159502930345989",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1238159502930345989",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月19日",
+    "pub_ts": 1787119874,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "如你万里远渡，予我一方归处。\n爱会跨越星海，引我们于梦的尽头重逢。\n七夕快乐大家[洛天依·人格镜像 动态表情包_卖萌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如你万里远渡，予我一方归处。\n爱会跨越星海，引我们于梦的尽头重逢。\n七夕快乐大家"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "name": "卖萌",
+        "url": "https://i0.hdslb.com/bfs/garb/223de3fef7dd1695c542dfbd9c9c1eea377d2b46.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-19_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5f521e1acb1e2f7365374aa36fa9ae636081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 7418.35986328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/卖萌.gif",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8089,
+    "comment": 761,
+    "forward": 196
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

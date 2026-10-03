@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "527209232745081630",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/527209232745081630",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月21日",
+    "pub_ts": 1621588865,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #Vsinger#  ​互动抽奖 从2017年的首场演唱会到2021年的春晚，我们一起见证了各种各样的舞台。 谢谢你们这些年的陪伴，无论是安抚心灵的旋律，还是振奋精神的乐章，天依都会继续为你们唱下去，永永远远。 也谢谢@贝贝web 绘制的贺图[洛天依_耶]  小伙伴们可以分享你们印象深刻的舞台片段，天依会送出15张521日明信片和1个定制拍立得哦[洛天依_爱你] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "62640",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 从2017年的首场演唱会到2021年的春晚，我们一起见证了各种各样的舞台。 谢谢你们这些年的陪伴，无论是安抚心灵的旋律，还是振奋精神的乐章，天依都会继续为你们唱下去，永永远远。 也谢谢"
+      },
+      {
+        "type": "mention",
+        "text": "@贝贝web ",
+        "mid": 18070579,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "绘制的贺图"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "  小伙伴们可以分享你们印象深刻的舞台片段，天依会送出15张521日明信片和1个定制拍立得哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-05-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3e4ced049a2aeff0d461a93f1990a620e872a195.jpg",
+        "width": 1039,
+        "height": 1600,
+        "size_kb": 1283.7275390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-05-21_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9f76b9d248ea046aadf40c2b50b19fea022234a2.jpg",
+        "width": 1059,
+        "height": 1600,
+        "size_kb": 1220.365234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "62640"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9698,
+    "comment": 1782,
+    "forward": 6413
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:30:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

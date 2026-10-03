@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1235254597508923395",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1235254597508923395",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月11日",
+    "pub_ts": 1786443523,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·长沙站\n特别邀请到的演出伙伴是——\n我们Vsinger最可靠的大哥@乐正龙牙 龙牙哥！[蛇来运转表情包_宽阔]\n\n一起期待我们首次在无限共鸣的舞台上，即将为大家带来的演出吧！[蛇来运转表情包_洛天依-]\n\n ❀演出时间&场地\n8月22日19:12  湖南贺龙体育馆\n ❀二次开票时间\n8月16日 19:00\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·长沙站\n特别邀请到的演出伙伴是——\n我们Vsinger最可靠的大哥"
+      },
+      {
+        "type": "mention",
+        "text": "@乐正龙牙",
+        "mid": 406948857,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 龙牙哥！"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_宽阔]",
+        "package_id": "7562",
+        "emoji_id": "102494",
+        "name": "宽阔",
+        "url": "https://i0.hdslb.com/bfs/emote/b6ba5638540f631ad98e4eab5bf5fe3d401252e6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n一起期待我们首次在无限共鸣的舞台上，即将为大家带来的演出吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n ❀演出时间&场地\n8月22日19:12  湖南贺龙体育馆\n ❀二次开票时间\n8月16日 19:00\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dc3e00f03427952d1c663580dc6e722236081646.jpg",
+        "width": 2000,
+        "height": 3557,
+        "size_kb": 3635.29296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/宽阔.png",
+        "package_id": "7562",
+        "emoji_id": "102494",
+        "text": "[蛇来运转表情包_宽阔]"
+      },
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "长沙·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202607/9izSPLUA1783071853_1783071853598.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket-renovation/detail.html?id=1003447&noTitleBar=1&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1235254597508923395",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-08-11_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6759,
+    "comment": 986,
+    "forward": 232
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

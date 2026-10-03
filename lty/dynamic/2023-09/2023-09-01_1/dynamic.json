@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "836085825958576128",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/836085825958576128",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月1日",
+    "pub_ts": 1693504801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@icy_lake中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@icy_lake",
+        "mid": 31588686,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3957,
+    "comment": 74,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 815206714320093186,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-07/2023-07-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:57:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

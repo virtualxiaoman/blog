@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "750142435318825017",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/750142435318825017",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月12日",
+    "pub_ts": 1673494546,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依有师傅了#\n2023年1月14日，2023《欢乐春节 和合共生》音乐会\n听我引吭高歌，共度一段欢乐时光！1月14日20:10 , @河南卫视 全网播出\n#欢乐春节音乐会官宣定档# #2023欢乐春节音乐会#\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依有师傅了#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%9C%89%E5%B8%88%E5%82%85%E4%BA%86"
+      },
+      {
+        "type": "text",
+        "text": "\n2023年1月14日，2023《欢乐春节 和合共生》音乐会\n听我引吭高歌，共度一段欢乐时光！1月14日20:10 , "
+      },
+      {
+        "type": "mention",
+        "text": "@河南卫视",
+        "mid": 2057655323,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 全网播出\n"
+      },
+      {
+        "type": "topic",
+        "text": "#欢乐春节音乐会官宣定档#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E4%B9%90%E6%98%A5%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2023欢乐春节音乐会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%AC%A2%E4%B9%90%E6%98%A5%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/16c86138ca2f8073b275ebe9c8f5718c36081646.jpg",
+        "width": 3000,
+        "height": 5333,
+        "size_kb": 2449.7490234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8554,
+    "comment": 343,
+    "forward": 122
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

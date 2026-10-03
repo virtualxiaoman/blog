@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1220351748128899080",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1220351748128899080",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月2日",
+    "pub_ts": 1782973683,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@悠远の苍穹゚中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@悠远の苍穹゚",
+        "mid": 483584367,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3188,
+    "comment": 44,
+    "forward": 11
+  },
+  "forward": {
+    "orig_id": 1219238763246387235,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-06/2026-06-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:26:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "1140623630290386946",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1140623630290386946",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月29日",
+    "pub_ts": 1764410534,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依完美劲敌#\n当「世界之脑」于高维崩解，真理的经纬开始分崩离析\n逻辑与直觉相斥相生，秩序与混沌彼此铭文\n我们是最矛盾的敌人，我们是最相配的伙伴，我们是最完美的宿敌[逆转童话动态_缘分]\n\n洛天依全新轻故事主题企划「人格镜像」第一季「完美劲敌」即将启幕！\n和天依一起，解锁新的故事篇章吧～[逆转童话动态_吃书]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依完美劲敌#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%AE%8C%E7%BE%8E%E5%8A%B2%E6%95%8C"
+      },
+      {
+        "type": "text",
+        "text": "\n当「世界之脑」于高维崩解，真理的经纬开始分崩离析\n逻辑与直觉相斥相生，秩序与混沌彼此铭文\n我们是最矛盾的敌人，我们是最相配的伙伴，我们是最完美的宿敌"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_缘分]",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "name": "缘分",
+        "url": "https://i0.hdslb.com/bfs/garb/dcef60a4f5d14c1a82a2aa9d1a8cfe6428989791.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n洛天依全新轻故事主题企划「人格镜像」第一季「完美劲敌」即将启幕！\n和天依一起，解锁新的故事篇章吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6db617c33f548fdbc461f6b8a9efb5dd36081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2135.659912109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/缘分.gif",
+        "package_id": "8744",
+        "emoji_id": "121362",
+        "text": "[逆转童话动态_缘分]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6016,
+    "comment": 386,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

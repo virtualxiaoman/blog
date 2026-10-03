@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "677527320005705728",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/677527320005705728",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月30日",
+    "pub_ts": 1656587522,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@可可罗ぃ @喵Sunny @AsariYuuki 中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@可可罗ぃ",
+        "mid": 1154946134,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@喵Sunny",
+        "mid": 333189754,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@AsariYuuki",
+        "mid": 353015269,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5982,
+    "comment": 139,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 662591670030696467,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2022-05/2022-05-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:48:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

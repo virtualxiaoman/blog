@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1118327054922678292",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1118327054922678292",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月30日",
+    "pub_ts": 1759219208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一起合唱《上山岗》吧！【洛天依演唱会大合唱】",
+      "desc": "请同我大声唱\n唱风霜 唱春光\n唱悲伤 唱希望\n想起来 想起来 还有天高山水长\n你是翅膀也是我肩膀\n\n作词/作曲/编曲/调教：ilem",
+      "jump_url": "https://www.bilibili.com/video/BV1zsnBzGEzC",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/ee904d4d03b39375396230977b53f07578b878b2.jpg",
+      "cover_file": "../../_assets/covers/2025-09-30_1.jpg",
+      "bvid": "BV1zsnBzGEzC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zsnBzGEzC",
+        "aid": "115286703341893",
+        "cover": "http://i2.hdslb.com/bfs/archive/ee904d4d03b39375396230977b53f07578b878b2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zsnBzGEzC",
+        "stat": {
+          "danmaku": "735",
+          "play": "24.7万",
+          "vt": ""
+        },
+        "duration_text": "04:36",
+        "title": "一起合唱《上山岗》吧！【洛天依演唱会大合唱】",
+        "desc": "请同我大声唱\n唱风霜 唱春光\n唱悲伤 唱希望\n想起来 想起来 还有天高山水长\n你是翅膀也是我肩膀\n\n作词/作曲/编曲/调教：ilem",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23842,
+    "comment": 1906,
+    "forward": 2593
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

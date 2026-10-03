@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "1084945533959667750",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1084945533959667750",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月2日",
+    "pub_ts": 1751446967,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「夏感交响」线下主题快闪店 活动即将开启啦！[洛天依-潮声回响_摸摸头]\n转发关注天依，揪2位小伙伴获得【特典小卡（全5种）】随机一枚！\n\n【活动日期】\n2025年7月5日（周六）~ 7月24日（周四）\n\n【活动店铺】animate上海五角场店 & 成都店OS区域\n（※animate上海旗舰店、广州店、北京店同步应援展开）\n【店铺地址】\n上海五角场店：上海市杨浦区四平路2500号百联zx造趣场L1 \n成都店：成都市锦江区东御街18号1栋天府红购物中心-负1层1号B1005\n【商品情报】\n徽章、亚克力立牌、流沙摆件、亚克力挂件、Q版立牌挂件、文件夹等\n\n【特典情报】\n・活动期间，购买洛天依「夏感交响」活动商品，实付每满100元，即可随机获得【特典小卡（全5种）】一枚\n\n※商品及特典情况请以各店实际情况为准~\n\n炎炎夏日，就让天依与你共谱清凉夏日乐章！\n还有快闪限定商品登场，一起来邂逅这场梦幻盛宴吧✨@Miaoyi_official \n#洛天依十三周年# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「夏感交响」线下主题快闪店 活动即将开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪2位小伙伴获得【特典小卡（全5种）】随机一枚！\n\n【活动日期】\n2025年7月5日（周六）~ 7月24日（周四）\n\n【活动店铺】animate上海五角场店 & 成都店OS区域\n（※animate上海旗舰店、广州店、北京店同步应援展开）\n【店铺地址】\n上海五角场店：上海市杨浦区四平路2500号百联zx造趣场L1 \n成都店：成都市锦江区东御街18号1栋天府红购物中心-负1层1号B1005\n【商品情报】\n徽章、亚克力立牌、流沙摆件、亚克力挂件、Q版立牌挂件、文件夹等\n\n【特典情报】\n・活动期间，购买洛天依「夏感交响」活动商品，实付每满100元，即可随机获得【特典小卡（全5种）】一枚\n\n※商品及特典情况请以各店实际情况为准~\n\n炎炎夏日，就让天依与你共谱清凉夏日乐章！\n还有快闪限定商品登场，一起来邂逅这场梦幻盛宴吧✨"
+      },
+      {
+        "type": "mention",
+        "text": "@Miaoyi_official",
+        "mid": 3546373089658902,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-02_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c5bb34d697ab897711eac9f6c514020f36081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 5223.673828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-02_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/01f5e8a8b623f6ddc025ee1924367cb536081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3951.013671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-02_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bb9655902ae464b06887054e483e549436081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 3411.6708984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-02_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f6811a0be546ab4a8f7e97c0ab97a91a36081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 2332.5537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-02_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d59ddc2a77305977312f56d7ea3927fb36081646.jpg",
+        "width": 2480,
+        "height": 3508,
+        "size_kb": 2391.126953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5867,
+    "comment": 1409,
+    "forward": 3125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1180746948469063684",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1180746948469063684",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月17日",
+    "pub_ts": 1773752472,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【现场回顾】中旅×洛天依 「春日银河」音乐派对",
+      "desc": "中旅×洛天依 「春日银河」音乐派对 圆满结束啦！\n和大家一起度过了非常快乐的两夜，感谢大家的到来。\n约定好，我们，下次再见吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1bCwRzbEqz",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/40141e8e74f5dae917be91b52eae6f9d80dc6da3.jpg",
+      "cover_file": "../../_assets/covers/2026-03-17_1.jpg",
+      "bvid": "BV1bCwRzbEqz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1bCwRzbEqz",
+        "aid": "116244632046597",
+        "cover": "http://i0.hdslb.com/bfs/archive/40141e8e74f5dae917be91b52eae6f9d80dc6da3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1bCwRzbEqz",
+        "stat": {
+          "danmaku": "40",
+          "play": "5.9万",
+          "vt": ""
+        },
+        "duration_text": "01:01",
+        "title": "【现场回顾】中旅×洛天依 「春日银河」音乐派对",
+        "desc": "中旅×洛天依 「春日银河」音乐派对 圆满结束啦！\n和大家一起度过了非常快乐的两夜，感谢大家的到来。\n约定好，我们，下次再见吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14509,
+    "comment": 643,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "755054847114346513",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/755054847114346513",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月25日",
+    "pub_ts": 1674638306,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "福神到！让本天官保你吉星高照[洛天依·夜航星_锦鲤]虽说某神抢本神日程，但还是要祝福大家，身体健康、好运连连、赚大钱！[洛天依·夜航星_转运]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "福神到！让本天官保你吉星高照"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": "虽说某神抢本神日程，但还是要祝福大家，身体健康、好运连连、赚大钱！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_转运]",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "name": "转运",
+        "url": "http://i0.hdslb.com/bfs/emote/2513203daab74688cea2c9a595e051f53fbcaa94.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      },
+      {
+        "file": "../../_assets/emojis/166/转运.png",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "text": "[洛天依·夜航星_转运]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9097,
+    "comment": 193,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 754230629994856601,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2023-01/2023-01-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

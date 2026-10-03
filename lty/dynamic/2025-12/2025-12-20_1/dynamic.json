@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1148323218148294665",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1148323218148294665",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月20日",
+    "pub_ts": 1766203234,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新的一年到来之际，一起分享你创作过的不同“味道”的天依吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新的一年到来之际，一起分享你创作过的不同“味道”的天依吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依邀你共赴跨年美食盛宴！",
+      "desc": "大家都猜到啦！天依在今年@哔哩哔哩晚会  上即将演出的歌曲——\n就是《千年食谱颂》啦！熟悉的旋律响起，是你和天依满满的回忆吗？\n对天依来说，大家创作的各种风格的天依，就是属于我的“依生百味”啦！\n \n🥟新的一年到来之际，一起分享你创作过的不同“味道”的天依吧~\n即日起-1月20日，在bilibili带#你创作的天依#活动话题分享你创作或喜欢的的天依内容，有机会获得天依的小礼物哦！",
+      "jump_url": "https://www.bilibili.com/video/BV15ABcB9Eir",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d8f7730c5c8e09bd102c1048bd506283a9e61e42.jpg",
+      "cover_file": "../../_assets/covers/2025-12-20_1.jpg",
+      "bvid": "BV15ABcB9Eir",
+      "extra": {
+        "type": 1,
+        "bvid": "BV15ABcB9Eir",
+        "aid": "115746298398309",
+        "cover": "http://i2.hdslb.com/bfs/archive/d8f7730c5c8e09bd102c1048bd506283a9e61e42.jpg",
+        "jump_url": "//www.bilibili.com/video/BV15ABcB9Eir",
+        "stat": {
+          "danmaku": "298",
+          "play": "16.1万",
+          "vt": ""
+        },
+        "duration_text": "01:44",
+        "title": "天依邀你共赴跨年美食盛宴！",
+        "desc": "大家都猜到啦！天依在今年@哔哩哔哩晚会  上即将演出的歌曲——\n就是《千年食谱颂》啦！熟悉的旋律响起，是你和天依满满的回忆吗？\n对天依来说，大家创作的各种风格的天依，就是属于我的“依生百味”啦！\n \n🥟新的一年到来之际，一起分享你创作过的不同“味道”的天依吧~\n即日起-1月20日，在bilibili带#你创作的天依#活动话题分享你创作或喜欢的的天依内容，有机会获得天依的小礼物哦！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35574,
+    "comment": 1142,
+    "forward": 125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

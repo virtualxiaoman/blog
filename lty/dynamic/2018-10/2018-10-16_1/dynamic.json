@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "175342675514594959",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/175342675514594959",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年10月16日",
+    "pub_ts": 1539663548,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你好可爱呀，不如……[点赞]一条龙安排一下",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你好可爱呀，不如……"
+      },
+      {
+        "type": "emoji",
+        "text": "[点赞]",
+        "package_id": "1",
+        "emoji_id": "25",
+        "name": "点赞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a67265993913f4c35d15a6028a30724e83e7d35.png"
+      },
+      {
+        "type": "text",
+        "text": "一条龙安排一下"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/点赞.png",
+        "package_id": "1",
+        "emoji_id": "25",
+        "text": "[点赞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4524,
+    "comment": 386,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 174309559788144299,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2018-10/2018-10-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:19:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

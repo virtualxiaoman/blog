@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1069733945253298176",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1069733945253298176",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月22日",
+    "pub_ts": 1747905243,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "Chinozo老师此次担当发起人，受邀为天依特别创作的新歌《武装乙女》将于5月24日正式上线！希望天依和Chinozo老师的碰撞，可以给大家带来新鲜特别的视听体验~期待可以激励更多的producer加入这次的舞台，大家记得点点预约哦！[洛天依·戏游九州动态_撒花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Chinozo老师此次担当发起人，受邀为天依特别创作的新歌《武装乙女》将于5月24日正式上线！希望天依和Chinozo老师的碰撞，可以给大家带来新鲜特别的视听体验~期待可以激励更多的producer加入这次的舞台，大家记得点点预约哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4486,
+    "comment": 147,
+    "forward": 57
+  },
+  "forward": {
+    "orig_id": 1069717370970308609,
+    "orig_mid": 1910879962,
+    "deleted": false,
+    "archive_dir": "../../../1910879962/2025-05/2025-05-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

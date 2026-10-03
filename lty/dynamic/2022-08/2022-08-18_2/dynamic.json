@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "695732900353540134",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/695732900353540134",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月18日",
+    "pub_ts": 1660826339,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#我还没有想好转发语，但是总之就是好好听大家都来听！！[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "我还没有想好转发语，但是总之就是好好听大家都来听！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7366,
+    "comment": 152,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 693743879534411798,
+    "orig_mid": 241285562,
+    "deleted": false,
+    "archive_dir": "../../../241285562/2022-08/2022-08-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

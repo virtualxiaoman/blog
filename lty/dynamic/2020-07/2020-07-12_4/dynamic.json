@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "411054058433388552",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/411054058433388552",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月12日",
+    "pub_ts": 1594544381,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援#天依也很好奇，小伙伴们第一次听天依的歌是哪一首呢？",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": "天依也很好奇，小伙伴们第一次听天依的歌是哪一首呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5495,
+    "comment": 1867,
+    "forward": 795
+  },
+  "forward": {
+    "orig_id": 410384331293141781,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2020-07/2020-07-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

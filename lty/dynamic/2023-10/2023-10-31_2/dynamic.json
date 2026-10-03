@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "858583345692409863",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/858583345692409863",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月31日",
+    "pub_ts": 1698742913,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "[洛天依_捏捏]介么可爱！(～￣▽￣)～",
+    "blocks": [
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "介么可爱！(～￣▽￣)～"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4344,
+    "comment": 72,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 858539743172886552,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2023-10/2023-10-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

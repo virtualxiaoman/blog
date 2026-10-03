@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "816320549664849926",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/816320549664849926",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月9日",
+    "pub_ts": 1688902839,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依#❀#洛天依0712生日快乐#\r\n转发关注并预约直播，揪3位小伙伴送出【洛天依随机款式挂画】1份。\r\n万花筒每一次转动，天依想邂逅更多的人，想以各式不同的色彩与姿态，带你去看新的风景。\r\n一如万花筒般的绚丽，歌者与乐师，当在每一个歌声与琴音的相遇之际，去变幻去融入，去一起呈现完美的舞台。\r\n\r\n2023生贺曲《月华舞》舞台版本首秀\r\n特别邀请到@墨韵Moyun 老师 一同演绎。\r\n在如画的山水之中，在皎洁的月光之下，一曲一舞一琴，邀你共赏丹青画卷。\r\n7月12日19:12，要来我的生日会看哦！ [古色花香洛天依_亲亲mua]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\r\n转发关注并预约直播，揪3位小伙伴送出【洛天依随机款式挂画】1份。\r\n万花筒每一次转动，天依想邂逅更多的人，想以各式不同的色彩与姿态，带你去看新的风景。\r\n一如万花筒般的绚丽，歌者与乐师，当在每一个歌声与琴音的相遇之际，去变幻去融入，去一起呈现完美的舞台。\r\n\r\n2023生贺曲《月华舞》舞台版本首秀\r\n特别邀请到"
+      },
+      {
+        "type": "mention",
+        "text": "@墨韵Moyun",
+        "mid": 2374194,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师 一同演绎。\r\n在如画的山水之中，在皎洁的月光之下，一曲一舞一琴，邀你共赏丹青画卷。\r\n7月12日19:12，要来我的生日会看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-09_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/73f16b80b98b480165f0b4891c6c594236081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 5073.9033203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依11周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依11周年生日会",
+        "desc1": {
+          "text": "2023-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "8万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依芒种手办*1份、洛天依合作款式充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1611701&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1611701,
+        "reserve_total": 80178,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6220,
+    "comment": 387,
+    "forward": 1778
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

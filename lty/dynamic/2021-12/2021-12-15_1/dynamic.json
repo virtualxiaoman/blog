@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "604376132767404007",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/604376132767404007",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月15日",
+    "pub_ts": 1639555684,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 一到冬天，就会好期待下雪呀~ 想和小伙伴们一起堆雪人，打雪仗—— 唔，如果把天钿做成雪球的话，会不会很有威力呢[洛天依·夜航星_溜了溜了]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 一到冬天，就会好期待下雪呀~ 想和小伙伴们一起堆雪人，打雪仗—— 唔，如果把天钿做成雪球的话，会不会很有威力呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_溜了溜了]",
+        "package_id": "166",
+        "emoji_id": "3075",
+        "name": "溜了溜了",
+        "url": "http://i0.hdslb.com/bfs/emote/152d7bd6d4096ebb89974d591b9c305b29a89166.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-12-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/704c7c644ac2292adf587134a9142bd7d10599ce.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1053.1400146484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/溜了溜了.png",
+        "package_id": "166",
+        "emoji_id": "3075",
+        "text": "[洛天依·夜航星_溜了溜了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8774,
+    "comment": 374,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:39:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "id": "1159550954151870465",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1159550954151870465",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月19日",
+    "pub_ts": 1768817395,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「鼓乐 × 西安曲江文旅大唐芙蓉园 」\n服饰设定&合作艺术家公开~[洛天依·戏游九州动态_登场]\n\n⚡️ 文武兼济的礼乐司律\n取法盛唐缺胯袍制，腰系蹀躞，足踏乌皮靴；衣间织入工尺谱字与宝相花纹。\n以执槌擂鼓、仪武相彰的司律形象，诠释鼓乐“群音之长，通神达礼”的东方气魄。\n\n⚡️ 合作艺术家：@大唐芙蓉园东仓鼓樂 \n\n“晓战随金鼓，宵眠抱玉鞍。”\n伴随鼓声千变、雷霆震荡的节奏，走入长安城阙，听见那从未断绝的盛唐脉搏与礼乐风华。[洛天依·戏游九州动态_帅]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「鼓乐 × 西安曲江文旅大唐芙蓉园 」\n服饰设定&合作艺术家公开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_登场]",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b0e9b1358e9f604183a513a855ee7cbbafcedeaf.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⚡️ 文武兼济的礼乐司律\n取法盛唐缺胯袍制，腰系蹀躞，足踏乌皮靴；衣间织入工尺谱字与宝相花纹。\n以执槌擂鼓、仪武相彰的司律形象，诠释鼓乐“群音之长，通神达礼”的东方气魄。\n\n⚡️ 合作艺术家："
+      },
+      {
+        "type": "mention",
+        "text": "@大唐芙蓉园东仓鼓樂 ",
+        "mid": 1710581963,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n\n“晓战随金鼓，宵眠抱玉鞍。”\n伴随鼓声千变、雷霆震荡的节奏，走入长安城阙，听见那从未断绝的盛唐脉搏与礼乐风华。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_帅]",
+        "package_id": "7318",
+        "emoji_id": "98462",
+        "name": "帅",
+        "url": "https://i0.hdslb.com/bfs/garb/9ecf8ebee9d10918b47875c5d1c3b6f1733b451b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-19_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/33670282680da1b6689396b683481e3436081646.jpg",
+        "width": 9600,
+        "height": 5400,
+        "size_kb": 7114.3701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-19_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/be90c9a858a150d026a6cdbba58512bc36081646.jpg",
+        "width": 1600,
+        "height": 5799,
+        "size_kb": 6601.14013671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-19_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/70f6c3adc67c977f2e1db1386e98f3aa36081646.png",
+        "width": 3571,
+        "height": 2974,
+        "size_kb": 6585.22021484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/登场.gif",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "text": "[洛天依·戏游九州动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/帅.gif",
+        "package_id": "7318",
+        "emoji_id": "98462",
+        "text": "[洛天依·戏游九州动态_帅]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5280,
+    "comment": 235,
+    "forward": 96
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

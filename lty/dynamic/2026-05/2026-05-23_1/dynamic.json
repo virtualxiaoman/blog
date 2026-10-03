@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "1205569041959223298",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1205569041959223298",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月23日",
+    "pub_ts": 1779531816,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依永恒挚契#\n洛天依原创轻故事主题企划「人格镜像」\n第二季「永恒挚契」缓缓揭开故事帷幕\n在命运的棋盘之上，她们又会交织出怎样的宿命回响？[逆转童话_驾到]\n\n◆VOL.4「交辉相映」原初神祇·档案情报公开\n“世界曾期待太阳加冕，可她最终选择，永远守护月亮\n——从此，太阳的每一次升起，都带着月亮的痕迹。” ​​​\n\n🌙 ▌神格代号 · The Artemis 「夜径」\n身份代号：月影之冕 · 寂静王座的主人\n人格编码：理想主义调停者\n核心概念：温柔内敛 · 暗夜中的诗意绽放\n\n☀️ ▌神格代号 · The Apollo 「启光」\n身份代号：耀日之誓 · 最忠诚的剑鞘\n人格编码：教育家型引导者\n核心概念：热烈忠诚 · 以燃烧换取守护\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依永恒挚契#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B0%B8%E6%81%92%E6%8C%9A%E5%A5%91"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依原创轻故事主题企划「人格镜像」\n第二季「永恒挚契」缓缓揭开故事帷幕\n在命运的棋盘之上，她们又会交织出怎样的宿命回响？"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_驾到]",
+        "package_id": "8745",
+        "emoji_id": "121371",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/98ff458c9aea0e37181b4558978de0ae6d8fcc42.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n◆VOL.4「交辉相映」原初神祇·档案情报公开\n“世界曾期待太阳加冕，可她最终选择，永远守护月亮\n——从此，太阳的每一次升起，都带着月亮的痕迹。” ​​​\n\n🌙 ▌神格代号 · The Artemis 「夜径」\n身份代号：月影之冕 · 寂静王座的主人\n人格编码：理想主义调停者\n核心概念：温柔内敛 · 暗夜中的诗意绽放\n\n☀️ ▌神格代号 · The Apollo 「启光」\n身份代号：耀日之誓 · 最忠诚的剑鞘\n人格编码：教育家型引导者\n核心概念：热烈忠诚 · 以燃烧换取守护"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-23_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4cf30b8b954d8f55fcb36b57c7c4c3fe36081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 3077.320068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-05-23_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/22d7d6de2a497299c1f709467c7d265936081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 3235.06005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8745/驾到.png",
+        "package_id": "8745",
+        "emoji_id": "121371",
+        "text": "[逆转童话_驾到]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7306,
+    "comment": 458,
+    "forward": 120
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

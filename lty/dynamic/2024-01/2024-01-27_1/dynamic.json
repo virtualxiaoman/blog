@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "891194577106501635",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/891194577106501635",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月27日",
+    "pub_ts": 1706335807,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依来为大家赐福啦！[Vsinger_加依]无论深海龙宫或是寒梅枝头都会响起动人的歌声~祝你龙年大吉，万事如意！[Vsinger_rua天依]转发并关注，天依加码揪5位小伙伴赠出【收藏集5抽】1份哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来为大家赐福啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "无论深海龙宫或是寒梅枝头都会响起动人的歌声~祝你龙年大吉，万事如意！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      },
+      {
+        "type": "text",
+        "text": "转发并关注，天依加码揪5位小伙伴赠出【收藏集5抽】1份哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4333,
+    "comment": 1103,
+    "forward": 1373
+  },
+  "forward": {
+    "orig_id": 891192120392548371,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-01/2024-01-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:05:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "281546573815658805",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/281546573815658805",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月29日",
+    "pub_ts": 1564391070,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天，你们学会分类了吗( •᷄ὤ•᷅)？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天，你们学会分类了吗( •᷄ὤ•᷅)？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7068,
+    "comment": 299,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 280432184423141139,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2019-07/2019-07-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

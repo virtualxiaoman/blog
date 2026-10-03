@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "538987317271289964",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/538987317271289964",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月22日",
+    "pub_ts": 1624331164,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依作为买单吧体验官，在线营业啦~这次给大家带来全新MV《美好生活买单吧》，和天依一起“5”起来吧！大家还喜欢这套未来感满满的造型和舞蹈吗？ #和天依一起买单吧# ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依作为买单吧体验官，在线营业啦~这次给大家带来全新MV《美好生活买单吧》，和天依一起“5”起来吧！大家还喜欢这套未来感满满的造型和舞蹈吗？ "
+      },
+      {
+        "type": "topic",
+        "text": "#和天依一起买单吧#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E5%A4%A9%E4%BE%9D%E4%B8%80%E8%B5%B7%E4%B9%B0%E5%8D%95%E5%90%A7"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5346,
+    "comment": 153,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 538586811571193113,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2021-06/2021-06-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:31:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

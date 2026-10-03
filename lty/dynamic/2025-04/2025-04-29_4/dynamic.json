@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "id": "1061241953059864581",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1061241953059864581",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月29日",
+    "pub_ts": 1745928047,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "无论晴天雨天，天依都会陪伴在你身边~[洛天依-潮声回响_带上我]\nmoeyu洛天依眯眯眼系列、嘟嘟脸系列实用周边新品上架\n\n💙系列新品——\n✦迷你披肩\n✦毛绒捏捏团子\n✦陶瓷杯\n✦折叠伞\n\n💙购买方式\nB站-会员购、Vsinger官方旗舰店等\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "无论晴天雨天，天依都会陪伴在你身边~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_带上我]",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "name": "带上我",
+        "url": "https://i0.hdslb.com/bfs/garb/b8604e41a3f022731036690e02347c08c6279ffc.png"
+      },
+      {
+        "type": "text",
+        "text": "\nmoeyu洛天依眯眯眼系列、嘟嘟脸系列实用周边新品上架\n\n💙系列新品——\n✦迷你披肩\n✦毛绒捏捏团子\n✦陶瓷杯\n✦折叠伞\n\n💙购买方式\nB站-会员购、Vsinger官方旗舰店等"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dfe35e7bb7d2d92e12f0f04fce701fd236081646.jpg",
+        "width": 1200,
+        "height": 8000,
+        "size_kb": 5772.935546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/带上我.png",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "text": "[洛天依-潮声回响_带上我]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依 眯眯眼系列 折叠伞",
+            "price": "¥79",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/67/40/6740e9d05c75eb951fed25d68981890b.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=11960337&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1061241953059864581",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-04-29_2.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依 嘟嘟脸 陶瓷杯",
+            "price": "¥69",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/cb/e5/cbe55c4eca89a1a41185b2119f4bea84.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=11959756&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1061241953059864581",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-04-29_3.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4137,
+    "comment": 110,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

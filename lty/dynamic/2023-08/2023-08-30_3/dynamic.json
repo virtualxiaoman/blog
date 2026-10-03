@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "id": "835608968599437334",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/835608968599437334",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月30日",
+    "pub_ts": 1693393774,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依游学记#\n苗族的音乐与舞蹈是与其服饰一般极具有特点的灵动与多样~\n今天，还要为大家介绍参演天依MV演出的艺术家丁晓逵@棍儿哥丁晓逵 老师——\n\n丁晓逵老师，来自中央民族乐团，擅长演奏笛、箫、埙、排箫、巴乌、葫芦丝等多种民族吹管乐器。作为一位熟练掌握多种吹管乐器的卓越艺术家，丁晓逵老师曾获众多殊荣，并参演了多项重要大型演出：在中央民族乐团首部民族器乐剧《玄奘西行》中饰演青年玄奘；在”2023年中央广播电视台总台春节联欢晚会”中表演节目《一带繁花一路歌》。\n\n9月1日，凝结天依这次游学之旅感悟的原创音乐MV就要与大家见面啦！希望大家喜欢这首歌~ [代号洛天依_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n苗族的音乐与舞蹈是与其服饰一般极具有特点的灵动与多样~\n今天，还要为大家介绍参演天依MV演出的艺术家丁晓逵"
+      },
+      {
+        "type": "mention",
+        "text": "@棍儿哥丁晓逵",
+        "mid": 31200600,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师——\n\n丁晓逵老师，来自中央民族乐团，擅长演奏笛、箫、埙、排箫、巴乌、葫芦丝等多种民族吹管乐器。作为一位熟练掌握多种吹管乐器的卓越艺术家，丁晓逵老师曾获众多殊荣，并参演了多项重要大型演出：在中央民族乐团首部民族器乐剧《玄奘西行》中饰演青年玄奘；在”2023年中央广播电视台总台春节联欢晚会”中表演节目《一带繁花一路歌》。\n\n9月1日，凝结天依这次游学之旅感悟的原创音乐MV就要与大家见面啦！希望大家喜欢这首歌~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-30_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/56958c882ea1748373d25048ee20a48236081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1665.1591796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-30_11.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/39e976c4bf4265b18737516bb38d03ed36081646.png",
+        "width": 1454,
+        "height": 1454,
+        "size_kb": 3557.5732421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6179,
+    "comment": 156,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

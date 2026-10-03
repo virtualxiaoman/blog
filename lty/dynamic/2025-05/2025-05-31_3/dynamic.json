@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1073131977311256664",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1073131977311256664",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月31日",
+    "pub_ts": 1748696409,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依 原创《脑壳疼》",
+      "desc": "1.有一说一up不太喜欢发预约，使我本就很紧张的工期雪上加霜，不开玩笑脑瓜子生疼。2.其实这个表现方式我也惦记很久了，唉癔症。3.虽然参加了活动，但是我其实不算很知道参加的是什么活动，以一种“总之就是要写首歌对吧”的姿态应对了。4.但是居然连这样的主题也能重在参与我没有想到。5.bang19便士",
+      "jump_url": "https://www.bilibili.com/video/BV1jN7xzoEp7",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f3ae2284bbda8b8fbab7c0ffa27e9b3ba8380fa6.jpg",
+      "cover_file": "../../_assets/covers/2025-05-31_1.jpg",
+      "bvid": "BV1jN7xzoEp7",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1jN7xzoEp7",
+        "aid": "114597445047246",
+        "cover": "http://i1.hdslb.com/bfs/archive/f3ae2284bbda8b8fbab7c0ffa27e9b3ba8380fa6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1jN7xzoEp7",
+        "stat": {
+          "danmaku": "2226",
+          "play": "81.7万",
+          "vt": ""
+        },
+        "duration_text": "03:01",
+        "title": "洛天依 原创《脑壳疼》",
+        "desc": "1.有一说一up不太喜欢发预约，使我本就很紧张的工期雪上加霜，不开玩笑脑瓜子生疼。2.其实这个表现方式我也惦记很久了，唉癔症。3.虽然参加了活动，但是我其实不算很知道参加的是什么活动，以一种“总之就是要写首歌对吧”的姿态应对了。4.但是居然连这样的主题也能重在参与我没有想到。5.bang19便士",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 73596,
+    "comment": 8294,
+    "forward": 33
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:30:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

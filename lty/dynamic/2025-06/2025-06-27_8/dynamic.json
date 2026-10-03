@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1083146874718781448",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1083146874718781448",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月27日",
+    "pub_ts": 1751028184,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "明晚18:00，大家记得来听呀~！[洛天依·天星问动态_萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明晚18:00，大家记得来听呀~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4371,
+    "comment": 57,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 1083104908544049189,
+    "orig_mid": 215889001,
+    "deleted": false,
+    "archive_dir": "../../../215889001/2025-06/2025-06-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:32:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

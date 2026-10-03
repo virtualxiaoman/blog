@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "410717148308141110",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/410717148308141110",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月11日",
+    "pub_ts": 1594465938,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依0712生日快乐# 8年时光跟小伙伴们有过太多回忆，不论是泪水还是笑容，都无比珍贵。在八周年之际，QQ给天依定制了专属装扮和特别活动，参加的话有机会获得大礼哦。  ★获取方式★ 打开QQ，点击头像进入【我的个性装扮】中搜索“洛天依” 即可找到天依的相关装扮噢！ ※在相关装扮内点击“立即装扮”即会前往活动页 ※每日分享给3位好友即可获得绝版主题，只送不卖 ※可在活动页内开通或续费SVIP领取装扮，同时获得相应守护币兑换限量礼品 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 8年时光跟小伙伴们有过太多回忆，不论是泪水还是笑容，都无比珍贵。在八周年之际，QQ给天依定制了专属装扮和特别活动，参加的话有机会获得大礼哦。  ★获取方式★ 打开QQ，点击头像进入【我的个性装扮】中搜索“洛天依” 即可找到天依的相关装扮噢！ ※在相关装扮内点击“立即装扮”即会前往活动页 ※每日分享给3位好友即可获得绝版主题，只送不卖 ※可在活动页内开通或续费SVIP领取装扮，同时获得相应守护币兑换限量礼品 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-11_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/35aafd19c6b1d9f48d1367f0fd1038043da9b784.jpg",
+        "width": 720,
+        "height": 10181,
+        "size_kb": 4245.9306640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7165,
+    "comment": 479,
+    "forward": 100
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

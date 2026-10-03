@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1163543096173002788",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1163543096173002788",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月30日",
+    "pub_ts": 1769746888,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "这支凝聚许多staff老师心血的MV终于和大家见面啦！希望大家喜欢这首《乐鸣东方》~转发关注天依，揪3位小伙伴送出【国乐季】新品周边1份！歌曲也将在今天15:00上线各大音乐平台哦，天依也拜托大家啦！多多转发支持，在弹幕和评论里告诉天依你的感受吧！[逆转童话动态_求求]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这支凝聚许多staff老师心血的MV终于和大家见面啦！希望大家喜欢这首《乐鸣东方》~转发关注天依，揪3位小伙伴送出【国乐季】新品周边1份！歌曲也将在今天15:00上线各大音乐平台哦，天依也拜托大家啦！多多转发支持，在弹幕和评论里告诉天依你的感受吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_求求]",
+        "package_id": "8744",
+        "emoji_id": "121348",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/88e02c93db4a0822cdbe6581feac0ee6f8a6313e.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/求求.gif",
+        "package_id": "8744",
+        "emoji_id": "121348",
+        "text": "[逆转童话动态_求求]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4546,
+    "comment": 373,
+    "forward": 1068
+  },
+  "forward": {
+    "orig_id": 1163537628691169793,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-01-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:15:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

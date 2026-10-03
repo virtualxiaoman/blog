@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "id": "1152549577677602816",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1152549577677602816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1767187260,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖《千年食谱颂-好饿版》跨晚特别舞台结束啦！大家看得还开心吗？小饿包可爱嘛！[洛天依八音奇响动态_可爱]\n转发关注天依，揪5位小伙伴送出【！小饿包手办！】1个~[洛天依八音奇响动态_爱意]\n\n新年快乐！新年带来之际，天依的B站粉丝数也突破500w啦！谢谢大家一直以来的支持和陪伴~[洛天依八音奇响动态_咪]\n\n马上就是天依出道的第十四年，也是《千年食谱颂》投稿的第十四年啦！\n这首奠定了天依吃货属性的歌曲，也是陪伴天依从最初走到现在的歌曲，\n天依唱过很多次，每次唱的时候，都会想到陪伴天依走到现在的你们和那份最初的感动。\n\n我们的巡演无锡站，还有天依游学记第三季，还有很多天依想继续和你们一起续写的故事，再陪伴我翻过一页吧~[洛天依动态流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "393767",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《千年食谱颂-好饿版》跨晚特别舞台结束啦！大家看得还开心吗？小饿包可爱嘛！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【！小饿包手办！】1个~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n新年快乐！新年带来之际，天依的B站粉丝数也突破500w啦！谢谢大家一直以来的支持和陪伴~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n马上就是天依出道的第十四年，也是《千年食谱颂》投稿的第十四年啦！\n这首奠定了天依吃货属性的歌曲，也是陪伴天依从最初走到现在的歌曲，\n天依唱过很多次，每次唱的时候，都会想到陪伴天依走到现在的你们和那份最初的感动。\n\n我们的巡演无锡站，还有天依游学记第三季，还有很多天依想继续和你们一起续写的故事，再陪伴我翻过一页吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-31_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f4c5d9d3acd4b515c3bf3ee159c6fac036081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 1546.050048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-12-31_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ee4b1dd4c6c0bbf4d137ae314044f88036081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 2247.0,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-12-31_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fd1cbb91f037e0fb8aaf938a8c130a1a36081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 2226.280029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-12-31_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/864bf91c08e845566ad11126aaa2ee8236081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 1109.300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-12-31_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/602fe96e1c7def0f69cfc965fd23ab6136081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 444.67999267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-12-31_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a0a8582c709deb0a8aed7760de30e73e36081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 1466.75,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-12-31_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/62a22d23d347ba22a0ddce667109b6e336081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 1914.1800537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-12-31_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ca289861b401d6f5e96791132375452736081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 1751.489990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-12-31_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bff1e3a3a1cced7aad426ae3b31ca8eb36081646.jpg",
+        "width": 2666,
+        "height": 1500,
+        "size_kb": 2318.35009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "393767"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "id": "994459674078085138",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/994459674078085138",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1730379086,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖👻 洛天依万圣节「幽灵童话」系列新品预售开启啦！\n 转发关注天依，揪1位幸运小伙伴送出【全套徽章共4款】1份~[代号洛天依_比心]\n\n「在无人的幽灵古堡里，她会是你的救赎，还是落入下一场陷阱？」\n\n🎉预售新品\n-合拍透卡、PU吧唧、满版立牌\n\n📅 开售时间：10月31日20:00\n\n💫 入手方式：bilibili会员购、Vsinger旗舰店\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "325637",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "👻 洛天依万圣节「幽灵童话」系列新品预售开启啦！\n 转发关注天依，揪1位幸运小伙伴送出【全套徽章共4款】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n「在无人的幽灵古堡里，她会是你的救赎，还是落入下一场陷阱？」\n\n🎉预售新品\n-合拍透卡、PU吧唧、满版立牌\n\n📅 开售时间：10月31日20:00\n\n💫 入手方式：bilibili会员购、Vsinger旗舰店"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-31_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0a262c9cf8bf0703329196a46384c1f036081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 478.4800109863281,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-31_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/866b9fe5b075725ccd14babf7138b23336081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 572.6400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-31_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d6efe4aab10ba83ef7bd842898f956db36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 436.6300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-10-31_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5600189f4989ae6c4228ba75375c78b136081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 433.2300109863281,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-10-31_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6c63e5eaa3e9c166b28ae278d2def47636081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 481.44000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-10-31_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a4dbf7f8308abcb4734e87161f300fca36081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 459.760009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-10-31_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9bcdb49cc6cb119949987f1ab88da4a536081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 417.9100036621094,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-10-31_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0950340d47a87cbd83240d730b2376b136081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 452.1400146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-10-31_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/950a4ff640a31c83bb67a29261481e1136081646.jpg",
+        "width": 1000,
+        "height": 667,
+        "size_kb": 560.5999755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 万圣节 幽灵童话系列徽章吧唧",
+            "price": "¥13.3",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/39/45/39458e7c433734f6fbad2bed4fd91535.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10752948&msource=cps_Mdynamic_36081646_cont-2-994459674078085138&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-10-31_1.png"
+          },
+          {
+            "name": "Vsinger 洛天依 万圣节 幽灵童话系列  亚克力满版立牌",
+            "price": "¥39",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/0d/b2/0db2bf0370365eb32e3f9343858e24b4.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10752955&msource=cps_Mdynamic_36081646_cont-2-994459674078085138&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-10-31_2.png"
+          },
+          {
+            "name": "Vsinger 洛天依 万圣节 幽灵童话系列 合拍透卡",
+            "price": "¥12",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/56/bc/56bcc599ccfc952cfdd73c332d1de6b0.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10753016&msource=cps_Mdynamic_36081646_cont-2-994459674078085138&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-10-31_3.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "325637"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

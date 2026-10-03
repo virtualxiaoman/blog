@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "id": "1085360633986154497",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1085360633986154497",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月3日",
+    "pub_ts": 1751543615,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依 x @SONGX耳机 新品系列数码好物上架啦~[洛天依·天星问_好耶]\n♡「多功能磁吸充电宝」\n♡「30W氮化镓快充套装」\n♡「真空磁吸支架」\n\n♡传送门\n多功能磁吸充电宝：网页链接\n30W氮化镓快充套装：网页链接\n真空磁吸支架：网页链接\n-\n转发关注天依，抽1位小伙伴送出SONGX洛天依联名款数码盲盒1份~\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "365762",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依 x "
+      },
+      {
+        "type": "mention",
+        "text": "@SONGX耳机",
+        "mid": 1681276938,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 新品系列数码好物上架啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问_好耶]",
+        "package_id": "7619",
+        "emoji_id": "103432",
+        "name": "好耶",
+        "url": "https://i0.hdslb.com/bfs/garb/47e553fbe0a4c829937b5618062124c147d311d7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n♡「多功能磁吸充电宝」\n♡「30W氮化镓快充套装」\n♡「真空磁吸支架」\n\n♡传送门\n多功能磁吸充电宝："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/HHWswxO"
+      },
+      {
+        "type": "text",
+        "text": "\n30W氮化镓快充套装："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/CM0iyoD"
+      },
+      {
+        "type": "text",
+        "text": "\n真空磁吸支架："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/2MvqVc9"
+      },
+      {
+        "type": "text",
+        "text": "\n-\n转发关注天依，抽1位小伙伴送出SONGX洛天依联名款数码盲盒1份~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-03_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a4b511d7a91c78b5f83c55e792bf2b3136081646.jpg",
+        "width": 1080,
+        "height": 17345,
+        "size_kb": 6493.2119140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-03_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a7dc9c03ce7403eb1a3e27486b20973c36081646.jpg",
+        "width": 1080,
+        "height": 27775,
+        "size_kb": 11683.6591796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-03_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9247853563a3c1b85c4c735e48dd656336081646.jpg",
+        "width": 1080,
+        "height": 21282,
+        "size_kb": 9803.037109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7619/好耶.png",
+        "package_id": "7619",
+        "emoji_id": "103432",
+        "text": "[洛天依·天星问_好耶]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "SONGX ✖ VSINGER洛天依真空磁吸免粘贴手机支架车载支架三轴全景视角双环阵列磁圈",
+            "price": "¥79",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/1f/2a/1f2a87c9e967baee255817debb7de84a.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=12611145&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1085360633986154497",
+            "brief": "360度旋转+磁铁强吸力+真空吸附免粘贴",
+            "cover_file": "../../_assets/covers/2025-07-03_1.jpg"
+          },
+          {
+            "name": "SONGX ✖ VSINGER洛天依多功能磁吸充电宝快充有线无线双模式超薄轻量化5000mAh可做支架",
+            "price": "¥159.2",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/5a/82/5a82885263f0ffb28072bad2a93deb8a.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=12603874&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1085360633986154497",
+            "brief": "磁吸有线双模式快充+多场景切换使用（可当支架）",
+            "cover_file": "../../_assets/covers/2025-07-03_2.png"
+          },
+          {
+            "name": "SONGX Vsinger洛天依联名氮化镓快充套装GaN闪充多设备兼容轻巧便携30W快充套装PD快充",
+            "price": "¥28.9",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/61/bd/61bd2d838bf9261a376835555048299c.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=12641765&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1085360633986154497",
+            "brief": "萌趣快充套装+多设备兼容+轻巧便携",
+            "cover_file": "../../_assets/covers/2025-07-03_3.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "365762"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5624,
+    "comment": 759,
+    "forward": 9360
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "1080794130245746728",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1080794130245746728",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月21日",
+    "pub_ts": 1750480393,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "文学会带来忧郁，也会带来希望[洛天依-潮声回响_祈祷]黑夜给了我黑色的眼睛，我却用它来寻找星星[洛天依-潮声回响_为你]Dela老师的发起人作品来啦，请多多支持#闪耀的Producer#！[洛天依-潮声回响_舞蹈中]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "文学会带来忧郁，也会带来希望"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祈祷]",
+        "package_id": "7109",
+        "emoji_id": "94952",
+        "name": "祈祷",
+        "url": "https://i0.hdslb.com/bfs/garb/2629705b659dad0ac0f79f48bb0e7085c186c950.png"
+      },
+      {
+        "type": "text",
+        "text": "黑夜给了我黑色的眼睛，我却用它来寻找星星"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_为你]",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "name": "为你",
+        "url": "https://i0.hdslb.com/bfs/garb/5a766d1d166f6ea1ac769f1e138942f5906f4c13.png"
+      },
+      {
+        "type": "text",
+        "text": "Dela老师的发起人作品来啦，请多多支持"
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": "！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/祈祷.png",
+        "package_id": "7109",
+        "emoji_id": "94952",
+        "text": "[洛天依-潮声回响_祈祷]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/为你.png",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "text": "[洛天依-潮声回响_为你]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4928,
+    "comment": 90,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 1080785613351813173,
+    "orig_mid": 358606,
+    "deleted": false,
+    "archive_dir": "../../../358606/2025-06/2025-06-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

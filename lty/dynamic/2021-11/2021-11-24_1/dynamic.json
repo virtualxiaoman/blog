@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "596626938023445404",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/596626938023445404",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月24日",
+    "pub_ts": 1637751434,
+    "location": ""
+  },
+  "topic": {
+    "id": 1968,
+    "name": "洛天依扭扭舞二创",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1968&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%89%AD%E6%89%AD%E8%88%9E%E4%BA%8C%E5%88%9B"
+  },
+  "content": {
+    "title": "",
+    "text": "毛绒绒~有没有很想rua[洛天依·夜航星_摸摸]天依的原版模型下载地址也放在评论区啦，欢迎大家二创哟[洛天依·夜航星_好康]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "毛绒绒~有没有很想rua"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "天依的原版模型下载地址也放在评论区啦，欢迎大家二创哟"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      },
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5188,
+    "comment": 144,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 596612390967004090,
+    "orig_mid": 885387,
+    "deleted": false,
+    "archive_dir": "../../../885387/2021-11/2021-11-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

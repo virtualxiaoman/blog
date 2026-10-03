@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "971328479222038544",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/971328479222038544",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月30日",
+    "pub_ts": 1724993435,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，洛天依无限共鸣全息演唱会，今晚 20:00正式开票啦！>>>网页链接\n\n属于我们的共同期待，曾许下的珍重诺言，穿越虚拟与现实，跨越过去与未来，将曾经的梦想与旋律交织为歌声，再次于舞台唱响，你仍愿意赴这场约定吗？[洛天依心律共鸣表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，洛天依无限共鸣全息演唱会，今晚 20:00正式开票啦！>>>"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=91180"
+      },
+      {
+        "type": "text",
+        "text": "\n\n属于我们的共同期待，曾许下的珍重诺言，穿越虚拟与现实，跨越过去与未来，将曾经的梦想与旋律交织为歌声，再次于舞台唱响，你仍愿意赴这场约定吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-30_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1c8b826768dbd5b12cce973a1e2cc7af36081646.png",
+        "width": 1622,
+        "height": 2885,
+        "size_kb": 4991.08984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·洛天依2024无限共鸣演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202408/or0iy18f1724401612225.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91180&msource=cps_Mdynamic_36081646_cont-2-971328479222038544&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-08-30_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4880,
+    "comment": 530,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

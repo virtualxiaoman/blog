@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "663305502176837651",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/663305502176837651",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年5月23日",
+    "pub_ts": 1653276247,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# 今天是5月23日，距离我的10周年生日还有50天~    如果世界上有最甜蜜的魔法  那一定是——我爱你！  勇敢去爱 勇敢去追逐自己的梦想    “所以我决定不再掩饰着我自己”  “决定 此刻就跟你说”    “~ I LOVE U ~”  “我很黑凤梨” [洛天依·夜航星_比心][洛天依·夜航星_好康][洛天依_爱你][洛天依_爱你哦]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 今天是5月23日，距离我的10周年生日还有50天~    如果世界上有最甜蜜的魔法  那一定是——我爱你！  勇敢去爱 勇敢去追逐自己的梦想    “所以我决定不再掩饰着我自己”  “决定 此刻就跟你说”    “~ I LOVE U ~”  “我很黑凤梨” "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你哦]",
+        "package_id": "9",
+        "emoji_id": "211",
+        "name": "爱你哦",
+        "url": "http://i0.hdslb.com/bfs/emote/7102c9e25359af8348489ff8529b3bb2c5bd05d0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-05-23_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f326915e843c798d9a905bfb9e856fb6b636ade8.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 388.7529296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9/爱你哦.png",
+        "package_id": "9",
+        "emoji_id": "211",
+        "text": "[洛天依_爱你哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10691,
+    "comment": 432,
+    "forward": 176
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:46:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

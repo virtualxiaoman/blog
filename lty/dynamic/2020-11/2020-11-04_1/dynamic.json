@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "453749349069209427",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/453749349069209427",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月4日",
+    "pub_ts": 1604485153,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "很高兴能参与到这次跟天猫合作的 #双11花式挺你# 主题大片，记得来为你支持的IP打call，更有超多福利等着大家~ ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴能参与到这次跟天猫合作的 "
+      },
+      {
+        "type": "topic",
+        "text": "#双11花式挺你#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8F%8C11%E8%8A%B1%E5%BC%8F%E6%8C%BA%E4%BD%A0"
+      },
+      {
+        "type": "text",
+        "text": " 主题大片，记得来为你支持的IP打call，更有超多福利等着大家~ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5236,
+    "comment": 191,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 452268598966945137,
+    "orig_mid": 420461147,
+    "deleted": false,
+    "archive_dir": "../../../420461147/2020-10/2020-10-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

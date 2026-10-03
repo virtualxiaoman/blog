@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "692727299433299975",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/692727299433299975",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月10日",
+    "pub_ts": 1660126543,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "staff老师们辛苦啦！一起期待明天的晚会吧[洛天依_打call ][洛天依_打call ][洛天依_打call ]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "staff老师们辛苦啦！一起期待明天的晚会吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/打call.png",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "text": "[洛天依_打call ]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6179,
+    "comment": 103,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 692694760773648387,
+    "orig_mid": 6161559,
+    "deleted": false,
+    "archive_dir": "../../../6161559/2022-08/2022-08-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "896116940306645123",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/896116940306645123",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月9日",
+    "pub_ts": 1707481884,
+    "location": ""
+  },
+  "topic": {
+    "id": 1140913,
+    "name": "2024拜年纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1140913&topic_name=2024%E6%8B%9C%E5%B9%B4%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "大哉乾元【2024拜年纪单品】",
+      "desc": "先天八卦为体，后天八卦为用，唯其“简易”、“变易”所“不易”。后人蒙先祖化体为用之功，知三才，推六甲，识体蹈用以载人道，不敢忘古。年支又逢龙，与诸君一往乾元，细数龙象，观其大哉，不亦快哉！\n\n 《大哉乾元》\n企划：终路之零，世浩，诺诺小熊猫\n总策划：哈米伦的弄笛者\n美术监督：孙梦想\n\n唱：洛天依\n和声：言和、乐正绫、乐正龙牙、墨清弦、徵羽摩柯\n制作人/作曲/民乐编写/和声编写：胡多多\n作词 : 非桥段\n编曲/吉他 : 包达\n调教 : Creuzer\n古筝：墨韵\n唢呐：浑元\n中国鼓：王佳男\n竹笛：李乐\n二胡",
+      "jump_url": "https://www.bilibili.com/video/BV1Xp421o7hr",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/057d8c32f48280ffbd3d8274e2505c1a04ecbfcc.jpg",
+      "cover_file": "../../_assets/covers/2024-02-09_1.jpg",
+      "bvid": "BV1Xp421o7hr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Xp421o7hr",
+        "aid": "1850465635",
+        "cover": "http://i1.hdslb.com/bfs/archive/057d8c32f48280ffbd3d8274e2505c1a04ecbfcc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Xp421o7hr",
+        "stat": {
+          "danmaku": "1.8万",
+          "play": "461万",
+          "vt": ""
+        },
+        "duration_text": "04:19",
+        "title": "大哉乾元【2024拜年纪单品】",
+        "desc": "先天八卦为体，后天八卦为用，唯其“简易”、“变易”所“不易”。后人蒙先祖化体为用之功，知三才，推六甲，识体蹈用以载人道，不敢忘古。年支又逢龙，与诸君一往乾元，细数龙象，观其大哉，不亦快哉！\n\n 《大哉乾元》\n企划：终路之零，世浩，诺诺小熊猫\n总策划：哈米伦的弄笛者\n美术监督：孙梦想\n\n唱：洛天依\n和声：言和、乐正绫、乐正龙牙、墨清弦、徵羽摩柯\n制作人/作曲/民乐编写/和声编写：胡多多\n作词 : 非桥段\n编曲/吉他 : 包达\n调教 : Creuzer\n古筝：墨韵\n唢呐：浑元\n中国鼓：王佳男\n竹笛：李乐\n二胡",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 190439,
+    "comment": 17349,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

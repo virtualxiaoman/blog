@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "1245178742173597705",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1245178742173597705",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月7日",
+    "pub_ts": 1788754168,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "第四步「Sacrifice 弃兵」\n你获得了第四枚棋子——“白骑士”[洛天依14周年·纯蓝幻乐 动态表情包_登场]\n\n你看到了一匹俊秀的马，奔袭过黑与白相互侵袭的长夜，倒在黎明之前。\n疯狂的黑色阴影已跨过纯白的城墙，无言落定牺牲的结局。\n“我愿为您的自由而奔赴黑暗，请像飞鸟一样逃离王座的囚笼吧，吾王。”[洛天依14周年·纯蓝幻乐 动态表情包_放手一搏]\n\n♟️掉落「白王国」日常碎片小故事一则~[洛天依14周年·纯蓝幻乐 动态表情包_展示]\n“要金棋子还是银棋子呢？当然是最可爱的白后棋子啦！”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第四步「Sacrifice 弃兵」\n你获得了第四枚棋子——“白骑士”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_登场]",
+        "package_id": "10238",
+        "emoji_id": "145970",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b86d74a2be39156754dbc1b676d658a736f1fd3c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你看到了一匹俊秀的马，奔袭过黑与白相互侵袭的长夜，倒在黎明之前。\n疯狂的黑色阴影已跨过纯白的城墙，无言落定牺牲的结局。\n“我愿为您的自由而奔赴黑暗，请像飞鸟一样逃离王座的囚笼吧，吾王。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_放手一搏]",
+        "package_id": "10238",
+        "emoji_id": "145983",
+        "name": "放手一搏",
+        "url": "https://i0.hdslb.com/bfs/garb/00f70dd90b6a34483510c84c711654eaf435c880.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♟️掉落「白王国」日常碎片小故事一则~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/2a0de49c1ca305d19eaff614d79da7d9f2bd611a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n“要金棋子还是银棋子呢？当然是最可爱的白后棋子啦！”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-07_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64d8afb7b6ff14facdabd6feff009bef36081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 3028.72998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-07_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9d206fadf9dc4ff5f70fd0b9a93c6dcf36081646.png",
+        "width": 1733,
+        "height": 4260,
+        "size_kb": 3403.820068359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/登场.gif",
+        "package_id": "10238",
+        "emoji_id": "145970",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/放手一搏.gif",
+        "package_id": "10238",
+        "emoji_id": "145983",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_放手一搏]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/展示.gif",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5619,
+    "comment": 181,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

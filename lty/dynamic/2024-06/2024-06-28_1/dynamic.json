@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "947941712225894452",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/947941712225894452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月28日",
+    "pub_ts": 1719548279,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依收藏集——再生】预约开启啦~专辑曲绘&歌曲音乐先睹为快，还有动态个性主题、专属表情包、专属头像框欢迎感兴趣的大家解锁哦! [Vsinger_给大佬递茶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依收藏集——再生】预约开启啦~专辑曲绘&歌曲音乐先睹为快，还有动态个性主题、专属表情包、专属头像框欢迎感兴趣的大家解锁哦! "
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3973,
+    "comment": 149,
+    "forward": 49
+  },
+  "forward": {
+    "orig_id": 947939654952288280,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-06/2024-06-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:14:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

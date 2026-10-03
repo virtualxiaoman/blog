@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "737253560565104663",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/737253560565104663",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月8日",
+    "pub_ts": 1670493621,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新人物登场✿✿ヽ(ﾟ▽ﾟ)ノ✿ 原来这里曾经进行着复制人的秘密研究，随着装置启动，培养皿里的复制生命体α和β也苏醒过来...... 洛终于找到了同行的伙伴！ #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新人物登场✿✿ヽ(ﾟ▽ﾟ)ノ✿ 原来这里曾经进行着复制人的秘密研究，随着装置启动，培养皿里的复制生命体α和β也苏醒过来...... 洛终于找到了同行的伙伴！ "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-08_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8cef6e262e3ea37ced3a83ad9a2cc6e536081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1975.27001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-12-08_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5295c28b906fb40c618552a9fc35bb0e36081646.png",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1997.699951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8602,
+    "comment": 616,
+    "forward": 77
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

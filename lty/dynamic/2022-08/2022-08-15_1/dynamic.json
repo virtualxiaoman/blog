@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "694587758991114265",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/694587758991114265",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月15日",
+    "pub_ts": 1660559715,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "漫步在沙滩上，看阳光在海面折射出耀眼的光芒， 想要奔跑，想要歌唱，想化身一尾游鱼，自由地游入海底[洛天依·夜航星_锦鲤] 海水打湿裙摆也没关系，不如开心地玩一场~[洛天依·夜航星_萌妹初醒] 蔚蓝色的海洋果然会带来好心情！要和我一起去海边吗？♪₍๐•ᴗ•๐₎ #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "漫步在沙滩上，看阳光在海面折射出耀眼的光芒， 想要奔跑，想要歌唱，想化身一尾游鱼，自由地游入海底"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": " 海水打湿裙摆也没关系，不如开心地玩一场~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      },
+      {
+        "type": "text",
+        "text": " 蔚蓝色的海洋果然会带来好心情！要和我一起去海边吗？♪₍๐•ᴗ•๐₎ "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/99f9ade3cea8a20cd7424bf73dbaeeb436081646.jpg",
+        "width": 2167,
+        "height": 1012,
+        "size_kb": 1454.345703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      },
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10551,
+    "comment": 535,
+    "forward": 171
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "976894138334052355",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/976894138334052355",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月14日",
+    "pub_ts": 1726289291,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "☆*:.｡. o8(≧▽≦)o .｡.:*☆\n前方歌行宇宙，准备和天依一起出发吧！\n\n🪐http://t.cn/A6RdW18j\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "☆*:.｡. o8(≧▽≦)o .｡.:*☆\n前方歌行宇宙，准备和天依一起出发吧！\n\n🪐"
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6RdW18j"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ac945e65a3b20f2156041f1cdf506f6036081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 204.3408203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-09-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/48cb74593aaf546bdc9331f04341efb736081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 199.435546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-09-14_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/47210c2faf68f84b94d7b5a6a406b00936081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2317.5185546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5165,
+    "comment": 190,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

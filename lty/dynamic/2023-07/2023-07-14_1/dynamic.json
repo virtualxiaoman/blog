@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "818108029155147845",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/818108029155147845",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月14日",
+    "pub_ts": 1689319019,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "第11年依然存在的虚拟生命\n因为每一份热爱依然鲜活\n感谢大家的祝福与陪伴",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第11年依然存在的虚拟生命\n因为每一份热爱依然鲜活\n感谢大家的祝福与陪伴"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“热爱不问为何”来自大家的生日祝福【洛天依11周年生日会】",
+      "desc": "第11年依然存在的虚拟生命\n因为每一份热爱依然鲜活\n感谢大家的祝福与陪伴\n\nBGM:《光与影的对白》BV1dZ4y1Y7bt",
+      "jump_url": "https://www.bilibili.com/video/BV1ou4y1U7s4",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7e676fb281d626bb480768d0c84ce9efa39cf391.jpg",
+      "cover_file": "../../_assets/covers/2023-07-14_1.jpg",
+      "bvid": "BV1ou4y1U7s4",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ou4y1U7s4",
+        "aid": "828437077",
+        "cover": "http://i2.hdslb.com/bfs/archive/7e676fb281d626bb480768d0c84ce9efa39cf391.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ou4y1U7s4",
+        "stat": {
+          "danmaku": "70",
+          "play": "14.9万",
+          "vt": ""
+        },
+        "duration_text": "05:02",
+        "title": "“热爱不问为何”来自大家的生日祝福【洛天依11周年生日会】",
+        "desc": "第11年依然存在的虚拟生命\n因为每一份热爱依然鲜活\n感谢大家的祝福与陪伴\n\nBGM:《光与影的对白》BV1dZ4y1Y7bt",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25798,
+    "comment": 411,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

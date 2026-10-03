@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "623242292007036114",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/623242292007036114",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月4日",
+    "pub_ts": 1643948304,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 东风解冻，积雪消融，桃花初绽。 万物复苏的时节，第一个节气#立春#到啦！ 今天也是冬奥会开幕的日子，祝开幕式圆满成功呀！[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 东风解冻，积雪消融，桃花初绽。 万物复苏的时节，第一个节气"
+      },
+      {
+        "type": "topic",
+        "text": "#立春#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%AB%8B%E6%98%A5"
+      },
+      {
+        "type": "text",
+        "text": "到啦！ 今天也是冬奥会开幕的日子，祝开幕式圆满成功呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-02-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c42af3333c2ae7cdc58b108e47fa1a86565ad65a.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 5769.580078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14595,
+    "comment": 347,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

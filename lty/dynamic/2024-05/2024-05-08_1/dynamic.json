@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "929120194873262119",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/929120194873262119",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月8日",
+    "pub_ts": 1715166053,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好听好听！[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好听好听！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4598,
+    "comment": 125,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 929089064955543590,
+    "orig_mid": 321056219,
+    "deleted": false,
+    "archive_dir": "../../../321056219/2024-05/2024-05-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

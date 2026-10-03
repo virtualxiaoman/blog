@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1130141212824567812",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1130141212824567812",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月1日",
+    "pub_ts": 1761969906,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "来支持啦[洛天依八音奇响动态_可爱][洛天依八音奇响动态_可爱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来支持啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4700,
+    "comment": 267,
+    "forward": 46
+  },
+  "forward": {
+    "orig_id": 1130139900770779141,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-11/2025-11-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:41:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

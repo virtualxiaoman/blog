@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1222989974792568854",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1222989974792568854",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月9日",
+    "pub_ts": 1783587943,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，邕江夜游洛天依主题游船“洛神号”将延期起航，广西的大家一定要注意安全，期待我们在晴朗的星空下，再次相会 [逆转童话动态_微笑]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，邕江夜游洛天依主题游船“洛神号”将延期起航，广西的大家一定要注意安全，期待我们在晴朗的星空下，再次相会 "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_微笑]",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/28b7f06a3b55053c7bdebd7bf1bb006e6278fea4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/微笑.gif",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "text": "[逆转童话动态_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4744,
+    "comment": 162,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1222988918191816704,
+    "orig_mid": 3546838101658257,
+    "deleted": false,
+    "archive_dir": "../../../3546838101658257/2026-07/2026-07-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:28:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

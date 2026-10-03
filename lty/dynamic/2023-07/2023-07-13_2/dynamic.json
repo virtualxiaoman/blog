@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817757572707647493",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817757572707647493",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689237422,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "你 也 一 起 变 蜥 蜴！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你 也 一 起 变 蜥 蜴！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "王牌蜥蜴洛天依登场！《蜥蜴舞曲》一起开跳！【洛天依11周年生日会】",
+      "desc": "你 也 一 起 变 蜥 蜴！\n\n《蜥蜴舞曲》\n作词/作曲/编曲：伊野奏\n调校：Creuzer\n原视频：BV1SR4y1w7MK",
+      "jump_url": "https://www.bilibili.com/video/BV1ru41157df",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/17619856d05a2c5c31a842862b305e203975dfbf.jpg",
+      "cover_file": "../../_assets/covers/2023-07-13_2.jpg",
+      "bvid": "BV1ru41157df",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ru41157df",
+        "aid": "530889230",
+        "cover": "http://i2.hdslb.com/bfs/archive/17619856d05a2c5c31a842862b305e203975dfbf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ru41157df",
+        "stat": {
+          "danmaku": "425",
+          "play": "40.4万",
+          "vt": ""
+        },
+        "duration_text": "02:31",
+        "title": "王牌蜥蜴洛天依登场！《蜥蜴舞曲》一起开跳！【洛天依11周年生日会】",
+        "desc": "你 也 一 起 变 蜥 蜴！\n\n《蜥蜴舞曲》\n作词/作曲/编曲：伊野奏\n调校：Creuzer\n原视频：BV1SR4y1w7MK",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 37851,
+    "comment": 890,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

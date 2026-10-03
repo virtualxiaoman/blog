@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "1209274035395887104",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1209274035395887104",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月2日",
+    "pub_ts": 1780394452,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "💙2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会\n全新主视觉海报公开&应援征集活动开启[洛天依八音奇响动态_支持]\n\n在下一次盛大相会之前，我想听你慢慢诉说\n所有你想描绘的风景，所以我们曾一起走过的回忆\n都将于此刻，于未来，镌刻最璀璨的诗篇[洛天依八音奇响动态_爱意]\n\n🎶活动详情\n即日起-8月30日，带活动话题#洛天依2026巡演#发布演唱会相关的内容\n可以是相关的内容创作，许下演唱会的歌单心愿、晒晒曾经的Live回忆等等~\n\n🎶活动奖励\n评选6位小伙伴送出洛天依「纯蓝幻乐」演唱会六城市门票各1张\n30位小伙伴送出洛天依周边礼包1份\n\n🎶演唱会主题页网页链接 \n\n一起奔赴我们的蔚蓝色海洋吧！[洛天依八音奇响动态_可爱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "💙2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会\n全新主视觉海报公开&应援征集活动开启"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_支持]",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/a26938e7da36b6c98ffd1c583c176e2181b5149c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n在下一次盛大相会之前，我想听你慢慢诉说\n所有你想描绘的风景，所以我们曾一起走过的回忆\n都将于此刻，于未来，镌刻最璀璨的诗篇"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶活动详情\n即日起-8月30日，带活动话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依2026巡演#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+      },
+      {
+        "type": "text",
+        "text": "发布演唱会相关的内容\n可以是相关的内容创作，许下演唱会的歌单心愿、晒晒曾经的Live回忆等等~\n\n🎶活动奖励\n评选6位小伙伴送出洛天依「纯蓝幻乐」演唱会六城市门票各1张\n30位小伙伴送出洛天依周边礼包1份\n\n🎶演唱会主题页"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/IwtLnri1wyKTXMFS.html"
+      },
+      {
+        "type": "text",
+        "text": " \n\n一起奔赴我们的蔚蓝色海洋吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-02_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/612e11cef635f7506225d61e4570698c36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 3250.820068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-06-02_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6568cf061da78720f8d1cdd8e3aacbd136081646.jpg",
+        "width": 750,
+        "height": 2841,
+        "size_kb": 2353.919921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/支持.gif",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "text": "[洛天依八音奇响动态_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7866,
+    "comment": 1734,
+    "forward": 1308
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

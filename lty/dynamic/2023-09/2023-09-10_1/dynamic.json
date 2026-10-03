@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "839425592501731398",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/839425592501731398",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月10日",
+    "pub_ts": 1694282401,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@PACS-@瑞羽よく@简单的小河中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@PACS-",
+        "mid": 163670244,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@瑞羽よく",
+        "mid": 1379569026,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@简单的小河",
+        "mid": 172361918,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4179,
+    "comment": 75,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 816345821234593793,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-07/2023-07-09_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

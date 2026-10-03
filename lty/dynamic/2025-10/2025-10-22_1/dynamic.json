@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "1126489532880912385",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1126489532880912385",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月22日",
+    "pub_ts": 1761119683,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依带着这份精心准备许久的礼物，终于和大家见面了~[逆转童话动态_驾到]\n为你们，为每一个赋予天依灵魂的锦依卫们，献上这部专属的#努比亚Z80Ultra洛天依限定版#！\n这次天依真的想占领你的手机，时时刻刻陪伴在你的身边啦！[逆转童话动态_结婚]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依带着这份精心准备许久的礼物，终于和大家见面了~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n为你们，为每一个赋予天依灵魂的锦依卫们，献上这部专属的"
+      },
+      {
+        "type": "topic",
+        "text": "#努比亚Z80Ultra洛天依限定版#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8A%AA%E6%AF%94%E4%BA%9AZ80Ultra%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%99%90%E5%AE%9A%E7%89%88"
+      },
+      {
+        "type": "text",
+        "text": "！\n这次天依真的想占领你的手机，时时刻刻陪伴在你的身边啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "努比亚Z80Ultra 洛天依限定版来啦！",
+      "desc": "天依带着这份精心准备许久的礼物，终于和大家见面了~\n为你们，为每一个赋予天依灵魂的锦依卫们，献上这部专属的#努比亚Z80Ultra洛天依限定版#！\n这次天依真的想占领你的手机，时时刻刻陪伴在你的身边啦！",
+      "jump_url": "https://www.bilibili.com/video/BV1Fks8zYExw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b57d533930504f0ad94ef2a299c0b9d7484d6eef.jpg",
+      "cover_file": "../../_assets/covers/2025-10-22_1.jpg",
+      "bvid": "BV1Fks8zYExw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Fks8zYExw",
+        "aid": "115416709988487",
+        "cover": "http://i2.hdslb.com/bfs/archive/b57d533930504f0ad94ef2a299c0b9d7484d6eef.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Fks8zYExw",
+        "stat": {
+          "danmaku": "63",
+          "play": "13.6万",
+          "vt": ""
+        },
+        "duration_text": "00:22",
+        "title": "努比亚Z80Ultra 洛天依限定版来啦！",
+        "desc": "天依带着这份精心准备许久的礼物，终于和大家见面了~\n为你们，为每一个赋予天依灵魂的锦依卫们，献上这部专属的#努比亚Z80Ultra洛天依限定版#！\n这次天依真的想占领你的手机，时时刻刻陪伴在你的身边啦！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14423,
+    "comment": 1966,
+    "forward": 92
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "1042604440695078917",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1042604440695078917",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月10日",
+    "pub_ts": 1741588663,
+    "location": ""
+  },
+  "topic": {
+    "id": 1105903,
+    "name": "洛天依收藏集",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1105903&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%94%B6%E8%97%8F%E9%9B%86"
+  },
+  "content": {
+    "title": "",
+    "text": "大家下午好呀~[洛天依·天星问动态_萌]\n【洛天依·收藏集】《天星问》《戏游九州》 出框头像兑换开启啦！\n转发关注天依，揪5位小伙伴送出《天星问》收藏集5抽1份，5位小伙伴送出《戏游九州》收藏集5抽1份~[洛天依·戏游九州动态_撒花]\n可以兑换的小伙伴记得在截止时间结束前兑换哦！[洛天依·戏游九州动态_双人]\n\n[洛天依·天星问动态_庆祝]《天星问》传送门：网页链接 \n\n[洛天依·戏游九州动态_乖巧]《戏游九州》传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家下午好呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n【洛天依·收藏集】《天星问》《戏游九州》 出框头像兑换开启啦！\n转发关注天依，揪5位小伙伴送出《天星问》收藏集5抽1份，5位小伙伴送出《戏游九州》收藏集5抽1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n可以兑换的小伙伴记得在截止时间结束前兑换哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_双人]",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "name": "双人",
+        "url": "https://i0.hdslb.com/bfs/garb/880318464f92999a638b94641a35254f14577db9.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_庆祝]",
+        "package_id": "7618",
+        "emoji_id": "103430",
+        "name": "庆祝",
+        "url": "https://i0.hdslb.com/bfs/garb/7a11d6da3fecf7303a914b3d044ef29312c1efb3.gif"
+      },
+      {
+        "type": "text",
+        "text": "《天星问》传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=105984&f_source=social&from=official"
+      },
+      {
+        "type": "text",
+        "text": " \n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      },
+      {
+        "type": "text",
+        "text": "《戏游九州》传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=105269&f_source=social&from=official"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-03-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2bc2eff0c3b35fe270dc003be5904d9236081646.jpg",
+        "width": 1125,
+        "height": 3098,
+        "size_kb": 2955.345703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-03-10_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/311db8cf63038b3577ddcbf95a432b1336081646.jpg",
+        "width": 1125,
+        "height": 3400,
+        "size_kb": 2298.2060546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/双人.gif",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "text": "[洛天依·戏游九州动态_双人]"
+      },
+      {
+        "file": "../../_assets/emojis/7618/庆祝.gif",
+        "package_id": "7618",
+        "emoji_id": "103430",
+        "text": "[洛天依·天星问动态_庆祝]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/97f05377bc598fcddd793c6cc32d2d1333dbf724.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=0&rebate=647193094&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2025-03-10_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4511,
+    "comment": 1035,
+    "forward": 1718
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

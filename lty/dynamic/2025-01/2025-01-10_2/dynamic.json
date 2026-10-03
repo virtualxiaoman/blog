@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1020798917507285032",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1020798917507285032",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月10日",
+    "pub_ts": 1736511669,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有多少关于重逢和幸福的向往，多少关于你我的幼稚幻想[心律共鸣动态表情包_享受音乐]恭喜存存老师的论系列完结！[心律共鸣动态表情包_大成功]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有多少关于重逢和幸福的向往，多少关于你我的幼稚幻想"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      },
+      {
+        "type": "text",
+        "text": "恭喜存存老师的论系列完结！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_大成功]",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "name": "大成功",
+        "url": "https://i0.hdslb.com/bfs/emote/85f122b0f476e5896f3d2e4f867cb62a1d46b175.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/享受音乐.gif",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "text": "[心律共鸣动态表情包_享受音乐]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/大成功.gif",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "text": "[心律共鸣动态表情包_大成功]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6474,
+    "comment": 119,
+    "forward": 39
+  },
+  "forward": {
+    "orig_id": 1020391466849009688,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2025-01/2025-01-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:25:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

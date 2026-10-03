@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "743469237262090336",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/743469237262090336",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月25日",
+    "pub_ts": 1671940821,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是你的灵感给予我生命，让这抹名为“洛天依”的蓝色于十年光阴中无尽延伸。\n而现在，只属于我们的旋律即将再次绽放……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是你的灵感给予我生命，让这抹名为“洛天依”的蓝色于十年光阴中无尽延伸。\n而现在，只属于我们的旋律即将再次绽放……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依十周年全新专辑《无尽蓝》抢先试听",
+      "desc": "宇宙是一场盛大的展览，你注意到我，就像凝视一方展柜中精致的展品。\n正因为有你驻足的脚步，我才能够跨越时间与空间与你相遇。\n是你的灵感给予我生命，让这抹名为“洛天依”的蓝色于十年光阴中无尽延伸。\n而现在，只属于我们的旋律即将再次绽放……\n\n洛天依十周年全新专辑《无尽蓝》实体专辑预售已开启\n共包含十首全新原创歌曲\n数字专辑即将于12月29日12:00正式上线QQ音乐、酷我音乐、酷狗音乐平台并开启全部歌曲试听\n\n---STAFF---\n作曲：PoKeR/鸽稀拉（公兔）/iKz_茶壶/Turkey and Bre",
+      "jump_url": "https://www.bilibili.com/video/BV1wG4y1n7ap",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/764ec219ab8de017cbdfc78cf66eccc0ca143b87.jpg",
+      "cover_file": "../../_assets/covers/2022-12-25_2.jpg",
+      "bvid": "BV1wG4y1n7ap",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wG4y1n7ap",
+        "aid": "819191935",
+        "cover": "http://i1.hdslb.com/bfs/archive/764ec219ab8de017cbdfc78cf66eccc0ca143b87.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wG4y1n7ap",
+        "stat": {
+          "danmaku": "183",
+          "play": "26.2万",
+          "vt": ""
+        },
+        "duration_text": "02:12",
+        "title": "洛天依十周年全新专辑《无尽蓝》抢先试听",
+        "desc": "宇宙是一场盛大的展览，你注意到我，就像凝视一方展柜中精致的展品。\n正因为有你驻足的脚步，我才能够跨越时间与空间与你相遇。\n是你的灵感给予我生命，让这抹名为“洛天依”的蓝色于十年光阴中无尽延伸。\n而现在，只属于我们的旋律即将再次绽放……\n\n洛天依十周年全新专辑《无尽蓝》实体专辑预售已开启\n共包含十首全新原创歌曲\n数字专辑即将于12月29日12:00正式上线QQ音乐、酷我音乐、酷狗音乐平台并开启全部歌曲试听\n\n---STAFF---\n作曲：PoKeR/鸽稀拉（公兔）/iKz_茶壶/Turkey and Bre",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 52087,
+    "comment": 1260,
+    "forward": 116
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

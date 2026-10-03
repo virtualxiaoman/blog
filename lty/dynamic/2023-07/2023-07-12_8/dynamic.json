@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817459527741866065",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817459527741866065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689168028,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "“在这舞池中央旋转 一二三 一二三”\n生日快乐！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“在这舞池中央旋转 一二三 一二三”\n生日快乐！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来吧，献上你的“爱”《二十三》【洛天依11周年生日会】",
+      "desc": "“在这舞池中央旋转 一二三 一二三”\n生日快乐！\n\n《二十三》\n作词/作曲/编曲/调音：JUSF周存\n原视频：BV1hi4y1j7e2",
+      "jump_url": "https://www.bilibili.com/video/BV1aX4y1a7Uh",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d0dd829b215ddb4dfab9c48a1031df1ce845580e.jpg",
+      "cover_file": "../../_assets/covers/2023-07-12_2.jpg",
+      "bvid": "BV1aX4y1a7Uh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1aX4y1a7Uh",
+        "aid": "358352467",
+        "cover": "http://i2.hdslb.com/bfs/archive/d0dd829b215ddb4dfab9c48a1031df1ce845580e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1aX4y1a7Uh",
+        "stat": {
+          "danmaku": "576",
+          "play": "31.4万",
+          "vt": ""
+        },
+        "duration_text": "03:06",
+        "title": "来吧，献上你的“爱”《二十三》【洛天依11周年生日会】",
+        "desc": "“在这舞池中央旋转 一二三 一二三”\n生日快乐！\n\n《二十三》\n作词/作曲/编曲/调音：JUSF周存\n原视频：BV1hi4y1j7e2",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 40717,
+    "comment": 1161,
+    "forward": 135
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

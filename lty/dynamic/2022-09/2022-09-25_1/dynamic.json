@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "709709256693121064",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/709709256693121064",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月25日",
+    "pub_ts": 1664080463,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这次天依在专辑中独唱的两首歌，都是非常温柔的歌曲呢~ 我们跟随生活的步调走走停停，时常会感到迷茫与疲惫，对过去遗憾不舍，又对未来忐忑不安，不妨带着一点期待向前再走走看吧，而在路途的每一道路口，会有我一直在这里等你。 为大家带来《光谱》作曲Tuno桐音老师和《我在这里等你》作曲Sarra梁馨予老师的创作者寄语，一起来看看吧！[洛天依_最喜欢你了]  —— 《光谱》 演唱：#洛天依# 作曲：Tuno桐音 作词：Tuno桐音 编曲：Tuno桐音 调校：鬼面P 曲绘：-ACR  《我在这里等你》 演唱：#洛天依# 作曲：Sarra梁馨予 作词：Sarra梁馨予 编曲：椒盐菠萝 调校：动点P 曲绘：郁剑坤\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次天依在专辑中独唱的两首歌，都是非常温柔的歌曲呢~ 我们跟随生活的步调走走停停，时常会感到迷茫与疲惫，对过去遗憾不舍，又对未来忐忑不安，不妨带着一点期待向前再走走看吧，而在路途的每一道路口，会有我一直在这里等你。 为大家带来《光谱》作曲Tuno桐音老师和《我在这里等你》作曲Sarra梁馨予老师的创作者寄语，一起来看看吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "  —— 《光谱》 演唱："
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 作曲：Tuno桐音 作词：Tuno桐音 编曲：Tuno桐音 调校：鬼面P 曲绘：-ACR  《我在这里等你》 演唱："
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 作曲：Sarra梁馨予 作词：Sarra梁馨予 编曲：椒盐菠萝 调校：动点P 曲绘：郁剑坤"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-25_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c62808e534d4a7c01bc024871640118c36081646.png",
+        "width": 1200,
+        "height": 1200,
+        "size_kb": 1537.28125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-09-25_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/34d3bd0d221008695f991793f936502236081646.png",
+        "width": 1200,
+        "height": 1200,
+        "size_kb": 1933.2353515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7407,
+    "comment": 157,
+    "forward": 53
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

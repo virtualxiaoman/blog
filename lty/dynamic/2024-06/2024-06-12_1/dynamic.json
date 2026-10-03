@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "942056842514661385",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/942056842514661385",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月12日",
+    "pub_ts": 1718178101,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "7月13日和7月14日，天依都会在BML的舞台上为大家带来演出，今年也在BML的舞台上相见吧！[洛天依蝶变_电子琴]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "7月13日和7月14日，天依都会在BML的舞台上为大家带来演出，今年也在BML的舞台上相见吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4802,
+    "comment": 272,
+    "forward": 138
+  },
+  "forward": {
+    "orig_id": 941999573466873863,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2024-06/2024-06-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:13:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

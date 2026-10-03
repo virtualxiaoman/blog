@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "493030845075042521",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/493030845075042521",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月18日",
+    "pub_ts": 1613631089,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "作业？[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "作业？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8547,
+    "comment": 427,
+    "forward": 59
+  },
+  "forward": {
+    "orig_id": 14170819394132207,
+    "orig_mid": 312381,
+    "deleted": false,
+    "archive_dir": "../../../312381/2017-01/2017-01-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

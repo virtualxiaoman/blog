@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "921590090703044676",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/921590090703044676",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月18日",
+    "pub_ts": 1713412814,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“乘风随心而去吧，向着无边的旷野，飞吧，去浪迹天涯。”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“乘风随心而去吧，向着无边的旷野，飞吧，去浪迹天涯。”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“天山不曾规定谁像她”洛天依原创曲《天山之外》【游学记新疆篇单曲】",
+      "desc": "洛天依游学记新疆篇单曲《天山之外》正式上线~\n♪网易云音乐： https://y.music.163.com/m/song?id=2145230796\n内蒙篇单曲BV1GC4y1K7ps\n西藏篇单曲BV1Rr42147Am\n云贵篇单曲BV1DC411V7nD\n至此，天依游学记收官EP《游四方》的四首全新原创单曲都全部与大家见面啦！大家最喜欢哪一首呢？\n\n天山怀抱的辽阔大地，既滋养鲜花烂漫，也庇佑草木勃发，\n肃穆的雪山与恒星，在苍穹之下，共同凝望着生命的蹒跚步伐。\n来自山巅的风，拂过洁白的云层，跃过四季流转",
+      "jump_url": "https://www.bilibili.com/video/BV16r42137W5",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8c85eb696260a2c1c89789033f38edfe81330d77.jpg",
+      "cover_file": "../../_assets/covers/2024-04-18_1.jpg",
+      "bvid": "BV16r42137W5",
+      "extra": {
+        "type": 1,
+        "bvid": "BV16r42137W5",
+        "aid": "1403277891",
+        "cover": "http://i1.hdslb.com/bfs/archive/8c85eb696260a2c1c89789033f38edfe81330d77.jpg",
+        "jump_url": "//www.bilibili.com/video/BV16r42137W5",
+        "stat": {
+          "danmaku": "2757",
+          "play": "65.4万",
+          "vt": ""
+        },
+        "duration_text": "03:43",
+        "title": "“天山不曾规定谁像她”洛天依原创曲《天山之外》【游学记新疆篇单曲】",
+        "desc": "洛天依游学记新疆篇单曲《天山之外》正式上线~\n♪网易云音乐： https://y.music.163.com/m/song?id=2145230796\n内蒙篇单曲BV1GC4y1K7ps\n西藏篇单曲BV1Rr42147Am\n云贵篇单曲BV1DC411V7nD\n至此，天依游学记收官EP《游四方》的四首全新原创单曲都全部与大家见面啦！大家最喜欢哪一首呢？\n\n天山怀抱的辽阔大地，既滋养鲜花烂漫，也庇佑草木勃发，\n肃穆的雪山与恒星，在苍穹之下，共同凝望着生命的蹒跚步伐。\n来自山巅的风，拂过洁白的云层，跃过四季流转",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 70915,
+    "comment": 1650,
+    "forward": 288
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

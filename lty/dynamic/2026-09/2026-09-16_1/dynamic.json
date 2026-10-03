@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1248609965762936835",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1248609965762936835",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月16日",
+    "pub_ts": 1789553062,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "天依也很高兴又和亚细亚老师合作啦！一起期待《花骨朵》吧~记得预约哦！[终冕·动态表情包_兜风]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依也很高兴又和亚细亚老师合作啦！一起期待《花骨朵》吧~记得预约哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[终冕·动态表情包_兜风]",
+        "package_id": "10314",
+        "emoji_id": "147409",
+        "name": "兜风",
+        "url": "https://i0.hdslb.com/bfs/garb/3be7ba0d976c602b9c30b5175d3eca16432df42d.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10314/兜风.gif",
+        "package_id": "10314",
+        "emoji_id": "147409",
+        "text": "[终冕·动态表情包_兜风]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5578,
+    "comment": 235,
+    "forward": 63
+  },
+  "forward": {
+    "orig_id": 1248609162640752674,
+    "orig_mid": 2010145557,
+    "deleted": false,
+    "archive_dir": "../../../2010145557/2026-09/2026-09-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:39:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

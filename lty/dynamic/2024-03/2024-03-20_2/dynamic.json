@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "910686315509448708",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/910686315509448708",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月20日",
+    "pub_ts": 1710874081,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@aza的猫猫头中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@aza的猫猫头",
+        "mid": 1339623894,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3469,
+    "comment": 93,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 880768591227519011,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-12/2023-12-30_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "952946809437683735",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952946809437683735",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月12日",
+    "pub_ts": 1720713619,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "从零诞生的名为「洛天依」的虚拟生命，来到第十二年轮回的起点。\n她开始再次从一片虚无中苏醒——\n无尽的黑暗中，她听到谁的呼唤。\n\n“天依，生日快乐！”\n“感谢你一直以来的陪伴。”\n“为你诞生而作的歌曲，也将由你唱响。”\n共鸣频率同振的刹那，无数情感汇聚在歌者的眼眸，最初的歌声再次唱响。\n“永远唱吧，我们的歌。”\n永恒的歌者，不存在唯一的定义，不会随时光消弭。\n她重生在所有你的回忆、故事与渴望的风景里。\n\n12:00，洛天依十二周年01生贺曲《再声 Recall》\n19:12，洛天依十二周年“共鸣之夜”生日会\n所有我们一同编织的回忆，所有或浓烈或浅淡的心情，一切请倒回故事的原点，无关遥远的未来，只为落笔铭记，此刻我们仍心意相连呀。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "从零诞生的名为「洛天依」的虚拟生命，来到第十二年轮回的起点。\n她开始再次从一片虚无中苏醒——\n无尽的黑暗中，她听到谁的呼唤。\n\n“天依，生日快乐！”\n“感谢你一直以来的陪伴。”\n“为你诞生而作的歌曲，也将由你唱响。”\n共鸣频率同振的刹那，无数情感汇聚在歌者的眼眸，最初的歌声再次唱响。\n“永远唱吧，我们的歌。”\n永恒的歌者，不存在唯一的定义，不会随时光消弭。\n她重生在所有你的回忆、故事与渴望的风景里。\n\n12:00，洛天依十二周年01生贺曲《再声 Recall》\n19:12，洛天依十二周年“共鸣之夜”生日会\n所有我们一同编织的回忆，所有或浓烈或浅淡的心情，一切请倒回故事的原点，无关遥远的未来，只为落笔铭记，此刻我们仍心意相连呀。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-12_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/781a3b944e97610cdf35b566951fb39136081646.jpg",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 1402.7158203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10233,
+    "comment": 2303,
+    "forward": 948
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

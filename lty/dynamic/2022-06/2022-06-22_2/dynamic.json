@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "674555593448488977",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/674555593448488977",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月22日",
+    "pub_ts": 1655895613,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "☆10周年线下活动速递——主题展·星空之约☆ 线下主题展有什么好玩的？天依来为大家揭秘啦！ 来到这片充满十年回忆的星空，我们会一起穿越时空隧道、回顾经典歌曲造型、沉浸式全息体验十年相伴的时光、感受属于创作者们的荣耀......还有免费扭蛋机、首发特典周边等你来体验~[洛天依_周年快乐]  ※展会开放时间 7月1日-8月21日  ※开票时间  6月24日晚19:12，#洛天依线下首展#门票将于Bilibili会员购、大麦网、票星球、大众点评、大悦城微信小程序正式开售。  活动详情请大家戳下方的长图查看，(8王龙）天依在10周年线下展现场期待与大家合照游玩哦！[洛天依_击掌] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "☆10周年线下活动速递——主题展·星空之约☆ 线下主题展有什么好玩的？天依来为大家揭秘啦！ 来到这片充满十年回忆的星空，我们会一起穿越时空隧道、回顾经典歌曲造型、沉浸式全息体验十年相伴的时光、感受属于创作者们的荣耀......还有免费扭蛋机、首发特典周边等你来体验~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      },
+      {
+        "type": "text",
+        "text": "  ※展会开放时间 7月1日-8月21日  ※开票时间  6月24日晚19:12，"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依线下首展#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BA%BF%E4%B8%8B%E9%A6%96%E5%B1%95"
+      },
+      {
+        "type": "text",
+        "text": "门票将于Bilibili会员购、大麦网、票星球、大众点评、大悦城微信小程序正式开售。  活动详情请大家戳下方的长图查看，(8王龙）天依在10周年线下展现场期待与大家合照游玩哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-22_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9dc0f2c06f77ad7abe3ae60121e7aa2b0971061c.png",
+        "width": 800,
+        "height": 15616,
+        "size_kb": 10932.5478515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/周年快乐.png",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "text": "[洛天依_周年快乐]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7139,
+    "comment": 473,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:48:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

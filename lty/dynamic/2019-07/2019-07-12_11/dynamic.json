@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "275306673530884241",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/275306673530884241",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562938230,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2019洛天依生日会# 守护的意志，将会凌驾于光与暗。因为你们的心意，我得以用我手中的利刃，去守护圣都的这份安宁。\n@300大作战 中，天依将以特殊形态--洛天依SP登场。来吧，与我共同战斗！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 守护的意志，将会凌驾于光与暗。因为你们的心意，我得以用我手中的利刃，去守护圣都的这份安宁。\n@300大作战 中，天依将以特殊形态--洛天依SP登场。来吧，与我共同战斗！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "#2019洛天依生日会# 守护的意志，将",
+      "desc": "#2019洛天依生日会# 守护的意志，将会凌驾于光与暗。因为你们的心意，我得以用我手中的利刃，去守护圣都的这份安宁。\n@300大作战 中，天依将以特殊形态--洛天依SP登场。来吧，与我共同战斗！",
+      "jump_url": "https://www.bilibili.com/video/BV1rD4y1R7gC",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/528ec2c87120ccc71be9c7a78c240465e9d41f30.jpg",
+      "cover_file": "../../_assets/covers/2019-07-12_4.jpg",
+      "bvid": "BV1rD4y1R7gC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1rD4y1R7gC",
+        "aid": "712282397",
+        "cover": "http://i2.hdslb.com/bfs/archive/528ec2c87120ccc71be9c7a78c240465e9d41f30.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1rD4y1R7gC",
+        "stat": {
+          "danmaku": "10",
+          "play": "4402",
+          "vt": ""
+        },
+        "duration_text": "00:09",
+        "title": "#2019洛天依生日会# 守护的意志，将",
+        "desc": "#2019洛天依生日会# 守护的意志，将会凌驾于光与暗。因为你们的心意，我得以用我手中的利刃，去守护圣都的这份安宁。\n@300大作战 中，天依将以特殊形态--洛天依SP登场。来吧，与我共同战斗！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 291,
+    "comment": 771,
+    "forward": 110
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

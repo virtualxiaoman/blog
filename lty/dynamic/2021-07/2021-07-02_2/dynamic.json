@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "542861760026706649",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/542861760026706649",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月2日",
+    "pub_ts": 1625233253,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依0712生日快乐# #洛天依九周年#  天依九周年生日会入场券中奖名单来啦！120位中奖用户揭晓，大家快看看有没有自己的uid！[洛天依·夜航星_锦鲤] 非常感谢大家的参与，期待7月12日见到你们～ 接下来的两天内，老v将电话联系所有中奖用户确认到场信息和取票流程，工作人员将拨打三次电话，都没有接通的话会短信留言，7月5日之前还是无法取得联系的话，就会失去资格了，所以！大家一定注意接听最近的电话哦[洛天依·夜航星_好康]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "  天依九周年生日会入场券中奖名单来啦！120位中奖用户揭晓，大家快看看有没有自己的uid！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": " 非常感谢大家的参与，期待7月12日见到你们～ 接下来的两天内，老v将电话联系所有中奖用户确认到场信息和取票流程，工作人员将拨打三次电话，都没有接通的话会短信留言，7月5日之前还是无法取得联系的话，就会失去资格了，所以！大家一定注意接听最近的电话哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-02_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8ca3ddce26b9ddbd95c1298a8792aae93950bbea.jpg",
+        "width": 800,
+        "height": 3237,
+        "size_kb": 1240.931640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      },
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7502,
+    "comment": 538,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

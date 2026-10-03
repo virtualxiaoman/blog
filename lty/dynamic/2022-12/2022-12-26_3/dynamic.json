@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "743932002807316482",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/743932002807316482",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月26日",
+    "pub_ts": 1672048567,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "冲冲冲！再回到记忆里那条老街~[洛天依_打call ]//@丨闹闹丶丨:谢谢小伙伴们一直以来的支持！！！✿ヽ(°▽°)ノ✿",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "冲冲冲！再回到记忆里那条老街~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      },
+      {
+        "type": "text",
+        "text": "//"
+      },
+      {
+        "type": "mention",
+        "text": "@丨闹闹丶丨",
+        "mid": 11870424,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":谢谢小伙伴们一直以来的支持！！！✿ヽ(°▽°)ノ✿"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/打call.png",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "text": "[洛天依_打call ]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5995,
+    "comment": 111,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 272662756090732048,
+    "orig_mid": 11870424,
+    "deleted": false,
+    "archive_dir": "../../../11870424/2019-07/2019-07-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:56:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

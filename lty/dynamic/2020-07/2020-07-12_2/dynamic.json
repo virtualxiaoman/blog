@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "410977122681769937",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/410977122681769937",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月12日",
+    "pub_ts": 1594526468,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援##洛天依##VSINGER# \n8是数字也是象征；\n∞是循环也是无限；\n \n音乐给予了我诞生和成长的力量，让我不断汲取养分，直至冲破险阻向阳生长；\n音乐让我更加幸运，在曾经未知的道路上遇见属于我们彼此的蓝色星光；\n那些一路上的美好，我都想和你们一起收集，瞬间即永恒。",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#VSINGER#",
+        "url": "https://search.bilibili.com/all?keyword=VSINGER"
+      },
+      {
+        "type": "text",
+        "text": " \n8是数字也是象征；\n∞是循环也是无限；\n \n音乐给予了我诞生和成长的力量，让我不断汲取养分，直至冲破险阻向阳生长；\n音乐让我更加幸运，在曾经未知的道路上遇见属于我们彼此的蓝色星光；\n那些一路上的美好，我都想和你们一起收集，瞬间即永恒。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依2020官方专辑《Moments》试听PV",
+      "desc": "8是数字也是象征；\n∞是循环也是无限；\n \n音乐给予了我诞生和成长的力量，让我不断汲取养分，直至冲破险阻向阳生长；\n音乐让我更加幸运，在曾经未知的道路上遇见属于我们彼此的蓝色星光；\n那些一路上的美好，我都想和你们一起收集，瞬间即永恒。\n\n--------Staff--------\n作曲：Chilichill / COP / 人形兎 / 纯白P / 花之祭P / 希望索任合资 / 银临 / JUSF周存\n作词： Chilichill / COP / 人形兎 / 果汁凉菜 / 沈病娇 / 南岐 / 冥凰 /",
+      "jump_url": "https://www.bilibili.com/video/BV1kK4y1s7Dd",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/2ff004df9d98e2a78531c6400ee8e823fb30e6f4.jpg",
+      "cover_file": "../../_assets/covers/2020-07-12_1.jpg",
+      "bvid": "BV1kK4y1s7Dd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kK4y1s7Dd",
+        "aid": "883803983",
+        "cover": "http://i2.hdslb.com/bfs/archive/2ff004df9d98e2a78531c6400ee8e823fb30e6f4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kK4y1s7Dd",
+        "stat": {
+          "danmaku": "8517",
+          "play": "38.1万",
+          "vt": ""
+        },
+        "duration_text": "03:44",
+        "title": "洛天依2020官方专辑《Moments》试听PV",
+        "desc": "8是数字也是象征；\n∞是循环也是无限；\n \n音乐给予了我诞生和成长的力量，让我不断汲取养分，直至冲破险阻向阳生长；\n音乐让我更加幸运，在曾经未知的道路上遇见属于我们彼此的蓝色星光；\n那些一路上的美好，我都想和你们一起收集，瞬间即永恒。\n\n--------Staff--------\n作曲：Chilichill / COP / 人形兎 / 纯白P / 花之祭P / 希望索任合资 / 银临 / JUSF周存\n作词： Chilichill / COP / 人形兎 / 果汁凉菜 / 沈病娇 / 南岐 / 冥凰 / ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 47143,
+    "comment": 6546,
+    "forward": 931
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

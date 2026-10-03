@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "460461755887796640",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/460461755887796640",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年11月22日",
+    "pub_ts": 1606048007,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "周末要结束了，怎么对付明天的起床气呢？( •̥́ ˍ •̀ू )",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "周末要结束了，怎么对付明天的起床气呢？( •̥́ ˍ •̀ू )"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5505,
+    "comment": 213,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 459666392370227784,
+    "orig_mid": 11870424,
+    "deleted": false,
+    "archive_dir": "../../../11870424/2020-11/2020-11-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

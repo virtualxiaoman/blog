@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1202872691565002966",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1202872691565002966",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月16日",
+    "pub_ts": 1778904023,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "同频Melody【洛天依×BDF2026主题曲】",
+      "desc": "洛天依×哔哩哔哩宅舞嘉年华BDF2026\n主题曲《同频Melody》\n哪怕前路崎岖，哪怕孤独徘徊\n只要有热爱，只要刹那同频\n就尽管跟随旋律，跳出属于我们的专属轨迹！\n\n“跃向晴空雨季 延续相伴的约定”\n演唱：洛天依\n编舞：@小呕像雯籽  \n作曲：@丨闹闹丶丨   \n作词：@是纪远不是之元   /@丨闹闹丶丨  \n编曲/混音：@LS=_=  \n调教：@莫米兔  \n\n歌曲也在各大音乐平台同步上线啦，欢迎大家前往收听，一起加入这场舞蹈狂欢吧~\n✨https://www.bilibili.com/blackboa",
+      "jump_url": "https://www.bilibili.com/video/BV1Tz5i6WEzt",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7202839e118733b872fb80f41bd224cbe1cf3f0a.jpg",
+      "cover_file": "../../_assets/covers/2026-05-16_1.jpg",
+      "bvid": "BV1Tz5i6WEzt",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Tz5i6WEzt",
+        "aid": "116578834319952",
+        "cover": "http://i2.hdslb.com/bfs/archive/7202839e118733b872fb80f41bd224cbe1cf3f0a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Tz5i6WEzt",
+        "stat": {
+          "danmaku": "376",
+          "play": "42.4万",
+          "vt": ""
+        },
+        "duration_text": "01:52",
+        "title": "同频Melody【洛天依×BDF2026主题曲】",
+        "desc": "洛天依×哔哩哔哩宅舞嘉年华BDF2026\n主题曲《同频Melody》\n哪怕前路崎岖，哪怕孤独徘徊\n只要有热爱，只要刹那同频\n就尽管跟随旋律，跳出属于我们的专属轨迹！\n\n“跃向晴空雨季 延续相伴的约定”\n演唱：洛天依\n编舞：@小呕像雯籽  \n作曲：@丨闹闹丶丨   \n作词：@是纪远不是之元   /@丨闹闹丶丨  \n编曲/混音：@LS=_=  \n调教：@莫米兔  \n\n歌曲也在各大音乐平台同步上线啦，欢迎大家前往收听，一起加入这场舞蹈狂欢吧~\n✨https://www.bilibili.com/blackboa",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41529,
+    "comment": 1624,
+    "forward": 264
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

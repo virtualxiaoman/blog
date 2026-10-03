@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "903526239953748009",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/903526239953748009",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月29日",
+    "pub_ts": 1709206996,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "今天是四年一遇的特别日子，也要和大家留下特别的回忆！[洛天依蝶变_害羞]\n天空，大海，蔚蓝色潮汐......\n在上次的聊天室里，很多小伙伴都用它们形容天依的“蓝色印象”\n无限的宽广与包容，天依真希望可以一直成为大家心中这样的存在~ [洛天依幻游世界_摸摸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天是四年一遇的特别日子，也要和大家留下特别的回忆！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天空，大海，蔚蓝色潮汐......\n在上次的聊天室里，很多小伙伴都用它们形容天依的“蓝色印象”\n无限的宽广与包容，天依真希望可以一直成为大家心中这样的存在~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_摸摸]",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c97346bd9f5bb64a1cad8eecf85f50cc7a083eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c9f8c59eb3bdd83d486ffaa2ea81b6ca36081646.jpg",
+        "width": 4000,
+        "height": 2520,
+        "size_kb": 685.0595703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-29_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8556c0b3b2a4a1f80df953674f16083836081646.jpg",
+        "width": 3000,
+        "height": 2121,
+        "size_kb": 510.9150390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/摸摸.png",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "text": "[洛天依幻游世界_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6683,
+    "comment": 316,
+    "forward": 125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

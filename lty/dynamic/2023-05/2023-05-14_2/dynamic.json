@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "795584988904947766",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/795584988904947766",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月14日",
+    "pub_ts": 1684074965,
+    "location": ""
+  },
+  "topic": {
+    "id": 1043607,
+    "name": "美依礼芽洛天依梦幻联动",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1043607&topic_name=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
+  },
+  "content": {
+    "title": "",
+    "text": "这次天依借着给GARNiDELiA送祝福的机会，也好好回顾了一下这些精彩的视频，有一种属于曾经那段特别回忆的快乐和感动~\r\n非常感谢创作出这些精彩视频的创作老师们，大家也一起再欣赏一下完整版吧！[洛天依幻游世界_i了i了]\r\n\r\n【MMD】极乐净土[原版洛天依]\r\n【MMD】极乐净土[原版洛天依]\r\n【MMD】极乐净土【金丝雀洛天依】\r\n【MMD】极乐净土【金丝雀洛天依】\r\n【MMD】极乐净土【杏辞洛天依】\r\n【MMD】极乐净土【杏辞洛天依】\r\n【VC·MMD】极乐净土【金丝雀旗袍洛天依】\r\n【VC·MMD】极乐净土【金丝雀旗袍洛天依】\r\n杏辞洛天依 - 极乐净土\r\n杏辞洛天依 - 极乐净土\r\n【RAY-MMD】3D环绕音效-1080/60FPS-极致手办风渲染-金丝雀洛天依\r\n【RAY-MMD】3D环绕音效-1080/60FPS-极致手办风渲染-金丝雀洛天依\r\n【1080P/60帧】【MMD-7洛天依-极乐净土】来享受这7倍的快乐吧!\r\n【1080P/60帧】【MMD-7洛天依-极乐净土】来享受这7倍的快乐吧!\r\n【洛天依乐正绫】极乐净土【雨狸中文填词】【MMDPV付·旗袍南北组】\r\n【洛天依乐正绫】极乐净土【雨狸中文填词】【MMDPV付·旗袍南北组】\r\n【洛天依MMD】婚纱天依染上你的颜色\r\n【洛天依MMD】婚纱天依染上你的颜色",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次天依借着给GARNiDELiA送祝福的机会，也好好回顾了一下这些精彩的视频，有一种属于曾经那段特别回忆的快乐和感动~\r\n非常感谢创作出这些精彩视频的创作老师们，大家也一起再欣赏一下完整版吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      },
+      {
+        "type": "text",
+        "text": "\r\n\r\n【MMD】极乐净土"
+      },
+      {
+        "type": "text",
+        "text": "[原版洛天依]"
+      },
+      {
+        "type": "text",
+        "text": "\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【MMD】极乐净土[原版洛天依]",
+        "url": "https://www.bilibili.com/video/BV1ps411C7v7",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【MMD】极乐净土【金丝雀洛天依】\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【MMD】极乐净土【金丝雀洛天依】",
+        "url": "https://www.bilibili.com/video/BV1bs411176B",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【MMD】极乐净土【杏辞洛天依】\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【MMD】极乐净土【杏辞洛天依】",
+        "url": "https://www.bilibili.com/video/BV1rt411K7sQ",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【VC·MMD】极乐净土【金丝雀旗袍洛天依】\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【VC·MMD】极乐净土【金丝雀旗袍洛天依】",
+        "url": "https://www.bilibili.com/video/BV12s411y7Qt",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n杏辞洛天依 - 极乐净土\r\n"
+      },
+      {
+        "type": "video",
+        "text": "杏辞洛天依 - 极乐净土",
+        "url": "https://www.bilibili.com/video/BV1N4411J7a3",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【RAY-MMD】3D环绕音效-1080/60FPS-极致手办风渲染-金丝雀洛天依\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【RAY-MMD】3D环绕音效-1080/60FPS-极致手办风渲染-金丝雀洛天依",
+        "url": "https://www.bilibili.com/video/BV1hW41157qF",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【1080P/60帧】【MMD-7洛天依-极乐净土】来享受这7倍的快乐吧!\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【1080P/60帧】【MMD-7洛天依-极乐净土】来享受这7倍的快乐吧!",
+        "url": "https://www.bilibili.com/video/BV1c4411R74u",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【洛天依乐正绫】极乐净土【雨狸中文填词】【MMDPV付·旗袍南北组】\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依乐正绫】极乐净土【雨狸中文填词】【MMDPV付·旗袍南北组】",
+        "url": "https://www.bilibili.com/video/BV1es411b79W",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n【洛天依MMD】婚纱天依染上你的颜色\r\n"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依MMD】婚纱天依染上你的颜色",
+        "url": "https://www.bilibili.com/video/BV14x411L7Sm",
+        "video": null
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7699,
+    "comment": 224,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

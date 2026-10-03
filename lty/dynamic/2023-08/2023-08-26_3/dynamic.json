@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "834129846311321625",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/834129846311321625",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月26日",
+    "pub_ts": 1693049389,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依# #洛天依游学记#\n转发关注天依，揪3位小伙伴送出【价值500元洛天依周边礼包】1份。\n\n《天依游学记·歌行》西藏篇采风vlog已发布~\n点击看虚拟歌手学非遗藏戏！【天依游学记·歌行 西藏篇采风Vlog】\n\n西藏——千山之巅 万水之源\r\n雪域高原之上，孕育而出最辽阔的歌声。\r\n歌行的第二站，天依收到拉萨扎念弹唱非遗传承人旦增益西老师的邀请，来到西藏。\r\n\r\n这次游学之旅，在老师的帮助下，天依了解到了藏戏的缘起，了解到了在藏族音乐背后蕴藏的人文情怀，亲身感受到了藏族传统乐器触达灵魂的高远意蕴。\r\n这种美，跨越语言，无需歌词，也可以通达人心，天依还学习了一小段哦！\r\n我会将西藏世界音乐加入我的音乐作品，欢迎来自这里或者了解这里的朋友，分享更多西藏文化的悠久历史~\r\n\r\n[洛天依幻游世界_锦鲤保佑]拜托大家的任务列表更新啦——\r\n【全系列采风vlog视频（内蒙、西藏、新疆、幕后）总播放量达成100w】即会加更各地的民族风原创音乐作品和天依的民族服饰新装模型哦！\r\n\r\n下一站——新疆！\r\n不知不觉歌行已进入到第二站，未来天依还会去到更多有歌声、有音乐的地方。\r\n大家还期待天依去到哪里呀？期待去到自己的家乡吗？嘿嘿，让我看见你们的评论吧！[古色花香洛天依_期待]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "177748",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪3位小伙伴送出【价值500元洛天依周边礼包】1份。\n\n《天依游学记·歌行》西藏篇采风vlog已发布~\n"
+      },
+      {
+        "type": "video",
+        "text": "点击看虚拟歌手学非遗藏戏！【天依游学记·歌行 西藏篇采风Vlog】",
+        "url": "https://www.bilibili.com/video/av532722673",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n西藏——千山之巅 万水之源\r\n雪域高原之上，孕育而出最辽阔的歌声。\r\n歌行的第二站，天依收到拉萨扎念弹唱非遗传承人旦增益西老师的邀请，来到西藏。\r\n\r\n这次游学之旅，在老师的帮助下，天依了解到了藏戏的缘起，了解到了在藏族音乐背后蕴藏的人文情怀，亲身感受到了藏族传统乐器触达灵魂的高远意蕴。\r\n这种美，跨越语言，无需歌词，也可以通达人心，天依还学习了一小段哦！\r\n我会将西藏世界音乐加入我的音乐作品，欢迎来自这里或者了解这里的朋友，分享更多西藏文化的悠久历史~\r\n\r\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_锦鲤保佑]",
+        "package_id": "1066",
+        "emoji_id": "18934",
+        "name": "锦鲤保佑",
+        "url": "https://i0.hdslb.com/bfs/garb/item/93fad16d3ab28739667b6c276f02bfdbbcf58cb7.png"
+      },
+      {
+        "type": "text",
+        "text": "拜托大家的任务列表更新啦——\r\n【全系列采风vlog视频（内蒙、西藏、新疆、幕后）总播放量达成100w】即会加更各地的民族风原创音乐作品和天依的民族服饰新装模型哦！\r\n\r\n下一站——新疆！\r\n不知不觉歌行已进入到第二站，未来天依还会去到更多有歌声、有音乐的地方。\r\n大家还期待天依去到哪里呀？期待去到自己的家乡吗？嘿嘿，让我看见你们的评论吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_期待]",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9411ae257748b157322ccdde03cdbd9f59968cbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7e0ee46b3edb3e323ae3dd29fa771e3236081646.jpg",
+        "width": 1146,
+        "height": 717,
+        "size_kb": 638.5986328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/锦鲤保佑.png",
+        "package_id": "1066",
+        "emoji_id": "18934",
+        "text": "[洛天依幻游世界_锦鲤保佑]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/期待.png",
+        "package_id": "1096",
+        "emoji_id": "19429",
+        "text": "[古色花香洛天依_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "177748"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8302,
+    "comment": 990,
+    "forward": 6278
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

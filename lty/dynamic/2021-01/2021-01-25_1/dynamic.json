@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "484067205381921867",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/484067205381921867",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月25日",
+    "pub_ts": 1611544079,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "新的一年里，天依想和你一起，把最美的样子留在心底。 这个新年，很荣幸能和交通银行信用卡合作，以最美的夜造型定格卡面，陪伴在大家的身边。 未来传送门已经开启，与天依一起刷开新次元。参与洛天依卡面应援，选出你最喜欢的卡面，期待更加美好的未来！ 应援链接 网页链接 转发本条动态，将于2月22日10:00，抽取1人获得洛天依木版画1张、5人送出洛天依双插立牌各1个、30人送出洛天依主题徽章各1枚。 ​互动抽奖 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新的一年里，天依想和你一起，把最美的样子留在心底。 这个新年，很荣幸能和交通银行信用卡合作，以最美的夜造型定格卡面，陪伴在大家的身边。 未来传送门已经开启，与天依一起刷开新次元。参与洛天依卡面应援，选出你最喜欢的卡面，期待更加美好的未来！ 应援链接 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/activity--CH2LgC4D.html"
+      },
+      {
+        "type": "text",
+        "text": " 转发本条动态，将于2月22日10:00，抽取1人获得洛天依木版画1张、5人送出洛天依双插立牌各1个、30人送出洛天依主题徽章各1枚。 "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "57102",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-01-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/11c26c7446cda7d8f9a83887c50c99f39f4f9d7c.jpg",
+        "width": 1560,
+        "height": 2410,
+        "size_kb": 2930.8271484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "57102"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10431,
+    "comment": 1344,
+    "forward": 4901
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "671942814677860404",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/671942814677860404",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月15日",
+    "pub_ts": 1655287278,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "☆@洛天依 x @bilipods  · 周边预售☆  「YAMMY TIME冰淇淋蛋糕」真无线耳机套装，预售即将开启啦！转+关，抽3位小伙伴各获得洛天依「YAMMY TIME冰淇淋蛋糕」真无线耳机套装一副~  明媚的奶黄配色，可爱的立体装饰，当音乐与甜蜜的蛋糕邂逅，收获更美妙的听觉体验。快来拥有它，让天依陪伴你度过每一天幸福时光吧！  ◆天依一定要你知道的秘密 -收录天依语音提示，如：#天依提醒电量不足啦#，#蓝牙已连接#，...... -精美包装呈现，预售期购买更有超多特典好礼哦~  ◆预售福利： -草莓天钿 金属徽章 -洛天依冰淇淋蛋糕 亚克力挂件 -洛天依&天钿 冰淇淋蛋糕贴纸 （领取规则详见长图）  ◆预售时间： -2022.06.15  周边上架 -2022.06.26 00:00正式开放预售  ◆预售价格：￥199元  ◆预售平台： @哔哩哔哩会员购 独家  更多详情，小伙伴们速戳长图查看~  #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "☆"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " x "
+      },
+      {
+        "type": "mention",
+        "text": "@bilipods",
+        "mid": 1275608712,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  · 周边预售☆  「YAMMY TIME冰淇淋蛋糕」真无线耳机套装，预售即将开启啦！转+关，抽3位小伙伴各获得洛天依「YAMMY TIME冰淇淋蛋糕」真无线耳机套装一副~  明媚的奶黄配色，可爱的立体装饰，当音乐与甜蜜的蛋糕邂逅，收获更美妙的听觉体验。快来拥有它，让天依陪伴你度过每一天幸福时光吧！  ◆天依一定要你知道的秘密 -收录天依语音提示，如："
+      },
+      {
+        "type": "topic",
+        "text": "#天依提醒电量不足啦#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E6%8F%90%E9%86%92%E7%94%B5%E9%87%8F%E4%B8%8D%E8%B6%B3%E5%95%A6"
+      },
+      {
+        "type": "text",
+        "text": "，"
+      },
+      {
+        "type": "topic",
+        "text": "#蓝牙已连接#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%93%9D%E7%89%99%E5%B7%B2%E8%BF%9E%E6%8E%A5"
+      },
+      {
+        "type": "text",
+        "text": "，...... -精美包装呈现，预售期购买更有超多特典好礼哦~  ◆预售福利： -草莓天钿 金属徽章 -洛天依冰淇淋蛋糕 亚克力挂件 -洛天依&天钿 冰淇淋蛋糕贴纸 （领取规则详见长图）  ◆预售时间： -2022.06.15  周边上架 -2022.06.26 00:00正式开放预售  ◆预售价格：￥199元  ◆预售平台： "
+      },
+      {
+        "type": "mention",
+        "text": "@哔哩哔哩会员购",
+        "mid": 174501086,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 独家  更多详情，小伙伴们速戳长图查看~  "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-15_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b21243e8fd0a4e7fb4c31668be8e8a2b05056a2a.jpg",
+        "width": 1000,
+        "height": 25891,
+        "size_kb": 10573.4365234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7161,
+    "comment": 1013,
+    "forward": 3269
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

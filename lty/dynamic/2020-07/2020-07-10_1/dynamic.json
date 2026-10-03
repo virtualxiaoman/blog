@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "410346011598835708",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/410346011598835708",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月10日",
+    "pub_ts": 1594379526,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援# #洛天依0712生日快乐#  在掌心之中，唱出你心里的歌声。 来自8周年的特别企划——【洛天依V4景品手办】商品化决定！  V4公式服象征着新的开始，也连接着过往记忆，小伙伴们初次看到这一身造型的时候，是不是也觉得又新鲜又怀念呢？ 相信System Service制作的洛天依V4景品手办可以让大家回忆那种感觉，手办将在今年的9月19日于哔哩哔哩会员购独家开售。  期待能跟你们创造更多数不尽的回忆，8周年让我们再次出发，牵起新的羁绊\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  在掌心之中，唱出你心里的歌声。 来自8周年的特别企划——【洛天依V4景品手办】商品化决定！  V4公式服象征着新的开始，也连接着过往记忆，小伙伴们初次看到这一身造型的时候，是不是也觉得又新鲜又怀念呢？ 相信System Service制作的洛天依V4景品手办可以让大家回忆那种感觉，手办将在今年的9月19日于哔哩哔哩会员购独家开售。  期待能跟你们创造更多数不尽的回忆，8周年让我们再次出发，牵起新的羁绊"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-10_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e3abee59bb83dfa168fdd94fffd73861625468d7.png",
+        "width": 853,
+        "height": 1280,
+        "size_kb": 1633.955078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9163,
+    "comment": 686,
+    "forward": 162
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

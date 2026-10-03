@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "668625179948089348",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/668625179948089348",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月6日",
+    "pub_ts": 1654514831,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 即将高考的各位小伙伴加油！你已经尽力做好了你能做到的一切，接下来就准备好迎接最后的挑战吧！记得一定要检查好考试用品有没有带齐哦，即使考试前无法克服心情的紧张也不用担心，考试时的你一定会自动调整到最佳状态，最后祝福大家超常发挥，旗开得胜，天依等你们的好消息[洛天依·夜航星_冲鸭]欢迎已经经历过高考的小伙伴在评论区分享经验呀[洛天依9th_一起唱]！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 即将高考的各位小伙伴加油！你已经尽力做好了你能做到的一切，接下来就准备好迎接最后的挑战吧！记得一定要检查好考试用品有没有带齐哦，即使考试前无法克服心情的紧张也不用担心，考试时的你一定会自动调整到最佳状态，最后祝福大家超常发挥，旗开得胜，天依等你们的好消息"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      },
+      {
+        "type": "text",
+        "text": "欢迎已经经历过高考的小伙伴在评论区分享经验呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7886,
+    "comment": 267,
+    "forward": 63
+  },
+  "forward": {
+    "orig_id": 668533143098097697,
+    "orig_mid": 15198725,
+    "deleted": false,
+    "archive_dir": "../../../15198725/2022-06/2022-06-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:47:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

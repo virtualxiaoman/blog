@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "1205938718351818753",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1205938718351818753",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月24日",
+    "pub_ts": 1779617888,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依永恒挚契#\n洛天依原创轻故事主题企划「人格镜像」第二季「永恒挚契」\n◆VOL.5「熠海昭光」原初神祇档案情报公开[逆转童话_结婚]\n\n“她把情绪丢进海里，而她听见了” ​​​\n\n🌲 ▌神格代号 ·  The Beacon 「森信」\n身份代号：寻求联结的森林精灵\n人格编码：理想主义倡导者\n\n🌊 ▌神格代号 · The Ocean 「潮汐」\n身份代号：包容万物的深海歌者 \n人格编码：探索型倡导者\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依永恒挚契#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B0%B8%E6%81%92%E6%8C%9A%E5%A5%91"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依原创轻故事主题企划「人格镜像」第二季「永恒挚契」\n◆VOL.5「熠海昭光」原初神祇档案情报公开"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话_结婚]",
+        "package_id": "8745",
+        "emoji_id": "121374",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/3fc09753896b9bf8f56f9c26dea40afc62fdae76.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“她把情绪丢进海里，而她听见了” ​​​\n\n🌲 ▌神格代号 ·  The Beacon 「森信」\n身份代号：寻求联结的森林精灵\n人格编码：理想主义倡导者\n\n🌊 ▌神格代号 · The Ocean 「潮汐」\n身份代号：包容万物的深海歌者 \n人格编码：探索型倡导者"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-24_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b0ced4038f5840dd242fde0d750afd9536081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 2852.85009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-05-24_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3a27d100ae502a88c672f8bcd1ecaa1836081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 3164.360107421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8745/结婚.png",
+        "package_id": "8745",
+        "emoji_id": "121374",
+        "text": "[逆转童话_结婚]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6207,
+    "comment": 258,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

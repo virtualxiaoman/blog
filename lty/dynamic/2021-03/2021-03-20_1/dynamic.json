@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "504137295501942288",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/504137295501942288",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年3月20日",
+    "pub_ts": 1616217011,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 🌸 #春分# 三月里桃花飘香，春意正浓~ 你们看现在天气这么好，不如大家一起来唱歌吧？  画师：Haku\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 🌸 "
+      },
+      {
+        "type": "topic",
+        "text": "#春分#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E5%88%86"
+      },
+      {
+        "type": "text",
+        "text": " 三月里桃花飘香，春意正浓~ 你们看现在天气这么好，不如大家一起来唱歌吧？  画师：Haku"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-03-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/6025f6ff2aefba7cba0ca909795eb731d5909c74.jpg",
+        "width": 1080,
+        "height": 1693,
+        "size_kb": 726.89,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10228,
+    "comment": 647,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

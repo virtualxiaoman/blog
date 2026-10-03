@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1247403017696706599",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1247403017696706599",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月13日",
+    "pub_ts": 1789272047,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "最终步「Draw 和棋」\n\n黑色的影与白色的城相互交叠，战争归于沉寂。\n黑与白的子民，重建了理想乡上的王国。[洛天依新像集 终冕_兜风]\n\n新的传说将由你和大家共同谱写~[洛天依新像集 终冕_贴贴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最终步「Draw 和棋」\n\n黑色的影与白色的城相互交叠，战争归于沉寂。\n黑与白的子民，重建了理想乡上的王国。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依新像集 终冕_兜风]",
+        "package_id": "10305",
+        "emoji_id": "147244",
+        "name": "兜风",
+        "url": "https://i0.hdslb.com/bfs/garb/69fc55a77afb52316fe4abf38514eb282670cccb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n新的传说将由你和大家共同谱写~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依新像集 终冕_贴贴]",
+        "package_id": "10305",
+        "emoji_id": "147242",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/c70c7c7a06196113d4187986d0cc729d26ac5331.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-13_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ad5dd840e493c697dfad1f5c32aac35936081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2732.090087890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10305/兜风.png",
+        "package_id": "10305",
+        "emoji_id": "147244",
+        "text": "[洛天依新像集 终冕_兜风]"
+      },
+      {
+        "file": "../../_assets/emojis/10305/贴贴.png",
+        "package_id": "10305",
+        "emoji_id": "147242",
+        "text": "[洛天依新像集 终冕_贴贴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5903,
+    "comment": 209,
+    "forward": 54
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

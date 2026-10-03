@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1226329831563591686",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1226329831563591686",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月18日",
+    "pub_ts": 1784365564,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "如梦般美好的真实，我们还要共赴千千万万遍",
+      "desc": "感谢大家陪伴天依度过了十四周年的生日，感谢北京环球度假区的独家冠名支持\n无论是在北京环球度假区、BW、星轶影城、还是直播间，无论线上线下\n感谢每一个来看天依，支持着天依的大家，我们马上纯蓝幻乐巡演北京首站见啦~",
+      "jump_url": "https://www.bilibili.com/video/BV1G1KP6SEcM",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/42a0b59f7a541bb42d60654bbdf67572dd6ff43c.jpg",
+      "cover_file": "../../_assets/covers/2026-07-18_1.jpg",
+      "bvid": "BV1G1KP6SEcM",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1G1KP6SEcM",
+        "aid": "116940165089129",
+        "cover": "http://i0.hdslb.com/bfs/archive/42a0b59f7a541bb42d60654bbdf67572dd6ff43c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1G1KP6SEcM",
+        "stat": {
+          "danmaku": "207",
+          "play": "9.8万",
+          "vt": ""
+        },
+        "duration_text": "01:31",
+        "title": "如梦般美好的真实，我们还要共赴千千万万遍",
+        "desc": "感谢大家陪伴天依度过了十四周年的生日，感谢北京环球度假区的独家冠名支持\n无论是在北京环球度假区、BW、星轶影城、还是直播间，无论线上线下\n感谢每一个来看天依，支持着天依的大家，我们马上纯蓝幻乐巡演北京首站见啦~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28228,
+    "comment": 892,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:31:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

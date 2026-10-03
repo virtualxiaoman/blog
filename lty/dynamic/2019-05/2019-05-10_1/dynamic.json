@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "251817557517513410",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/251817557517513410",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月10日",
+    "pub_ts": 1557469244,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天18:30在直播间5086有Big news发布哟！大家要来看呀~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天18:30在直播间5086有Big news发布哟！大家要来看呀~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3064,
+    "comment": 192,
+    "forward": 7
+  },
+  "forward": {
+    "orig_id": 251768427388635210,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2019-05/2019-05-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

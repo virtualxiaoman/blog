@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "896355972457431045",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/896355972457431045",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月10日",
+    "pub_ts": 1707537538,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "「龙女·洛天依」\n“有潜龙在渊 亦有飞龙在天\n所求所念 唯有众生 平安喜乐”\n卷❀关注天依，揪10位小伙伴送出【天依款 红包封面】1份~\n\n是腾跃四海的龙\n亦是引雷驾雾，司掌天下至水的神祗\n化冰携梅而来\n轻巧地落入你的心间\n让万物复生的春日就此降临\n天依祝你新的一年龙行大运，“天”天开心[Vsinger_加依]\n🎶《大哉乾元》大哉乾元【2024拜年纪单品】\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「龙女·洛天依」\n“有潜龙在渊 亦有飞龙在天\n所求所念 唯有众生 平安喜乐”\n卷❀关注天依，揪10位小伙伴送出【天依款 红包封面】1份~\n\n是腾跃四海的龙\n亦是引雷驾雾，司掌天下至水的神祗\n化冰携梅而来\n轻巧地落入你的心间\n让万物复生的春日就此降临\n天依祝你新的一年龙行大运，“天”天开心"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🎶《大哉乾元》"
+      },
+      {
+        "type": "video",
+        "text": "大哉乾元【2024拜年纪单品】",
+        "url": "https://www.bilibili.com/video/av1850465635",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8ec1dc29c0300c56b09adf4bc4cefdc536081646.jpg",
+        "width": 1290,
+        "height": 2796,
+        "size_kb": 4498.8125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-10_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1ee24fa99df78f509c6c18838b3de8bd36081646.jpg",
+        "width": 1290,
+        "height": 2796,
+        "size_kb": 3440.828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-10_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1206ebf3afac7942fa93f7f189fd8e5f36081646.jpg",
+        "width": 2676,
+        "height": 4068,
+        "size_kb": 622.8310546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9175,
+    "comment": 910,
+    "forward": 2651
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "273787212885430931",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/273787212885430931",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月8日",
+    "pub_ts": 1562584453,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "冲鸭！让我看看是哪个幸运的小伙伴(｡>∀<｡)",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "冲鸭！让我看看是哪个幸运的小伙伴(｡>∀<｡)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6277,
+    "comment": 555,
+    "forward": 132
+  },
+  "forward": {
+    "orig_id": 273778747504851530,
+    "orig_mid": 9617619,
+    "deleted": false,
+    "archive_dir": "../../../9617619/2019-07/2019-07-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

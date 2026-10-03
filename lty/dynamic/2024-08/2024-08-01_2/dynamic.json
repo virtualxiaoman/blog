@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "id": "960663366706135073",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/960663366706135073",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月1日",
+    "pub_ts": 1722510270,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n洛天依「动物劳模」系列新品周边预售即将开启~\n转发关注天依，揪1位小伙伴送出【全套徽章共4款】1份！\n\n劳模动物小天依堂堂登场！\n化身蜜蜂、奶牛、河狸、蜂鸟的QQ小洛\n大家最喜欢哪一个呀？[洛天依·收藏集表情包_带上这个吧]\n\n※预售时间：8月3日20:00-9月\n\n※传送门\n滴胶贴纸：网页链接\n吧唧：网页链接\n满版立牌：网页链接\n摇摇乐：网页链接\n毛绒挂件：网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "310410",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依「动物劳模」系列新品周边预售即将开启~\n转发关注天依，揪1位小伙伴送出【全套徽章共4款】1份！\n\n劳模动物小天依堂堂登场！\n化身蜜蜂、奶牛、河狸、蜂鸟的QQ小洛\n大家最喜欢哪一个呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_带上这个吧]",
+        "package_id": "5283",
+        "emoji_id": "77190",
+        "name": "带上这个吧",
+        "url": "https://i0.hdslb.com/bfs/garb/0547f4e8dcc55260979732418cc654cbb11f0d3a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※预售时间：8月3日20:00-9月\n\n※传送门\n滴胶贴纸："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/OXpa9fn"
+      },
+      {
+        "type": "text",
+        "text": "\n吧唧："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/YnjTRTl"
+      },
+      {
+        "type": "text",
+        "text": "\n满版立牌："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/X7nHrqZ"
+      },
+      {
+        "type": "text",
+        "text": "\n摇摇乐："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/UKs27Lm"
+      },
+      {
+        "type": "text",
+        "text": "\n毛绒挂件："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/HavHD7U"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/92065e080e642e1b42a5b3612ec8949f36081646.png",
+        "width": 1280,
+        "height": 7985,
+        "size_kb": 8310.51953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-08-01_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/17afc12b46867332e2d24b12281fda9b36081646.png",
+        "width": 1280,
+        "height": 7985,
+        "size_kb": 8351.4501953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-08-01_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2c1bef39f92cf371c104472007f2231d36081646.png",
+        "width": 1280,
+        "height": 7984,
+        "size_kb": 8496.0595703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-08-01_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a84cb9a03eefe256686d242e92655ab136081646.png",
+        "width": 1280,
+        "height": 7984,
+        "size_kb": 5675.490234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-08-01_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8f6bb781b0195f433a910659a73fa9f636081646.png",
+        "width": 750,
+        "height": 7527,
+        "size_kb": 8309.2802734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/带上这个吧.png",
+        "package_id": "5283",
+        "emoji_id": "77190",
+        "text": "[洛天依·收藏集表情包_带上这个吧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "310410"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6304,
+    "comment": 1399,
+    "forward": 7781
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

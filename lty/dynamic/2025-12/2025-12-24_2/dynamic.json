@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "1149832216296030228",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1149832216296030228",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月24日",
+    "pub_ts": 1766554575,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "武汉站即将到来之际，交通银行带着新卡面来和大家见面啦~[洛天依八音奇响动态_美丽]\n洛天依×交通银行主题信用卡巡演⌈蓝宝石⌋主题卡面酷飒来袭！[洛天依动态流光协奏_MVP]\n当然还有小交为大家准备的多重福利和惊喜权益！戳一戳get，和天依一起伴着回忆开启更多美好生活吧！ [洛天依动态流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "武汉站即将到来之际，交通银行带着新卡面来和大家见面啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依×交通银行主题信用卡巡演⌈蓝宝石⌋主题卡面酷飒来袭！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_MVP]",
+        "package_id": "8399",
+        "emoji_id": "115684",
+        "name": "MVP",
+        "url": "https://i0.hdslb.com/bfs/garb/29f34ef4cc757fde4fc64f616fde869d5e50ddfc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n当然还有小交为大家准备的多重福利和惊喜权益！戳一戳get，和天依一起伴着回忆开启更多美好生活吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/MVP.gif",
+        "package_id": "8399",
+        "emoji_id": "115684",
+        "text": "[洛天依动态流光协奏_MVP]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3748,
+    "comment": 193,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1149776491231313945,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2025-12/2025-12-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:43:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

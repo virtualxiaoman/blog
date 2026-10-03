@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "357516698376558754",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/357516698376558754",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月19日",
+    "pub_ts": 1582079243,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "千万播放达成啦(⑉• •⑉)‥♡ ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "千万播放达成啦(⑉• •⑉)‥♡ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13898,
+    "comment": 507,
+    "forward": 205
+  },
+  "forward": {
+    "orig_id": 8951059740352873,
+    "orig_mid": 3379951,
+    "deleted": false,
+    "archive_dir": "../../../3379951/2015-03/2015-03-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

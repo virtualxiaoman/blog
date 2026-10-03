@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1167328100581638163",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1167328100581638163",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月9日",
+    "pub_ts": 1770628153,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是可动手办哦！会是哪些幸运的小洛被大家带回家呢？[洛天依动态流光协奏_抱抱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是可动手办哦！会是哪些幸运的小洛被大家带回家呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4227,
+    "comment": 121,
+    "forward": 52
+  },
+  "forward": {
+    "orig_id": 1167310312934735877,
+    "orig_mid": 3546891031676962,
+    "deleted": false,
+    "archive_dir": "../../../3546891031676962/2026-02/2026-02-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:17:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

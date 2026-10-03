@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "680813034471424050",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/680813034471424050",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月9日",
+    "pub_ts": 1657352537,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是不同风格的天依！[洛天依]//@磁力赏:〓 全国发售日正式公开 〓\r\n本系列将于7月23日起登陆洛天依「星空之约」线下主题展发售，欢迎前往体验~\r\n同时全国多家线下合作门店及部分小程序也将同步发售，具体信息请关注@磁力赏 后续情报公开！\r\n▲════════▲\r\n@洛天依 独家版权画稿，带来八音盒、骨瓷杯套装、陶瓷杯垫等全新品类周边，还有帆布袋、亚克力挂件等限定周边待你解锁！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是不同风格的天依！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依]",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "name": "洛天依",
+        "url": "https://i0.hdslb.com/bfs/emote/9fe06f3594d9afaf4ee2b74770f1c3086ae0ba11.png"
+      },
+      {
+        "type": "text",
+        "text": "//"
+      },
+      {
+        "type": "mention",
+        "text": "@磁力赏",
+        "mid": 1287676222,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":〓 全国发售日正式公开 〓\r\n本系列将于7月23日起登陆洛天依「星空之约」线下主题展发售，欢迎前往体验~\r\n同时全国多家线下合作门店及部分小程序也将同步发售，具体信息请关注"
+      },
+      {
+        "type": "mention",
+        "text": "@磁力赏",
+        "mid": 1287676222,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 后续情报公开！\r\n▲════════▲\r\n"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 独家版权画稿，带来八音盒、骨瓷杯套装、陶瓷杯垫等全新品类周边，还有帆布袋、亚克力挂件等限定周边待你解锁！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/洛天依.png",
+        "package_id": "1",
+        "emoji_id": "7256",
+        "text": "[洛天依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4788,
+    "comment": 77,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 680755825504944147,
+    "orig_mid": 1287676222,
+    "deleted": false,
+    "archive_dir": "../../../1287676222/2022-07/2022-07-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:50:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

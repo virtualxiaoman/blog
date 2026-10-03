@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "id": "1022188738876276737",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1022188738876276737",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月14日",
+    "pub_ts": 1736835262,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依海洋之心#征集活动获奖结果公示！感谢大家的热情参与~[洛天依-潮声回响_舞蹈中]\n\n故事与歌声所至之处，洋流随行；\n在无尽的蔚蓝世界中，将珍宝送至你的面前。\n恭喜安紊恶口_ 、渺纱飘雪、一寸雨_ 、@齐亦橙P 、@潇潇不爱吃藕 几位老师在本次主题征集中获奖，请注意查收后台工作人员的发奖联络喔~[洛天依-潮声回响_摸摸头]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依海洋之心#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+      },
+      {
+        "type": "text",
+        "text": "征集活动获奖结果公示！感谢大家的热情参与~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n故事与歌声所至之处，洋流随行；\n在无尽的蔚蓝世界中，将珍宝送至你的面前。\n恭喜安紊恶口_ 、渺纱飘雪、一寸雨_ 、"
+      },
+      {
+        "type": "mention",
+        "text": "@齐亦橙P",
+        "mid": 12661425,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 、"
+      },
+      {
+        "type": "mention",
+        "text": "@潇潇不爱吃藕",
+        "mid": 275276553,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 几位老师在本次主题征集中获奖，请注意查收后台工作人员的发奖联络喔~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2dfd24e8c7409a2f7583555db4a90f5036081646.jpg",
+        "width": 1200,
+        "height": 2654,
+        "size_kb": 891.8095703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-01-14_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a6a017a6e2c22f50b8316fa43938329c36081646.jpg",
+        "width": 3915,
+        "height": 1767,
+        "size_kb": 2309.5009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-01-14_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4172587cc0c1e9af7c0a56d6959880c836081646.jpg",
+        "width": 4000,
+        "height": 5900,
+        "size_kb": 4401.1826171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-01-14_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0619c1da1516f65ad0af1f58a50fb3a936081646.jpg",
+        "width": 1162,
+        "height": 1620,
+        "size_kb": 623.431640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-01-14_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/20a6232b7ab8ea2b9ef72cdfc63274dd36081646.jpg",
+        "width": 1874,
+        "height": 1080,
+        "size_kb": 251.859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-01-14_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/467cdc23bb25a78f7315b914707ee0c736081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 662.294921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4783,
+    "comment": 69,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

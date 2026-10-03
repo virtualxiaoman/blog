@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "719482617988120626",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/719482617988120626",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月21日",
+    "pub_ts": 1666356001,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "秋风萧萧，国乐回潮，吟诵以歌，余音袅袅，天依邀你一起感受《诗经·秦风·蒹葭》的意蕴悠长。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "秋风萧萧，国乐回潮，吟诵以歌，余音袅袅，天依邀你一起感受《诗经·秦风·蒹葭》的意蕴悠长。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依AI】《诗经·秦风·蒹葭》—所谓“依”人，在水一方",
+      "desc": "吟诵：洛天依\n吉他：翟佳诺\n调校：鬼面P\n人声原音频出自《中华经典吟诵》中的篇目，由吟诵专家徐健顺老师主编，冶海璐吟诵，朱畅思老师吉他伴奏。翟佳诺老师基于冶海璐的吟诵，重新弹奏录制后由洛天依AI吟诵。\n开放一切非商二创授权，欢迎大家一起来#古音唤醒，吟诵重声。",
+      "jump_url": "https://www.bilibili.com/video/BV1EW4y1E7Cw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/511512aa3edd8303f0d5d6f57eb59b1c785988f9.jpg",
+      "cover_file": "../../_assets/covers/2022-10-21_3.jpg",
+      "bvid": "BV1EW4y1E7Cw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1EW4y1E7Cw",
+        "aid": "944353397",
+        "cover": "http://i2.hdslb.com/bfs/archive/511512aa3edd8303f0d5d6f57eb59b1c785988f9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1EW4y1E7Cw",
+        "stat": {
+          "danmaku": "342",
+          "play": "33.5万",
+          "vt": ""
+        },
+        "duration_text": "02:26",
+        "title": "【洛天依AI】《诗经·秦风·蒹葭》—所谓“依”人，在水一方",
+        "desc": "吟诵：洛天依\n吉他：翟佳诺\n调校：鬼面P\n人声原音频出自《中华经典吟诵》中的篇目，由吟诵专家徐健顺老师主编，冶海璐吟诵，朱畅思老师吉他伴奏。翟佳诺老师基于冶海璐的吟诵，重新弹奏录制后由洛天依AI吟诵。\n开放一切非商二创授权，欢迎大家一起来#古音唤醒，吟诵重声。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 55676,
+    "comment": 1056,
+    "forward": 192
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

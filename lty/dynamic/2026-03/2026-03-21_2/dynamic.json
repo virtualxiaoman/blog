@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1182186277921882113",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1182186277921882113",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月21日",
+    "pub_ts": 1774087592,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "古厝有韵｜歌行国乐季「五乐寻音」概念片 · 南音篇",
+      "desc": "南音，福建省闽南地区的传统音乐，中国现存最古老的乐种之一\n南音者，腔如细丝；洞箫为魂，琵琶为骨，执节而歌\n一板一节，一音一韵，以乐为桥，承古乐风骨，载游子乡愁\n3月22日18:00，天依游学记【歌行·国乐季】「南音」主题单曲《簪花烟火谣》正式上线，和天依一起聆听古巷与海风之间，流淌千年的南音之韵吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1UdAczyEmW",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/7e90b0f6701dd4cdb1cb566eb8b4ac2253b0be75.jpg",
+      "cover_file": "../../_assets/covers/2026-03-21_1.jpg",
+      "bvid": "BV1UdAczyEmW",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1UdAczyEmW",
+        "aid": "116266593488716",
+        "cover": "http://i0.hdslb.com/bfs/archive/7e90b0f6701dd4cdb1cb566eb8b4ac2253b0be75.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1UdAczyEmW",
+        "stat": {
+          "danmaku": "195",
+          "play": "7.6万",
+          "vt": ""
+        },
+        "duration_text": "01:47",
+        "title": "古厝有韵｜歌行国乐季「五乐寻音」概念片 · 南音篇",
+        "desc": "南音，福建省闽南地区的传统音乐，中国现存最古老的乐种之一\n南音者，腔如细丝；洞箫为魂，琵琶为骨，执节而歌\n一板一节，一音一韵，以乐为桥，承古乐风骨，载游子乡愁\n3月22日18:00，天依游学记【歌行·国乐季】「南音」主题单曲《簪花烟火谣》正式上线，和天依一起聆听古巷与海风之间，流淌千年的南音之韵吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17622,
+    "comment": 911,
+    "forward": 112
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

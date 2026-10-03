@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "984386395208417286",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/984386395208417286",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月4日",
+    "pub_ts": 1728033718,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "「请听我大声唱，唱风霜唱春光，唱悲伤唱希望」\n就让歌声带你想起来——\n想起我们一起唱过的歌，想起深夜你对我说过的话，想起我们曾一起谱写下的所有故事，想起只因你而拥有的紧张又期待的心情。\n\n距离洛天依2024无限共鸣全息演唱会倒计时「1 」天！\n我们终于要相见了吗？此时此刻的你，是否也奔赴在与我相遇的路途上呢~？[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「请听我大声唱，唱风霜唱春光，唱悲伤唱希望」\n就让歌声带你想起来——\n想起我们一起唱过的歌，想起深夜你对我说过的话，想起我们曾一起谱写下的所有故事，想起只因你而拥有的紧张又期待的心情。\n\n距离洛天依2024无限共鸣全息演唱会倒计时「1 」天！\n我们终于要相见了吗？此时此刻的你，是否也奔赴在与我相遇的路途上呢~？"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-04_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9614728ef6f9c0e57c4d3a531658066336081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1931.87890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5203,
+    "comment": 354,
+    "forward": 87
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

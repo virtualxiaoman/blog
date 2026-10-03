@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "id": "992548473750421511",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/992548473750421511",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月26日",
+    "pub_ts": 1729934100,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "🎵#洛天依海洋之心#轻故事集角色「洛天依·海洋精灵」公开🎵\n把漫长时光肆意挥霍在漂流中的种族，或许只有诞生于海浪间的精灵。\n大洋的眷顾赋予她足够的从容和自由，和敏锐而热情的心性。[洛天依心律共鸣表情包_开心]\n\n“你知道吗？不同区域的鲸鱼，叫声和食谱都是不一样的。”\n“就像不同区域的海水，在阳光照射下透出的蓝色也是各不相同的。”\n“想知道我怎么做到的？那就先跟着我游上几千米吧~”[洛天依蝶变_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎵"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依海洋之心#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+      },
+      {
+        "type": "text",
+        "text": "轻故事集角色「洛天依·海洋精灵」公开🎵\n把漫长时光肆意挥霍在漂流中的种族，或许只有诞生于海浪间的精灵。\n大洋的眷顾赋予她足够的从容和自由，和敏锐而热情的心性。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“你知道吗？不同区域的鲸鱼，叫声和食谱都是不一样的。”\n“就像不同区域的海水，在阳光照射下透出的蓝色也是各不相同的。”\n“想知道我怎么做到的？那就先跟着我游上几千米吧~”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fb62bc48efe03eb3b7152091aa4f101f36081646.jpg",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 3852.8515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-26_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ed3d89ff88cf7ca5c9f21a3e37add88d36081646.jpg",
+        "width": 4320,
+        "height": 2430,
+        "size_kb": 2864.5068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-26_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/56d756a99108058f247e87415124e50536081646.jpg",
+        "width": 3494,
+        "height": 1410,
+        "size_kb": 505.7080078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6669,
+    "comment": 384,
+    "forward": 139
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

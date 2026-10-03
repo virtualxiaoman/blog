@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "id": "905364198169509894",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/905364198169509894",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月5日",
+    "pub_ts": 1709634929,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 “天道自昆仑巍巍，翻起华夏巽震艮兑”\n恭喜《大哉乾元》突破195w播放啦！\n大哉乾元【2024拜年纪单品】\n曲中的天依人设图奉上~[Vsinger_加依]\n感谢所有staff老师们付出的心血，也感谢大家的喜爱与支持。\n200w播放助攻！转发关注天依，揪3位小伙伴送出【洛天依周边套装】1份。 \n\n总策划：@哈米伦的弄笛者 \n出品：@哔哩哔哩拜年纪\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "285836",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " “天道自昆仑巍巍，翻起华夏巽震艮兑”\n恭喜《大哉乾元》突破195w播放啦！\n"
+      },
+      {
+        "type": "video",
+        "text": "大哉乾元【2024拜年纪单品】",
+        "url": "https://www.bilibili.com/video/av1850465635",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n曲中的天依人设图奉上~"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢所有staff老师们付出的心血，也感谢大家的喜爱与支持。\n200w播放助攻！转发关注天依，揪3位小伙伴送出【洛天依周边套装】1份。 \n\n总策划："
+      },
+      {
+        "type": "mention",
+        "text": "@哈米伦的弄笛者",
+        "mid": 11742550,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n出品："
+      },
+      {
+        "type": "mention",
+        "text": "@哔哩哔哩拜年纪",
+        "mid": 1868902080,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-05_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/55ccedef0ba061a32063c1d1ac20da7036081646.jpg",
+        "width": 5688,
+        "height": 3271,
+        "size_kb": 2221.595703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-03-05_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/475593469037086b36a5ba5c8299e4e236081646.jpg",
+        "width": 11376,
+        "height": 6541,
+        "size_kb": 1753.1240234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-03-05_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0f83dc384d183c8fc275d19e3be451b336081646.png",
+        "width": 11376,
+        "height": 6541,
+        "size_kb": 1520.646484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-03-05_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/76c6c7e59b50feaa01de0b8abcd066f236081646.jpg",
+        "width": 11376,
+        "height": 6541,
+        "size_kb": 4683.6015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "285836"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8779,
+    "comment": 1008,
+    "forward": 6710
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

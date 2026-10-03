@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "880779985756880932",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/880779985756880932",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月30日",
+    "pub_ts": 1703910971,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "承接跨年之夜歌声的【歌行四方】 洛天依主题收藏集开启预约啦，和天依一起吟游四方吧~[洛天依蝶变_yalahula]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "承接跨年之夜歌声的【歌行四方】 洛天依主题收藏集开启预约啦，和天依一起吟游四方吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_yalahula]",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "name": "yalahula",
+        "url": "https://i0.hdslb.com/bfs/emote/d941d6d923f29c2eb47b5d6faa2035a4288bd033.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/yalahula.png",
+        "package_id": "3752",
+        "emoji_id": "52565",
+        "text": "[洛天依蝶变_yalahula]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3426,
+    "comment": 108,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 880770661415387189,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-12/2023-12-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:03:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

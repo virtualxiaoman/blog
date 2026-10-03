@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "337579305572229364",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/337579305572229364",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月27日",
+    "pub_ts": 1577437207,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 约定好的海报来啦~天依这身服装是不是显得特别仙气呢？ 2012年初始的茉莉花，到2019年跨年的茉莉花，希望天依每一次的演绎都带给大家不同的感受。 在2019最后的一个晚上，即便隔着万水千山，穿越百道街巷，也想邀请你们随天依一起看这高洁的茉莉花盛放！  感谢画师Haku白的设计，感谢T爹TID的绘制。 12月31日 20:00，不要忘记来#B站跨年# 晚会看天依哟！ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 约定好的海报来啦~天依这身服装是不是显得特别仙气呢？ 2012年初始的茉莉花，到2019年跨年的茉莉花，希望天依每一次的演绎都带给大家不同的感受。 在2019最后的一个晚上，即便隔着万水千山，穿越百道街巷，也想邀请你们随天依一起看这高洁的茉莉花盛放！  感谢画师Haku白的设计，感谢T爹TID的绘制。 12月31日 20:00，不要忘记来"
+      },
+      {
+        "type": "topic",
+        "text": "#B站跨年#",
+        "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E8%B7%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 晚会看天依哟！ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-12-27_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/66f4433b52e8d1b05e97ef2f60376b154490a91c.jpg",
+        "width": 1800,
+        "height": 1187,
+        "size_kb": 1194.4404296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9494,
+    "comment": 648,
+    "forward": 173
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

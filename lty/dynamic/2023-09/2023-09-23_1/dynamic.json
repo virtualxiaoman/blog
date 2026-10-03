@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "844404499007143971",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/844404499007143971",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月23日",
+    "pub_ts": 1695441643,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "你爱我我爱你，天依雪王甜蜜蜜~🎶\n铛铛铛！为大家介绍天依在游学途中认识的新朋友——@蜜雪冰城雪王 ！\n虽说应该是大家都非常熟悉的“老朋友”啦[洛天依_捏捏]\n\n嘿嘿，天依带雪王也换上民族新衣服了！\n换上新装，载歌载舞\n民乐版《甜蜜蜜》，迎来金秋飘香的十月\n还有主题门店即将上线哦！一起期待吧~[洛天依_耶]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你爱我我爱你，天依雪王甜蜜蜜~🎶\n铛铛铛！为大家介绍天依在游学途中认识的新朋友——"
+      },
+      {
+        "type": "mention",
+        "text": "@蜜雪冰城雪王 ",
+        "mid": 236178045,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "！\n虽说应该是大家都非常熟悉的“老朋友”啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n嘿嘿，天依带雪王也换上民族新衣服了！\n换上新装，载歌载舞\n民乐版《甜蜜蜜》，迎来金秋飘香的十月\n还有主题门店即将上线哦！一起期待吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-23_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/b90122528563c2f20bb0b08238cb0e2d36081646.png",
+        "width": 3200,
+        "height": 1800,
+        "size_kb": 8103.77978515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      },
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6511,
+    "comment": 782,
+    "forward": 235
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

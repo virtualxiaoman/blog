@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "491873402934372924",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/491873402934372924",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月15日",
+    "pub_ts": 1613361601,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# #转发抽奖#第四个猜谜来啦！俗话说瑞雪贺新春，小伙伴们的家乡下雪了吗？ 没有雪也没关系，让天依用魔法给你们堆个小雪人吧[洛天依·夜航星_转运] 这次的题目来了：天依第一次在电视演出中演唱英文歌曲时，合作的歌手是？ 天依会从正确答案的转评里抽出5个小伙伴送ta好看的色纸哦[洛天依_爱你] 画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "第四个猜谜来啦！俗话说瑞雪贺新春，小伙伴们的家乡下雪了吗？ 没有雪也没关系，让天依用魔法给你们堆个小雪人吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_转运]",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "name": "转运",
+        "url": "http://i0.hdslb.com/bfs/emote/2513203daab74688cea2c9a595e051f53fbcaa94.png"
+      },
+      {
+        "type": "text",
+        "text": " 这次的题目来了：天依第一次在电视演出中演唱英文歌曲时，合作的歌手是？ 天依会从正确答案的转评里抽出5个小伙伴送ta好看的色纸哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " 画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b945db294619bc94aef800b1a8754d69dd674212.jpg",
+        "width": 750,
+        "height": 750,
+        "size_kb": 652.5419921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/转运.png",
+        "package_id": "166",
+        "emoji_id": "3080",
+        "text": "[洛天依·夜航星_转运]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9353,
+    "comment": 2467,
+    "forward": 2008
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

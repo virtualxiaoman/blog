@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1158806297049563153",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1158806297049563153",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月17日",
+    "pub_ts": 1768644016,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【天依游学记·歌行国乐季 × 自贡文旅】第32届自贡国际恐龙灯会推广曲《千灯绘》即将正式上线啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【天依游学记·歌行国乐季 × 自贡文旅】第32届自贡国际恐龙灯会推广曲《千灯绘》即将正式上线啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "灯绘华夏 乐行四方｜《千灯绘》第32届自贡国际恐龙灯会推广曲",
+      "desc": "以灯为舟，载文明远航\n百灯如浪，映盛世穹苍\n天依很荣幸担任四川观察【虚拟音推大使】，演唱第32届自贡国际恐龙灯会推广曲《千灯绘》\n跟随天依的歌声，遇见璀璨耀眼的非遗彩灯文化，走进这场光影交织的梦幻盛宴吧~\n多个【天依游学记·歌行国乐季】主题造型灯组也将亮相灯会，1月下旬起，自贡中华彩灯大世界，我们不见不散呀！",
+      "jump_url": "https://www.bilibili.com/video/BV1ZcryBREMS",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/dfbb39890359d8569b20ae7cf32cc90f42fe6ba3.jpg",
+      "cover_file": "../../_assets/covers/2026-01-17_1.jpg",
+      "bvid": "BV1ZcryBREMS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZcryBREMS",
+        "aid": "115905195476803",
+        "cover": "http://i1.hdslb.com/bfs/archive/dfbb39890359d8569b20ae7cf32cc90f42fe6ba3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZcryBREMS",
+        "stat": {
+          "danmaku": "318",
+          "play": "23.6万",
+          "vt": ""
+        },
+        "duration_text": "01:54",
+        "title": "灯绘华夏 乐行四方｜《千灯绘》第32届自贡国际恐龙灯会推广曲",
+        "desc": "以灯为舟，载文明远航\n百灯如浪，映盛世穹苍\n天依很荣幸担任四川观察【虚拟音推大使】，演唱第32届自贡国际恐龙灯会推广曲《千灯绘》\n跟随天依的歌声，遇见璀璨耀眼的非遗彩灯文化，走进这场光影交织的梦幻盛宴吧~\n多个【天依游学记·歌行国乐季】主题造型灯组也将亮相灯会，1月下旬起，自贡中华彩灯大世界，我们不见不散呀！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 32775,
+    "comment": 1604,
+    "forward": 3545
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

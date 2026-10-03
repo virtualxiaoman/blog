@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1217839617521221639",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1217839617521221639",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月25日",
+    "pub_ts": 1782388782,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪1位小伙伴送出【VKEND × 洛天依 八音奇响 Ver. 1/7比例手办】1个！让八音盒中的珍珠少女，记录下曾一起走过的点滴回忆吧~[洛天依八音奇响动态_爱意]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪1位小伙伴送出【VKEND × 洛天依 八音奇响 Ver. 1/7比例手办】1个！让八音盒中的珍珠少女，记录下曾一起走过的点滴回忆吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6240,
+    "comment": 756,
+    "forward": 3821
+  },
+  "forward": {
+    "orig_id": 1217825852148940805,
+    "orig_mid": 3706937828969100,
+    "deleted": false,
+    "archive_dir": "../../../3706937828969100/2026-06/2026-06-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:25:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "444057510554619466",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/444057510554619466",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年10月9日",
+    "pub_ts": 1602228596,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "寒露过后，秋意更重了",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "寒露过后，秋意更重了"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5848,
+    "comment": 221,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 443756304494143416,
+    "orig_mid": 6161559,
+    "deleted": false,
+    "archive_dir": "../../../6161559/2020-10/2020-10-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

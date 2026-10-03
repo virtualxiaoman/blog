@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "406498047318454578",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/406498047318454578",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月30日",
+    "pub_ts": 1593483602,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援# 和天依一起谱写回忆和愿景，让我们一同迈向∞",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " 和天依一起谱写回忆和愿景，让我们一同迈向∞"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5512,
+    "comment": 158,
+    "forward": 57
+  },
+  "forward": {
+    "orig_id": 406492936304212031,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2020-06/2020-06-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:24:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

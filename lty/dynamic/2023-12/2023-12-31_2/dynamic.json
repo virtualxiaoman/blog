@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "881234861473398915",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/881234861473398915",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月31日",
+    "pub_ts": 1704016880,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "快来看天依向龚琳娜学习民歌！#2023最美的夜#12月31日20:00，歌行四方！#2023最美的夜跨年晚会#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "快来看天依向龚琳娜学习民歌！"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C"
+      },
+      {
+        "type": "text",
+        "text": "12月31日20:00，歌行四方！"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "跨晚现场直击！洛天依向龚琳娜学习民族唱腔！【2023最美的夜】",
+      "desc": "今晚就是跨年晚会直播啦！天依正在紧锣密鼓地准备今晚的舞台，超级惊喜的是——龚琳娜老师来探班啦！\n遇到“行走的中国民歌地图”龚琳娜老师，当然要学习一些民族唱腔啦！\n不愧是龚老师，蒙古族、苗族、维吾尔族、藏族的民歌天依都有学到哦！还有四位民族音乐家哈拉木吉、春冬蝶、努尔艾力、旦增益西老师，也都分别秀了一段～今晚天依的表演，大家会期待吗？\n对了对了，18:30-19:00（18:44左右），在哔哩哔哩晚会直播间，可以参与抽天依加码的天选时刻大奖【华为mate60】哦！让我们一起唱出：yalahula！",
+      "jump_url": "https://www.bilibili.com/video/BV1nN4y1B7YW",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/8fe82a18788c30773754025b94e58826cd590a3e.jpg",
+      "cover_file": "../../_assets/covers/2023-12-31_2.jpg",
+      "bvid": "BV1nN4y1B7YW",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1nN4y1B7YW",
+        "aid": "878065220",
+        "cover": "http://i0.hdslb.com/bfs/archive/8fe82a18788c30773754025b94e58826cd590a3e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1nN4y1B7YW",
+        "stat": {
+          "danmaku": "313",
+          "play": "18.4万",
+          "vt": ""
+        },
+        "duration_text": "03:41",
+        "title": "跨晚现场直击！洛天依向龚琳娜学习民族唱腔！【2023最美的夜】",
+        "desc": "今晚就是跨年晚会直播啦！天依正在紧锣密鼓地准备今晚的舞台，超级惊喜的是——龚琳娜老师来探班啦！\n遇到“行走的中国民歌地图”龚琳娜老师，当然要学习一些民族唱腔啦！\n不愧是龚老师，蒙古族、苗族、维吾尔族、藏族的民歌天依都有学到哦！还有四位民族音乐家哈拉木吉、春冬蝶、努尔艾力、旦增益西老师，也都分别秀了一段～今晚天依的表演，大家会期待吗？\n对了对了，18:30-19:00（18:44左右），在哔哩哔哩晚会直播间，可以参与抽天依加码的天选时刻大奖【华为mate60】哦！让我们一起唱出：yalahula！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2023最美的夜 bilibili晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss46239",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/9f7421d24fe94034b5ad565edd37212cbdc8ba9b.png",
+      "cover_file": "../../_assets/covers/2023-12-31_3.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 2,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss46239",
+        "id_str": "878065220",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/9f7421d24fe94034b5ad565edd37212cbdc8ba9b.png",
+        "style": 2,
+        "title": "2023最美的夜 bilibili晚会",
+        "desc1": "bilibili出品 已完结, 全3集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17514,
+    "comment": 558,
+    "forward": 113
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:03:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

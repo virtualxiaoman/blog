@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "562125551629478992",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/562125551629478992",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月23日",
+    "pub_ts": 1629718454,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# \n秋风渐起，正是出游时刻~\n天依受邀 @DIOR迪奥  来到成都，带大家观赏《克里斯汀·迪奥：梦之设计师》展览\n在这片古巷红墙，幽幽竹影的城市，换上浪漫的纱裙，画上红唇，感受东西文化的碰撞，沉浸在艺术编织的奇妙国度\n来这里和我一起开启这场梦幻之旅吧",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " \n秋风渐起，正是出游时刻~\n天依受邀 "
+      },
+      {
+        "type": "mention",
+        "text": "@DIOR迪奥 ",
+        "mid": 606352572,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 来到成都，带大家观赏《克里斯汀·迪奥：梦之设计师》展览\n在这片古巷红墙，幽幽竹影的城市，换上浪漫的纱裙，画上红唇，感受东西文化的碰撞，沉浸在艺术编织的奇妙国度\n来这里和我一起开启这场梦幻之旅吧"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依×Dior】成都Vlog，走近《克里斯汀·迪奥：梦之设计师》展览",
+      "desc": "秋风渐起，正是出游时刻~\n来成都看熊猫、吃美食、逛@DIOR迪奥  设计展吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1Eb4y1m7eo",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/b0b2b51e88ae1035d2c5203dde64d8cd94ebcdcf.jpg",
+      "cover_file": "../../_assets/covers/2021-08-23_1.jpg",
+      "bvid": "BV1Eb4y1m7eo",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Eb4y1m7eo",
+        "aid": "632616018",
+        "cover": "http://i0.hdslb.com/bfs/archive/b0b2b51e88ae1035d2c5203dde64d8cd94ebcdcf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Eb4y1m7eo",
+        "stat": {
+          "danmaku": "697",
+          "play": "15.9万",
+          "vt": ""
+        },
+        "duration_text": "01:05",
+        "title": "【洛天依×Dior】成都Vlog，走近《克里斯汀·迪奥：梦之设计师》展览",
+        "desc": "秋风渐起，正是出游时刻~\n来成都看熊猫、吃美食、逛@DIOR迪奥  设计展吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24561,
+    "comment": 1320,
+    "forward": 219
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:34:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

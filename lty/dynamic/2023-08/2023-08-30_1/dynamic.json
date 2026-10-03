@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "835544660067745827",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/835544660067745827",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月30日",
+    "pub_ts": 1693378801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@青蓝之空悠远苍穹@乌拉尔之星@在下汤圆中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@青蓝之空悠远苍穹",
+        "mid": 88062868,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@乌拉尔之星",
+        "mid": 435217989,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@在下汤圆",
+        "mid": 357470653,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3351,
+    "comment": 39,
+    "forward": 15
+  },
+  "forward": {
+    "orig_id": 832980268234047524,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-08-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:57:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

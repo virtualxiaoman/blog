@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "596179917825101645",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/596179917825101645",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月23日",
+    "pub_ts": 1637647354,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#什么才叫做长大？",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "什么才叫做长大？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4989,
+    "comment": 138,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 594756814772637514,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2021-11/2021-11-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

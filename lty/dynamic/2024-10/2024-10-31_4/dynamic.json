@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "994447416237228036",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/994447416237228036",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月31日",
+    "pub_ts": 1730376232,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "岁月悠然，时光静谧，有歌，有你，有过去，有未来，便是美好。\n天依唱片机第十四期来咯~本期唱片机解锁新的主题壁纸哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "岁月悠然，时光静谧，有歌，有你，有过去，有未来，便是美好。\n天依唱片机第十四期来咯~本期唱片机解锁新的主题壁纸哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第十四期· 悠然 | 有歌，有你，便是美好",
+      "desc": "岁月悠然，时光静谧，有歌，有你，有过去，有未来，便是美好。\n天依唱片机第十四期来咯~本期唱片机解锁新的主题壁纸哦！\n感谢老师们的创作与授权~❤\n感谢画师：雨陌\n\n♪本期歌单\n1.一半一半@鸟爷ToriSama  BV1cx411c79i\n作曲/作词/编曲/调校：鸟爷\n2.雪流浪@litterzy  BV1Gs411Z7PF\n作曲/编曲：litterzy 作词：雨狸 调校：绛舞乱丸\n3.兔子先生@无名社  BV1Ms411U7KT\n作曲/编曲/作词：小桦啊小桦 调校：科林\n4.颠倒@芹菜猪肉大馄饨  BV1",
+      "jump_url": "https://www.bilibili.com/video/BV12pSJYYEaJ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a975b637a04be5711e5c660a72f634974c82c45a.jpg",
+      "cover_file": "../../_assets/covers/2024-10-31_5.jpg",
+      "bvid": "BV12pSJYYEaJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12pSJYYEaJ",
+        "aid": "113401883856758",
+        "cover": "http://i1.hdslb.com/bfs/archive/a975b637a04be5711e5c660a72f634974c82c45a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12pSJYYEaJ",
+        "stat": {
+          "danmaku": "442",
+          "play": "29.4万",
+          "vt": ""
+        },
+        "duration_text": "01:01:09",
+        "title": "【天依唱片机】第十四期· 悠然 | 有歌，有你，便是美好",
+        "desc": "岁月悠然，时光静谧，有歌，有你，有过去，有未来，便是美好。\n天依唱片机第十四期来咯~本期唱片机解锁新的主题壁纸哦！\n感谢老师们的创作与授权~❤\n感谢画师：雨陌\n\n♪本期歌单\n1.一半一半@鸟爷ToriSama  BV1cx411c79i\n作曲/作词/编曲/调校：鸟爷\n2.雪流浪@litterzy  BV1Gs411Z7PF\n作曲/编曲：litterzy 作词：雨狸 调校：绛舞乱丸\n3.兔子先生@无名社  BV1Ms411U7KT\n作曲/编曲/作词：小桦啊小桦 调校：科林\n4.颠倒@芹菜猪肉大馄饨  BV1",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 39559,
+    "comment": 929,
+    "forward": 184
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

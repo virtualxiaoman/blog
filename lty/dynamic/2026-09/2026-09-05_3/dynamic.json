@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "1244526929347870722",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1244526929347870722",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月5日",
+    "pub_ts": 1788602406,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖“说好下次再见，你会愿意和我再次奔赴一场约会吗？”\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会\n【济南站&武汉站】加场决定！\n转发关注天依，揪2位小伙伴分别送出【济南站&武汉站svip门票】1张～[洛天依14周年·纯蓝幻乐 动态表情包_魔法]\n\n🩵10/05 济南奥林匹克体育中心体育馆\n🏙️10/31 湖北省奥林匹克体育中心体育馆\n\n全新城市视觉海报，全新城市限定曲即将揭晓\n有限时间里奔赴一场奇观，让我们的回忆不留遗憾\n将属于我们的这片名为「纯蓝幻乐」的梦境，再次延续吧！[洛天依14周年·纯蓝幻乐 动态表情包_邀请]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "424122",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "“说好下次再见，你会愿意和我再次奔赴一场约会吗？”\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会\n【济南站&武汉站】加场决定！\n转发关注天依，揪2位小伙伴分别送出【济南站&武汉站svip门票】1张～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "name": "魔法",
+        "url": "https://i0.hdslb.com/bfs/garb/586e20309a26fa9aa927c64ab9f94b6dd2f401f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🩵10/05 济南奥林匹克体育中心体育馆\n🏙️10/31 湖北省奥林匹克体育中心体育馆\n\n全新城市视觉海报，全新城市限定曲即将揭晓\n有限时间里奔赴一场奇观，让我们的回忆不留遗憾\n将属于我们的这片名为「纯蓝幻乐」的梦境，再次延续吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "name": "邀请",
+        "url": "https://i0.hdslb.com/bfs/garb/f7f110a8c874b6bb31a453eed43cf0792bc68b41.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-05_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/21eeb6e3018f56fc82f337105c116ef136081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 9062.748046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/魔法.gif",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/邀请.gif",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "424122"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8014,
+    "comment": 1214,
+    "forward": 10328
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

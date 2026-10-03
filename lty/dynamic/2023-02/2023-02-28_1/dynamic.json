@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "767740836173578262",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/767740836173578262",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月28日",
+    "pub_ts": 1677591993,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "夜越深，回忆越汹涌，一首适合在夜晚分享给你们的歌[洛天依_晚安]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "夜越深，回忆越汹涌，一首适合在夜晚分享给你们的歌"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_晚安]",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "name": "晚安",
+        "url": "http://i0.hdslb.com/bfs/emote/90d545932788169efa102df5bb23a6ef187d90d5.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/晚安.png",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "text": "[洛天依_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7872,
+    "comment": 427,
+    "forward": 53
+  },
+  "forward": {
+    "orig_id": 739936106956456070,
+    "orig_mid": 23030079,
+    "deleted": false,
+    "archive_dir": "../../../23030079/2022-12/2022-12-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

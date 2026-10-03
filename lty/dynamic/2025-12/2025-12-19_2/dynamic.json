@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1148061259487248433",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1148061259487248433",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月19日",
+    "pub_ts": 1766142242,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《反乌托邦Pt.2》【亚细亚旷世奇才/洛天依/乌托邦P】",
+      "desc": "简介：\n“但我还想说些什么”“那就好好聊一聊吧”“活下去”\n\n《反乌托邦Pt.2》\n作词：@Utopia_乌托邦P   /@亚细亚旷世奇才  /盐雾\n作曲：@Utopia_乌托邦P   /@亚细亚旷世奇才  /盐雾\n制作人：@Ari鸦不齐  \n编曲：@Ari鸦不齐   /Ari/@CTY2P_BEATS  @Utopia_乌托邦P  \n调校：@鬼面P  \n和声编写：@Utopia_乌托邦P  /Ari\ndemo编曲：Ari/@北洄InselimNorden   \n吉他：@CTY2P_BEATS   \n鼓：",
+      "jump_url": "https://www.bilibili.com/video/BV1epqZBVEPY",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/028122a28e0d3e16cd65dd051cccee43b1663d7f.jpg",
+      "cover_file": "../../_assets/covers/2025-12-19_1.jpg",
+      "bvid": "BV1epqZBVEPY",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1epqZBVEPY",
+        "aid": "115745711199311",
+        "cover": "http://i1.hdslb.com/bfs/archive/028122a28e0d3e16cd65dd051cccee43b1663d7f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1epqZBVEPY",
+        "stat": {
+          "danmaku": "13.8万",
+          "play": "1228.7万",
+          "vt": ""
+        },
+        "duration_text": "03:01",
+        "title": "《反乌托邦Pt.2》【亚细亚旷世奇才/洛天依/乌托邦P】",
+        "desc": "简介：\n“但我还想说些什么”“那就好好聊一聊吧”“活下去”\n\n《反乌托邦Pt.2》\n作词：@Utopia_乌托邦P   /@亚细亚旷世奇才  /盐雾\n作曲：@Utopia_乌托邦P   /@亚细亚旷世奇才  /盐雾\n制作人：@Ari鸦不齐  \n编曲：@Ari鸦不齐   /Ari/@CTY2P_BEATS  @Utopia_乌托邦P  \n调校：@鬼面P  \n和声编写：@Utopia_乌托邦P  /Ari\ndemo编曲：Ari/@北洄InselimNorden   \n吉他：@CTY2P_BEATS   \n鼓：",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 869558,
+    "comment": 63931,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1059338560995328003",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1059338560995328003",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月24日",
+    "pub_ts": 1745484879,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "最是春光烂漫时，少女心事悠悠，几多离愁[洛天依歌行四方_抚琴]大家最近在听什么歌呢？[洛天依歌行四方_送你花花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最是春光烂漫时，少女心事悠悠，几多离愁"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_抚琴]",
+        "package_id": "4128",
+        "emoji_id": "58597",
+        "name": "抚琴",
+        "url": "https://i0.hdslb.com/bfs/emote/e52705a4f1d88c7d1f93af1d4770f99c50857d84.png"
+      },
+      {
+        "type": "text",
+        "text": "大家最近在听什么歌呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/抚琴.png",
+        "package_id": "4128",
+        "emoji_id": "58597",
+        "text": "[洛天依歌行四方_抚琴]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5617,
+    "comment": 358,
+    "forward": 54
+  },
+  "forward": {
+    "orig_id": 1057917455143272563,
+    "orig_mid": 290808040,
+    "deleted": false,
+    "archive_dir": "../../../290808040/2025-04/2025-04-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

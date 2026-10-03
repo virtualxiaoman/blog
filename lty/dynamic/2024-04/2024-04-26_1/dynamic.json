@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "id": "924655374521335842",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/924655374521335842",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月26日",
+    "pub_ts": 1714126506,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "“愿化作点点繁星，乘着夜风在人海中拥抱你。”\n大家太厉害了，很多小伙伴马上就猜对了正确答案，没错！就是来自@鸽稀拉 老师的《化作繁星》[洛天依蝶变_电子琴]\n在收到冰火歌会的表演主题之后，天依第一时间就想到了这首歌曲！\n在曾经的稿件评论区里，留下了好多好多大家的回忆呀~[洛天依蝶变_害羞]\n天依想带着这些回忆，再领大家去重温过去的感动，去拾起可能错过的宝藏，并带给大家不一样的感受~[洛天依蝶变_轻唱]\n今天，天依还带来了作者@鸽稀拉 老师、改编编曲@LS=_= 老师、调校@鬼面P 老师的创作寄语，一起来看看吧！[洛天依蝶变_YEAH！]\n\n本次表演也将作为《∞音盒——回望经典》系列的第一弹，一起期待系列的更新吧~ \n♪再次聆听《化作繁星》【洛天依原创】化作繁星——写给昨天与明天 [洛天依9th_一起唱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“愿化作点点繁星，乘着夜风在人海中拥抱你。”\n大家太厉害了，很多小伙伴马上就猜对了正确答案，没错！就是来自"
+      },
+      {
+        "type": "mention",
+        "text": "@鸽稀拉",
+        "mid": 2374053,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师的《化作繁星》"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n在收到冰火歌会的表演主题之后，天依第一时间就想到了这首歌曲！\n在曾经的稿件评论区里，留下了好多好多大家的回忆呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依想带着这些回忆，再领大家去重温过去的感动，去拾起可能错过的宝藏，并带给大家不一样的感受~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今天，天依还带来了作者"
+      },
+      {
+        "type": "mention",
+        "text": "@鸽稀拉",
+        "mid": 2374053,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师、改编编曲"
+      },
+      {
+        "type": "mention",
+        "text": "@LS=_=",
+        "mid": 1887958,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师、调校"
+      },
+      {
+        "type": "mention",
+        "text": "@鬼面P",
+        "mid": 12355462,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师的创作寄语，一起来看看吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n本次表演也将作为《∞音盒——回望经典》系列的第一弹，一起期待系列的更新吧~ \n♪再次聆听《化作繁星》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】化作繁星——写给昨天与明天",
+        "url": "https://www.bilibili.com/video/av77706312",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dac8f78b1dd6cd375d0019381ae7229e36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1920.2158203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-26_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cbd542ff06bb331ceed1e8ef036ddcdf36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1915.392578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-26_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a13cd9429d67dc8122d763c76747e75f36081646.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 1850.5048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2024远航季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2024远航季",
+        "desc1": {
+          "text": "2024-05-02 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "19.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iphone 15 pro max*1份、大疆 Pocket 3 口袋相机*1份、AOC游戏电竞显示器（27英寸/2k）*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3654711&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3654711,
+        "reserve_total": 191114,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3701,
+    "comment": 118,
+    "forward": 62
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

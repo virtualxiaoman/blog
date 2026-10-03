@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "882003669211414577",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/882003669211414577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月2日",
+    "pub_ts": 1704195882,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有你陪伴与聆听的节日，才叫幸福",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有你陪伴与聆听的节日，才叫幸福"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第六期·圣诞&元旦特辑 | 有你陪伴与聆听的节日，才叫幸福",
+      "desc": "本篇是【天依唱片机】节日特别篇哦！下一期，将会解锁冬季唱片机全新壁纸！大家要不要猜猜会是什么主题的呀？\n\n【天依唱片机第六期·圣诞&元旦特辑歌单】\n感谢老师们的创作与授权~♥\n1.@唐乐林   前尘如梦 BV19x411F7kL\n作曲/编曲：From Jnt 作词：唐乐林 调校：黑誓初音\n2.@李阿充   倒数到零 BV1rJ411b7LN\n作词/作曲/编曲/调校：李阿充\n3.@JUSF周存   仍与你心跳同步 BV1ZW4y1N7Ey\n作词/作曲/编曲/调校：JUSF周存\n4.@苏逸_Suyi  i 闭",
+      "jump_url": "https://www.bilibili.com/video/BV1g5411q7bk",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/116e20249e945eee88b9a098dc5c58eef33c51d6.jpg",
+      "cover_file": "../../_assets/covers/2024-01-02_1.jpg",
+      "bvid": "BV1g5411q7bk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1g5411q7bk",
+        "aid": "453249970",
+        "cover": "http://i1.hdslb.com/bfs/archive/116e20249e945eee88b9a098dc5c58eef33c51d6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1g5411q7bk",
+        "stat": {
+          "danmaku": "567",
+          "play": "36.2万",
+          "vt": ""
+        },
+        "duration_text": "58:33",
+        "title": "【天依唱片机】第六期·圣诞&元旦特辑 | 有你陪伴与聆听的节日，才叫幸福",
+        "desc": "本篇是【天依唱片机】节日特别篇哦！下一期，将会解锁冬季唱片机全新壁纸！大家要不要猜猜会是什么主题的呀？\n\n【天依唱片机第六期·圣诞&元旦特辑歌单】\n感谢老师们的创作与授权~♥\n1.@唐乐林   前尘如梦 BV19x411F7kL\n作曲/编曲：From Jnt 作词：唐乐林 调校：黑誓初音\n2.@李阿充   倒数到零 BV1rJ411b7LN\n作词/作曲/编曲/调校：李阿充\n3.@JUSF周存   仍与你心跳同步 BV1ZW4y1N7Ey\n作词/作曲/编曲/调校：JUSF周存\n4.@苏逸_Suyi  i 闭",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 87147,
+    "comment": 799,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

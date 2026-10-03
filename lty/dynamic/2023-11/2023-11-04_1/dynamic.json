@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "859974537371975682",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/859974537371975682",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月4日",
+    "pub_ts": 1699066825,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "很高兴演唱黄龄老师的新歌《夜舞》~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴演唱黄龄老师的新歌《夜舞》~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依《夜舞》 “这一曲 要你终难忘”Cover黄龄",
+      "desc": "恰逢黄龄老师的新歌《夜舞》和天依我的新歌《歌行四方》都发布啦，不妨来一波惊喜互唱送给大家ヾ(≧▽≦*)o\n希望大家喜欢呀~\n\n黄龄老师的《歌行四方》BV1x94y1G7MC\n演唱：洛天依\n原唱：黄龄\n作曲/作词：Tăng Duy Tân\n中文词：甘世佳\n编曲/制作人：Phong Max\n调校：鬼面P\n混音：ZIN",
+      "jump_url": "https://www.bilibili.com/video/BV1Eu4y1E7X9",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5f0d425644c4657d16b979a22af0aee0cbf58107.jpg",
+      "cover_file": "../../_assets/covers/2023-11-04_1.jpg",
+      "bvid": "BV1Eu4y1E7X9",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Eu4y1E7X9",
+        "aid": "920175825",
+        "cover": "http://i1.hdslb.com/bfs/archive/5f0d425644c4657d16b979a22af0aee0cbf58107.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Eu4y1E7X9",
+        "stat": {
+          "danmaku": "307",
+          "play": "39.1万",
+          "vt": ""
+        },
+        "duration_text": "02:21",
+        "title": "洛天依《夜舞》 “这一曲 要你终难忘”Cover黄龄",
+        "desc": "恰逢黄龄老师的新歌《夜舞》和天依我的新歌《歌行四方》都发布啦，不妨来一波惊喜互唱送给大家ヾ(≧▽≦*)o\n希望大家喜欢呀~\n\n黄龄老师的《歌行四方》BV1x94y1G7MC\n演唱：洛天依\n原唱：黄龄\n作曲/作词：Tăng Duy Tân\n中文词：甘世佳\n编曲/制作人：Phong Max\n调校：鬼面P\n混音：ZIN",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 38234,
+    "comment": 815,
+    "forward": 147
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:00:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

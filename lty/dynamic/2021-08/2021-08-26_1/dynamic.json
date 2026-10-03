@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "563240744191442024",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/563240744191442024",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月26日",
+    "pub_ts": 1629978105,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  《天钿的回应》 @ilem \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  《天钿的回应》 "
+      },
+      {
+        "type": "mention",
+        "text": "@ilem ",
+        "mid": 3379951,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-08-26_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/49a93204354751ffbc4e0fb5900a54a175e5f8e6.jpg",
+        "width": 994,
+        "height": 974,
+        "size_kb": 109.2265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-08-26_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/472b67997ce615791ddd5d9d6c2e7a4407c63472.jpg",
+        "width": 994,
+        "height": 974,
+        "size_kb": 162.1181640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-08-26_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e0f73adffe4dd0a545ae9a308a00c1acaa218279.jpg",
+        "width": 994,
+        "height": 974,
+        "size_kb": 215.4462890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-08-26_4.gif",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/457e416c68012cc852bb6640b5e40b0ff02a1e5c.gif",
+        "width": 560,
+        "height": 560,
+        "size_kb": 261.7578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10291,
+    "comment": 656,
+    "forward": 155
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:34:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

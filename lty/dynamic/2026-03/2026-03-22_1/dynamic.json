@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1182555709512876133",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1182555709512876133",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月22日",
+    "pub_ts": 1774173607,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "海风拂巷，花影盈鬓；一声南音，春满人间",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "海风拂巷，花影盈鬓；一声南音，春满人间"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“簪花成围尽芳菲”洛天依原创曲《簪花烟火谣》【国乐季·南音篇】",
+      "desc": "“海风拂巷，花影盈鬓；一声南音，春满人间。”\n【天依游学记·歌行国乐季】南音篇原创单曲《簪花烟火谣》\n以蟳埔簪花为引，以南音古调为骨，唱一曲寻常岁月里长出的芬芳\n闽南古厝檐下，人们久行渔事，却把生活过成了绚烂芬芳的模样\n头上有花，心中便有欢喜，与天依一起，簪花听曲，感受人间烟火的花香吧~\n\n作词：林纪波\n南音选段：《潮阳春叠》 / 《百鸟归巢》 \n作曲改编：R2-蔡凯东@点水南乐 / 郑明明@点水南乐\n编曲：R2-蔡凯东\n调教：@林震Linz  \n南音琵琶/南音四宝/南音碰铃：郑明明\n南音三弦：陈思诗@点",
+      "jump_url": "https://www.bilibili.com/video/BV1wWAJzJE7a",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d6fd1e7b7023b186d628ca8fc6a7c8f48e1a9970.jpg",
+      "cover_file": "../../_assets/covers/2026-03-22_1.jpg",
+      "bvid": "BV1wWAJzJE7a",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wWAJzJE7a",
+        "aid": "116261375706770",
+        "cover": "http://i2.hdslb.com/bfs/archive/d6fd1e7b7023b186d628ca8fc6a7c8f48e1a9970.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wWAJzJE7a",
+        "stat": {
+          "danmaku": "1296",
+          "play": "26.3万",
+          "vt": ""
+        },
+        "duration_text": "03:50",
+        "title": "“簪花成围尽芳菲”洛天依原创曲《簪花烟火谣》【国乐季·南音篇】",
+        "desc": "“海风拂巷，花影盈鬓；一声南音，春满人间。”\n【天依游学记·歌行国乐季】南音篇原创单曲《簪花烟火谣》\n以蟳埔簪花为引，以南音古调为骨，唱一曲寻常岁月里长出的芬芳\n闽南古厝檐下，人们久行渔事，却把生活过成了绚烂芬芳的模样\n头上有花，心中便有欢喜，与天依一起，簪花听曲，感受人间烟火的花香吧~\n\n作词：林纪波\n南音选段：《潮阳春叠》 / 《百鸟归巢》 \n作曲改编：R2-蔡凯东@点水南乐 / 郑明明@点水南乐\n编曲：R2-蔡凯东\n调教：@林震Linz  \n南音琵琶/南音四宝/南音碰铃：郑明明\n南音三弦：陈思诗@点",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 32069,
+    "comment": 2581,
+    "forward": 367
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

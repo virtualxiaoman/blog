@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "1169988755463864340",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169988755463864340",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771247635,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 【洛天依·珍藏集DLC——辟浪】 开启啦！\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份~\n伴随《辟浪》拥抱大海，开辟乘风破浪的新篇章！\n\n🔹 卡池收录：全新插画动态数字音乐卡、特色音乐卡、未公开精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、典藏卡、专属动态表情包、专属动态个性主题\n🔹传送门： 网页链接 \n\n浪花千叠，再辟新章！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "400601",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 【洛天依·珍藏集DLC——辟浪】 开启啦！\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份~\n伴随《辟浪》拥抱大海，开辟乘风破浪的新篇章！\n\n🔹 卡池收录：全新插画动态数字音乐卡、特色音乐卡、未公开精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、典藏卡、专属动态表情包、专属动态个性主题\n🔹传送门： "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=111861"
+      },
+      {
+        "type": "text",
+        "text": " \n\n浪花千叠，再辟新章！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-16_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/08aba128beb8fea63c78f2fd759db9df36081646.jpg",
+        "width": 1073,
+        "height": 9527,
+        "size_kb": 2631.89453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·珍藏集",
+            "price": "",
+            "cover": "https://i0.hdslb.com/bfs/archive/d01df1f4bb2d5379e1dcdadc5e629763dcb1f102.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=0&rebate=647193094&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2026-02-16_4.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "400601"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7129,
+    "comment": 902,
+    "forward": 10367
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

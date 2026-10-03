@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "277850032907257550",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/277850032907257550",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月19日",
+    "pub_ts": 1563530402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@不成欧皇不改idか @红水晶儿 中奖，已发送系统通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@不成欧皇不改idか",
+        "mid": 174069060,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@红水晶儿",
+        "mid": 204950311,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已发送系统通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4832,
+    "comment": 246,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 262252352361242724,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2019-06/2019-06-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "339160965931274699",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/339160965931274699",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月31日",
+    "pub_ts": 1577805466,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依&方锦龙《茉莉花》破次元合作【bilibili晚会单品】",
+      "desc": "【bilibili晚会】《茉莉花》虚拟偶像洛天依&国乐大师方锦龙全新跨界演绎，带你穿越虚拟现实感受绝美四季！",
+      "jump_url": "https://www.bilibili.com/video/BV1TJ411h7HL",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/21d3c65b3b353f77f0f87142bd6d2b34156d7fbd.png",
+      "cover_file": "../../_assets/covers/2019-12-31_1.png",
+      "bvid": "BV1TJ411h7HL",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1TJ411h7HL",
+        "aid": "81391222",
+        "cover": "http://i0.hdslb.com/bfs/archive/21d3c65b3b353f77f0f87142bd6d2b34156d7fbd.png",
+        "jump_url": "//www.bilibili.com/video/BV1TJ411h7HL",
+        "stat": {
+          "danmaku": "1.6万",
+          "play": "481.9万",
+          "vt": ""
+        },
+        "duration_text": "04:33",
+        "title": "洛天依&方锦龙《茉莉花》破次元合作【bilibili晚会单品】\r",
+        "desc": "【bilibili晚会】《茉莉花》虚拟偶像洛天依&国乐大师方锦龙全新跨界演绎，带你穿越虚拟现实感受绝美四季！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2019最美的夜 bilibili晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss29067",
+      "cover_url": "http://i0.hdslb.com/bfs/bangumi/image/588b2e03de4220246811945266b4d71541e28204.jpg",
+      "cover_file": "../../_assets/covers/2019-12-31_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss29067",
+        "id_str": "81391222",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/588b2e03de4220246811945266b4d71541e28204.jpg",
+        "style": 2,
+        "title": "2019最美的夜 bilibili晚会",
+        "desc1": "bilibili出品 已完结, 全3集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41444,
+    "comment": 5112,
+    "forward": 92
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

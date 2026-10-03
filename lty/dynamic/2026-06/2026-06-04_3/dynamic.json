@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1210035344068575267",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1210035344068575267",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月4日",
+    "pub_ts": 1780571708,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「天依游学记·歌行国乐季」圆满落下帷幕啦！下一季你想让天依去？",
+      "desc": "转眼间，游学记已经陪伴大家走过三季时光啦~\n三季走来，天依的脚步走过山河四方，歌声也流淌过漫长岁月。\n传统从未远去，它们始终等待着新的契机被再次唱响。\n感谢大家和天依一起，见证这一季的旅程。\n\n🎶国乐季单曲专辑也已上线各大音乐平台，欢迎大家前往收听\n明天下午17点，天依还会空降QQ音乐专辑《乐鸣东方》的评论区，陪大家一起回顾\n下一站游学，你想让天依去往哪里呢？在评论和弹幕里留言告诉天依吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1EKEw6QEVp",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/23c0a4e32ff66df3dd54f0bd4dff1b0ae010465f.jpg",
+      "cover_file": "../../_assets/covers/2026-06-04_1.jpg",
+      "bvid": "BV1EKEw6QEVp",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1EKEw6QEVp",
+        "aid": "116691509972443",
+        "cover": "http://i2.hdslb.com/bfs/archive/23c0a4e32ff66df3dd54f0bd4dff1b0ae010465f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1EKEw6QEVp",
+        "stat": {
+          "danmaku": "316",
+          "play": "6.5万",
+          "vt": ""
+        },
+        "duration_text": "01:35",
+        "title": "「天依游学记·歌行国乐季」圆满落下帷幕啦！下一季你想让天依去？",
+        "desc": "转眼间，游学记已经陪伴大家走过三季时光啦~\n三季走来，天依的脚步走过山河四方，歌声也流淌过漫长岁月。\n传统从未远去，它们始终等待着新的契机被再次唱响。\n感谢大家和天依一起，见证这一季的旅程。\n\n🎶国乐季单曲专辑也已上线各大音乐平台，欢迎大家前往收听\n明天下午17点，天依还会空降QQ音乐专辑《乐鸣东方》的评论区，陪大家一起回顾\n下一站游学，你想让天依去往哪里呢？在评论和弹幕里留言告诉天依吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18074,
+    "comment": 1031,
+    "forward": 121
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

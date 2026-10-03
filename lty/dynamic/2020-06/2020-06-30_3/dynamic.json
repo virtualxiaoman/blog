@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "406635168443867894",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/406635168443867894",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月30日",
+    "pub_ts": 1593515528,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#与洛天依分享你的城# #2020洛天依生日应援# #洛天依0712生日快乐#  城市之旅的第三站是浙江杭州，也是去年收到灯光秀生日礼物的地方（今年会不会有呢～？）   被称为人间天堂的杭州有太多美景，到处都是写意的画面。 曾是南宋都城的杭州也是历史上重要的商业集散中心，运河撑起了此地的繁荣，文化也熠熠生辉，留下了许多著名诗词，其中最让古今人们念念不忘的，就是天依所在的这个地方，待在这里仿佛是跟先贤来了场跨越时空的对话，身临其境地体会到文学中的情感。 “江南忆，最忆是杭州”，这句话说得一点也不错，不仅藕粉让人印象深刻，加入茶的料理也很有特色，天依非常推荐小伙伴们来这里尝试哦！ 今天的答案可以说是呼之欲出了吧，还需要其他提示吗？那就再让天依背两句诗：“水光潋滟晴方好，山色空蒙雨亦奇。”再说下去就不行了，知道答案的小伙伴记得评论+转发回答问题（两个字），有机会获得天依的杭州限定宣传海报 [爱心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#与洛天依分享你的城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E5%9F%8E"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  城市之旅的第三站是浙江杭州，也是去年收到灯光秀生日礼物的地方（今年会不会有呢～？）   被称为人间天堂的杭州有太多美景，到处都是写意的画面。 曾是南宋都城的杭州也是历史上重要的商业集散中心，运河撑起了此地的繁荣，文化也熠熠生辉，留下了许多著名诗词，其中最让古今人们念念不忘的，就是天依所在的这个地方，待在这里仿佛是跟先贤来了场跨越时空的对话，身临其境地体会到文学中的情感。 “江南忆，最忆是杭州”，这句话说得一点也不错，不仅藕粉让人印象深刻，加入茶的料理也很有特色，天依非常推荐小伙伴们来这里尝试哦！ 今天的答案可以说是呼之欲出了吧，还需要其他提示吗？那就再让天依背两句诗：“水光潋滟晴方好，山色空蒙雨亦奇。”再说下去就不行了，知道答案的小伙伴记得评论+转发回答问题（两个字），有机会获得天依的杭州限定宣传海报 "
+      },
+      {
+        "type": "emoji",
+        "text": "[爱心]",
+        "package_id": "1",
+        "emoji_id": "550",
+        "name": "爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-06-30_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4b246e86d9c728bc2c9333651307a7d421d6fc47.jpg",
+        "width": 1700,
+        "height": 1134,
+        "size_kb": 1345.8857421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/爱心.png",
+        "package_id": "1",
+        "emoji_id": "550",
+        "text": "[爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9164,
+    "comment": 1173,
+    "forward": 942
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

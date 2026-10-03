@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1244109746287411216",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1244109746287411216",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月4日",
+    "pub_ts": 1788505273,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这个出框头像十分滴美味，天依先换上啦~欢迎感兴趣的小伙伴也看看，注意量力而行哦！[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这个出框头像十分滴美味，天依先换上啦~欢迎感兴趣的小伙伴也看看，注意量力而行哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "name": "拥抱",
+        "url": "https://i0.hdslb.com/bfs/garb/65eb4c9e4124d9e698ae248af2d5167d1c262ba6.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/拥抱.gif",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4450,
+    "comment": 314,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1244101703969538053,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-09/2026-09-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:39:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

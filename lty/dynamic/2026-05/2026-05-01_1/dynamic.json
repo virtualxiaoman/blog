@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1197308844888293383",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1197308844888293383",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月1日",
+    "pub_ts": 1777608589,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天天气好不好，一起唱歌好不好~5月啦！大家假期快乐！天依也在为我们今年重要的相见努力准备哦，一起静待花开~[洛天依拜年纪动态表情包_喜欢]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天天气好不好，一起唱歌好不好~5月啦！大家假期快乐！天依也在为我们今年重要的相见努力准备哦，一起静待花开~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_喜欢]",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/5a250c2b1c4d4fb0597bf02da1baa32bf80a5370.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/喜欢.gif",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "text": "[洛天依拜年纪动态表情包_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4591,
+    "comment": 146,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1197306317328351235,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-05/2026-05-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

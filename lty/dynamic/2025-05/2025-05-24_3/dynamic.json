@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "id": "1070505931227267076",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1070505931227267076",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月24日",
+    "pub_ts": 1748084985,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依跟Chinozo老师合作的新曲《武装乙女》上线啦！非常感谢Chinozo老师制作了超级无敌可爱的歌曲和pv~![洛天依-潮声回响_拜托拜托]\n这首歌曲也是正在举办的洛天依原创音乐征集活动「闪耀的producer」发起人特邀歌曲之一，征稿正在进行中，期待可以激励更多的P主老师和音乐人加入这次的舞台！[歌行宇宙表情包_来试试看]\n⚡活动主页：网页链接\n嘿嘿，快臣服于本姑娘的威名之下ww！[歌行宇宙表情包_你为我着迷]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依跟Chinozo老师合作的新曲《武装乙女》上线啦！非常感谢Chinozo老师制作了超级无敌可爱的歌曲和pv~!"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_拜托拜托]",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "name": "拜托拜托",
+        "url": "https://i0.hdslb.com/bfs/garb/bff8c8fd6fbf7b88467b01da2ede27164195f188.png"
+      },
+      {
+        "type": "text",
+        "text": "\n这首歌曲也是正在举办的洛天依原创音乐征集活动「闪耀的producer」发起人特邀歌曲之一，征稿正在进行中，期待可以激励更多的P主老师和音乐人加入这次的舞台！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_来试试看]",
+        "package_id": "5880",
+        "emoji_id": "86901",
+        "name": "来试试看",
+        "url": "https://i0.hdslb.com/bfs/garb/c10cd939d07023b884588f7be50d4e8e1651b84b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n⚡活动主页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/gOmZB25"
+      },
+      {
+        "type": "text",
+        "text": "\n嘿嘿，快臣服于本姑娘的威名之下ww！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_你为我着迷]",
+        "package_id": "5880",
+        "emoji_id": "86898",
+        "name": "你为我着迷",
+        "url": "https://i0.hdslb.com/bfs/garb/afdb5beb3431b6a2eceee1ff6b9d6846aeb3c275.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/拜托拜托.png",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "text": "[洛天依-潮声回响_拜托拜托]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/来试试看.png",
+        "package_id": "5880",
+        "emoji_id": "86901",
+        "text": "[歌行宇宙表情包_来试试看]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/你为我着迷.png",
+        "package_id": "5880",
+        "emoji_id": "86898",
+        "text": "[歌行宇宙表情包_你为我着迷]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5078,
+    "comment": 118,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 1070503431545815107,
+    "orig_mid": 1910879962,
+    "deleted": false,
+    "archive_dir": "../../../1910879962/2025-05/2025-05-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

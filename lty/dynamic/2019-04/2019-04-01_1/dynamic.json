@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "237333188337727709",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/237333188337727709",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月1日",
+    "pub_ts": 1554096839,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#V家日常# 适当皮一下很开心，愚人节快乐～\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#V家日常#",
+        "url": "https://search.bilibili.com/all?keyword=V%E5%AE%B6%E6%97%A5%E5%B8%B8"
+      },
+      {
+        "type": "text",
+        "text": " 适当皮一下很开心，愚人节快乐～"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-04-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/083cbc3e298340fbd491b088f6a25499d4a24ad6.jpg",
+        "width": 3508,
+        "height": 2480,
+        "size_kb": 903.8349609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9923,
+    "comment": 831,
+    "forward": 170
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

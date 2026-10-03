@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "id": "881269345770012692",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/881269345770012692",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月31日",
+    "pub_ts": 1704024909,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "#2023最美的夜跨年晚会#正式开始啦！\n我和龚老师正在后台候场哦！先合照一张[洛天依蝶变_wink]\n请大家期待我们的节目吧 ♪(^∇^*)8！\n天依大约在22:20左右与大家见面哦，可以提前蹲守呀[洛天依蝶变_害羞]千万不要错过啦！[洛天依歌行四方_咚嚓！]\n\n[洛天依歌行四方_竹中吟笛]直播间传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2023最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "正式开始啦！\n我和龚老师正在后台候场哦！先合照一张"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n请大家期待我们的节目吧 ♪(^∇^*)8！\n天依大约在22:20左右与大家见面哦，可以提前蹲守呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "千万不要错过啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_竹中吟笛]",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "name": "竹中吟笛",
+        "url": "https://i0.hdslb.com/bfs/emote/9791340aaccc3b71292ebc206cb2a962ea1848be.png"
+      },
+      {
+        "type": "text",
+        "text": "直播间传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/1231?live_from=85002&spm_id_from=444.42.list.card_live.click"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-31_2.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/2eefabff3729c01a1e34a07f64a34c6436081646.png",
+        "width": 4134,
+        "height": 5302,
+        "size_kb": 9450.7802734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-12-31_3.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/5ab1ee5e9c4f915e83f053a0ed2f759f36081646.png",
+        "width": 702,
+        "height": 702,
+        "size_kb": 212.91000366210938,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-12-31_4.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4fafc13a360cd3d889764081360a3b9036081646.png",
+        "width": 709,
+        "height": 709,
+        "size_kb": 218.80999755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-12-31_5.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/3416f5dac4eb2a97deed505b8596cfed36081646.png",
+        "width": 699,
+        "height": 698,
+        "size_kb": 252.49000549316406,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/竹中吟笛.png",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "text": "[洛天依歌行四方_竹中吟笛]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5649,
+    "comment": 455,
+    "forward": 140
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:03:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

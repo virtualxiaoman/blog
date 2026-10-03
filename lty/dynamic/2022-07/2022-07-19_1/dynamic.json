@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "684577938518048818",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/684577938518048818",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月19日",
+    "pub_ts": 1658229122,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "但愿与你 共同前往 永恒之上[洛天依_周年快乐]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "但愿与你 共同前往 永恒之上"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/周年快乐.png",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "text": "[洛天依_周年快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7224,
+    "comment": 110,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 684568382218960945,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2022-07/2022-07-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

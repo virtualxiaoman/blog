@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1232285813033664518",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1232285813033664518",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月3日",
+    "pub_ts": 1785752299,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "「洛天依 × 谭晶」震撼高音唱响巡演成都站《潮声回响》",
+      "desc": "拨动琴弦，应和海浪之声；\n抒写祈愿，让旋律随洋流蔓延。\n\n天依很开心在今年纯蓝幻乐巡演成都场与谭晶老师共同唱响《潮声回响》。当不同的声音相遇，便有了新的故事；当每一份心意汇聚，便有了属于我们的回响。\n\n谢谢@谭晶   老师的加入，愿这份来自蔚蓝世界的礼赞，陪伴大家奔赴下一次相遇🩵",
+      "jump_url": "https://www.bilibili.com/video/BV1GUMX6fEJp",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b3ea9f8d8e3a9c676b8a1f8c10bc66eb56a50423.jpg",
+      "cover_file": "../../_assets/covers/2026-08-03_1.jpg",
+      "bvid": "BV1GUMX6fEJp",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1GUMX6fEJp",
+        "aid": "117031047269271",
+        "cover": "http://i1.hdslb.com/bfs/archive/b3ea9f8d8e3a9c676b8a1f8c10bc66eb56a50423.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1GUMX6fEJp",
+        "stat": {
+          "danmaku": "494",
+          "play": "21.4万",
+          "vt": ""
+        },
+        "duration_text": "03:49",
+        "title": "「洛天依 × 谭晶」震撼高音唱响巡演成都站《潮声回响》",
+        "desc": "拨动琴弦，应和海浪之声；\n抒写祈愿，让旋律随洋流蔓延。\n\n天依很开心在今年纯蓝幻乐巡演成都场与谭晶老师共同唱响《潮声回响》。当不同的声音相遇，便有了新的故事；当每一份心意汇聚，便有了属于我们的回响。\n\n谢谢@谭晶   老师的加入，愿这份来自蔚蓝世界的礼赞，陪伴大家奔赴下一次相遇🩵",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23433,
+    "comment": 870,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

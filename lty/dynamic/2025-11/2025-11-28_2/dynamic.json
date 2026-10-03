@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1140237143347560455",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1140237143347560455",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月28日",
+    "pub_ts": 1764320548,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会「武汉站」将于11月28日19:00全面开启售票啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·流光协奏」全息巡回演唱会「武汉站」将于11月28日19:00全面开启售票啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "虚拟歌手要显贵，基础款就不要再搭基础款~",
+      "desc": "歌手基础，粉丝就不 基 础！\n借一个模板展示一下天依的衣柜和对大家的思念，不许吐槽天依x\n期待再次和大家在演唱会的舞台相见~\n\n洛天依「无限共鸣·流光协奏」全息巡回演唱会「武汉站」将于11月28日19:00全面开启售票！\n✨传送门：https://show.bilibili.com/platform/detail.html?id=110561\n\n🎶演出时间\n12月27日 19:12\n🎶演出场地\n武汉国际博览中心\n🎶购票时间\n-【优先购票】11月28日 18:00\n-【正式开售】11月28日 19:00",
+      "jump_url": "https://www.bilibili.com/video/BV14JSjBEE2b",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b9cbe25e877ee69a61863e5f1140546b07762894.jpg",
+      "cover_file": "../../_assets/covers/2025-11-28_1.jpg",
+      "bvid": "BV14JSjBEE2b",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14JSjBEE2b",
+        "aid": "115626492430253",
+        "cover": "http://i2.hdslb.com/bfs/archive/b9cbe25e877ee69a61863e5f1140546b07762894.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14JSjBEE2b",
+        "stat": {
+          "danmaku": "406",
+          "play": "57.9万",
+          "vt": ""
+        },
+        "duration_text": "01:33",
+        "title": "虚拟歌手要显贵，基础款就不要再搭基础款~",
+        "desc": "歌手基础，粉丝就不 基 础！\n借一个模板展示一下天依的衣柜和对大家的思念，不许吐槽天依x\n期待再次和大家在演唱会的舞台相见~\n\n洛天依「无限共鸣·流光协奏」全息巡回演唱会「武汉站」将于11月28日19:00全面开启售票！\n✨传送门：https://show.bilibili.com/platform/detail.html?id=110561\n\n🎶演出时间\n12月27日 19:12\n🎶演出场地\n武汉国际博览中心\n🎶购票时间\n-【优先购票】11月28日 18:00\n-【正式开售】11月28日 19:00",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 114305,
+    "comment": 1252,
+    "forward": 117
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

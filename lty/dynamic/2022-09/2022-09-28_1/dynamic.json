@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "710962244669669410",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/710962244669669410",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月28日",
+    "pub_ts": 1664372197,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#一点一点向你靠近，即使无法触碰到你指尖的温度，也甘之如饴[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "一点一点向你靠近，即使无法触碰到你指尖的温度，也甘之如饴"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6190,
+    "comment": 140,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 706453469594124307,
+    "orig_mid": 173583326,
+    "deleted": false,
+    "archive_dir": "../../../173583326/2022-09/2022-09-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

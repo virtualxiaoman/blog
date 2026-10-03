@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "995947747102162995",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/995947747102162995",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月4日",
+    "pub_ts": 1730725555,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "[洛天依9th_社会][洛天依9th_社会]",
+    "blocks": [
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5026,
+    "comment": 177,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 995900004246749208,
+    "orig_mid": 885387,
+    "deleted": false,
+    "archive_dir": "../../../885387/2024-11/2024-11-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

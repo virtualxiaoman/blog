@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "937005535801114663",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/937005535801114663",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月30日",
+    "pub_ts": 1717002002,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@哈里哈气哈士奇@习艺之人@5tugh等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@哈里哈气哈士奇",
+        "mid": 53438125,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@习艺之人",
+        "mid": 1436214112,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@5tugh",
+        "mid": 3546393457199960,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3453,
+    "comment": 71,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 911328121077104661,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-03/2024-03-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1201802553216466952",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1201802553216466952",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月13日",
+    "pub_ts": 1778654862,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "很高兴今年也为BDF唱歌！期待天依的演绎吧~[洛天依拜年纪动态表情包_好多人啊]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "很高兴今年也为BDF唱歌！期待天依的演绎吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_好多人啊]",
+        "package_id": "9451",
+        "emoji_id": "132872",
+        "name": "好多人啊",
+        "url": "https://i0.hdslb.com/bfs/garb/797e835495e7d19c91cb95da93a6741decf6dd59.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/好多人啊.gif",
+        "package_id": "9451",
+        "emoji_id": "132872",
+        "text": "[洛天依拜年纪动态表情包_好多人啊]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3845,
+    "comment": 125,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1201759285708587027,
+    "orig_mid": 32708657,
+    "deleted": false,
+    "archive_dir": "../../../32708657/2026-05/2026-05-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

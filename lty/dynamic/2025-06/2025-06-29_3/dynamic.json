@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "id": "1083851305151102977",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1083851305151102977",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月29日",
+    "pub_ts": 1751192197,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#♬#洛天依0712生日快乐# \n洛天依十三周年生日纪念「八音奇响」系列周边 第一弹 7月4日20点预售即将开启~[洛天依·戏游九州动态_惬意]\n八音盒每一次转动，便是一道回忆的歌声刻录，一份弥足珍贵的爱意珍藏。\n\n🎶上架周边\n镭射票套组\n徽章套组\n透卡套组\n亚克力色纸\n亚克力流麻\n亚克力立牌\n\n🎶八音奇响礼盒\n豪华版礼盒含限定摆件*1\n*礼盒为线下场贩限定，将在#BW2025#2.1H洛天依展位2A02和广西凤岭水世界等开启线下售卖，BW现场还有特别满赠活动，详情请看天依之前的动态哦！[洛天依·戏游九州动态_乖巧]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "♬"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " \n洛天依十三周年生日纪念「八音奇响」系列周边 第一弹 7月4日20点预售即将开启~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n八音盒每一次转动，便是一道回忆的歌声刻录，一份弥足珍贵的爱意珍藏。\n\n🎶上架周边\n镭射票套组\n徽章套组\n透卡套组\n亚克力色纸\n亚克力流麻\n亚克力立牌\n\n🎶八音奇响礼盒\n豪华版礼盒含限定摆件*1\n*礼盒为线下场贩限定，将在"
+      },
+      {
+        "type": "topic",
+        "text": "#BW2025#",
+        "url": "https://search.bilibili.com/all?keyword=BW2025"
+      },
+      {
+        "type": "text",
+        "text": "2.1H洛天依展位2A02和广西凤岭水世界等开启线下售卖，BW现场还有特别满赠活动，详情请看天依之前的动态哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-29_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/893904b3d25effa37c1704416eafe0ec36081646.png",
+        "width": 1125,
+        "height": 6823,
+        "size_kb": 9396.277,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-29_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e8f2990c68da46a6b1f81340b52c5a2136081646.png",
+        "width": 719,
+        "height": 4215,
+        "size_kb": 4335.52,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-06-29_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ea7eb4589009cdfaec215762ab7fbcd436081646.png",
+        "width": 719,
+        "height": 3614,
+        "size_kb": 3651.043,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-06-29_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d694c70d553e802c2097d9f13754488636081646.png",
+        "width": 960,
+        "height": 12221,
+        "size_kb": 9720.153,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依13周年 八音奇响 周边徽章镭射票色纸立牌",
+            "price": "¥29",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/e7/d9/e04ec63e1d780f2bca96732a3eaf3650.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12620325&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1083851305151102977",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-06-29_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4564,
+    "comment": 303,
+    "forward": 79
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

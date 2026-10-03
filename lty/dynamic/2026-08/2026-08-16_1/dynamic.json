@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "id": "1237053926793019400",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1237053926793019400",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月16日",
+    "pub_ts": 1786862462,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "炎炎夏日，来一份地府美食怎么样？[洛天依14周年·四重奏_wink][洛天依14周年·四重奏_wink]\n8月23日晚19点，冰火歌会夏日启航\n天依准备了专辑新曲《地府美食家》的特别舞台\n预约直播，来看天依吧~ [洛天依14周年·四重奏_闪亮亮]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "炎炎夏日，来一份地府美食怎么样？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n8月23日晚19点，冰火歌会夏日启航\n天依准备了专辑新曲《地府美食家》的特别舞台\n预约直播，来看天依吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_闪亮亮]",
+        "package_id": "10148",
+        "emoji_id": "144399",
+        "name": "闪亮亮",
+        "url": "https://i0.hdslb.com/bfs/garb/35a912c618f15f82d60a442cf034b28b6f5e9e5e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-16_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b314df74fb2d62c328e7f2e7fbf75c5436081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2877.7646484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/闪亮亮.gif",
+        "package_id": "10148",
+        "emoji_id": "144399",
+        "text": "[洛天依14周年·四重奏_闪亮亮]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：2026冰火歌会夏日启航",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：2026冰火歌会夏日启航",
+        "desc1": {
+          "text": "08-23 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "10.2万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone 17 Pro Max*1份、1000元京东购物卡*3份、B站随机周边*30份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=5645181&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5645181,
+        "reserve_total": 102080,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5372,
+    "comment": 310,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "846742013467426851",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/846742013467426851",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月29日",
+    "pub_ts": 1695985888,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "梦幻联动！洛天依、墨韵Moyun带来中秋限定版《月华舞》",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1dH4y1o7Yw",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/2e02ba2401d52f29135b7186400505cad01df335.jpg",
+      "cover_file": "../../_assets/covers/2023-09-29_1.jpg",
+      "bvid": "BV1dH4y1o7Yw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1dH4y1o7Yw",
+        "aid": "961605113",
+        "cover": "http://i0.hdslb.com/bfs/archive/2e02ba2401d52f29135b7186400505cad01df335.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1dH4y1o7Yw",
+        "stat": {
+          "danmaku": "891",
+          "play": "40.1万",
+          "vt": ""
+        },
+        "duration_text": "02:07",
+        "title": "梦幻联动！洛天依、墨韵Moyun带来中秋限定版《月华舞》",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 58170,
+    "comment": 936,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

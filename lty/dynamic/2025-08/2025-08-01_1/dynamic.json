@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "id": "1096032678517407760",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1096032678517407760",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月1日",
+    "pub_ts": 1754028394,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依大型原创音乐征集活动「闪耀的Producer 」\n第二周作品闪耀对决正式开启啦！[洛天依八音奇响动态_可爱]\n\n🎶打擂期：8月1日0点-8月7日24点\n🎶参与打擂作品\n✨Kirakira组\n@兰音Reine 《忆游神》洛天依原创 “神明路过人间时，祂替我说完了所有思念”《忆游神》/闽南语\n@北极星Polaris_D 《99%加载失败》【洛天依原创曲】99%加载失败\n@MOCKER44 《花草野》【洛天依原创】“偷生为草芥，覆死化土野。”\n@昨日的青空酱 《所以我开始期待明天》【洛天依生贺/告别作】所以我开始期待明天\n@Am7add11 《非连续烟花》非连续烟花 / Am7add11 feat. 洛天依\n@丨闹闹丶丨 《正传颂的未来》【洛天依原创曲】正传颂的未来【HB to 天依2025】\n\n✨Pikapika组\n@辻原一郎 《深海结晶少女》「宇宙电台2025」深海结晶少女  【feat 洛天依】\n@JUSF周存 《众生的》● ◖☾众 生 的☽◗ ●\n@谱凛 《扮鬼游戏》藏好了吗\n@amos00513 《化蛹》アモス - 化蛹 feat.洛天依\n@写歌的海鲜面 《廉价》如果泪水太「廉价」，就看我卖笑吧。洛天依原创摇滚⚠️应激反应系列\n@纳兰寻风 《心 寸》“诗像一张网把爱憎罗织”|《心 寸》【洛天依原创】\n\n✨主题页：网页链接 \n来pick你心中喜爱的作品吧！[洛天依动态流光协奏_打call]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依大型原创音乐征集活动「闪耀的Producer 」\n第二周作品闪耀对决正式开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶打擂期：8月1日0点-8月7日24点\n🎶参与打擂作品\n✨Kirakira组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@兰音Reine ",
+        "mid": 698029620,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《忆游神》"
+      },
+      {
+        "type": "video",
+        "text": "洛天依原创 “神明路过人间时，祂替我说完了所有思念”《忆游神》/闽南语",
+        "url": "https://www.bilibili.com/video/av114739346670643",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@北极星Polaris_D ",
+        "mid": 11529553,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《99%加载失败》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】99%加载失败",
+        "url": "https://www.bilibili.com/video/av114756191001714",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@MOCKER44 ",
+        "mid": 1402233397,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《花草野》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】“偷生为草芥，覆死化土野。”",
+        "url": "https://www.bilibili.com/video/av114795047033223",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@昨日的青空酱 ",
+        "mid": 352831167,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《所以我开始期待明天》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依生贺/告别作】所以我开始期待明天",
+        "url": "https://www.bilibili.com/video/av114823920621656",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@Am7add11 ",
+        "mid": 93473547,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《非连续烟花》"
+      },
+      {
+        "type": "video",
+        "text": "非连续烟花 / Am7add11 feat. 洛天依",
+        "url": "https://www.bilibili.com/video/av114832745434914",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@丨闹闹丶丨 ",
+        "mid": 11870424,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《正传颂的未来》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】正传颂的未来【HB to 天依2025】",
+        "url": "https://www.bilibili.com/video/av114834909695081",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n✨Pikapika组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@辻原一郎 ",
+        "mid": 40027093,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《深海结晶少女》"
+      },
+      {
+        "type": "video",
+        "text": "「宇宙电台2025」深海结晶少女  【feat 洛天依】",
+        "url": "https://www.bilibili.com/video/av114705423209796",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@JUSF周存 ",
+        "mid": 341368,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《众生的》"
+      },
+      {
+        "type": "video",
+        "text": "● ◖☾众 生 的☽◗ ●",
+        "url": "https://www.bilibili.com/video/av114743943634733",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@谱凛 ",
+        "mid": 480714796,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《扮鬼游戏》"
+      },
+      {
+        "type": "video",
+        "text": "藏好了吗",
+        "url": "https://www.bilibili.com/video/av114787379844486",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@amos00513 ",
+        "mid": 3546932637075875,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《化蛹》"
+      },
+      {
+        "type": "video",
+        "text": "アモス - 化蛹 feat.洛天依",
+        "url": "https://www.bilibili.com/video/av114811622986697",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@写歌的海鲜面 ",
+        "mid": 935899,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《廉价》"
+      },
+      {
+        "type": "video",
+        "text": "如果泪水太「廉价」，就看我卖笑吧。洛天依原创摇滚⚠️应激反应系列",
+        "url": "https://www.bilibili.com/video/av114821387393607",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@纳兰寻风 ",
+        "mid": 893950,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《心 寸》"
+      },
+      {
+        "type": "video",
+        "text": "“诗像一张网把爱憎罗织”|《心 寸》【洛天依原创】",
+        "url": "https://www.bilibili.com/video/av114821571812081",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n✨主题页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/Producer2025.html"
+      },
+      {
+        "type": "text",
+        "text": " \n来pick你心中喜爱的作品吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8b85a72f551069e6282592cff41ffdfe36081646.jpg",
+        "width": 1600,
+        "height": 6059,
+        "size_kb": 2422.854,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4235,
+    "comment": 206,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "977624059440267268",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/977624059440267268",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月16日",
+    "pub_ts": 1726459239,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "天依速递~请查收「无限遨游沉浸式体验展」首日回顾！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依速递~请查收「无限遨游沉浸式体验展」首日回顾！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依速递~请查收「无限遨游沉浸式体验展」首日回顾！",
+      "desc": "欢迎大家来到天依的无限宇宙！\n在这里的每一个角落，或许都能发现你所熟悉的回忆~\n忘掉平日的烦恼，和天依一起，跨越虚实，畅游关于我们的所有时间线！\n\n展期时间&地点\n9月15日-10月31日，上海月星环球港4楼（环球大厅-环球展馆）\n\n展览购票地址：\n【bilibili会员购】https://show.bilibili.com/platform/detail.html?id=91175&spm_id_from=333.1368.rich-text.link.click\n【大麦】https://detail.",
+      "jump_url": "https://www.bilibili.com/video/BV1G14UeDEch",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/c599876c8e01bddf8c0defe32532a43a38ea8a71.jpg",
+      "cover_file": "../../_assets/covers/2024-09-16_3.jpg",
+      "bvid": "BV1G14UeDEch",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1G14UeDEch",
+        "aid": "113142088599819",
+        "cover": "http://i0.hdslb.com/bfs/archive/c599876c8e01bddf8c0defe32532a43a38ea8a71.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1G14UeDEch",
+        "stat": {
+          "danmaku": "40",
+          "play": "11万",
+          "vt": ""
+        },
+        "duration_text": "00:58",
+        "title": "天依速递~请查收「无限遨游沉浸式体验展」首日回顾！",
+        "desc": "欢迎大家来到天依的无限宇宙！\n在这里的每一个角落，或许都能发现你所熟悉的回忆~\n忘掉平日的烦恼，和天依一起，跨越虚实，畅游关于我们的所有时间线！\n\n展期时间&地点\n9月15日-10月31日，上海月星环球港4楼（环球大厅-环球展馆）\n\n展览购票地址：\n【bilibili会员购】https://show.bilibili.com/platform/detail.html?id=91175&spm_id_from=333.1368.rich-text.link.click\n【大麦】https://detail.",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14856,
+    "comment": 454,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

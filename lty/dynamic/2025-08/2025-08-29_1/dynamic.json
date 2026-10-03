@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1106390610650071064",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1106390610650071064",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月29日",
+    "pub_ts": 1756440038,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "月色盈盈，衣袂翩翩，一心一念牵丝动。\n你，会是我的有缘之人吗？[蛇来运转表情包_洛天依-]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "月色盈盈，衣袂翩翩，一心一念牵丝动。\n你，会是我的有缘之人吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9d4ad1145b92d89378f5441ea98dac1436081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 1362.0283203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10035,
+    "comment": 1209,
+    "forward": 264
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

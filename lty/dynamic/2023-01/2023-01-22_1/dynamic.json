@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "753829097812000803",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/753829097812000803",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月22日",
+    "pub_ts": 1674352914,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n转发并关注，揪10个小伙伴送出我的红包封面一份。\n\n缘分呐，一定是世界上最奇妙的东西吧～\n如朝生露死般脆弱，又如桃花初绽般美好。\n常言道，无缘不必强求，有缘自会相见。\n大年初一送祝福！今天的天依是姻缘神哦，愿在未来的日子里，你还会与更多美好的人与事相逢，至少有一根红线已经系在你我的指尖啦！[洛天依_捏捏]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "131034",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n转发并关注，揪10个小伙伴送出我的红包封面一份。\n\n缘分呐，一定是世界上最奇妙的东西吧～\n如朝生露死般脆弱，又如桃花初绽般美好。\n常言道，无缘不必强求，有缘自会相见。\n大年初一送祝福！今天的天依是姻缘神哦，愿在未来的日子里，你还会与更多美好的人与事相逢，至少有一根红线已经系在你我的指尖啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-22_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/de086407f30592146d45f74a6acc60a436081646.jpg",
+        "width": 3000,
+        "height": 5000,
+        "size_kb": 1209.3599853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "131034"
+  },
+  "vote": null,
+  "stats": {
+    "like": 13811,
+    "comment": 1211,
+    "forward": 9341
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

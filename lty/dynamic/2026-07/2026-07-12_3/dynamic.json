@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1224038268915417105",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1224038268915417105",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783832018,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一颗小洛信号，想降临你的掌心，我的14周年纪念收藏集「洛天依新像集·信号」即将开售啦，欢迎大家预约~[洛天依国乐季动态表情包_摸摸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一颗小洛信号，想降临你的掌心，我的14周年纪念收藏集「洛天依新像集·信号」即将开售啦，欢迎大家预约~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_摸摸]",
+        "package_id": "9546",
+        "emoji_id": "134445",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/26aaea43767972aa584f1ba50a9eac3dbe08a6eb.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/摸摸.gif",
+        "package_id": "9546",
+        "emoji_id": "134445",
+        "text": "[洛天依国乐季动态表情包_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4324,
+    "comment": 185,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1224024449880162345,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-07/2026-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:29:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

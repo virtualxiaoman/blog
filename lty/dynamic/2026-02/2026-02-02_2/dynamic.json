@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1164784672486457366",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1164784672486457366",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月2日",
+    "pub_ts": 1770035965,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "“平安春运行，国乐常相伴！”\n天依游学记 × @上海铁路公安处\n【平安春运】主题特别宣传活动开启啦！[乐鸣东方动态表情包_支持]\n\n春运路上，以国乐为引，将平安一路相随～[乐鸣东方动态表情包_收到]\n\n2月2日-2月20日，在B站#洛天依国乐季#话题 分享你的平安出行瞬间与旅途记忆照片，有机会获得「国乐季限定礼盒」1份哦！\n现场还有【歌行·国乐季】主题陈设，欢迎大家打卡~[乐鸣东方动态表情包_对]\n\n让天依陪你一起，平安回家吧！[乐鸣东方动态表情包_求求]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“平安春运行，国乐常相伴！”\n天依游学记 × "
+      },
+      {
+        "type": "mention",
+        "text": "@上海铁路公安处",
+        "mid": 3546679879927983,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n【平安春运】主题特别宣传活动开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n春运路上，以国乐为引，将平安一路相随～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_收到]",
+        "package_id": "9343",
+        "emoji_id": "131158",
+        "name": "收到",
+        "url": "https://i0.hdslb.com/bfs/garb/81661b0a596faf64996f21a486b5d9e89cdaeae2.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n2月2日-2月20日，在B站"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依国乐季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "话题 分享你的平安出行瞬间与旅途记忆照片，有机会获得「国乐季限定礼盒」1份哦！\n现场还有【歌行·国乐季】主题陈设，欢迎大家打卡~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_对]",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "name": "对",
+        "url": "https://i0.hdslb.com/bfs/garb/cb93227eef06eceb7960a0a5a43d061df8ec199a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n让天依陪你一起，平安回家吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-02_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c6255d6873e181bdef54368a21b43f4b36081646.jpg",
+        "width": 2500,
+        "height": 13223,
+        "size_kb": 3862.607421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/收到.gif",
+        "package_id": "9343",
+        "emoji_id": "131158",
+        "text": "[乐鸣东方动态表情包_收到]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/对.gif",
+        "package_id": "9343",
+        "emoji_id": "131145",
+        "text": "[乐鸣东方动态表情包_对]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6053,
+    "comment": 374,
+    "forward": 211
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

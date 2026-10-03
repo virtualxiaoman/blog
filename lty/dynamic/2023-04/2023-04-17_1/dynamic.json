@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "785404134028214359",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/785404134028214359",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月17日",
+    "pub_ts": 1681704550,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "冲冲冲！[洛天依幻游世界_GKD][洛天依幻游世界_GKD][洛天依幻游世界_GKD]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "冲冲冲！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_GKD]",
+        "package_id": "1066",
+        "emoji_id": "18927",
+        "name": "GKD",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9c9c615982dd5734caada19cc7a65bf936ac52b2.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_GKD]",
+        "package_id": "1066",
+        "emoji_id": "18927",
+        "name": "GKD",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9c9c615982dd5734caada19cc7a65bf936ac52b2.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_GKD]",
+        "package_id": "1066",
+        "emoji_id": "18927",
+        "name": "GKD",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9c9c615982dd5734caada19cc7a65bf936ac52b2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/GKD.png",
+        "package_id": "1066",
+        "emoji_id": "18927",
+        "text": "[洛天依幻游世界_GKD]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6128,
+    "comment": 210,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 348061052998285905,
+    "orig_mid": 43855,
+    "deleted": false,
+    "archive_dir": "../../../43855/2020-01/2020-01-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:52:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

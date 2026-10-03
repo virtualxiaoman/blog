@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "912778540097732657",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/912778540097732657",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月25日",
+    "pub_ts": 1711361215,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "《游四方》——天依游学记收官EP终于要和大家见面啦！\n[洛天依歌行四方_欢迎]“听见大地的心跳声”内蒙篇《天上的风》\n[洛天依歌行四方_吟唱]“祝祷转过千年 五色经幡飘飞”西藏篇《雪山之眼》\n[洛天依歌行四方_玩水]“那是绕过层峦 思念的回声”云贵篇《黔歌行》\n[洛天依歌行四方_扭脖子]“天山不曾规定谁像她”新疆篇《天山之外》\n\n跨越千山与万水，结合传统与现代，采集岁月的回声，融入音符与画卷。\n天依很荣幸与多位少数民族民乐艺术家，以及众多的优秀原创音乐人再次合作。\n3首全新原创单曲即将陆续呈现，邀你一同聆听~[洛天依歌行四方_送哈达]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《游四方》——天依游学记收官EP终于要和大家见面啦！\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "“听见大地的心跳声”内蒙篇《天上的风》\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_吟唱]",
+        "package_id": "4128",
+        "emoji_id": "58610",
+        "name": "吟唱",
+        "url": "https://i0.hdslb.com/bfs/emote/bc6c6149e9215c4f22a76209c47f8fb256410665.png"
+      },
+      {
+        "type": "text",
+        "text": "“祝祷转过千年 五色经幡飘飞”西藏篇《雪山之眼》\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_玩水]",
+        "package_id": "4128",
+        "emoji_id": "58607",
+        "name": "玩水",
+        "url": "https://i0.hdslb.com/bfs/emote/1770d7c61c86170f5bc7ce9ffa7493b3f14bbc9b.png"
+      },
+      {
+        "type": "text",
+        "text": "“那是绕过层峦 思念的回声”云贵篇《黔歌行》\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "“天山不曾规定谁像她”新疆篇《天山之外》\n\n跨越千山与万水，结合传统与现代，采集岁月的回声，融入音符与画卷。\n天依很荣幸与多位少数民族民乐艺术家，以及众多的优秀原创音乐人再次合作。\n3首全新原创单曲即将陆续呈现，邀你一同聆听~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送哈达]",
+        "package_id": "4128",
+        "emoji_id": "58605",
+        "name": "送哈达",
+        "url": "https://i0.hdslb.com/bfs/emote/8208f53ae2d39d6dfdfaa79e6888bf26ce961a1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-25_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/966f88318a9e3b5c21932c63b2e1cc6936081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 5218.3701171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/吟唱.png",
+        "package_id": "4128",
+        "emoji_id": "58610",
+        "text": "[洛天依歌行四方_吟唱]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/玩水.png",
+        "package_id": "4128",
+        "emoji_id": "58607",
+        "text": "[洛天依歌行四方_玩水]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/送哈达.png",
+        "package_id": "4128",
+        "emoji_id": "58605",
+        "text": "[洛天依歌行四方_送哈达]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6624,
+    "comment": 353,
+    "forward": 153
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

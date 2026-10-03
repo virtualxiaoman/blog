@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "223285308085688225",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/223285308085688225",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年2月22日",
+    "pub_ts": 1550826062,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#今天上午开启预售的盒蛋受到了许多小伙伴的关注和喜爱，所以天依决定要给小伙伴们赠送福利啦~ 转发这条动态并关注天依，我们将抽取2名小伙伴赠送天依的演唱会限定盒蛋【钢琴场景版】！  预售链接:https://item.taobao.com/item.htm?id=587500330630\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "21029",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "今天上午开启预售的盒蛋受到了许多小伙伴的关注和喜爱，所以天依决定要给小伙伴们赠送福利啦~ 转发这条动态并关注天依，我们将抽取2名小伙伴赠送天依的演唱会限定盒蛋【钢琴场景版】！  预售链接:https://item.taobao.com/item.htm?id=587500330630"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-02-22_10.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0a85b80329b32153af1a8f94232c31836f0a9a58.jpg",
+        "width": 2400,
+        "height": 1600,
+        "size_kb": 1678.52,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-02-22_11.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/94906cecd52465a40277258f7b4f387f7a1151a1.jpg",
+        "width": 1988,
+        "height": 1326,
+        "size_kb": 1992.95,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "21029"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6409,
+    "comment": 972,
+    "forward": 12989
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

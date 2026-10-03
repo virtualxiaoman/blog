@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1090173776205709320",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1090173776205709320",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月16日",
+    "pub_ts": 1752664262,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@吃我一记水母中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@吃我一记水母",
+        "mid": 1707508606,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3148,
+    "comment": 58,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 1088318659576725504,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-07-11_6"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:35:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

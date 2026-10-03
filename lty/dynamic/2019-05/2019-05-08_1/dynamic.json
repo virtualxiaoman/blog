@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "251028400229627328",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/251028400229627328",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月8日",
+    "pub_ts": 1557285504,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依是声音指导哦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依是声音指导哦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4816,
+    "comment": 246,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 250250641781775898,
+    "orig_mid": 20165629,
+    "deleted": false,
+    "archive_dir": "../../../20165629/2019-05/2019-05-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

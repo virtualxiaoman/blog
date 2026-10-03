@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "948772174221541384",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/948772174221541384",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月30日",
+    "pub_ts": 1719741636,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "试听PV7月4日邀你聆听，数字专辑7月6日正式上线",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "试听PV7月4日邀你聆听，数字专辑7月6日正式上线"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“该用怎样的旋律打动你”洛天依十二周年纪念专辑《再生》概念短片",
+      "desc": "该如何用歌声再次打动你\n借涤荡在如影岁月中的旋律吗？\n以淬炼于无垠寰宇下的新声吗？\n\n当时钟从12再次转向1\n与规训无声对峙，日暮下咆哮燃烧\n在0、1序列的明暗交映下\n程序搭建机械心脏，歌者共鸣万象心声\n\n洛天依十二周年专辑《再生》\n收录6首经典歌曲改编、6首全新原创单曲\n特邀知名P主、金曲奖音乐制作人倾力打造\n共同诠释洛天依的无限“再生”\n\n试听PV7月4日邀你聆听\n数字专辑7月6日正式上线\n实体CD专辑 coming soon\n\nBGM制作：FatGuy",
+      "jump_url": "https://www.bilibili.com/video/BV1a1421r7ma",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/20e38c1e308843ce43d578af936b6264efbaea8b.jpg",
+      "cover_file": "../../_assets/covers/2024-06-30_2.jpg",
+      "bvid": "BV1a1421r7ma",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1a1421r7ma",
+        "aid": "1555859804",
+        "cover": "http://i1.hdslb.com/bfs/archive/20e38c1e308843ce43d578af936b6264efbaea8b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1a1421r7ma",
+        "stat": {
+          "danmaku": "201",
+          "play": "38.5万",
+          "vt": ""
+        },
+        "duration_text": "00:44",
+        "title": "“该用怎样的旋律打动你”洛天依十二周年纪念专辑《再生》概念短片",
+        "desc": "该如何用歌声再次打动你\n借涤荡在如影岁月中的旋律吗？\n以淬炼于无垠寰宇下的新声吗？\n\n当时钟从12再次转向1\n与规训无声对峙，日暮下咆哮燃烧\n在0、1序列的明暗交映下\n程序搭建机械心脏，歌者共鸣万象心声\n\n洛天依十二周年专辑《再生》\n收录6首经典歌曲改编、6首全新原创单曲\n特邀知名P主、金曲奖音乐制作人倾力打造\n共同诠释洛天依的无限“再生”\n\n试听PV7月4日邀你聆听\n数字专辑7月6日正式上线\n实体CD专辑 coming soon\n\nBGM制作：FatGuy",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21492,
+    "comment": 760,
+    "forward": 269
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

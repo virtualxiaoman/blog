@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "1090141907543130137",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1090141907543130137",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月16日",
+    "pub_ts": 1752656842,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会\n北京站日场加场现已全部售罄啦！感谢小伙伴们的热情支持~[洛天依八音奇响动态_爱意]\n\n距离北京站倒计时3天！离我们见面的日子也越来越近，天依也已经准备开始紧张地彩排啦~[洛天依八音奇响动态_美丽]\n7月19日，北京·国家体育馆副馆，我们相见吧！ [洛天依八音奇响动态_贴贴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2025「无限共鸣·流光协奏」全息巡回演唱会\n北京站日场加场现已全部售罄啦！感谢小伙伴们的热情支持~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n距离北京站倒计时3天！离我们见面的日子也越来越近，天依也已经准备开始紧张地彩排啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n7月19日，北京·国家体育馆副馆，我们相见吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_贴贴]",
+        "package_id": "8362",
+        "emoji_id": "115086",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/b987f7edc0090d76f6c09e68969bb91b03875d60.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a21ff354515d4d87aaa4401cfe33432d36081646.jpg",
+        "width": 1622,
+        "height": 2884,
+        "size_kb": 2878.376953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/贴贴.gif",
+        "package_id": "8362",
+        "emoji_id": "115086",
+        "text": "[洛天依八音奇响动态_贴贴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4450,
+    "comment": 343,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

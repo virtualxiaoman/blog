@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "1107572254937448469",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1107572254937448469",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月1日",
+    "pub_ts": 1756715161,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "来自天依的九月日历壁纸~\n牵起这根红线，和天依一起翻开新的一月吧！\n大家对9月，有什么计划和期待嘛？[洛天依·闪耀的Producer_平淡]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来自天依的九月日历壁纸~\n牵起这根红线，和天依一起翻开新的一月吧！\n大家对9月，有什么计划和期待嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer_平淡]",
+        "package_id": "8541",
+        "emoji_id": "117866",
+        "name": "平淡",
+        "url": "https://i0.hdslb.com/bfs/garb/300fa5cdf609e8bff7b86a85936bcc8287a94008.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64426558161bfe7ed08c9180a5e8695036081646.jpg",
+        "width": 640,
+        "height": 1136,
+        "size_kb": 623.4500122070312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c067fef423f8cc14fa02e5c5708de0cf36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1338.1400146484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8541/平淡.png",
+        "package_id": "8541",
+        "emoji_id": "117866",
+        "text": "[洛天依·闪耀的Producer_平淡]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依七夕节 小扇流萤系列 徽章 色纸 相卡 立牌 挂件",
+            "price": "¥15",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/dd/c9/9170dd16dca2f838118415d39e6aae17.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=13016326&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1107572254937448469",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-09-01_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5570,
+    "comment": 353,
+    "forward": 84
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "761735496944582657",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/761735496944582657",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月12日",
+    "pub_ts": 1676193766,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依# #转发抽奖# \n【HELLO! GOOD SMILE 洛天依 】\n新品预售中੭ ˙ᗜ˙ )੭\n售价：89元/个\n\n转发并关注@洛天依 ,随机抽选1位小伙伴赠送【HELLO! GOOD SMILE 洛天依 】1个。\n꙳✧˖°⌖꙳✧˖°⌖꙳✧˖°⌖꙳✧˖°⌖꙳✧˖°⌖꙳✧\n\n\"HELLO! GOOD SMILE\"是Good Smile Company推出的全新Q版模型系列。\n是脖子可以左右摇动的小天依哦(*•̀ᴗ•́*)و\n是不是超级可爱[洛天依_捏捏]\n喜欢的小伙伴可以戳:网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "134509",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": " \n【HELLO! GOOD SMILE 洛天依 】\n新品预售中੭ ˙ᗜ˙ )੭\n售价：89元/个\n\n转发并关注"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依 ",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ",随机抽选1位小伙伴赠送【HELLO! GOOD SMILE 洛天依 】1个。\n꙳✧˖°⌖꙳✧˖°⌖꙳✧˖°⌖꙳✧˖°⌖꙳✧˖°⌖꙳✧\n\n\"HELLO! GOOD SMILE\"是Good Smile Company推出的全新Q版模型系列。\n是脖子可以左右摇动的小天依哦(*•̀ᴗ•́*)و\n是不是超级可爱"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n喜欢的小伙伴可以戳:"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/58bK0tT"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-02-12_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/feba5913808aa1a12dd9b07c9f0643ce36081646.jpg",
+        "width": 600,
+        "height": 800,
+        "size_kb": 151.00999450683594,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-02-12_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/85b370408439ef0a5bd2518c21e174de36081646.jpg",
+        "width": 600,
+        "height": 800,
+        "size_kb": 150.8699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-02-12_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0f9bf90a06cd5e8e1a03c5abd17555f836081646.jpg",
+        "width": 600,
+        "height": 800,
+        "size_kb": 147.8000030517578,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "GSAS HELLO! Vsinger 洛天依 Q版手办",
+            "price": "¥95",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f2/42/f242c00013b12812ec9ae83ab4c2ae9b.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10133376&msource=cps_Mdynamic_36081646_cont-2-761735496944582657&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-02-12_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "134509"
+  },
+  "vote": null,
+  "stats": {
+    "like": 12904,
+    "comment": 1965,
+    "forward": 14818
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

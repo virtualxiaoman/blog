@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "270080462838507387",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/270080462838507387",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年6月28日",
+    "pub_ts": 1561721408,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "把回忆收集好，寄给未来的自己吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "把回忆收集好，寄给未来的自己吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4476,
+    "comment": 94,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 270072886514081707,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2019-06/2019-06-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

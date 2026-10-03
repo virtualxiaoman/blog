@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1184041682294800384",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1184041682294800384",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月26日",
+    "pub_ts": 1774519587,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "春燕归，万物生。[洛天依国乐季动态表情包_唱歌]\n春日精灵小洛为你送来祝福——\n愿你平安幸福，愿你永远对未来抱有希望。\n\n一起开启我们的春日序章吧！[洛天依国乐季动态表情包_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "春燕归，万物生。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_唱歌]",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/182b9d9f0601165e6b7488e28066730dbfe3fd4e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n春日精灵小洛为你送来祝福——\n愿你平安幸福，愿你永远对未来抱有希望。\n\n一起开启我们的春日序章吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-26_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f1b6c996a736792db52f4c00a958934236081646.png",
+        "width": 4050,
+        "height": 5400,
+        "size_kb": 19334.810546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/唱歌.gif",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "text": "[洛天依国乐季动态表情包_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9448,
+    "comment": 799,
+    "forward": 449
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

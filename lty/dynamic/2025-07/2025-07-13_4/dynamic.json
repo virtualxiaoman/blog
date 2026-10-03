@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1089055568598925329",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1089055568598925329",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月13日",
+    "pub_ts": 1752403909,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依✖️YOOOOSHOP官方授权演唱会主题系列快闪活动即将开启啦！[洛天依八音奇响动态_贴贴]\n\n【月光交响 心生共鸣】首站快闪\n⏰ 时间：2025.7.16-2025.8.17\n📍 地址：北京朝阳北路101号北京朝阳大悦城B1\n\n🌟 快闪周边情报\n洛天依无限共鸣·流光协奏演唱会系列\n等通贩周边\n\n🎶 现场活动情报\n参与集章活动和购买周边金额达到指定门槛，即可获得对应天依周边\n*现场还有非遗漆扇DIY 特别活动\n\n💎活动现场特殊日期还有天依 coser 和人偶巡场活动\n详情小伙伴请戳长图查看～[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依✖️YOOOOSHOP官方授权演唱会主题系列快闪活动即将开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_贴贴]",
+        "package_id": "8362",
+        "emoji_id": "115086",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/b987f7edc0090d76f6c09e68969bb91b03875d60.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【月光交响 心生共鸣】首站快闪\n⏰ 时间：2025.7.16-2025.8.17\n📍 地址：北京朝阳北路101号北京朝阳大悦城B1\n\n🌟 快闪周边情报\n洛天依无限共鸣·流光协奏演唱会系列\n等通贩周边\n\n🎶 现场活动情报\n参与集章活动和购买周边金额达到指定门槛，即可获得对应天依周边\n*现场还有非遗漆扇DIY 特别活动\n\n💎活动现场特殊日期还有天依 coser 和人偶巡场活动\n详情小伙伴请戳长图查看～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-13_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8c299f233573bfd27b624a9b7ede30e536081646.png",
+        "width": 1000,
+        "height": 4173,
+        "size_kb": 3084.921,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-13_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6f2f8a9a3b88162b033ca23387c2ed9436081646.png",
+        "width": 1000,
+        "height": 3976,
+        "size_kb": 3739.639,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-13_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4c859b764759ee4f58ebfa9feeb1b1de36081646.jpg",
+        "width": 1280,
+        "height": 8014,
+        "size_kb": 1266.02,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/贴贴.gif",
+        "package_id": "8362",
+        "emoji_id": "115086",
+        "text": "[洛天依八音奇响动态_贴贴]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4654,
+    "comment": 271,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

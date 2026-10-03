@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "911328121077104661",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/911328121077104661",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月21日",
+    "pub_ts": 1711023513,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖【新品上线】\n洛天依20cm玩偶 夏虫Ver.&鼠标垫系列周边\n卷❀关注天依，揪5位小伙伴送出【洛天依20cm玩偶 夏虫Ver】1个。\n\n♪“固执的夏虫汲取着美梦解渴\n在湿漉的夜 结群飞行\n就能甩开脆弱”[洛天依9th_一起唱]\n\n※商品信息\n开售时间：2024年3月23日0点\n商品售价：￥59元\n\n※传送门：\n🦋毛绒玩偶网页链接\n🦋鼠标垫网页链接\n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "288346",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "【新品上线】\n洛天依20cm玩偶 夏虫Ver.&鼠标垫系列周边\n卷❀关注天依，揪5位小伙伴送出【洛天依20cm玩偶 夏虫Ver】1个。\n\n♪“固执的夏虫汲取着美梦解渴\n在湿漉的夜 结群飞行\n就能甩开脆弱”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※商品信息\n开售时间：2024年3月23日0点\n商品售价：￥59元\n\n※传送门：\n🦋毛绒玩偶"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/SmW7DI1"
+      },
+      {
+        "type": "text",
+        "text": "\n🦋鼠标垫"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/DQPWTee"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/36af54f509a5fbaf4da5f7b7d0dab47636081646.png",
+        "width": 1000,
+        "height": 4244,
+        "size_kb": 2523.030029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-03-21_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/414700bdb149dfeb87277e22af4a7d6636081646.png",
+        "width": 1000,
+        "height": 4549,
+        "size_kb": 5811.22021484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依夏虫版玩偶 20CM款",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/86/0a/860ab317103580eb1fb5064d5ffe6f93.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10304868&msource=cps_Mdynamic_36081646_cont-2-911328121077104661&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-03-21_1.png"
+          },
+          {
+            "name": "Vsinger 洛天依 鼠标垫",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/5d/ea/5dea4a99312dc5b8613c122df7f98eee.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10304890&msource=cps_Mdynamic_36081646_cont-2-911328121077104661&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-03-21_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "288346"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7777,
+    "comment": 1623,
+    "forward": 7750
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

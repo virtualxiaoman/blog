@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "977623917925498884",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/977623917925498884",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月16日",
+    "pub_ts": 1726459206,
+    "location": ""
+  },
+  "topic": {
+    "id": 1227830,
+    "name": "花好月圆bilibili中秋晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1227830&topic_name=%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%86bilibili%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "心有明月昭昭，千里赴迢遥。\n今晚19:30，相约中秋漫游夜，天依的节目会在第四个出场哦(｡•̀ᴗ-)8✧\n这次天依要唱的曲目由两首歌组成～随潮落潮涨，走入梦乡，再遥望天上白月光，照映心上，于悠扬歌声中回忆旧时情长[心律共鸣动态表情包_享受音乐]\n除了好听的歌，天依还准备了特别的舞台设计，中秋时节，一轮圆月升空中……敬请期待吧！\n对了对了！今晚21:00，天依降落B站节目评论区，陪大家一起回顾舞台，记得来互动呀！(๑＞⌔＜๑)8\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "心有明月昭昭，千里赴迢遥。\n今晚19:30，相约中秋漫游夜，天依的节目会在第四个出场哦(｡•̀ᴗ-)8✧\n这次天依要唱的曲目由两首歌组成～随潮落潮涨，走入梦乡，再遥望天上白月光，照映心上，于悠扬歌声中回忆旧时情长"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n除了好听的歌，天依还准备了特别的舞台设计，中秋时节，一轮圆月升空中……敬请期待吧！\n对了对了！今晚21:00，天依降落B站节目评论区，陪大家一起回顾舞台，记得来互动呀！(๑＞⌔＜๑)8"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-16_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ec0baa7ed24ba42477dc72ae9841db5a36081646.png",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1847.0458984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/享受音乐.gif",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "text": "[心律共鸣动态表情包_享受音乐]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：一起来看B站中秋漫游夜！",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：一起来看B站中秋漫游夜！",
+        "desc1": {
+          "text": "2024-09-16 19:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "20.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4069477,
+        "reserve_total": 203866,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "1470515198"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3899,
+    "comment": 110,
+    "forward": 40
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

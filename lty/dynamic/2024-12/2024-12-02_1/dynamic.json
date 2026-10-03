@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "id": "1006298382056030217",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1006298382056030217",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月2日",
+    "pub_ts": 1733135500,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@辞曳 @洛天依的小金鱼 @昼屿尘 @阿雪今天也要努力学习 @洛雨天有依陪 获得许愿卡牌1张~大家要记得接收哦！[洛天依-潮声回响_舞蹈中]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@辞曳",
+        "mid": 94812133,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依的小金鱼",
+        "mid": 3493111867116238,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@昼屿尘",
+        "mid": 401939413,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@阿雪今天也要努力学习",
+        "mid": 259411831,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@洛雨天有依陪",
+        "mid": 259397341,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 获得许愿卡牌1张~大家要记得接收哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3672,
+    "comment": 165,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1000673048664211510,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-11/2024-11-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

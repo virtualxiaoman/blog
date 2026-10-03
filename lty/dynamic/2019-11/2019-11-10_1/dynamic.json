@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "320050075162063350",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/320050075162063350",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年11月10日",
+    "pub_ts": 1573355865,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  天依想在演唱会给大家一个惊喜，最近开始学小提琴，好难…小伙伴们天天听我弹棉花辛苦了~ 谢谢STAR影法师 把天依画的好美，笔芯～ 大家有学过or喜欢什么乐器吗？安利给天依呀\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  天依想在演唱会给大家一个惊喜，最近开始学小提琴，好难…小伙伴们天天听我弹棉花辛苦了~ 谢谢STAR影法师 把天依画的好美，笔芯～ 大家有学过or喜欢什么乐器吗？安利给天依呀"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-11-10_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0ee74f0e67658a2a51fb58499d52e7f64947ac4a.jpg",
+        "width": 1999,
+        "height": 1414,
+        "size_kb": 2137.3603515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10211,
+    "comment": 853,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

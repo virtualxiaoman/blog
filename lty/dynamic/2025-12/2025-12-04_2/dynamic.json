@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1142385803813453894",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1142385803813453894",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月4日",
+    "pub_ts": 1764820822,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "狂热序幕开启，来吧，一起见证谁才是最后的真理！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "狂热序幕开启，来吧，一起见证谁才是最后的真理！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "邀请「完美劲敌」来见证我的异议【洛天依人格镜像原创曲】",
+      "desc": "当神的思维碎裂成十六种人格，秩序和自由在末日的棋盘上兵刃相向\n——这是神明之间的战争，亦是自我救赎的序章\n我们是宿命的共同体，是互相庇佑的伙伴，还是最完美的劲敌？\n狂热序幕开启，来吧，一起见证谁才是最后的真理！\n\n洛天依全新轻故事主题企划「人格镜像」\n第一季「完美劲敌」同名主题曲《完美劲敌》\n演唱：洛天依\n作曲：闹闹丶/ 欧Ωhm\n作词：果汁凉菜\n编曲：欧Ωhm\n调校：哈士奇P/莫米兔\n混音：Neo Nex\n母带：周天澈@ studio21A\n视频制作：纸鸢\n音乐监制：Tenko\n策划：大泷 / 离途",
+      "jump_url": "https://www.bilibili.com/video/BV1qe2tBdEHU",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a8bb848b544e88f058b80e5f2f93504cee1ba991.jpg",
+      "cover_file": "../../_assets/covers/2025-12-04_1.jpg",
+      "bvid": "BV1qe2tBdEHU",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qe2tBdEHU",
+        "aid": "115656070530554",
+        "cover": "http://i1.hdslb.com/bfs/archive/a8bb848b544e88f058b80e5f2f93504cee1ba991.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qe2tBdEHU",
+        "stat": {
+          "danmaku": "561",
+          "play": "67.3万",
+          "vt": ""
+        },
+        "duration_text": "03:20",
+        "title": "邀请「完美劲敌」来见证我的异议【洛天依人格镜像原创曲】",
+        "desc": "当神的思维碎裂成十六种人格，秩序和自由在末日的棋盘上兵刃相向\n——这是神明之间的战争，亦是自我救赎的序章\n我们是宿命的共同体，是互相庇佑的伙伴，还是最完美的劲敌？\n狂热序幕开启，来吧，一起见证谁才是最后的真理！\n\n洛天依全新轻故事主题企划「人格镜像」\n第一季「完美劲敌」同名主题曲《完美劲敌》\n演唱：洛天依\n作曲：闹闹丶/ 欧Ωhm\n作词：果汁凉菜\n编曲：欧Ωhm\n调校：哈士奇P/莫米兔\n混音：Neo Nex\n母带：周天澈@ studio21A\n视频制作：纸鸢\n音乐监制：Tenko\n策划：大泷 / 离途",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 53892,
+    "comment": 2016,
+    "forward": 322
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

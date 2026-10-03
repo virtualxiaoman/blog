@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "1085966591604031520",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1085966591604031520",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月5日",
+    "pub_ts": 1751684700,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依非常荣幸收到@时光代理人 的特别邀请，演唱全新单曲《偷猎时间的天才》\n接下来，我还将作为嘉宾参与时光代理人「M.O.D」LIVE｜2025 音乐巡演\n期待与大家在舞台上相见，一起掌控时间，拉开舞台的帷幕！[洛天依蝶变_电吉他！]\n#时光代理人LIVE2025#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依非常荣幸收到"
+      },
+      {
+        "type": "mention",
+        "text": "@时光代理人 ",
+        "mid": 514978269,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的特别邀请，演唱全新单曲《偷猎时间的天才》\n接下来，我还将作为嘉宾参与时光代理人「M.O.D」LIVE｜2025 音乐巡演\n期待与大家在舞台上相见，一起掌控时间，拉开舞台的帷幕！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#时光代理人LIVE2025#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BALIVE2025"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-05_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a26e13c25641aed3149a647d6d14fd2736081646.jpg",
+        "width": 3240,
+        "height": 5760,
+        "size_kb": 4995.416015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5853,
+    "comment": 234,
+    "forward": 84
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:33:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

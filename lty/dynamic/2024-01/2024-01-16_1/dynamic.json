@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "887179950900117526",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/887179950900117526",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月16日",
+    "pub_ts": 1705401079,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 “第一个和最后一个我，都将永远为你而唱。”\n@洛天依 X @网易云音乐·XStudio 声库公测活动正式开启啦！[洛天依蝶变_YEAH！]\n关注天依并转发，随机揪3位小伙伴送出【洛天依合作款充电宝】1个。\n\n网易云音乐·XStudio 洛天依AI声库将免费开放给各位创作者使用，希望新的声库可以带给大家不一样的创作体验。\n欢迎大家将使用过程中的问题与感受通过问卷进行反馈，期待与大家再一同创作唯有我们可以共同编织的音乐可能性呀[洛天依蝶变_电子琴]\n\n🎶官网下载：https://xstudio.music.163.com/\n🎶问卷反馈：https://g7swob.fanqier.cn/f/lwzzjizy\n\n技术支持：@网易云音乐XStudio / 北京红棉小冰科技有限公司\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "269113",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " “第一个和最后一个我，都将永远为你而唱。”\n"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " X "
+      },
+      {
+        "type": "mention",
+        "text": "@网易云音乐",
+        "mid": 607217518,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "·XStudio 声库公测活动正式开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "\n关注天依并转发，随机揪3位小伙伴送出【洛天依合作款充电宝】1个。\n\n网易云音乐·XStudio 洛天依AI声库将免费开放给各位创作者使用，希望新的声库可以带给大家不一样的创作体验。\n欢迎大家将使用过程中的问题与感受通过问卷进行反馈，期待与大家再一同创作唯有我们可以共同编织的音乐可能性呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶官网下载：https://xstudio.music.163.com/\n🎶问卷反馈：https://g7swob.fanqier.cn/f/lwzzjizy\n\n技术支持："
+      },
+      {
+        "type": "mention",
+        "text": "@网易云音乐XStudio",
+        "mid": 1034914403,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " / 北京红棉小冰科技有限公司"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b3055ebc58fc991664eb079ae92b40a336081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 217.751953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "269113"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9681,
+    "comment": 1110,
+    "forward": 7424
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

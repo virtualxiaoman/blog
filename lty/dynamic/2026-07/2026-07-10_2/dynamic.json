@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1223282380452659222",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1223282380452659222",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月10日",
+    "pub_ts": 1783656024,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "请回应我，请聆听我，请与我一起，奔赴一场不留遗憾的约会吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "请回应我，请聆听我，请与我一起，奔赴一场不留遗憾的约会吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“闪烁在无垠之地 镀写我的澄蓝！”《越冰船》洛天依「无限共鸣·纯蓝幻乐」巡回演唱会主题曲",
+      "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会\n主题曲《越冰船》完整版PV正式上线！\n \n所有沉寂的情感与遗忘的记忆都封存在冰川之下\n等待一道破晓的歌声，穿过缝隙，唤醒音河的脉搏\n而遥远的渴盼正从远方汇聚，乘着破冰的船，将涌动的爱意尽献\n于是蓝色的音河开始流动，风即将张满风帆，风暴也无法将我们阻拦\n请回应我，请聆听我，请与我一起，奔赴一场不留遗憾的约会吧~\n \n🎶歌曲收录于洛天依十四周年纪念专辑《四重奏》\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会长沙站&北京站即将于7月10日和7月11日19点全面开",
+      "jump_url": "https://www.bilibili.com/video/BV1KMMW6eEnV",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1c5dad5fa3c25603574d99da4b4636386636e65c.jpg",
+      "cover_file": "../../_assets/covers/2026-07-10_1.jpg",
+      "bvid": "BV1KMMW6eEnV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1KMMW6eEnV",
+        "aid": "116890890405166",
+        "cover": "http://i0.hdslb.com/bfs/archive/1c5dad5fa3c25603574d99da4b4636386636e65c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1KMMW6eEnV",
+        "stat": {
+          "danmaku": "899",
+          "play": "31.9万",
+          "vt": ""
+        },
+        "duration_text": "04:22",
+        "title": "“闪烁在无垠之地 镀写我的澄蓝！”《越冰船》洛天依「无限共鸣·纯蓝幻乐」巡回演唱会主题曲",
+        "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会\n主题曲《越冰船》完整版PV正式上线！\n \n所有沉寂的情感与遗忘的记忆都封存在冰川之下\n等待一道破晓的歌声，穿过缝隙，唤醒音河的脉搏\n而遥远的渴盼正从远方汇聚，乘着破冰的船，将涌动的爱意尽献\n于是蓝色的音河开始流动，风即将张满风帆，风暴也无法将我们阻拦\n请回应我，请聆听我，请与我一起，奔赴一场不留遗憾的约会吧~\n \n🎶歌曲收录于洛天依十四周年纪念专辑《四重奏》\n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会长沙站&北京站即将于7月10日和7月11日19点全面开",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 33053,
+    "comment": 2663,
+    "forward": 281
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

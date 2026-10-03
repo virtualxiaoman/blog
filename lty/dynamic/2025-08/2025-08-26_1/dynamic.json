@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1105278201242845256",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1105278201242845256",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月26日",
+    "pub_ts": 1756181035,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶收集散落光辉，编织美妙时光\n天依和支付宝的联名动态主题套装上线啦~[洛天依动态流光协奏_来财]\n\n🎵两套动态主题皮肤套装\n流光协奏\n月光共鸣\n\n🎵套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n详情大家戳长图查看吧~[洛天依动态流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶收集散落光辉，编织美妙时光\n天依和支付宝的联名动态主题套装上线啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_来财]",
+        "package_id": "8399",
+        "emoji_id": "115675",
+        "name": "来财",
+        "url": "https://i0.hdslb.com/bfs/garb/608b11e6e37e2aac4afd44e133aa2a112ccc9d50.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎵两套动态主题皮肤套装\n流光协奏\n月光共鸣\n\n🎵套装包含\n头像框、动态主题、动态付款码、出行皮肤、专属红包语音、小组件皮肤\n\n详情大家戳长图查看吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-26_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fa688b67a367e439b061ca6ee9b8794f36081646.png",
+        "width": 750,
+        "height": 8861,
+        "size_kb": 6023.546,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/来财.gif",
+        "package_id": "8399",
+        "emoji_id": "115675",
+        "text": "[洛天依动态流光协奏_来财]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4688,
+    "comment": 264,
+    "forward": 42
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

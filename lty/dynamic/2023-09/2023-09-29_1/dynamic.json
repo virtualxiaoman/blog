@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "846645857743798360",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/846645857743798360",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月29日",
+    "pub_ts": 1695963500,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依什么也不知道，天依只是个第一次玩的小萌新[古色花香洛天依_乖巧]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依什么也不知道，天依只是个第一次玩的小萌新"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_乖巧]",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/item/ef2a2f95645e405af1ceb01c0e333342a1d90eb6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/乖巧.png",
+        "package_id": "1096",
+        "emoji_id": "19435",
+        "text": "[古色花香洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4135,
+    "comment": 97,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 846631022938292240,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2023-09/2023-09-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

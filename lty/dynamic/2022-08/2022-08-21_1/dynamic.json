@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "id": "696812470474375204",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/696812470474375204",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月21日",
+    "pub_ts": 1661077696,
+    "location": ""
+  },
+  "topic": {
+    "id": 52539,
+    "name": "天依忽然发现",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=52539&topic_name=%E5%A4%A9%E4%BE%9D%E5%BF%BD%E7%84%B6%E5%8F%91%E7%8E%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "为什么这俩上一秒还在吵架，下一秒就开开心心一起吃饭了[洛天依_问号]  难道这就是！地球人解决分歧的十大绝招之：算了算了，先吃饭吧[洛天依_干饭]  想想吃饭确实是最重要的事情，咳咳，仅次于唱歌最重要的事情！学到了学到了 ！[洛天依9th_社会] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "为什么这俩上一秒还在吵架，下一秒就开开心心一起吃饭了"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_问号]",
+        "package_id": "340",
+        "emoji_id": "7266",
+        "name": "问号",
+        "url": "http://i0.hdslb.com/bfs/emote/cf1abbba4ee63a06c313285b699f8760738c4d82.png"
+      },
+      {
+        "type": "text",
+        "text": "  难道这就是！地球人解决分歧的十大绝招之：算了算了，先吃饭吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_干饭]",
+        "package_id": "340",
+        "emoji_id": "5573",
+        "name": "干饭",
+        "url": "http://i0.hdslb.com/bfs/emote/78bde0ab6c24e58e93758f7d7953b9ee287597e2.png"
+      },
+      {
+        "type": "text",
+        "text": "  想想吃饭确实是最重要的事情，咳咳，仅次于唱歌最重要的事情！学到了学到了 ！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/770bd11c1eb7591d0d7021d624d7a33336081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 572.82421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-08-21_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9cc08c15bc15e41d9255b857e62f4b1436081646.png",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 637.4697265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/问号.png",
+        "package_id": "340",
+        "emoji_id": "7266",
+        "text": "[洛天依_问号]"
+      },
+      {
+        "file": "../../_assets/emojis/340/干饭.png",
+        "package_id": "340",
+        "emoji_id": "5573",
+        "text": "[洛天依_干饭]"
+      },
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10933,
+    "comment": 481,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

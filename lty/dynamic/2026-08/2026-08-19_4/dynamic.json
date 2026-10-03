@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1238196452492050441",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1238196452492050441",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月19日",
+    "pub_ts": 1787128477,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·上海站回顾视频来啦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·上海站回顾视频来啦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来洛天依演唱会看什么——",
+      "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·上海站回顾视频来啦！\n上海站的大家，有记录下哪些特别的回忆吗？\n是第几次来看天依的演唱会，又最喜欢演唱会的什么内容呢？\n感谢上海站的大家，下一站，前往长沙站——\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会长沙站、广州站售票进行中，期待和大家再见~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003447\nhttps://show.bilibili.com/platform/detail",
+      "jump_url": "https://www.bilibili.com/video/BV1TV8E6GE5V",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/14974fd31ac73a66bd8fb839c295ac3c8b9fcd2d.jpg",
+      "cover_file": "../../_assets/covers/2026-08-19_1.jpg",
+      "bvid": "BV1TV8E6GE5V",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1TV8E6GE5V",
+        "aid": "117121241711678",
+        "cover": "http://i2.hdslb.com/bfs/archive/14974fd31ac73a66bd8fb839c295ac3c8b9fcd2d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1TV8E6GE5V",
+        "stat": {
+          "danmaku": "250",
+          "play": "8.4万",
+          "vt": ""
+        },
+        "duration_text": "01:31",
+        "title": "来洛天依演唱会看什么——",
+        "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·上海站回顾视频来啦！\n上海站的大家，有记录下哪些特别的回忆吗？\n是第几次来看天依的演唱会，又最喜欢演唱会的什么内容呢？\n感谢上海站的大家，下一站，前往长沙站——\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会长沙站、广州站售票进行中，期待和大家再见~\n🎶传送门https://show.bilibili.com/platform/detail.html?id=1003447\nhttps://show.bilibili.com/platform/detail",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17331,
+    "comment": 870,
+    "forward": 77
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

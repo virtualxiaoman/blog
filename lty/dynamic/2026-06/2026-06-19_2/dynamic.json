@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "id": "1215557671324745744",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1215557671324745744",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月19日",
+    "pub_ts": 1781857475,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依的BlueWalk第二站，是浪漫温柔的杭州蓝调\n从西湖粼粼的蓝调波光，到梦野觅境层层叠叠的绣球花海——\n杭州蓝，捕获成功！大家端午安康呀~[洛天依拜年纪表情包_喜欢]\n\n天依的巡演杭州站今晚19点也要正式开票啦，期待和大家相约杭州~[乐鸣东方动态表情包_开心]\n❀传送门https://show.bilibili.com/platform/detail.html?id=1002386",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的BlueWalk第二站，是浪漫温柔的杭州蓝调\n从西湖粼粼的蓝调波光，到梦野觅境层层叠叠的绣球花海——\n杭州蓝，捕获成功！大家端午安康呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_喜欢]",
+        "package_id": "9452",
+        "emoji_id": "132905",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/52d0f99fda9b5251e6f38394623e398e77f3266a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n天依的巡演杭州站今晚19点也要正式开票啦，期待和大家相约杭州~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n❀传送门"
+      },
+      {
+        "type": "link",
+        "text": "https://show.bilibili.com/platform/detail.html?id=1002386",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1002386"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9452/喜欢.png",
+        "package_id": "9452",
+        "emoji_id": "132905",
+        "text": "[洛天依拜年纪表情包_喜欢]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依的BlueWalk第二站，是浪漫温柔的杭州蓝调从西湖粼粼的蓝调波光，到梦野觅境层层叠叠的绣球花海——杭州蓝，捕获成功！大家端午安康呀~[洛天依拜年纪表…",
+      "desc": "天依的BlueWalk第二站，是浪漫温柔的杭州蓝调\n从西湖粼粼的蓝调波光，到梦野觅境层层叠叠的绣球花海——\n杭州蓝，捕获成功！大家端午安康呀~[洛天依拜年纪表情包_喜欢]\n\n天依的巡演杭州站今晚19点也要正式开票啦，期待和大家相约杭州~[乐鸣东方动态表情包_开心]\n❀传送门https://show.bilibili.com/platform/detail.html?id=1002386",
+      "jump_url": "https://www.bilibili.com/video/BV168ji6jEs7",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/a904e65942d2194200283c55befaca0dc58c0ad7.jpg",
+      "cover_file": "../../_assets/covers/2026-06-19_1.jpg",
+      "bvid": "BV168ji6jEs7",
+      "extra": {
+        "type": 1,
+        "bvid": "BV168ji6jEs7",
+        "aid": "116775798770550",
+        "cover": "http://i2.hdslb.com/bfs/archive/a904e65942d2194200283c55befaca0dc58c0ad7.jpg",
+        "jump_url": "//www.bilibili.com/video/BV168ji6jEs7",
+        "stat": {
+          "danmaku": "79",
+          "play": "4万",
+          "vt": ""
+        },
+        "duration_text": "00:25",
+        "title": "天依的BlueWalk第二站，是浪漫温柔的杭州蓝调从西湖粼粼的蓝调波光，到梦野觅境层层叠叠的绣球花海——杭州蓝，捕获成功！大家端午安康呀~[洛天依拜年纪表…",
+        "desc": "天依的BlueWalk第二站，是浪漫温柔的杭州蓝调\n从西湖粼粼的蓝调波光，到梦野觅境层层叠叠的绣球花海——\n杭州蓝，捕获成功！大家端午安康呀~[洛天依拜年纪表情包_喜欢]\n\n天依的巡演杭州站今晚19点也要正式开票啦，期待和大家相约杭州~[乐鸣东方动态表情包_开心]\n❀传送门https://show.bilibili.com/platform/detail.html?id=1002386",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15087,
+    "comment": 683,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:25:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

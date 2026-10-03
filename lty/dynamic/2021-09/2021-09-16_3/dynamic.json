@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "571045593117318834",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/571045593117318834",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月16日",
+    "pub_ts": 1631795313,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "纯洁的冰雪，激情的约会！@洛天依  携手北京2022年冬奥会和冬残奥会，唱响第二届#冬奥优秀音乐作品#《Time to Shine》，带领听众进入二次元的音乐世界。轻盈的雪花装载巨大的能量，如同即将汇聚于北京的运动员们，将在冰雪上展现矫健的身姿，光芒四射。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "纯洁的冰雪，激情的约会！"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依 ",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 携手北京2022年冬奥会和冬残奥会，唱响第二届"
+      },
+      {
+        "type": "topic",
+        "text": "#冬奥优秀音乐作品#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%86%AC%E5%A5%A5%E4%BC%98%E7%A7%80%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81"
+      },
+      {
+        "type": "text",
+        "text": "《Time to Shine》，带领听众进入二次元的音乐世界。轻盈的雪花装载巨大的能量，如同即将汇聚于北京的运动员们，将在冰雪上展现矫健的身姿，光芒四射。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【冬奥优秀音乐作品】洛天依演唱《Time to Shine》 期待运动员在北京冬奥会舞台上尽情绽放",
+      "desc": "纯洁的冰雪，激情的约会！@洛天依  携手北京2022年冬奥会和冬残奥会，唱响第二届冬奥优秀音乐作品《Time to Shine》，带领听众进入二次元的音乐世界。轻盈的雪花装载巨大的能量，如同即将汇聚于北京的运动员们，将在冰雪上展现矫健的身姿，光芒四射。",
+      "jump_url": "https://www.bilibili.com/video/BV1jf4y1w7w8",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/4a7a7546452da8dde667b108a438ce87fbd68e4c.jpg",
+      "cover_file": "../../_assets/covers/2021-09-16_1.jpg",
+      "bvid": "BV1jf4y1w7w8",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1jf4y1w7w8",
+        "aid": "378109898",
+        "cover": "http://i2.hdslb.com/bfs/archive/4a7a7546452da8dde667b108a438ce87fbd68e4c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1jf4y1w7w8",
+        "stat": {
+          "danmaku": "3790",
+          "play": "92.9万",
+          "vt": ""
+        },
+        "duration_text": "03:49",
+        "title": "【冬奥优秀音乐作品】洛天依演唱《Time to Shine》 期待运动员在北京冬奥会舞台上尽情绽放",
+        "desc": "纯洁的冰雪，激情的约会！@洛天依  携手北京2022年冬奥会和冬残奥会，唱响第二届冬奥优秀音乐作品《Time to Shine》，带领听众进入二次元的音乐世界。轻盈的雪花装载巨大的能量，如同即将汇聚于北京的运动员们，将在冰雪上展现矫健的身姿，光芒四射。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 85512,
+    "comment": 1292,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:36:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

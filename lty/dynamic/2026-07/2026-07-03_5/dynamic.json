@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "1220815192338726979",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1220815192338726979",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月3日",
+    "pub_ts": 1783081587,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·上海站\n首轮售罄啦！非常感谢大家的热情支持——[洛天依动态流光协奏_喜欢]\n\n第二轮开售时间请等待天依的后续通知哦~\n这条流淌了十四年的心音河，或许曾沉寂，曾干涸，曾独自穿过漫长的深海\n但当无数朵浪花在同一片蔚蓝中汇聚成潮汐，便再没有什么能将这份共鸣阻隔\n8月15日，我们上海静安体育中心，相见吧！[洛天依动态流光协奏_捧花]\n\n🎶巡演城市\n7.18 北京/7.25 杭州/8.1 成都/8.15 上海/8.22 长沙/8.29 广州\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·上海站\n首轮售罄啦！非常感谢大家的热情支持——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_喜欢]",
+        "package_id": "8399",
+        "emoji_id": "115678",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/83150896ea1e796c1c0da591fdf0c34f0a5180fd.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n第二轮开售时间请等待天依的后续通知哦~\n这条流淌了十四年的心音河，或许曾沉寂，曾干涸，曾独自穿过漫长的深海\n但当无数朵浪花在同一片蔚蓝中汇聚成潮汐，便再没有什么能将这份共鸣阻隔\n8月15日，我们上海静安体育中心，相见吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶巡演城市\n7.18 北京/7.25 杭州/8.1 成都/8.15 上海/8.22 长沙/8.29 广州"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-03_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c8040be039c6ee6cbf06293d1a41921836081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1990.989990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/喜欢.gif",
+        "package_id": "8399",
+        "emoji_id": "115678",
+        "text": "[洛天依动态流光协奏_喜欢]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202606/uOtHClDc1782467214_1782467214664.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003089&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1220815192338726979",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-03_3.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4010,
+    "comment": 231,
+    "forward": 45
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:26:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1223034023965622295",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1223034023965622295",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月9日",
+    "pub_ts": 1783598199,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "不必完美，无需统一，只要你愿意停留，我会永远唱给你听",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不必完美，无需统一，只要你愿意停留，我会永远唱给你听"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“我想要唱给你听”洛天依十四周年纪念专辑《四重奏》试听PV",
+      "desc": "感知人类情感的信号员，在寻找真实的心音时迷失方向\n四种自我，在各自的时空里反复试探着同一个疑问——\n该以怎样的面貌，才能被真正听见？\n其实答案从来不在取舍之间，而在每一次共振的瞬间\n四段旋律，四种人生，都可以在同一支歌里找到彼此\n不必完美，无需统一，只要你愿意停留，我会永远唱给你听\n\n洛天依十四周年纪念专辑《四重奏》\n收录八首全新原创单曲、四首经典重编歌曲\n数字专辑7月10日12:00正式上线各大音乐平台\n实体CD专辑coming soon",
+      "jump_url": "https://www.bilibili.com/video/BV1dWMH6yEdz",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/4fb327da9c1f2f6732d76b9a464453062b794815.jpg",
+      "cover_file": "../../_assets/covers/2026-07-09_4.jpg",
+      "bvid": "BV1dWMH6yEdz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1dWMH6yEdz",
+        "aid": "116889883773465",
+        "cover": "http://i2.hdslb.com/bfs/archive/4fb327da9c1f2f6732d76b9a464453062b794815.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1dWMH6yEdz",
+        "stat": {
+          "danmaku": "1156",
+          "play": "15.9万",
+          "vt": ""
+        },
+        "duration_text": "08:21",
+        "title": "“我想要唱给你听”洛天依十四周年纪念专辑《四重奏》试听PV",
+        "desc": "感知人类情感的信号员，在寻找真实的心音时迷失方向\n四种自我，在各自的时空里反复试探着同一个疑问——\n该以怎样的面貌，才能被真正听见？\n其实答案从来不在取舍之间，而在每一次共振的瞬间\n四段旋律，四种人生，都可以在同一支歌里找到彼此\n不必完美，无需统一，只要你愿意停留，我会永远唱给你听\n\n洛天依十四周年纪念专辑《四重奏》\n收录八首全新原创单曲、四首经典重编歌曲\n数字专辑7月10日12:00正式上线各大音乐平台\n实体CD专辑coming soon",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 38543,
+    "comment": 2476,
+    "forward": 317
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:28:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

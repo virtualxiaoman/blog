@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1026687687039385639",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1026687687039385639",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月26日",
+    "pub_ts": 1737882755,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "人们创造神，神亦爱世人[蛇来运转表情包_洛天依-]大家的新春收藏集正式开启了哦～[蛇来运转表情包_该听歌了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "人们创造神，神亦爱世人"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "大家的新春收藏集正式开启了哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_该听歌了]",
+        "package_id": "7562",
+        "emoji_id": "102490",
+        "name": "该听歌了",
+        "url": "https://i0.hdslb.com/bfs/emote/f0abc04da52c96b170762dec06186d793757c1fb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      },
+      {
+        "file": "../../_assets/emojis/7562/该听歌了.png",
+        "package_id": "7562",
+        "emoji_id": "102490",
+        "text": "[蛇来运转表情包_该听歌了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3664,
+    "comment": 224,
+    "forward": 78
+  },
+  "forward": {
+    "orig_id": 1026673711200075776,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-01/2025-01-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:26:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

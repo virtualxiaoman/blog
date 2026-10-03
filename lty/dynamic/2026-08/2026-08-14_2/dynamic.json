@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "1236379561084583972",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1236379561084583972",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月14日",
+    "pub_ts": 1786705449,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "第23个全国测绘法宣传日就要到啦！\n天依携手上海市测绘院、黄浦文旅局、新民晚报\n把「天依蓝」带到了南京路、外滩、豫园、大世界✨\n\n8月15日-29日，领取洛天依主题打卡地图\n一起Citywalk上海，在城市漫步中解锁测绘知识、打卡城市地标！和我一起走进上海街头吧～[洛天依14周年·四重奏_送花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第23个全国测绘法宣传日就要到啦！\n天依携手上海市测绘院、黄浦文旅局、新民晚报\n把「天依蓝」带到了南京路、外滩、豫园、大世界✨\n\n8月15日-29日，领取洛天依主题打卡地图\n一起Citywalk上海，在城市漫步中解锁测绘知识、打卡城市地标！和我一起走进上海街头吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_送花]",
+        "package_id": "10148",
+        "emoji_id": "144402",
+        "name": "送花",
+        "url": "https://i0.hdslb.com/bfs/garb/689d530a5d58dae549c9e65cd9d3521d67eaabae.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/424b9871634dbc9b319fd86604aab18d36081646.jpg",
+        "width": 1081,
+        "height": 1920,
+        "size_kb": 2085.4599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-14_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8ba6072389ec2a7da9b0e6c5a9cc36b136081646.jpg",
+        "width": 1081,
+        "height": 1920,
+        "size_kb": 1499.3900146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-14_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/afae08d33f7aa113fe380b6d8ff1bb6636081646.jpg",
+        "width": 1081,
+        "height": 2891,
+        "size_kb": 2235.419921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/送花.gif",
+        "package_id": "10148",
+        "emoji_id": "144402",
+        "text": "[洛天依14周年·四重奏_送花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202606/uOtHClDc1782467214_1782467214664.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket-renovation/detail.html?id=1003089&noTitleBar=1&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1236379561084583972",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-08-14_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4833,
+    "comment": 187,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:35:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

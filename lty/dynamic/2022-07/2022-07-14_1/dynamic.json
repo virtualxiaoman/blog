@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "682736256536281104",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/682736256536281104",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月14日",
+    "pub_ts": 1657800322,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "香爆脆带着超多惊喜来啦！八种联名口味，等你来尝。\n城市卡限时限量回归，为之前没集到的小伙伴圆梦。\n三十款天籁卡，超多造型邀你收集。\n神秘稀有的欧气卡携带花式联名好礼全新登场， 带你解锁集卡抽奖新玩法！还等什么，速速上康师傅天猫官方旗舰店get天依同款，吃面集卡，#干脆依起狂欢#吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "香爆脆带着超多惊喜来啦！八种联名口味，等你来尝。\n城市卡限时限量回归，为之前没集到的小伙伴圆梦。\n三十款天籁卡，超多造型邀你收集。\n神秘稀有的欧气卡携带花式联名好礼全新登场， 带你解锁集卡抽奖新玩法！还等什么，速速上康师傅天猫官方旗舰店get天依同款，吃面集卡，"
+      },
+      {
+        "type": "topic",
+        "text": "#干脆依起狂欢#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E8%84%86%E4%BE%9D%E8%B5%B7%E7%8B%82%E6%AC%A2"
+      },
+      {
+        "type": "text",
+        "text": "吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "和香爆脆一起开玩吧",
+      "desc": "香爆脆带着超多惊喜来啦！八种联名口味，等你来尝。\n城市卡限时限量回归，为之前没集到的小伙伴圆梦。\n三十款天籁卡，超多造型邀你收集。\n神秘稀有的欧气卡携带花式联名好礼全新登场， 带你解锁集卡抽奖新玩法！还等什么，速速上康师傅天猫官方旗舰店get天依同款，吃面集卡，#干脆依起狂欢#吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1G94y1Q7Zr",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/5f6bc9ef2f855120d13420bf8b7f66420f241078.png",
+      "cover_file": "../../_assets/covers/2022-07-14_1.png",
+      "bvid": "BV1G94y1Q7Zr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1G94y1Q7Zr",
+        "aid": "343464995",
+        "cover": "http://i2.hdslb.com/bfs/archive/5f6bc9ef2f855120d13420bf8b7f66420f241078.png",
+        "jump_url": "//www.bilibili.com/video/BV1G94y1Q7Zr",
+        "stat": {
+          "danmaku": "158",
+          "play": "4.6万",
+          "vt": ""
+        },
+        "duration_text": "01:14",
+        "title": "和香爆脆一起开玩吧",
+        "desc": "香爆脆带着超多惊喜来啦！八种联名口味，等你来尝。\n城市卡限时限量回归，为之前没集到的小伙伴圆梦。\n三十款天籁卡，超多造型邀你收集。\n神秘稀有的欧气卡携带花式联名好礼全新登场， 带你解锁集卡抽奖新玩法！还等什么，速速上康师傅天猫官方旗舰店get天依同款，吃面集卡，#干脆依起狂欢#吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13327,
+    "comment": 920,
+    "forward": 1634
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:51:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

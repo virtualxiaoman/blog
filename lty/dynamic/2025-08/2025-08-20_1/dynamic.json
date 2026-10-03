@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1103186066833145890",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1103186066833145890",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月20日",
+    "pub_ts": 1755693922,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "演唱会结束后感觉没唱够？平常点不到天依的歌？\n洛天依×纯K 官方授权歌单豪华更新啦！\n一起来纯K，我们一起继续放声歌唱吧~[洛天依·闪耀的Producer动态_幸福]\n\n🎤开启时间：2025年8月23日\n详细歌单，大家戳长图查看哦！[洛天依·闪耀的Producer动态_平淡]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "演唱会结束后感觉没唱够？平常点不到天依的歌？\n洛天依×纯K 官方授权歌单豪华更新啦！\n一起来纯K，我们一起继续放声歌唱吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎤开启时间：2025年8月23日\n详细歌单，大家戳长图查看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_平淡]",
+        "package_id": "8540",
+        "emoji_id": "117846",
+        "name": "平淡",
+        "url": "https://i0.hdslb.com/bfs/garb/c57c996c74b8a77106eaf77e70708fc4cf135298.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f9e53b0b6190ee5b1d79d6e15fd66f8436081646.jpg",
+        "width": 1080,
+        "height": 14338,
+        "size_kb": 7916.048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/平淡.gif",
+        "package_id": "8540",
+        "emoji_id": "117846",
+        "text": "[洛天依·闪耀的Producer动态_平淡]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5706,
+    "comment": 297,
+    "forward": 47
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

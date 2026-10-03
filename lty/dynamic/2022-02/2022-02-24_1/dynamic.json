@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "630774238782947350",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/630774238782947350",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月24日",
+    "pub_ts": 1645701972,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#让我们一起，和春天来一场赛跑吧！[洛天依_goodjob]听了这首歌，心情会变好哦！【天依确信[洛天依·夜航星_Lucky]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "让我们一起，和春天来一场赛跑吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      },
+      {
+        "type": "text",
+        "text": "听了这首歌，心情会变好哦！【天依确信"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_Lucky]",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "name": "Lucky",
+        "url": "http://i0.hdslb.com/bfs/emote/bbeb9d231773a168397697072a11373893d7c01a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      },
+      {
+        "file": "../../_assets/emojis/166/Lucky.png",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "text": "[洛天依·夜航星_Lucky]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6302,
+    "comment": 162,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 627323438655524145,
+    "orig_mid": 23043274,
+    "deleted": false,
+    "archive_dir": "../../../23043274/2022-02/2022-02-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

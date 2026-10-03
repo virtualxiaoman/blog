@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1105781584250798086",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1105781584250798086",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月27日",
+    "pub_ts": 1756298238,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢大家的一路辛苦奔赴，这条转发里揪3位小伙伴送出【天依的随机周边】1份~大家还希望天依来到哪座城市呢？让天依看看大家的心愿~也许这份下次再见的约定会实现在不远的将来哦！[洛天依八音奇响动态_美丽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢大家的一路辛苦奔赴，这条转发里揪3位小伙伴送出【天依的随机周边】1份~大家还希望天依来到哪座城市呢？让天依看看大家的心愿~也许这份下次再见的约定会实现在不远的将来哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6810,
+    "comment": 3045,
+    "forward": 3627
+  },
+  "forward": {
+    "orig_id": 1105741172906655831,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-08-27_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:39:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

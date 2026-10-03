@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "923178859254251544",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/923178859254251544",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月22日",
+    "pub_ts": 1713782728,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n“3——2——1，耶！”[洛天依蝶变_电吉他！]\n\nRock&Luo 摇滚少女系列周边\n收藏软周抢先看\n✦鼠标垫\n✦毛绒挂件\n✦毛绒徽章\n✦厚亚克力摆件\n✦亚克力相卡\n✦手链choker(色纸特典）\n\n即将开启预售，敬请期待~\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n“3——2——1，耶！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\nRock&Luo 摇滚少女系列周边\n收藏软周抢先看\n✦鼠标垫\n✦毛绒挂件\n✦毛绒徽章\n✦厚亚克力摆件\n✦亚克力相卡\n✦手链choker(色纸特典）\n\n即将开启预售，敬请期待~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cfca7076b38d015deb504bf9e363dc5836081646.jpg",
+        "width": 1333,
+        "height": 1778,
+        "size_kb": 1715.822265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-22_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/86fed03da7ebbe1b10656749cb608cd636081646.jpg",
+        "width": 1333,
+        "height": 1778,
+        "size_kb": 1585.8994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5481,
+    "comment": 233,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

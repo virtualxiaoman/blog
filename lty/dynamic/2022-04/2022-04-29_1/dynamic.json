@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "654393814363930642",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/654393814363930642",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月29日",
+    "pub_ts": 1651201333,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#不负热爱，玩“趣”今夏！很开心这次能与tutuanna趣趣安娜携手合作，推出跨次元联名系列服饰！袜子、小裤、家居服哪一款是你的one pick呢？天依选择全都要！\r\n缤纷袜子点缀愉悦好心情，可爱小裤带来24小时的舒适，元气家居服精准戳中少女心。今年也想和大家一起拥有更多的美好回忆，不负好时光。祝大家时常惊喜，天天快乐。\r\n联名款系列现已在全国线下门店以及天猫【tutuanna旗舰店】正式上线，快去看看吧~",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "不负热爱，玩“趣”今夏！很开心这次能与tutuanna趣趣安娜携手合作，推出跨次元联名系列服饰！袜子、小裤、家居服哪一款是你的one pick呢？天依选择全都要！\r\n缤纷袜子点缀愉悦好心情，可爱小裤带来24小时的舒适，元气家居服精准戳中少女心。今年也想和大家一起拥有更多的美好回忆，不负好时光。祝大家时常惊喜，天天快乐。\r\n联名款系列现已在全国线下门店以及天猫【tutuanna旗舰店】正式上线，快去看看吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6770,
+    "comment": 384,
+    "forward": 69
+  },
+  "forward": {
+    "orig_id": 654393281785888775,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-04/2022-04-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:45:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

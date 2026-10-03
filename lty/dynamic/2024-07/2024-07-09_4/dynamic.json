@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "id": "952151669230010392",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952151669230010392",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月9日",
+    "pub_ts": 1720528486,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "🔹洛天依BW2024展区互动玩法情报公开！🔹\n7月12日-7月14日，在洛天依展区领取印章生日地图，参与盖章活动，即可100%获得丰富礼品哦！\n🔹集章活动玩法\n✦次元之旅翻牌打卡区\n✦影绘新装手绘上屏互动区\n✦时光舞池跳舞机体验区\n✦歌舞共庆舞台表演区\n✦心律时空互动合拍区\n✦ 周边市集福利放松售卖区\n\n🔹小洛包人偶巡游\n捕捉小洛包玩偶，赢惊喜礼品\n\n🔹宅舞野生PK大赛\n在跳舞机双人模式获胜，即可获得抽奖机会\n\n天依已经准备好，迎接大家的到来啦！[洛天依蝶变_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🔹洛天依BW2024展区互动玩法情报公开！🔹\n7月12日-7月14日，在洛天依展区领取印章生日地图，参与盖章活动，即可100%获得丰富礼品哦！\n🔹集章活动玩法\n✦次元之旅翻牌打卡区\n✦影绘新装手绘上屏互动区\n✦时光舞池跳舞机体验区\n✦歌舞共庆舞台表演区\n✦心律时空互动合拍区\n✦ 周边市集福利放松售卖区\n\n🔹小洛包人偶巡游\n捕捉小洛包玩偶，赢惊喜礼品\n\n🔹宅舞野生PK大赛\n在跳舞机双人模式获胜，即可获得抽奖机会\n\n天依已经准备好，迎接大家的到来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-09_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ab31448c994d5ae7b3ab3743ae9af9b236081646.jpg",
+        "width": 1080,
+        "height": 5625,
+        "size_kb": 4471.8984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-09_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/779b360120c92992420667b8e0d9397d36081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 2419.55859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-09_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64c54776f36c0e7faf6ba54e16ba6ffe36081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 2392.6298828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-07-09_9.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cf46fd9ed7f4892434cbb685d41695b836081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 2352.037109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-07-09_10.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ae00fd6941aa4ff776b26843d1aec5dc36081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 2430.6796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-07-09_11.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/77e378c9b8f2613f450e38c4e6d59dbe36081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 2454.564453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-07-09_12.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/00410afc5faae70e7835e69d3e17769636081646.png",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 2498.6376953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4385,
+    "comment": 187,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

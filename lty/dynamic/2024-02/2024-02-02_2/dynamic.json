@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "893388008323022952",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/893388008323022952",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月2日",
+    "pub_ts": 1706846505,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​【洛天依收藏集——洛·LUO】正式开启！\n转发关注天依，揪5位小伙伴赠出【收藏集5抽】1份~\n\n去山野林间嬉戏，去宇宙星空漫游\n在粉红色的夕阳里诉说心动秘密——[洛天依蝶变_轻唱]\n\n✨卡池收录：动态数字音乐卡、精美数字卡牌\n✨羁绊之礼解锁：Q萌表情包、专属头像框，更多惊喜福利等你解锁\n✨传送门：网页链接\n\n✨《洛 LUO》数字EP火热开售中：现已上架网易云音乐、QQ音乐、酷狗音乐、酷我音乐，购买即赠限定pv/专辑曲绘等好礼[洛天依蝶变_发射爱心]\n网易云音乐：https://y.music.163.com/digitalbum/detail/184695596?nm_style=sbt\nQQ音乐：https://y.qq.com/n/ryqq/albumDetail/0037x8LT3w2tj2 \n酷狗音乐：https://ep.kugou.com/html/mobile_commonchargeV3/index_443788.html?is_go=1&hreffrom=50\n酷我音乐：http://m.kuwo.cn/newh5app/album_detail/46722900\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​【洛天依收藏集——洛·LUO】正式开启！\n转发关注天依，揪5位小伙伴赠出【收藏集5抽】1份~\n\n去山野林间嬉戏，去宇宙星空漫游\n在粉红色的夕阳里诉说心动秘密——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨卡池收录：动态数字音乐卡、精美数字卡牌\n✨羁绊之礼解锁：Q萌表情包、专属头像框，更多惊喜福利等你解锁\n✨传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=268&f_source=social&from=share_dynamic"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨《洛 LUO》数字EP火热开售中：现已上架网易云音乐、QQ音乐、酷狗音乐、酷我音乐，购买即赠限定pv/专辑曲绘等好礼"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n网易云音乐：https://y.music.163.com/digitalbum/detail/184695596?nm_style=sbt\nQQ音乐：https://y.qq.com/n/ryqq/albumDetail/0037x8LT3w2tj2 \n酷狗音乐：https://ep.kugou.com/html/mobile_commonchargeV3/index_443788.html?is_go=1&hreffrom=50\n酷我音乐：http://m.kuwo.cn/newh5app/album_detail/46722900"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-02_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/cf10527d3beff39b37cc0c26d119c5bc36081646.jpg",
+        "width": 1125,
+        "height": 7539,
+        "size_kb": 887.8499755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/archive/fed4ad3c8c2832231259795b55d0b8eb06e97d89.png",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=0&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "独家民族风情天依大片，定制表情包、头像框等你抱回家！",
+            "cover_file": "../../_assets/covers/2024-02-02_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4760,
+    "comment": 1235,
+    "forward": 2648
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

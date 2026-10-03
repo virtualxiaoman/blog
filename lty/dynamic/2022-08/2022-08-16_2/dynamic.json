@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "695011607841865808",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/695011607841865808",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月16日",
+    "pub_ts": 1660658400,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "总有些记忆里的温柔，某日忽然忆起，依然是如此另你动容，也许是一盏红灯笼，一片烟火，亦或是一个笑容[洛天依_感动]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "总有些记忆里的温柔，某日忽然忆起，依然是如此另你动容，也许是一盏红灯笼，一片烟火，亦或是一个笑容"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_感动]",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "name": "感动",
+        "url": "http://i0.hdslb.com/bfs/emote/24de715f4b8730a5eedd1e0e6fbd2f2701143f83.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/感动.png",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "text": "[洛天依_感动]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7087,
+    "comment": 112,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 691246674096423014,
+    "orig_mid": 545629,
+    "deleted": false,
+    "archive_dir": "../../../545629/2022-08/2022-08-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

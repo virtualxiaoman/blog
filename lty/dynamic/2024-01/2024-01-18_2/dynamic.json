@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "887879278974205959",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/887879278974205959",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月18日",
+    "pub_ts": 1705563904,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好耶！期待大家的作品！[洛天依歌行四方_咚嚓！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好耶！期待大家的作品！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4010,
+    "comment": 77,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 887874026188308519,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-01/2024-01-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

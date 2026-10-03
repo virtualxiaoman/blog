@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1166544389314445318",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1166544389314445318",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月7日",
+    "pub_ts": 1770445681,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依想占据你满满的怀抱[乐鸣东方动态表情包_求求][乐鸣东方动态表情包_求求]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依想占据你满满的怀抱"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3987,
+    "comment": 94,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 1166506305820557463,
+    "orig_mid": 670763214,
+    "deleted": false,
+    "archive_dir": "../../../670763214/2026-02/2026-02-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:16:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

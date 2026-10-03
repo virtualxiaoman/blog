@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "607831189142239615",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/607831189142239615",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月24日",
+    "pub_ts": 1640360127,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "江苏卫视2060《未完成的乐章》舞台纯享版来啦！很开心可以在收官舞台，为大家带来这首对我有着特殊意义的歌曲。演出里天依换上的每一套服装，背后都是一段我们彼此相伴的美好回忆。\n2021马上就要过去啦，我们约定好，未来的风景也要一起去看哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "江苏卫视2060《未完成的乐章》舞台纯享版来啦！很开心可以在收官舞台，为大家带来这首对我有着特殊意义的歌曲。演出里天依换上的每一套服装，背后都是一段我们彼此相伴的美好回忆。\n2021马上就要过去啦，我们约定好，未来的风景也要一起去看哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&江苏卫视2060】未完成的乐章",
+      "desc": "江苏卫视2060《未完成的乐章》舞台纯享版来啦！\n很开心可以在收官舞台，为大家带来这首对我有着特殊意义的歌曲。\n演出里天依换上的每一套服装，背后都是一段我们彼此相伴的美好回忆。\n2021马上就要过去啦，我们约定好，未来的风景也要一起去看哦！\n\n------------------\n《未完成的乐章》\n作曲：阿良良木健\n作词：袖蓝/阿良良木健\n编曲：阿良良木健/人形兎\n调教：OQQ/动点",
+      "jump_url": "https://www.bilibili.com/video/BV1xF411B7oK",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/a491509187fd70aa66d159dc8f44898155c9e764.jpg",
+      "cover_file": "../../_assets/covers/2021-12-24_2.jpg",
+      "bvid": "BV1xF411B7oK",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1xF411B7oK",
+        "aid": "295098643",
+        "cover": "http://i0.hdslb.com/bfs/archive/a491509187fd70aa66d159dc8f44898155c9e764.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xF411B7oK",
+        "stat": {
+          "danmaku": "1490",
+          "play": "25.2万",
+          "vt": ""
+        },
+        "duration_text": "06:21",
+        "title": "【洛天依&江苏卫视2060】未完成的乐章",
+        "desc": "江苏卫视2060《未完成的乐章》舞台纯享版来啦！\n很开心可以在收官舞台，为大家带来这首对我有着特殊意义的歌曲。\n演出里天依换上的每一套服装，背后都是一段我们彼此相伴的美好回忆。\n2021马上就要过去啦，我们约定好，未来的风景也要一起去看哦！\n\n------------------\n《未完成的乐章》\n作曲：阿良良木健\n作词：袖蓝/阿良良木健\n编曲：阿良良木健/人形兎\n调教：OQQ/动点",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2060",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss39632",
+      "cover_url": "http://i0.hdslb.com/bfs/bangumi/image/5dc0866dc897618f01f5ca633c46570f4f3e75b5.png",
+      "cover_file": "../../_assets/covers/2021-12-24_3.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss39632",
+        "id_str": "295098643",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/5dc0866dc897618f01f5ca633c46570f4f3e75b5.png",
+        "style": 2,
+        "title": "2060",
+        "desc1": "已完结, 全10集",
+        "desc2": "8.7万追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19873,
+    "comment": 1369,
+    "forward": 103
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

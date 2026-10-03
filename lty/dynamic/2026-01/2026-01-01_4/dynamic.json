@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1152869625745113169",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1152869625745113169",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月1日",
+    "pub_ts": 1767261777,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "50w专兑贺电一下！[洛天依八音奇响动态_嘻嘻]谢谢大家对天依这次跨晚舞台的支持和喜欢，这条转发里，再揪3位小伙伴送出【洛天依周边礼包】1份～和天依一起开开心心迎新年吧！[洛天依八音奇响动态_可爱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "50w专兑贺电一下！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "谢谢大家对天依这次跨晚舞台的支持和喜欢，这条转发里，再揪3位小伙伴送出【洛天依周边礼包】1份～和天依一起开开心心迎新年吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6048,
+    "comment": 639,
+    "forward": 1816
+  },
+  "forward": {
+    "orig_id": 1152531976887992436,
+    "orig_mid": 489412051,
+    "deleted": false,
+    "archive_dir": "../../../489412051/2025-12/2025-12-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:12:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

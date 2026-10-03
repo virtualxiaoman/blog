@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "914261386165485623",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/914261386165485623",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月29日",
+    "pub_ts": 1711706467,
+    "location": ""
+  },
+  "topic": {
+    "id": 1105903,
+    "name": "洛天依收藏集",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1105903&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%94%B6%E8%97%8F%E9%9B%86"
+  },
+  "content": {
+    "title": "",
+    "text": "重磅加码，超惊喜福利来袭！锦依卫请注意——[大哉乾元_打call]\n【洛天依收藏集——大哉乾元】卡池中每1张大隐藏卡可兑换对应1份镀金卡礼盒啦！\n\n♦镀金卡礼盒包含\n大隐藏款镀金卡*1、鉴定证书*1、定制亚克力展示架*1、哔哩哔哩收藏集精美礼盒*1\n♦动态音乐卡新增兑换\n【大哉乾元】卡池任意12抽可领取\n♦卡池传送门\n网页链接\n\n具体规则请大家戳长图查看，参与的小伙伴千万不要错过兑换时间啦！[大哉乾元__超甜]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "重磅加码，超惊喜福利来袭！锦依卫请注意——"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_打call]",
+        "package_id": "4621",
+        "emoji_id": "66053",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/emote/8a0900e7f2030aab63f19fabbc20b98340f90898.png"
+      },
+      {
+        "type": "text",
+        "text": "\n【洛天依收藏集——大哉乾元】卡池中每1张大隐藏卡可兑换对应1份镀金卡礼盒啦！\n\n♦镀金卡礼盒包含\n大隐藏款镀金卡*1、鉴定证书*1、定制亚克力展示架*1、哔哩哔哩收藏集精美礼盒*1\n♦动态音乐卡新增兑换\n【大哉乾元】卡池任意12抽可领取\n♦卡池传送门\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&f_source=plat&from=share&hybrid_set_header=2&page_type=0&share_medium=android&share_source=weixin&bbid=XYFAD6AF66E510F59ACC3FCD128DDB706CAD3&ts=1711707122834"
+      },
+      {
+        "type": "text",
+        "text": "\n\n具体规则请大家戳长图查看，参与的小伙伴千万不要错过兑换时间啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元__超甜]",
+        "package_id": "4621",
+        "emoji_id": "66037",
+        "name": "超甜",
+        "url": "https://i0.hdslb.com/bfs/emote/f74596413b084023eaee0aac819bb5b7a240ad63.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/73499897d50aba5e1e44412455d6920336081646.png",
+        "width": 1125,
+        "height": 6649,
+        "size_kb": 12750.08984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4621/打call.png",
+        "package_id": "4621",
+        "emoji_id": "66053",
+        "text": "[大哉乾元_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/4621/超甜.png",
+        "package_id": "4621",
+        "emoji_id": "66037",
+        "text": "[大哉乾元__超甜]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/archive/fed4ad3c8c2832231259795b55d0b8eb06e97d89.png",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=0&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "独家民族风情天依大片，定制表情包、头像框等你抱回家！",
+            "cover_file": "../../_assets/covers/2024-03-29_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3995,
+    "comment": 253,
+    "forward": 181
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

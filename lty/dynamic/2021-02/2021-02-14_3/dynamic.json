@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "491595101933870136",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/491595101933870136",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月14日",
+    "pub_ts": 1613296804,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# #转发抽奖#2019年2月，天依跟世界钢琴大师-郎朗老师一起举办了跨界联合演唱会，演出了《茉莉花》《给爱丽丝》《雨滴》等名曲，中西旋律在舞台上相遇，诞生了一场美妙的奇遇，不知道大家对这些还有印象吗？ 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出小裙子纪念色纸哟~ 到目前全都对的小伙伴在评论区举个手[洛天依·夜航星_崇拜] 画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "2019年2月，天依跟世界钢琴大师-郎朗老师一起举办了跨界联合演唱会，演出了《茉莉花》《给爱丽丝》《雨滴》等名曲，中西旋律在舞台上相遇，诞生了一场美妙的奇遇，不知道大家对这些还有印象吗？ 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出小裙子纪念色纸哟~ 到目前全都对的小伙伴在评论区举个手"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      },
+      {
+        "type": "text",
+        "text": " 画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-14_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/13f9d0a4d85c93379bc9e54d6d74de9cbfb12256.jpg",
+        "width": 750,
+        "height": 750,
+        "size_kb": 696.2578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10036,
+    "comment": 1662,
+    "forward": 3005
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

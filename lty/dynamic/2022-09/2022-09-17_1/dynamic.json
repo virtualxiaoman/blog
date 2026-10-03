@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "id": "706731835010318354",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/706731835010318354",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月17日",
+    "pub_ts": 1663387228,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  【BeBox Vsinger 洛天依 拾光ver. 1/6 十周年纪念手办】彩色原型照揭晓啦！    手办由@BeBox 出品，以@影法师 为洛天依十周年纪念而创作的立绘为设计原型，并首次以1/6标准比例的手办造型呈现。    金色的乐章环绕，发丝随裙摆飞扬，以歌唱的姿态定格闪耀舞台，让我们的记忆都回到独属于彼此的那段时光。    手办将在近日于哔哩哔哩会员购正式开启预售，还有限量数字特典、彩胶唱片特典等～ 更多情报请小伙伴们关注后续的宣传哦(*•̀ᴗ•́*)و\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  【BeBox Vsinger 洛天依 拾光ver. 1/6 十周年纪念手办】彩色原型照揭晓啦！    手办由"
+      },
+      {
+        "type": "mention",
+        "text": "@BeBox",
+        "mid": 255229141,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 出品，以"
+      },
+      {
+        "type": "mention",
+        "text": "@影法师",
+        "mid": 42258,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 为洛天依十周年纪念而创作的立绘为设计原型，并首次以1/6标准比例的手办造型呈现。    金色的乐章环绕，发丝随裙摆飞扬，以歌唱的姿态定格闪耀舞台，让我们的记忆都回到独属于彼此的那段时光。    手办将在近日于哔哩哔哩会员购正式开启预售，还有限量数字特典、彩胶唱片特典等～ 更多情报请小伙伴们关注后续的宣传哦(*•̀ᴗ•́*)و"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-09-17_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/828ce35e8ad6c61311f0adc42df97cd336081646.jpg",
+        "width": 4802,
+        "height": 6000,
+        "size_kb": 3178.3701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-09-17_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ac60fd57c8669c236ba277d2e6f80d5c36081646.jpg",
+        "width": 4802,
+        "height": 7186,
+        "size_kb": 4193.125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-09-17_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6ebf6610c58f658a4ee347e66bc3c32836081646.jpg",
+        "width": 6000,
+        "height": 4002,
+        "size_kb": 3043.9248046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-09-17_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/eac9e060b3988a182cb5b569553e986d36081646.jpg",
+        "width": 6000,
+        "height": 4002,
+        "size_kb": 3254.5576171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-09-17_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8f011e49a615ee4d88d223fd4ea13fef36081646.jpg",
+        "width": 6000,
+        "height": 4002,
+        "size_kb": 3725.80078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-09-17_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/22096ee7e68262792e453ae9eeb6c3d036081646.jpg",
+        "width": 6000,
+        "height": 4002,
+        "size_kb": 3187.3564453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-09-17_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/84915c9fc742f71d44499373f03bc47b36081646.jpg",
+        "width": 4802,
+        "height": 7186,
+        "size_kb": 3584.6826171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-09-17_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a5a34e004c5b7aa61aa8a7f2a66b644136081646.jpg",
+        "width": 4802,
+        "height": 7186,
+        "size_kb": 4256.0888671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-09-17_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/555f634b088c5225275ce6d36f4db34036081646.jpg",
+        "width": 4802,
+        "height": 6000,
+        "size_kb": 3226.453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8268,
+    "comment": 555,
+    "forward": 197
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

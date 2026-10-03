@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "402149663514260570",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/402149663514260570",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月18日",
+    "pub_ts": 1592471165,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依八周年生日# #洛天依0712生日快乐#  8，对天依而言有着特殊的意义。 它是天依的一个符号，也代表着无限的可能。 马上就快到天依跟大家相遇的第8年了。 天依想要在这特别的一年、特别的日子里，与大家共同回顾过去8年间的珍贵回忆，也期待你们跟我分享藏在心中的画面和愿景。 请在【6月30日】前将天依的生日贺图发送到【luotianyi@sh-henian.com】，并附上ID，会有机会在生日会上获得展示。   2020年7月12日，天依带大家进入我的世界！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依八周年生日#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%85%AB%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  8，对天依而言有着特殊的意义。 它是天依的一个符号，也代表着无限的可能。 马上就快到天依跟大家相遇的第8年了。 天依想要在这特别的一年、特别的日子里，与大家共同回顾过去8年间的珍贵回忆，也期待你们跟我分享藏在心中的画面和愿景。 请在【6月30日】前将天依的生日贺图发送到【"
+      },
+      {
+        "type": "text",
+        "text": "luotianyi@sh-henian.com"
+      },
+      {
+        "type": "text",
+        "text": "】，并附上ID，会有机会在生日会上获得展示。   2020年7月12日，天依带大家进入我的世界！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-06-18_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0291becd9cc577619a364d778aa56dbe0c06f71f.jpg",
+        "width": 600,
+        "height": 405,
+        "size_kb": 61.9189453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12031,
+    "comment": 1220,
+    "forward": 413
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

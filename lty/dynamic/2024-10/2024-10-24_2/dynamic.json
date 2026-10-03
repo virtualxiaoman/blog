@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "991835582204215313",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/991835582204215313",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月24日",
+    "pub_ts": 1729768117,
+    "location": ""
+  },
+  "topic": {
+    "id": 1241832,
+    "name": "洛天依海洋之心",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1241832&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%B7%E6%B4%8B%E4%B9%8B%E5%BF%83"
+  },
+  "content": {
+    "title": "",
+    "text": "海风轻抚过寂静的洋面，把弦月的倒影搅碎为无数银色亮片，\n若有若无的竖琴声和吟唱，伴随着潮水上涨而弥散在海岸间。\n在歌声彻底消失前，潮汐送来了没有地址的信笺，\n神秘的金色字体逐渐浮现，你无法辨别，\n但字体传达的内容，却毫无障碍地出现在了脑海中[心律共鸣动态表情包_好厉害]\n\n关于这片海洋，关于塞壬歌者，你或许想知道——[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "海风轻抚过寂静的洋面，把弦月的倒影搅碎为无数银色亮片，\n若有若无的竖琴声和吟唱，伴随着潮水上涨而弥散在海岸间。\n在歌声彻底消失前，潮汐送来了没有地址的信笺，\n神秘的金色字体逐渐浮现，你无法辨别，\n但字体传达的内容，却毫无障碍地出现在了脑海中"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n关于这片海洋，关于塞壬歌者，你或许想知道——"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-24_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/65020e0d10a71db8d51c5a092443ff3a36081646.jpg",
+        "width": 1200,
+        "height": 4155,
+        "size_kb": 1422.9296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/好厉害.gif",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "text": "[心律共鸣动态表情包_好厉害]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5434,
+    "comment": 355,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

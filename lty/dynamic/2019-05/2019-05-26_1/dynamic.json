@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "257723691600072457",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/257723691600072457",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月26日",
+    "pub_ts": 1558844373,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "周末就要结束啦，天依要抓住周末的小尾巴，给大家一个惊喜~ 天依和宝宝@护舒宝_Whisper 再次合作推出天依口红姨妈巾限量定制装，今晚零点在京东独家预售啦！2500套限量礼盒内含3款天依的可爱表情，等你们来发现！舒服自在，捧你上天，快来把天依带回家~   立绘画师 -TID-  Q版画师：_Haku白_\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "周末就要结束啦，天依要抓住周末的小尾巴，给大家一个惊喜~ 天依和宝宝@护舒宝_Whisper 再次合作推出天依口红姨妈巾限量定制装，今晚零点在京东独家预售啦！2500套限量礼盒内含3款天依的可爱表情，等你们来发现！舒服自在，捧你上天，快来把天依带回家~   立绘画师 -TID-  Q版画师：_Haku白_"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-05-26_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e6f3b57fc17235bea09ced6f073237fe7eb19fec.jpg",
+        "width": 4092,
+        "height": 5787,
+        "size_kb": 6388.2998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-05-26_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f7216967bf75b6cc7e4190db791b5460cf58aeea.jpg",
+        "width": 1809,
+        "height": 1080,
+        "size_kb": 356.107421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-05-26_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/359b0d1f6f86550f4dc2e6eba2fa0945fbcb9c63.jpg",
+        "width": 4032,
+        "height": 3024,
+        "size_kb": 2933.427734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2019-05-26_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b4f2016648dca7ddbcbf47e02a9e9caf4e4850f3.jpg",
+        "width": 1620,
+        "height": 1620,
+        "size_kb": 947.2265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2019-05-26_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e9178713f491ed0b10a8bc13007c23cebd32c070.jpg",
+        "width": 1620,
+        "height": 1620,
+        "size_kb": 1564.486328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2019-05-26_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a3c4e498670441a197f677294488c957b781476d.jpg",
+        "width": 2096,
+        "height": 1620,
+        "size_kb": 851.7939453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6617,
+    "comment": 1275,
+    "forward": 184
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "138377657229570997",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/138377657229570997",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年7月8日",
+    "pub_ts": 1531056959,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依的日语试听曲「嘘つきは恋のはじまり」PV，今天由40mP桑在YouTube和niconico上正式发布啦～\n天依赶紧搬运过来，希望大家喜欢。\n40mP桑发布原文：\n「嘘つきは恋のはじまり」\n歌：洛天依（ルオテンイ）\n作詞、作曲、編曲：40mP（mylist/7975931、@40mP）\n動画、イラスト：たま（mylist/8994160、@tamak0）\nギター：[TEST]（mylist/2779693、@hiroki_test）",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的日语试听曲「嘘つきは恋のはじまり」PV，今天由40mP桑在YouTube和niconico上正式发布啦～\n天依赶紧搬运过来，希望大家喜欢。\n40mP桑发布原文：\n「嘘つきは恋のはじまり」\n歌：洛天依（ルオテンイ）\n作詞、作曲、編曲：40mP（mylist/7975931、@40mP）\n動画、イラスト：たま（mylist/8994160、@tamak0）\nギター："
+      },
+      {
+        "type": "text",
+        "text": "[TEST]"
+      },
+      {
+        "type": "text",
+        "text": "（mylist/2779693、@hiroki_test）"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】嘘つきは恋のはじまり【40mP&たま原创PV】",
+      "desc": "天依的日语试听曲「嘘つきは恋のはじまり」PV，今天由40mP桑在YouTube和niconico上正式发布啦～\n天依赶紧搬运过来，希望大家喜欢。\n\n40mP桑发布原文：\nほんのちょっと嘘をついた。\n\n「嘘つきは恋のはじまり」\n\n歌：洛天依（ルオテンイ）\n作詞、作曲、編曲：40mP（mylist/7975931、@40mP）\n動画、イラスト：たま（mylist/8994160、@tamak0）\nギター：[TEST]（mylist/2779693、@hiroki_test）\n\nカラオケ音源→https://b",
+      "jump_url": "https://www.bilibili.com/video/BV1Cs411p76o",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/99d0a98392152f1020f969a028f9dd2e058496e4.jpg",
+      "cover_file": "../../_assets/covers/2018-07-08_1.jpg",
+      "bvid": "BV1Cs411p76o",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Cs411p76o",
+        "aid": "26431038",
+        "cover": "http://i1.hdslb.com/bfs/archive/99d0a98392152f1020f969a028f9dd2e058496e4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Cs411p76o",
+        "stat": {
+          "danmaku": "6376",
+          "play": "45.6万",
+          "vt": ""
+        },
+        "duration_text": "04:16",
+        "title": "【洛天依】嘘つきは恋のはじまり【40mP&たま原创PV】",
+        "desc": "天依的日语试听曲「嘘つきは恋のはじまり」PV，今天由40mP桑在YouTube和niconico上正式发布啦～\n天依赶紧搬运过来，希望大家喜欢。\n\n40mP桑发布原文：\nほんのちょっと嘘をついた。\n\n「嘘つきは恋のはじまり」\n\n歌：洛天依（ルオテンイ）\n作詞、作曲、編曲：40mP（mylist/7975931、@40mP）\n動画、イラスト：たま（mylist/8994160、@tamak0）\nギター：[TEST]（mylist/2779693、@hiroki_test）\n\nカラオケ音源→https://b",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30251,
+    "comment": 13598,
+    "forward": 368
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

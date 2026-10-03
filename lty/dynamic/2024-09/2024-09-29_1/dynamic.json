@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "982535496262483990",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/982535496262483990",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月29日",
+    "pub_ts": 1727602772,
+    "location": ""
+  },
+  "topic": {
+    "id": 1212506,
+    "name": "2024光影节 VUP盛夏之星选拔",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1212506&topic_name=2024%E5%85%89%E5%BD%B1%E8%8A%82+VUP%E7%9B%9B%E5%A4%8F%E4%B9%8B%E6%98%9F%E9%80%89%E6%8B%94"
+  },
+  "content": {
+    "title": "",
+    "text": "“闪亮上海，漫游宇宙”\n2024上海国际光影节已经开启，天依也将作为嘉宾参加~\n观看时间：即日起-10月7日 18:00-22:00\n地点：苏河湾万象天地-亲水平台\n线上转播:10月02日 20:00 \n欢迎大家前往观看呀！[歌行宇宙表情包_mua]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“闪亮上海，漫游宇宙”\n2024上海国际光影节已经开启，天依也将作为嘉宾参加~\n观看时间：即日起-10月7日 18:00-22:00\n地点：苏河湾万象天地-亲水平台\n线上转播:10月02日 20:00 \n欢迎大家前往观看呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b627219b0f3c33417f914c8b8118dcc36081646.png",
+        "width": 800,
+        "height": 1280,
+        "size_kb": 1402.5068359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：2024上海国际光影节转播",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：2024上海国际光影节转播",
+        "desc1": {
+          "text": "2024-10-02 20:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "2.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：龙年小电视抱枕、高达马克杯，随机寄出*8份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4123502&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4123502,
+        "reserve_total": 21338,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "441666939"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3737,
+    "comment": 106,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

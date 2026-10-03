@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "720194770806243399",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/720194770806243399",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月23日",
+    "pub_ts": 1666521812,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "直播回放来啦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "直播回放来啦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "第一次！洛天依的新歌交流会 【直播回放】",
+      "desc": "本次直播是一次试验型的新内容，是让大家有机会看到天依的舞台表演。节目主体是两部分：新歌的舞台表演、还有创作者自己讲述的幕后故事。歌曲间的串场语音，也使用了一些试验中的新方式。2.0版本持续优化中，下次出场，我们努力搞长点doge",
+      "jump_url": "https://www.bilibili.com/video/BV1bg41187dg",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/59818e56ad78d2558ccede0e30204bf41b336a05.jpg",
+      "cover_file": "../../_assets/covers/2022-10-23_1.jpg",
+      "bvid": "BV1bg41187dg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1bg41187dg",
+        "aid": "516809349",
+        "cover": "http://i2.hdslb.com/bfs/archive/59818e56ad78d2558ccede0e30204bf41b336a05.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1bg41187dg",
+        "stat": {
+          "danmaku": "1371",
+          "play": "10.8万",
+          "vt": ""
+        },
+        "duration_text": "36:56",
+        "title": "第一次！洛天依的新歌交流会 【直播回放】",
+        "desc": "本次直播是一次试验型的新内容，是让大家有机会看到天依的舞台表演。节目主体是两部分：新歌的舞台表演、还有创作者自己讲述的幕后故事。歌曲间的串场语音，也使用了一些试验中的新方式。2.0版本持续优化中，下次出场，我们努力搞长点doge",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16192,
+    "comment": 592,
+    "forward": 19
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

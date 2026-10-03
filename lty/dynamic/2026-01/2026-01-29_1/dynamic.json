@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "id": "1163316485152571416",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1163316485152571416",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月29日",
+    "pub_ts": 1769694126,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份~\n\n“一弦一调唤知己 山海风流鸣笙簧”\n当第一个“咚”声落下，人们从自然万物中感受音律\n后来，声音被刻进竹简、谱入丝弦，在漫长的时光中，长成一部名叫“国乐”的华夏史诗。[洛天依八音奇响动态_美丽]\n\n历时240天筹备，跨越全国5大省市9433公里\n55位非遗艺术家参与制作，音乐中融入21种中国乐器，歌曲推翻修改超20版\n感谢受邀非遗艺术家老师们的倾情演绎和悉心指导，感谢音乐和MV的所有制作老师们\n感谢每一位为天依这次的游学之旅付出努力和心血的staff老师\n希望天依能和大家一起，将这份用心凝结的作品圆满呈现给大家~[洛天依八音奇响动态_爱意]\n\n【天依游学记·歌行国乐季】原创主题曲《乐鸣东方》\n1月30日12:00，MV正式上线，单曲15:00上线各大音乐平台\n天依将此次游学的感受和对国乐的传颂，都记录在这首歌曲里啦，期待与大家在歌声中相逢！[洛天依八音奇响动态_支持]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪3位小伙伴送出【洛天依随机周边】1份~\n\n“一弦一调唤知己 山海风流鸣笙簧”\n当第一个“咚”声落下，人们从自然万物中感受音律\n后来，声音被刻进竹简、谱入丝弦，在漫长的时光中，长成一部名叫“国乐”的华夏史诗。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n历时240天筹备，跨越全国5大省市9433公里\n55位非遗艺术家参与制作，音乐中融入21种中国乐器，歌曲推翻修改超20版\n感谢受邀非遗艺术家老师们的倾情演绎和悉心指导，感谢音乐和MV的所有制作老师们\n感谢每一位为天依这次的游学之旅付出努力和心血的staff老师\n希望天依能和大家一起，将这份用心凝结的作品圆满呈现给大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【天依游学记·歌行国乐季】原创主题曲《乐鸣东方》\n1月30日12:00，MV正式上线，单曲15:00上线各大音乐平台\n天依将此次游学的感受和对国乐的传颂，都记录在这首歌曲里啦，期待与大家在歌声中相逢！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_支持]",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/a26938e7da36b6c98ffd1c583c176e2181b5149c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-29_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c03e668218af22296d1e41192837444c36081646.png",
+        "width": 2560,
+        "height": 1440,
+        "size_kb": 17978.08984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-29_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b5a24a160d9b968de100a8ea6ec0ec236081646.png",
+        "width": 2560,
+        "height": 1440,
+        "size_kb": 3985.949951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-29_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7307efccd9fbb6a7e215a0af7d7ca3b436081646.png",
+        "width": 2560,
+        "height": 1440,
+        "size_kb": 13997.3603515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-01-29_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/11a47874eca5c9594e91c610f770db2036081646.png",
+        "width": 2560,
+        "height": 1440,
+        "size_kb": 8313.8095703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-01-29_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ab623d960885db3fe778195274f8509c36081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 7183.7099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-01-29_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/750a88fa08e8f40ffdcf184230ebe62d36081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 7224.419921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/支持.gif",
+        "package_id": "8362",
+        "emoji_id": "115083",
+        "text": "[洛天依八音奇响动态_支持]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6519,
+    "comment": 996,
+    "forward": 3308
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

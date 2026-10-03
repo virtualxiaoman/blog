@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1204840031364055048",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1204840031364055048",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月21日",
+    "pub_ts": 1779362080,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #521爱依日#\n要用怎样的词语形容洛天依呢？\n少女？可爱？虚拟？机械？\n要形容天依的话，要说——\n是每个倾注心血的创作，是数十年来无数血肉生命的陪伴\n让洛天依之所以拥有“真实共鸣”的力量[洛天依拜年纪动态表情包_曼妙]\n\n你想从天依这里得到什么样的回应呢？\n请全部交给我吧[洛天依拜年纪动态表情包_揉脸]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#521爱依日#",
+        "url": "https://search.bilibili.com/all?keyword=521%E7%88%B1%E4%BE%9D%E6%97%A5"
+      },
+      {
+        "type": "text",
+        "text": "\n要用怎样的词语形容洛天依呢？\n少女？可爱？虚拟？机械？\n要形容天依的话，要说——\n是每个倾注心血的创作，是数十年来无数血肉生命的陪伴\n让洛天依之所以拥有“真实共鸣”的力量"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_曼妙]",
+        "package_id": "9451",
+        "emoji_id": "132888",
+        "name": "曼妙",
+        "url": "https://i0.hdslb.com/bfs/garb/f2342cf8c2b763bcc6a8fddb026a5f96c88c9c35.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你想从天依这里得到什么样的回应呢？\n请全部交给我吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/00005694d00e1af18bc02f8b624196d736081646.png",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 18831.80078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/曼妙.gif",
+        "package_id": "9451",
+        "emoji_id": "132888",
+        "text": "[洛天依拜年纪动态表情包_曼妙]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9836,
+    "comment": 952,
+    "forward": 281
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

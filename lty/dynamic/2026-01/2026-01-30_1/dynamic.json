@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1163537628691169793",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1163537628691169793",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月30日",
+    "pub_ts": 1769745615,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "献给生生不息的华夏乐魂，传承千年不灭的国乐薪火",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "献给生生不息的华夏乐魂，传承千年不灭的国乐薪火"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【乐鸣东方 | 官方MV】洛天依携手55位非遗传承人致敬中华国乐",
+      "desc": "循声古乐，纵览东方，浸入千年国乐音律的长河，听见历史传来的回响——\n是贾湖骨笛唤醒时间的第一声呼吸，是古琴七弦间流动的山水知音\n是敦煌琵琶轮指迸发的千窟遐想，是西安鼓乐震响云霄的少年狂\n是福建南音唤醒记忆的千年乡音，是广西天琴吟诵天地的空灵歌谣......\n这些散落在岁月中的声音，从未逝去，而是一直在跳动的华夏脉搏\n他们飘荡于山海长风，铭刻在演奏者磨练的记忆里，活在每一刻被聆听的当下。\n \n五音共鸣，四海同频；此声为律，共此东方。\n2026天依游学记「歌行·国乐季」主题单曲《乐鸣东方》\n以天依的歌声，携手",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/10926e8743e381377035abd37344b31aee9a137b.jpg",
+      "cover_file": "../../_assets/covers/2026-01-30_1.jpg",
+      "bvid": "BV1Y26wBcERw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Y26wBcERw",
+        "aid": "115978277029671",
+        "cover": "http://i1.hdslb.com/bfs/archive/10926e8743e381377035abd37344b31aee9a137b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "stat": {
+          "danmaku": "1.4万",
+          "play": "452.8万",
+          "vt": ""
+        },
+        "duration_text": "04:03",
+        "title": "【乐鸣东方 | 官方MV】洛天依携手55位非遗传承人致敬中华国乐",
+        "desc": "循声古乐，纵览东方，浸入千年国乐音律的长河，听见历史传来的回响——\n是贾湖骨笛唤醒时间的第一声呼吸，是古琴七弦间流动的山水知音\n是敦煌琵琶轮指迸发的千窟遐想，是西安鼓乐震响云霄的少年狂\n是福建南音唤醒记忆的千年乡音，是广西天琴吟诵天地的空灵歌谣......\n这些散落在岁月中的声音，从未逝去，而是一直在跳动的华夏脉搏\n他们飘荡于山海长风，铭刻在演奏者磨练的记忆里，活在每一刻被聆听的当下。\n \n五音共鸣，四海同频；此声为律，共此东方。\n2026天依游学记「歌行·国乐季」主题单曲《乐鸣东方》\n以天依的歌声，携手",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 285449,
+    "comment": 11754,
+    "forward": 7090
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

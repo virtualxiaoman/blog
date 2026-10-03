@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "954616624019669009",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/954616624019669009",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月16日",
+    "pub_ts": 1721102403,
+    "location": ""
+  },
+  "topic": {
+    "id": 1178491,
+    "name": "BML2024",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1178491&topic_name=BML2024"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】来自2024的《霜雪千年》还记否这一曲喜悲霜雪【BML2024单品】",
+      "desc": "故人曲，昔年调，何人寻歌往日谣。数年往后，也仍会唱起同一首歌谣。\n2024，重逢《霜雪千年》\n❄愿今生再相见，消融你眉间悲戚霜雪。❄\n作曲：COP\n作词：COP\n调校：COP / 鬼面P\n编曲：上官于尧 曹文佳\n混音&母带：罗文Rown\n舞台导演：林星捷\n音乐监制：TENKO\n演唱：洛天依\n《霜雪千年》即将迎来天依和另一位重磅嘉宾的新版本，敬请期待",
+      "jump_url": "https://www.bilibili.com/video/BV1oE421c7XV",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/2a23caedabc8bd95129f602d0ff379e87c935f40.jpg",
+      "cover_file": "../../_assets/covers/2024-07-16_1.jpg",
+      "bvid": "BV1oE421c7XV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1oE421c7XV",
+        "aid": "1656233700",
+        "cover": "http://i1.hdslb.com/bfs/archive/2a23caedabc8bd95129f602d0ff379e87c935f40.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1oE421c7XV",
+        "stat": {
+          "danmaku": "1207",
+          "play": "109.4万",
+          "vt": ""
+        },
+        "duration_text": "04:04",
+        "title": "【洛天依】来自2024的《霜雪千年》还记否这一曲喜悲霜雪【BML2024单品】",
+        "desc": "故人曲，昔年调，何人寻歌往日谣。数年往后，也仍会唱起同一首歌谣。\n2024，重逢《霜雪千年》\n❄愿今生再相见，消融你眉间悲戚霜雪。❄\n作曲：COP\n作词：COP\n调校：COP / 鬼面P\n编曲：上官于尧 曹文佳\n混音&母带：罗文Rown\n舞台导演：林星捷\n音乐监制：TENKO\n演唱：洛天依\n《霜雪千年》即将迎来天依和另一位重磅嘉宾的新版本，敬请期待",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 59209,
+    "comment": 1373,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "id": "1156208971418173459",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1156208971418173459",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月10日",
+    "pub_ts": 1768039279,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依国乐季#「国乐印象」海报公开！\n听，笛子呼吸着新石器时代的风，邀你开启一场重遇五音的国乐之旅[洛天依八音奇响动态_美丽]\n\n古琴指拂七弦，在山水间落下第一个清音，\n鼓韵传薪火，震彻大唐的殿堂与边关。\n壁画中的琵琶沿着丝路将西域故事吟成中原的月色。\n南音在红砖古厝里，慢悠悠地保存着唐宋的月光，\n天琴则在壮乡夜色中，仍与星辰轻轻对谈。\n\n这些声音淌过漫长岁月，从未喑哑。\n它们连成一条蜿蜒的长河，如今正流经我们的耳畔——\n等你来和天依一同再次聆听！[洛天依八音奇响动态_可爱]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依国乐季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "「国乐印象」海报公开！\n听，笛子呼吸着新石器时代的风，邀你开启一场重遇五音的国乐之旅"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n古琴指拂七弦，在山水间落下第一个清音，\n鼓韵传薪火，震彻大唐的殿堂与边关。\n壁画中的琵琶沿着丝路将西域故事吟成中原的月色。\n南音在红砖古厝里，慢悠悠地保存着唐宋的月光，\n天琴则在壮乡夜色中，仍与星辰轻轻对谈。\n\n这些声音淌过漫长岁月，从未喑哑。\n它们连成一条蜿蜒的长河，如今正流经我们的耳畔——\n等你来和天依一同再次聆听！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/587464e958b6d4fb173ebf5263374d3c36081646.jpg",
+        "width": 2500,
+        "height": 4444,
+        "size_kb": 1079.260009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-10_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ed380077ac8e632ff9b71b62b6c0f3a836081646.jpg",
+        "width": 2500,
+        "height": 4444,
+        "size_kb": 1126.3199462890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-10_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5045ae31c61e13bb2b5374f7f32b3e1c36081646.jpg",
+        "width": 2500,
+        "height": 4444,
+        "size_kb": 965.8200073242188,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-01-10_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fd31e68c05bb85ed8b6c0d2847c1b7d236081646.jpg",
+        "width": 2500,
+        "height": 4444,
+        "size_kb": 1077.280029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-01-10_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0cd3bce8147e803c61d87f74172cac8636081646.jpg",
+        "width": 2500,
+        "height": 4444,
+        "size_kb": 1297.68994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-01-10_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fc2b01556f9a3970558a36e18531541636081646.jpg",
+        "width": 2500,
+        "height": 4444,
+        "size_kb": 1039.5799560546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依国乐季主题曲MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1Y26wBcERw",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依国乐季主题曲MV",
+        "desc1": {
+          "text": "预计01-30 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "452.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1Y26wBcERw",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5283669,
+        "reserve_total": 21790,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6768,
+    "comment": 352,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "985188111034089542",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/985188111034089542",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月6日",
+    "pub_ts": 1728220382,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的小伙伴们，天依现在为大家带来洛天依歌行宇宙·无限共鸣全息演唱会线上回放包月充电视频权益说明～[歌行宇宙表情包_可靠]\n\n本次演唱会内容将以包月充电专属视频的形式投稿，增设 30 元包月档位和其他专属充电权益。\n🪐投稿时间：10 月 8 日 0:00\n\n10 月 7 日，在部分城市的幸福蓝海国际影城和星轶影城，还会有演唱会的观演活动，有兴趣的小伙伴可以关注一下哦！\n详情大家请戳 网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的小伙伴们，天依现在为大家带来洛天依歌行宇宙·无限共鸣全息演唱会线上回放包月充电视频权益说明～"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_可靠]",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/c4947ffce07dd9355cf893acf531afbbde05efbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n本次演唱会内容将以包月充电专属视频的形式投稿，增设 30 元包月档位和其他专属充电权益。\n🪐投稿时间：10 月 8 日 0:00\n\n10 月 7 日，在部分城市的幸福蓝海国际影城和星轶影城，还会有演唱会的观演活动，有兴趣的小伙伴可以关注一下哦！\n详情大家请戳 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/FGTAmiz"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-06_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/392c62ea7cdbe0bc601b2030279ece3036081646.jpg",
+        "width": 960,
+        "height": 3786,
+        "size_kb": 1655.990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/可靠.png",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "text": "[歌行宇宙表情包_可靠]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5665,
+    "comment": 1758,
+    "forward": 123
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

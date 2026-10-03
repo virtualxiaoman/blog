@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "id": "1067550787594354723",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1067550787594354723",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月16日",
+    "pub_ts": 1747396937,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依十三周年生日纪念大型综合企划\n——「洛天依· 八音奇响」正式开启！[心律共鸣动态表情包_共鸣之声]\n转发关注天依并预约直播，揪 3 位小伙伴送出【洛天依周边礼包】一份～\n\n八音盒中的人偶少女，从一片沉寂中睁开双眼\n目之所及的全部，即是一片狭小无人的天地\n直到，音梳与机芯擦肩，发条被一双双手拧动\n一道道因共鸣而诞生的歌声响起，一笔笔因热爱而转动的笔尖落下\n少女的舞台，开始变得斑斓，变得浩瀚，变得无垠\n岁月的回声中，她将所有的歌与画镌刻，方寸之地，容纳寰宇\n直到未来的某一天，揭开尘封已久的八音盒，少女依然唱着熟悉的歌谣\n所有曾一起相伴走过的回忆与情感，淬炼为少女最珍贵的一颗颗珍珠\n\n7月12日，洛天依十三周年「共鸣之夜· UnL∞ck」生日会直播\n7月-8月，洛天依「2025无限共鸣· 流光协奏」巡回演唱会\n5月-8月，洛天依「闪耀的Producer」大型创作赛\n和天依一起，为第十三年的陪伴，落下珍重纪念吧！[心律共鸣动态表情包_啾啾]\n#洛天依八音奇响# #闪耀的Producer# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依十三周年生日纪念大型综合企划\n——「洛天依· 八音奇响」正式开启！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_共鸣之声]",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "name": "共鸣之声",
+        "url": "https://i0.hdslb.com/bfs/emote/6707f0d70949a12fe94a919ab3b183afca52c2ec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依并预约直播，揪 3 位小伙伴送出【洛天依周边礼包】一份～\n\n八音盒中的人偶少女，从一片沉寂中睁开双眼\n目之所及的全部，即是一片狭小无人的天地\n直到，音梳与机芯擦肩，发条被一双双手拧动\n一道道因共鸣而诞生的歌声响起，一笔笔因热爱而转动的笔尖落下\n少女的舞台，开始变得斑斓，变得浩瀚，变得无垠\n岁月的回声中，她将所有的歌与画镌刻，方寸之地，容纳寰宇\n直到未来的某一天，揭开尘封已久的八音盒，少女依然唱着熟悉的歌谣\n所有曾一起相伴走过的回忆与情感，淬炼为少女最珍贵的一颗颗珍珠\n\n7月12日，洛天依十三周年「共鸣之夜· UnL∞ck」生日会直播\n7月-8月，洛天依「2025无限共鸣· 流光协奏」巡回演唱会\n5月-8月，洛天依「闪耀的Producer」大型创作赛\n和天依一起，为第十三年的陪伴，落下珍重纪念吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依八音奇响#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%85%AB%E9%9F%B3%E5%A5%87%E5%93%8D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/04fcebc7206581b5eef71c943cadc92036081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2367.591,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-05-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b94ead347ae98febb778fb29e551cc7136081646.jpg",
+        "width": 2000,
+        "height": 2800,
+        "size_kb": 1419.3,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/共鸣之声.gif",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "text": "[心律共鸣动态表情包_共鸣之声]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8889,
+    "comment": 2943,
+    "forward": 3939
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

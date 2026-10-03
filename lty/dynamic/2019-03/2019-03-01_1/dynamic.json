@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "225936797557487864",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/225936797557487864",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年3月1日",
+    "pub_ts": 1551443410,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#原创歌曲##洛天依##VOCALOID# 来来来，干了这一碗，还有三碗",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#原创歌曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "text",
+        "text": " 来来来，干了这一碗，还有三碗"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依，原创《大氿歌》  干了这碗酒，四海皆亲友",
+      "desc": "1.专辑曲第三弹，曾用名《大酒歌》。戴荃人声本家：av45657535\n2.仔细想想，从古时流传下来的传说和故事，很少有哪个是与酒不相关的。\n3.这是一种神奇的上古智慧，可能是最早的穿越到幻想世界的办法。\n4.类似于，吨吨吨，吨吨吨——再见，我去二次元了。\n5.虽然常常会造成亲人两行泪之类的问题……\n6.但还是要感谢酒文化，给我们留下的更多瑰宝。所谓古来圣贤皆寂寞，惟有饮者留其名。\n7.顺带一提这首的人声本家很强，非常强，同样敬请期待。",
+      "jump_url": "https://www.bilibili.com/video/BV14b411b7Vr",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b400ae53242fd2784a588e82ea3e0050f1d0f1e4.jpg",
+      "cover_file": "../../_assets/covers/2019-03-01_1.jpg",
+      "bvid": "BV14b411b7Vr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14b411b7Vr",
+        "aid": "45020985",
+        "cover": "http://i1.hdslb.com/bfs/archive/b400ae53242fd2784a588e82ea3e0050f1d0f1e4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14b411b7Vr",
+        "stat": {
+          "danmaku": "8960",
+          "play": "416.4万",
+          "vt": ""
+        },
+        "duration_text": "03:24",
+        "title": "洛天依，原创《大氿歌》  干了这碗酒，四海皆亲友",
+        "desc": "1.专辑曲第三弹，曾用名《大酒歌》。戴荃人声本家：av45657535\n2.仔细想想，从古时流传下来的传说和故事，很少有哪个是与酒不相关的。\n3.这是一种神奇的上古智慧，可能是最早的穿越到幻想世界的办法。\n4.类似于，吨吨吨，吨吨吨——再见，我去二次元了。\n5.虽然常常会造成亲人两行泪之类的问题……\n6.但还是要感谢酒文化，给我们留下的更多瑰宝。所谓古来圣贤皆寂寞，惟有饮者留其名。\n7.顺带一提这首的人声本家很强，非常强，同样敬请期待。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 188297,
+    "comment": 23074,
+    "forward": 22
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "404841731835057443",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/404841731835057443",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月25日",
+    "pub_ts": 1593097961,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家今天都吃了什么粽子？睡前别吃太多啦",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家今天都吃了什么粽子？睡前别吃太多啦"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8114,
+    "comment": 378,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 404359218031239495,
+    "orig_mid": 19933405,
+    "deleted": false,
+    "archive_dir": "../../../19933405/2020-06/2020-06-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:24:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

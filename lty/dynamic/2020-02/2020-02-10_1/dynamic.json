@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "354310681385552028",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/354310681385552028",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月10日",
+    "pub_ts": 1581332784,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "‍用勇敢做成甲胄，竭尽全力！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "‍用勇敢做成甲胄，竭尽全力！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6983,
+    "comment": 194,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 353799172259139110,
+    "orig_mid": 10996289,
+    "deleted": false,
+    "archive_dir": "../../../10996289/2020-02/2020-02-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

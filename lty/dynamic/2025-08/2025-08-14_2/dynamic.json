@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "1100901818521616389",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1100901818521616389",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月14日",
+    "pub_ts": 1755162079,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "“沁凉的蓝色气泡水，搭配酸酸甜甜的柠檬，会是你心中属于天依的夏日印象冰饮吗？”\n精心挑选的饰品，搭配灿烂的向日葵，再编一个可爱的发型~\n天依准备好啦！我们出发吧！[洛天依流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“沁凉的蓝色气泡水，搭配酸酸甜甜的柠檬，会是你心中属于天依的夏日印象冰饮吗？”\n精心挑选的饰品，搭配灿烂的向日葵，再编一个可爱的发型~\n天依准备好啦！我们出发吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_捧花]",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/1970804d6735f906318f08b771381742692960d8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-14_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1ca89b37ee7a05979820dbdcdb30e90536081646.png",
+        "width": 2600,
+        "height": 3467,
+        "size_kb": 7559.8173828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-14_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/760a3496171aa1647d09494469c9fdb336081646.png",
+        "width": 2600,
+        "height": 3467,
+        "size_kb": 6048.404296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/捧花.png",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "text": "[洛天依流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7426,
+    "comment": 1463,
+    "forward": 112
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

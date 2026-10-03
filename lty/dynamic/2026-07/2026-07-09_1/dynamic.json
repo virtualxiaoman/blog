@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "id": "1222915216537288745",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1222915216537288745",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月9日",
+    "pub_ts": 1783570537,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n#洛天依十四周年#🛜#洛天依0712生日快乐#\n洛天依「信号SIGNAL」系列周边上新啦！\n转发关注我，揪3位小伙伴送出【生日系列随机周边】1份~[洛天依·人格镜像 动态表情包_爱你]\n\n滴滴，心灵信号员「洛天依」信号接收中——\n每一次爱意传递，都在一点点将未来的时光，变为更永远的永恒[洛天依·人格镜像 动态表情包_温暖]\n\n📶生日周边礼盒\n含蛋糕毛绒挂件、徽章*9 、金属推拉卡、胸针、色纸、拍立得*9、亚克力支架立牌\n\n📶系列单品周边\n 毛绒眼罩、异形PU桌垫、勋章、金属胸针套组、徽章套组、 镭射票套组、色纸套组\n\n📶开售时间：7月10日 \n\n📶购买方式：BW场贩、洛天依演唱会快闪、星轶影城部分影院      \n\n📶更多联动周边\n法披、鼠标垫、坐姿毛绒玩偶、组合戒、冷变杯、光感变色手表\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "417652",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依「信号SIGNAL」系列周边上新啦！\n转发关注我，揪3位小伙伴送出【生日系列随机周边】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_爱你]",
+        "package_id": "9834",
+        "emoji_id": "138847",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/d33ed8e20d06e87fe7a5a593669a50c3a0987042.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n滴滴，心灵信号员「洛天依」信号接收中——\n每一次爱意传递，都在一点点将未来的时光，变为更永远的永恒"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_温暖]",
+        "package_id": "9834",
+        "emoji_id": "138855",
+        "name": "温暖",
+        "url": "https://i0.hdslb.com/bfs/garb/20c7316969e9748347da6aca0e6ebbafae14eed7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n📶生日周边礼盒\n含蛋糕毛绒挂件、徽章*9 、金属推拉卡、胸针、色纸、拍立得*9、亚克力支架立牌\n\n📶系列单品周边\n 毛绒眼罩、异形PU桌垫、勋章、金属胸针套组、徽章套组、 镭射票套组、色纸套组\n\n📶开售时间：7月10日 \n\n📶购买方式：BW场贩、洛天依演唱会快闪、星轶影城部分影院      \n\n📶更多联动周边\n法披、鼠标垫、坐姿毛绒玩偶、组合戒、冷变杯、光感变色手表"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-09_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cfbefb4b5a552f37fc42e19789ff057b36081646.jpg",
+        "width": 750,
+        "height": 19674,
+        "size_kb": 7491.14990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/爱你.gif",
+        "package_id": "9834",
+        "emoji_id": "138847",
+        "text": "[洛天依·人格镜像 动态表情包_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/9834/温暖.gif",
+        "package_id": "9834",
+        "emoji_id": "138855",
+        "text": "[洛天依·人格镜像 动态表情包_温暖]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依十四周年生日 信号SIGNAL系列周边",
+            "price": "¥35",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/e8/31/f2a71ddfd4cbe5576c35224bd2dd810f.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41385848&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1222915216537288745#noReffer=true",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-09_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "417652"
+  },
+  "vote": null,
+  "stats": {
+    "like": 4514,
+    "comment": 245,
+    "forward": 5505
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:28:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

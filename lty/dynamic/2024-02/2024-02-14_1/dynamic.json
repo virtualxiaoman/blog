@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "897900249418301447",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/897900249418301447",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月14日",
+    "pub_ts": 1707897093,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "虽…虽然我们已经一起过了这么多节日啦，但是，要好好回应大家的心意才行，天依特地准备了新的衣装，梳了新发型！[洛天依蝶变_害羞]\n“节日快乐！要甜甜的甜品，还是甜甜的天依？”是要这样说吗？[洛天依_捏捏]\n\n=============\n转发关注天依，揪一位小伙伴送出【来自天依的情人节礼物】1份。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "虽…虽然我们已经一起过了这么多节日啦，但是，要好好回应大家的心意才行，天依特地准备了新的衣装，梳了新发型！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“节日快乐！要甜甜的甜品，还是甜甜的天依？”是要这样说吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n=============\n转发关注天依，揪一位小伙伴送出【来自天依的情人节礼物】1份。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-14_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/1045a410aeb04db7d2cadeae7fac5aec36081646.jpg",
+        "width": 4569,
+        "height": 4428,
+        "size_kb": 2669.429931640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8380,
+    "comment": 1246,
+    "forward": 2442
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

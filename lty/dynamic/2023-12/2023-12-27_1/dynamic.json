@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "879752728379654213",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/879752728379654213",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月27日",
+    "pub_ts": 1703671794,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嘿嘿，猜猜其他民族的模型会不会在跨晚舞台首次亮相咧？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嘿嘿，猜猜其他民族的模型会不会在跨晚舞台首次亮相咧？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【2023最美的夜】恭喜你刮出SSR【洛天依跨晚舞台苗族造型细节展示图】！",
+      "desc": "这是什么呀？我们一起刮一刮——\n哇！刮出了SSR【天依的跨晚舞台苗族模型细节展示图】！\n嘿嘿，猜猜其他民族的模型会不会在跨晚舞台首次亮相咧？\n当然是——记得每天来天依的动态看哦！\n12月31日跨年之夜，我在#2023最美的夜跨年晚会#，期待你的到来~",
+      "jump_url": "https://www.bilibili.com/video/BV1Kw411G7FE",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/842d06003d79fb928e7c56c3bbe2fe790e855b01.jpg",
+      "cover_file": "../../_assets/covers/2023-12-27_1.jpg",
+      "bvid": "BV1Kw411G7FE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Kw411G7FE",
+        "aid": "325334833",
+        "cover": "http://i0.hdslb.com/bfs/archive/842d06003d79fb928e7c56c3bbe2fe790e855b01.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Kw411G7FE",
+        "stat": {
+          "danmaku": "72",
+          "play": "25.2万",
+          "vt": ""
+        },
+        "duration_text": "00:28",
+        "title": "【2023最美的夜】恭喜你刮出SSR【洛天依跨晚舞台苗族造型细节展示图】！",
+        "desc": "这是什么呀？我们一起刮一刮——\n哇！刮出了SSR【天依的跨晚舞台苗族模型细节展示图】！\n嘿嘿，猜猜其他民族的模型会不会在跨晚舞台首次亮相咧？\n当然是——记得每天来天依的动态看哦！\n12月31日跨年之夜，我在#2023最美的夜跨年晚会#，期待你的到来~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 44073,
+    "comment": 410,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

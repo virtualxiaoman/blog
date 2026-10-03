@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088694344652685329",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088694344652685329",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752319805,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "如蝶般地舞蹈哪会恐高 | 《蝶变》洛天依十三周年生日会",
+      "desc": "偷溜出洛水的少女，有属于自己的“叛逆”论调\n\n《蝶变(Butterfly)》\n作曲：Richelle Alleyne/X Li/Paul Kratter/Hunter Bennett Ney/LAAMP Music\n作词：申名利\n编曲：郑子文ZIIN\n混音：吴澎\n调教：莫米兔\n原MV：BV1Dg4y1Z71M",
+      "jump_url": "https://www.bilibili.com/video/BV1TJuKzTE85",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b69ca30029d596db6a3f484cb956c54216defac1.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_4.jpg",
+      "bvid": "BV1TJuKzTE85",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1TJuKzTE85",
+        "aid": "114830363131967",
+        "cover": "http://i1.hdslb.com/bfs/archive/b69ca30029d596db6a3f484cb956c54216defac1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1TJuKzTE85",
+        "stat": {
+          "danmaku": "360",
+          "play": "84.2万",
+          "vt": ""
+        },
+        "duration_text": "03:07",
+        "title": "如蝶般地舞蹈哪会恐高 | 《蝶变》洛天依十三周年生日会",
+        "desc": "偷溜出洛水的少女，有属于自己的“叛逆”论调\n\n《蝶变(Butterfly)》\n作曲：Richelle Alleyne/X Li/Paul Kratter/Hunter Bennett Ney/LAAMP Music\n作词：申名利\n编曲：郑子文ZIIN\n混音：吴澎\n调教：莫米兔\n原MV：BV1Dg4y1Z71M",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23241,
+    "comment": 430,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

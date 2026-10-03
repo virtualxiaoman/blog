@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1232649648280174597",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1232649648280174597",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月4日",
+    "pub_ts": 1785837011,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "玛德琳娜电塔 全天候喊话【洛天依纯蓝幻乐巡演成都站限定舞台】",
+      "desc": "在2026洛天依「无限共鸣・纯蓝幻乐」巡演成都站演唱会的舞台上\n天依为大家带来了纯白老师2018年创作的这首满满复古味道的歌曲《玛德琳娜电塔》\n曾经的梦想越来越难以触及，想象力变成了唯一的魔法\n既然如此，那便在有限的时间里，一起唱首歌，跳一支舞，做一场只有我们的美梦吧！\n \n作曲/编曲：纯白p\n作词：薬屋\n调教：无形歌无形\n原PV：BV1nt411Y7Dj",
+      "jump_url": "https://www.bilibili.com/video/BV1ZGuc6xEyW",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/91323c41ee5b7b02028cbdb2c87f8dbf4da3c76f.jpg",
+      "cover_file": "../../_assets/covers/2026-08-04_1.jpg",
+      "bvid": "BV1ZGuc6xEyW",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZGuc6xEyW",
+        "aid": "117036600590694",
+        "cover": "http://i1.hdslb.com/bfs/archive/91323c41ee5b7b02028cbdb2c87f8dbf4da3c76f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZGuc6xEyW",
+        "stat": {
+          "danmaku": "114",
+          "play": "5.9万",
+          "vt": ""
+        },
+        "duration_text": "00:31",
+        "title": "玛德琳娜电塔 全天候喊话【洛天依纯蓝幻乐巡演成都站限定舞台】",
+        "desc": "在2026洛天依「无限共鸣・纯蓝幻乐」巡演成都站演唱会的舞台上\n天依为大家带来了纯白老师2018年创作的这首满满复古味道的歌曲《玛德琳娜电塔》\n曾经的梦想越来越难以触及，想象力变成了唯一的魔法\n既然如此，那便在有限的时间里，一起唱首歌，跳一支舞，做一场只有我们的美梦吧！\n \n作曲/编曲：纯白p\n作词：薬屋\n调教：无形歌无形\n原PV：BV1nt411Y7Dj",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20539,
+    "comment": 540,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "id": "795421397949087753",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/795421397949087753",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月14日",
+    "pub_ts": 1684036876,
+    "location": ""
+  },
+  "topic": {
+    "id": 1043607,
+    "name": "美依礼芽洛天依梦幻联动",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1043607&topic_name=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8"
+  },
+  "content": {
+    "title": "",
+    "text": "发表了《Lamb》、《极乐净土》、《桃源恋歌》等非常多人气作品的组合GARNiDELiA今晚21点要来B站直播啦！！\n天依也带着小伙伴们一起来给小美打call咯！！大家热烈欢迎！！[洛天依幻游世界_好厉害]\n今晚，天依也还会来到直播间送上祝福哦！！点点预约直播不迷路~\n在2017年的演唱会上，天依也曾经表演过《极乐净土》这首歌，也是一段缘分啦ww大家还记得吗？ [洛天依_捏捏][洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "发表了《Lamb》、《极乐净土》、《桃源恋歌》等非常多人气作品的组合GARNiDELiA今晚21点要来B站直播啦！！\n天依也带着小伙伴们一起来给小美打call咯！！大家热烈欢迎！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_好厉害]",
+        "package_id": "1066",
+        "emoji_id": "18930",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c154096625e55c2ceaf576f0c5f86d194491d728.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今晚，天依也还会来到直播间送上祝福哦！！点点预约直播不迷路~\n在2017年的演唱会上，天依也曾经表演过《极乐净土》这首歌，也是一段缘分啦ww大家还记得吗？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-05-14_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9d66f9e31bf6cb8dcbf902c66f862f5636081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2870.7861328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/好厉害.png",
+        "package_id": "1066",
+        "emoji_id": "18930",
+        "text": "[洛天依幻游世界_好厉害]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：小美特酷全网独家首播",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：小美特酷全网独家首播",
+        "desc1": {
+          "text": "2023-05-14 21:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "21.1万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：艺人签名板*1份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1533691&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1533691,
+        "reserve_total": 210564,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "110352985"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8955,
+    "comment": 520,
+    "forward": 197
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

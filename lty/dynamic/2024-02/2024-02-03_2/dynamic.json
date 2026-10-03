@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "893834663430193209",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/893834663430193209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月3日",
+    "pub_ts": 1706950500,
+    "location": ""
+  },
+  "topic": {
+    "id": 1135807,
+    "name": "我有特殊的拜年技巧",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1135807&topic_name=%E6%88%91%E6%9C%89%E7%89%B9%E6%AE%8A%E7%9A%84%E6%8B%9C%E5%B9%B4%E6%8A%80%E5%B7%A7"
+  },
+  "content": {
+    "title": "",
+    "text": "龙行九霄，壮哉华夏[洛天依歌行四方_竹中吟笛]一曲《大哉乾元 》，拜年纪共贺新春[洛天依歌行四方_打手鼓]小龙女天依准备给大家拜年啦[Vsinger_加依]点击预约，我们一起看网页链接",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "龙行九霄，壮哉华夏"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_竹中吟笛]",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "name": "竹中吟笛",
+        "url": "https://i0.hdslb.com/bfs/emote/9791340aaccc3b71292ebc206cb2a962ea1848be.png"
+      },
+      {
+        "type": "text",
+        "text": "一曲《大哉乾元 》，拜年纪共贺新春"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_打手鼓]",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "name": "打手鼓",
+        "url": "https://i0.hdslb.com/bfs/emote/d3342fd45ede3b253aaeced8db5d52aadcbfc3c2.png"
+      },
+      {
+        "type": "text",
+        "text": "小龙女天依准备给大家拜年啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "点击预约，我们一起看"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/bnj2024.html"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/竹中吟笛.png",
+        "package_id": "4128",
+        "emoji_id": "58612",
+        "text": "[洛天依歌行四方_竹中吟笛]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/打手鼓.png",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "text": "[洛天依歌行四方_打手鼓]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4252,
+    "comment": 167,
+    "forward": 51
+  },
+  "forward": {
+    "orig_id": 893372138414669861,
+    "orig_mid": 1868902080,
+    "deleted": false,
+    "archive_dir": "../../../1868902080/2024-02/2024-02-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:06:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

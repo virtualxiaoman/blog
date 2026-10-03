@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "994756881554604067",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/994756881554604067",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月1日",
+    "pub_ts": 1730448285,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依X幸运石 新品系列周边上架啦！手表和杯子都非常实用，大家可以看看哦[歌行宇宙表情包_mua]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依X幸运石 新品系列周边上架啦！手表和杯子都非常实用，大家可以看看哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3124,
+    "comment": 99,
+    "forward": 58
+  },
+  "forward": {
+    "orig_id": 994310733213728774,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2024-10/2024-10-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

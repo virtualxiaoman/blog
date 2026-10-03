@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "953667479197974547",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/953667479197974547",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月13日",
+    "pub_ts": 1720881413,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "始终如一的歌声，凝结成童话世界的魔法。\n光的长发拂过岁月，而梦永恒闪耀。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "始终如一的歌声，凝结成童话世界的魔法。\n光的长发拂过岁月，而梦永恒闪耀。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“追上光一刹那 我的心也融化”第七年的《追光使者》【洛天依十二周年生日会】",
+      "desc": "始终如一的歌声，凝结成童话世界的魔法。\n光的长发拂过岁月，而梦永恒闪耀。\n\n来自2017年天依投搞的这首\n《追光使者》\n原视频：BV14s411Y7Y3\n作曲/编曲：林迈可\n作词：易家扬\n调校：动点P",
+      "jump_url": "https://www.bilibili.com/video/BV14E4m1R7uS",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/b4de27f7ad053843463f8270288a200bf5ee40f4.jpg",
+      "cover_file": "../../_assets/covers/2024-07-13_2.jpg",
+      "bvid": "BV14E4m1R7uS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14E4m1R7uS",
+        "aid": "1256234321",
+        "cover": "http://i1.hdslb.com/bfs/archive/b4de27f7ad053843463f8270288a200bf5ee40f4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14E4m1R7uS",
+        "stat": {
+          "danmaku": "378",
+          "play": "34.5万",
+          "vt": ""
+        },
+        "duration_text": "03:16",
+        "title": "“追上光一刹那 我的心也融化”第七年的《追光使者》【洛天依十二周年生日会】",
+        "desc": "始终如一的歌声，凝结成童话世界的魔法。\n光的长发拂过岁月，而梦永恒闪耀。\n\n来自2017年天依投搞的这首\n《追光使者》\n原视频：BV14s411Y7Y3\n作曲/编曲：林迈可\n作词：易家扬\n调校：动点P",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26464,
+    "comment": 968,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

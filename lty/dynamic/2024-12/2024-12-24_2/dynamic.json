@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1014361749378301969",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1014361749378301969",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月24日",
+    "pub_ts": 1735012899,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "百年常新，千变成韵，流派恒久，生生不息。这就是充盈着江南灵秀之气的越剧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "百年常新，千变成韵，流派恒久，生生不息。这就是充盈着江南灵秀之气的越剧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“清丽灵秀，千变成韵”洛天依游学记「梨园·越剧行」vlog",
+      "desc": "“越剧清丽，水乡里的江南灵秀”\n【歌行·戏曲季】的游学第三站——五大剧种之一越剧！\n天依来到了江南水乡，拜访了越剧青年演员谢江慧老师~\n汲取百家之长，艺术流派纷呈，越剧，在发展中传承，在传承中创新。\n百年常新，千变成韵，流派恒久，生生不息。这就是充盈着江南灵秀之气的越剧！\n小彩蛋：这次天依的跨晚舞台，将会是以越剧为缘，认识的新老师哦！\n想知道的话，一定要看到最后哦！",
+      "jump_url": "https://www.bilibili.com/video/BV1vxCVY1EKh",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a2432216dcd6a78c3b3d2c320892bf155160df79.jpg",
+      "cover_file": "../../_assets/covers/2024-12-24_3.jpg",
+      "bvid": "BV1vxCVY1EKh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1vxCVY1EKh",
+        "aid": "113702649072521",
+        "cover": "http://i1.hdslb.com/bfs/archive/a2432216dcd6a78c3b3d2c320892bf155160df79.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1vxCVY1EKh",
+        "stat": {
+          "danmaku": "390",
+          "play": "34.3万",
+          "vt": ""
+        },
+        "duration_text": "06:13",
+        "title": "“清丽灵秀，千变成韵”洛天依游学记「梨园·越剧行」vlog",
+        "desc": "“越剧清丽，水乡里的江南灵秀”\n【歌行·戏曲季】的游学第三站——五大剧种之一越剧！\n天依来到了江南水乡，拜访了越剧青年演员谢江慧老师~\n汲取百家之长，艺术流派纷呈，越剧，在发展中传承，在传承中创新。\n百年常新，千变成韵，流派恒久，生生不息。这就是充盈着江南灵秀之气的越剧！\n小彩蛋：这次天依的跨晚舞台，将会是以越剧为缘，认识的新老师哦！\n想知道的话，一定要看到最后哦！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12264,
+    "comment": 485,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1249002182181650466",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1249002182181650466",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月17日",
+    "pub_ts": 1789644382,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "大小姐和大少爷今天换了一副新墨镜～",
+      "desc": "天依之前偶然刷到的大小姐手势舞很喜欢，也来一个天依的版本送给大家~\n\n《大小姐和大少爷的反派生涯》\n作者：JUSF周存\n编舞：炫星不是喵！\n原曲：BV1nx411V72K",
+      "jump_url": "https://www.bilibili.com/video/BV1CreG6aE22",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/86280df39305e7217233e859fa4f2b1cc3965677.jpg",
+      "cover_file": "../../_assets/covers/2026-09-17_1.jpg",
+      "bvid": "BV1CreG6aE22",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1CreG6aE22",
+        "aid": "117286128060420",
+        "cover": "http://i1.hdslb.com/bfs/archive/86280df39305e7217233e859fa4f2b1cc3965677.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1CreG6aE22",
+        "stat": {
+          "danmaku": "174",
+          "play": "15.1万",
+          "vt": ""
+        },
+        "duration_text": "00:54",
+        "title": "大小姐和大少爷今天换了一副新墨镜～",
+        "desc": "天依之前偶然刷到的大小姐手势舞很喜欢，也来一个天依的版本送给大家~\n\n《大小姐和大少爷的反派生涯》\n作者：JUSF周存\n编舞：炫星不是喵！\n原曲：BV1nx411V72K",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 52233,
+    "comment": 973,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

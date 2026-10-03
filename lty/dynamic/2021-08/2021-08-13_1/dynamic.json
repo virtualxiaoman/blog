@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "558410430694357690",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/558410430694357690",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月13日",
+    "pub_ts": 1628853460,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依九周年# 与你约定，相逢在秘境花庭——  由@-TID- 老师特别追加绘制的九周年贺图《秘境花庭》系列的周边预览来啦~ 昼与夜两种相异风情，大家更中意哪一个呢？ 这套周边将在 8月14日中午12点 上架禾念官店，期待与你们在七夕相会[洛天依_爱你]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 与你约定，相逢在秘境花庭——  由"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师特别追加绘制的九周年贺图《秘境花庭》系列的周边预览来啦~ 昼与夜两种相异风情，大家更中意哪一个呢？ 这套周边将在 8月14日中午12点 上架禾念官店，期待与你们在七夕相会"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-08-13_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/60be440e474a43b374aa6043226adbb10617e81b.jpg",
+        "width": 4167,
+        "height": 4167,
+        "size_kb": 1003.455078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-08-13_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2bb228ebe997cf9364aba6cf53407690efc29e1d.jpg",
+        "width": 4168,
+        "height": 4167,
+        "size_kb": 984.830078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-08-13_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/773d20fb6b6df71cffc7bfda003ea25c2118793e.jpg",
+        "width": 4168,
+        "height": 4167,
+        "size_kb": 1143.7197265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-08-13_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0a89378ab4548a91cb1e5ab4c1b9a057e582e024.jpg",
+        "width": 4167,
+        "height": 4168,
+        "size_kb": 1458.08203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2021-08-13_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1370d570a1e6a7ab4cf9f1db1667db4a8653fc71.jpg",
+        "width": 4168,
+        "height": 4168,
+        "size_kb": 1163.8662109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2021-08-13_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b4be2c3c59d0e1425f5c7fe18f85e39e1335c4c4.jpg",
+        "width": 4168,
+        "height": 4168,
+        "size_kb": 1233.76953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7059,
+    "comment": 324,
+    "forward": 84
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:34:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

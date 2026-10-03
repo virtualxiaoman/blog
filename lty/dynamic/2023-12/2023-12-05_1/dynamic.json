@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "871557484087607346",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/871557484087607346",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月5日",
+    "pub_ts": 1701763690,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嘿嘿，天依悄咪咪拜托老v给我看了看新卡面，是冰天雪地以白羽为饰的【山海雪鸮】 天依，期待大家解锁拥有呀[洛天依蝶变_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嘿嘿，天依悄咪咪拜托老v给我看了看新卡面，是冰天雪地以白羽为饰的【山海雪鸮】 天依，期待大家解锁拥有呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3823,
+    "comment": 99,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 869297961939501217,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-11/2023-11-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:01:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

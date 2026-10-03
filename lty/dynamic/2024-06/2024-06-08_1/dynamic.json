@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "940587740368470040",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/940587740368470040",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月8日",
+    "pub_ts": 1717836049,
+    "location": ""
+  },
+  "topic": {
+    "id": 1192224,
+    "name": "和周深一起唱毕业歌",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1192224&topic_name=%E5%92%8C%E5%91%A8%E6%B7%B1%E4%B8%80%E8%B5%B7%E5%94%B1%E6%AF%95%E4%B8%9A%E6%AD%8C"
+  },
+  "content": {
+    "title": "",
+    "text": "今年天依也翻唱了2024毕业歌《去明天》，祝大家毕业快乐！也祝无论是正在经历高考、还是即将面临重要的时刻的大家，实现自己的理想~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今年天依也翻唱了2024毕业歌《去明天》，祝大家毕业快乐！也祝无论是正在经历高考、还是即将面临重要的时刻的大家，实现自己的理想~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“献给即将或已经毕业的你”洛天依《去明天》2024毕业歌",
+      "desc": "青春是一场热烈的冒险，是你我渴望翻越的墙沿\n和最亲爱的朋友，和辛苦的几年\n说一声再见，道一声祝愿\n挥挥手，再向前\n\n今年天依也翻唱了2024毕业歌《去明天》，祝大家毕业快乐！也祝无论是正在经历高考、还是即将面临重要的时刻的大家，实现自己的理想~\n原唱：BV1cf421R72i\n《去明天》\n演唱：洛天依\n原唱：周深\n作词：唐映枫\n作曲：赵兆\n曲绘：织森凉、寻然、伊灵\n调校：鬼面P\n混音/母带：徐天鸿@studio21A",
+      "jump_url": "https://www.bilibili.com/video/BV1Yi421i79T",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/bb609d7630b6d91b17060d32f3a41399aee4096d.jpg",
+      "cover_file": "../../_assets/covers/2024-06-08_1.jpg",
+      "bvid": "BV1Yi421i79T",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Yi421i79T",
+        "aid": "1455658828",
+        "cover": "http://i0.hdslb.com/bfs/archive/bb609d7630b6d91b17060d32f3a41399aee4096d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Yi421i79T",
+        "stat": {
+          "danmaku": "679",
+          "play": "74.5万",
+          "vt": ""
+        },
+        "duration_text": "04:19",
+        "title": "“献给即将或已经毕业的你”洛天依《去明天》2024毕业歌",
+        "desc": "青春是一场热烈的冒险，是你我渴望翻越的墙沿\n和最亲爱的朋友，和辛苦的几年\n说一声再见，道一声祝愿\n挥挥手，再向前\n\n今年天依也翻唱了2024毕业歌《去明天》，祝大家毕业快乐！也祝无论是正在经历高考、还是即将面临重要的时刻的大家，实现自己的理想~\n原唱：BV1cf421R72i\n《去明天》\n演唱：洛天依\n原唱：周深\n作词：唐映枫\n作曲：赵兆\n曲绘：织森凉、寻然、伊灵\n调校：鬼面P\n混音/母带：徐天鸿@studio21A ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 72601,
+    "comment": 1497,
+    "forward": 313
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

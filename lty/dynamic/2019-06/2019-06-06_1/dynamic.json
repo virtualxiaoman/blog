@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "261895049738145996",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/261895049738145996",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年6月6日",
+    "pub_ts": 1559815593,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#VOCALOID##原创歌曲##Vsinger#让我们全员吹响整装待发的号角！来，跟我们一起Attack！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#原创歌曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": "让我们全员吹响整装待发的号角！来，跟我们一起Attack！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【Vsinger全员原创曲】Attack！【洛天依/言和/乐正绫/乐正龙牙/徵羽摩柯/墨清弦】",
+      "desc": "如果Hear me是对初衷的表达 ，那么Attack就是我们全员整装待发的号角！来，跟我们一起！\n《Attack！》\n演唱：洛天依，言和，乐正绫，乐正龙牙，徵羽摩柯，墨清弦\n作曲：人形兎\n作词：冥凰\n编曲：人形兎，Bitman\n调教：动点P，Creuzer\n混音：人形兎\n曲绘：Catcan，Ratto\nPV：Kin_en\n设定：TID\n制作人：人形兎",
+      "jump_url": "https://www.bilibili.com/video/BV1m4411M7iy",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5bc8a2e007b79218af640ca6fc76d8a154ac7abd.jpg",
+      "cover_file": "../../_assets/covers/2019-06-06_1.jpg",
+      "bvid": "BV1m4411M7iy",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1m4411M7iy",
+        "aid": "54701738",
+        "cover": "http://i0.hdslb.com/bfs/archive/5bc8a2e007b79218af640ca6fc76d8a154ac7abd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1m4411M7iy",
+        "stat": {
+          "danmaku": "1.9万",
+          "play": "116.2万",
+          "vt": ""
+        },
+        "duration_text": "04:06",
+        "title": "【Vsinger全员原创曲】Attack！【洛天依/言和/乐正绫/乐正龙牙/徵羽摩柯/墨清弦】",
+        "desc": "如果Hear me是对初衷的表达 ，那么Attack就是我们全员整装待发的号角！来，跟我们一起！\n《Attack！》\n演唱：洛天依，言和，乐正绫，乐正龙牙，徵羽摩柯，墨清弦\n作曲：人形兎\n作词：冥凰\n编曲：人形兎，Bitman\n调教：动点P，Creuzer\n混音：人形兎\n曲绘：Catcan，Ratto\nPV：Kin_en\n设定：TID\n制作人：人形兎",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 72946,
+    "comment": 14440,
+    "forward": 681
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

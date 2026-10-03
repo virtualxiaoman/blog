@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1250391273397813249",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1250391273397813249",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月21日",
+    "pub_ts": 1789967805,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好朋友～[终冕·动态表情包_兜风]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好朋友～"
+      },
+      {
+        "type": "emoji",
+        "text": "[终冕·动态表情包_兜风]",
+        "package_id": "10314",
+        "emoji_id": "147409",
+        "name": "兜风",
+        "url": "https://i0.hdslb.com/bfs/garb/3be7ba0d976c602b9c30b5175d3eca16432df42d.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10314/兜风.gif",
+        "package_id": "10314",
+        "emoji_id": "147409",
+        "text": "[终冕·动态表情包_兜风]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3994,
+    "comment": 186,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1250382524591374360,
+    "orig_mid": 323060342,
+    "deleted": false,
+    "archive_dir": "../../../323060342/2026-09/2026-09-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:39:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

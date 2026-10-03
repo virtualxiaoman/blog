@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "1212948650493214729",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1212948650493214729",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月12日",
+    "pub_ts": 1781250015,
+    "location": ""
+  },
+  "topic": {
+    "id": 1338922,
+    "name": "BML-PLAY！2026",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1338922&topic_name=BML-PLAY%EF%BC%812026"
+  },
+  "content": {
+    "title": "",
+    "text": "#BML-PLAY！2026#线下演唱会，天依今年也来啦！[洛天依国乐季动态表情包_嘿嘿]\n7月11日-12日，国家会展中心（上海）虹馆EH\n线下演出&7月12日BML直播间线上直播，我会演唱一首特别的联动歌曲，敬请期待吧～[洛天依国乐季动态表情包_唱歌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#BML-PLAY！2026#",
+        "url": "https://search.bilibili.com/all?keyword=BML-PLAY%EF%BC%812026"
+      },
+      {
+        "type": "text",
+        "text": "线下演唱会，天依今年也来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_嘿嘿]",
+        "package_id": "9546",
+        "emoji_id": "134441",
+        "name": "嘿嘿",
+        "url": "https://i0.hdslb.com/bfs/garb/2f0f3494655de964a7816fca9f4027270dfb259a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n7月11日-12日，国家会展中心（上海）虹馆EH\n线下演出&7月12日BML直播间线上直播，我会演唱一首特别的联动歌曲，敬请期待吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_唱歌]",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/182b9d9f0601165e6b7488e28066730dbfe3fd4e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-12_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c7703c9c2a7e9a54f2ab86b2a0e653a136081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1939.06005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/嘿嘿.gif",
+        "package_id": "9546",
+        "emoji_id": "134441",
+        "text": "[洛天依国乐季动态表情包_嘿嘿]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/唱歌.gif",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "text": "[洛天依国乐季动态表情包_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4453,
+    "comment": 147,
+    "forward": 48
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:24:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

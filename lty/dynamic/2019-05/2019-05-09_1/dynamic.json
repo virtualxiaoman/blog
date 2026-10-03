@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "251504462994253163",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/251504462994253163",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月9日",
+    "pub_ts": 1557396346,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恐怖片好可怕啊！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恐怖片好可怕啊！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-05-09_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0f17e123d4d4a7140f97893783be537f7f36c031.jpg",
+        "width": 800,
+        "height": 2650,
+        "size_kb": 1148.6005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6687,
+    "comment": 475,
+    "forward": 45
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

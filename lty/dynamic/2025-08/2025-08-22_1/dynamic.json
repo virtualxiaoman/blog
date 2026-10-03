@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1103842415156920353",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1103842415156920353",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月22日",
+    "pub_ts": 1755846740,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "和非人哉的大家依起闪耀~！[洛天依·闪耀的Producer动态_全肯定]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "和非人哉的大家依起闪耀~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "name": "全肯定",
+        "url": "https://i0.hdslb.com/bfs/garb/d75992612c05c5748714d5349019c026a99e741d.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/全肯定.gif",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4795,
+    "comment": 106,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 1103789621403189255,
+    "orig_mid": 32741563,
+    "deleted": false,
+    "archive_dir": "../../../32741563/2025-08/2025-08-22_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:38:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

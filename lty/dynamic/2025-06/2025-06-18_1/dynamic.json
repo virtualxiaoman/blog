@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1079718133571256339",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1079718133571256339",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月18日",
+    "pub_ts": 1750229868,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "“联结你我回忆歌谣如同宝石闪耀，镶嵌入每一刻心跳！”\n6月18日今晚 18:00-18:30，天依将会空降QQ音乐\n演唱会主题曲《流光（Light Me Up）》的歌曲评论区\n对演唱会的期待，对歌曲的感受，来告诉天依吧！[洛天依·天星问动态_萌]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“联结你我回忆歌谣如同宝石闪耀，镶嵌入每一刻心跳！”\n6月18日今晚 18:00-18:30，天依将会空降QQ音乐\n演唱会主题曲《流光（Light Me Up）》的歌曲评论区\n对演唱会的期待，对歌曲的感受，来告诉天依吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c4e7c14ecfe486cd592e80f9ab97beb636081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 983.826171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5451,
+    "comment": 267,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

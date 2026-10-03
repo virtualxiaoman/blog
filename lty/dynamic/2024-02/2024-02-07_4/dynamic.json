@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "895381294026850374",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/895381294026850374",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月7日",
+    "pub_ts": 1707310603,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "卷❀关注天依，揪1位小伙伴送出【洛天依 万华依绘系列 旋转流沙蓝牙音响礼盒】1份。\n\n岁月静谧， 时光缱绻\n就让歌声伴随流沙旋转\n伴你每时每刻[洛天依蝶变_轻唱]\n\n*专属定制系统语音、礼盒版内含4张MES.NFC卡\n预售开始日期：2月10日大年初一零点\n出品方：@bilibiliGoods \n预售平台：bilibili会员购，上海禾念TB店",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "卷❀关注天依，揪1位小伙伴送出【洛天依 万华依绘系列 旋转流沙蓝牙音响礼盒】1份。\n\n岁月静谧， 时光缱绻\n就让歌声伴随流沙旋转\n伴你每时每刻"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n*专属定制系统语音、礼盒版内含4张MES.NFC卡\n预售开始日期：2月10日大年初一零点\n出品方："
+      },
+      {
+        "type": "mention",
+        "text": "@bilibiliGoods ",
+        "mid": 35365327,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n预售平台：bilibili会员购，上海禾念TB店"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依 万华依绘系列 旋转流沙蓝牙音响…",
+      "desc": "卷❀关注天依，揪1位小伙伴送出【洛天依 万华依绘系列 旋转流沙蓝牙音响礼盒】1份。\n\n岁月静谧， 时光缱绻\n就让歌声伴随流沙旋转\n伴你每时每刻[洛天依蝶变_轻唱]\n\n*专属定制系统语音、礼盒版内含4张MES.NFC卡\n预售开始日期：2月10日大年初一零点\n出品方：@bilibiliGoods \n预售平台：bilibili会员购，上海禾念TB店",
+      "jump_url": "https://www.bilibili.com/video/BV1vu4m1N7Mz",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/f71b8e9c96c77d9a13a94bb2212bad59e542b55e.png",
+      "cover_file": "../../_assets/covers/2024-02-07_1.png",
+      "bvid": "BV1vu4m1N7Mz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1vu4m1N7Mz",
+        "aid": "1300263309",
+        "cover": "http://i2.hdslb.com/bfs/archive/f71b8e9c96c77d9a13a94bb2212bad59e542b55e.png",
+        "jump_url": "//www.bilibili.com/video/BV1vu4m1N7Mz",
+        "stat": {
+          "danmaku": "49",
+          "play": "3.2万",
+          "vt": ""
+        },
+        "duration_text": "01:29",
+        "title": "洛天依 万华依绘系列 旋转流沙蓝牙音响…",
+        "desc": "卷❀关注天依，揪1位小伙伴送出【洛天依 万华依绘系列 旋转流沙蓝牙音响礼盒】1份。\n\n岁月静谧， 时光缱绻\n就让歌声伴随流沙旋转\n伴你每时每刻[洛天依蝶变_轻唱]\n\n*专属定制系统语音、礼盒版内含4张MES.NFC卡\n预售开始日期：2月10日大年初一零点\n出品方：@bilibiliGoods \n预售平台：bilibili会员购，上海禾念TB店",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "bilibiliGoods Vsinger洛天依 万华依绘系列 旋转流沙蓝牙音响",
+            "price": "¥254",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/51/05/5105bbdc364c3fcad730f49b0ae25e68.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10257735&msource=cps_Mdynamic_36081646_cont-2-895381294026850374&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-07_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8879,
+    "comment": 1499,
+    "forward": 3145
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

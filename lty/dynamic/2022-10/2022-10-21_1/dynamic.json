@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "719480058175029316",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/719480058175029316",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月21日",
+    "pub_ts": 1666355405,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依AI原创曲】寻",
+      "desc": "曲 litterzy\n词 冥凰\n调 他城",
+      "jump_url": "https://www.bilibili.com/video/BV1tR4y197Up",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/014c65780aa75d23bbb93dd444cada6d27066f43.jpg",
+      "cover_file": "../../_assets/covers/2022-10-21_1.jpg",
+      "bvid": "BV1tR4y197Up",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1tR4y197Up",
+        "aid": "346798467",
+        "cover": "http://i0.hdslb.com/bfs/archive/014c65780aa75d23bbb93dd444cada6d27066f43.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1tR4y197Up",
+        "stat": {
+          "danmaku": "299",
+          "play": "26.6万",
+          "vt": ""
+        },
+        "duration_text": "02:57",
+        "title": "【洛天依AI原创曲】寻",
+        "desc": "曲 litterzy\n词 冥凰\n调 他城",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41442,
+    "comment": 531,
+    "forward": 16
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

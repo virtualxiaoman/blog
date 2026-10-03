@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "1181345881658490919",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1181345881658490919",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月19日",
+    "pub_ts": 1773891922,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依与新朋友星见的跨次元同框，终于来啦！[洛天依拜年纪动态表情包_揉脸]\n来和天依、星见一起，聆听《微光》，解锁这场春天里的美好相遇吧！[洛天依拜年纪动态表情包_喜欢]#CF手游星见奇遇#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依与新朋友星见的跨次元同框，终于来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n来和天依、星见一起，聆听《微光》，解锁这场春天里的美好相遇吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_喜欢]",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/5a250c2b1c4d4fb0597bf02da1baa32bf80a5370.gif"
+      },
+      {
+        "type": "topic",
+        "text": "#CF手游星见奇遇#",
+        "url": "https://search.bilibili.com/all?keyword=CF%E6%89%8B%E6%B8%B8%E6%98%9F%E8%A7%81%E5%A5%87%E9%81%87"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      },
+      {
+        "file": "../../_assets/emojis/9451/喜欢.gif",
+        "package_id": "9451",
+        "emoji_id": "132885",
+        "text": "[洛天依拜年纪动态表情包_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4849,
+    "comment": 157,
+    "forward": 35
+  },
+  "forward": {
+    "orig_id": 1181342621772021765,
+    "orig_mid": 315554376,
+    "deleted": false,
+    "archive_dir": "../../../315554376/2026-03/2026-03-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:19:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

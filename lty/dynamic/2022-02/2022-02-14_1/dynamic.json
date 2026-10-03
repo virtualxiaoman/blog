@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "626946069941925781",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/626946069941925781",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月14日",
+    "pub_ts": 1644810657,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 见习爱神洛天依向你射出丘比特之箭， 请选择是否接受[洛天依·夜航星_好康]  情人节快乐！卷发并关注，揪1位小可爱赠送情人节小礼物一份哦[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 见习爱神洛天依向你射出丘比特之箭， 请选择是否接受"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      },
+      {
+        "type": "text",
+        "text": "  情人节快乐！卷发并关注，揪1位小可爱赠送情人节小礼物一份哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-02-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e81cc87a1cef3c675915dab68178acc197b0cda3.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 4996.77001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11401,
+    "comment": 1052,
+    "forward": 3288
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:42:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

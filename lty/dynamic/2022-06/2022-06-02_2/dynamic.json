@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "667058427418116165",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/667058427418116165",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月2日",
+    "pub_ts": 1654150043,
+    "location": ""
+  },
+  "topic": {
+    "id": 37451,
+    "name": "绿色清风治愈计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=37451&topic_name=%E7%BB%BF%E8%89%B2%E6%B8%85%E9%A3%8E%E6%B2%BB%E6%84%88%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依代言清风# 天依与@清风Breeze 牵手推出植萃洛天依联名纸巾，植萃清新，添一抹自然\"桉\"心~ 快来跟随天依和#清风数字主理人Breeze# 的脚步，感受清风植萃纸巾带来的舒缓\"桉\"心，让你随时随地仿佛置身于浪漫的清风元宇宙花园里~ #绿色低碳·纸为下一代# 购买洛天依同款请转到https://item.jd.com/10053566625001.html\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依代言清风#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%BB%A3%E8%A8%80%E6%B8%85%E9%A3%8E"
+      },
+      {
+        "type": "text",
+        "text": " 天依与"
+      },
+      {
+        "type": "mention",
+        "text": "@清风Breeze",
+        "mid": 1521695751,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 牵手推出植萃洛天依联名纸巾，植萃清新，添一抹自然\"桉\"心~ 快来跟随天依和"
+      },
+      {
+        "type": "topic",
+        "text": "#清风数字主理人Breeze#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E9%A3%8E%E6%95%B0%E5%AD%97%E4%B8%BB%E7%90%86%E4%BA%BABreeze"
+      },
+      {
+        "type": "text",
+        "text": " 的脚步，感受清风植萃纸巾带来的舒缓\"桉\"心，让你随时随地仿佛置身于浪漫的清风元宇宙花园里~ "
+      },
+      {
+        "type": "topic",
+        "text": "#绿色低碳·纸为下一代#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%BB%BF%E8%89%B2%E4%BD%8E%E7%A2%B3%C2%B7%E7%BA%B8%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%BB%A3"
+      },
+      {
+        "type": "text",
+        "text": " 购买洛天依同款请转到https://item.jd.com/10053566625001.html"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-02_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1413f45fbd6808ed709466e9522d7517a0712948.jpg",
+        "width": 2250,
+        "height": 4000,
+        "size_kb": 5170.23046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9494,
+    "comment": 379,
+    "forward": 104
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1017331577526419462",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1017331577526419462",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月1日",
+    "pub_ts": 1735704366,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "恭喜各位player，你已成功通关副本「2024」\n现在，「WELCOME TO 2025！」\n请选择你的伙伴，你是要这只小骑士天依，还是这只小巫女天依，还是这只，会一直一直为你歌唱着的小天依呀~！[洛天依·戏游九州动态_乖巧]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜各位player，你已成功通关副本「2024」\n现在，「WELCOME TO 2025！」\n请选择你的伙伴，你是要这只小骑士天依，还是这只小巫女天依，还是这只，会一直一直为你歌唱着的小天依呀~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_乖巧]",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/garb/33c7115fcb98bb5c222363138f903f3a2f865e35.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dbe4cc7cdc6113118071490fd9b1916136081646.jpg",
+        "width": 3000,
+        "height": 2133,
+        "size_kb": 4058.384765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/乖巧.gif",
+        "package_id": "7318",
+        "emoji_id": "98460",
+        "text": "[洛天依·戏游九州动态_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7397,
+    "comment": 454,
+    "forward": 148
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

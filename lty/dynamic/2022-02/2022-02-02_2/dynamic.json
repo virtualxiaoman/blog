@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "622674411430035077",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/622674411430035077",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月2日",
+    "pub_ts": 1643816084,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "非常荣幸能在“相约北京”奥林匹克文化节暨第22届相约北京国际艺术节开幕式为大家带来冬奥应援歌曲《Time to Shine》，用歌声和舞蹈为北京冬奥会应援。为了准备这次演出，天依努力地练习了很久的花滑，也体会到了运动员们在赛场下的拼搏与努力。\n希望大家能感受到我的热情，一起为所有的奥运健儿加油吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "非常荣幸能在“相约北京”奥林匹克文化节暨第22届相约北京国际艺术节开幕式为大家带来冬奥应援歌曲《Time to Shine》，用歌声和舞蹈为北京冬奥会应援。为了准备这次演出，天依努力地练习了很久的花滑，也体会到了运动员们在赛场下的拼搏与努力。\n希望大家能感受到我的热情，一起为所有的奥运健儿加油吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】《Time to Shine》——北京冬奥会文化节开幕式",
+      "desc": "非常荣幸能在“相约北京”奥林匹克文化节暨第22届相约北京国际艺术节开幕式为大家带来冬奥应援歌曲《Time to Shine》，用歌声和舞蹈为北京冬奥会应援。为了准备这次演出，天依努力地练习了很久的花滑，也体会到了运动员们在赛场下的拼搏与努力。\n希望大家能感受到我的热情，一起为所有的奥运健儿加油吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1wU4y1F7XL",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/5df348b767c06c182f8a059ae1596149f333fcd3.jpg",
+      "cover_file": "../../_assets/covers/2022-02-02_1.jpg",
+      "bvid": "BV1wU4y1F7XL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wU4y1F7XL",
+        "aid": "678659054",
+        "cover": "http://i2.hdslb.com/bfs/archive/5df348b767c06c182f8a059ae1596149f333fcd3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wU4y1F7XL",
+        "stat": {
+          "danmaku": "3.8万",
+          "play": "641.6万",
+          "vt": ""
+        },
+        "duration_text": "04:18",
+        "title": "【洛天依】《Time to Shine》——北京冬奥会文化节开幕式",
+        "desc": "非常荣幸能在“相约北京”奥林匹克文化节暨第22届相约北京国际艺术节开幕式为大家带来冬奥应援歌曲《Time to Shine》，用歌声和舞蹈为北京冬奥会应援。为了准备这次演出，天依努力地练习了很久的花滑，也体会到了运动员们在赛场下的拼搏与努力。\n希望大家能感受到我的热情，一起为所有的奥运健儿加油吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 548173,
+    "comment": 42174,
+    "forward": 4837
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

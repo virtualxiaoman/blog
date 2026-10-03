@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "214778579899172190",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/214778579899172190",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年1月30日",
+    "pub_ts": 1548845435,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小伙伴们要努力的去追寻梦想哟，天依会一直给你们加油打气的~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小伙伴们要努力的去追寻梦想哟，天依会一直给你们加油打气的~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4974,
+    "comment": 240,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 212817489238209036,
+    "orig_mid": 2156649,
+    "deleted": false,
+    "archive_dir": "../../../2156649/2019-01/2019-01-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:19:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

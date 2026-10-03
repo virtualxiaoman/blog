@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "935320224992854120",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/935320224992854120",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月25日",
+    "pub_ts": 1716609610,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你会如何形容一个春天？以鲜花，以音符，亦或，曾经那些我们一起度过的春日回忆~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你会如何形容一个春天？以鲜花，以音符，亦或，曾经那些我们一起度过的春日回忆~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第十期·春回 | 你会如何形容一个春天",
+      "desc": "你会如何形容一个春天？以鲜花，以音符，亦或，曾经那些我们一起度过的春日回忆~\n【天依唱片机】第十期·春回 歌单，感谢老师们的创作与授权~\n\n1.中华粘土娘@純白  BV1ks411D7id\n作曲/编曲/调校：純白 作词：薇采之依\n2.心加心@阿良良木健  BV16s411B7r9\n作曲/编曲/作词/调校：阿良良木健\n3.绿野@秋叶真琴_akbMkt  av1603555742\n4.断裂的心轨@PoKeR_扑克  BV1Vs411f7uH\n作曲/编曲/作词/调校：PoKeR\n5.演算机@董糖_  BV1gw",
+      "jump_url": "https://www.bilibili.com/video/BV15z421Y7Bk",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/273995e5ed8b364560ac15d011f145e902277084.jpg",
+      "cover_file": "../../_assets/covers/2024-05-25_1.jpg",
+      "bvid": "BV15z421Y7Bk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV15z421Y7Bk",
+        "aid": "1354778712",
+        "cover": "http://i1.hdslb.com/bfs/archive/273995e5ed8b364560ac15d011f145e902277084.jpg",
+        "jump_url": "//www.bilibili.com/video/BV15z421Y7Bk",
+        "stat": {
+          "danmaku": "302",
+          "play": "26.7万",
+          "vt": ""
+        },
+        "duration_text": "57:00",
+        "title": "【天依唱片机】第十期·春回 | 你会如何形容一个春天",
+        "desc": "你会如何形容一个春天？以鲜花，以音符，亦或，曾经那些我们一起度过的春日回忆~\n【天依唱片机】第十期·春回 歌单，感谢老师们的创作与授权~\n\n1.中华粘土娘@純白  BV1ks411D7id\n作曲/编曲/调校：純白 作词：薇采之依\n2.心加心@阿良良木健  BV16s411B7r9\n作曲/编曲/作词/调校：阿良良木健\n3.绿野@秋叶真琴_akbMkt  av1603555742\n4.断裂的心轨@PoKeR_扑克  BV1Vs411f7uH\n作曲/编曲/作词/调校：PoKeR\n5.演算机@董糖_  BV1gw",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26882,
+    "comment": 454,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

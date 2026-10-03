@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "918714150534774915",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/918714150534774915",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月10日",
+    "pub_ts": 1712743207,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这次的旅程，又会如何发展？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次的旅程，又会如何发展？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“滴滴——实验室已开启，档案与监测信息已加载。请点击查阅。”",
+      "desc": "神秘的G星实验室中，停滞的进度条开始高速加载......\n”次元裂缝“、”无限钥匙“、”时空保护程序”......一切线索似乎都暗示着隐藏的真相。\nCODE LUO不为人知的能力、神秘人物的意图......\n这次的旅程，又会如何发展？\n\n代号洛天依第二期即将发布！第一期的回忆请注意查收！\n新的故事篇章即将开启，请大家记得关注哦~\n\n音乐制作：FatGuy\n视频制作：TS映画",
+      "jump_url": "https://www.bilibili.com/video/BV1WM4m1Q75H",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/294c39335c8f7716f44cf9536049ee82136c6d03.png",
+      "cover_file": "../../_assets/covers/2024-04-10_1.png",
+      "bvid": "BV1WM4m1Q75H",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1WM4m1Q75H",
+        "aid": "1302902486",
+        "cover": "http://i0.hdslb.com/bfs/archive/294c39335c8f7716f44cf9536049ee82136c6d03.png",
+        "jump_url": "//www.bilibili.com/video/BV1WM4m1Q75H",
+        "stat": {
+          "danmaku": "140",
+          "play": "31.3万",
+          "vt": ""
+        },
+        "duration_text": "01:13",
+        "title": "“滴滴——实验室已开启，档案与监测信息已加载。请点击查阅。”",
+        "desc": "神秘的G星实验室中，停滞的进度条开始高速加载......\n”次元裂缝“、”无限钥匙“、”时空保护程序”......一切线索似乎都暗示着隐藏的真相。\nCODE LUO不为人知的能力、神秘人物的意图......\n这次的旅程，又会如何发展？\n\n代号洛天依第二期即将发布！第一期的回忆请注意查收！\n新的故事篇章即将开启，请大家记得关注哦~\n\n音乐制作：FatGuy\n视频制作：TS映画",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 48231,
+    "comment": 576,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

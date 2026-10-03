@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "952113426891538441",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/952113426891538441",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月9日",
+    "pub_ts": 1720519582,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "“起跑线很重要，之后再努力就永远慢别人一步！”\n“高考是人生的转折点，会决定你的一生的！”\n“毕业了就快点找工作，你天天在网上捯饬你那些动漫小人有前途吗？”\n“到年纪了，就该考虑考虑结婚要小孩了。”\n......\n\n这个世界，仿佛总有许许多多无形的规训和束缚，想要规定你应该去过怎样的人生。\n你的追求，你的梦想，被裹挟在汹涌的人潮中，渐渐迷失方向。\n\n“不听...不听...不听！！！”\n随着一声呐喊，拳头狠狠砸向播放键，身后的世界不断倒带，直至归于平静。\n世界怎样那是世界的事情，就让我们一起，按下属于自己的播放键吧！[洛天依蝶变_嗷]\n亲爱的同行者，距离洛天依十二周年生日还有3天~[洛天依蝶变_电吉他！]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“起跑线很重要，之后再努力就永远慢别人一步！”\n“高考是人生的转折点，会决定你的一生的！”\n“毕业了就快点找工作，你天天在网上捯饬你那些动漫小人有前途吗？”\n“到年纪了，就该考虑考虑结婚要小孩了。”\n......\n\n这个世界，仿佛总有许许多多无形的规训和束缚，想要规定你应该去过怎样的人生。\n你的追求，你的梦想，被裹挟在汹涌的人潮中，渐渐迷失方向。\n\n“不听...不听...不听！！！”\n随着一声呐喊，拳头狠狠砸向播放键，身后的世界不断倒带，直至归于平静。\n世界怎样那是世界的事情，就让我们一起，按下属于自己的播放键吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_嗷]",
+        "package_id": "3752",
+        "emoji_id": "52572",
+        "name": "嗷",
+        "url": "https://i0.hdslb.com/bfs/emote/a91a293cd53f323e162e6ba69e3efe0a6bb37758.png"
+      },
+      {
+        "type": "text",
+        "text": "\n亲爱的同行者，距离洛天依十二周年生日还有3天~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-09_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c6a08f8d43f50bf228565ff143f691ef36081646.jpg",
+        "width": 3000,
+        "height": 3000,
+        "size_kb": 8628.556640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/嗷.png",
+        "package_id": "3752",
+        "emoji_id": "52572",
+        "text": "[洛天依蝶变_嗷]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6420,
+    "comment": 237,
+    "forward": 128
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1159522358303653889",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1159522358303653889",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月19日",
+    "pub_ts": 1768810737,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "那么哪里可以躲雨呢？[洛天依八音奇响动态_求助]关于少女潮湿的心绪和秘密[洛天依八音奇响动态_别走]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "那么哪里可以躲雨呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_求助]",
+        "package_id": "8362",
+        "emoji_id": "115071",
+        "name": "求助",
+        "url": "https://i0.hdslb.com/bfs/garb/aba9f7ffae634d1003b9f9e82f54e1071e16db43.gif"
+      },
+      {
+        "type": "text",
+        "text": "关于少女潮湿的心绪和秘密"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_别走]",
+        "package_id": "8362",
+        "emoji_id": "115084",
+        "name": "别走",
+        "url": "https://i0.hdslb.com/bfs/garb/8b7a5a260b80e1200956a664fb5769fdde154817.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/求助.gif",
+        "package_id": "8362",
+        "emoji_id": "115071",
+        "text": "[洛天依八音奇响动态_求助]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/别走.gif",
+        "package_id": "8362",
+        "emoji_id": "115084",
+        "text": "[洛天依八音奇响动态_别走]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4453,
+    "comment": 155,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1158790826532274320,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2026-01/2026-01-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:14:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

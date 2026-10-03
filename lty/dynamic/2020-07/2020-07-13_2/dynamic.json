@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "411456342247396607",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/411456342247396607",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月13日",
+    "pub_ts": 1594638045,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依0712生日快乐# 很多小伙伴说生日热点太多，看不过来，错过了QQ装扮等内容，天依来这里汇总给大家啦！这次别再错过了哦~ 手机QQ限定装扮 厘米秀活动 http://qq.cn.hn/2sn 网页链接 B站个性装扮（已补充上架2万套） 网页链接 搜狗输入法定制皮肤 https://weibo.com/1757022731/JaLtjkcbY  每一次的放声歌唱，都是一段回忆，都是一道羁绊，如今的我们早已缔结了无数羁绊，而且还在不断地增加，8年间的感谢与感动都汇集于此—— 2020洛天依官方专辑《Moments》 https://music.163.com/#/payfee?songId=1461644515 2020洛天依庆生曲《万分之一的光》 【洛天依原创曲】万分之一的光 2020洛天依生日会录播 【洛天依】2020.7.12洛天依生日会 洛天依八周年纪念周边 https://henian.taobao.com/ ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 很多小伙伴说生日热点太多，看不过来，错过了QQ装扮等内容，天依来这里汇总给大家啦！这次别再错过了哦~ 手机QQ限定装扮 厘米秀活动 http://qq.cn.hn/2sn "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/410717148308141110?tab=2"
+      },
+      {
+        "type": "text",
+        "text": " B站个性装扮（已补充上架2万套） "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=2156&from=official"
+      },
+      {
+        "type": "text",
+        "text": " 搜狗输入法定制皮肤 https://weibo.com/1757022731/JaLtjkcbY  每一次的放声歌唱，都是一段回忆，都是一道羁绊，如今的我们早已缔结了无数羁绊，而且还在不断地增加，8年间的感谢与感动都汇集于此—— 2020洛天依官方专辑《Moments》 https://music.163.com/#/payfee?songId=1461644515 2020洛天依庆生曲《万分之一的光》 "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】万分之一的光",
+        "url": "https://www.bilibili.com/video/BV1Tp4y1S7cu/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " 2020洛天依生日会录播 "
+      },
+      {
+        "type": "video",
+        "text": "【洛天依】2020.7.12洛天依生日会",
+        "url": "https://www.bilibili.com/video/BV1Hk4y1B7Cx/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " 洛天依八周年纪念周边 https://henian.taobao.com/ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7924,
+    "comment": 753,
+    "forward": 9496
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

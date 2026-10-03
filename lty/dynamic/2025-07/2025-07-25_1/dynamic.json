@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "id": "1093371544709627905",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1093371544709627905",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月25日",
+    "pub_ts": 1753408800,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依大型原创音乐征集活动「闪耀的Producer 」\n第一轮闪耀对决即将开启！[洛天依八音奇响动态_美丽]\n\n🎶首轮打擂期：7月25日0点-7月31日24点\n🎶首周参与打擂作品\n✨Pikapika组\n@初試合 《庸人与海》【洛天依原创/初投稿】庸人与海\n@塑料小猪销售中心 《电话杀人事件》【洛天依原创曲】电话杀人事件\n@nogi_Official 《多少甜点都吃得下的洛天依酱》【本家投稿/洛天依】多少甜点都吃得下的洛天依酱【nogi】\n@夜踊_Yoodori 《不命题作文》【洛天依原创】不命题作文 //feat.饕记小吃\n@停電前夜 《为六弦琴而作》【洛天依原创/独立摇滚】为六弦琴而作\n@ZClear_P 《极光尽头End of Aurora》【洛天依原创】极光尽头End of Aurora\n\n✨Kirakira组\n@純白 《笨鸥》【洛天依原创】笨鸥【应答组】\n@YuH_ChiliChill 《下等马》【洛天依】下等马\n@绛舞乱丸 《断章取义》洛天依、乐正绫、言和【从众效应】断章取义【节选自不要断章取义】\n@花水r_Official 《那么夏天的葬礼一定很热吧 》那么夏天的葬礼一定很热吧 【洛天依原创】\n@PoKeR_扑克 《镜花水月》【洛天依原创曲】《镜花水月》【PoKeR】【3DPV付】\n@的确如此如确的 《弥留之际》【洛天依原创/情绪摇滚】《弥留之际》“在弥留之际你会出现吗”\n\n✨应援入口：网页链接\n投出你认可的一票吧~！[洛天依八音奇响动态_登场]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依大型原创音乐征集活动「闪耀的Producer 」\n第一轮闪耀对决即将开启！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶首轮打擂期：7月25日0点-7月31日24点\n🎶首周参与打擂作品\n✨Pikapika组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@初試合",
+        "mid": 391634945,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《庸人与海》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创/初投稿】庸人与海",
+        "url": "https://www.bilibili.com/video/BV1BhJezZE7g/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@塑料小猪销售中心",
+        "mid": 435982573,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《电话杀人事件》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】电话杀人事件",
+        "url": "https://www.bilibili.com/video/BV1pSjzzgEVp/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@nogi_Official",
+        "mid": 474012664,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《多少甜点都吃得下的洛天依酱》"
+      },
+      {
+        "type": "video",
+        "text": "【本家投稿/洛天依】多少甜点都吃得下的洛天依酱【nogi】",
+        "url": "https://www.bilibili.com/video/BV1v7jqzWES9/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@夜踊_Yoodori",
+        "mid": 3546778028738864,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《不命题作文》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】不命题作文 //feat.饕记小吃",
+        "url": "https://www.bilibili.com/video/BV1Zs7BzhECe/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@停電前夜",
+        "mid": 526573745,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《为六弦琴而作》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创/独立摇滚】为六弦琴而作",
+        "url": "https://www.bilibili.com/video/BV1JvTUzuE5V/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@ZClear_P",
+        "mid": 448813977,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《极光尽头End of Aurora》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】极光尽头End of Aurora",
+        "url": "https://www.bilibili.com/video/BV1yvMBzHEfN/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨Kirakira组\n"
+      },
+      {
+        "type": "mention",
+        "text": "@純白",
+        "mid": 123372,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《笨鸥》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】笨鸥【应答组】",
+        "url": "https://www.bilibili.com/video/BV1stjJz9Ehw/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@YuH_ChiliChill",
+        "mid": 90942983,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《下等马》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依】下等马",
+        "url": "https://www.bilibili.com/video/BV1sy7VzrESV/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@绛舞乱丸",
+        "mid": 188951,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《断章取义》"
+      },
+      {
+        "type": "video",
+        "text": "洛天依、乐正绫、言和【从众效应】断章取义【节选自不要断章取义】",
+        "url": "https://www.bilibili.com/video/BV12F7VzrErA/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@花水r_Official",
+        "mid": 3537108226541988,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《那么夏天的葬礼一定很热吧 》"
+      },
+      {
+        "type": "video",
+        "text": "那么夏天的葬礼一定很热吧 【洛天依原创】",
+        "url": "https://www.bilibili.com/video/BV148TuzuEvQ/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@PoKeR_扑克",
+        "mid": 312381,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《镜花水月》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创曲】《镜花水月》【PoKeR】【3DPV付】",
+        "url": "https://www.bilibili.com/video/BV1r8MuzAEsJ/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@的确如此如确的",
+        "mid": 628417991,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《弥留之际》"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创/情绪摇滚】《弥留之际》“在弥留之际你会出现吗”",
+        "url": "https://www.bilibili.com/video/BV1FmMbzpEd8/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨应援入口："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/era/Producer2025.html?spm_id_from=333.337.0.0"
+      },
+      {
+        "type": "text",
+        "text": "\n投出你认可的一票吧~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3e08e6adf35299fb0cc669b6012f4fa136081646.jpg",
+        "width": 1080,
+        "height": 3602,
+        "size_kb": 3414.9375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-25_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fcb9fa325218a372f3a45e4fc65960f336081646.jpg",
+        "width": 1080,
+        "height": 2850,
+        "size_kb": 2435.7109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4048,
+    "comment": 138,
+    "forward": 50
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

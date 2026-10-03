@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "275252629958219691",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/275252629958219691",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562925647,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##VOCALOID##2019洛天依生日会#如果天依变小了，你会把天依放在口袋里带走吗~？\n天依生日惊喜第二弹来啦！mini小天依在片中等你哦！\n请大家吃东西、看演出、睡觉的时候，都看看周围，有没有一只，哦不，一个可爱的小宝贝出现~如果发现了天依，记得要投食、陪我玩耍，还要陪我听音乐！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "如果天依变小了，你会把天依放在口袋里带走吗~？\n天依生日惊喜第二弹来啦！mini小天依在片中等你哦！\n请大家吃东西、看演出、睡觉的时候，都看看周围，有没有一只，哦不，一个可爱的小宝贝出现~如果发现了天依，记得要投食、陪我玩耍，还要陪我听音乐！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】如果天依变小了",
+      "desc": "#2019洛天依生日会#如果天依变小了，你会把天依放在口袋里带走吗~？\n天依生日惊喜第二弹来啦！mini小天依在片中等你哦！\n请大家吃东西、看演出、睡觉的时候，都看看周围，有没有一只，哦不，一个可爱的小宝贝出现~如果发现了天依，记得要投食、陪我玩耍，还要陪我听音乐！\nBGM：《Starlight》传送门→av58824435，彩蛋的神秘单曲请听今天的生日会啦！",
+      "jump_url": "https://www.bilibili.com/video/BV1At411L7hX",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/94b35b287d95c2ae0223c73f7028a6d0188e4bd7.jpg",
+      "cover_file": "../../_assets/covers/2019-07-12_2.jpg",
+      "bvid": "BV1At411L7hX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1At411L7hX",
+        "aid": "58883240",
+        "cover": "http://i1.hdslb.com/bfs/archive/94b35b287d95c2ae0223c73f7028a6d0188e4bd7.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1At411L7hX",
+        "stat": {
+          "danmaku": "1.1万",
+          "play": "57万",
+          "vt": ""
+        },
+        "duration_text": "05:06",
+        "title": "【洛天依】如果天依变小了",
+        "desc": "#2019洛天依生日会#如果天依变小了，你会把天依放在口袋里带走吗~？\n天依生日惊喜第二弹来啦！mini小天依在片中等你哦！\n请大家吃东西、看演出、睡觉的时候，都看看周围，有没有一只，哦不，一个可爱的小宝贝出现~如果发现了天依，记得要投食、陪我玩耍，还要陪我听音乐！\nBGM：《Starlight》传送门→av58824435，彩蛋的神秘单曲请听今天的生日会啦！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 50637,
+    "comment": 4079,
+    "forward": 312
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

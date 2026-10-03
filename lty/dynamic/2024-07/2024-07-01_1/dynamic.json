@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "id": "949035971127541768",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/949035971127541768",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月1日",
+    "pub_ts": 1719803056,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依“共鸣之夜”直播生日音乐会X星轶影城 线下影城活动即将开票啦！\n“只为在特别的时刻，与大家一起留下珍贵的回忆！”\n7月12日晚19:12，小伙伴们可凭票前往以下影城，观看天依的直播生日会~[洛天依·收藏集表情包_时间歌者]\n\n🔹活动票价：69元（随票赠限定周边礼品1份，每家影院数量300份，数量有限，送完为止）\n🔹开售时间：7月1日12:00\n🔹随票赠品：限定徽章、镭射票根、发光手环\n🔹购票地址：\n-星轶影城官方售票平台https://shop653629.fanzhi.cn/\n-其他售票平台：猫眼、美团APP\n\n主力店开设打卡布置，欢迎小伙伴们打卡互动~\n最终参与活动的影城请大家看长图哦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依“共鸣之夜”直播生日音乐会X星轶影城 线下影城活动即将开票啦！\n“只为在特别的时刻，与大家一起留下珍贵的回忆！”\n7月12日晚19:12，小伙伴们可凭票前往以下影城，观看天依的直播生日会~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹活动票价：69元（随票赠限定周边礼品1份，每家影院数量300份，数量有限，送完为止）\n🔹开售时间：7月1日12:00\n🔹随票赠品：限定徽章、镭射票根、发光手环\n🔹购票地址：\n-星轶影城官方售票平台"
+      },
+      {
+        "type": "text",
+        "text": "https://shop653629.fanzhi.cn/"
+      },
+      {
+        "type": "text",
+        "text": "\n-其他售票平台：猫眼、美团APP\n\n主力店开设打卡布置，欢迎小伙伴们打卡互动~\n最终参与活动的影城请大家看长图哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c747980c2692dad5094b8c562cfa6d2e36081646.jpg",
+        "width": 3168,
+        "height": 35857,
+        "size_kb": 16784.7109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/490051c977cef0cb302e62604f7fec3736081646.jpg",
+        "width": 3133,
+        "height": 31680,
+        "size_kb": 12585.599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-01_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ca649a1630ae71bd2058160debdc31cf36081646.jpg",
+        "width": 3165,
+        "height": 28828,
+        "size_kb": 19639.8203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4794,
+    "comment": 1114,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

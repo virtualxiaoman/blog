@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "802213033775464487",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/802213033775464487",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月1日",
+    "pub_ts": 1685618177,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "视频更新预告\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "视频更新预告"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-06-01_1.jpg",
+        "live_file": "",
+        "url": "http://i2.hdslb.com/bfs/archive/b46ed31eb6c3f3d57321ef07ce5ec2c6906074c8.jpg",
+        "width": 1280,
+        "height": 800,
+        "size_kb": 183.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：洛天依&HoneyWorks| Ah~今天一定要传递爱意，好きなんです 【恋爱色魔法】",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1pX4y1a7Cd",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：洛天依&HoneyWorks| Ah~今天一定要传递爱意，好きなんです 【恋爱色魔法】",
+        "desc1": {
+          "text": "预计2023-06-02 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "150.4万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1pX4y1a7Cd",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1pX4y1a7Cd",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1578710,
+        "reserve_total": 3429,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6528,
+    "comment": 275,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

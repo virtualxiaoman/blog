@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1242672529996251145",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1242672529996251145",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月31日",
+    "pub_ts": 1788170645,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "9999＋1！将彼此相伴共存的意义，一同放声歌唱吧~",
+      "desc": "《闪耀的Producer 2》发起人煮ル果実老师作品《9999》特别打歌舞台来啦！\n完整歌曲BV1khgH6oENg\n一起继续9999+1吧！天依看到了好多大家精彩的二创作品，求继续投喂~\n✨2026洛天依大型原创音乐征集活动「闪耀的Producer 2」火热进行中https://b23.tv/MBvh3P6\n\n◎Vocal / 洛天依\n◎Music / 煮ル果実\n◎Arrangement / 煮ル果実、Li-OH",
+      "jump_url": "https://www.bilibili.com/video/BV1Kzt86KEqk",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/f180d89adc0858fa074539c0dd719c2d5ebfd455.jpg",
+      "cover_file": "../../_assets/covers/2026-08-31_1.jpg",
+      "bvid": "BV1Kzt86KEqk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Kzt86KEqk",
+        "aid": "117189541627650",
+        "cover": "http://i1.hdslb.com/bfs/archive/f180d89adc0858fa074539c0dd719c2d5ebfd455.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Kzt86KEqk",
+        "stat": {
+          "danmaku": "98",
+          "play": "7.5万",
+          "vt": ""
+        },
+        "duration_text": "00:43",
+        "title": "9999＋1！将彼此相伴共存的意义，一同放声歌唱吧~",
+        "desc": "《闪耀的Producer 2》发起人煮ル果実老师作品《9999》特别打歌舞台来啦！\n完整歌曲BV1khgH6oENg\n一起继续9999+1吧！天依看到了好多大家精彩的二创作品，求继续投喂~\n✨2026洛天依大型原创音乐征集活动「闪耀的Producer 2」火热进行中https://b23.tv/MBvh3P6\n\n◎Vocal / 洛天依\n◎Music / 煮ル果実\n◎Arrangement / 煮ル果実、Li-OH",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 33275,
+    "comment": 719,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

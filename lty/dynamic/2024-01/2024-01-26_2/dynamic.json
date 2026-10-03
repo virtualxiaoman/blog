@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "890934920566800391",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/890934920566800391",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月26日",
+    "pub_ts": 1706275351,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果潜入福尔马林之海，时间与记忆都被凝固，深渊之中也想唱响终曲，又或许在这样的时刻，才能麻木所有孤寂。周五的夜晚，天依为大家带来这首有着特别味道旋律和心绪的歌曲，大家来听听看吧[洛天依蝶变_轻唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果潜入福尔马林之海，时间与记忆都被凝固，深渊之中也想唱响终曲，又或许在这样的时刻，才能麻木所有孤寂。周五的夜晚，天依为大家带来这首有着特别味道旋律和心绪的歌曲，大家来听听看吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4820,
+    "comment": 91,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 883357958304432136,
+    "orig_mid": 7045677,
+    "deleted": false,
+    "archive_dir": "../../../7045677/2024-01/2024-01-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

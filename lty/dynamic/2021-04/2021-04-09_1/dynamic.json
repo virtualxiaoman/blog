@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "511641436585408052",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/511641436585408052",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月9日",
+    "pub_ts": 1617964205,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "宇宙中漂流，最终会去向哪里呢？[洛天依·夜航星_起飞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "宇宙中漂流，最终会去向哪里呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5904,
+    "comment": 193,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 173284772000369156,
+    "orig_mid": 317866,
+    "deleted": false,
+    "archive_dir": "../../../317866/2018-10/2018-10-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:29:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

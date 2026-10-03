@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "651919926107308049",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/651919926107308049",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月22日",
+    "pub_ts": 1650625336,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 「 TAITO 洛天依 泳装Ver. 景品手办」 将于4月30日开启预售[洛天依_耶]  「清凉初夏，活力出击 换上夏日泳装，在初夏的海滩赴一场约会吧！」   ※【产品信息】 手办售价：99元 预订时间：2022年4月30日起 产品尺寸：高约18cm 出品品牌：TAITO 购买渠道：bilibili会员购独家（活动页面将会于23日0点公开）  详情请戳长图查看~↓↓↓\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 「 TAITO 洛天依 泳装Ver. 景品手办」 将于4月30日开启预售"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "  「清凉初夏，活力出击 换上夏日泳装，在初夏的海滩赴一场约会吧！」   ※【产品信息】 手办售价：99元 预订时间：2022年4月30日起 产品尺寸：高约18cm 出品品牌：TAITO 购买渠道：bilibili会员购独家（活动页面将会于23日0点公开）  详情请戳长图查看~↓↓↓"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-22_10.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8e835a9da4dc34cff2703bfd53ee5464d0ee399f.jpg",
+        "width": 3334,
+        "height": 29504,
+        "size_kb": 17504.23046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10679,
+    "comment": 1046,
+    "forward": 455
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:45:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

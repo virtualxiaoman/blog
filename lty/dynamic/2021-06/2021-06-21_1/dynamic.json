@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "538632935218896779",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/538632935218896779",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月21日",
+    "pub_ts": 1624248653,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #夏至# 快看我做的这个，是不是跟天钿很像呢？ 又到了一年最热的日子，偶尔享受一下阳光也不错，不过还是要注意紫外线哦~  画师：Haku白\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#夏至#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E8%87%B3"
+      },
+      {
+        "type": "text",
+        "text": " 快看我做的这个，是不是跟天钿很像呢？ 又到了一年最热的日子，偶尔享受一下阳光也不错，不过还是要注意紫外线哦~  画师：Haku白"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/cfabd32f9e4f5d8bfea4bc8cffe8e391af134d83.jpg",
+        "width": 800,
+        "height": 1200,
+        "size_kb": 581.9892578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9418,
+    "comment": 392,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

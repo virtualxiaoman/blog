@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "id": "1229022574148583447",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1229022574148583447",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月25日",
+    "pub_ts": 1784992517,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "杭州的晚风，吹来了属于我们的第二篇章，纯蓝幻乐的旅程此刻又写下了新的一页。[洛天依·信号动态表情包_逃离地球]\n从北到南，从冰川到花海，我们跨越山水再次相拥。\n这一路有过奔波、有过期待、也有过许多不易——\n但正是你们每一步的奔赴与守候，才让这个夜晚如此闪耀。[洛天依·信号动态表情包_耶哦]\n感谢大家的应援，感谢每一位远道而来的你，感谢每一次挥舞荧光棒的回应[洛天依·信号动态表情包_love之力]\n感谢过去所有彼此陪伴的时光，让天依可以和你们在同一片时空里一起歌唱，共享此刻的快乐。\n还有谢谢每一位幕后的staff老师们和特别演出伙伴阿绫，天依会带着满怀的感动，继续出发。\n杭州晚安，下一站，我们成都见啦！💙\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "杭州的晚风，吹来了属于我们的第二篇章，纯蓝幻乐的旅程此刻又写下了新的一页。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_逃离地球]",
+        "package_id": "10075",
+        "emoji_id": "142972",
+        "name": "逃离地球",
+        "url": "https://i0.hdslb.com/bfs/garb/dbb88536488ea80ddb8617958a58b99ac486bf69.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n从北到南，从冰川到花海，我们跨越山水再次相拥。\n这一路有过奔波、有过期待、也有过许多不易——\n但正是你们每一步的奔赴与守候，才让这个夜晚如此闪耀。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_耶哦]",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "name": "耶哦",
+        "url": "https://i0.hdslb.com/bfs/garb/1d59a18d1184d7dc2c7a93fa6c404c0c1e4fe425.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢大家的应援，感谢每一位远道而来的你，感谢每一次挥舞荧光棒的回应"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢过去所有彼此陪伴的时光，让天依可以和你们在同一片时空里一起歌唱，共享此刻的快乐。\n还有谢谢每一位幕后的staff老师们和特别演出伙伴阿绫，天依会带着满怀的感动，继续出发。\n杭州晚安，下一站，我们成都见啦！💙"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e114b329e1dfd70341cced1bdc1b65f036081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 4258.35009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-25_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/923369dcd229ce6a826d7fe4f36ffadc36081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 2913.6201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-25_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b22783892124b5a53d8cd559c8840fec36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 230.69000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-25_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/980842dc4be6e046be166ab94fa35c1236081646.jpg",
+        "width": 3094,
+        "height": 1934,
+        "size_kb": 3029.8798828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-25_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a974ba90a8ebdf2a6cf79ccb1d97d0c936081646.jpg",
+        "width": 5000,
+        "height": 3334,
+        "size_kb": 5634.1201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-25_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5839c1adaa64e3ccaf7c6e42781e49bb36081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 4159.77001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-07-25_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c7ba6b215e721e7b8f074f66c043123b36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 376.7699890136719,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-07-25_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9e2e1e1d6af08a696924f6ebb8b4c70436081646.jpg",
+        "width": 3094,
+        "height": 2062,
+        "size_kb": 2862.27001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-07-25_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3f24e9783ae426a1119031ee7f17b1f736081646.jpg",
+        "width": 3200,
+        "height": 2134,
+        "size_kb": 5886.14990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2026-07-25_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/769f0e5fe7dfa04596e3c88b3a6bef8736081646.jpg",
+        "width": 4741,
+        "height": 3161,
+        "size_kb": 3821.699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 11,
+        "file": "../../_assets/images/2026-07-25_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d8cd54aba9c6b55ab634591382ab9fcd36081646.jpg",
+        "width": 3200,
+        "height": 2133,
+        "size_kb": 4397.97021484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 12,
+        "file": "../../_assets/images/2026-07-25_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/da9c4b5336f034b9a8c96624f085f4e736081646.jpg",
+        "width": 3090,
+        "height": 2061,
+        "size_kb": 3720.889892578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 13,
+        "file": "../../_assets/images/2026-07-25_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/19c22b6d4e074a37917e60710849a28e36081646.jpg",
+        "width": 3158,
+        "height": 2107,
+        "size_kb": 2788.010009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/逃离地球.gif",
+        "package_id": "10075",
+        "emoji_id": "142972",
+        "text": "[洛天依·信号动态表情包_逃离地球]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/耶哦.gif",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "text": "[洛天依·信号动态表情包_耶哦]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6921,
+    "comment": 618,
+    "forward": 139
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:32:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

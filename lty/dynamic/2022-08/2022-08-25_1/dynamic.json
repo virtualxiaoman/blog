@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "698203253987344421",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/698203253987344421",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月25日",
+    "pub_ts": 1661401513,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "来啦！！我们一起唱！！[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来啦！！我们一起唱！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7882,
+    "comment": 247,
+    "forward": 87
+  },
+  "forward": {
+    "orig_id": 698199818017701913,
+    "orig_mid": 290069256,
+    "deleted": false,
+    "archive_dir": "../../../290069256/2022-08/2022-08-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

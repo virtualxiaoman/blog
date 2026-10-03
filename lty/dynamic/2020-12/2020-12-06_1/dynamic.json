@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "465636701848949334",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/465636701848949334",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月6日",
+    "pub_ts": 1607252893,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "让爱温暖所有仍在孤独彷徨的人[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让爱温暖所有仍在孤独彷徨的人"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5601,
+    "comment": 102,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 464901493648496162,
+    "orig_mid": 330383888,
+    "deleted": false,
+    "archive_dir": "../../../330383888/2020-12/2020-12-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

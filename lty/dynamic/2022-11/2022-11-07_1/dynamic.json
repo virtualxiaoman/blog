@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "725633956044603417",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/725633956044603417",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月7日",
+    "pub_ts": 1667788221,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有冬要来，有雪入怀。 “一剑霜寒十四州！” #洛天依# #立冬#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有冬要来，有雪入怀。 “一剑霜寒十四州！” "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#立冬#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%AB%8B%E5%86%AC"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-07_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/22713626d0548fbf22f6ed89996d957d36081646.jpg",
+        "width": 2800,
+        "height": 3733,
+        "size_kb": 4938.419921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14591,
+    "comment": 822,
+    "forward": 318
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

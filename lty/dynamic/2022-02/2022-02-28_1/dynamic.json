@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "632276326295797798",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/632276326295797798",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月28日",
+    "pub_ts": 1646051704,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#跟着我们的歌声，再赏一番美好的秋景吧~[洛天依·夜航星_崇拜]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "跟着我们的歌声，再赏一番美好的秋景吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6526,
+    "comment": 167,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 629201992927238948,
+    "orig_mid": 85722894,
+    "deleted": false,
+    "archive_dir": "../../../85722894/2022-02/2022-02-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

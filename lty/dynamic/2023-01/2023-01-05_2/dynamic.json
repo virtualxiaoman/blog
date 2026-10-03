@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "747651706473414678",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/747651706473414678",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月5日",
+    "pub_ts": 1672914628,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "离开A星，α之前跟丢的那组稳定而微弱的信号逐渐变强，一行人跟随信号，来到了繁荣发达的G星。\n“大家发现没有，这里有些奇怪！”\n“有一种很熟悉的感觉。”\n奇怪的G星会藏着什么秘密呢？[洛天依_看透一切]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "离开A星，α之前跟丢的那组稳定而微弱的信号逐渐变强，一行人跟随信号，来到了繁荣发达的G星。\n“大家发现没有，这里有些奇怪！”\n“有一种很熟悉的感觉。”\n奇怪的G星会藏着什么秘密呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_看透一切]",
+        "package_id": "9",
+        "emoji_id": "200",
+        "name": "看透一切",
+        "url": "http://i0.hdslb.com/bfs/emote/4fac414b5002c3739b1ae24f2fc27b5f150ade24.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-05_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/7173591ace78035a0f047611f739b62e36081646.jpg",
+        "width": 9600,
+        "height": 4800,
+        "size_kb": 2581.5673828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9/看透一切.png",
+        "package_id": "9",
+        "emoji_id": "200",
+        "text": "[洛天依_看透一切]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11387,
+    "comment": 300,
+    "forward": 138
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

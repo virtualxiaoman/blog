@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "731327892971061298",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/731327892971061298",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月22日",
+    "pub_ts": 1669113944,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这就是属于创作的浪漫吧[洛天依9th_太好听了]有把这样好听的旋律好好唱出来吗[洛天依_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这就是属于创作的浪漫吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      },
+      {
+        "type": "text",
+        "text": "有把这样好听的旋律好好唱出来吗"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      },
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6377,
+    "comment": 109,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 729831887135047750,
+    "orig_mid": 2374053,
+    "deleted": false,
+    "archive_dir": "../../../2374053/2022-11/2022-11-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

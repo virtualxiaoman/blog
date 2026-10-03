@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "515237543989386315",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/515237543989386315",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月19日",
+    "pub_ts": 1618801489,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "遇上可口可乐家族【阳光】，快乐正在放电，新造型希望大家喜欢！快来一起关注@阳光官方账号 ，在原po盖楼，我和阳光还有更多惊喜和福利等你来哦！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "遇上可口可乐家族【阳光】，快乐正在放电，新造型希望大家喜欢！快来一起关注@阳光官方账号 ，在原po盖楼，我和阳光还有更多惊喜和福利等你来哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5115,
+    "comment": 276,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 515236367165196882,
+    "orig_mid": 1112872247,
+    "deleted": false,
+    "archive_dir": "../../../1112872247/2021-04/2021-04-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

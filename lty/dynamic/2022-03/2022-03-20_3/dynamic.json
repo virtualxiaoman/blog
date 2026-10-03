@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "639748083331104816",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/639748083331104816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月20日",
+    "pub_ts": 1647791358,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "音援疫线 | 24位UP主云合唱《梦想的翅膀》，为抗疫加油！",
+      "desc": "共创UP主（首字母顺序）：\nJason-老湿\nkkkirby\nVaniah维\n阿萨Aza\n宝剑嫂\n陈家淇_B11\n赤羽\n倒悬的橘子\n东尼ookii\n何屹繁\n九三的耳朵不是特别好\n拉宏桑\n李沐籽\n泠鸢yousa\n洛天依\n咩咩爱睡懒觉\n邵艾伦Alan\n深海色带鱼\n我是瞳瞳啊\n星尘Infinity\n邢不行先生/李不理小姐\n徐香复丫\n乐正绫\n拯救世界的狗子\n\n调校：哈士奇（洛天依、乐正绫），瑞安Ryan（星尘Infinity、赤羽）",
+      "jump_url": "https://www.bilibili.com/video/BV1Z34y1t7kr",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/522d8465c7e11d2e849559a7a43c5c21a19d5114.jpg",
+      "cover_file": "../../_assets/covers/2022-03-20_1.jpg",
+      "bvid": "BV1Z34y1t7kr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Z34y1t7kr",
+        "aid": "809947713",
+        "cover": "http://i0.hdslb.com/bfs/archive/522d8465c7e11d2e849559a7a43c5c21a19d5114.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Z34y1t7kr",
+        "stat": {
+          "danmaku": "5358",
+          "play": "66.4万",
+          "vt": ""
+        },
+        "duration_text": "04:45",
+        "title": "音援疫线 | 24位UP主云合唱《梦想的翅膀》，为抗疫加油！",
+        "desc": "共创UP主（首字母顺序）：\nJason-老湿\nkkkirby\nVaniah维\n阿萨Aza\n宝剑嫂\n陈家淇_B11\n赤羽\n倒悬的橘子\n东尼ookii\n何屹繁\n九三的耳朵不是特别好\n拉宏桑\n李沐籽\n泠鸢yousa\n洛天依\n咩咩爱睡懒觉\n邵艾伦Alan\n深海色带鱼\n我是瞳瞳啊\n星尘Infinity\n邢不行先生/李不理小姐\n徐香复丫\n乐正绫\n拯救世界的狗子\n\n调校：哈士奇（洛天依、乐正绫），瑞安Ryan（星尘Infinity、赤羽）",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 54492,
+    "comment": 2036,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

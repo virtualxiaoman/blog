@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "994337039910436871",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/994337039910436871",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月31日",
+    "pub_ts": 1730350533,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "Happy Halloween!\n万圣夜限定副本【幽灵古堡】即将开启~[代号洛天依_wink]\n\n你将遇到——\n🦇神秘莫测的吸血鬼管家\n🧸抱着玩偶的可怜小女孩\n👻一直跟在你身后的小幽灵\n🎃 不断留下谜题的魔药巫女\n\n你会选择相信谁的指引？答应谁的求助呢？ [代号洛天依_我有个秘密]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "Happy Halloween!\n万圣夜限定副本【幽灵古堡】即将开启~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你将遇到——\n🦇神秘莫测的吸血鬼管家\n🧸抱着玩偶的可怜小女孩\n👻一直跟在你身后的小幽灵\n🎃 不断留下谜题的魔药巫女\n\n你会选择相信谁的指引？答应谁的求助呢？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_我有个秘密]",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "name": "我有个秘密",
+        "url": "https://i0.hdslb.com/bfs/emote/e8a1f0a3f2176c9c82df39181fbd69f3fe6b7ebd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-31_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4b8e3180382100e810be8c31cfbf33f836081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 1098.0302734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-31_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7136a9c6cc5e6b36ef1322250a3165fc36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 498.3662109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-31_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/68881a676b8070a7f256371445ba7d0336081646.jpg",
+        "width": 2000,
+        "height": 2000,
+        "size_kb": 1097.1171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-10-31_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/958b87ea87067797adbfb6ca4df38e5736081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 514.13671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/我有个秘密.png",
+        "package_id": "1842",
+        "emoji_id": "32146",
+        "text": "[代号洛天依_我有个秘密]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5714,
+    "comment": 301,
+    "forward": 125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

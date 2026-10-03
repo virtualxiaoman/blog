@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "id": "1210696588643532807",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1210696588643532807",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月6日",
+    "pub_ts": 1780725666,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依正在向你发送一则「BlueWalk」邀请！[洛天依拜年纪表情包_宝贝]\n\n「天依蓝」是洛天依的代表色，也是 #洛天依纯蓝幻乐巡演# 的主题\n即日起-6月30日，@PANTONE潘通 把“蓝”从想象带入现实，一同邀你捕捉与天依相连的蓝色瞬间~[洛天依拜年纪表情包_命令]\n\n🩵参与方式\n在各大平台带话题#洛天依2026巡演# #PANTONE# \n以图文形式发布你捕捉到的“蓝色内容”\n可以是摄影，也可以是艺术创作~\n\n🩵活动奖励\n让天依加入你制作的蓝色画面，有机会获得\n洛天依「纯蓝幻乐」巡演门票、洛天依周边和Pantone 2026年度代表色主题周边礼品\n优秀作品还有机会登上演唱会现场大屏哦！\n\n让天依在大家的世界里，用蓝色和大家紧密相连吧~[洛天依拜年纪表情包_揉脸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依正在向你发送一则「BlueWalk」邀请！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_宝贝]",
+        "package_id": "9452",
+        "emoji_id": "132899",
+        "name": "宝贝",
+        "url": "https://i0.hdslb.com/bfs/garb/c7604b19597f76152a303426ed82a986607615a2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n「天依蓝」是洛天依的代表色，也是 "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依纯蓝幻乐巡演#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BA%AF%E8%93%9D%E5%B9%BB%E4%B9%90%E5%B7%A1%E6%BC%94"
+      },
+      {
+        "type": "text",
+        "text": " 的主题\n即日起-6月30日，"
+      },
+      {
+        "type": "mention",
+        "text": "@PANTONE潘通 ",
+        "mid": 1053708339,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "把“蓝”从想象带入现实，一同邀你捕捉与天依相连的蓝色瞬间~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_命令]",
+        "package_id": "9452",
+        "emoji_id": "132898",
+        "name": "命令",
+        "url": "https://i0.hdslb.com/bfs/garb/defde6915cdc8dec4de939afa89de59df0aa3b20.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🩵参与方式\n在各大平台带话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依2026巡演#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#PANTONE#",
+        "url": "https://search.bilibili.com/all?keyword=PANTONE"
+      },
+      {
+        "type": "text",
+        "text": " \n以图文形式发布你捕捉到的“蓝色内容”\n可以是摄影，也可以是艺术创作~\n\n🩵活动奖励\n让天依加入你制作的蓝色画面，有机会获得\n洛天依「纯蓝幻乐」巡演门票、洛天依周边和Pantone 2026年度代表色主题周边礼品\n优秀作品还有机会登上演唱会现场大屏哦！\n\n让天依在大家的世界里，用蓝色和大家紧密相连吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪表情包_揉脸]",
+        "package_id": "9452",
+        "emoji_id": "132906",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/5a37511ef2b548bafbf0afd8ce5510493d099e16.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-06_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/371e704e312ac192211ffdfa759c498936081646.jpg",
+        "width": 2170,
+        "height": 2893,
+        "size_kb": 5605.68017578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-06-06_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/07813dfcec835c33bffda0d1bd48d74136081646.jpg",
+        "width": 2000,
+        "height": 9410,
+        "size_kb": 6743.009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9452/宝贝.png",
+        "package_id": "9452",
+        "emoji_id": "132899",
+        "text": "[洛天依拜年纪表情包_宝贝]"
+      },
+      {
+        "file": "../../_assets/emojis/9452/命令.png",
+        "package_id": "9452",
+        "emoji_id": "132898",
+        "text": "[洛天依拜年纪表情包_命令]"
+      },
+      {
+        "file": "../../_assets/emojis/9452/揉脸.png",
+        "package_id": "9452",
+        "emoji_id": "132906",
+        "text": "[洛天依拜年纪表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十四周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十四周年生日会",
+        "desc1": {
+          "text": "07-12 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "11.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Switch2*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=5592429&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5592429,
+        "reserve_total": 113916,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6928,
+    "comment": 481,
+    "forward": 149
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:23:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

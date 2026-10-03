@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1186893858437332992",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1186893858437332992",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月3日",
+    "pub_ts": 1775183661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一个“洛”唱给你听，一个“洛”陪你长大~\n当旧日旋律再次响起，小洛克，是时候回家啦！[洛天依拜年纪动态表情包_揉脸]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一个“洛”唱给你听，一个“洛”陪你长大~\n当旧日旋律再次响起，小洛克，是时候回家啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依拜年纪动态表情包_揉脸]",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "name": "揉脸",
+        "url": "https://i0.hdslb.com/bfs/garb/b696955095bea4e2175a8e6e361e58314a6f0504.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9451/揉脸.gif",
+        "package_id": "9451",
+        "emoji_id": "132886",
+        "text": "[洛天依拜年纪动态表情包_揉脸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4137,
+    "comment": 195,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 1186892737431994372,
+    "orig_mid": 626796832,
+    "deleted": false,
+    "archive_dir": "../../../626796832/2026-04/2026-04-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

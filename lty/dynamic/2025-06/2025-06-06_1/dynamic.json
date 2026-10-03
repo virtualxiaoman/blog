@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "1075289704469889047",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1075289704469889047",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月6日",
+    "pub_ts": 1749198794,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "飞吧，飞吧 \n这是浓墨重彩的落点，也是新征程的起点\n向着远方，无畏飞翔吧~\n明天就是高考的日子啦，加油加油！天依祝福大家取得好成绩！ [洛天依·戏游九州动态_撒花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "飞吧，飞吧 \n这是浓墨重彩的落点，也是新征程的起点\n向着远方，无畏飞翔吧~\n明天就是高考的日子啦，加油加油！天依祝福大家取得好成绩！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-06_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/99a3deb7fbc2cd3aff7be67155358af336081646.png",
+        "width": 1620,
+        "height": 2880,
+        "size_kb": 3850.86328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9823,
+    "comment": 811,
+    "forward": 172
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:30:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

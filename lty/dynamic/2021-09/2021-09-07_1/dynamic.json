@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "567552131140525189",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/567552131140525189",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月7日",
+    "pub_ts": 1630981928,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  ☆ 游学第一站，云端之城！☆  『洁白无暇的云层中，藏着一座小城 居住在这里的人们，就是神秘的云朵制造师 而云朵就是由…… “天依！看住小羊，不可以让他们飞走咯~”』  诶诶，我要去工作啦！ 如果感到炎热的时候看到天空飘来了云朵，可能是我听到你的呼唤哦[洛天依·夜航星_比心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  ☆ 游学第一站，云端之城！☆  『洁白无暇的云层中，藏着一座小城 居住在这里的人们，就是神秘的云朵制造师 而云朵就是由…… “天依！看住小羊，不可以让他们飞走咯~”』  诶诶，我要去工作啦！ 如果感到炎热的时候看到天空飘来了云朵，可能是我听到你的呼唤哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-09-07_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/01e35e07411eecabc6f689a73f0094c4f689766f.png",
+        "width": 1800,
+        "height": 1600,
+        "size_kb": 1908.984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6237,
+    "comment": 145,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:35:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

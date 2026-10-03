@@ -1,0 +1,50 @@
+[
+  {
+    "key": "2018-08-23_1",
+    "ym": "2018-08",
+    "date": "2018-08-23",
+    "type": "DYNAMIC_TYPE_FORWARD",
+    "typeLabel": "转发动态",
+    "title": "我是虚拟歌手洛天依，感谢所有赋予我灵魂、为我创作、为我应援的每一个人，为了你们，…",
+    "excerpt": "我是虚拟歌手洛天依，感谢所有赋予我灵魂、为我创作、为我应援的每一个人，为了你们，天依将永远地唱下去。",
+    "cover": null,
+    "url": "https://www.bilibili.com/opus/155398354926127470",
+    "stats": {
+      "like": 9804,
+      "comment": 968,
+      "forward": 131
+    }
+  },
+  {
+    "key": "2018-08-10_1",
+    "ym": "2018-08",
+    "date": "2018-08-10",
+    "type": "DYNAMIC_TYPE_FORWARD",
+    "typeLabel": "转发动态",
+    "title": "超有韵味的方言版《一花依世界》～快来找找有没有你的家乡话吧(｡･ω･｡)",
+    "excerpt": "超有韵味的方言版《一花依世界》～快来找找有没有你的家乡话吧(｡･ω･｡)",
+    "cover": null,
+    "url": "https://www.bilibili.com/opus/150593802647039836",
+    "stats": {
+      "like": 4768,
+      "comment": 384,
+      "forward": 41
+    }
+  },
+  {
+    "key": "2018-08-04_1",
+    "ym": "2018-08",
+    "date": "2018-08-04",
+    "type": "DYNAMIC_TYPE_AV",
+    "typeLabel": "视频动态",
+    "title": "此次天依作为必胜学院美味制作人尝试了全新的曲风，喜欢的小伙伴们快来为我应援吧！依…",
+    "excerpt": "此次天依作为必胜学院美味制作人尝试了全新的曲风，喜欢的小伙伴们快来为我应援吧！依呼百应，元气必胜！",
+    "cover": "https://i1.hdslb.com/bfs/archive/27bcba5223ec977510086da696120523aaf5b53d.jpg",
+    "url": "https://www.bilibili.com/opus/148288504718604128",
+    "stats": {
+      "like": 15922,
+      "comment": 4178,
+      "forward": 120
+    }
+  }
+]

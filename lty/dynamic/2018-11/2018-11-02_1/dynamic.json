@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "181735085794543782",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/181735085794543782",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年11月2日",
+    "pub_ts": 1541151897,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#vsinger殿堂# hello hello~今天的月亮好像很圆，不如一起去兜风吧[羞嗒嗒]好曲好词配上唯美的PV，你有没有一点点心动呢？(≧∇≦)ﾉ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#vsinger殿堂#",
+        "url": "https://search.bilibili.com/all?keyword=vsinger%E6%AE%BF%E5%A0%82"
+      },
+      {
+        "type": "text",
+        "text": " hello hello~今天的月亮好像很圆，不如一起去兜风吧"
+      },
+      {
+        "type": "text",
+        "text": "[羞嗒嗒]"
+      },
+      {
+        "type": "text",
+        "text": "好曲好词配上唯美的PV，你有没有一点点心动呢？(≧∇≦)ﾉ"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3388,
+    "comment": 234,
+    "forward": 15
+  },
+  "forward": {
+    "orig_id": 181672821654569395,
+    "orig_mid": 11245348,
+    "deleted": false,
+    "archive_dir": "../../../11245348/2018-11/2018-11-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:19:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

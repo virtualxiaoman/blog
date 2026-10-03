@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1117979707996897302",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1117979707996897302",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月29日",
+    "pub_ts": 1759138335,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "期待下一次相遇[逆转童话动态_哭哭]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "期待下一次相遇"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_哭哭]",
+        "package_id": "8744",
+        "emoji_id": "121357",
+        "name": "哭哭",
+        "url": "https://i0.hdslb.com/bfs/garb/6a189677eabee34d876cae61f01e457d1c124ad3.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/哭哭.gif",
+        "package_id": "8744",
+        "emoji_id": "121357",
+        "text": "[逆转童话动态_哭哭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3497,
+    "comment": 126,
+    "forward": 12
+  },
+  "forward": {
+    "orig_id": 1117941740530040885,
+    "orig_mid": 1396430145,
+    "deleted": false,
+    "archive_dir": "../../../1396430145/2025-09/2025-09-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:40:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

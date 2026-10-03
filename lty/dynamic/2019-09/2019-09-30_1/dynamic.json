@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "304971480069433150",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/304971480069433150",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年9月30日",
+    "pub_ts": 1569845106,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "BML2019单品\n《天行健》\n演唱：洛天依\n《黑凤梨》\n演唱：洛天依",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "BML2019单品\n《天行健》\n演唱：洛天依\n《黑凤梨》\n演唱：洛天依"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天行健&黑凤梨【BML2019单品】",
+      "desc": "BML2019单品\n《天行健》\n演唱：洛天依\n《黑凤梨》\n演唱：洛天依",
+      "jump_url": "https://www.bilibili.com/video/BV17J411M7ch",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f7b8342f0546bfc806bf1209dcca5a0b5ddbd0b5.jpg",
+      "cover_file": "../../_assets/covers/2019-09-30_1.jpg",
+      "bvid": "BV17J411M7ch",
+      "extra": {
+        "type": 2,
+        "bvid": "BV17J411M7ch",
+        "aid": "68742903",
+        "cover": "http://i0.hdslb.com/bfs/archive/f7b8342f0546bfc806bf1209dcca5a0b5ddbd0b5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV17J411M7ch",
+        "stat": {
+          "danmaku": "8461",
+          "play": "59.6万",
+          "vt": ""
+        },
+        "duration_text": "07:47",
+        "title": "天行健&黑凤梨【BML2019单品】\r",
+        "desc": "BML2019单品\n《天行健》\n演唱：洛天依\n《黑凤梨》\n演唱：洛天依",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "BILIBILI MACRO LINK  2019",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss32836",
+      "cover_url": "http://i0.hdslb.com/bfs/bangumi/image/192a612ce004057c366ded3b1dc01873ae1e8a06.jpg",
+      "cover_file": "../../_assets/covers/2019-09-30_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss32836",
+        "id_str": "68742903",
+        "cover": "http://i0.hdslb.com/bfs/bangumi/image/192a612ce004057c366ded3b1dc01873ae1e8a06.jpg",
+        "style": 2,
+        "title": "BILIBILI MACRO LINK  2019",
+        "desc1": "bilibili出品 已完结, 全3集",
+        "desc2": "28.5万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28480,
+    "comment": 2284,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

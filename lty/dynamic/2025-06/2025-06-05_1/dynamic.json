@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1074954477980614660",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1074954477980614660",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月5日",
+    "pub_ts": 1749120743,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "code：TY712 为你歌唱，为你起舞~\n条条老师的发起人单曲来啦，记得预约哦，6月7日，大家来听吧！[歌行宇宙表情包_降临]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "code：TY712 为你歌唱，为你起舞~\n条条老师的发起人单曲来啦，记得预约哦，6月7日，大家来听吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_降临]",
+        "package_id": "5880",
+        "emoji_id": "86906",
+        "name": "降临",
+        "url": "https://i0.hdslb.com/bfs/garb/6d87251d0caa8b18ff773691509e23bb8770ab46.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/降临.png",
+        "package_id": "5880",
+        "emoji_id": "86906",
+        "text": "[歌行宇宙表情包_降临]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5161,
+    "comment": 265,
+    "forward": 51
+  },
+  "forward": {
+    "orig_id": 1074930855633223683,
+    "orig_mid": 396194,
+    "deleted": false,
+    "archive_dir": "../../../396194/2025-06/2025-06-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

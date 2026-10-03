@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "970319724485279748",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/970319724485279748",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月27日",
+    "pub_ts": 1724758566,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "大家的许愿歌曲清单接收完毕！[心律共鸣动态表情包_真好]\n天依来回应大家的心愿啦，会有以下三首歌曲，将在本次洛天依无限共鸣演唱会上为大家演出哦！\n🦋《蝴蝶》by 瞿子千&温莨\n⛰《上山岗》by ilem 洛天依 原创《上山岗》\n🍍《黑凤梨》by Z新豪 【首發】黑凤梨 - 洛天依【Z新豪】\n有首次为大家线下演出的歌曲，也有多次为大家呈现的经典舞台~\n8月30日晚20:00，演唱会正式开票，期待与大家相见呀！[心律共鸣动态表情包_啾啾]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家的许愿歌曲清单接收完毕！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依来回应大家的心愿啦，会有以下三首歌曲，将在本次洛天依无限共鸣演唱会上为大家演出哦！\n🦋《蝴蝶》by 瞿子千&温莨\n⛰《上山岗》by ilem "
+      },
+      {
+        "type": "video",
+        "text": "洛天依 原创《上山岗》",
+        "url": "https://www.bilibili.com/video/av80155822",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "🍍《黑凤梨》by Z新豪 "
+      },
+      {
+        "type": "video",
+        "text": "【首發】黑凤梨 - 洛天依【Z新豪】",
+        "url": "https://www.bilibili.com/video/av24929108",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "有首次为大家线下演出的歌曲，也有多次为大家呈现的经典舞台~\n8月30日晚20:00，演唱会正式开票，期待与大家相见呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-27_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f42469ec4fda68627d99fbe42c8f4a6336081646.png",
+        "width": 1080,
+        "height": 4548,
+        "size_kb": 7783.5185546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·洛天依2024无限共鸣演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202408/or0iy18f1724401612225.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91180&msource=cps_Mdynamic_36081646_cont-2-970319724485279748&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-08-27_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5100,
+    "comment": 330,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

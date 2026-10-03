@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1220395827423346691",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1220395827423346691",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月2日",
+    "pub_ts": 1782983946,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依把歌声带到新的世界啦！7月8日，调好准星，踩上节拍，在《生死狙击2》里，与天依完成这场跨次元共鸣吧~[洛天依·人格镜像 动态表情包_你好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依把歌声带到新的世界啦！7月8日，调好准星，踩上节拍，在《生死狙击2》里，与天依完成这场跨次元共鸣吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_你好]",
+        "package_id": "9834",
+        "emoji_id": "138849",
+        "name": "你好",
+        "url": "https://i0.hdslb.com/bfs/garb/d292cfbe5790c2c2a4dbaac6e8c0a4553bbfb1b4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/你好.gif",
+        "package_id": "9834",
+        "emoji_id": "138849",
+        "text": "[洛天依·人格镜像 动态表情包_你好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3839,
+    "comment": 133,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 1220378553026084865,
+    "orig_mid": 384306796,
+    "deleted": false,
+    "archive_dir": "../../../384306796/2026-07/2026-07-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:26:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

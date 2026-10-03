@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1184320348362899476",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1184320348362899476",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月27日",
+    "pub_ts": 1774584469,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "🍃春风拂柳，万物复苏，春日序章已悄然开启~[洛天依国乐季动态表情包_wink]\n洛天依-元素季风·春日序·周边礼盒&坐姿毛绒玩偶来啦！\n\n🍃周边礼盒🍃\n内含：马口铁徽章、木质挂件、毛绒挂件\n拍立得、色纸、立牌\n\n🍃猫噜噜坐姿毛绒玩偶🍃\n服饰可穿脱\n\n🍃 预售开启时间：3月27号12:00 \n和天依一起领略属于春日的限定浪漫吧！[洛天依国乐季动态表情包_爱你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🍃春风拂柳，万物复苏，春日序章已悄然开启~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依-元素季风·春日序·周边礼盒&坐姿毛绒玩偶来啦！\n\n🍃周边礼盒🍃\n内含：马口铁徽章、木质挂件、毛绒挂件\n拍立得、色纸、立牌\n\n🍃猫噜噜坐姿毛绒玩偶🍃\n服饰可穿脱\n\n🍃 预售开启时间：3月27号12:00 \n和天依一起领略属于春日的限定浪漫吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/815f3fb00b5fe6b24e08f081d039a2ed36081646.jpg",
+        "width": 2083,
+        "height": 14108,
+        "size_kb": 5003.478515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-03-27_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3c7d505f7f4e7768502969a5a386b36f36081646.jpg",
+        "width": 1000,
+        "height": 12137,
+        "size_kb": 4291.5615234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7145,
+    "comment": 275,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

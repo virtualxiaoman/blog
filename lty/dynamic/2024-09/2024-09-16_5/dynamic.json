@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "977772588026560520",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/977772588026560520",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月16日",
+    "pub_ts": 1726493821,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "清荷映月，曲水流光，今晚的《又见·明月光》，有没有唱到你的心里呀？\n转发评论这条动态，关注天依，揪1位小伙伴送出【无限共鸣全息演唱会 下午场1380档门票】1张哦～小伙伴们中秋快乐呀！\n舞台不仅是天依的演绎，更离不开银临老师的创作，各位创作改编节目的staff也辛苦啦～感谢#中秋漫游夜# 的邀请，让天依跨越虚拟与现实，从湖光水色到繁星月夜，自渺渺天边到唯美人间，在如梦似幻的水乡美景间尽情漫游，希望大家可以喜欢这个舞台！[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "清荷映月，曲水流光，今晚的《又见·明月光》，有没有唱到你的心里呀？\n转发评论这条动态，关注天依，揪1位小伙伴送出【无限共鸣全息演唱会 下午场1380档门票】1张哦～小伙伴们中秋快乐呀！\n舞台不仅是天依的演绎，更离不开银临老师的创作，各位创作改编节目的staff也辛苦啦～感谢"
+      },
+      {
+        "type": "topic",
+        "text": "#中秋漫游夜#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%A7%8B%E6%BC%AB%E6%B8%B8%E5%A4%9C"
+      },
+      {
+        "type": "text",
+        "text": " 的邀请，让天依跨越虚拟与现实，从湖光水色到繁星月夜，自渺渺天边到唯美人间，在如梦似幻的水乡美景间尽情漫游，希望大家可以喜欢这个舞台！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5998,
+    "comment": 1990,
+    "forward": 2415
+  },
+  "forward": {
+    "orig_id": 977745525431336997,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-09-16_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:19:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

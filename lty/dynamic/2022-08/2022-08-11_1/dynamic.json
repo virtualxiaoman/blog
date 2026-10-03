@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "692992414871191587",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/692992414871191587",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月11日",
+    "pub_ts": 1660188270,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "荣光为你们加冕，这份闪耀的星光，属于每一位创作者，也属于一直聆听支持着他们的你们[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "荣光为你们加冕，这份闪耀的星光，属于每一位创作者，也属于一直聆听支持着他们的你们"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6179,
+    "comment": 105,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 692801881549832214,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-08/2022-08-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

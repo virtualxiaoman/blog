@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "492986679928862714",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/492986679928862714",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月18日",
+    "pub_ts": 1613620806,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# #转发抽奖#准备好了吗？第七题要来了~ 四季更迭，万物生长有时，古人因此发明了二十四节气，并依此安排农耕作息。 去年的五月，天依也曾在电视演出上演唱一首以节气为名的歌曲，小伙伴们肯定知道是哪个节气的，对吧？ 天依会送出5张色纸给幸运小伙伴，转发＋评论正确答案，这个好看的旗袍色纸就有可能是你的啦[洛天依·夜航星_锦鲤] 画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "准备好了吗？第七题要来了~ 四季更迭，万物生长有时，古人因此发明了二十四节气，并依此安排农耕作息。 去年的五月，天依也曾在电视演出上演唱一首以节气为名的歌曲，小伙伴们肯定知道是哪个节气的，对吧？ 天依会送出5张色纸给幸运小伙伴，转发＋评论正确答案，这个好看的旗袍色纸就有可能是你的啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_锦鲤]",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "name": "锦鲤",
+        "url": "http://i0.hdslb.com/bfs/emote/35ab588061c32f07743b07f1ac3f62a16f34438c.png"
+      },
+      {
+        "type": "text",
+        "text": " 画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-18_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/43dcbd783861c32e203a9952cd715b9092e693ea.jpg",
+        "width": 750,
+        "height": 750,
+        "size_kb": 446.4892578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/锦鲤.png",
+        "package_id": "166",
+        "emoji_id": "3074",
+        "text": "[洛天依·夜航星_锦鲤]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9168,
+    "comment": 2382,
+    "forward": 2247
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

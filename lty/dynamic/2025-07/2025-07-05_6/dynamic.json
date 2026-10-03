@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1086094746947944484",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1086094746947944484",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月5日",
+    "pub_ts": 1751714539,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "欢迎来到我们的茶话会～[洛天依-潮声回响_摸摸头]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "欢迎来到我们的茶话会～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4074,
+    "comment": 90,
+    "forward": 152
+  },
+  "forward": {
+    "orig_id": 1086090799919136772,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2025-07/2025-07-05_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:33:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

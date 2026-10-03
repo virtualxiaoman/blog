@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "846413057612578819",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/846413057612578819",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月28日",
+    "pub_ts": 1695909297,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "第一片枫叶变红的时候，愿我们依然相伴[洛天依_害羞]明天就是中秋节啦，大家都到家了嘛？[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第一片枫叶变红的时候，愿我们依然相伴"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "明天就是中秋节啦，大家都到家了嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5292,
+    "comment": 202,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 845609056928268342,
+    "orig_mid": 430351780,
+    "deleted": false,
+    "archive_dir": "../../../430351780/2023-09/2023-09-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

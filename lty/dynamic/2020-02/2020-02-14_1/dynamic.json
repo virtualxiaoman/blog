@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "355762474824426697",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/355762474824426697",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月14日",
+    "pub_ts": 1581670806,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 有事出门戴口罩，保护自己与他人\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 有事出门戴口罩，保护自己与他人"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-02-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bc191c14bbd020227ee6e1e5b68e9e23ff366232.jpg",
+        "width": 1080,
+        "height": 2160,
+        "size_kb": 539.6923828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14431,
+    "comment": 618,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:23:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

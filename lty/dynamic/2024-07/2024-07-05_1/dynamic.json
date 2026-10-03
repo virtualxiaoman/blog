@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "id": "950631804900999205",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/950631804900999205",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月5日",
+    "pub_ts": 1720174615,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依并预约直播，揪3位小伙伴送出【洛天依Q版盒蛋】1个~\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有6个小时啦！\n“铭刻回忆，见证新生，用音乐聆听属于洛天依的无限「再生」。\"\n\n洛天依十二周年纪念专辑《再生》\n💫试听PV：“见证洛天依的过去和未来”十二周年纪念专辑《再生》试听PV \n🔹正式上线时间：7月6日 0点\n🔹售价：20元/张，包含12首歌曲\n🔹上线平台：网易云音乐/QQ音乐/酷狗音乐/酷我音乐/咪咕音乐/华为音乐/汽水音乐\n\n🔹数专福利解锁\n共三款封面，解锁不同的对应礼物\n\n🔹数字铭牌活动\n-指定铭牌感谢礼\n-随机铭牌抽奖活动\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依并预约直播，揪3位小伙伴送出【洛天依Q版盒蛋】1个~\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有6个小时啦！\n“铭刻回忆，见证新生，用音乐聆听属于洛天依的无限「再生」。\"\n\n洛天依十二周年纪念专辑《再生》\n💫试听PV："
+      },
+      {
+        "type": "video",
+        "text": "“见证洛天依的过去和未来”十二周年纪念专辑《再生》试听PV",
+        "url": "https://www.bilibili.com/video/av1106035128",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n🔹正式上线时间：7月6日 0点\n🔹售价：20元/张，包含12首歌曲\n🔹上线平台：网易云音乐/QQ音乐/酷狗音乐/酷我音乐/咪咕音乐/华为音乐/汽水音乐\n\n🔹数专福利解锁\n共三款封面，解锁不同的对应礼物\n\n🔹数字铭牌活动\n-指定铭牌感谢礼\n-随机铭牌抽奖活动"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-05_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0064c172e8c30fdbcf6902f0fa85ce4f36081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 2176.7412109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-05_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b6eebf9f946154383dd10e46230e74b636081646.jpg",
+        "width": 1080,
+        "height": 13940,
+        "size_kb": 14142.150390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5595,
+    "comment": 1415,
+    "forward": 2644
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

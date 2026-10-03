@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "946921520061480961",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/946921520061480961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月25日",
+    "pub_ts": 1719310747,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "~(=>ω<=)8~是敲可爱的天依毛绒抽纸盒哟！ [古色花香洛天依_亲亲mua]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "~(=>ω<=)8~是敲可爱的天依毛绒抽纸盒哟！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4107,
+    "comment": 95,
+    "forward": 69
+  },
+  "forward": {
+    "orig_id": 945378106364919814,
+    "orig_mid": 323060342,
+    "deleted": false,
+    "archive_dir": "../../../323060342/2024-06/2024-06-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:13:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

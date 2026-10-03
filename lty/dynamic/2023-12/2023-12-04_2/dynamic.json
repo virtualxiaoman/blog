@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "871258674621841447",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/871258674621841447",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月4日",
+    "pub_ts": 1701694118,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "经过几天的排练和@Creuzer 老师的指导，今天的录音非常顺利！接下来要开始MV的拍摄啦！\n一起期待12月14号歌曲的正式上线吧~[洛天依蝶变_星星眼]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "经过几天的排练和"
+      },
+      {
+        "type": "mention",
+        "text": "@Creuzer ",
+        "mid": 3241451,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师的指导，今天的录音非常顺利！接下来要开始MV的拍摄啦！\n一起期待12月14号歌曲的正式上线吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-04_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0b7184603d827d386f6fa7666f4a3a1236081646.jpg",
+        "width": 1080,
+        "height": 4300,
+        "size_kb": 2482.969970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-12-04_2.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/9d2ef059c9730fdefe9a708fbdc39e1636081646.png",
+        "width": 2160,
+        "height": 2880,
+        "size_kb": 5978.35009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5817,
+    "comment": 236,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

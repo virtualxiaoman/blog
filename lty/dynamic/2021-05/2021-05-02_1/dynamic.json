@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "520171632477003066",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/520171632477003066",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月2日",
+    "pub_ts": 1619950296,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有太多话永远留在了毕业那一刻",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有太多话永远留在了毕业那一刻"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6087,
+    "comment": 208,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 518704149535843067,
+    "orig_mid": 888465,
+    "deleted": false,
+    "archive_dir": "../../../888465/2021-04/2021-04-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

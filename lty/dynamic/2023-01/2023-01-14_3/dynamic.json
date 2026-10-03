@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "751032640308510777",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/751032640308510777",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月14日",
+    "pub_ts": 1673701813,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依×琵琶赵聪演绎神鸟#\n演出结束啦，大家喜欢么？这次演出每一秒都让天依心醉不已，四千年的文化沉淀借由音乐的力量向大家呈现，让人不由沉醉在唯美而又神秘的世界之中。与亲亲师傅赵聪的合作也让天依更加领略到琵琶的惊人魅力。最后，如天依歌词中所唱，祈山河永无恙，福泰安康，希望大家都能平安、健康！[洛天依_许愿]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依×琵琶赵聪演绎神鸟#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%C3%97%E7%90%B5%E7%90%B6%E8%B5%B5%E8%81%AA%E6%BC%94%E7%BB%8E%E7%A5%9E%E9%B8%9F"
+      },
+      {
+        "type": "text",
+        "text": "\n演出结束啦，大家喜欢么？这次演出每一秒都让天依心醉不已，四千年的文化沉淀借由音乐的力量向大家呈现，让人不由沉醉在唯美而又神秘的世界之中。与亲亲师傅赵聪的合作也让天依更加领略到琵琶的惊人魅力。最后，如天依歌词中所唱，祈山河永无恙，福泰安康，希望大家都能平安、健康！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6376,
+    "comment": 142,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 751027748337614918,
+    "orig_mid": 2057655323,
+    "deleted": false,
+    "archive_dir": "../../../2057655323/2023-01/2023-01-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:49:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

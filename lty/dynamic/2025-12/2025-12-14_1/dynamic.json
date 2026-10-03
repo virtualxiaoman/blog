@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "id": "1146100473772638241",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1146100473772638241",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1765685711,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖天依的QQ装扮小屋上新咯！[逆转童话动态_驾到]\nQQ X 洛天依【逆转童话】主题专属套装来啦~\n转发关注天依，揪10位小伙伴送出主题套装一份！[逆转童话动态_结婚]\n\n✨套装包含\n动态主题、专属限定编号、动态背景、动态名片、进群特效、动态挂件、动态气泡\n等特殊装扮\n\n✨获取方式\n打开手机QQ-点击个性装扮-搜索洛天依>> 直达活动页面！ 也可以在个性化商城首页banner找到天依~\n\n 🎉特别福利！购买额外加赠主题一套\n\n现已上线，和天依一起再次见证命运的无数可能吧~[逆转童话动态_吃书]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "390776",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "天依的QQ装扮小屋上新咯！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\nQQ X 洛天依【逆转童话】主题专属套装来啦~\n转发关注天依，揪10位小伙伴送出主题套装一份！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨套装包含\n动态主题、专属限定编号、动态背景、动态名片、进群特效、动态挂件、动态气泡\n等特殊装扮\n\n✨获取方式\n打开手机QQ-点击个性装扮-搜索洛天依>> 直达活动页面！ 也可以在个性化商城首页banner找到天依~\n\n 🎉特别福利！购买额外加赠主题一套\n\n现已上线，和天依一起再次见证命运的无数可能吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_吃书]",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "name": "吃书",
+        "url": "https://i0.hdslb.com/bfs/garb/c5e3794cb453989c25dec41044070e84b088f015.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/05bff6c543ba62a7333d02ed73abe19336081646.jpg",
+        "width": 1417,
+        "height": 16373,
+        "size_kb": 18551.144,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/吃书.gif",
+        "package_id": "8744",
+        "emoji_id": "121343",
+        "text": "[逆转童话动态_吃书]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "390776"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:13:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "575464109445687459",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/575464109445687459",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月28日",
+    "pub_ts": 1632824079,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依游学季# 这场沙海之旅，因为有了山海神兽的陪伴，而别有一番乐趣。\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": " 这场沙海之旅，因为有了山海神兽的陪伴，而别有一番乐趣。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-09-28_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/906d5209fd36f651d90307bb9fc5bca9c7ea962d.png",
+        "width": 5760,
+        "height": 3240,
+        "size_kb": 18286.619140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9038,
+    "comment": 261,
+    "forward": 141
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:37:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

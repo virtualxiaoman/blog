@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "797409117404659735",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/797409117404659735",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月19日",
+    "pub_ts": 1684499678,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#\n天依很荣幸受到邀请，身着迪奥二零二三春夏成衣系列和全新DIOR KEY手袋，开启此次 #迪奥二零二四早春成衣秀# 时尚旅程。在墨西哥城和@DIOR迪奥 一起探索美学艺术与创新工艺的完美融合。\n\n5月21日10:30AM，来【网页链接】直播间，和我一起领略迪奥秀展的匠心杰作吧！\n\n抽3位小伙伴送出【洛天依 星空之伴景品】1个，一起来看秀吧！[洛天依幻游世界_哇哦]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "152910",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n天依很荣幸受到邀请，身着迪奥二零二三春夏成衣系列和全新DIOR KEY手袋，开启此次 "
+      },
+      {
+        "type": "topic",
+        "text": "#迪奥二零二四早春成衣秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BF%AA%E5%A5%A5%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%9B%9B%E6%97%A9%E6%98%A5%E6%88%90%E8%A1%A3%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " 时尚旅程。在墨西哥城和"
+      },
+      {
+        "type": "mention",
+        "text": "@DIOR迪奥 ",
+        "mid": 606352572,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "一起探索美学艺术与创新工艺的完美融合。\n\n5月21日10:30AM，来【"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/22402673"
+      },
+      {
+        "type": "text",
+        "text": "】直播间，和我一起领略迪奥秀展的匠心杰作吧！\n\n抽3位小伙伴送出【洛天依 星空之伴景品】1个，一起来看秀吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_哇哦]",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "name": "哇哦",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e5bc68534e3271c873a8ab2cabe0eac69b01a952.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-05-19_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/81c7178b2bf2f87fa7285d75ea10d4ac36081646.jpg",
+        "width": 2006,
+        "height": 1822,
+        "size_kb": 483.9599914550781,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-05-19_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/10afb97079f5802045df8a4b393162e936081646.jpg",
+        "width": 1225,
+        "height": 2076,
+        "size_kb": 259.989990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/哇哦.png",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "text": "[洛天依幻游世界_哇哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "152910"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10042,
+    "comment": 1732,
+    "forward": 6246
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

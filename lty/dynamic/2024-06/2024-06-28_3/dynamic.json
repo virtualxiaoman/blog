@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "948041295326085153",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/948041295326085153",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月28日",
+    "pub_ts": 1719571465,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依十二周年生日系列周边预售已经开启啦！\n转发关注天依，揪3位小伙伴分别送出【徽章】【拍立得】【镭射票】1套～[洛天依_礼物]\n\n“最初的歌声再次唱响，那些蕴藏的情感与共鸣，从未改变，一如往昔。”\n\n🔹预售时间\n2024.06.28-2024.07.12\n\n🔹预售新品\n马口铁徽章网页链接\n拍立得透卡网页链接\n镭射票网页链接\n亚克力色纸网页链接\n亚克力立牌网页链接\n流麻网页链接\n多功能斜挎包网页链接\n\n🔹实物展示直播间\n网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "304906",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依十二周年生日系列周边预售已经开启啦！\n转发关注天依，揪3位小伙伴分别送出【徽章】【拍立得】【镭射票】1套～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“最初的歌声再次唱响，那些蕴藏的情感与共鸣，从未改变，一如往昔。”\n\n🔹预售时间\n2024.06.28-2024.07.12\n\n🔹预售新品\n马口铁徽章"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/r9eJ0ad"
+      },
+      {
+        "type": "text",
+        "text": "\n拍立得透卡"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/ws7qGhG"
+      },
+      {
+        "type": "text",
+        "text": "\n镭射票"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/IBqnsnG"
+      },
+      {
+        "type": "text",
+        "text": "\n亚克力色纸"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/qqrl6Tw"
+      },
+      {
+        "type": "text",
+        "text": "\n亚克力立牌"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/CgAn3KJ"
+      },
+      {
+        "type": "text",
+        "text": "\n流麻"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/rlMcWVR"
+      },
+      {
+        "type": "text",
+        "text": "\n多功能斜挎包"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/ijNVDKi"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹实物展示直播间\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "http://live.bilibili.com/5055636"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-28_10.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/413809ae222f0ac11cdc7199b80e5d9e36081646.png",
+        "width": 1000,
+        "height": 5292,
+        "size_kb": 6642.669921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "304906"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6468,
+    "comment": 1395,
+    "forward": 8725
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

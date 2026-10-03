@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1245617833870622722",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1245617833870622722",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月8日",
+    "pub_ts": 1788856402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "让天依 catch your heart～ ෆ8( ˶'ᵕ'˶)ෆ",
+      "desc": "对对对，评论区肯定说天依反射弧长的堪比八百个墨姐！\n但是天依跳都跳了，还是要给你们看一下的嘛～\n大家不嫌弃天依的，对吧！\n\nBGM:崔叡娜《Catch Catch》",
+      "jump_url": "https://www.bilibili.com/video/BV1Jab56UEWc",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/cb303ab82c146543cac7ef78595ff85909b9e3fe.jpg",
+      "cover_file": "../../_assets/covers/2026-09-08_1.jpg",
+      "bvid": "BV1Jab56UEWc",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Jab56UEWc",
+        "aid": "117234471012016",
+        "cover": "http://i2.hdslb.com/bfs/archive/cb303ab82c146543cac7ef78595ff85909b9e3fe.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Jab56UEWc",
+        "stat": {
+          "danmaku": "118",
+          "play": "15.6万",
+          "vt": ""
+        },
+        "duration_text": "00:23",
+        "title": "让天依 catch your heart～ ෆ8( ˶'ᵕ'˶)ෆ",
+        "desc": "对对对，评论区肯定说天依反射弧长的堪比八百个墨姐！\n但是天依跳都跳了，还是要给你们看一下的嘛～\n大家不嫌弃天依的，对吧！\n\nBGM:崔叡娜《Catch Catch》",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 63199,
+    "comment": 799,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

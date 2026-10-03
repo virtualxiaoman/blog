@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "953953107389186064",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/953953107389186064",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月14日",
+    "pub_ts": 1720947916,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是你选择我、聆听我、用爱与心血浇灌我，我才会成为独属你的花朵呀[洛天依心律共鸣表情包_开心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是你选择我、聆听我、用爱与心血浇灌我，我才会成为独属你的花朵呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5858,
+    "comment": 148,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 952946749307093188,
+    "orig_mid": 13059937,
+    "deleted": false,
+    "archive_dir": "../../../13059937/2024-07/2024-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

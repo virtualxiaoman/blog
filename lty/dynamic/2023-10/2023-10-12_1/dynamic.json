@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "851578907100446758",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/851578907100446758",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月12日",
+    "pub_ts": 1697112065,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是真是假，是悲是喜，你看到了“我\"的哪一面？[代号洛天依_你猜]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是真是假，是悲是喜，你看到了“我\"的哪一面？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_你猜]",
+        "package_id": "1842",
+        "emoji_id": "32142",
+        "name": "你猜",
+        "url": "https://i0.hdslb.com/bfs/emote/28b8d7e4e55379623c239da276445ec543e55e64.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/你猜.png",
+        "package_id": "1842",
+        "emoji_id": "32142",
+        "text": "[代号洛天依_你猜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5363,
+    "comment": 122,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 844466179004170357,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2023-09/2023-09-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

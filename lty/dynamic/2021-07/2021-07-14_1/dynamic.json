@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "547302631653539514",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/547302631653539514",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月14日",
+    "pub_ts": 1626267224,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#用香爆脆依起庆生吧# #洛天依# 【7月12日的生日会现场花絮】 感谢康师傅香爆脆为我定制的生日蛋糕，大家高举香爆脆摇起来的画面，太有爱啦！大屏幕上大家合唱的生日歌，也让天依很感动。想看所有精彩内容，记得锁定品牌后续在微博发布的回顾视频哦！ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#用香爆脆依起庆生吧#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E9%A6%99%E7%88%86%E8%84%86%E4%BE%9D%E8%B5%B7%E5%BA%86%E7%94%9F%E5%90%A7"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 【7月12日的生日会现场花絮】 感谢康师傅香爆脆为我定制的生日蛋糕，大家高举香爆脆摇起来的画面，太有爱啦！大屏幕上大家合唱的生日歌，也让天依很感动。想看所有精彩内容，记得锁定品牌后续在微博发布的回顾视频哦！ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0a2b34339d40166921e494d5379c7a6fd6c767b2.jpg",
+        "width": 3000,
+        "height": 2001,
+        "size_kb": 4525.673828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-07-14_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d7224938502ff59cda7c7f53f92af0ff3ac706f7.jpg",
+        "width": 1369,
+        "height": 2001,
+        "size_kb": 653.3291015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-07-14_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a14ac748d3e88f3a05dc932589862520d196ac2e.jpg",
+        "width": 3000,
+        "height": 2001,
+        "size_kb": 3376.8955078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9256,
+    "comment": 402,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:33:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

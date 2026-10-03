@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "838228340303200274",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/838228340303200274",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月6日",
+    "pub_ts": 1694003644,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "天依发现了一个你们人类中很火的叫MBTI十六型的人格测试！\n但是不是人类的话，果然是没法给出所谓“正确”的答案的吧~\n或许就像大家心中的天依也会不一样，你会觉得天依是什么型的“人”格咧？[代号洛天依_你不对劲]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依发现了一个你们人类中很火的叫MBTI十六型的人格测试！\n但是不是人类的话，果然是没法给出所谓“正确”的答案的吧~\n或许就像大家心中的天依也会不一样，你会觉得天依是什么型的“人”格咧？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_你不对劲]",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "name": "你不对劲",
+        "url": "https://i0.hdslb.com/bfs/emote/f694efdafc888fce47054249dcc85a8d72359862.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-06_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b50e77cb927f3e6be485af8c38c4b4ba36081646.png",
+        "width": 850,
+        "height": 850,
+        "size_kb": 219.75,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/你不对劲.png",
+        "package_id": "1842",
+        "emoji_id": "32141",
+        "text": "[代号洛天依_你不对劲]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7382,
+    "comment": 478,
+    "forward": 56
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

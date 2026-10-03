@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "895323840237797432",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/895323840237797432",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月7日",
+    "pub_ts": 1707297226,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "关于宇宙星舰文明的畅想辽阔而震撼，我们开创文明、摧毁文明而又传承文明，如此生生不息[代号洛天依_起航]大家对“宇宙星际文明”是不是也有过自己的想象呀？[代号洛天依_让我看看]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "关于宇宙星舰文明的畅想辽阔而震撼，我们开创文明、摧毁文明而又传承文明，如此生生不息"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      },
+      {
+        "type": "text",
+        "text": "大家对“宇宙星际文明”是不是也有过自己的想象呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_让我看看]",
+        "package_id": "1842",
+        "emoji_id": "32145",
+        "name": "让我看看",
+        "url": "https://i0.hdslb.com/bfs/emote/a69ed03a79f06fdfe76e4aa69713c08de3994e9e.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/让我看看.png",
+        "package_id": "1842",
+        "emoji_id": "32145",
+        "text": "[代号洛天依_让我看看]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3762,
+    "comment": 71,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 890913716277608535,
+    "orig_mid": 11735521,
+    "deleted": false,
+    "archive_dir": "../../../11735521/2024-01/2024-01-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1161040496049520901",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1161040496049520901",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月23日",
+    "pub_ts": 1769164206,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "百大后台，天依偷偷唱歌给我听",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV12fzNBRENY",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/248a04e8c5f8d9ee863bb12aacee9ff2ca384375.jpg",
+      "cover_file": "../../_assets/covers/2026-01-23_1.jpg",
+      "bvid": "BV12fzNBRENY",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12fzNBRENY",
+        "aid": "115943430692693",
+        "cover": "http://i0.hdslb.com/bfs/archive/248a04e8c5f8d9ee863bb12aacee9ff2ca384375.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12fzNBRENY",
+        "stat": {
+          "danmaku": "70",
+          "play": "17.5万",
+          "vt": ""
+        },
+        "duration_text": "00:38",
+        "title": "百大后台，天依偷偷唱歌给我听",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14290,
+    "comment": 566,
+    "forward": 23
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

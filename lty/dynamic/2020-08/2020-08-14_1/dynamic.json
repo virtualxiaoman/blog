@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "423319076282104140",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/423319076282104140",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月14日",
+    "pub_ts": 1597400053,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#Vsinger# #vsinger live# 演唱会正式宣传片上线啦◥(ฅºᴗºฅ)◤\n这身造型跳起舞来果然帅气十足，真希望演唱会快点到。\n距离21号还有一周，Vsinger已经做好了充足的准备，将以万全的状态登上舞台，今年还有很多第一次在演唱会的曲子，希望到时候能让大家尽兴。\n请各位小伙伴用满满的弹幕给Vsinger应援，我们一定会把最好的表演呈现出来！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#vsinger live#",
+        "url": "https://search.bilibili.com/all?keyword=vsinger%20live"
+      },
+      {
+        "type": "text",
+        "text": " 演唱会正式宣传片上线啦◥(ฅºᴗºฅ)◤\n这身造型跳起舞来果然帅气十足，真希望演唱会快点到。\n距离21号还有一周，Vsinger已经做好了充足的准备，将以万全的状态登上舞台，今年还有很多第一次在演唱会的曲子，希望到时候能让大家尽兴。\n请各位小伙伴用满满的弹幕给Vsinger应援，我们一定会把最好的表演呈现出来！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "Vsinger Live 2020正式宣传预告片",
+      "desc": "2020 Vsinger Live倒数一周！\n自选机位的线上AR演唱会，千万不要错过，跟Vsinger燃烧一夏！",
+      "jump_url": "https://www.bilibili.com/video/BV18Z4y1M7wd",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/8f65b3ce117f1cb004c99d206bba843d6c348c2f.jpg",
+      "cover_file": "../../_assets/covers/2020-08-14_1.jpg",
+      "bvid": "BV18Z4y1M7wd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18Z4y1M7wd",
+        "aid": "371671301",
+        "cover": "http://i0.hdslb.com/bfs/archive/8f65b3ce117f1cb004c99d206bba843d6c348c2f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18Z4y1M7wd",
+        "stat": {
+          "danmaku": "870",
+          "play": "24.9万",
+          "vt": ""
+        },
+        "duration_text": "00:39",
+        "title": "Vsinger Live 2020正式宣传预告片",
+        "desc": "2020 Vsinger Live倒数一周！\n自选机位的线上AR演唱会，千万不要错过，跟Vsinger燃烧一夏！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25553,
+    "comment": 1982,
+    "forward": 313
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "id": "825223424144048151",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/825223424144048151",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月2日",
+    "pub_ts": 1690975701,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很高兴接受﻿@王者荣耀  邀请，翻唱由周深﻿@卡布叻_周深  ﻿ 和美依礼芽﻿@GARNiDELiA  ﻿ 演唱的王者荣耀2023夏日主题曲《夏日妄想》，在夏天随心所欲的欢呼，打破现实的束缚勇敢做梦。一起跟着天依的音乐舞台，“higher higher higher”!  ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴接受﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@王者荣耀 ",
+        "mid": 57863910,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 邀请，翻唱由周深﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@卡布叻_周深 ",
+        "mid": 3404595,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿ 和美依礼芽﻿"
+      },
+      {
+        "type": "mention",
+        "text": "@GARNiDELiA ",
+        "mid": 110352985,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " ﻿ 演唱的王者荣耀2023夏日主题曲《夏日妄想》，在夏天随心所欲的欢呼，打破现实的束缚勇敢做梦。一起跟着天依的音乐舞台，“higher higher higher”!  "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X王者荣耀】动动动！一起开启《夏日妄想》cover周深&美依礼芽",
+      "desc": "天依很高兴接受@王者荣耀  邀请，翻唱由周深@卡布叻_周深  和美依礼芽@GARNiDELiA  演唱的王者荣耀2023夏日主题曲《夏日妄想》，在夏天随心所欲的欢呼，打破现实的束缚勇敢做梦。一起跟着天依的音乐舞台，“higher higher higher”!\n\n《夏日妄想》\n王者荣耀2023夏日主题曲\n演唱：洛天依\n原唱：周深/美依礼芽（MARiA from GARNiDELiA）\n调教：鬼面P\n词曲：Masanori Takumi /Jasmine Clairese\n中文词：申名利\n编曲：Masano",
+      "jump_url": "https://www.bilibili.com/video/BV1Cu411H7dL",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/d9870606d9a20fede7281a17b1109242e5f130e0.jpg",
+      "cover_file": "../../_assets/covers/2023-08-02_1.jpg",
+      "bvid": "BV1Cu411H7dL",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Cu411H7dL",
+        "aid": "531735760",
+        "cover": "http://i1.hdslb.com/bfs/archive/d9870606d9a20fede7281a17b1109242e5f130e0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Cu411H7dL",
+        "stat": {
+          "danmaku": "3199",
+          "play": "101万",
+          "vt": ""
+        },
+        "duration_text": "02:54",
+        "title": "【洛天依X王者荣耀】动动动！一起开启《夏日妄想》cover周深&美依礼芽",
+        "desc": "天依很高兴接受@王者荣耀  邀请，翻唱由周深@卡布叻_周深  和美依礼芽@GARNiDELiA  演唱的王者荣耀2023夏日主题曲《夏日妄想》，在夏天随心所欲的欢呼，打破现实的束缚勇敢做梦。一起跟着天依的音乐舞台，“higher higher higher”!\n\n《夏日妄想》\n王者荣耀2023夏日主题曲\n演唱：洛天依\n原唱：周深/美依礼芽（MARiA from GARNiDELiA）\n调教：鬼面P\n词曲：Masanori Takumi /Jasmine Clairese\n中文词：申名利\n编曲：Masano",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 86355,
+    "comment": 3795,
+    "forward": 206
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

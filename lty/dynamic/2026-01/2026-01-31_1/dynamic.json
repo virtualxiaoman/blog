@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "id": "1164025485433241622",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1164025485433241622",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月31日",
+    "pub_ts": 1769859203,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 【洛天依·珍藏集——游学记 · 乐鸣东方】开启啦！[乐鸣东方动态表情包_干杯]\n转发关注天依，揪5位小伙伴送出【珍藏集5抽】1份~[乐鸣东方动态表情包_快哉]\n\n取乐器为骨，采五色着裳\n聆听中华国乐历尽时光雕琢，依旧动人心弦的乐声[乐鸣东方动态表情包_开心]\n\n🎶卡池收录：全新插画动态数字音乐卡、特色音乐卡、未公开精美数字卡牌\n🎶 羁绊之礼解锁：钻石头像、空间背景、典藏卡、专属动态表情包、专属动态个性主题\n🎶 特别解锁装扮组件套装：动态点赞、加载动画、进度条\n🎶 传送门：网页链接 \n\n器为骨，音为魂，与天依一同聆听千年国乐在时光中打磨出的回响吧~[乐鸣东方动态表情包_支持]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "397601",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 【洛天依·珍藏集——游学记 · 乐鸣东方】开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【珍藏集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_快哉]",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "name": "快哉",
+        "url": "https://i0.hdslb.com/bfs/garb/83c4c5bad51a032d0d2d806550dd8bc172f8974d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n取乐器为骨，采五色着裳\n聆听中华国乐历尽时光雕琢，依旧动人心弦的乐声"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶卡池收录：全新插画动态数字音乐卡、特色音乐卡、未公开精美数字卡牌\n🎶 羁绊之礼解锁：钻石头像、空间背景、典藏卡、专属动态表情包、专属动态个性主题\n🎶 特别解锁装扮组件套装：动态点赞、加载动画、进度条\n🎶 传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=109736"
+      },
+      {
+        "type": "text",
+        "text": " \n\n器为骨，音为魂，与天依一同聆听千年国乐在时光中打磨出的回响吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-31_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/684e99824c47394f0b7a96d730a06c7236081646.jpg",
+        "width": 750,
+        "height": 7176,
+        "size_kb": 4844.1455078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/快哉.gif",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "text": "[乐鸣东方动态表情包_快哉]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·珍藏集",
+            "price": "",
+            "cover": "https://i0.hdslb.com/bfs/archive/d01df1f4bb2d5379e1dcdadc5e629763dcb1f102.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=0&rebate=647193094&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2026-01-31_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "397601"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5323,
+    "comment": 1515,
+    "forward": 6041
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1105370061959331858",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1105370061959331858",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月26日",
+    "pub_ts": 1756202423,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恢复更新了！这个视频是上半集内容，下半集硬币越多来的就越快！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恢复更新了！这个视频是上半集内容，下半集硬币越多来的就越快！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天依教你吃包子认识神仙【洛天依x非人哉-上】",
+      "desc": "洛天依X非人哉内容上集\n感谢大家观看！硬币越多，下集来的就越快！\n洛天依快把家给吃穷了，呜呜呜\n\n音乐来源：非人哉\n策划：阿江君\n剧本：阿江君 \n素材：阿江君 秋季喵铃铛 独角者 mullmull\n动画：阿江君  \n后期：阿江君\n\n配音表\n洛天依-洛天依（Vsinger团队）\n其他-小鱼干配音团队",
+      "jump_url": "https://www.bilibili.com/video/BV1C4vczjEjA",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/13a82c6465134f104a4ccf7c008048b6e62874dd.jpg",
+      "cover_file": "../../_assets/covers/2025-08-26_1.jpg",
+      "bvid": "BV1C4vczjEjA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1C4vczjEjA",
+        "aid": "115093295595536",
+        "cover": "http://i0.hdslb.com/bfs/archive/13a82c6465134f104a4ccf7c008048b6e62874dd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1C4vczjEjA",
+        "stat": {
+          "danmaku": "2261",
+          "play": "214.9万",
+          "vt": ""
+        },
+        "duration_text": "03:46",
+        "title": "天依教你吃包子认识神仙【洛天依x非人哉-上】",
+        "desc": "洛天依X非人哉内容上集\n感谢大家观看！硬币越多，下集来的就越快！\n洛天依快把家给吃穷了，呜呜呜\n\n音乐来源：非人哉\n策划：阿江君\n剧本：阿江君 \n素材：阿江君 秋季喵铃铛 独角者 mullmull\n动画：阿江君  \n后期：阿江君\n\n配音表\n洛天依-洛天依（Vsinger团队）\n其他-小鱼干配音团队",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 134860,
+    "comment": 1647,
+    "forward": 26
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

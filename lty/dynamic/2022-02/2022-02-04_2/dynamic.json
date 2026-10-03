@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "623289248889207057",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/623289248889207057",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月4日",
+    "pub_ts": 1643959237,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "冬奥加油！[洛天依·夜航星_冲鸭]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "冬奥加油！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10402,
+    "comment": 185,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 623260777550729057,
+    "orig_mid": 1131457022,
+    "deleted": false,
+    "archive_dir": "../../../1131457022/2022-02/2022-02-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:41:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

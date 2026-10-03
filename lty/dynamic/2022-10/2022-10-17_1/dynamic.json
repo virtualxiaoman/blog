@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "717995416836112448",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/717995416836112448",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月17日",
+    "pub_ts": 1666009735,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "敏感的人脆弱但也温柔[洛天依·夜航星_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "敏感的人脆弱但也温柔"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6045,
+    "comment": 90,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 712013163030118425,
+    "orig_mid": 481413,
+    "deleted": false,
+    "archive_dir": "../../../481413/2022-10/2022-10-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

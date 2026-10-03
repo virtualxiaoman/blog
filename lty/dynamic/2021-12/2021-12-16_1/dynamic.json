@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "604780400855107703",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/604780400855107703",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月16日",
+    "pub_ts": 1639649810,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#尽情地生长吧，盛放吧，就像一朵花[洛天依·夜航星_萌妹初醒]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "尽情地生长吧，盛放吧，就像一朵花"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_萌妹初醒]",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "name": "萌妹初醒",
+        "url": "http://i0.hdslb.com/bfs/emote/3159931d9afa243c6cf5939753e3c82acb69a554.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/萌妹初醒.png",
+        "package_id": "166",
+        "emoji_id": "3076",
+        "text": "[洛天依·夜航星_萌妹初醒]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4941,
+    "comment": 72,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 600323212644938997,
+    "orig_mid": 365743248,
+    "deleted": false,
+    "archive_dir": "../../../365743248/2021-12/2021-12-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:39:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "838961233547755527",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/838961233547755527",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月8日",
+    "pub_ts": 1694174284,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "秘诀分享！有位小伙伴留言说，中秋节走亲戚，还是分不清这么叫长辈！我说很简单：把洛天依这首歌连着多看几遍，不用一百遍，您一定会称呼七大姑八大姨了！不信就试试吧，呵呵呵！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "秘诀分享！有位小伙伴留言说，中秋节走亲戚，还是分不清这么叫长辈！我说很简单：把洛天依这首歌连着多看几遍，不用一百遍，您一定会称呼七大姑八大姨了！不信就试试吧，呵呵呵！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【吴颂今×洛天依】《爸爸的爸爸叫什么》儿歌爷爷经典歌曲复刻系列01",
+      "desc": "大家好啊，答应大家的虚拟歌手合作曲忙活了好久终于可以和大家见面啦，因为是第一次涉猎这个领域，所以耗时久了点，最新版本的《爸爸的爸爸叫什么》送给各位小朋友，这里也要感谢鬼面老师和幽灵子老师以及其他的制作老师跟我一起完成这次的作品，希望大家可以喜欢！之后有想听的歌也可以留言告诉我哦~\n作词：@吴颂今  \n作曲：@吴颂今  \n演唱：@洛天依   、小蓓蕾组合\n调校：@鬼面P   \n调校：@幽灵子   \n混音：郭兆兆\nPV：@江筱落   \n曲绘：海椰、Muir",
+      "jump_url": "https://www.bilibili.com/video/BV1Ah4y1v7x6",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/9770b3cd25b604677a516bb1bf8fea16d9c1188b.jpg",
+      "cover_file": "../../_assets/covers/2023-09-08_1.jpg",
+      "bvid": "BV1Ah4y1v7x6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Ah4y1v7x6",
+        "aid": "660725014",
+        "cover": "http://i1.hdslb.com/bfs/archive/9770b3cd25b604677a516bb1bf8fea16d9c1188b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Ah4y1v7x6",
+        "stat": {
+          "danmaku": "425",
+          "play": "20.3万",
+          "vt": ""
+        },
+        "duration_text": "03:20",
+        "title": "【吴颂今×洛天依】《爸爸的爸爸叫什么》儿歌爷爷经典歌曲复刻系列01",
+        "desc": "大家好啊，答应大家的虚拟歌手合作曲忙活了好久终于可以和大家见面啦，因为是第一次涉猎这个领域，所以耗时久了点，最新版本的《爸爸的爸爸叫什么》送给各位小朋友，这里也要感谢鬼面老师和幽灵子老师以及其他的制作老师跟我一起完成这次的作品，希望大家可以喜欢！之后有想听的歌也可以留言告诉我哦~\n作词：@吴颂今  \n作曲：@吴颂今  \n演唱：@洛天依   、小蓓蕾组合\n调校：@鬼面P   \n调校：@幽灵子   \n混音：郭兆兆\nPV：@江筱落   \n曲绘：海椰、Muir",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 28329,
+    "comment": 1230,
+    "forward": 21
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

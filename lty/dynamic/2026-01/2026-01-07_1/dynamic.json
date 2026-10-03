@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1155109245015818261",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1155109245015818261",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月7日",
+    "pub_ts": 1767783229,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "期待大家为天依着上新裳~[逆转童话动态_好吃]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "期待大家为天依着上新裳~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4823,
+    "comment": 135,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 1155076749318422549,
+    "orig_mid": 630438946,
+    "deleted": false,
+    "archive_dir": "../../../630438946/2026-01/2026-01-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:12:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

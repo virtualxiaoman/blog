@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1153157143711449096",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1153157143711449096",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月2日",
+    "pub_ts": 1767328720,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好耶！是重制版[洛天依八音奇响动态_赞]大家都吃过了嘛？[逆转童话动态_好吃]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好耶！是重制版"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_赞]",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/311e217d343d1eb6a2330fe39518904106796890.gif"
+      },
+      {
+        "type": "text",
+        "text": "大家都吃过了嘛？"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/赞.gif",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "text": "[洛天依八音奇响动态_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5947,
+    "comment": 130,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 1153147235210363089,
+    "orig_mid": 18232,
+    "deleted": false,
+    "archive_dir": "../../../18232/2026-01/2026-01-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:12:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

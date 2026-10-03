@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "707597631711346818",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/707597631711346818",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月19日",
+    "pub_ts": 1663588812,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "”借光而行，不负相遇。“\n感谢这十年的陪伴与青睐，让我们一起奔赴下个十年吧！\n\n【BeBox Vsinger 洛天依 拾光ver. 1/6 十周年纪念手办】即将开启预售~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "”借光而行，不负相遇。“\n感谢这十年的陪伴与青睐，让我们一起奔赴下个十年吧！\n\n【BeBox Vsinger 洛天依 拾光ver. 1/6 十周年纪念手办】即将开启预售~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "BeBox Vsinger 洛天依 拾光ver. 1/6 十周年纪念手办 展示",
+      "desc": "”借光而行，不负相遇。“\n感谢这十年的陪伴与青睐，让我们一起奔赴下个十年吧！\n----------\n出品方：BeBox\n原画：@STAR影法师  \n系列：BeBox PRO\n定价：1299元\n比例：1/6\n尺寸：高约31CM\n材质：PVC&ABS\n预售日期：2022年10月1日\n出荷日期：预计2023年12月",
+      "jump_url": "https://www.bilibili.com/video/BV1PG4y1B7VR",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/7a600c53c104517a3c9a9f575b6b927337f4bbad.jpg",
+      "cover_file": "../../_assets/covers/2022-09-19_1.jpg",
+      "bvid": "BV1PG4y1B7VR",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1PG4y1B7VR",
+        "aid": "815665988",
+        "cover": "http://i2.hdslb.com/bfs/archive/7a600c53c104517a3c9a9f575b6b927337f4bbad.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1PG4y1B7VR",
+        "stat": {
+          "danmaku": "80",
+          "play": "11.7万",
+          "vt": ""
+        },
+        "duration_text": "00:46",
+        "title": "BeBox Vsinger 洛天依 拾光ver. 1/6 十周年纪念手办 展示",
+        "desc": "”借光而行，不负相遇。“\n感谢这十年的陪伴与青睐，让我们一起奔赴下个十年吧！\n----------\n出品方：BeBox\n原画：@STAR影法师  \n系列：BeBox PRO\n定价：1299元\n比例：1/6\n尺寸：高约31CM\n材质：PVC&ABS\n预售日期：2022年10月1日\n出荷日期：预计2023年12月",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12520,
+    "comment": 447,
+    "forward": 119
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1110972288501547010",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1110972288501547010",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月10日",
+    "pub_ts": 1757506793,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪6位小伙伴送出【皮肤兑换码】1份~\n​\n“天依天依，生日和演唱会都有输入法皮肤，闪耀的Producer也有吗？”\n“你好你好，有哒有哒！”[洛天依·闪耀的Producer动态_此乃佳品]\n\n闪耀的Producer×搜狗输入法皮肤来咯~\n移动端和PC端都可以获取，可以让你的输入法也一起kirakira和pikapika起来哦！ [洛天依·闪耀的Producer动态_幸福]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪6位小伙伴送出【皮肤兑换码】1份~\n​\n“天依天依，生日和演唱会都有输入法皮肤，闪耀的Producer也有吗？”\n“你好你好，有哒有哒！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_此乃佳品]",
+        "package_id": "8540",
+        "emoji_id": "117829",
+        "name": "此乃佳品",
+        "url": "https://i0.hdslb.com/bfs/garb/fab77f6871ec2974a09660e32d5595a4e221c7eb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n闪耀的Producer×搜狗输入法皮肤来咯~\n移动端和PC端都可以获取，可以让你的输入法也一起kirakira和pikapika起来哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-10_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/74c75599b1531a3416ba3d06b70f53e736081646.png",
+        "width": 1080,
+        "height": 6672,
+        "size_kb": 5182.8603515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/此乃佳品.gif",
+        "package_id": "8540",
+        "emoji_id": "117829",
+        "text": "[洛天依·闪耀的Producer动态_此乃佳品]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5528,
+    "comment": 692,
+    "forward": 2192
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

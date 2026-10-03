@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "888192472283349041",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/888192472283349041",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月19日",
+    "pub_ts": 1705636825,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖  异世界的哥特之旅连接成功！\n@血族Bloodline手游 x Vsinger 联动开启啦！天依在异世界邂逅了血族公主莉萝艾，接下来是……演奏黑暗与鲜血摇滚交响曲，还是以动人的旋律统治世界？全新的舞台准备就绪，天依携手阿绫与阿和，向大家发出隆重的邀请，共同奏响属于我们的乐章~[洛天依蝶变_电吉他！]\n关注天依并转发，随机揪5位送出天依联动卡1张。\n\n📣血族手游下载：https://blood.web.sdo.com/ 登录即领40连抽，加赠SSR联动卡牌，更多专属好礼限时無料发放中哦！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "270360",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  异世界的哥特之旅连接成功！\n"
+      },
+      {
+        "type": "mention",
+        "text": "@血族Bloodline手游 ",
+        "mid": 339774846,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "x Vsinger 联动开启啦！天依在异世界邂逅了血族公主莉萝艾，接下来是……演奏黑暗与鲜血摇滚交响曲，还是以动人的旋律统治世界？全新的舞台准备就绪，天依携手阿绫与阿和，向大家发出隆重的邀请，共同奏响属于我们的乐章~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n关注天依并转发，随机揪5位送出天依联动卡1张。\n\n📣血族手游下载：https://blood.web.sdo.com/ 登录即领40连抽，加赠SSR联动卡牌，更多专属好礼限时無料发放中哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d963df298924a77f04c701d55df8d6c536081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1437.6943359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-01-19_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/00369fdf65625aa687f2f5c66fc3a8c136081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1427.642578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-01-19_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8d872fca84dececfdf8f31af9123e58c36081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 2732.53515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-01-19_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4b4350c41be13a7d13699f5405c9a60a36081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1472.841796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-01-19_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f2bae1f2398daba9a52e05ddc3f1ad5236081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1342.4375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-01-19_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/edac161f49a5d9e89220dfaad6cf339336081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1442.505859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-01-19_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/27277d70aa4e0f2dd8f7a9363cb934a836081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1641.92578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-01-19_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4b059b2dc592f4d92df1123795e5fc2336081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1340.4833984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-01-19_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5feb6d05746c7bbd9440ddc603f4bcb736081646.jpg",
+        "width": 2732,
+        "height": 2048,
+        "size_kb": 1172.01953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "270360"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5152,
+    "comment": 400,
+    "forward": 3186
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "id": "1164064707110240259",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1164064707110240259",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月31日",
+    "pub_ts": 1769868335,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 《乐鸣东方》200w播放撒花啦！[乐鸣东方动态表情包_赞]\n转发关注天依，揪3位小伙伴送出【国乐季新品周边】1份[乐鸣东方动态表情包_求求]\n天依和艺术家老师们的大合照送上，再次感谢受邀合作的老师们！\n和最重要的一直支持和陪伴着天依的大家~[乐鸣东方动态表情包_开心]\n\n请多多支持《乐鸣东方》，再来聆听一遍吧~[乐鸣东方动态表情包_支持]\n♪ MV：【乐鸣东方 | 官方MV】洛天依携手55位非遗传承人致敬中华国乐 \n♪网易云音乐：https://music.163.com/#/song?id=3344327687\n♪QQ音乐：https://y.qq.com/n/ryqq/songDetail/004HmEBY3HfyE5\n♪酷狗音乐：https://www.kugou.com/mixsong/dvoaen13.html\n♪酷我音乐：https://www.kuwo.cn/play_detail/536561345\n♪汽水音乐： https://qishui.douyin.com/s/i9kMQvMm/\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "397622",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 《乐鸣东方》200w播放撒花啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_赞]",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/01f5d64a43174985ab9c14b9859cb670656ffea6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪3位小伙伴送出【国乐季新品周边】1份"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_求求]",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/11d2890277cc8490bdbc8db89c7c16ad5453072a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依和艺术家老师们的大合照送上，再次感谢受邀合作的老师们！\n和最重要的一直支持和陪伴着天依的大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n请多多支持《乐鸣东方》，再来聆听一遍吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n♪ MV："
+      },
+      {
+        "type": "video",
+        "text": "【乐鸣东方 | 官方MV】洛天依携手55位非遗传承人致敬中华国乐",
+        "url": "https://www.bilibili.com/video/av115978277029671",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n♪网易云音乐：https://music.163.com/#/song?id=3344327687\n♪QQ音乐："
+      },
+      {
+        "type": "text",
+        "text": "https://y.qq.com/n/ryqq/songDetail/004HmEBY3HfyE5"
+      },
+      {
+        "type": "text",
+        "text": "\n♪酷狗音乐："
+      },
+      {
+        "type": "text",
+        "text": "https://www.kugou.com/mixsong/dvoaen13.html"
+      },
+      {
+        "type": "text",
+        "text": "\n♪酷我音乐："
+      },
+      {
+        "type": "text",
+        "text": "https://www.kuwo.cn/play_detail/536561345"
+      },
+      {
+        "type": "text",
+        "text": "\n♪汽水音乐： "
+      },
+      {
+        "type": "text",
+        "text": "https://qishui.douyin.com/s/i9kMQvMm/"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-31_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6655fc102f9775d9cbba36d1a133af2936081646.jpg",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 9898.8564453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/赞.gif",
+        "package_id": "9343",
+        "emoji_id": "131161",
+        "text": "[乐鸣东方动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/求求.gif",
+        "package_id": "9343",
+        "emoji_id": "131163",
+        "text": "[乐鸣东方动态表情包_求求]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "397622"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6893,
+    "comment": 541,
+    "forward": 7177
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

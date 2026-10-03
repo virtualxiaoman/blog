@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "418151259956220393",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/418151259956220393",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月31日",
+    "pub_ts": 1596196827,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "让大家久等了！2020 Vsinger live演唱会终于要来了，跟Vsinger一起抓住夏天的尾巴~ 2020年8月21日20:00， 我们在优酷直播间等小伙伴们前来一起狂欢！ 今年演唱会的造型首次公开，感谢TID为我们设计并绘制的摇滚主题，超帅气！不夸奖的话，就得当心小恶魔的恶作剧了◥(ฅº▽ºฅ)◤[爱心] 演唱会预告视频已经公开，直播预约页面也上线了，一起来倒数计时吧！ 演唱会预告视频： https://v.youku.com/v_show/id_XNDc3NjE2NzM4NA==.html  直播预约： https://vku.youku.com/live/ilproom?id=8087175   更多精彩玩法： https://t.youku.com/yep/page/m/vsingerlive2020?wh_weex=true&isNeedBaseImage=1    对了对了，悄悄和大家说，我们的盲盒也上线了！关注天依并转发这条动态，就会抽出5位小伙伴送一套【2020vsinger live演唱会盲盒—候场系列】~ 先这样，天依不能再爆料啦！ 之后还会有其他演唱会消息陆续放出，敬请期待！ ​互动抽奖 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让大家久等了！2020 Vsinger live演唱会终于要来了，跟Vsinger一起抓住夏天的尾巴~ 2020年8月21日20:00， 我们在优酷直播间等小伙伴们前来一起狂欢！ 今年演唱会的造型首次公开，感谢TID为我们设计并绘制的摇滚主题，超帅气！不夸奖的话，就得当心小恶魔的恶作剧了◥(ฅº▽ºฅ)◤"
+      },
+      {
+        "type": "emoji",
+        "text": "[爱心]",
+        "package_id": "1",
+        "emoji_id": "550",
+        "name": "爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png"
+      },
+      {
+        "type": "text",
+        "text": " 演唱会预告视频已经公开，直播预约页面也上线了，一起来倒数计时吧！ 演唱会预告视频： https://v.youku.com/v_show/id_XNDc3NjE2NzM4NA==.html  直播预约： https://vku.youku.com/live/ilproom?id=8087175   更多精彩玩法： https://t.youku.com/yep/page/m/vsingerlive2020?wh_weex=true&isNeedBaseImage=1    对了对了，悄悄和大家说，我们的盲盒也上线了！关注天依并转发这条动态，就会抽出5位小伙伴送一套【2020vsinger live演唱会盲盒—候场系列】~ 先这样，天依不能再爆料啦！ 之后还会有其他演唱会消息陆续放出，敬请期待！ "
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "48494",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-31_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2d1a9582a17c3fef6f53555d33066311524a40e7.jpg",
+        "width": 2000,
+        "height": 1173,
+        "size_kb": 1316.9326171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/爱心.png",
+        "package_id": "1",
+        "emoji_id": "550",
+        "text": "[爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "48494"
+  },
+  "vote": null,
+  "stats": {
+    "like": 11046,
+    "comment": 2113,
+    "forward": 4040
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

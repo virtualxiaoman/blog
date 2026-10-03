@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "440668068387613937",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/440668068387613937",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年9月30日",
+    "pub_ts": 1601439430,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "次元无界，风味无限 当天依遇见康师傅冰红茶 ，你的热带风味缤纷官已上线~ 一首自带果味的音乐，碰撞出一场燃痛快的视听体验 跟上节奏，和天依一起开启#热带风味 缤纷滋味#的奇妙之旅吧！ #冰力十足 燃痛快# \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "次元无界，风味无限 当天依遇见康师傅冰红茶 ，你的热带风味缤纷官已上线~ 一首自带果味的音乐，碰撞出一场燃痛快的视听体验 跟上节奏，和天依一起开启"
+      },
+      {
+        "type": "topic",
+        "text": "#热带风味 缤纷滋味#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%83%AD%E5%B8%A6%E9%A3%8E%E5%91%B3%20%E7%BC%A4%E7%BA%B7%E6%BB%8B%E5%91%B3"
+      },
+      {
+        "type": "text",
+        "text": "的奇妙之旅吧！ "
+      },
+      {
+        "type": "topic",
+        "text": "#冰力十足 燃痛快#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%86%B0%E5%8A%9B%E5%8D%81%E8%B6%B3%20%E7%87%83%E7%97%9B%E5%BF%AB"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-09-30_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/117fa43ff980b9743d06395637ad899617a41b31.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1548.8583984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9876,
+    "comment": 889,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

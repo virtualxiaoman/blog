@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "951800852056637473",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/951800852056637473",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月8日",
+    "pub_ts": 1720446805,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嘘~舞台的帷幕即将拉开，不要眨眼哦！[洛天依·收藏集表情包_晚安]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嘘~舞台的帷幕即将拉开，不要眨眼哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_晚安]",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/f1189ccef7775ac7807879b6416fe0945417ba01.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/晚安.png",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "text": "[洛天依·收藏集表情包_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4655,
+    "comment": 133,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 946824939162304516,
+    "orig_mid": 323060342,
+    "deleted": false,
+    "archive_dir": "../../../323060342/2024-06/2024-06-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:16:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

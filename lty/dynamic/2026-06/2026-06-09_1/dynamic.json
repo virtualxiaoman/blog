@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1211778697093185576",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1211778697093185576",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月9日",
+    "pub_ts": 1780977614,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "一起用歌声再次点亮属于我们的蓝色海洋吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起用歌声再次点亮属于我们的蓝色海洋吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依2026全国巡演 开启六城音舞狂欢！",
+      "desc": "洛天依2026「无限共鸣·纯蓝幻乐」全国巡回演唱会\n巡演计划确认！全国六大城市，解锁万人体育馆——\n \n🎶巡演城市\n7月18日 · 北京国家体育馆\n7月25日 · 杭州黄龙体育中心体育馆\n8月1日   · 成都金融城演艺中心\n8月15日 · 上海静安体育中心\n8月22日 · 湖南贺龙体育馆\n8月29日 · 广州亚运城综合体育馆\n \n当天依的蓝色闯入城市，城市记忆也将伴随歌声一起被点亮\n天依采颉了这些城市记忆里的声音，遥寄远方的你们，大家都听出来了嘛？\n期待这份心意伴着天依的歌声，再次点亮城市夜空的那一刻—",
+      "jump_url": "https://www.bilibili.com/video/BV172E36jEfV",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/f57890b16deba60413934fa7e00fc36fb0461ff7.jpg",
+      "cover_file": "../../_assets/covers/2026-06-09_1.jpg",
+      "bvid": "BV172E36jEfV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV172E36jEfV",
+        "aid": "116715031758928",
+        "cover": "http://i2.hdslb.com/bfs/archive/f57890b16deba60413934fa7e00fc36fb0461ff7.jpg",
+        "jump_url": "//www.bilibili.com/video/BV172E36jEfV",
+        "stat": {
+          "danmaku": "1151",
+          "play": "27.7万",
+          "vt": ""
+        },
+        "duration_text": "01:33",
+        "title": "洛天依2026全国巡演 开启六城音舞狂欢！",
+        "desc": "洛天依2026「无限共鸣·纯蓝幻乐」全国巡回演唱会\n巡演计划确认！全国六大城市，解锁万人体育馆——\n \n🎶巡演城市\n7月18日 · 北京国家体育馆\n7月25日 · 杭州黄龙体育中心体育馆\n8月1日   · 成都金融城演艺中心\n8月15日 · 上海静安体育中心\n8月22日 · 湖南贺龙体育馆\n8月29日 · 广州亚运城综合体育馆\n \n当天依的蓝色闯入城市，城市记忆也将伴随歌声一起被点亮\n天依采颉了这些城市记忆里的声音，遥寄远方的你们，大家都听出来了嘛？\n期待这份心意伴着天依的歌声，再次点亮城市夜空的那一刻—",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25366,
+    "comment": 1553,
+    "forward": 189
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:23:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

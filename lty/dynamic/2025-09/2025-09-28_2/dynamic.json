@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1117632515755999235",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1117632515755999235",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月28日",
+    "pub_ts": 1759057498,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依UNYX号加载完成 | 与众一起，满电出发！",
+      "desc": "品牌赞助：大众安徽\n与众一起，满电出发！\n\n导演：Peter\n监制：强者的爸爸/天娇\n虚拟制作：RedialC/13\n先壤影视制作（上海）有限公司 /安徽拉露卡 \n音乐：TENKO",
+      "jump_url": "https://www.bilibili.com/video/BV1uZndzCELm",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/90afdf5ad3c948927c5bc161fc9db6177f765152.jpg",
+      "cover_file": "../../_assets/covers/2025-09-28_1.jpg",
+      "bvid": "BV1uZndzCELm",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1uZndzCELm",
+        "aid": "115281552736627",
+        "cover": "http://i0.hdslb.com/bfs/archive/90afdf5ad3c948927c5bc161fc9db6177f765152.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1uZndzCELm",
+        "stat": {
+          "danmaku": "1260",
+          "play": "61.4万",
+          "vt": ""
+        },
+        "duration_text": "01:02",
+        "title": "洛天依UNYX号加载完成 | 与众一起，满电出发！",
+        "desc": "品牌赞助：大众安徽\n与众一起，满电出发！\n\n导演：Peter\n监制：强者的爸爸/天娇\n虚拟制作：RedialC/13\n先壤影视制作（上海）有限公司 /安徽拉露卡 \n音乐：TENKO",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23777,
+    "comment": 731,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

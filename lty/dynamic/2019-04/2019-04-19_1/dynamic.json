@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "244084292807770292",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/244084292807770292",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月19日",
+    "pub_ts": 1555668703,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "7月19日有超多惊喜，迫不及待要见大家了！[tv_微笑]//@vsinger团队:2019.7.19上海梅奔，#BML-VR2019#Vsinger全员等你来！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "7月19日有超多惊喜，迫不及待要见大家了！"
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_微笑]",
+        "package_id": "2",
+        "emoji_id": "45",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/emote/b98656855d782f61cb8edc7f7fca6563ecafff7e.gif"
+      },
+      {
+        "type": "text",
+        "text": "//"
+      },
+      {
+        "type": "mention",
+        "text": "@vsinger团队",
+        "mid": 10878474,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":2019.7.19上海梅奔，"
+      },
+      {
+        "type": "topic",
+        "text": "#BML-VR2019#",
+        "url": "https://search.bilibili.com/all?keyword=BML-VR2019"
+      },
+      {
+        "type": "text",
+        "text": "Vsinger全员等你来！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2/微笑.gif",
+        "package_id": "2",
+        "emoji_id": "45",
+        "text": "[tv_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3443,
+    "comment": 170,
+    "forward": 60
+  },
+  "forward": {
+    "orig_id": 243990172897379104,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2019-04/2019-04-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

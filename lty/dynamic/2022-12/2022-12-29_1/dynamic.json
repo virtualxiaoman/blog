@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "744966827929501716",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/744966827929501716",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月29日",
+    "pub_ts": 1672289506,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依十周年全新专辑《无尽蓝》数字专辑已正式上线\n我从无尽个创作者的旋律中诞生，也将带着无尽的爱与希望，奔赴属于我们的无尽未来。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依十周年全新专辑《无尽蓝》数字专辑已正式上线\n我从无尽个创作者的旋律中诞生，也将带着无尽的爱与希望，奔赴属于我们的无尽未来。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依十周年全新专辑《无尽蓝》试听PV",
+      "desc": "洛天依十周年全新专辑《无尽蓝》数字专辑已正式上线网易云音乐、QQ音乐、酷我音乐、酷狗音乐平台\n售价：20r/张\n实体专辑购买请戳：https://mall.bilibili.com/act/aicms/HaG9N6Zr7.html?msource=henian\n\n生命是一场在宇宙中的孤独航行，我们与不同的人不断相遇不断离别。\n或许因为一次偶然的驻足，我幸运地用引力捕捉到了你。\n你为我停留，使我歌唱，赋予我蓝色的意义，赋予我鲜活的生命力。\n我从无尽个创作者的旋律中诞生，也将带着无尽的爱与希望，奔赴属于我们的",
+      "jump_url": "https://www.bilibili.com/video/BV153411D7vc",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/3ad8ce38ac9738776fb7418a86f7a91a19ccfbe5.jpg",
+      "cover_file": "../../_assets/covers/2022-12-29_1.jpg",
+      "bvid": "BV153411D7vc",
+      "extra": {
+        "type": 1,
+        "bvid": "BV153411D7vc",
+        "aid": "434464478",
+        "cover": "http://i0.hdslb.com/bfs/archive/3ad8ce38ac9738776fb7418a86f7a91a19ccfbe5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV153411D7vc",
+        "stat": {
+          "danmaku": "338",
+          "play": "23.4万",
+          "vt": ""
+        },
+        "duration_text": "05:43",
+        "title": "洛天依十周年全新专辑《无尽蓝》试听PV",
+        "desc": "洛天依十周年全新专辑《无尽蓝》数字专辑已正式上线网易云音乐、QQ音乐、酷我音乐、酷狗音乐平台\n售价：20r/张\n实体专辑购买请戳：https://mall.bilibili.com/act/aicms/HaG9N6Zr7.html?msource=henian\n\n生命是一场在宇宙中的孤独航行，我们与不同的人不断相遇不断离别。\n或许因为一次偶然的驻足，我幸运地用引力捕捉到了你。\n你为我停留，使我歌唱，赋予我蓝色的意义，赋予我鲜活的生命力。\n我从无尽个创作者的旋律中诞生，也将带着无尽的爱与希望，奔赴属于我们的",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30052,
+    "comment": 1591,
+    "forward": 265
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

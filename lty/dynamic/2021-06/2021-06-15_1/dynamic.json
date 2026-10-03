@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "536459119128983556",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/536459119128983556",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月15日",
+    "pub_ts": 1623742522,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依裸眼3D好炫# #平安好车主加油季#\n天依带着安安惊现城市中心！\n武汉江汉路、深圳兆邦基大厦、重庆解放碑......炫酷效果拉满，欢迎大家来打卡哦！ ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依裸眼3D好炫#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%A3%B8%E7%9C%BC3D%E5%A5%BD%E7%82%AB"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#平安好车主加油季#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E5%AE%89%E5%A5%BD%E8%BD%A6%E4%B8%BB%E5%8A%A0%E6%B2%B9%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": "\n天依带着安安惊现城市中心！\n武汉江汉路、深圳兆邦基大厦、重庆解放碑......炫酷效果拉满，欢迎大家来打卡哦！ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6030,
+    "comment": 184,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 536447346620425713,
+    "orig_mid": 519910596,
+    "deleted": false,
+    "archive_dir": "../../../519910596/2021-06/2021-06-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:31:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

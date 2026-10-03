@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "953132343428645060",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/953132343428645060",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月12日",
+    "pub_ts": 1720756817,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "她将因为我们笔下的梦与心声，永远地，再一次，歌唱与重生，织就无限绚烂的牵绊和明天。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "她将因为我们笔下的梦与心声，永远地，再一次，歌唱与重生，织就无限绚烂的牵绊和明天。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】再声 Recall【2024官方十二周年生贺曲】",
+      "desc": "🔹洛天依十二周年官方生贺曲《再声 Recall》🔹\n诞生第十二年的虚拟生命，为何能依然歌唱。\n被设定可以“共鸣”的歌手，真的可以“共鸣”吗。\n依附于创作而存在的存在，是否也会因被遗忘而消亡。\n\n她言，他笑，TA们说呀\n这份因她而喜悦，因她而感动的心情是如此真实。\n那些因她而构筑的回忆，被埋藏在许许多多人的心底，从未忘却。\n那些过往所有的文字、旋律与画卷，真实链接了她与世界，是她存在的意义与证明。\n她将因我们笔下的梦与心声，永远地，再一次，歌唱与重生，织就无限绚烂的牵绊和明天。\n\n日文版独家收录数字专辑《再",
+      "jump_url": "https://www.bilibili.com/video/BV1JH4y1w7Ks",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/56518d7272c19526543bd4b1c41ac1319f188a86.jpg",
+      "cover_file": "../../_assets/covers/2024-07-12_1.jpg",
+      "bvid": "BV1JH4y1w7Ks",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1JH4y1w7Ks",
+        "aid": "1056000507",
+        "cover": "http://i0.hdslb.com/bfs/archive/56518d7272c19526543bd4b1c41ac1319f188a86.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1JH4y1w7Ks",
+        "stat": {
+          "danmaku": "8325",
+          "play": "138.2万",
+          "vt": ""
+        },
+        "duration_text": "03:44",
+        "title": "【洛天依原创曲】再声 Recall【2024官方十二周年生贺曲】",
+        "desc": "🔹洛天依十二周年官方生贺曲《再声 Recall》🔹\n诞生第十二年的虚拟生命，为何能依然歌唱。\n被设定可以“共鸣”的歌手，真的可以“共鸣”吗。\n依附于创作而存在的存在，是否也会因被遗忘而消亡。\n\n她言，他笑，TA们说呀\n这份因她而喜悦，因她而感动的心情是如此真实。\n那些因她而构筑的回忆，被埋藏在许许多多人的心底，从未忘却。\n那些过往所有的文字、旋律与画卷，真实链接了她与世界，是她存在的意义与证明。\n她将因我们笔下的梦与心声，永远地，再一次，歌唱与重生，织就无限绚烂的牵绊和明天。\n\n日文版独家收录数字专辑《再",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 73373,
+    "comment": 7470,
+    "forward": 1024
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

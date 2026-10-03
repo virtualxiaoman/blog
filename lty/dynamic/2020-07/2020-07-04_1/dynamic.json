@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "407993469027528614",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/407993469027528614",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月4日",
+    "pub_ts": 1593831782,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#Vsinger##CBA##相信自己#\n相信自己，你将赢得胜利！\nVsinger为CBA复赛应援，跟我们一起体会球场上的壮志激昂吧~\n\n《相信自己》\n歌曲原唱、作词、作曲：零点乐队\n调教：Creuzer\n演唱：洛天依、言和、乐正绫、墨清弦、乐正龙牙、徵羽摩柯",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "topic",
+        "text": "#CBA#",
+        "url": "https://search.bilibili.com/all?keyword=CBA"
+      },
+      {
+        "type": "topic",
+        "text": "#相信自己#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1"
+      },
+      {
+        "type": "text",
+        "text": "\n相信自己，你将赢得胜利！\nVsinger为CBA复赛应援，跟我们一起体会球场上的壮志激昂吧~\n\n《相信自己》\n歌曲原唱、作词、作曲：零点乐队\n调教：Creuzer\n演唱：洛天依、言和、乐正绫、墨清弦、乐正龙牙、徵羽摩柯"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【CBA×Vsinger】相信自己【MV】",
+      "desc": "相信自己，你将赢得胜利！\nVsinger为CBA复赛应援，跟我们一起体会球场上的壮志激昂吧~\n\n《相信自己》\n歌曲原唱、作词、作曲：零点乐队\n调教：Creuzer\n演唱：洛天依、言和、乐正绫、墨清弦、乐正龙牙、徵羽摩柯",
+      "jump_url": "https://www.bilibili.com/video/BV1qt4y197Z9",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/07f390793a31f7048c2cd40a4f30d5ad8cf972a8.jpg",
+      "cover_file": "../../_assets/covers/2020-07-04_1.jpg",
+      "bvid": "BV1qt4y197Z9",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qt4y197Z9",
+        "aid": "626169599",
+        "cover": "http://i0.hdslb.com/bfs/archive/07f390793a31f7048c2cd40a4f30d5ad8cf972a8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qt4y197Z9",
+        "stat": {
+          "danmaku": "2370",
+          "play": "17.4万",
+          "vt": ""
+        },
+        "duration_text": "04:22",
+        "title": "【CBA×Vsinger】相信自己【MV】",
+        "desc": "相信自己，你将赢得胜利！\nVsinger为CBA复赛应援，跟我们一起体会球场上的壮志激昂吧~\n\n《相信自己》\n歌曲原唱、作词、作曲：零点乐队\n调教：Creuzer\n演唱：洛天依、言和、乐正绫、墨清弦、乐正龙牙、徵羽摩柯",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26592,
+    "comment": 1329,
+    "forward": 190
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

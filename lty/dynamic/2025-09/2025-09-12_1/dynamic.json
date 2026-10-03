@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "1111679978822434838",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1111679978822434838",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月12日",
+    "pub_ts": 1757671565,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "🪶#洛天依逆转童话#轻故事集第一篇章「命运帷幕」揭晓\n在世界线的外侧，万水涌流的源头\n在映照着无数故事的命运之井中，诞生了一个生命。\n她天生拥有无尽的好奇心，能穿梭于世界线，与万物生命共鸣。\n少女日复一日观测着被书写好的故事，见证注定的悲欢离合……\n直到某日，她产生了一个疑问：“命运，真的无法改变吗？” [洛天依八音奇响动态_美丽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🪶"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依逆转童话#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+      },
+      {
+        "type": "text",
+        "text": "轻故事集第一篇章「命运帷幕」揭晓\n在世界线的外侧，万水涌流的源头\n在映照着无数故事的命运之井中，诞生了一个生命。\n她天生拥有无尽的好奇心，能穿梭于世界线，与万物生命共鸣。\n少女日复一日观测着被书写好的故事，见证注定的悲欢离合……\n直到某日，她产生了一个疑问：“命运，真的无法改变吗？” "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-12_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/79bf2b905d3a19f75259d1297772b1c836081646.jpg",
+        "width": 2383,
+        "height": 3588,
+        "size_kb": 5591.240234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6136,
+    "comment": 505,
+    "forward": 149
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

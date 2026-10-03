@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "872763811813130304",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/872763811813130304",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月8日",
+    "pub_ts": 1702044560,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "不叫做“假唱”，不只是“AI级音准”\n是当每一个音符拼接，每一刻声音响起，都是倾注想象和期待的证明。\n是工具，是乐器，是白纸，是纽带，是情感与情感的共鸣。\n是“虚拟歌手洛天依”呀~[洛天依蝶变_电子琴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不叫做“假唱”，不只是“AI级音准”\n是当每一个音符拼接，每一刻声音响起，都是倾注想象和期待的证明。\n是工具，是乐器，是白纸，是纽带，是情感与情感的共鸣。\n是“虚拟歌手洛天依”呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-08_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/077c75253f455e5300e8cb3e2b1a0c7236081646.jpg",
+        "width": 1143,
+        "height": 901,
+        "size_kb": 317.2333984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8790,
+    "comment": 433,
+    "forward": 125
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "1000673048664211510",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1000673048664211510",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月17日",
+    "pub_ts": 1731825750,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖​亲爱的维斯佩拉合唱团的听众朋友们，【洛天依·收藏集——潮声回响】 正式开启啦！\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份~ [洛天依-潮声回响_带上我]\n\n🔹 卡池收录：全新插画动态数字音乐卡、全新数字手办动态音乐卡、特色音乐卡、精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、典藏卡、专属表情包、专属动态个性主题\n🔹传送门：网页链接 \n\n评论区揪5位小伙伴送出【许愿指定普通款数字卡】一张哦！[洛天依-潮声回响_祈祷]\n从生活中每一处平凡的光景，到无限幻想的宇宙与海底深处，天依都想和你一起看遍～[洛天依-潮声回响_为你]\n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "328155",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "​亲爱的维斯佩拉合唱团的听众朋友们，【洛天依·收藏集——潮声回响】 正式开启啦！\n转发关注天依，揪5位小伙伴送出【收藏集5抽】1份~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_带上我]",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "name": "带上我",
+        "url": "https://i0.hdslb.com/bfs/garb/b8604e41a3f022731036690e02347c08c6279ffc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔹 卡池收录：全新插画动态数字音乐卡、全新数字手办动态音乐卡、特色音乐卡、精美数字卡牌\n🔹羁绊之礼解锁：钻石头像、空间背景、典藏卡、专属表情包、专属动态个性主题\n🔹传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=1046"
+      },
+      {
+        "type": "text",
+        "text": " \n\n评论区揪5位小伙伴送出【许愿指定普通款数字卡】一张哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祈祷]",
+        "package_id": "7109",
+        "emoji_id": "94952",
+        "name": "祈祷",
+        "url": "https://i0.hdslb.com/bfs/garb/2629705b659dad0ac0f79f48bb0e7085c186c950.png"
+      },
+      {
+        "type": "text",
+        "text": "\n从生活中每一处平凡的光景，到无限幻想的宇宙与海底深处，天依都想和你一起看遍～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_为你]",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "name": "为你",
+        "url": "https://i0.hdslb.com/bfs/garb/5a766d1d166f6ea1ac769f1e138942f5906f4c13.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e18edaf706bec656e651e531f7a4e5b736081646.jpg",
+        "width": 1125,
+        "height": 8317,
+        "size_kb": 6986.64013671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/带上我.png",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "text": "[洛天依-潮声回响_带上我]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/祈祷.png",
+        "package_id": "7109",
+        "emoji_id": "94952",
+        "text": "[洛天依-潮声回响_祈祷]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/为你.png",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "text": "[洛天依-潮声回响_为你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/97f05377bc598fcddd793c6cc32d2d1333dbf724.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=102550&hybrid_set_header=2&lottery_id=0&rebate=647193094&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2024-11-17_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "328155"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6010,
+    "comment": 1024,
+    "forward": 7054
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

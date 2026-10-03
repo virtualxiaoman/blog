@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "id": "896794419860078599",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/896794419860078599",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月11日",
+    "pub_ts": 1707639622,
+    "location": ""
+  },
+  "topic": {
+    "id": 1155630,
+    "name": "索尼音乐牵手洛天依",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1155630&topic_name=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "离天依和索尼音乐合作的首张EP《洛 LUO》正式上线已经过去一段时间啦，大家都没有都听过所有的歌曲哇？最喜欢哪首歌呀！[洛·LUO_吃一口吧]\n\n为了打造这张EP，背后的创作老师们付出了很多心血，希望通过五首不一样的音乐风格，邀约世界各地的优秀音乐人加入，诠释以“洛天依”为载体可以诠释的更多可能性，这份可能性又因有大家的驻足与聆听，而弥足珍贵。\n天依为大家带来了参与EP创作的老师们的寄语，非常荣幸可以和各位老师合作，一起来看看吧！[洛·LUO_爱了]\n\n[洛天依蝶变_害羞]传送门：网页链接\n[洛天依蝶变_YEAH！]截止至2月20日，在#索尼音乐牵手洛天依#话题中晒单（数字/实体），有机会获赠价值300/500元的天依周边礼包1份哦！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "离天依和索尼音乐合作的首张EP《洛 LUO》正式上线已经过去一段时间啦，大家都没有都听过所有的歌曲哇？最喜欢哪首歌呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_吃一口吧]",
+        "package_id": "4400",
+        "emoji_id": "62234",
+        "name": "吃一口吧",
+        "url": "https://i0.hdslb.com/bfs/emote/e1747fa217307e3b49458efd0029091743d64274.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n为了打造这张EP，背后的创作老师们付出了很多心血，希望通过五首不一样的音乐风格，邀约世界各地的优秀音乐人加入，诠释以“洛天依”为载体可以诠释的更多可能性，这份可能性又因有大家的驻足与聆听，而弥足珍贵。\n天依为大家带来了参与EP创作的老师们的寄语，非常荣幸可以和各位老师合作，一起来看看吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_爱了]",
+        "package_id": "4400",
+        "emoji_id": "62225",
+        "name": "爱了",
+        "url": "https://i0.hdslb.com/bfs/emote/abd42e8708c0cfd6465a6f221717bcc35dbe6943.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/3RwatRt"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_YEAH！]",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "name": "YEAH！",
+        "url": "https://i0.hdslb.com/bfs/emote/23bccf7bb8cb3bdf43d1dadc6854c4008b7a5885.png"
+      },
+      {
+        "type": "text",
+        "text": "截止至2月20日，在"
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "话题中晒单（数字/实体），有机会获赠价值300/500元的天依周边礼包1份哦！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-11_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/b70824f4f2aa9186d76b61e6eb82120036081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2877.18994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-11_2.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/e1360a18b47c35893366838d4a849ddb36081646.png",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 3618.050048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-11_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/cca8089c12e347fc4ff2262aaca9234736081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2936.070068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-02-11_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/99dee4e364c769479abb438205501f3536081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2824.929931640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-02-11_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/b88482ade6ba22b422d7d9637eca058036081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2822.22998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-02-11_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/dca526e5ae30fe30e1f6e54005b0855d36081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2847.449951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-02-11_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0ac1e55d331b2a05e53a198d7295d90436081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2583.010009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-02-11_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4d15a41e06e5c45c5f3c53814845987036081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2288.159912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-02-11_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/2e4c596c7871594051c978bcf0359f0936081646.jpg",
+        "width": 3000,
+        "height": 2250,
+        "size_kb": 2559.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/吃一口吧.png",
+        "package_id": "4400",
+        "emoji_id": "62234",
+        "text": "[洛·LUO_吃一口吧]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/爱了.png",
+        "package_id": "4400",
+        "emoji_id": "62225",
+        "text": "[洛·LUO_爱了]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/YEAH！.png",
+        "package_id": "3752",
+        "emoji_id": "52562",
+        "text": "[洛天依蝶变_YEAH！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5633,
+    "comment": 240,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

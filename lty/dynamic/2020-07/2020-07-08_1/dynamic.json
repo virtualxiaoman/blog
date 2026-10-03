@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "409604992302594636",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/409604992302594636",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月8日",
+    "pub_ts": 1594206994,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援# #洛天依0712生日快乐#  跟小伙伴们约定好的B站主题装扮正式开始预约啦~ 8周年来陪天依一起过生日，让蔚蓝的天空指引我们探索新的领域。 装扮中包含动态卡片、点赞动效和全新表情包，还有带着8的主题头像框。 7月12日当天中午12:00装扮正式开售，让我们度过不一样的2020吧[给你小心心]  另外，昨天误上架时已经买过装扮的小伙伴们可以获得另一个特殊的非永久头像框作为补偿，时长90天。 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  跟小伙伴们约定好的B站主题装扮正式开始预约啦~ 8周年来陪天依一起过生日，让蔚蓝的天空指引我们探索新的领域。 装扮中包含动态卡片、点赞动效和全新表情包，还有带着8的主题头像框。 7月12日当天中午12:00装扮正式开售，让我们度过不一样的2020吧"
+      },
+      {
+        "type": "text",
+        "text": "[给你小心心]"
+      },
+      {
+        "type": "text",
+        "text": "  另外，昨天误上架时已经买过装扮的小伙伴们可以获得另一个特殊的非永久头像框作为补偿，时长90天。 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-08_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c2a7bdb7d93a134c8011e535c7df1479135b95ed.jpg",
+        "width": 750,
+        "height": 6282,
+        "size_kb": 3191.2705078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10083,
+    "comment": 736,
+    "forward": 159
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

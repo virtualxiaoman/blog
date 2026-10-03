@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "907990549225537537",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/907990549225537537",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月12日",
+    "pub_ts": 1710246424,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "恭喜你，领养了一只小天依[洛天依_礼物]\n你决定给她取一个可爱的名字，就叫_____\n看到了______，她一把抱住你！\n“我要这个！！”[洛天依幻游世界_哇哦][洛天依幻游世界_哇哦]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜你，领养了一只小天依"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n你决定给她取一个可爱的名字，就叫_____\n看到了______，她一把抱住你！\n“我要这个！！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_哇哦]",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "name": "哇哦",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e5bc68534e3271c873a8ab2cabe0eac69b01a952.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_哇哦]",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "name": "哇哦",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e5bc68534e3271c873a8ab2cabe0eac69b01a952.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-12_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ab9677fd38deb7c30384a26aca06cac136081646.png",
+        "width": 1254,
+        "height": 1303,
+        "size_kb": 2318.1630859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/哇哦.png",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "text": "[洛天依幻游世界_哇哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7681,
+    "comment": 500,
+    "forward": 100
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

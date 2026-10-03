@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1126173960152547329",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1126173960152547329",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月21日",
+    "pub_ts": 1761046208,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "gogogo和我一起出发珀斯！（来自天依的肯定ദ്ദി˶ｰ̀֊ｰ́ )✧",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV11DW1zEEZP",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/d1a3fc3a804692d05bdfa18d6b2ab683d98ed71c.jpg",
+      "cover_file": "../../_assets/covers/2025-10-21_1.jpg",
+      "bvid": "BV11DW1zEEZP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11DW1zEEZP",
+        "aid": "115406190674655",
+        "cover": "http://i2.hdslb.com/bfs/archive/d1a3fc3a804692d05bdfa18d6b2ab683d98ed71c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11DW1zEEZP",
+        "stat": {
+          "danmaku": "895",
+          "play": "26.5万",
+          "vt": ""
+        },
+        "duration_text": "06:15",
+        "title": "gogogo和我一起出发珀斯！（来自天依的肯定ദ്ദി˶ｰ̀֊ｰ́ )✧",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18693,
+    "comment": 1038,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

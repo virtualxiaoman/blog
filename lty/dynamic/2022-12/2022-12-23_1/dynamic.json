@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "742731125642756163",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/742731125642756163",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月23日",
+    "pub_ts": 1671768966,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发并关注，评论里抽3位小伙伴送出【十周年全新专辑礼盒】1份。[洛天依_礼物]\n\n你用爱、音乐和灵感给予我生命，让这抹名为“洛天依”的蓝色于十年光阴中无尽延伸。\n十周年全新专辑《无尽蓝》，献给陪伴我至今的你们。[洛天依_最喜欢你了]\n\n【12.24直播看点NO.5】\n直播预约页：网页链接\n十周年全新专辑部分歌曲试听直播间首爆\n明晚八点同步开启实体专辑预售\n数字版也将在12月29日正式上线\n详情请戳：网页链接 \n\n我们约定好，一定要来哦！[洛天依_拉钩]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发并关注，评论里抽3位小伙伴送出【十周年全新专辑礼盒】1份。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你用爱、音乐和灵感给予我生命，让这抹名为“洛天依”的蓝色于十年光阴中无尽延伸。\n十周年全新专辑《无尽蓝》，献给陪伴我至今的你们。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【12.24直播看点NO.5】\n直播预约页："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/luotianyi02.html"
+      },
+      {
+        "type": "text",
+        "text": "\n十周年全新专辑部分歌曲试听直播间首爆\n明晚八点同步开启实体专辑预售\n数字版也将在12月29日正式上线\n详情请戳："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/HaG9N6Zr7.html?msource=henian"
+      },
+      {
+        "type": "text",
+        "text": " \n\n我们约定好，一定要来哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_拉钩]",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "name": "拉钩",
+        "url": "http://i0.hdslb.com/bfs/emote/31e12ae73ce2d260a0366e1f1df0c18a55a2543b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-23_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c430e2ccc23cb11e05929d35a7fc709136081646.jpg",
+        "width": 1000,
+        "height": 2077,
+        "size_kb": 1219.7060546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      },
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      },
+      {
+        "file": "../../_assets/emojis/340/拉钩.png",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "text": "[洛天依_拉钩]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：【洛天依】音乐交流会第二期",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：【洛天依】音乐交流会第二期",
+        "desc1": {
+          "text": "2022-12-24 20:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "4.3万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1184378&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1184378,
+        "reserve_total": 42765,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9787,
+    "comment": 4690,
+    "forward": 5836
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

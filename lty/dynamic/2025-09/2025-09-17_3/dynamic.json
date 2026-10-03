@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "1113565018532610064",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1113565018532610064",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月17日",
+    "pub_ts": 1758110460,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "大家期待许久的2025洛天依「无限共鸣·流光协奏」\n全息演唱会回放详细说明来咯！[洛天依动态流光协奏_捧花]\n\n♾来自天依的不看长图精简版说明：\n✨30个小笼包投喂天依解锁演唱会完整回放和「逆转童话」的主题曲PV~\n加可以参与1次专属抽奖，当然去年的回放也可以再重温一遍啦！\n✨88个小笼包投喂天依额外解锁专属特别感谢视频、图文动态、抽奖动态\n前400位还将获赠「流光协奏」收藏集5抽1份哦！\n\n（🍎会有额外30%渠道费用，需要的小伙伴记得切换网页版支付呀~）\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家期待许久的2025洛天依「无限共鸣·流光协奏」\n全息演唱会回放详细说明来咯！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♾来自天依的不看长图精简版说明：\n✨30个小笼包投喂天依解锁演唱会完整回放和「逆转童话」的主题曲PV~\n加可以参与1次专属抽奖，当然去年的回放也可以再重温一遍啦！\n✨88个小笼包投喂天依额外解锁专属特别感谢视频、图文动态、抽奖动态\n前400位还将获赠「流光协奏」收藏集5抽1份哦！\n\n（🍎会有额外30%渠道费用，需要的小伙伴记得切换网页版支付呀~）"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-17_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ebc54d0d31ff77047137504f6c23ff5636081646.jpg",
+        "width": 1080,
+        "height": 6067,
+        "size_kb": 5361.162,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-17_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a3075716fd86faf8d9ba6e337ff73ab636081646.jpg",
+        "width": 2098,
+        "height": 1347,
+        "size_kb": 2319.575,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6127,
+    "comment": 1449,
+    "forward": 209
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

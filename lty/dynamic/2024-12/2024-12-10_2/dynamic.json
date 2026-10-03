@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1009259053341212689",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1009259053341212689",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月10日",
+    "pub_ts": 1733824835,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依《祝福》Cover舞台【万代南梦宫嘉年华2024】",
+      "desc": "《祝福》\n作曲/作词：Ayase（YOASOBI）\n原唱：ikura（YOASOBI）\n调校：AtonyP",
+      "jump_url": "https://www.bilibili.com/video/BV1wnqGYBEAm",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6235f8be5b2dc8610638e26e0259adc971014dd4.jpg",
+      "cover_file": "../../_assets/covers/2024-12-10_1.jpg",
+      "bvid": "BV1wnqGYBEAm",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wnqGYBEAm",
+        "aid": "113627101135479",
+        "cover": "http://i1.hdslb.com/bfs/archive/6235f8be5b2dc8610638e26e0259adc971014dd4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wnqGYBEAm",
+        "stat": {
+          "danmaku": "342",
+          "play": "32.8万",
+          "vt": ""
+        },
+        "duration_text": "03:13",
+        "title": "洛天依《祝福》Cover舞台【万代南梦宫嘉年华2024】",
+        "desc": "《祝福》\n作曲/作词：Ayase（YOASOBI）\n原唱：ikura（YOASOBI）\n调校：AtonyP",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 60075,
+    "comment": 1170,
+    "forward": 142
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

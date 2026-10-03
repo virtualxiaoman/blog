@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "746144048389030024",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/746144048389030024",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月1日",
+    "pub_ts": 1672563599,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果我是一只小兔叽[洛天依_捏捏]​",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果我是一只小兔叽"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "​"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8637,
+    "comment": 295,
+    "forward": 45
+  },
+  "forward": {
+    "orig_id": 745881200700162307,
+    "orig_mid": 34727551,
+    "deleted": false,
+    "archive_dir": "../../../34727551/2023-01/2023-01-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:48:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

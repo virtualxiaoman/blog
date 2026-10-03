@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "id": "1212520983413391380",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1212520983413391380",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月11日",
+    "pub_ts": 1781150441,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "为洛天依「无限共鸣·纯蓝幻乐」全国巡演注入更多BLUE能量——\n天依的十四位“蓝色朋友”们大集合！来为天依的六城全国巡演加油助威啦~[洛天依八音奇响动态_可爱]\n\n北京、杭州、成都、上海、长沙、广州\n蓝色信号已锁定六城，心动信号持续加载中\n和天依一起共赴这场纯蓝幻乐，让未说出口的情绪在歌声中奔涌\n让每一座城市都绽放出万千绚烂的「蓝」吧！[洛天依动态流光协奏_捧花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "为洛天依「无限共鸣·纯蓝幻乐」全国巡演注入更多BLUE能量——\n天依的十四位“蓝色朋友”们大集合！来为天依的六城全国巡演加油助威啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n北京、杭州、成都、上海、长沙、广州\n蓝色信号已锁定六城，心动信号持续加载中\n和天依一起共赴这场纯蓝幻乐，让未说出口的情绪在歌声中奔涌\n让每一座城市都绽放出万千绚烂的「蓝」吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-11_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6b6657a6bbd9b723ac53a5cb3f0d1aa836081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3651.02001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-06-11_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/42562ee4a8513556d51b7bc843c258f036081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3872.6201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-06-11_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/894d5b78414ca05957a02ff3b772f7ac36081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3465.909912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-06-11_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/adf8f09786fecc60b32fad628ee414ff36081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3247.47998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-06-11_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/403efed0a164e4a989d3ebb24751671736081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3573.8701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-06-11_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6fd86e0b4dd9e2e31d9fcb82b6fd420336081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3450.590087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-06-11_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/05f750652f0dd8361219c24b5bbc18b636081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3916.010009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-06-11_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2a429727158454a58809692fa123d78336081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 5309.22021484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-06-11_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/80aeaf92d697d0fcf9518b0fdfadc70636081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3949.8701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2026-06-11_10.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/73643d7004f63b6848b397aa78189cd136081646.png",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 6134.60009765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 11,
+        "file": "../../_assets/images/2026-06-11_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b3635472b46bd6108e7a240b179362336081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3594.2099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 12,
+        "file": "../../_assets/images/2026-06-11_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/739e06014c3710b4fa4cb5f23c0f2a0736081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3589.320068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 13,
+        "file": "../../_assets/images/2026-06-11_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d0857e20614187d6bc5a7ecdacf502da36081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 3994.969970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 14,
+        "file": "../../_assets/images/2026-06-11_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5d46f48ba80d2baf37de91d98a9bc63c36081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 4419.68017578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "北京·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202606/n5rArC8l1780917394_1780917394816.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1002171&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1212520983413391380",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-06-11_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4306,
+    "comment": 311,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:23:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

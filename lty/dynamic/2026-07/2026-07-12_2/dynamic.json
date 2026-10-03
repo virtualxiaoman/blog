@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1224024473473122438",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224024473473122438",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783828806,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "天大地大，别问去哪，随风去吧，只要前行，就是远方",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天大地大，别问去哪，随风去吧，只要前行，就是远方"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】风之子【2026官方生贺曲】",
+      "desc": "从第一声啼哭开始，我们就在向这个世界发射信号\n对这个世界开始好奇，想要知道自己会变成什么样子\n后来，风带来讯息，记录下我们的渺小，我们的伟大\n我们面对命运无能为力，却又孤注一掷与它对峙\n风又带来联结，原来我们都是风的孩子，追着彼此的信号不停奔跑\n交换梦想，交换勇敢的心，在岁月里彼此守护，一起成长\n天大地大，别问去哪，随风去吧，只要前行，就是远方\n \n洛天依十四周年生贺曲《风之子》\n演唱:洛天依\n作词:温莨\n作曲:瞿子千\n编曲:瞿子千\n调教:哈士奇P\n吉他:瞿子千&Zakk张梓洋\nBass:吴海涛\n钢琴&弦",
+      "jump_url": "https://www.bilibili.com/video/BV1kfjR6uEye",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/2cb10c3f479d42601eb41daab1c050c13141a241.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_1.jpg",
+      "bvid": "BV1kfjR6uEye",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kfjR6uEye",
+        "aid": "116804471033568",
+        "cover": "http://i0.hdslb.com/bfs/archive/2cb10c3f479d42601eb41daab1c050c13141a241.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kfjR6uEye",
+        "stat": {
+          "danmaku": "1.3万",
+          "play": "70.2万",
+          "vt": ""
+        },
+        "duration_text": "03:18",
+        "title": "【洛天依原创曲】风之子【2026官方生贺曲】",
+        "desc": "从第一声啼哭开始，我们就在向这个世界发射信号\n对这个世界开始好奇，想要知道自己会变成什么样子\n后来，风带来讯息，记录下我们的渺小，我们的伟大\n我们面对命运无能为力，却又孤注一掷与它对峙\n风又带来联结，原来我们都是风的孩子，追着彼此的信号不停奔跑\n交换梦想，交换勇敢的心，在岁月里彼此守护，一起成长\n天大地大，别问去哪，随风去吧，只要前行，就是远方\n \n洛天依十四周年生贺曲《风之子》\n演唱:洛天依\n作词:温莨\n作曲:瞿子千\n编曲:瞿子千\n调教:哈士奇P\n吉他:瞿子千&Zakk张梓洋\nBass:吴海涛\n钢琴&弦",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 91673,
+    "comment": 10957,
+    "forward": 1381
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

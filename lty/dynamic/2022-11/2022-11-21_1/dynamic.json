@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "730969177290964999",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/730969177290964999",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月21日",
+    "pub_ts": 1669030424,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "#论投影的便捷使用方式# 区区GAME OVER╥﹏╥ 没关系！随时随地，再来一局！嘿(¬◡¬)✧\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#论投影的便捷使用方式#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%8A%95%E5%BD%B1%E7%9A%84%E4%BE%BF%E6%8D%B7%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F"
+      },
+      {
+        "type": "text",
+        "text": " 区区GAME OVER╥﹏╥ 没关系！随时随地，再来一局！嘿(¬◡¬)✧"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-21_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/27391bfe2cb17cae6359e98a7870936636081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 78.4287109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9134,
+    "comment": 383,
+    "forward": 87
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

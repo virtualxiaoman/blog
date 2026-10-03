@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "837838773893988407",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/837838773893988407",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月5日",
+    "pub_ts": 1693912941,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "提问！爸爸的爸爸的妹妹的女儿叫什么？[古色花香洛天依_实在优雅]很高兴合作啦！希望大家喜欢天依的这个版本~[古色花香洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "提问！爸爸的爸爸的妹妹的女儿叫什么？"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_实在优雅]",
+        "package_id": "1096",
+        "emoji_id": "19444",
+        "name": "实在优雅",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c5d386d162e445e3dc2a49ad8dbb354e43b818aa.png"
+      },
+      {
+        "type": "text",
+        "text": "很高兴合作啦！希望大家喜欢天依的这个版本~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/实在优雅.png",
+        "package_id": "1096",
+        "emoji_id": "19444",
+        "text": "[古色花香洛天依_实在优雅]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4770,
+    "comment": 360,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 837832610866528257,
+    "orig_mid": 3494351592229746,
+    "deleted": false,
+    "archive_dir": "../../../3494351592229746/2023-09/2023-09-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:57:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1090844375193223172",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1090844375193223172",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月18日",
+    "pub_ts": 1752820398,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是演唱会主题卡池哦，可以预约啦！[洛天依八音奇响动态_美丽]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是演唱会主题卡池哦，可以预约啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3130,
+    "comment": 155,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 1090841510456328194,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2025-07/2025-07-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:35:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

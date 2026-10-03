@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "971431631392866325",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/971431631392866325",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月30日",
+    "pub_ts": 1725017452,
+    "location": ""
+  },
+  "topic": {
+    "id": 1164892,
+    "name": "天依唱片机",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1164892&topic_name=%E5%A4%A9%E4%BE%9D%E5%94%B1%E7%89%87%E6%9C%BA"
+  },
+  "content": {
+    "title": "",
+    "text": "谁还没有听存存老师的新歌！[心律共鸣动态表情包_享受音乐][心律共鸣动态表情包_享受音乐]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "谁还没有听存存老师的新歌！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/享受音乐.gif",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "text": "[心律共鸣动态表情包_享受音乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5389,
+    "comment": 160,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 969237646173798423,
+    "orig_mid": 341368,
+    "deleted": false,
+    "archive_dir": "../../../341368/2024-08/2024-08-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

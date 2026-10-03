@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1101181253424513064",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1101181253424513064",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月15日",
+    "pub_ts": 1755227140,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依很高兴收到「鱼鲤DJ」的邀请，为大家带来天依歌曲的音游小游戏[洛天依动态流光协奏_打call]\n一起来玩吧！还准备了天依的角色皮肤和周边礼物可以兑换哦！[洛天依动态流光协奏_抱抱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依很高兴收到「鱼鲤DJ」的邀请，为大家带来天依歌曲的音游小游戏"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n一起来玩吧！还准备了天依的角色皮肤和周边礼物可以兑换哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_抱抱]",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "name": "抱抱",
+        "url": "https://i0.hdslb.com/bfs/garb/790d7b3dff8b3e72e577d4a077a00d2160d808e7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/54b29f221a7d7de010d58b862b67e8a436081646.jpg",
+        "width": 961,
+        "height": 3048,
+        "size_kb": 1608.208,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/抱抱.gif",
+        "package_id": "8399",
+        "emoji_id": "115679",
+        "text": "[洛天依动态流光协奏_抱抱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4431,
+    "comment": 658,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:38:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

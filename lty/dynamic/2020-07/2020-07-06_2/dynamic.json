@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "408861692377067632",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/408861692377067632",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月6日",
+    "pub_ts": 1594033931,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援# #洛天依0712生日快乐#  8这个数字对天依而言饱含太多的意义和回忆，是我们之间相互激励的循环，是数不尽的无数可能，既承载着过去，也拓展了时间的道路，是默契，也是再次出发的标志。 目前B站上的#2020洛天依生日应援# 活动正在举办中，还没参加的小伙伴们快来吧！ 除了在动态发布活动话题，也记得在投稿视频时加上指定tag，将你的洛天依八周年回忆与愿望都记录下来，有机会可以获得纪念主题装扮和2020洛天依生日周边哦[爱心] 活动地址：网页链接 装扮先偷偷给小伙伴们看一眼吧，请期待后续预约跟正式上架~  P.S.#与洛天依分享你的城# 活动也还在进行中，别忘了在活动话题中投稿   转发这条动态抽取5个小伙伴送天依8周年限定周边1套​互动抽奖 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  8这个数字对天依而言饱含太多的意义和回忆，是我们之间相互激励的循环，是数不尽的无数可能，既承载着过去，也拓展了时间的道路，是默契，也是再次出发的标志。 目前B站上的"
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " 活动正在举办中，还没参加的小伙伴们快来吧！ 除了在动态发布活动话题，也记得在投稿视频时加上指定tag，将你的洛天依八周年回忆与愿望都记录下来，有机会可以获得纪念主题装扮和2020洛天依生日周边哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[爱心]",
+        "package_id": "1",
+        "emoji_id": "550",
+        "name": "爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ed04066ea7124106d17ffcaf75600700e5442f5c.png"
+      },
+      {
+        "type": "text",
+        "text": " 活动地址："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/luotianyi8th-h5.html"
+      },
+      {
+        "type": "text",
+        "text": " 装扮先偷偷给小伙伴们看一眼吧，请期待后续预约跟正式上架~  P.S."
+      },
+      {
+        "type": "topic",
+        "text": "#与洛天依分享你的城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E5%9F%8E"
+      },
+      {
+        "type": "text",
+        "text": " 活动也还在进行中，别忘了在活动话题中投稿   转发这条动态抽取5个小伙伴送天依8周年限定周边1套"
+      },
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "47360",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-06_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f50bcf9c7798ec9febb3451ae05c7b4aee05ce79.png",
+        "width": 800,
+        "height": 800,
+        "size_kb": 907.7880859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-07-06_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ceeffff4ec4baf0b8e161932f18c6cb8b38cea28.png",
+        "width": 574,
+        "height": 451,
+        "size_kb": 220.74609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1/爱心.png",
+        "package_id": "1",
+        "emoji_id": "550",
+        "text": "[爱心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "47360"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9803,
+    "comment": 1143,
+    "forward": 4914
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

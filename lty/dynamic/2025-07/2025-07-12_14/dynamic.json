@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088698192920313878",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088698192920313878",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752320701,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "阿弥陀佛！高高唱！ |《阿弥陀佛头摇摇》洛天依十三周年生日",
+      "desc": "一起头摇摇吧~！\n\n《阿弥陀佛头摇摇》\n作曲：希望索任合资\n作词：冥凰\n编曲：希望索任合资\n混音：希望索任合资\n调教：Creuzer\n原pv：BV1W7411K7jQ",
+      "jump_url": "https://www.bilibili.com/video/BV1r8uKzbEYu",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/7b1744049bad3a8161c119c25431963a028fa32e.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_7.jpg",
+      "bvid": "BV1r8uKzbEYu",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1r8uKzbEYu",
+        "aid": "114830446955458",
+        "cover": "http://i1.hdslb.com/bfs/archive/7b1744049bad3a8161c119c25431963a028fa32e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1r8uKzbEYu",
+        "stat": {
+          "danmaku": "530",
+          "play": "168.3万",
+          "vt": ""
+        },
+        "duration_text": "05:11",
+        "title": "阿弥陀佛！高高唱！ |《阿弥陀佛头摇摇》洛天依十三周年生日",
+        "desc": "一起头摇摇吧~！\n\n《阿弥陀佛头摇摇》\n作曲：希望索任合资\n作词：冥凰\n编曲：希望索任合资\n混音：希望索任合资\n调教：Creuzer\n原pv：BV1W7411K7jQ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36942,
+    "comment": 603,
+    "forward": 90
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

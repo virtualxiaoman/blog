@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "576450208164457022",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/576450208164457022",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月1日",
+    "pub_ts": 1633053673,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依游学季# 大家国庆节快乐！“钿记上了”国庆特刊和美好的小长假一起送达！ 虽然有些害羞，但天钿记录的故事，也是这次游学中非常重要的组成部分，大家看完不要笑我(*/ω＼*) 本次游学季就到这里结束啦，虽然很不舍，但好在快乐的假期就要开始喽！大家的假期都准备怎样度过呀~ [洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学季#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": " 大家国庆节快乐！“钿记上了”国庆特刊和美好的小长假一起送达！ 虽然有些害羞，但天钿记录的故事，也是这次游学中非常重要的组成部分，大家看完不要笑我(*/ω＼*) 本次游学季就到这里结束啦，虽然很不舍，但好在快乐的假期就要开始喽！大家的假期都准备怎样度过呀~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-10-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/870e6aea68644e3fd9c5b984026e5ea4ee9d49bb.jpg",
+        "width": 3508,
+        "height": 4961,
+        "size_kb": 8394.9404296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7464,
+    "comment": 295,
+    "forward": 95
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:37:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "id": "805911507426607170",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/805911507426607170",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月11日",
+    "pub_ts": 1686479295,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依&Vicky宣宣 合作歌曲《健康歌2023》已发布\r\n预备备！ 左三圈右三圈｜洛天依&Vicky宣宣\r\n转发并关注天依，揪3位小伙伴送出【洛天依充电宝】1份。\r\n\r\n“别再为世俗的眼光焦虑和彷徨，快乐和健康永远最最最重要！”\r\n非常高兴可以和宣宣一起唱歌！希望大家喜欢呀。\r\n将想给大家的能量化为音乐唱给大家听，天依以后也会和更多朋友一起，唱大家心中的歌~[代号洛天依_好好7]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "157331",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依&Vicky宣宣 合作歌曲《健康歌2023》已发布\r\n"
+      },
+      {
+        "type": "video",
+        "text": "预备备！ 左三圈右三圈｜洛天依&Vicky宣宣",
+        "url": "https://www.bilibili.com/video/av529690497",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\r\n转发并关注天依，揪3位小伙伴送出【洛天依充电宝】1份。\r\n\r\n“别再为世俗的眼光焦虑和彷徨，快乐和健康永远最最最重要！”\r\n非常高兴可以和宣宣一起唱歌！希望大家喜欢呀。\r\n将想给大家的能量化为音乐唱给大家听，天依以后也会和更多朋友一起，唱大家心中的歌~"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_好好7]",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "name": "好好7",
+        "url": "https://i0.hdslb.com/bfs/emote/5c18d25ff1471abe618d86896d765ddc0d3605c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-06-11_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9dbe03b52f66851deb74d59ded0818b636081646.png",
+        "width": 1186,
+        "height": 1186,
+        "size_kb": 256.8525390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-06-11_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b30cea973d8eece6b5240eca9697770a36081646.png",
+        "width": 936,
+        "height": 936,
+        "size_kb": 246.7587890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-06-11_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/202b80e35c5b3ec603e50b38c1555e6136081646.png",
+        "width": 1023,
+        "height": 1023,
+        "size_kb": 267.765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-06-11_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ea2c5108fb4a6715a81816732cf52bd336081646.png",
+        "width": 1241,
+        "height": 1241,
+        "size_kb": 482.12109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-06-11_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1cd44db8b7e3df78218c5658ed306c3c36081646.jpg",
+        "width": 1780,
+        "height": 1113,
+        "size_kb": 291.5146484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-06-11_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/42ae8ce63d794bc815264e507a40e72c36081646.png",
+        "width": 1016,
+        "height": 1016,
+        "size_kb": 224.2958984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-06-11_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1d49e16f9137431f659be491e2f4da3936081646.png",
+        "width": 1194,
+        "height": 1194,
+        "size_kb": 247.03125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-06-11_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/052575ba4c8d871b3ad3e9a77e6c5d7236081646.png",
+        "width": 1096,
+        "height": 1096,
+        "size_kb": 264.48828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-06-11_9.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64ceaa3a411855f870999e0f5901c8b336081646.png",
+        "width": 1393,
+        "height": 1393,
+        "size_kb": 338.0771484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/好好7.png",
+        "package_id": "1842",
+        "emoji_id": "32135",
+        "text": "[代号洛天依_好好7]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "157331"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9923,
+    "comment": 1139,
+    "forward": 6893
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

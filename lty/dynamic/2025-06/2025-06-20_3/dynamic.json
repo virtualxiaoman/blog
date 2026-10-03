@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "1080537218234187781",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1080537218234187781",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月20日",
+    "pub_ts": 1750420576,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "BW展会的特别设定也分享给大家，设定上是一位珠宝学徒在经过漫长的学艺过程中，最终穿上自己制作的华丽珠宝的故事，就像天依在大家的创作下华丽变身，天依就是那颗宝石原石，在大家的雕刻下才能焕发光彩~！[洛天依-潮声回响_祝贺]查看图片",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "BW展会的特别设定也分享给大家，设定上是一位珠宝学徒在经过漫长的学艺过程中，最终穿上自己制作的华丽珠宝的故事，就像天依在大家的创作下华丽变身，天依就是那颗宝石原石，在大家的雕刻下才能焕发光彩~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      },
+      {
+        "type": "unknown",
+        "text": "查看图片",
+        "url": "",
+        "node_type": "RICH_TEXT_NODE_TYPE_VIEW_PICTURE"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4196,
+    "comment": 126,
+    "forward": 65
+  },
+  "forward": {
+    "orig_id": 1080525999758639105,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-06-20_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "1180236921133072405",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1180236921133072405",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月16日",
+    "pub_ts": 1773633722,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依又解锁新体验啦！[乐鸣东方动态表情包_开心]\n收到一位神秘新朋友的邀请，这次将为大家带来全新合作曲哦，一起期待吧～[乐鸣东方动态表情包_骄傲]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依又解锁新体验啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n收到一位神秘新朋友的邀请，这次将为大家带来全新合作曲哦，一起期待吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_骄傲]",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/90f6913236ea8c76ed65669cd4a5e7e25de676f4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/骄傲.gif",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "text": "[乐鸣东方动态表情包_骄傲]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来自神秘新朋友的邀请，敬请期待我们的全新合作曲吧！",
+      "desc": "天依又解锁新体验啦！[乐鸣东方动态表情包_开心]\n收到一位神秘新朋友的邀请，这次将为大家带来全新合作曲哦，一起期待吧～[乐鸣东方动态表情包_骄傲]",
+      "jump_url": "https://www.bilibili.com/video/BV138wjzREWX",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d00901acfa13e596593777f6b187e39fbee15921.png",
+      "cover_file": "../../_assets/covers/2026-03-16_1.png",
+      "bvid": "BV138wjzREWX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV138wjzREWX",
+        "aid": "116236847550038",
+        "cover": "http://i0.hdslb.com/bfs/archive/d00901acfa13e596593777f6b187e39fbee15921.png",
+        "jump_url": "//www.bilibili.com/video/BV138wjzREWX",
+        "stat": {
+          "danmaku": "35",
+          "play": "9万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "来自神秘新朋友的邀请，敬请期待我们的全新合作曲吧！",
+        "desc": "天依又解锁新体验啦！[乐鸣东方动态表情包_开心]\n收到一位神秘新朋友的邀请，这次将为大家带来全新合作曲哦，一起期待吧～[乐鸣东方动态表情包_骄傲]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11640,
+    "comment": 1052,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

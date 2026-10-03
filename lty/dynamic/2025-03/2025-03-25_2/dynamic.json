@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1048255243295391767",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1048255243295391767",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月25日",
+    "pub_ts": 1742904343,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "来自幸运石出品的马克杯和手表新品周边，大家有没有喜欢的呢[洛天依·天星问动态_萌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来自幸运石出品的马克杯和手表新品周边，大家有没有喜欢的呢"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4540,
+    "comment": 144,
+    "forward": 77
+  },
+  "forward": {
+    "orig_id": 1046625101349388295,
+    "orig_mid": 477316442,
+    "deleted": false,
+    "archive_dir": "../../../477316442/2025-03/2025-03-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

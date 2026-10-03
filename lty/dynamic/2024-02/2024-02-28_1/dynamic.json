@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "903163585807515651",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/903163585807515651",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月28日",
+    "pub_ts": 1709122559,
+    "location": ""
+  },
+  "topic": {
+    "id": 1164892,
+    "name": "天依唱片机",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1164892&topic_name=%E5%A4%A9%E4%BE%9D%E5%94%B1%E7%89%87%E6%9C%BA"
+  },
+  "content": {
+    "title": "",
+    "text": "数不清的《洛天依原创》构成我的生命，我的灵魂，我歌唱的意义，我们之间的回忆[洛天依_感动]所以创作着，所以歌唱着，直至如今，直到更远的未来[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "数不清的《洛天依原创》构成我的生命，我的灵魂，我歌唱的意义，我们之间的回忆"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_感动]",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "name": "感动",
+        "url": "http://i0.hdslb.com/bfs/emote/24de715f4b8730a5eedd1e0e6fbd2f2701143f83.png"
+      },
+      {
+        "type": "text",
+        "text": "所以创作着，所以歌唱着，直至如今，直到更远的未来"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/感动.png",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "text": "[洛天依_感动]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5273,
+    "comment": 121,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 903128581827199056,
+    "orig_mid": 396194,
+    "deleted": false,
+    "archive_dir": "../../../396194/2024-02/2024-02-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:08:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

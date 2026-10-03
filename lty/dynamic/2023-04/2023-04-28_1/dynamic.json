@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "id": "789581629694672919",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/789581629694672919",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月28日",
+    "pub_ts": 1682677199,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​「FuRyu Vsinger 洛天依 流星 Ver. 泡面压 景品手办」预售开启\n渴望做舞台上最璀璨的那颗星，在你的眼中留下闪耀的轨迹[洛天依_击掌]\n\n※【产品信息】\n售价：119元\n出品方： FuRyu\n预售截止时间：6月2日\n\n※【特典信息】\nQ版色纸\n更多活动详情小伙伴们可以前往会员购查看喔~[洛天依幻游世界_冲鸭]\n网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​「FuRyu Vsinger 洛天依 流星 Ver. 泡面压 景品手办」预售开启\n渴望做舞台上最璀璨的那颗星，在你的眼中留下闪耀的轨迹"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※【产品信息】\n售价：119元\n出品方： FuRyu\n预售截止时间：6月2日\n\n※【特典信息】\nQ版色纸\n更多活动详情小伙伴们可以前往会员购查看喔~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_冲鸭]",
+        "package_id": "1066",
+        "emoji_id": "18939",
+        "name": "冲鸭",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e90fd81e8eff2a64a913dc49aa5ebfd7b1d7bc19.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/IXqibwrk2.html?msource=yyqbanner_btdt"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-28_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/388cebad3abfb28964f4f6012729c92b36081646.jpg",
+        "width": 2550,
+        "height": 2550,
+        "size_kb": 565.0900268554688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-04-28_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/752e42640344c0bed77508ac93d463ca36081646.jpg",
+        "width": 2550,
+        "height": 2550,
+        "size_kb": 690.3200073242188,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-04-28_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/eeabd09f8a7daaa067c1032cfffb6de836081646.jpg",
+        "width": 2550,
+        "height": 2550,
+        "size_kb": 631.5499877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-04-28_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d3895ed1ed26d14b7427165fc605fa1e36081646.jpg",
+        "width": 2550,
+        "height": 2550,
+        "size_kb": 570.1199951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/冲鸭.png",
+        "package_id": "1066",
+        "emoji_id": "18939",
+        "text": "[洛天依幻游世界_冲鸭]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "FuRyu 泡面压 Vsinger 洛天依 流星Ver.景品手办",
+            "price": "¥89.06",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/99/91/9991cbf97d64d6db5067e1524a135da6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10148899&msource=cps_Mdynamic_36081646_cont-2-789581629694672919&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-04-28_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5975,
+    "comment": 302,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

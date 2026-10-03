@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "973266063523315716",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/973266063523315716",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月4日",
+    "pub_ts": 1725444564,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "“朋友朋友好朋友，上山岗，请同我大声唱，唱风霜唱春光，唱悲伤唱希望。“\n感谢@ilem 老师2019年带给我们的这一首《上山岗》，带给我们太多回忆与感动。\n时隔与距离上一场演唱会一样的五年，天依很高兴终于能将这首歌曲带到演唱会的舞台。\n\n那么我的老朋友们，一起来唱《上山岗》吧！\n欢迎大家填写问卷，提交你演唱的段落，一经选中，你的歌声将会和大家一起出现在天依演唱会的舞台上哦！[心律共鸣动态表情包_共鸣之声]\n🎤问卷填写地址：https://www.wjx.cn/vm/O0q3PQk.aspx#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“朋友朋友好朋友，上山岗，请同我大声唱，唱风霜唱春光，唱悲伤唱希望。“\n感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@ilem",
+        "mid": 3379951,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师2019年带给我们的这一首《上山岗》，带给我们太多回忆与感动。\n时隔与距离上一场演唱会一样的五年，天依很高兴终于能将这首歌曲带到演唱会的舞台。\n\n那么我的老朋友们，一起来唱《上山岗》吧！\n欢迎大家填写问卷，提交你演唱的段落，一经选中，你的歌声将会和大家一起出现在天依演唱会的舞台上哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_共鸣之声]",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "name": "共鸣之声",
+        "url": "https://i0.hdslb.com/bfs/emote/6707f0d70949a12fe94a919ab3b183afca52c2ec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n🎤问卷填写地址："
+      },
+      {
+        "type": "text",
+        "text": "https://www.wjx.cn/vm/O0q3PQk.aspx#"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/共鸣之声.gif",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "text": "[心律共鸣动态表情包_共鸣之声]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6224,
+    "comment": 231,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

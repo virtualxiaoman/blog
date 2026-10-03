@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "981793549245743107",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/981793549245743107",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月27日",
+    "pub_ts": 1727430024,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "✨洛天依无限共鸣全息演唱会应援须知来啦！\n各位前来观演的小伙伴请注意~[歌行宇宙表情包_可靠]\n\n💐花篮入场登记\n想要寄送花篮的小伙伴需要发送邮件进行登记哦！\n\n🪐官方应援荧光棒\n荧光棒将在大家检票时进行免费发放，并在表演过程中由场控控制颜色变化，演唱会结束后，大家可以携带离场留作纪念，也可以自行携带荧光棒入场~\n\n还有关于场贩地点、痛车、摄影等情况说明，小伙伴们请戳长图查看哦！[歌行宇宙表情包_mua]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "✨洛天依无限共鸣全息演唱会应援须知来啦！\n各位前来观演的小伙伴请注意~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_可靠]",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/c4947ffce07dd9355cf893acf531afbbde05efbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💐花篮入场登记\n想要寄送花篮的小伙伴需要发送邮件进行登记哦！\n\n🪐官方应援荧光棒\n荧光棒将在大家检票时进行免费发放，并在表演过程中由场控控制颜色变化，演唱会结束后，大家可以携带离场留作纪念，也可以自行携带荧光棒入场~\n\n还有关于场贩地点、痛车、摄影等情况说明，小伙伴们请戳长图查看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d1a13b4ed4673dfca326ab3ed127eeb136081646.jpg",
+        "width": 1200,
+        "height": 5600,
+        "size_kb": 1632.419921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/可靠.png",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "text": "[歌行宇宙表情包_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·洛天依2024无限共鸣演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202408/or0iy18f1724401612225.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91180&msource=cps_Mdynamic_36081646_cont-2-981793549245743107&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-27_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3361,
+    "comment": 142,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

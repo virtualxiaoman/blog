@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "965069006768701440",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/965069006768701440",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月13日",
+    "pub_ts": 1723536038,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家注意！由于私信设置问题，部分小伙伴的私信受到拦截，辛苦没有收到私信的7月舰长小伙伴在7日内在该问卷提交收件信息，给大家造成的不便非常抱歉！[洛天依·收藏集表情包_不要啊]也会在核实身份信息后再次私信提醒没有提交信息的小伙伴，问卷地址：https://www.wjx.cn/vm/tUKfHfH.aspx# 辛苦大家啦！[心律共鸣动态表情包_贫穷]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家注意！由于私信设置问题，部分小伙伴的私信受到拦截，辛苦没有收到私信的7月舰长小伙伴在7日内在该问卷提交收件信息，给大家造成的不便非常抱歉！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_不要啊]",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "name": "不要啊",
+        "url": "https://i0.hdslb.com/bfs/garb/dde80658b0aca4ab88c6316498ac7e27a2455dfd.png"
+      },
+      {
+        "type": "text",
+        "text": "也会在核实身份信息后再次私信提醒没有提交信息的小伙伴，问卷地址："
+      },
+      {
+        "type": "text",
+        "text": "https://www.wjx.cn/vm/tUKfHfH.aspx#"
+      },
+      {
+        "type": "text",
+        "text": " 辛苦大家啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_贫穷]",
+        "package_id": "5582",
+        "emoji_id": "81885",
+        "name": "贫穷",
+        "url": "https://i0.hdslb.com/bfs/emote/86e2c41f209db674301f2ec6fd9b807411f48025.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/不要啊.png",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "text": "[洛天依·收藏集表情包_不要啊]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/贫穷.gif",
+        "package_id": "5582",
+        "emoji_id": "81885",
+        "text": "[心律共鸣动态表情包_贫穷]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5846,
+    "comment": 349,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 962888318724341785,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-08-07_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

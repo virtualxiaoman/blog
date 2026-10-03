@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1169981535674171495",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1169981535674171495",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771245954,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "辟浪【2026拜年纪单品】",
+      "desc": "曾经止息的浪花，如今再次被唤起。从江河浅波到深海长涛，灯火摇曳的画舫仍在岁月里轻荡，劈波斩浪的巨舰正向地平线远航——浪花千叠，再辟新章。\n\n企划：世浩\n制片：凌晨\n\n制作人：胡多多\n作曲：胡多多\n作词：非桥段\n编曲：胡多多 包达\n演唱：洛天依\n调校：莫米兔\n川江号子演唱：达尔文\n川江号子编写：胡多多\n古筝：猛虎蔷薇\n尺八：杨明川\n吉他：包达\n录音室：安得音乐工作室\n混音&母带：明宣May\n混音室：安得音乐工作室\n\nPV主策划：哈米伦的弄笛者\n执行导演：大写的TY\n分镜：嚼不烂的爆米花\n人设：山田小烟\n曲绘",
+      "jump_url": "https://www.bilibili.com/video/BV1WeZLBtEW1",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/1aba89129f2b0bd816a21904ee0fa02808e2b138.jpg",
+      "cover_file": "../../_assets/covers/2026-02-16_3.jpg",
+      "bvid": "BV1WeZLBtEW1",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1WeZLBtEW1",
+        "aid": "116067884077341",
+        "cover": "http://i1.hdslb.com/bfs/archive/1aba89129f2b0bd816a21904ee0fa02808e2b138.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1WeZLBtEW1",
+        "stat": {
+          "danmaku": "4752",
+          "play": "110.2万",
+          "vt": ""
+        },
+        "duration_text": "04:34",
+        "title": "辟浪【2026拜年纪单品】",
+        "desc": "曾经止息的浪花，如今再次被唤起。从江河浅波到深海长涛，灯火摇曳的画舫仍在岁月里轻荡，劈波斩浪的巨舰正向地平线远航——浪花千叠，再辟新章。\n\n企划：世浩\n制片：凌晨\n\n制作人：胡多多\n作曲：胡多多\n作词：非桥段\n编曲：胡多多 包达\n演唱：洛天依\n调校：莫米兔\n川江号子演唱：达尔文\n川江号子编写：胡多多\n古筝：猛虎蔷薇\n尺八：杨明川\n吉他：包达\n录音室：安得音乐工作室\n混音&母带：明宣May\n混音室：安得音乐工作室\n\nPV主策划：哈米伦的弄笛者\n执行导演：大写的TY\n分镜：嚼不烂的爆米花\n人设：山田小烟\n曲绘",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 83379,
+    "comment": 6549,
+    "forward": 51
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

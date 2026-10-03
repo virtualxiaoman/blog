@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "11410044479697958",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/11410044479697958",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2016年10月16日",
+    "pub_ts": 1476614809,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】2016年第十一届金鹰节互联盛典晚会－《权御天下》【官方演出视频】",
+      "desc": "Vsinger虚拟歌手洛天依带着传说曲《权御天下》登上2016第十一届金鹰节互联盛典的舞台，牵手圈9帅气登场！\n《权御天下》曲：乌龟Sui|词：St|调：挨批熊|人设：酥妃|演唱：洛天依 圈9|原唱：洛天依",
+      "jump_url": "https://www.bilibili.com/video/BV1ss41147Sw",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/bda1c1b2053274389e5c88a4dfdd70b2033783e6.jpg",
+      "cover_file": "../../_assets/covers/2016-10-16_1.jpg",
+      "bvid": "BV1ss41147Sw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ss41147Sw",
+        "aid": "6704137",
+        "cover": "http://i0.hdslb.com/bfs/archive/bda1c1b2053274389e5c88a4dfdd70b2033783e6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ss41147Sw",
+        "stat": {
+          "danmaku": "1.2万",
+          "play": "127.6万",
+          "vt": ""
+        },
+        "duration_text": "04:04",
+        "title": "【洛天依】2016年第十一届金鹰节互联盛典晚会－《权御天下》【官方演出视频】",
+        "desc": "Vsinger虚拟歌手洛天依带着传说曲《权御天下》登上2016第十一届金鹰节互联盛典的舞台，牵手圈9帅气登场！\n《权御天下》曲：乌龟Sui|词：St|调：挨批熊|人设：酥妃|演唱：洛天依 圈9|原唱：洛天依",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12272,
+    "comment": 4763,
+    "forward": 27
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:18:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

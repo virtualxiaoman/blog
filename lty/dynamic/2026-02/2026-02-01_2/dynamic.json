@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "1164379695691595815",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1164379695691595815",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月1日",
+    "pub_ts": 1769941674,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依联合无锡文旅一起，来为无锡站的大家送福利啦！[乐鸣东方动态表情包_干杯]\n所有购买了「2025 洛天依·无限共鸣·流光协奏·全息巡回演唱会」无锡站门票的小伙伴\n在活动期间前往部分无锡景点，可以享受景点门票半价优惠！[乐鸣东方动态表情包_骄傲]\n距离天依和大家无锡相见的日子也越来越近啦！希望大家在无锡玩得开心哦~[乐鸣东方动态表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依联合无锡文旅一起，来为无锡站的大家送福利啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n所有购买了「2025 洛天依·无限共鸣·流光协奏·全息巡回演唱会」无锡站门票的小伙伴\n在活动期间前往部分无锡景点，可以享受景点门票半价优惠！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_骄傲]",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/90f6913236ea8c76ed65669cd4a5e7e25de676f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n距离天依和大家无锡相见的日子也越来越近啦！希望大家在无锡玩得开心哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-01_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ca7a819a104be6696b9001bf98561b5736081646.jpg",
+        "width": 1080,
+        "height": 5543,
+        "size_kb": 4842.4072265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/骄傲.gif",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "text": "[乐鸣东方动态表情包_骄傲]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5446,
+    "comment": 264,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

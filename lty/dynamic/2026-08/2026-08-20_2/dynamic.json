@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1238528968906244119",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1238528968906244119",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月20日",
+    "pub_ts": 1787205897,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "定格纯蓝魔女的共鸣旅程[洛天依14周年·四重奏_闪亮亮]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "定格纯蓝魔女的共鸣旅程"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_闪亮亮]",
+        "package_id": "10148",
+        "emoji_id": "144399",
+        "name": "闪亮亮",
+        "url": "https://i0.hdslb.com/bfs/garb/35a912c618f15f82d60a442cf034b28b6f5e9e5e.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/闪亮亮.gif",
+        "package_id": "10148",
+        "emoji_id": "144399",
+        "text": "[洛天依14周年·四重奏_闪亮亮]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5296,
+    "comment": 290,
+    "forward": 43
+  },
+  "forward": {
+    "orig_id": 1238498259877494793,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-08/2026-08-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:37:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

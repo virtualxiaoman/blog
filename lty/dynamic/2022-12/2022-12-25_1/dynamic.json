@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "743453715234553958",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/743453715234553958",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月25日",
+    "pub_ts": 1671937207,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“非常的非议 禁锢着我”\n你是否也曾经被刻板印象误解过？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“非常的非议 禁锢着我”\n你是否也曾经被刻板印象误解过？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依AI原创曲】非常非议【别人眼中的你，是真实的你吗？】",
+      "desc": "误解 质疑 揣测 批评\n太多“非常非议”禁锢着我们\n但总有一些人、一些事\n值得你坚持自我\n\n作词/作曲/编曲/调校：阿良良木健\n吉他：绛舞乱丸",
+      "jump_url": "https://www.bilibili.com/video/BV1Ze4y1L7K4",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/a978656e28302fe2c0cab2925ff84bfb93636000.jpg",
+      "cover_file": "../../_assets/covers/2022-12-25_1.jpg",
+      "bvid": "BV1Ze4y1L7K4",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Ze4y1L7K4",
+        "aid": "649195717",
+        "cover": "http://i2.hdslb.com/bfs/archive/a978656e28302fe2c0cab2925ff84bfb93636000.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Ze4y1L7K4",
+        "stat": {
+          "danmaku": "972",
+          "play": "119.1万",
+          "vt": ""
+        },
+        "duration_text": "03:30",
+        "title": "【洛天依AI原创曲】非常非议【别人眼中的你，是真实的你吗？】",
+        "desc": "误解 质疑 揣测 批评\n太多“非常非议”禁锢着我们\n但总有一些人、一些事\n值得你坚持自我\n\n作词/作曲/编曲/调校：阿良良木健\n吉他：绛舞乱丸",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 177747,
+    "comment": 2462,
+    "forward": 297
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "683045129115664434",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/683045129115664434",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月15日",
+    "pub_ts": 1657872237,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#与生活交手，幸惠#感谢交通银行信用卡的十周年礼物，交手生活，让交通银行洛天依主题信用卡来见证我与大家的江湖友情吧，我已着国风新装扮在上海静安大悦城等你会面，一起歌舞江湖，为友情律动！\n办卡直达：https://creditcardapp.bankcomm.com/applynew/front/apply/online/cardInfo.html?trackCode=A030413321454&cardId=287&channel=ltybili",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#与生活交手，幸惠#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E7%94%9F%E6%B4%BB%E4%BA%A4%E6%89%8B%EF%BC%8C%E5%B9%B8%E6%83%A0"
+      },
+      {
+        "type": "text",
+        "text": "感谢交通银行信用卡的十周年礼物，交手生活，让交通银行洛天依主题信用卡来见证我与大家的江湖友情吧，我已着国风新装扮在上海静安大悦城等你会面，一起歌舞江湖，为友情律动！\n办卡直达：https://creditcardapp.bankcomm.com/applynew/front/apply/online/cardInfo.html?trackCode=A030413321454&cardId=287&channel=ltybili"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6040,
+    "comment": 130,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 682945326963752968,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2022-07/2022-07-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:51:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

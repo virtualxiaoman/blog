@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "545459382015757585",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/545459382015757585",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月9日",
+    "pub_ts": 1625838059,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 三年前天依因日语声库和@鹿乃ちゃん  结缘，今天，终于有机会和鹿乃酱跨越次元、跨越时空，在同一个舞台为大家歌唱，现在心脏都还兴奋得扑通扑通跳！这份特殊的美好回忆，天依一定会永远珍藏！[洛天依9th_一起唱] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 三年前天依因日语声库和"
+      },
+      {
+        "type": "mention",
+        "text": "@鹿乃ちゃん ",
+        "mid": 316381099,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 结缘，今天，终于有机会和鹿乃酱跨越次元、跨越时空，在同一个舞台为大家歌唱，现在心脏都还兴奋得扑通扑通跳！这份特殊的美好回忆，天依一定会永远珍藏！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-09_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3bd8c3af246a853a0644e61fb7b0456bbe340264.jpg",
+        "width": 5600,
+        "height": 3200,
+        "size_kb": 6098.650390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11011,
+    "comment": 579,
+    "forward": 231
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

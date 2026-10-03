@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "588871957959542794",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/588871957959542794",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月3日",
+    "pub_ts": 1635945837,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "为了大家的安全，天依在欢乐谷的演出不得不延期了，请大家关注@上海欢乐谷官方账号 的后续通知[tv_大哭]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "为了大家的安全，天依在欢乐谷的演出不得不延期了，请大家关注"
+      },
+      {
+        "type": "mention",
+        "text": "@上海欢乐谷官方账号",
+        "mid": 554718496,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 的后续通知"
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_大哭]",
+        "package_id": "2",
+        "emoji_id": "47",
+        "name": "大哭",
+        "url": "https://i0.hdslb.com/bfs/emote/cba61f05f3039b02a7ffc0dfcd9d7995df9fdd74.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2/大哭.gif",
+        "package_id": "2",
+        "emoji_id": "47",
+        "text": "[tv_大哭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6756,
+    "comment": 184,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 588871446856333661,
+    "orig_mid": 554718496,
+    "deleted": false,
+    "archive_dir": "../../../554718496/2021-11/2021-11-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:38:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

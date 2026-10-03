@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1124279518807195655",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1124279518807195655",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月16日",
+    "pub_ts": 1760605124,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "浪漫诗人阿萨老师~很开心又唱老师写的歌啦，吼吼听哇！[心律共鸣动态表情包_享受音乐]宣传部小洛上线！也请一起听听aza老师的原版吧~《藏进地平线》/ by Aza",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "浪漫诗人阿萨老师~很开心又唱老师写的歌啦，吼吼听哇！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      },
+      {
+        "type": "text",
+        "text": "宣传部小洛上线！也请一起听听aza老师的原版吧~"
+      },
+      {
+        "type": "video",
+        "text": "《藏进地平线》/ by Aza",
+        "url": "https://www.bilibili.com/video/av115298749386612",
+        "video": null
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/享受音乐.gif",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "text": "[心律共鸣动态表情包_享受音乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4847,
+    "comment": 147,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 1124202664659255347,
+    "orig_mid": 480680646,
+    "deleted": false,
+    "archive_dir": "../../../480680646/2025-10/2025-10-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:41:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

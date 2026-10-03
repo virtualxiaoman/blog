@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "490408595746964972",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/490408595746964972",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月11日",
+    "pub_ts": 1613020549,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "再盼几回邂逅将情意作筹 用心编结的扣换与子携手",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "再盼几回邂逅将情意作筹 用心编结的扣换与子携手"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7689,
+    "comment": 300,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 490126287550686906,
+    "orig_mid": 25666164,
+    "deleted": false,
+    "archive_dir": "../../../25666164/2021-02/2021-02-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

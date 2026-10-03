@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1051470546023219206",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1051470546023219206",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月3日",
+    "pub_ts": 1743652964,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "QQ✖洛天依游学记纪念装扮上新啦！\n\n「架小舟，闯金山，比翼鸳鸯怎忍离分」\n且随天依再次领略悠悠戏韵~[洛天依·戏游九州动态_双人]\n\n⭐全新纪念套装\n含专属编号、主题、气泡、挂件、名片、背景、进群特效和来电等个性装扮\n\n*所有装扮升级「10年」有效\n\n现已开售啦，活动详情大家可以戳长图查看哦！\n\n⭐传送门：https://zb.vip.qq.com/tx/p/52679_76bffdcf?enteranceId=bill&_wv=16777216\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "QQ✖洛天依游学记纪念装扮上新啦！\n\n「架小舟，闯金山，比翼鸳鸯怎忍离分」\n且随天依再次领略悠悠戏韵~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_双人]",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "name": "双人",
+        "url": "https://i0.hdslb.com/bfs/garb/880318464f92999a638b94641a35254f14577db9.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⭐全新纪念套装\n含专属编号、主题、气泡、挂件、名片、背景、进群特效和来电等个性装扮\n\n*所有装扮升级「10年」有效\n\n现已开售啦，活动详情大家可以戳长图查看哦！\n\n⭐传送门："
+      },
+      {
+        "type": "text",
+        "text": "https://zb.vip.qq.com/tx/p/52679_76bffdcf?enteranceId=bill&_wv=16777216"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-03_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/62551d521251a698689bbcf7f60c1dce36081646.jpg",
+        "width": 750,
+        "height": 10121,
+        "size_kb": 4590.1572265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/双人.gif",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "text": "[洛天依·戏游九州动态_双人]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5943,
+    "comment": 412,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

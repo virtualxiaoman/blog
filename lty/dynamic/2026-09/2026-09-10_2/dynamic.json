@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1246292921097912327",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1246292921097912327",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月10日",
+    "pub_ts": 1789013583,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@1526peoples@坑萝彷徨斩杀线摆雪涵@Z-M-E中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@1526peoples",
+        "mid": 3690983256492809,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@坑萝彷徨斩杀线摆雪涵",
+        "mid": 3546663291455945,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@Z-M-E",
+        "mid": 3546937080941386,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3502,
+    "comment": 72,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 1222915216537288745,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-07/2026-07-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:39:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

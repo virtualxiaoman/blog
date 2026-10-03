@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "id": "950659318418505765",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/950659318418505765",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月5日",
+    "pub_ts": 1720181021,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依X 淘宝88VIP 联名活动开启啦！\n双重惊喜联名活动，一起为淘宝换上新装吧~\n\n🔹两款洛天依联名皮肤88VIP免费领取\n※获取方式：\n-在淘宝搜【88VIP洛天依】\n-直达会员中心领取\n-戳👉https://pages.tmall.com/wow/a/act/tmall/dailygroup/16044/16468/wupr?wh_pid=daily-536633\n即可解锁同款皮肤～\n\n🔹88VIPX天依定制款联名NFC典藏卡\n开启手机的NFC功能靠近小卡，即可解锁一段来自天依的【神秘语音盲盒】\n\n💗关注天依，转发本条动态，7月19日抽【！88位！】小伙伴\n送出88VIPX洛天依联名典藏版小卡1份，期待大家和天依分享领取的皮肤和语音呀~[洛天依蝶变_害羞]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "306237",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依X 淘宝88VIP 联名活动开启啦！\n双重惊喜联名活动，一起为淘宝换上新装吧~\n\n🔹两款洛天依联名皮肤88VIP免费领取\n※获取方式：\n-在淘宝搜【88VIP洛天依】\n-直达会员中心领取\n-戳👉"
+      },
+      {
+        "type": "text",
+        "text": "https://pages.tmall.com/wow/a/act/tmall/dailygroup/16044/16468/wupr?wh_pid=daily-536633"
+      },
+      {
+        "type": "text",
+        "text": "\n即可解锁同款皮肤～\n\n🔹88VIPX天依定制款联名NFC典藏卡\n开启手机的NFC功能靠近小卡，即可解锁一段来自天依的【神秘语音盲盒】\n\n💗关注天依，转发本条动态，7月19日抽【！88位！】小伙伴\n送出88VIPX洛天依联名典藏版小卡1份，期待大家和天依分享领取的皮肤和语音呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-05_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cb51f8fb2f1aa6ba6c50a003b6c69e0136081646.jpg",
+        "width": 2434,
+        "height": 12877,
+        "size_kb": 15573.466796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-05_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f91af3a985f73b1b37a03464c94c20c636081646.jpg",
+        "width": 2434,
+        "height": 13075,
+        "size_kb": 14049.58984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-05_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4ee2a8a16cd3a4c171928afb595a7cf636081646.png",
+        "width": 3543,
+        "height": 4724,
+        "size_kb": 8415.171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "306237"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7586,
+    "comment": 1068,
+    "forward": 9724
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:16:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

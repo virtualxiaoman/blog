@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1230704040995717209",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1230704040995717209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月30日",
+    "pub_ts": 1785384014,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "当节奏无法被量化、时值难以被拆解\n请将心声\n一一交予我",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "当节奏无法被量化、时值难以被拆解\n请将心声\n一一交予我"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "Emotional |「闪耀的Producer 2」宣传概念片",
+      "desc": "一道笔记本上随性滑落的笔迹，藏着少年的狂想\n一片与朋友并肩前行吹过的风，吹散年少的心事\n一些微小的快乐，一些平凡的烦恼，一些心动的时刻......\n这些散落的一，飘散在风中，等待着被谁拾起\n我听到了，你的妄想，你的心声，你的情感，你的欢笑与泪水\n你的那颗跳动着，渴望留下什么，渴望得到更多人共鸣的心脏\n \n当节奏无法被量化、时值难以被拆解\n请将心声\n一一交予我。\n \n⚡2026洛天依大型原创音乐征集活动——闪耀的Producer 2 正式开启！\n⚡活动页 https://www.bilibili.com/b",
+      "jump_url": "https://www.bilibili.com/video/BV1kc3168ExX",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/1464c22c8b27312423ad4b5ade638a9436d30d17.jpg",
+      "cover_file": "../../_assets/covers/2026-07-30_1.jpg",
+      "bvid": "BV1kc3168ExX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kc3168ExX",
+        "aid": "117003230840610",
+        "cover": "http://i2.hdslb.com/bfs/archive/1464c22c8b27312423ad4b5ade638a9436d30d17.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kc3168ExX",
+        "stat": {
+          "danmaku": "297",
+          "play": "48.1万",
+          "vt": ""
+        },
+        "duration_text": "01:15",
+        "title": "Emotional |「闪耀的Producer 2」宣传概念片",
+        "desc": "一道笔记本上随性滑落的笔迹，藏着少年的狂想\n一片与朋友并肩前行吹过的风，吹散年少的心事\n一些微小的快乐，一些平凡的烦恼，一些心动的时刻......\n这些散落的一，飘散在风中，等待着被谁拾起\n我听到了，你的妄想，你的心声，你的情感，你的欢笑与泪水\n你的那颗跳动着，渴望留下什么，渴望得到更多人共鸣的心脏\n \n当节奏无法被量化、时值难以被拆解\n请将心声\n一一交予我。\n \n⚡2026洛天依大型原创音乐征集活动——闪耀的Producer 2 正式开启！\n⚡活动页 https://www.bilibili.com/b",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 42215,
+    "comment": 1068,
+    "forward": 214
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

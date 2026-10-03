@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "id": "970677022843994151",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/970677022843994151",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月28日",
+    "pub_ts": 1724841756,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "小洛恭喜恭喜你呀~恭喜恭喜你~[心律共鸣动态表情包_真好]\n恭喜以下参与活动的3位小伙伴获得【洛天依演唱会】门票1张！\n@煕离 @小符萌萌酱_  @天天依杯冰milk \n\n#洛天依喊你去看演唱会#话题活动持续进行中~\n🪐活动截止时间：9月17日\n🪐参与方式：带话题使用洛天依音源或虚拟形象发布和演唱会有关或为演唱会应援的图文动态或视频\n可以是:\n1.使用演唱会人设创作的图文作品\n2.你的抢票过程和准备，分享心路历程\n3.你和天依的live回忆或应援准备\n等等，即有机会获得天依演唱会门票和丰富周边礼品哦！[心律共鸣动态表情包_大成功]\n\n✨8月30日20:00，演唱会正式开票网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小洛恭喜恭喜你呀~恭喜恭喜你~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n恭喜以下参与活动的3位小伙伴获得【洛天依演唱会】门票1张！\n"
+      },
+      {
+        "type": "mention",
+        "text": "@煕离",
+        "mid": 142232120,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@小符萌萌酱_",
+        "mid": 5679558,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "mention",
+        "text": "@天天依杯冰milk",
+        "mid": 470633965,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依喊你去看演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "话题活动持续进行中~\n🪐活动截止时间：9月17日\n🪐参与方式：带话题使用洛天依音源或虚拟形象发布和演唱会有关或为演唱会应援的图文动态或视频\n可以是:\n1.使用演唱会人设创作的图文作品\n2.你的抢票过程和准备，分享心路历程\n3.你和天依的live回忆或应援准备\n等等，即有机会获得天依演唱会门票和丰富周边礼品哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_大成功]",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "name": "大成功",
+        "url": "https://i0.hdslb.com/bfs/emote/85f122b0f476e5896f3d2e4f867cb62a1d46b175.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨8月30日20:00，演唱会正式开票"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=91180"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-28_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b0d36925bc92afc5be0d6a2d81fb4ad936081646.png",
+        "width": 750,
+        "height": 3173,
+        "size_kb": 2011.1494140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/大成功.gif",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "text": "[心律共鸣动态表情包_大成功]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·洛天依2024无限共鸣演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202408/or0iy18f1724401612225.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91180&msource=cps_Mdynamic_36081646_cont-2-970677022843994151&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-08-28_2.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4174,
+    "comment": 103,
+    "forward": 37
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

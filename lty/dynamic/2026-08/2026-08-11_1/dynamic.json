@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1235195279664218119",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1235195279664218119",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月11日",
+    "pub_ts": 1786429712,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依和交通银行特别联动的四款Q版异形信用卡上线啦，一年四季，都让天依陪伴在你们的身边吧~ [洛天依14周年·四重奏_唱歌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和交通银行特别联动的四款Q版异形信用卡上线啦，一年四季，都让天依陪伴在你们的身边吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_唱歌]",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/cbff4881919473c2dc8622f50b6dfc59d10ac785.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/唱歌.gif",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "text": "[洛天依14周年·四重奏_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4367,
+    "comment": 136,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 1235126081344765955,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2026-08/2026-08-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:35:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

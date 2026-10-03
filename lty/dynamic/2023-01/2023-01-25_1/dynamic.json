@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "755019177400467586",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/755019177400467586",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月25日",
+    "pub_ts": 1674630001,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@小尤怜中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@小尤怜",
+        "mid": 381282283,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5242,
+    "comment": 135,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 722410265260326919,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2022-10/2022-10-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "1227787552000311319",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1227787552000311319",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月22日",
+    "pub_ts": 1784704966,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n杭州站·官方周边场贩详细情报来啦！各位杭州站的小伙伴请注意📢\n\n为优化观演体验，规避人流拥挤，本次杭州站巡演限定场贩将以线上预购的形式进行售卖\n转发关注天依，揪1位小伙伴送出【杭州场贩礼盒】1份~[洛天依·信号动态表情包_love之力]\n\n⏰线上预购开放时段：即日起-7月25日19:00\n\n✨两种订单领取方式\n🔹现场自取 / 登记邮寄\n下单时段：即日起-7月25日17:00\n核销取货时间：7月 25日11:30 开始排队，18:30 停止排队，19:00 截止核销\n到场出示订单二维码核验，现场领取周边和登记地址安排邮寄均可\n\n🔹仅支持现场核验后邮寄\n下单时段：7月25日17:00-7月25日19:00\n到场完成订单二维码核验后，将统一安排邮寄\n* 选择此方案的小伙伴注意需在下单 24 小时内完成邮费支付，超时未支付将由系统自动取消订单并原路退款，取消后订单无法恢复\n\n关于场贩的详细规则和注意事项，请小伙伴们仔细查看长图哦！ [洛天依·信号动态表情包_是是是]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n杭州站·官方周边场贩详细情报来啦！各位杭州站的小伙伴请注意📢\n\n为优化观演体验，规避人流拥挤，本次杭州站巡演限定场贩将以线上预购的形式进行售卖\n转发关注天依，揪1位小伙伴送出【杭州场贩礼盒】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⏰线上预购开放时段：即日起-7月25日19:00\n\n✨两种订单领取方式\n🔹现场自取 / 登记邮寄\n下单时段：即日起-7月25日17:00\n核销取货时间：7月 25日11:30 开始排队，18:30 停止排队，19:00 截止核销\n到场出示订单二维码核验，现场领取周边和登记地址安排邮寄均可\n\n🔹仅支持现场核验后邮寄\n下单时段：7月25日17:00-7月25日19:00\n到场完成订单二维码核验后，将统一安排邮寄\n* 选择此方案的小伙伴注意需在下单 24 小时内完成邮费支付，超时未支付将由系统自动取消订单并原路退款，取消后订单无法恢复\n\n关于场贩的详细规则和注意事项，请小伙伴们仔细查看长图哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_是是是]",
+        "package_id": "10075",
+        "emoji_id": "142970",
+        "name": "是是是",
+        "url": "https://i0.hdslb.com/bfs/garb/2ce8ca40bfe0b195cecbc8a6e487fcbfe7c8308e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-22_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4153abdd5769576230894210e78f86dd36081646.png",
+        "width": 859,
+        "height": 9150,
+        "size_kb": 7075.4970703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-22_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d494ecc8ffed1b4fe857c3b0bce13a3736081646.png",
+        "width": 859,
+        "height": 7034,
+        "size_kb": 4135.935546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/是是是.gif",
+        "package_id": "10075",
+        "emoji_id": "142970",
+        "text": "[洛天依·信号动态表情包_是是是]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "杭州·2026洛天依「无限共鸣.纯蓝幻乐」巡回演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202606/KxTXBztp1781494454_1781494454300.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket-renovation/detail.html?id=1002386&noTitleBar=1&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1227787552000311319",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-22_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6908,
+    "comment": 1338,
+    "forward": 2101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:32:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

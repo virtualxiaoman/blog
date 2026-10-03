@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "879802159169798164",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/879802159169798164",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月27日",
+    "pub_ts": 1703683303,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "除了全新模型，今天天依还有舞台合作嘉宾的爆料分享给大家哦！[洛天依蝶变_发射爱心]\n“用精湛的技艺奏响民族之声，用代代传承的音乐演绎四方之歌”\n\n特邀四位优秀的民族艺术家——\n✦青年藏族音乐演奏家·旦增益西@扎年-旦增益西 \n✦蒙古族青年音乐人·哈拉木吉@哈拉木吉HalamJ \n✦新疆热瓦普青年演奏家·努尔艾力@Nurali-努尔艾力 \n✦贵州芦笙青年演奏家·春冬蝶@春冬蝶 \n\n每一次练习和彩排，四位民族音乐艺术家的演绎都能为天依带来新的触动和震撼。\n一想到4天之后就要登上跨晚舞台，天依就特别兴奋和期待！\n还有神秘嘉宾会和天依一起演出哦，大家猜一猜是谁呀？\n12月31日20:00，来#2023最美的夜跨年晚会#看我们吧！[天依游学记_谢谢你]\n\n⭐天依游学记藏族款盒蛋火热预售中网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "除了全新模型，今天天依还有舞台合作嘉宾的爆料分享给大家哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“用精湛的技艺奏响民族之声，用代代传承的音乐演绎四方之歌”\n\n特邀四位优秀的民族艺术家——\n✦青年藏族音乐演奏家·旦增益西"
+      },
+      {
+        "type": "mention",
+        "text": "@扎年-旦增益西",
+        "mid": 630420238,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n✦蒙古族青年音乐人·哈拉木吉"
+      },
+      {
+        "type": "mention",
+        "text": "@哈拉木吉HalamJ",
+        "mid": 690592451,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n✦新疆热瓦普青年演奏家·努尔艾力"
+      },
+      {
+        "type": "mention",
+        "text": "@Nurali-努尔艾力 ",
+        "mid": 3546599940688248,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n✦贵州芦笙青年演奏家·春冬蝶"
+      },
+      {
+        "type": "mention",
+        "text": "@春冬蝶",
+        "mid": 1076864011,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n每一次练习和彩排，四位民族音乐艺术家的演绎都能为天依带来新的触动和震撼。\n一想到4天之后就要登上跨晚舞台，天依就特别兴奋和期待！\n还有神秘嘉宾会和天依一起演出哦，大家猜一猜是谁呀？\n12月31日20:00，来"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "看我们吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n⭐天依游学记藏族款盒蛋火热预售中"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?noTitleBar=1&itemsId=10207582&msource=yyqbanner&track_id=__TRACKID__&from=yyqbanner"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-27_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c375b795958f44149ff3b5a9172f53d536081646.jpg",
+        "width": 1688,
+        "height": 3000,
+        "size_kb": 3455.9248046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      },
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4944,
+    "comment": 165,
+    "forward": 54
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:02:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

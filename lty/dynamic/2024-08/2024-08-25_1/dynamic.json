@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "969289950270849032",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/969289950270849032",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月25日",
+    "pub_ts": 1724518803,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@迈甜抽@类以物聚@逆转__中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@迈甜抽",
+        "mid": 486671245,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@类以物聚",
+        "mid": 505966665,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@逆转__",
+        "mid": 492311416,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3589,
+    "comment": 63,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 947263609915834375,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-06/2024-06-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:18:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

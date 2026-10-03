@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "1070138015741902852",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1070138015741902852",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月23日",
+    "pub_ts": 1747999323,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "大家！北京时间明天19:00哦~Chinozo老师的天依新歌！大家记得来听来听来听[洛天依-潮声回响_拜托拜托][洛天依-潮声回响_拜托拜托]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家！北京时间明天19:00哦~Chinozo老师的天依新歌！大家记得来听来听来听"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_拜托拜托]",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "name": "拜托拜托",
+        "url": "https://i0.hdslb.com/bfs/garb/bff8c8fd6fbf7b88467b01da2ede27164195f188.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_拜托拜托]",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "name": "拜托拜托",
+        "url": "https://i0.hdslb.com/bfs/garb/bff8c8fd6fbf7b88467b01da2ede27164195f188.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/拜托拜托.png",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "text": "[洛天依-潮声回响_拜托拜托]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4762,
+    "comment": 87,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1070117550219591683,
+    "orig_mid": 1910879962,
+    "deleted": false,
+    "archive_dir": "../../../1910879962/2025-05/2025-05-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

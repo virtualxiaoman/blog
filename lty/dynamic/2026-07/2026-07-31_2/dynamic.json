@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1231167227439349765",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1231167227439349765",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月31日",
+    "pub_ts": 1785491858,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家下午好呀，洛天依「四重奏」主题收藏集开启预约啦[洛天依·信号动态表情包_美味]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家下午好呀，洛天依「四重奏」主题收藏集开启预约啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4129,
+    "comment": 184,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 1231075068178595846,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-07/2026-07-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:33:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

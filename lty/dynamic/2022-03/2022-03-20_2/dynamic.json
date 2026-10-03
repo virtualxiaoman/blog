@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "639612856297324562",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/639612856297324562",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月20日",
+    "pub_ts": 1647759873,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# “你问我叫什么名字？抱歉，我不记得了，我只是很想很想，再唱一首歌……”\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " “你问我叫什么名字？抱歉，我不记得了，我只是很想很想，再唱一首歌……”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-03-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/adbac5d14c359369b2e2f14fe93c8d53be031248.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 10024.5498046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15724,
+    "comment": 790,
+    "forward": 293
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

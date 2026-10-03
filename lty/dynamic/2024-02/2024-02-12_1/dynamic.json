@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "897183982021509127",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/897183982021509127",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月12日",
+    "pub_ts": 1707730324,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【天依唱片机】第七期上线啦！又恰逢新年，当欢歌以贺。\n愿无论经历何等辛苦不易，皆得以拨云见日，循着希望的铃音，终至幸福的彼岸。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【天依唱片机】第七期上线啦！又恰逢新年，当欢歌以贺。\n愿无论经历何等辛苦不易，皆得以拨云见日，循着希望的铃音，终至幸福的彼岸。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【天依唱片机】第七期·冬愿 | 在茫茫大雪中，听见希望的歌声",
+      "desc": "【天依唱片机】第七期上线啦！又恰逢新年，当欢歌以贺。\n愿无论经历何等辛苦不易，皆得以拨云见日，循着希望的铃音，终至幸福的彼岸。\n\n感谢老师们的创作与授权~♥\n1. @凌竹均0筠箫  灯火元夕 BV13j411M7px\n作曲：闹闹 作词：凌竹均 调校：鬼面P\n2. @ikz_茶壶 呆呆一呆呆  BV1sx4y1g7Hh\n作曲：@iKz_茶壶  作词：蔫小坏 编曲：小欧Ω 调校：哈士奇P\n3. 山妖 \n作曲：王樾安 编曲：正好儿 作词：许晚之 调校：日光流年\n4.@JUSF周存  蒲公英之路 BV1Cs411",
+      "jump_url": "https://www.bilibili.com/video/BV19j421Q7St",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c5fe4d296f648517eeda1c5e2ba513e972e8a835.jpg",
+      "cover_file": "../../_assets/covers/2024-02-12_1.jpg",
+      "bvid": "BV19j421Q7St",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19j421Q7St",
+        "aid": "1650523488",
+        "cover": "http://i1.hdslb.com/bfs/archive/c5fe4d296f648517eeda1c5e2ba513e972e8a835.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19j421Q7St",
+        "stat": {
+          "danmaku": "613",
+          "play": "44万",
+          "vt": ""
+        },
+        "duration_text": "01:05:57",
+        "title": "【天依唱片机】第七期·冬愿 | 在茫茫大雪中，听见希望的歌声",
+        "desc": "【天依唱片机】第七期上线啦！又恰逢新年，当欢歌以贺。\n愿无论经历何等辛苦不易，皆得以拨云见日，循着希望的铃音，终至幸福的彼岸。\n\n感谢老师们的创作与授权~♥\n1. @凌竹均0筠箫  灯火元夕 BV13j411M7px\n作曲：闹闹 作词：凌竹均 调校：鬼面P\n2. @ikz_茶壶 呆呆一呆呆  BV1sx4y1g7Hh\n作曲：@iKz_茶壶  作词：蔫小坏 编曲：小欧Ω 调校：哈士奇P\n3. 山妖 \n作曲：王樾安 编曲：正好儿 作词：许晚之 调校：日光流年\n4.@JUSF周存  蒲公英之路 BV1Cs411",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 34561,
+    "comment": 784,
+    "forward": 122
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

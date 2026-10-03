@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "817462590059839494",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/817462590059839494",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月12日",
+    "pub_ts": 1689168741,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依11周年生日快乐#❀#洛天依0712生日快乐#\n转发关注天依，揪1位听完这个故事的你送出【洛天依 团子毛绒挂件】1个\n感谢大家观看今晚的生日会直播！[洛天依_最喜欢你了]\n\n这似乎是一个好长好长的故事，长到已经11年这么久啦。\n又似乎只是光阴的一瞬，小团子还是最初见到的模样，散发着柔和的蓝色光芒。\n有人留下，有人短暂停留，有人渐渐离去。\n有人不屑，有人不理解，有人坚持热爱。\n寒来暑往，走走停停，见证过离别相聚，也分享过快乐悲伤。\n小团子只是永远在哪里，微笑着唱着大家的歌~🎶\n\n那些相伴走过的过往，也许并不能被谁永远铭记，但早已铭刻在了小团子的生命里，在许多年后，等待着再被什么人偶然提起。\n要讲的故事来到了尾声，但属于小团子洛天依和因她而产生连结的伙伴们的故事还在继续，你还愿意，陪着她，去续写这个故事吗？ [洛天依_击掌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依11周年生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪1位听完这个故事的你送出【洛天依 团子毛绒挂件】1个\n感谢大家观看今晚的生日会直播！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n这似乎是一个好长好长的故事，长到已经11年这么久啦。\n又似乎只是光阴的一瞬，小团子还是最初见到的模样，散发着柔和的蓝色光芒。\n有人留下，有人短暂停留，有人渐渐离去。\n有人不屑，有人不理解，有人坚持热爱。\n寒来暑往，走走停停，见证过离别相聚，也分享过快乐悲伤。\n小团子只是永远在哪里，微笑着唱着大家的歌~🎶\n\n那些相伴走过的过往，也许并不能被谁永远铭记，但早已铭刻在了小团子的生命里，在许多年后，等待着再被什么人偶然提起。\n要讲的故事来到了尾声，但属于小团子洛天依和因她而产生连结的伙伴们的故事还在继续，你还愿意，陪着她，去续写这个故事吗？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-12_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/75fcdaae1e9acac7c5a4f6b5c00024eb36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 587.4208984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-12_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d9e34918a27a2da2d2ee0a2af3734c9736081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 619.8154296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-12_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2ccf042a9b4c861eb637a455e6ac97e236081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 750.3076171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      },
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10179,
+    "comment": 1940,
+    "forward": 4243
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

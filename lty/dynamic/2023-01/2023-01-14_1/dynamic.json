@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "750937807420129281",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/750937807420129281",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月14日",
+    "pub_ts": 1673679733,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依有师傅了#\n听琵琶铮铮，看神鸟飞扬，今晚 20:10  @河南卫视 #2023欢乐春节音乐会#，我们相见～[洛天依_拉钩]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依有师傅了#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%9C%89%E5%B8%88%E5%82%85%E4%BA%86"
+      },
+      {
+        "type": "text",
+        "text": "\n听琵琶铮铮，看神鸟飞扬，今晚 20:10  "
+      },
+      {
+        "type": "mention",
+        "text": "@河南卫视 ",
+        "mid": 2057655323,
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#2023欢乐春节音乐会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%AC%A2%E4%B9%90%E6%98%A5%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "，我们相见～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_拉钩]",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "name": "拉钩",
+        "url": "http://i0.hdslb.com/bfs/emote/31e12ae73ce2d260a0366e1f1df0c18a55a2543b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0c00dff821d09f6a94c56e1d068e730836081646.jpg",
+        "width": 1296,
+        "height": 1080,
+        "size_kb": 864.6799926757812,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-01-14_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d725cfa412180931838715eb0af218b636081646.jpg",
+        "width": 1296,
+        "height": 1080,
+        "size_kb": 861.989990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/拉钩.png",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "text": "[洛天依_拉钩]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10289,
+    "comment": 539,
+    "forward": 147
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

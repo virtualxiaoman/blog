@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "id": "1245270529937506306",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1245270529937506306",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月7日",
+    "pub_ts": 1788775539,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·济南站\n将于9月11日19:00全面开启售票，「济南·华韵」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~[洛天依14周年·纯蓝幻乐 动态表情包_送花]\n\n🩵购票方式\n✧ 会员购 网页链接 \n✧ 大麦\n\n🩵演出时间&场地\n10月5日 19:12 济南奥林匹克体育中心体育馆\n\n素绡藏日月，丝线绣山河，\n纯蓝魔女以针线为引，将千年的蓝铺陈于齐鲁大地。\n点翠流光缀于发间，非遗鲁绣晕染织入裙裾，\n国风画卷里苏醒的歌者，邀你溯游纯蓝幻境之间~ [洛天依14周年·纯蓝幻乐 动态表情包_邀请]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "424332",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·济南站\n将于9月11日19:00全面开启售票，「济南·华韵」城市特别视觉海报公开\n转发关注天依，揪1位小伙伴送出【SVIP档】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "name": "送花",
+        "url": "https://i0.hdslb.com/bfs/garb/250e7a83c9d9a06e2e2768a6f2c0057310d61071.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🩵购票方式\n✧ 会员购 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1005740"
+      },
+      {
+        "type": "text",
+        "text": " \n✧ 大麦\n\n🩵演出时间&场地\n10月5日 19:12 济南奥林匹克体育中心体育馆\n\n素绡藏日月，丝线绣山河，\n纯蓝魔女以针线为引，将千年的蓝铺陈于齐鲁大地。\n点翠流光缀于发间，非遗鲁绣晕染织入裙裾，\n国风画卷里苏醒的歌者，邀你溯游纯蓝幻境之间~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "name": "邀请",
+        "url": "https://i0.hdslb.com/bfs/garb/f7f110a8c874b6bb31a453eed43cf0792bc68b41.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-07_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/083d15e75cff5745bcb750b2ae0fedba36081646.png",
+        "width": 3400,
+        "height": 1988,
+        "size_kb": 11803.5908203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-07_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f5a1f7055c77af9bafb01b6067eff5c036081646.jpg",
+        "width": 750,
+        "height": 7440,
+        "size_kb": 3938.0322265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/送花.gif",
+        "package_id": "10238",
+        "emoji_id": "145978",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_送花]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/邀请.gif",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "424332"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7436,
+    "comment": 763,
+    "forward": 9482
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

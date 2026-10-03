@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "881327418027016457",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/881327418027016457",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月1日",
+    "pub_ts": 1704038430,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "3——2——1，大家！新年快乐！\n演出终于顺利结束啦，大家看得还尽兴嘛？不知道舞台的哪个瞬间有没有打动到你呀？天依还有好多好多感谢的话语想和大家说！[洛天依蝶变_发射爱心]\n从歌行企划的发起，到8月正式与大家见面，再到《歌行四方》终于可以在#2023最美的夜跨年晚会舞台和大家见面，一路经历了许多困难，但更多的都是感动和快乐~[洛天依歌行四方_咚嚓！]\n感谢龚琳娜老师、民族音乐人老师们、赵兆老师，感谢所有辛苦付出的staff老师们，最重要的是，要感谢一直陪伴支持天依至今的你们呀~[古色花香洛天依_亲亲mua]\n跨越千山万水，一路拾起的这些山川风光、民族瑰宝、音符旋律......因为有你们为之触动与共鸣，而成为值得铭记的歌行之旅。\n“有歌的地方，自有向往”，许下2024年的心愿，要和大家，和所有的创作者一起，继续我的歌行之旅，唱更多更多的歌！[洛天依歌行四方_扭脖子]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "3——2——1，大家！新年快乐！\n演出终于顺利结束啦，大家看得还尽兴嘛？不知道舞台的哪个瞬间有没有打动到你呀？天依还有好多好多感谢的话语想和大家说！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n从歌行企划的发起，到8月正式与大家见面，再到《歌行四方》终于可以在#2023最美的夜跨年晚会舞台和大家见面，一路经历了许多困难，但更多的都是感动和快乐~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢龚琳娜老师、民族音乐人老师们、赵兆老师，感谢所有辛苦付出的staff老师们，最重要的是，要感谢一直陪伴支持天依至今的你们呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_亲亲mua]",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "name": "亲亲mua",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a91642a0e6d053acbb6616cb3d9bcbd3a381ddd6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n跨越千山万水，一路拾起的这些山川风光、民族瑰宝、音符旋律......因为有你们为之触动与共鸣，而成为值得铭记的歌行之旅。\n“有歌的地方，自有向往”，许下2024年的心愿，要和大家，和所有的创作者一起，继续我的歌行之旅，唱更多更多的歌！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-01-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6248e6ad7ab829cd5b3cad9bae9fa24b36081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 6833.48046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-01-01_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b32d3604cb740ee243cf7334e6375e3336081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 6656.900390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-01-01_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/20f67ed0ce06ce59a0118cc6f9cd26f236081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 8656.1416015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-01-01_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ae1f2bff4cf287f5de80948e57fbaa5936081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 10539.1162109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-01-01_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/24fdbdce28c5b510136425f3aae312f236081646.jpg",
+        "width": 2000,
+        "height": 1125,
+        "size_kb": 1172.55859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-01-01_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d9ae25ad83c98ef1bbdbbecb5f93042136081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 12543.04296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-01-01_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1d1c9916311e7a1c6049705ca1f4fa7336081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 13452.4091796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-01-01_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/309caf73eb0264d21eae0e1c4025a8c036081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 11768.7275390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-01-01_9.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4c7da3922be1b9f73b35029021271f4936081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 12815.892578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/亲亲mua.png",
+        "package_id": "1096",
+        "emoji_id": "19427",
+        "text": "[古色花香洛天依_亲亲mua]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9533,
+    "comment": 716,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:04:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

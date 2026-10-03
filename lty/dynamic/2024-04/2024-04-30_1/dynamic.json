@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "925874780132868135",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/925874780132868135",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月30日",
+    "pub_ts": 1714410421,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@洛地贰@小白菜它白又白@秋蝶萧暮等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@洛地贰",
+        "mid": 487625956,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@小白菜它白又白",
+        "mid": 304777720,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@秋蝶萧暮",
+        "mid": 11954183,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3319,
+    "comment": 48,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 922056219245412372,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-04-19_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:11:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

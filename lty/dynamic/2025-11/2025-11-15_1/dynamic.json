@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "1135423524393975816",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1135423524393975816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月15日",
+    "pub_ts": 1763199790,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "“会有人喜欢这些不一样的童话故事吗？”[逆转童话动态_求求]\n“反正无论如何，某个笨蛋都不会放弃继续期待的吧。”[逆转童话动态_愤怒]\n\n🔮#洛天依逆转童话# 系列周边\n马口铁徽章套组、镭射票套组\n亚克力立牌、童话卡牌盲盒、PU卡套挂件\n\n🔮命运之门开启，静候你的光临网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“会有人喜欢这些不一样的童话故事吗？”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_求求]",
+        "package_id": "8744",
+        "emoji_id": "121348",
+        "name": "求求",
+        "url": "https://i0.hdslb.com/bfs/garb/88e02c93db4a0822cdbe6581feac0ee6f8a6313e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n“反正无论如何，某个笨蛋都不会放弃继续期待的吧。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_愤怒]",
+        "package_id": "8744",
+        "emoji_id": "121349",
+        "name": "愤怒",
+        "url": "https://i0.hdslb.com/bfs/garb/bdc5447b2d36e42d4a5c827bdc3ed416f07b4df8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🔮"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依逆转童话#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+      },
+      {
+        "type": "text",
+        "text": " 系列周边\n马口铁徽章套组、镭射票套组\n亚克力立牌、童话卡牌盲盒、PU卡套挂件\n\n🔮命运之门开启，静候你的光临"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=13542386&loadingShow=1&noTitleBar=1&msource=merchant_share"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-11-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7a5ffa0ae113171fad7c58c5d9e81a6e36081646.jpg",
+        "width": 750,
+        "height": 20758,
+        "size_kb": 7475.091796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/求求.gif",
+        "package_id": "8744",
+        "emoji_id": "121348",
+        "text": "[逆转童话动态_求求]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/愤怒.gif",
+        "package_id": "8744",
+        "emoji_id": "121349",
+        "text": "[逆转童话动态_愤怒]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依逆转童话 徽章 镭射票 卡套 卡牌 立牌 动漫周边",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/a3/35/60a52d8baccb973a2ee4d530a8c9eff9.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=13542386&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1135423524393975816",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-11-15_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6080,
+    "comment": 461,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

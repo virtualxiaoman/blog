@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "834457925972918277",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/834457925972918277",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月27日",
+    "pub_ts": 1693125776,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依# #洛天依游学记#\n转发关注天依，揪3位小伙伴送出【洛天依立牌套组】1份~\n\r\n华贵斑斓的锦绣长裙、柔软轻巧的乔鲁克靴\r\n金银连结而成的发币、细密飘逸的长长头巾\r\n精美的服饰夸耀着新疆的富饶\r\n图马尔上镌刻着虔诚的念白，珍珠银铃穿缀起希望的音节\r\n巴旦木、忍冬、几何花草，一草一木中包含着最朴素的寄寓。\r\n\r\n感谢服装设计@赶稿人 老师以新疆维吾尔族为蓝本为天依设计的造型~\r\n乐观、灿烂、缤纷、欢快\r\n服饰的华美，应和着绿洲的骄阳与天山的冰雪\r\n合奏出维吾尔族婉转瑰丽、欢快随心的传统音乐 [洛天依_耶]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "177928",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪3位小伙伴送出【洛天依立牌套组】1份~\n\r\n华贵斑斓的锦绣长裙、柔软轻巧的乔鲁克靴\r\n金银连结而成的发币、细密飘逸的长长头巾\r\n精美的服饰夸耀着新疆的富饶\r\n图马尔上镌刻着虔诚的念白，珍珠银铃穿缀起希望的音节\r\n巴旦木、忍冬、几何花草，一草一木中包含着最朴素的寄寓。\r\n\r\n感谢服装设计"
+      },
+      {
+        "type": "mention",
+        "text": "@赶稿人",
+        "mid": 590881599,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师以新疆维吾尔族为蓝本为天依设计的造型~\r\n乐观、灿烂、缤纷、欢快\r\n服饰的华美，应和着绿洲的骄阳与天山的冰雪\r\n合奏出维吾尔族婉转瑰丽、欢快随心的传统音乐 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-27_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/395dbf3213ba4d14120bb91d368b92f136081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1212.0703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-27_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/01ad983702ee2095e470f5e5e1e1791b36081646.jpg",
+        "width": 1080,
+        "height": 1009,
+        "size_kb": 1089.025390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-08-27_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9be198d4653d828411af15a069cdba0536081646.jpg",
+        "width": 1080,
+        "height": 1591,
+        "size_kb": 1801.728515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-08-27_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/2d68fd0b179cec2732a8e46dd5e255fc36081646.jpg",
+        "width": 1080,
+        "height": 1985,
+        "size_kb": 2070.8818359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-08-27_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/47e98cdef7802375ce156411433ad27f36081646.jpg",
+        "width": 1080,
+        "height": 1199,
+        "size_kb": 1123.9951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-08-27_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/adfe4486185f4403cef5519af565daf036081646.jpg",
+        "width": 1080,
+        "height": 1921,
+        "size_kb": 2129.4775390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-08-27_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/87fdf5914c2b3dffa031281083b987e336081646.jpg",
+        "width": 1080,
+        "height": 1463,
+        "size_kb": 1462.271484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-08-27_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8755ad8562222f2465087083eec5b72936081646.jpg",
+        "width": 1080,
+        "height": 1077,
+        "size_kb": 1186.2314453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-08-27_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f045c2664e732ea68f241ff3400e29b836081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1205.587890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "177928"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6730,
+    "comment": 648,
+    "forward": 4359
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

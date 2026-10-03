@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "381402141093689615",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/381402141093689615",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月23日",
+    "pub_ts": 1587640506,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#华为nova7# 新品线上发布会传送门已开启。nova7的时尚科技，将由天依和一位神秘嘉宾一同惊喜揭秘，快点击链接随天依一起前往现场一探究竟吧！网页链接",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#华为nova7#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAnova7"
+      },
+      {
+        "type": "text",
+        "text": " 新品线上发布会传送门已开启。nova7的时尚科技，将由天依和一位神秘嘉宾一同惊喜揭秘，快点击链接随天依一起前往现场一探究竟吧！"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/4089610?share_source=copy_link"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7945,
+    "comment": 571,
+    "forward": 17
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:23:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

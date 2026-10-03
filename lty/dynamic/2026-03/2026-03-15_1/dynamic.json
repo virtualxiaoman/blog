@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "1179906200063442961",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1179906200063442961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月15日",
+    "pub_ts": 1773556720,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖【洛天依游学记·国乐季】珍藏集开启啦！[乐鸣东方动态表情包_支持]\n转发关注天依，揪5位小伙伴送出【珍藏集5抽】1份~\n循声古乐，纵览东方。 千年国乐，此刻回响。 [乐鸣东方动态表情包_开心]\n\n🎶卡池收录：动态数字音乐卡、未公开精美数字卡牌\n🎶 羁绊之礼解锁：钻石头像、空间背景、动态表情包、动态个性主题、头像框、专属出框头像\n🎶 传送门：网页链接\n\n和天依一起，再次一同聆听，那些藏在时光深处，依旧跳动不息的东方之音。 [乐鸣东方动态表情包_快哉]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "403674",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "【洛天依游学记·国乐季】珍藏集开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【珍藏集5抽】1份~\n循声古乐，纵览东方。 千年国乐，此刻回响。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_开心]",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/4406fe95fb509ea96aaae56f50677b0680a57147.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶卡池收录：动态数字音乐卡、未公开精美数字卡牌\n🎶 羁绊之礼解锁：钻石头像、空间背景、动态表情包、动态个性主题、头像框、专属出框头像\n🎶 传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=112245"
+      },
+      {
+        "type": "text",
+        "text": "\n\n和天依一起，再次一同聆听，那些藏在时光深处，依旧跳动不息的东方之音。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_快哉]",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "name": "快哉",
+        "url": "https://i0.hdslb.com/bfs/garb/83c4c5bad51a032d0d2d806550dd8bc172f8974d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a92958e9d70fa0e5b550b848c04809e936081646.jpg",
+        "width": 750,
+        "height": 6290,
+        "size_kb": 4775.279296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/开心.gif",
+        "package_id": "9343",
+        "emoji_id": "131149",
+        "text": "[乐鸣东方动态表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/快哉.gif",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "text": "[乐鸣东方动态表情包_快哉]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·珍藏集",
+            "price": "",
+            "cover": "https://i0.hdslb.com/bfs/archive/d01df1f4bb2d5379e1dcdadc5e629763dcb1f102.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=108477&hybrid_set_header=2&lottery_id=0&rebate=647193094&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2026-03-15_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "403674"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5846,
+    "comment": 1216,
+    "forward": 6909
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

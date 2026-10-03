@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "989595585005748241",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/989595585005748241",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月18日",
+    "pub_ts": 1729246577,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "来，接我一剑！[洛·LUO_哼哼]【擎苍工作室x洛天依 青筠诀Ver. Q版手办】即将上线啦~[洛·LUO_超凶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来，接我一剑！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_哼哼]",
+        "package_id": "4400",
+        "emoji_id": "62226",
+        "name": "哼哼",
+        "url": "https://i0.hdslb.com/bfs/emote/b546de8caf433060a77e7c90b19c409571e3603d.png"
+      },
+      {
+        "type": "text",
+        "text": "【擎苍工作室x洛天依 青筠诀Ver. Q版手办】即将上线啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_超凶]",
+        "package_id": "4400",
+        "emoji_id": "62224",
+        "name": "超凶",
+        "url": "https://i0.hdslb.com/bfs/emote/fd10360a21d1b43943620727e0f130bc64bca9d6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4400/哼哼.png",
+        "package_id": "4400",
+        "emoji_id": "62226",
+        "text": "[洛·LUO_哼哼]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/超凶.png",
+        "package_id": "4400",
+        "emoji_id": "62224",
+        "text": "[洛·LUO_超凶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3680,
+    "comment": 129,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 989594429659545621,
+    "orig_mid": 430351780,
+    "deleted": false,
+    "archive_dir": "../../../430351780/2024-10/2024-10-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:20:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

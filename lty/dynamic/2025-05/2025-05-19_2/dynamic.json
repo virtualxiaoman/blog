@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "1068673552185556999",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1068673552185556999",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月19日",
+    "pub_ts": 1747658351,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "「Code Activate」设定图也分享给大家~[心律共鸣动态表情包_真好]查看图片",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「Code Activate」设定图也分享给大家~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "unknown",
+        "text": "查看图片",
+        "url": "",
+        "node_type": "RICH_TEXT_NODE_TYPE_VIEW_PICTURE"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4394,
+    "comment": 116,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1068670760428503065,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-05-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "831857233321000978",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/831857233321000978",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月20日",
+    "pub_ts": 1692520255,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 转发关注天依，揪3位小伙伴送出【洛天依合作款式充电宝】1个~\n\n《天依游学记·歌行》第一站——内蒙\r\n明艳干练的坎肩 飘扬精致的头饰\r\n俏皮优雅的翘尖靴 寓意吉祥的古老纹样\r\n蕴含着这个生活在马背上的民族 与生俱来的明艳与张扬\r\n并一同滋养了高亢豪放自由的蒙古族传统音乐\r\n\r\n感谢服装设计@赶稿人老师，为天依量身设计的内蒙古服饰造型\r\n一起来了解这套服装背后的设计细节，并跟随这套衣装开启天依的内蒙游学之旅吧~ [天依游学记_谢谢你]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "175789",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注天依，揪3位小伙伴送出【洛天依合作款式充电宝】1个~\n\n《天依游学记·歌行》第一站——内蒙\r\n明艳干练的坎肩 飘扬精致的头饰\r\n俏皮优雅的翘尖靴 寓意吉祥的古老纹样\r\n蕴含着这个生活在马背上的民族 与生俱来的明艳与张扬\r\n并一同滋养了高亢豪放自由的蒙古族传统音乐\r\n\r\n感谢服装设计"
+      },
+      {
+        "type": "mention",
+        "text": "@赶稿人",
+        "mid": 590881599,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师，为天依量身设计的内蒙古服饰造型\r\n一起来了解这套服装背后的设计细节，并跟随这套衣装开启天依的内蒙游学之旅吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/be96a6c2b21c2b2c16dfea3b9d9c8ba436081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1049.79296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-20_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6a24c068a0c72b5ea89daf172d405f9f36081646.png",
+        "width": 843,
+        "height": 782,
+        "size_kb": 1163.365234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-08-20_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/328d9dc416e3e7ff9f706908c68af2c136081646.png",
+        "width": 843,
+        "height": 1159,
+        "size_kb": 1714.2216796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-08-20_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6b6d933a14ec38eb3921ec8fafb8957336081646.png",
+        "width": 843,
+        "height": 1526,
+        "size_kb": 2296.9091796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-08-20_5.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/35063fd44e96ab5fee3e6df656322eae36081646.png",
+        "width": 843,
+        "height": 945,
+        "size_kb": 1566.3759765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-08-20_6.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/1c787ed26891195c3282c2a7b313334736081646.png",
+        "width": 843,
+        "height": 1402,
+        "size_kb": 2115.166015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-08-20_7.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/6ec5d7c53c60fd6187b8efb65a92b06136081646.png",
+        "width": 843,
+        "height": 596,
+        "size_kb": 866.7744140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-08-20_8.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a0e2deadae20b4e5b1b5bf6f78902a3936081646.png",
+        "width": 843,
+        "height": 1673,
+        "size_kb": 2415.734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-08-20_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/6ab4158d2b4b322a75d13fea0eee1bab36081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1028.760009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "175789"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10528,
+    "comment": 1606,
+    "forward": 9291
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

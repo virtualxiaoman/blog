@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1204086071378313235",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1204086071378313235",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月19日",
+    "pub_ts": 1779186535,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "鼓震长安｜歌行国乐季「五乐寻音」概念片 · 鼓乐篇",
+      "desc": "鼓乐，是中国传统器乐的合奏形式之一。\n它以鼓为核心节奏引领、融合笙、管、笛等其他乐器，被称为“中国古代交响乐”。\n西安鼓乐严格继承唐宋音乐遗存，历经千年传承未會断绝。\n\n拍以鼓起，百乐皆从；力击为镇，镇古安邦\n横扫为势，震彻九州；连击为阵，燃我热血\n\n以鼓为心，承千年礼乐；以声为阵，汇古今风雷\n5月22日，天依游学记【歌行·国乐季】「鼓乐」主题单曲《破天光》即将擂鼓\n循声而来，和天依一起，聆听城墙与钟声之间，流淌千年的西安鼓乐之韵~",
+      "jump_url": "https://www.bilibili.com/video/BV1cHLq6mEcD",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/4729b46aee7b5ef1867b2de84dabf7d20509010a.jpg",
+      "cover_file": "../../_assets/covers/2026-05-19_1.jpg",
+      "bvid": "BV1cHLq6mEcD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1cHLq6mEcD",
+        "aid": "116600762010132",
+        "cover": "http://i0.hdslb.com/bfs/archive/4729b46aee7b5ef1867b2de84dabf7d20509010a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1cHLq6mEcD",
+        "stat": {
+          "danmaku": "84",
+          "play": "5.1万",
+          "vt": ""
+        },
+        "duration_text": "01:28",
+        "title": "鼓震长安｜歌行国乐季「五乐寻音」概念片 · 鼓乐篇",
+        "desc": "鼓乐，是中国传统器乐的合奏形式之一。\n它以鼓为核心节奏引领、融合笙、管、笛等其他乐器，被称为“中国古代交响乐”。\n西安鼓乐严格继承唐宋音乐遗存，历经千年传承未會断绝。\n\n拍以鼓起，百乐皆从；力击为镇，镇古安邦\n横扫为势，震彻九州；连击为阵，燃我热血\n\n以鼓为心，承千年礼乐；以声为阵，汇古今风雷\n5月22日，天依游学记【歌行·国乐季】「鼓乐」主题单曲《破天光》即将擂鼓\n循声而来，和天依一起，聆听城墙与钟声之间，流淌千年的西安鼓乐之韵~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12863,
+    "comment": 533,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

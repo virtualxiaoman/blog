@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "810672367260925973",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/810672367260925973",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月24日",
+    "pub_ts": 1687587769,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是天依的，更是创作者们发光的舞台，一起期待节目，为创作者们加油吧[古色花香洛天依_突然冒出]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是天依的，更是创作者们发光的舞台，一起期待节目，为创作者们加油吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_突然冒出]",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "name": "突然冒出",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ae3f32ed6678677c8c0ed3812b10b81571e0c68.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/突然冒出.png",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "text": "[古色花香洛天依_突然冒出]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6586,
+    "comment": 275,
+    "forward": 52
+  },
+  "forward": {
+    "orig_id": 810635623559856377,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2023-06/2023-06-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:54:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

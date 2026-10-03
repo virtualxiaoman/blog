@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "948782443522949153",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/948782443522949153",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月30日",
+    "pub_ts": 1719744027,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "专辑主视觉设定分享给大家[洛天依·收藏集表情包_时间歌者]\n“一只可以无限再生的工作了十二个年头依然渴望用歌声打动你的机械报时鸟天依”\n设定by太子池安[洛天依·收藏集表情包_感谢]查看图片",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "专辑主视觉设定分享给大家"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“一只可以无限再生的工作了十二个年头依然渴望用歌声打动你的机械报时鸟天依”\n设定by太子池安"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_感谢]",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "name": "感谢",
+        "url": "https://i0.hdslb.com/bfs/garb/db7b6624aa87616d6a828faa9300c8ace0fa66aa.png"
+      },
+      {
+        "type": "unknown",
+        "text": "查看图片",
+        "url": "",
+        "node_type": "RICH_TEXT_NODE_TYPE_VIEW_PICTURE"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/感谢.png",
+        "package_id": "5283",
+        "emoji_id": "77193",
+        "text": "[洛天依·收藏集表情包_感谢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5487,
+    "comment": 148,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 948772174221541384,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-06-30_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:15:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

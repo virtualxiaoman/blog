@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "541830748831332559",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/541830748831332559",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月30日",
+    "pub_ts": 1624993202,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@嗳春日野穹 @孤若莫村 @大道寺知世さん 等16位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@嗳春日野穹",
+        "mid": 44550805,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@孤若莫村",
+        "mid": 232709046,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@大道寺知世さん",
+        "mid": 33806296,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等16位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5774,
+    "comment": 141,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 527209232745081630,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2021-05/2021-05-21_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:32:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

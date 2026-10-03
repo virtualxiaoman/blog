@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "256311626613155167",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/256311626613155167",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月22日",
+    "pub_ts": 1558515601,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@梦回旧巷 @沁芊墨漪 中奖，已发送系统通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@梦回旧巷",
+        "mid": 286767269,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@沁芊墨漪",
+        "mid": 67983251,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 中奖，已发送系统通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3483,
+    "comment": 198,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 223285308085688225,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2019-02/2019-02-22_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1225196213555429398",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1225196213555429398",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月15日",
+    "pub_ts": 1784101623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@敬业的沃公公@玑星@超级茕茕中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@敬业的沃公公",
+        "mid": 521247965,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@玑星",
+        "mid": 526941026,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@超级茕茕",
+        "mid": 3108623,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3320,
+    "comment": 46,
+    "forward": 12
+  },
+  "forward": {
+    "orig_id": 1207789540018749465,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-05/2026-05-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:30:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

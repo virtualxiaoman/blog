@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1083381882403422231",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1083381882403422231",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月28日",
+    "pub_ts": 1751082901,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【BML2025】洛天依问候视频",
+      "desc": "7月12-13日（DAY2-DAY3）国家会展中心（上海）虹馆EH，与洛天依不见不散！\n更多详情请点击： https://bml.bilibili.com/ 了解更多情报！",
+      "jump_url": "https://www.bilibili.com/video/BV1t9KbzhEUJ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/fa67c4a7ba14a227c43adb35e67557dbf3e8f128.jpg",
+      "cover_file": "../../_assets/covers/2025-06-28_1.jpg",
+      "bvid": "BV1t9KbzhEUJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1t9KbzhEUJ",
+        "aid": "114732451300782",
+        "cover": "http://i0.hdslb.com/bfs/archive/fa67c4a7ba14a227c43adb35e67557dbf3e8f128.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1t9KbzhEUJ",
+        "stat": {
+          "danmaku": "183",
+          "play": "8.6万",
+          "vt": ""
+        },
+        "duration_text": "01:20",
+        "title": "【BML2025】洛天依问候视频",
+        "desc": "7月12-13日（DAY2-DAY3）国家会展中心（上海）虹馆EH，与洛天依不见不散！\n更多详情请点击： https://bml.bilibili.com/ 了解更多情报！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12214,
+    "comment": 381,
+    "forward": 14
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

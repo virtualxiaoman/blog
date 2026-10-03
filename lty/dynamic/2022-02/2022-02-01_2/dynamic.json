@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "id": "622217207867751765",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/622217207867751765",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月1日",
+    "pub_ts": 1643709633,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  大年初一，大家是不是正在到处拜年呢？ 从被亲戚“围攻”的间隙里喘口气，来完成一个小挑战吧：三首大家熟悉的歌，缺的是哪句词呢？前三位猜中送小礼物！还会随机抽取5位小伙伴同样送出周边小礼物一份～[洛天依·夜航星_Lucky]  p.s. 有从答案里体会到天依的心意吗？[洛天依_害羞]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  大年初一，大家是不是正在到处拜年呢？ 从被亲戚“围攻”的间隙里喘口气，来完成一个小挑战吧：三首大家熟悉的歌，缺的是哪句词呢？前三位猜中送小礼物！还会随机抽取5位小伙伴同样送出周边小礼物一份～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_Lucky]",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "name": "Lucky",
+        "url": "http://i0.hdslb.com/bfs/emote/bbeb9d231773a168397697072a11373893d7c01a.png"
+      },
+      {
+        "type": "text",
+        "text": "  p.s. 有从答案里体会到天依的心意吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-02-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/dc3ca268192232b4305353555a0fab69cacc09f4.jpg",
+        "width": 1000,
+        "height": 1333,
+        "size_kb": 1155.56005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-02-01_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/46fe927a33a1b886e96e94bac1e7f74e3a5f8954.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 5668.68994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/Lucky.png",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "text": "[洛天依·夜航星_Lucky]"
+      },
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9902,
+    "comment": 1044,
+    "forward": 177
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

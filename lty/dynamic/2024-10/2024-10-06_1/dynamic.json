@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "985136807654981634",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/985136807654981634",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月6日",
+    "pub_ts": 1728208437,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "和大家的演唱会大合照来啦！",
+    "text": "3，2，1！\n我们一起喊——[天依游学记_打call]\n咔嚓，定格下我们最珍贵的记忆瞬间！\n好想好想，时光倒流回这一刻~[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "3，2，1！\n我们一起喊——"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_打call]",
+        "package_id": "2363",
+        "emoji_id": "41454",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2393f61d10f6d623559e5ead42dc1d531fa96c70.png"
+      },
+      {
+        "type": "text",
+        "text": "\n咔嚓，定格下我们最珍贵的记忆瞬间！\n好想好想，时光倒流回这一刻~"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-06_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3e825236b03696cc9232774c5612781636081646.png",
+        "width": 7724,
+        "height": 4095,
+        "size_kb": 19227.83984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-06_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fe39b989fd59918cc6f1a814eeb4a94b36081646.png",
+        "width": 7928,
+        "height": 3565,
+        "size_kb": 19540.4296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-06_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d080a2fef93109a6561945fcff42aa7536081646.png",
+        "width": 8192,
+        "height": 4085,
+        "size_kb": 19638.849609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-10-06_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/69e91d86d27a813086393965b2e9cb1836081646.png",
+        "width": 7724,
+        "height": 4288,
+        "size_kb": 15108.6796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/打call.png",
+        "package_id": "2363",
+        "emoji_id": "41454",
+        "text": "[天依游学记_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6665,
+    "comment": 644,
+    "forward": 196
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "783918049548828710",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/783918049548828710",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月13日",
+    "pub_ts": 1681358544,
+    "location": ""
+  },
+  "topic": {
+    "id": 1028725,
+    "name": "以闪亮之名丝路绮梦",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1028725&topic_name=%E4%BB%A5%E9%97%AA%E4%BA%AE%E4%B9%8B%E5%90%8D%E4%B8%9D%E8%B7%AF%E7%BB%AE%E6%A2%A6"
+  },
+  "content": {
+    "title": "",
+    "text": "回望历史的间歇，在褪色的时光里，重见美的永恒。\n弦音流转，一舞千年。天依很高兴，可以有机会用歌声牵手@以闪亮之名  在全新版本月下盛筵为大家开启一段奇妙的大漠之旅。\n全新原创合作曲《灼》正式上线，献给历史长河中那条闪亮的丝路。\n一起探寻#以闪亮之名丝路绮梦#，感受异域之美吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "回望历史的间歇，在褪色的时光里，重见美的永恒。\n弦音流转，一舞千年。天依很高兴，可以有机会用歌声牵手"
+      },
+      {
+        "type": "mention",
+        "text": "@以闪亮之名 ",
+        "mid": 676200579,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 在全新版本月下盛筵为大家开启一段奇妙的大漠之旅。\n全新原创合作曲《灼》正式上线，献给历史长河中那条闪亮的丝路。\n一起探寻"
+      },
+      {
+        "type": "topic",
+        "text": "#以闪亮之名丝路绮梦#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E9%97%AA%E4%BA%AE%E4%B9%8B%E5%90%8D%E4%B8%9D%E8%B7%AF%E7%BB%AE%E6%A2%A6"
+      },
+      {
+        "type": "text",
+        "text": "，感受异域之美吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X以闪亮之名】原创合作曲《灼》踏沙而来",
+      "desc": "驼铃 胡琴 宝相花\n一段奇妙的大漠之旅\n天依和@以闪亮之名  的原创合作曲《灼》正式上线，新歌献给历史长河中那条闪亮的丝路！\n \n《以闪亮之名》月下盛筵·全新版本主题曲《灼》 - 洛天依\n作词：温莨\n作曲：西门振\n和声设计：橘音kitsune\n吉他：疯疯疯哥有节操\n调教：Creuzer\n场景：神宫寺 冷君\n人物立绘：catcan、Eee、-ACR\n视频：明央Akio(DMK Studio)\n\n《以闪亮之名》全新版本月下盛筵现已开启！快来探寻#以闪亮之名丝路绮梦#，一起感受异域之美吧~",
+      "jump_url": "https://www.bilibili.com/video/BV12m4y1m7bT",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/5fe7f6959cfccf5098cdbd86c8ba46e0e0844dcd.jpg",
+      "cover_file": "../../_assets/covers/2023-04-13_1.jpg",
+      "bvid": "BV12m4y1m7bT",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12m4y1m7bT",
+        "aid": "697436664",
+        "cover": "http://i1.hdslb.com/bfs/archive/5fe7f6959cfccf5098cdbd86c8ba46e0e0844dcd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12m4y1m7bT",
+        "stat": {
+          "danmaku": "1963",
+          "play": "195.9万",
+          "vt": ""
+        },
+        "duration_text": "03:02",
+        "title": "【洛天依X以闪亮之名】原创合作曲《灼》踏沙而来",
+        "desc": "驼铃 胡琴 宝相花\n一段奇妙的大漠之旅\n天依和@以闪亮之名  的原创合作曲《灼》正式上线，新歌献给历史长河中那条闪亮的丝路！\n \n《以闪亮之名》月下盛筵·全新版本主题曲《灼》 - 洛天依\n作词：温莨\n作曲：西门振\n和声设计：橘音kitsune\n吉他：疯疯疯哥有节操\n调教：Creuzer\n场景：神宫寺 冷君\n人物立绘：catcan、Eee、-ACR\n视频：明央Akio(DMK Studio)\n\n《以闪亮之名》全新版本月下盛筵现已开启！快来探寻#以闪亮之名丝路绮梦#，一起感受异域之美吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 133095,
+    "comment": 4289,
+    "forward": 564
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:52:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

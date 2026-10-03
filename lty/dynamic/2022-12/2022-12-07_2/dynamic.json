@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "736896781919453220",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/736896781919453220",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月7日",
+    "pub_ts": 1670410552,
+    "location": ""
+  },
+  "topic": {
+    "id": 57026,
+    "name": "天依的心声代理站",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=57026&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%BF%83%E5%A3%B0%E4%BB%A3%E7%90%86%E7%AB%99"
+  },
+  "content": {
+    "title": "",
+    "text": "今天也是期待大家光临的店主天依呀₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎~https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH 转眼就是今年的最后一个月啦，大家会有什么特别的感慨吗~ 代理站即日起特别增加每月月刊，再也不用担心自己的投稿被淹没啦！ 悄悄告诉你们，已经有小伙伴的心声被创作老师们看到了哦！ 如果你也想让你的想法变成歌，欢迎来天依的小破店做客呀[洛天依·夜航星_摸摸]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天也是期待大家光临的店主天依呀₍ᐢ⸝⸝› ̫ ‹⸝⸝ᐢ₎~https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH 转眼就是今年的最后一个月啦，大家会有什么特别的感慨吗~ 代理站即日起特别增加每月月刊，再也不用担心自己的投稿被淹没啦！ 悄悄告诉你们，已经有小伙伴的心声被创作老师们看到了哦！ 如果你也想让你的想法变成歌，欢迎来天依的小破店做客呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-07_2.gif",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8e0d780bc2bec4327ba2536e277aac4036081646.gif",
+        "width": 400,
+        "height": 400,
+        "size_kb": 314.2578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7965,
+    "comment": 320,
+    "forward": 40
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

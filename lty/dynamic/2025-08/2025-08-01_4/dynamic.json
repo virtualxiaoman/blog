@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1096130401897807888",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1096130401897807888",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月1日",
+    "pub_ts": 1754051147,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "彩，彩排继续！天依我是不会停下来的！[洛天依流光协奏_我要闹了]\n只要你们不停下，我就会在成都站的舞台等着你们——[洛天依流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "彩，彩排继续！天依我是不会停下来的！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_我要闹了]",
+        "package_id": "8393",
+        "emoji_id": "115565",
+        "name": "我要闹了",
+        "url": "https://i0.hdslb.com/bfs/garb/7764ecdb2a7569c66c56e2d68ec7fe800fde0ff8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n只要你们不停下，我就会在成都站的舞台等着你们——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_捧花]",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/1970804d6735f906318f08b771381742692960d8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-01_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/99b3edadd1cddf5a9e9fbe3ba57146e636081646.png",
+        "width": 3840,
+        "height": 2160,
+        "size_kb": 12131.5,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/我要闹了.png",
+        "package_id": "8393",
+        "emoji_id": "115565",
+        "text": "[洛天依流光协奏_我要闹了]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/捧花.png",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "text": "[洛天依流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7756,
+    "comment": 862,
+    "forward": 96
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1246289813704802311",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1246289813704802311",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月10日",
+    "pub_ts": 1789012859,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "第六步「Reality 真相」\n你获得了第六枚棋子——“白国王”[逆转童话动态_盯]\n\n你看到了一枚洁白无瑕的棋子，决意铸造“长生”的乐土\n悲悯的少女王者吞下了欲望的苹果，寂静的地下王国被迫显现。\n“这便是我的罪行。审判我吧，但我从未后悔过。”[洛天依14周年·纯蓝幻乐 动态表情包_放手一搏]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第六步「Reality 真相」\n你获得了第六枚棋子——“白国王”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_盯]",
+        "package_id": "8744",
+        "emoji_id": "121354",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/1ec23b98599725cab9226dd8461ecd8dcec5133f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你看到了一枚洁白无瑕的棋子，决意铸造“长生”的乐土\n悲悯的少女王者吞下了欲望的苹果，寂静的地下王国被迫显现。\n“这便是我的罪行。审判我吧，但我从未后悔过。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_放手一搏]",
+        "package_id": "10238",
+        "emoji_id": "145983",
+        "name": "放手一搏",
+        "url": "https://i0.hdslb.com/bfs/garb/00f70dd90b6a34483510c84c711654eaf435c880.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8a908098db54f6796e6030af8b6eeb0f36081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 2908.6298828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/盯.gif",
+        "package_id": "8744",
+        "emoji_id": "121354",
+        "text": "[逆转童话动态_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/放手一搏.gif",
+        "package_id": "10238",
+        "emoji_id": "145983",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_放手一搏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4425,
+    "comment": 117,
+    "forward": 53
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

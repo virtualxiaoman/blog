@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "371306017297909980",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/371306017297909980",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年3月27日",
+    "pub_ts": 1585289819,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家工作都辛苦了！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家工作都辛苦了！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9200,
+    "comment": 401,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 370694809092777678,
+    "orig_mid": 90942983,
+    "deleted": false,
+    "archive_dir": "../../../90942983/2020-03/2020-03-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

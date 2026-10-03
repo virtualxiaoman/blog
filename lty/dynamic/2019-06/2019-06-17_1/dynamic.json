@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "265994063450140459",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/265994063450140459",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年6月17日",
+    "pub_ts": 1560769969,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#2019洛天依生日会#生日会线下报名链接现在正式发布！报名成功的小伙伴有机会来到现场与天依一起玩耍~同时转发本动态还能获得天依的生日会礼包 报名地址：网页链接 举办时间：2019年7月12日19:12-21:30（暂定） 举办地址：上海环球金融中心94层 画师：TID 老V提醒：如果报名不来的小伙伴，以后都不能参加官方送出的任何福利活动了！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "​互动抽奖"
+      },
+      {
+        "type": "topic",
+        "text": "#2019洛天依生日会#",
+        "url": "https://search.bilibili.com/all?keyword=2019%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "生日会线下报名链接现在正式发布！报名成功的小伙伴有机会来到现场与天依一起玩耍~同时转发本动态还能获得天依的生日会礼包 报名地址："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/activity-V_FExD8uy.html"
+      },
+      {
+        "type": "text",
+        "text": " 举办时间：2019年7月12日19:12-21:30（暂定） 举办地址：上海环球金融中心94层 画师：TID 老V提醒：如果报名不来的小伙伴，以后都不能参加官方送出的任何福利活动了！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-06-17_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ed4b2986d7478c01de103297dedeb0189388b37c.png",
+        "width": 906,
+        "height": 1500,
+        "size_kb": 2202.359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7316,
+    "comment": 1321,
+    "forward": 6143
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

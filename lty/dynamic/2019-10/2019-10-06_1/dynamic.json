@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "307098846093230904",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/307098846093230904",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年10月6日",
+    "pub_ts": 1570340422,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这首超帅的歌曲大家都听了吗？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这首超帅的歌曲大家都听了吗？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5357,
+    "comment": 167,
+    "forward": 6
+  },
+  "forward": {
+    "orig_id": 305743341524481764,
+    "orig_mid": 406948857,
+    "deleted": false,
+    "archive_dir": "../../../406948857/2019-10/2019-10-02_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

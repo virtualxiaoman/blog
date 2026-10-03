@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "893178839103963138",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/893178839103963138",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月1日",
+    "pub_ts": 1706797804,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#互动抽奖# 【新品上线】\n铛铛~我们的好朋友——小天钿 玩偶复刻啦！还有超舒适的天依连帽空调毯~[Vsinger_rua天依]\n卷❀关注天依，2月29日揪1位小伙伴送出【天钿玩偶】1份。\n\n戴上帽子，是不是很像被天依我一口吃掉啦8(oﾟvﾟ)ノ\n毛绒绒的毯子披在身上很舒服，披肩展开是保暖毯子，折叠后是可爱小抱枕，和天钿玩偶放一起，双倍可爱> <\n\n上架时间：2月3日\n入手方式：天猫「moeyu旗舰店」、B站会员购「moeyu」\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#互动抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BA%92%E5%8A%A8%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": " 【新品上线】\n铛铛~我们的好朋友——小天钿 玩偶复刻啦！还有超舒适的天依连帽空调毯~"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_rua天依]",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "name": "rua天依",
+        "url": "https://i0.hdslb.com/bfs/emote/8cb386da657e1e18c9f37707bb707bb2c839cbfc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n卷❀关注天依，2月29日揪1位小伙伴送出【天钿玩偶】1份。\n\n戴上帽子，是不是很像被天依我一口吃掉啦8(oﾟvﾟ)ノ\n毛绒绒的毯子披在身上很舒服，披肩展开是保暖毯子，折叠后是可爱小抱枕，和天钿玩偶放一起，双倍可爱> <\n\n上架时间：2月3日\n入手方式：天猫「moeyu旗舰店」、B站会员购「moeyu」"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-01_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/f45e45620cdb20d8f33634e50b0368d736081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 77.37999725341797,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-01_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/ecc76f0871c3644459c74bf049f9f94936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 73.20999908447266,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-01_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0fc88ced77e83b0faa1cf048e1c9da2536081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 64.54000091552734,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-02-01_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/6fb25e25b35eae62cd967795df464a7a36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 85.1500015258789,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-02-01_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4b69357275a17c973aa22543611a2dc236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 97.83000183105469,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-02-01_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/f6dd07a05d4c1c7a37d9b4581c5212b936081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 106.5,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-02-01_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/54af63734fca3324772f73f4db9bf39f36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 136.57000732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-02-01_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/dd444d76303ff7892e5bfa787f928d1236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 102.77999877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-02-01_10.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/f49bbf5c5e48d770acba796b2c030c1736081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 98.70999908447266,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/rua天依.png",
+        "package_id": "4363",
+        "emoji_id": "61572",
+        "text": "[Vsinger_rua天依]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "moeyu Vsinger 洛天依眯眯眼系列多功能空调毯",
+            "price": "¥233",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/ab/a7/aba7dc2b837e431f8c21deb48e00cdb7.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10236075&msource=cps_Mdynamic_36081646_cont-2-893178839103963138&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-01_1.png"
+          },
+          {
+            "name": "moeyu Vsinger 洛天依天钿玩偶",
+            "price": "¥91",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/74/95/7495c5a411224b59232bf68da6127895.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10236060&msource=cps_Mdynamic_36081646_cont-2-893178839103963138&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-01_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6582,
+    "comment": 2521,
+    "forward": 4670
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "950300052998324231",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/950300052998324231",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月4日",
+    "pub_ts": 1720097373,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "感谢大家的聆听！感谢每一位参与制作的老师，不知道哪一首或者几首歌曲给大家留下了最深刻的印象呢？\n距离《再生》数字专辑的正式上线还有两天啦～明天，天依会大家带来平台价格福利活动等具体介绍信息，记得来天依的动态看哦！[洛天依·收藏集表情包_优雅]查看图片",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢大家的聆听！感谢每一位参与制作的老师，不知道哪一首或者几首歌曲给大家留下了最深刻的印象呢？\n距离《再生》数字专辑的正式上线还有两天啦～明天，天依会大家带来平台价格福利活动等具体介绍信息，记得来天依的动态看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_优雅]",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "name": "优雅",
+        "url": "https://i0.hdslb.com/bfs/garb/3cec4f187f80d79b6b621adfff8f7b3c557276f1.png"
+      },
+      {
+        "type": "unknown",
+        "text": "查看图片",
+        "url": "",
+        "node_type": "RICH_TEXT_NODE_TYPE_VIEW_PICTURE"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/优雅.png",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "text": "[洛天依·收藏集表情包_优雅]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5501,
+    "comment": 143,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 950256553580036115,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-07-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:15:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

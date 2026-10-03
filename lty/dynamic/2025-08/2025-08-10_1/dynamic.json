@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1099389255582482471",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1099389255582482471",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月10日",
+    "pub_ts": 1754809908,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依xYOOOOSHOP演唱会主题系列快闪·上海站快闪活动即将开启！[洛天依动态流光协奏_出发喽]\n星芒荡起烁蓝涟漪，余韵漫过无界星河🌌\n【烁蓝流转 余韵无界】上海站快闪\n⏰ 时间：2025.8.15-2025.9.14\n📍 地址：上海市杨浦区四平路2500号百联ZX造趣场B1\n\n🌟 快闪周边情报\n洛天依无限共鸣·流光协奏演唱会·蓝宝石系列\n洛天依无限共鸣·流光协奏演唱会·流光协奏系列\n \n🎶 现场活动情报\n参与集章活动和购买周边金额达到指定门槛，即可获得对应天依周边\n*现场还有非遗漆扇DIY 特别活动\n \n💎活动现场特殊日期还有天依 coser 和人偶巡场活动\n详情小伙伴请戳长图查看哦！ [洛天依动态流光协奏_allin]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依xYOOOOSHOP演唱会主题系列快闪·上海站快闪活动即将开启！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_出发喽]",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "name": "出发喽",
+        "url": "https://i0.hdslb.com/bfs/garb/0570c6197ee6e9ace3dcc4a0e85663d7bc738785.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n星芒荡起烁蓝涟漪，余韵漫过无界星河🌌\n【烁蓝流转 余韵无界】上海站快闪\n⏰ 时间：2025.8.15-2025.9.14\n📍 地址：上海市杨浦区四平路2500号百联ZX造趣场B1\n\n🌟 快闪周边情报\n洛天依无限共鸣·流光协奏演唱会·蓝宝石系列\n洛天依无限共鸣·流光协奏演唱会·流光协奏系列\n \n🎶 现场活动情报\n参与集章活动和购买周边金额达到指定门槛，即可获得对应天依周边\n*现场还有非遗漆扇DIY 特别活动\n \n💎活动现场特殊日期还有天依 coser 和人偶巡场活动\n详情小伙伴请戳长图查看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_allin]",
+        "package_id": "8399",
+        "emoji_id": "115683",
+        "name": "allin",
+        "url": "https://i0.hdslb.com/bfs/garb/3426680a08746c58b4c5ffe87a1d8bf8a3182a92.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-10_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/94dfefa85cfd2e427a3d09f3ef145c2036081646.png",
+        "width": 2084,
+        "height": 10192,
+        "size_kb": 3604.328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-10_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/165bcff92b7c05e469b4828951dc153f36081646.png",
+        "width": 2084,
+        "height": 10182,
+        "size_kb": 4633.44140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-10_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5bdb9622565a078b07a09ab072f10f4f36081646.png",
+        "width": 2084,
+        "height": 16061,
+        "size_kb": 4719.408203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/出发喽.gif",
+        "package_id": "8399",
+        "emoji_id": "115685",
+        "text": "[洛天依动态流光协奏_出发喽]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/allin.gif",
+        "package_id": "8399",
+        "emoji_id": "115683",
+        "text": "[洛天依动态流光协奏_allin]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5108,
+    "comment": 1285,
+    "forward": 60
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

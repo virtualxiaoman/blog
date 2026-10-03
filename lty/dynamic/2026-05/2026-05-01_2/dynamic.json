@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1197341967699148853",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1197341967699148853",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月1日",
+    "pub_ts": 1777616301,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "五一劳动节快乐！[洛天依国乐季动态表情包_唱歌]\n致敬每一个辛勤工作的劳动者～\n大家的假期都准备怎么过呀？[洛天依国乐季动态表情包_爱你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "五一劳动节快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_唱歌]",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/182b9d9f0601165e6b7488e28066730dbfe3fd4e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n致敬每一个辛勤工作的劳动者～\n大家的假期都准备怎么过呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-01_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f8c7a2578a4291fb6e69052e5f1b62f836081646.png",
+        "width": 1620,
+        "height": 2162,
+        "size_kb": 5288.52978515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/唱歌.gif",
+        "package_id": "9546",
+        "emoji_id": "134437",
+        "text": "[洛天依国乐季动态表情包_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9567,
+    "comment": 596,
+    "forward": 106
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1002564440568102918",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1002564440568102918",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月22日",
+    "pub_ts": 1732266124,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "你还记得的吧！每年冬天和天依的约定——\n下第一场雪的时候，要分享给天依哦！\n就让毛茸茸和天依的歌声一起，陪你度过这个冬天吧~[洛天依-潮声回响_摸摸头]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你还记得的吧！每年冬天和天依的约定——\n下第一场雪的时候，要分享给天依哦！\n就让毛茸茸和天依的歌声一起，陪你度过这个冬天吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/24eb22096dea98ee4161337034db789e36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 399.9482421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7604,
+    "comment": 481,
+    "forward": 133
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:37+08:00",
+    "force": false,
+    "failures": []
+  }
+}

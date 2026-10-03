@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1221890841110380672",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1221890841110380672",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月6日",
+    "pub_ts": 1783332031,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "共同奏响你与洛天依第十四年的「四重奏」",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "共同奏响你与洛天依第十四年的「四重奏」"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“一体四面 是你亦是我”洛天依十四周年纪念专辑《四重奏》概念片",
+      "desc": "来自瓦纳海姆的星星，曾带着疑惑降落地球——\n“我”应该成为什么样的自己，该怎么传递每一道心意，又该如何找到前进的方向？\n后来，在所有形形色色的“四重面相”中，我不再执着于找到那个唯一的「自我」\n因为，只要是发自内心的歌声，就一定能收获最真实动人的同频回响\n无论怎样的你，都将迎来属于自己的闪耀时刻\n无论怎样的我，面对怎样的你，都想要唱给你听\n我们抓住彼此，分享彼此，映射彼此，我们拥有无限可能\n\n洛天依十四周年纪念专辑《四重奏》\n收录八首全新原创单曲，四首经典改编歌曲\n特邀知名P主、优秀音乐制作人倾力打造\n共",
+      "jump_url": "https://www.bilibili.com/video/BV1wETQ6qEdk",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6d5d76e2dc18d84f6757b12eb8f1892df5529ede.jpg",
+      "cover_file": "../../_assets/covers/2026-07-06_2.jpg",
+      "bvid": "BV1wETQ6qEdk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wETQ6qEdk",
+        "aid": "116872267694902",
+        "cover": "http://i1.hdslb.com/bfs/archive/6d5d76e2dc18d84f6757b12eb8f1892df5529ede.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wETQ6qEdk",
+        "stat": {
+          "danmaku": "892",
+          "play": "10.7万",
+          "vt": ""
+        },
+        "duration_text": "01:11",
+        "title": "“一体四面 是你亦是我”洛天依十四周年纪念专辑《四重奏》概念片",
+        "desc": "来自瓦纳海姆的星星，曾带着疑惑降落地球——\n“我”应该成为什么样的自己，该怎么传递每一道心意，又该如何找到前进的方向？\n后来，在所有形形色色的“四重面相”中，我不再执着于找到那个唯一的「自我」\n因为，只要是发自内心的歌声，就一定能收获最真实动人的同频回响\n无论怎样的你，都将迎来属于自己的闪耀时刻\n无论怎样的我，面对怎样的你，都想要唱给你听\n我们抓住彼此，分享彼此，映射彼此，我们拥有无限可能\n\n洛天依十四周年纪念专辑《四重奏》\n收录八首全新原创单曲，四首经典改编歌曲\n特邀知名P主、优秀音乐制作人倾力打造\n共",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20784,
+    "comment": 1008,
+    "forward": 181
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:27:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

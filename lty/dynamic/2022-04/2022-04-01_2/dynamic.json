@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "644006478985822231",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/644006478985822231",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月1日",
+    "pub_ts": 1648782843,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#Vsinger# #愚人节#  宅在家里太久，是时候运动一下了呀！ 猜猜我是谁？\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#愚人节#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%84%9A%E4%BA%BA%E8%8A%82"
+      },
+      {
+        "type": "text",
+        "text": "  宅在家里太久，是时候运动一下了呀！ 猜猜我是谁？"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-01_10.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/22d494f50210e2b38427eadc6795e6933f16f16d.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 75.63999938964844,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8958,
+    "comment": 547,
+    "forward": 55
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

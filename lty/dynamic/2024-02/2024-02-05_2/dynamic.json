@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "894595147495374930",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/894595147495374930",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月5日",
+    "pub_ts": 1707127564,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "太好听啦，谢谢【新春非遗之夜】[洛天依歌行四方_送你花花]龚老师和少数民族音乐家们的合作让天依的《歌行四方》传到更多更远的地方，这也是《歌行》的意义呀！[洛天依歌行四方_行礼]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "太好听啦，谢谢【新春非遗之夜】"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      },
+      {
+        "type": "text",
+        "text": "龚老师和少数民族音乐家们的合作让天依的《歌行四方》传到更多更远的地方，这也是《歌行》的意义呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_行礼]",
+        "package_id": "4128",
+        "emoji_id": "58609",
+        "name": "行礼",
+        "url": "https://i0.hdslb.com/bfs/emote/824474fc80d88cd57dd074e183f610c0c2180b8f.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/行礼.png",
+        "package_id": "4128",
+        "emoji_id": "58609",
+        "text": "[洛天依歌行四方_行礼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4191,
+    "comment": 135,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 894260543801524280,
+    "orig_mid": 433587902,
+    "deleted": false,
+    "archive_dir": "../../../433587902/2024-02/2024-02-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

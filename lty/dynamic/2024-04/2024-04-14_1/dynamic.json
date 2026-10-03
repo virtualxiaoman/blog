@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "920232000561872899",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/920232000561872899",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月14日",
+    "pub_ts": 1713096609,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n“滴滴——检测到目标跃迁至平行世界000028[亚特兰蒂斯]。\n\n情报解禁，数据传输中......情报解析已完成，转换为Earth001模式......”\n“转换完毕，已输出。档案[亚特兰蒂斯]已公开。”\n“检测到目标向下一个平行世界移动……预测为平行世界003075，新情报同步中……”[代号洛天依_起航]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n“滴滴——检测到目标跃迁至平行世界000028"
+      },
+      {
+        "type": "text",
+        "text": "[亚特兰蒂斯]"
+      },
+      {
+        "type": "text",
+        "text": "。\n\n情报解禁，数据传输中......情报解析已完成，转换为Earth001模式......”\n“转换完毕，已输出。档案"
+      },
+      {
+        "type": "text",
+        "text": "[亚特兰蒂斯]"
+      },
+      {
+        "type": "text",
+        "text": "已公开。”\n“检测到目标向下一个平行世界移动……预测为平行世界003075，新情报同步中……”"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_起航]",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "name": "起航",
+        "url": "https://i0.hdslb.com/bfs/emote/fcf98eac4cfc0cd58fe51b2a422a6362210fa922.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a7b80fab70a2109650c3a7fe6adf478c36081646.jpg",
+        "width": 1080,
+        "height": 6470,
+        "size_kb": 6142.43994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/起航.png",
+        "package_id": "1842",
+        "emoji_id": "32144",
+        "text": "[代号洛天依_起航]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5293,
+    "comment": 585,
+    "forward": 52
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

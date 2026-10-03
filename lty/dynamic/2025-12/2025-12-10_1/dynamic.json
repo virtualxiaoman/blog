@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "1144709617354276886",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1144709617354276886",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月10日",
+    "pub_ts": 1765361877,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖《戏游九州》800w播放撒花~[洛天依·戏游九州动态_撒花]\n让我们恭喜这个超厉害的小西柚！献给历久弥新的中华戏曲｜戏游九州\n感谢大家一直以来对天依的支持，转发关注天依\n揪3位小伙伴送出【洛天依全息巡回演唱会·武汉站】门票1张~[洛天依·戏游九州动态_惬意]\n\n第三季《天依游学季》也将会在明年1月带给大家哦，会是什么主题呢~？\n敬请期待吧！[洛天依·戏游九州动态_期待]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "390293",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "《戏游九州》800w播放撒花~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n让我们恭喜这个超厉害的小西柚！"
+      },
+      {
+        "type": "video",
+        "text": "献给历久弥新的中华戏曲｜戏游九州",
+        "url": "https://www.bilibili.com/video/av113672802272752",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "感谢大家一直以来对天依的支持，转发关注天依\n揪3位小伙伴送出【洛天依全息巡回演唱会·武汉站】门票1张~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n第三季《天依游学季》也将会在明年1月带给大家哦，会是什么主题呢~？\n敬请期待吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_期待]",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "name": "期待",
+        "url": "https://i0.hdslb.com/bfs/garb/f68b3f62d213cd7755ec7076adab88bccf6df9bc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c3500e18297cbc4759fee0a857c625fd36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1415.47998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/期待.gif",
+        "package_id": "7318",
+        "emoji_id": "98452",
+        "text": "[洛天依·戏游九州动态_期待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "390293"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6123,
+    "comment": 741,
+    "forward": 5516
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

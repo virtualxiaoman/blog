@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "893023490148401153",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/893023490148401153",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月1日",
+    "pub_ts": 1706761634,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依收藏集——洛·LUO】预约开启~ 选取了《山妖》的视觉形象作为这次的主视觉，和小妖天依一起到林间逍遥[洛天依歌行四方_送你花花]（还是20个表情包的，明天就会全部解锁啦！）",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依收藏集——洛·LUO】预约开启~ 选取了《山妖》的视觉形象作为这次的主视觉，和小妖天依一起到林间逍遥"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送你花花]",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "name": "送你花花",
+        "url": "https://i0.hdslb.com/bfs/emote/d38d66f73fbe6d29ab15549c6beebd4debc6506b.png"
+      },
+      {
+        "type": "text",
+        "text": "（还是20个表情包的，明天就会全部解锁啦！）"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/送你花花.png",
+        "package_id": "4128",
+        "emoji_id": "58606",
+        "text": "[洛天依歌行四方_送你花花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3427,
+    "comment": 157,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 893016472177082371,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2024-02/2024-02-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:05:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

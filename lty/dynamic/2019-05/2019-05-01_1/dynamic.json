@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "248447408349043221",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/248447408349043221",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年5月1日",
+    "pub_ts": 1556684570,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家五一要过的开心呀！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家五一要过的开心呀！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-05-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8ced0a3f7033082070aa0b7b00b41daadfe90b2e.jpg",
+        "width": 1363,
+        "height": 3392,
+        "size_kb": 2100.3779296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8529,
+    "comment": 672,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1109022098456576025",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1109022098456576025",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月5日",
+    "pub_ts": 1757052729,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依也来做客神山羊老师的演唱会啦！很开心可以和老师再次一起唱歌~[洛天依·闪耀的Producer动态_幸福]就在9月26日上海，大家多多支持吧！[洛天依·闪耀的Producer动态_全肯定]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依也来做客神山羊老师的演唱会啦！很开心可以和老师再次一起唱歌~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "就在9月26日上海，大家多多支持吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "name": "全肯定",
+        "url": "https://i0.hdslb.com/bfs/garb/d75992612c05c5748714d5349019c026a99e741d.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/全肯定.gif",
+        "package_id": "8540",
+        "emoji_id": "117831",
+        "text": "[洛天依·闪耀的Producer动态_全肯定]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4866,
+    "comment": 119,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 1108988297072345088,
+    "orig_mid": 265967388,
+    "deleted": false,
+    "archive_dir": "../../../265967388/2025-09/2025-09-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:39:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

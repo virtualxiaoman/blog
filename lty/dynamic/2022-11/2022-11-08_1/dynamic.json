@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "726146392871927833",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/726146392871927833",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月8日",
+    "pub_ts": 1667907532,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "被爱是一件如此温暖而感动的事，要爱值得被爱的人，更要爱自己[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "被爱是一件如此温暖而感动的事，要爱值得被爱的人，更要爱自己"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6252,
+    "comment": 156,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 722015793989025861,
+    "orig_mid": 413808022,
+    "deleted": false,
+    "archive_dir": "../../../413808022/2022-10/2022-10-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:55:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

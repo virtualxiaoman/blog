@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "900927733214740488",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/900927733214740488",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月22日",
+    "pub_ts": 1708601984,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "如果用一个颜色代表天依，当然是——\n蓝色啦！*8(੭*ˊᵕˋ)੭*\n天空、海洋、勿忘草、蓝宝石......\n如果要用一个蓝色的事物形容天依，大家会用什么呢？[洛天依蝶变_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果用一个颜色代表天依，当然是——\n蓝色啦！*8(੭*ˊᵕˋ)੭*\n天空、海洋、勿忘草、蓝宝石......\n如果要用一个蓝色的事物形容天依，大家会用什么呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7897,
+    "comment": 871,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

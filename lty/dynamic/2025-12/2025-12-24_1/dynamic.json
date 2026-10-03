@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1149792543685214209",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1149792543685214209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月24日",
+    "pub_ts": 1766545338,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "小洛请你喝汤啦！\n今天的午餐，适宜来一锅热气腾腾的菌菇汤~[洛天依八音奇响动态_赞]\n\n12月31日19:30，2025bilibili最美的夜跨年晚会\n和天依一起到处吃个够吧！[洛天依八音奇响动态_馋]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小洛请你喝汤啦！\n今天的午餐，适宜来一锅热气腾腾的菌菇汤~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_赞]",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/311e217d343d1eb6a2330fe39518904106796890.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n12月31日19:30，2025bilibili最美的夜跨年晚会\n和天依一起到处吃个够吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_馋]",
+        "package_id": "8362",
+        "emoji_id": "115081",
+        "name": "馋",
+        "url": "https://i0.hdslb.com/bfs/garb/2a40e3507ce41cd6e534a0d7660e7daf4194360c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/624c07bc0901a39350995bae03d6682a36081646.jpg",
+        "width": 1440,
+        "height": 2560,
+        "size_kb": 2607.030029296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/赞.gif",
+        "package_id": "8362",
+        "emoji_id": "115080",
+        "text": "[洛天依八音奇响动态_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/馋.gif",
+        "package_id": "8362",
+        "emoji_id": "115081",
+        "text": "[洛天依八音奇响动态_馋]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5802,
+    "comment": 330,
+    "forward": 79
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

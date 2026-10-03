@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "420369722235086780",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/420369722235086780",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月6日",
+    "pub_ts": 1596713353,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#我就是女生#为热爱应援！8月8日，天依和@护舒宝_Whisper 携手合作，由年轻的女性同人团队制作的公益单曲《以女生之名》，将在BW先行首发，预告片段先行奉上~天依的豫剧造型很多小伙伴都猜到啦，大家喜欢吗？在BW现场的小伙伴记得来看哦！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#我就是女生#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%B0%B1%E6%98%AF%E5%A5%B3%E7%94%9F"
+      },
+      {
+        "type": "text",
+        "text": "为热爱应援！8月8日，天依和"
+      },
+      {
+        "type": "mention",
+        "text": "@护舒宝_Whisper",
+        "mid": 350276531,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 携手合作，由年轻的女性同人团队制作的公益单曲《以女生之名》，将在BW先行首发，预告片段先行奉上~天依的豫剧造型很多小伙伴都猜到啦，大家喜欢吗？在BW现场的小伙伴记得来看哦！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7133,
+    "comment": 300,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 420363271196252476,
+    "orig_mid": 350276531,
+    "deleted": false,
+    "archive_dir": "../../../350276531/2020-08/2020-08-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

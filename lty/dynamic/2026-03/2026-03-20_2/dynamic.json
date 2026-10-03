@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1181815085375422480",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1181815085375422480",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月20日",
+    "pub_ts": 1774001167,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「南音」主题单曲《簪花烟火谣》3月22日即将起曲\n属于天依和南音的游学特别短片也即将与大家见面~[乐鸣东方动态表情包_骄傲]\n\n“长年戴春晖，如锦惹人醉”。\n海风拂巷，花影盈鬓；一声南音，春满人间。\n闽南古厝檐下，旧曲与潮声相伴，花围在阳光里轻轻摇曳——\n人们以鲜花簪发，以歌声度日，让寻常岁月也生出几分芬芳。[洛天依国乐季动态表情包_美味]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「南音」主题单曲《簪花烟火谣》3月22日即将起曲\n属于天依和南音的游学特别短片也即将与大家见面~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_骄傲]",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/90f6913236ea8c76ed65669cd4a5e7e25de676f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“长年戴春晖，如锦惹人醉”。\n海风拂巷，花影盈鬓；一声南音，春满人间。\n闽南古厝檐下，旧曲与潮声相伴，花围在阳光里轻轻摇曳——\n人们以鲜花簪发，以歌声度日，让寻常岁月也生出几分芬芳。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_美味]",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/495ebb71f34d6d2cfa019b58a73c804990b77d9c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b282a8a2a4eb8f1a129718ca097409ea36081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 2624.030029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-03-20_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/62a4f1a99c63af39218e8640214bcdec36081646.jpg",
+        "width": 2500,
+        "height": 10752,
+        "size_kb": 3716.18994140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/骄傲.gif",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "text": "[乐鸣东方动态表情包_骄傲]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/美味.gif",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "text": "[洛天依国乐季动态表情包_美味]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6783,
+    "comment": 371,
+    "forward": 126
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

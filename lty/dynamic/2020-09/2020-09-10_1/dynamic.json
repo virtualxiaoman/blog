@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "433373375678256035",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/433373375678256035",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年9月10日",
+    "pub_ts": 1599741002,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@call_meFIVE @时光-ing @源-der 等8位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@call_meFIVE",
+        "mid": 24372005,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@时光-ing",
+        "mid": 325497666,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@源-der",
+        "mid": 68009621,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等8位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5096,
+    "comment": 208,
+    "forward": 31
+  },
+  "forward": {
+    "orig_id": 421128256414395404,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2020-08/2020-08-08_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

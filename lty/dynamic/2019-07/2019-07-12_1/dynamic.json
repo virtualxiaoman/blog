@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "274974118509526635",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/274974118509526635",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月12日",
+    "pub_ts": 1562860801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@黑灬吾王 @疏疏QAQ @莽红尘丶 等5位同学中奖，已发送系统通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@黑灬吾王",
+        "mid": 21920920,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@疏疏QAQ",
+        "mid": 2853122,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@莽红尘丶",
+        "mid": 208916948,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等5位同学中奖，已发送系统通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4889,
+    "comment": 325,
+    "forward": 54
+  },
+  "forward": {
+    "orig_id": 265994063450140459,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2019-06/2019-06-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "779423688396111889",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/779423688396111889",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月1日",
+    "pub_ts": 1680312119,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖有一天，一只小天依走在路上，忽然！\n她摘掉了她的”8“，它变成了——[洛天依_啊!]\n【洛天依 全新“8”系列超级新品周边 限量预售】 \n各位新朋友老朋友，走过路过，不要错过~\n转发本条动态并关注天依，4月15日将随机抽取3位小伙伴送出天依的周边一份。\n\n◆预售新品\n-阿8超级变声器\n-阿8超级放大镜\n-阿8超级泡泡水\n-阿8超级小饼干\n\n◆预售时间：2088年4月1日\n◆售价：888 瓦纳海姆币\n※如果大家的呼声够高，评论突破888，提前预售什么的，也不是不可能啦~o((>ω< ))o\n\nVsinger宇宙公司系列新品开发中，大家还有什么新的产品开发方向，欢迎在评论区留言哦！[洛天依_+1]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "143591",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "有一天，一只小天依走在路上，忽然！\n她摘掉了她的”8“，它变成了——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_啊!]",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "name": "啊!",
+        "url": "http://i0.hdslb.com/bfs/emote/6e8edf83ec1d7eed4000e91b267e80a1f08ce289.png"
+      },
+      {
+        "type": "text",
+        "text": "\n【洛天依 全新“8”系列超级新品周边 限量预售】 \n各位新朋友老朋友，走过路过，不要错过~\n转发本条动态并关注天依，4月15日将随机抽取3位小伙伴送出天依的周边一份。\n\n◆预售新品\n-阿8超级变声器\n-阿8超级放大镜\n-阿8超级泡泡水\n-阿8超级小饼干\n\n◆预售时间：2088年4月1日\n◆售价：888 瓦纳海姆币\n※如果大家的呼声够高，评论突破888，提前预售什么的，也不是不可能啦~o((>ω< ))o\n\nVsinger宇宙公司系列新品开发中，大家还有什么新的产品开发方向，欢迎在评论区留言哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_+1]",
+        "package_id": "340",
+        "emoji_id": "5567",
+        "name": "+1",
+        "url": "http://i0.hdslb.com/bfs/emote/f9e39b7a474f01b70c9f0a71fc5554cf29bfda25.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-04-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/fbb8f792f203e480f0535b6c115720ec36081646.jpg",
+        "width": 900,
+        "height": 7977,
+        "size_kb": 1216.25,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/啊!.png",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "text": "[洛天依_啊!]"
+      },
+      {
+        "file": "../../_assets/emojis/340/+1.png",
+        "package_id": "340",
+        "emoji_id": "5567",
+        "text": "[洛天依_+1]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "143591"
+  },
+  "vote": null,
+  "stats": {
+    "like": 14207,
+    "comment": 1741,
+    "forward": 9162
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

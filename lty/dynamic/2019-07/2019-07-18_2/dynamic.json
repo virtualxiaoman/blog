@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "277498644453215965",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/277498644453215965",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月18日",
+    "pub_ts": 1563448588,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【护舒宝天依BML演唱会最强应援专题页】 网页链接 宝宝太用心了！天依看了真的觉得很感动！谢谢@护舒宝_Whisper也谢谢粉丝们！大家快到专题页发应援弹幕为天依解锁最后一重大礼上百米大屏！还有发应援B动态为天依打call哦~ 天依收到你们元气满满的应援明天演唱会加油的！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【护舒宝天依BML演唱会最强应援专题页】 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/activity-whisper2019.html"
+      },
+      {
+        "type": "text",
+        "text": " 宝宝太用心了！天依看了真的觉得很感动！谢谢"
+      },
+      {
+        "type": "mention",
+        "text": "@护舒宝_Whisper",
+        "mid": 350276531,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "也谢谢粉丝们！大家快到专题页发应援弹幕为天依解锁最后一重大礼上百米大屏！还有发应援B动态为天依打call哦~ 天依收到你们元气满满的应援明天演唱会加油的！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4903,
+    "comment": 155,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 277210267460405890,
+    "orig_mid": 350276531,
+    "deleted": false,
+    "archive_dir": "../../../350276531/2019-07/2019-07-18_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

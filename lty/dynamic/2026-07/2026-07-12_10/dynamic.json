@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224141717468348487",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224141717468348487",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783856104,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "嘘——“想不想听个笑话？”《非玩家角色》洛天依14周年生日会",
+      "desc": "她妥协，不会拒绝，哄他们开心，将自己的一切献祭\n只因为她是「非玩家角色」\n\n作曲：格子\n编曲：格子\n作词：格子\n改编词：付茂华\n调教：格子\n原PV：BV1hX4y1577h",
+      "jump_url": "https://www.bilibili.com/video/BV11FNg6DEa9",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a2e50c7086be1786e5f2cd664f2b69256fd60818.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_6.jpg",
+      "bvid": "BV11FNg6DEa9",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11FNg6DEa9",
+        "aid": "116906073785033",
+        "cover": "http://i1.hdslb.com/bfs/archive/a2e50c7086be1786e5f2cd664f2b69256fd60818.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11FNg6DEa9",
+        "stat": {
+          "danmaku": "207",
+          "play": "27万",
+          "vt": ""
+        },
+        "duration_text": "02:42",
+        "title": "嘘——“想不想听个笑话？”《非玩家角色》洛天依14周年生日会",
+        "desc": "她妥协，不会拒绝，哄他们开心，将自己的一切献祭\n只因为她是「非玩家角色」\n\n作曲：格子\n编曲：格子\n作词：格子\n改编词：付茂华\n调教：格子\n原PV：BV1hX4y1577h",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25174,
+    "comment": 462,
+    "forward": 44
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

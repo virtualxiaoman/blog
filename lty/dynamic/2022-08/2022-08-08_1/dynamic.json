@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "691984287500599300",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/691984287500599300",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月8日",
+    "pub_ts": 1659953547,
+    "location": ""
+  },
+  "topic": {
+    "id": 52539,
+    "name": "天依忽然发现",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=52539&topic_name=%E5%A4%A9%E4%BE%9D%E5%BF%BD%E7%84%B6%E5%8F%91%E7%8E%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# @言和 @乐正绫 某两位前阵子还仙气飘飘的仙人，今天的状态大约是这个样子的⬇ 【本洛倾情cos版】 给这两位重新想了两个封号，是不是超合适的！[洛天依_嘲笑]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@言和 ",
+        "mid": 406948276,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@乐正绫 ",
+        "mid": 406948651,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "某两位前阵子还仙气飘飘的仙人，今天的状态大约是这个样子的⬇ 【本洛倾情cos版】 给这两位重新想了两个封号，是不是超合适的！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_嘲笑]",
+        "package_id": "101",
+        "emoji_id": "2205",
+        "name": "嘲笑",
+        "url": "http://i0.hdslb.com/bfs/emote/0e5fef3f683b7989b036f587a143443a21fc27e2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-08_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/3b629ae2c26c71b60a8d080e70c19a0f36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 331.75,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-08-08_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/7cc3dda4265dd0ca044c397ffcb5ff3436081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 338.4800109863281,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/嘲笑.png",
+        "package_id": "101",
+        "emoji_id": "2205",
+        "text": "[洛天依_嘲笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9506,
+    "comment": 419,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

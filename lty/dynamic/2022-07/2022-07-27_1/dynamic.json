@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "687578458287505492",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/687578458287505492",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月27日",
+    "pub_ts": 1658927735,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "[洛天依_周年快乐][洛天依_周年快乐][洛天依_周年快乐]",
+    "blocks": [
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/周年快乐.png",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "text": "[洛天依_周年快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8602,
+    "comment": 172,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 681794279956283537,
+    "orig_mid": 390934477,
+    "deleted": false,
+    "archive_dir": "../../../390934477/2022-07/2022-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

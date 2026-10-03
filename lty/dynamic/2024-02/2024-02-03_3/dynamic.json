@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "893884214477324295",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/893884214477324295",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月3日",
+    "pub_ts": 1706962037,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# | 齐乐龙龙，狡黠山妖\n【新品上线】洛天依 龙年新春玩偶&山妖系列预售开启\n卷❀关注天依，揪3位送出【龙年新春玩偶】1个，1位送出【山妖系列 徽章拍立得色纸全套set】1份。\n\n龙行踏绛气，天依与向随。\n山中有小妖，逍遥天地间。\n2024甲辰龙年，天依化身“齐乐龙龙”祝大家龙马精神，逾跃龙门！[Vsinger_给大佬递茶]\n茂密深林处，又有林间小妖，闲来半山腰里大闹，同你一起奔跑~[洛·LUO_嗷呜]\n\n【预售时间】2024年2月3日20:00起-2024年4月\n\n【传送门】\n※龙年新春玩偶 网页链接\n※山妖系列周边 网页链接\n※直播间 网页链接\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " | 齐乐龙龙，狡黠山妖\n【新品上线】洛天依 龙年新春玩偶&山妖系列预售开启\n卷❀关注天依，揪3位送出【龙年新春玩偶】1个，1位送出【山妖系列 徽章拍立得色纸全套set】1份。\n\n龙行踏绛气，天依与向随。\n山中有小妖，逍遥天地间。\n2024甲辰龙年，天依化身“齐乐龙龙”祝大家龙马精神，逾跃龙门！"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n茂密深林处，又有林间小妖，闲来半山腰里大闹，同你一起奔跑~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_嗷呜]",
+        "package_id": "4400",
+        "emoji_id": "62227",
+        "name": "嗷呜",
+        "url": "https://i0.hdslb.com/bfs/emote/ed6b1762ba688c80012db1fb819dd3a1b5b01098.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【预售时间】2024年2月3日20:00起-2024年4月\n\n【传送门】\n※龙年新春玩偶 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/A8ELORN"
+      },
+      {
+        "type": "text",
+        "text": "\n※山妖系列周边 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/D1HVvew"
+      },
+      {
+        "type": "text",
+        "text": "\n※直播间 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/1JI8MSL"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-03_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/27c97242a1fa8edd43c6e68bf993818636081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 671.9000244140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-03_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/dfd1ce2e50d4766f0f6f66b73b999db536081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 657.5599975585938,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-03_3.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/bb7394d3d86374c3b816d4f299e848d936081646.png",
+        "width": 750,
+        "height": 2920,
+        "size_kb": 1186.0899658203125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/嗷呜.png",
+        "package_id": "4400",
+        "emoji_id": "62227",
+        "text": "[洛·LUO_嗷呜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6044,
+    "comment": 1841,
+    "forward": 2815
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

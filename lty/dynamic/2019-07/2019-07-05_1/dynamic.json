@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "272735319562413994",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/272735319562413994",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月5日",
+    "pub_ts": 1562339540,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2019年9月22-23日，洛天依将首次赴日演出，参加千葉県的音乐祭「DIVE XR FESTIVAL supported by SoftBank」 演出中还会有全新的日文单曲首次公开！ 【演出地点】    幕張メッセ展示ホール1-3 【演出时间】 9月22日开场12:00 开演13:00 9月22日开场17:00 开演18:00 9月23日开场11:00 开演12:00 【售票网址】   门票7月6日18点开始售卖：https://bit.ly/2Xm01Vn\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2019年9月22-23日，洛天依将首次赴日演出，参加千葉県的音乐祭「DIVE XR FESTIVAL supported by SoftBank」 演出中还会有全新的日文单曲首次公开！ 【演出地点】    幕張メッセ展示ホール1-3 【演出时间】 9月22日开场12:00 开演13:00 9月22日开场17:00 开演18:00 9月23日开场11:00 开演12:00 【售票网址】   门票7月6日18点开始售卖：https://bit.ly/2Xm01Vn"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-05_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/44b72841252d26063695cbb84f80422b047c4ae0.jpg",
+        "width": 690,
+        "height": 976,
+        "size_kb": 161.205078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-07-05_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4201110654413b48fcc99a7c8239c2a076fdfb84.jpg",
+        "width": 690,
+        "height": 486,
+        "size_kb": 81.326171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6029,
+    "comment": 475,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1220823077884002310",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1220823077884002310",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月3日",
+    "pub_ts": 1783083423,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@赤瞳乐笛中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@赤瞳乐笛",
+        "mid": 441553706,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3738,
+    "comment": 72,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 1220345894133563393,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-07-02_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:26:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

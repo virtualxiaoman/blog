@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "733914094636105752",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/733914094636105752",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月29日",
+    "pub_ts": 1669716091,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依# #洛天依全新企划预告#\n求助！投影突然乱入了奇怪的画面信号，不听使唤了╥﹏╥大家可以帮忙看看吗？[洛天依_啊!]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依全新企划预告#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%85%A8%E6%96%B0%E4%BC%81%E5%88%92%E9%A2%84%E5%91%8A"
+      },
+      {
+        "type": "text",
+        "text": "\n求助！投影突然乱入了奇怪的画面信号，不听使唤了╥﹏╥大家可以帮忙看看吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_啊!]",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "name": "啊!",
+        "url": "http://i0.hdslb.com/bfs/emote/6e8edf83ec1d7eed4000e91b267e80a1f08ce289.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/啊!.png",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "text": "[洛天依_啊!]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "求助！投影突然乱入了奇怪的画面信号，不听使唤了╥﹏╥大家可以帮忙看看吗？",
+      "desc": "快帮帮天依吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1YP411T7GT",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/922653be86f9529cb63cf788aec171f6ee6f8232.png",
+      "cover_file": "../../_assets/covers/2022-11-29_1.png",
+      "bvid": "BV1YP411T7GT",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YP411T7GT",
+        "aid": "305661772",
+        "cover": "http://i2.hdslb.com/bfs/archive/922653be86f9529cb63cf788aec171f6ee6f8232.png",
+        "jump_url": "//www.bilibili.com/video/BV1YP411T7GT",
+        "stat": {
+          "danmaku": "70",
+          "play": "7.1万",
+          "vt": ""
+        },
+        "duration_text": "00:21",
+        "title": "求助！投影突然乱入了奇怪的画面信号，不听使唤了╥﹏╥大家可以帮忙看看吗？",
+        "desc": "快帮帮天依吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15957,
+    "comment": 1500,
+    "forward": 143
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

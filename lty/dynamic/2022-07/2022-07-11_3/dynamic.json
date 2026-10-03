@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "681513307491794976",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/681513307491794976",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月11日",
+    "pub_ts": 1657515582,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "一次很奇幻的联动！洛天依已经十周年啦，感觉我的青春里也有好多关于她的回忆～其实奢侈的希望，我也能陪你们度过未来更多的时光~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一次很奇幻的联动！洛天依已经十周年啦，感觉我的青春里也有好多关于她的回忆～其实奢侈的希望，我也能陪你们度过未来更多的时光~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "主人，原谅我的失控",
+      "desc": "一次很奇幻的联动！洛天依已经十周年啦，感觉我的青春里也有好多关于她的回忆～其实奢侈的希望，我也能陪你们度过未来更多的时光~\n\n作曲/作词：翠花不太脆\n编曲：CDY\n吉他实录：某帆\n演唱：翠花不太脆 / 洛天依\n调教：鬼面P\n混音：沈逸丹\n曲绘/视频：飞米映画",
+      "jump_url": "https://www.bilibili.com/video/BV1wa411Q7N6",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ca8ebba0c1523a188cbc8a13c2ecaa89b09817d0.jpg",
+      "cover_file": "../../_assets/covers/2022-07-11_1.jpg",
+      "bvid": "BV1wa411Q7N6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1wa411Q7N6",
+        "aid": "258296202",
+        "cover": "http://i0.hdslb.com/bfs/archive/ca8ebba0c1523a188cbc8a13c2ecaa89b09817d0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1wa411Q7N6",
+        "stat": {
+          "danmaku": "2624",
+          "play": "202万",
+          "vt": ""
+        },
+        "duration_text": "02:18",
+        "title": "主人，原谅我的失控",
+        "desc": "一次很奇幻的联动！洛天依已经十周年啦，感觉我的青春里也有好多关于她的回忆～其实奢侈的希望，我也能陪你们度过未来更多的时光~\n\n作曲/作词：翠花不太脆\n编曲：CDY\n吉他实录：某帆\n演唱：翠花不太脆 / 洛天依\n调教：鬼面P\n混音：沈逸丹\n曲绘/视频：飞米映画",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 215117,
+    "comment": 4273,
+    "forward": 47
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:50:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

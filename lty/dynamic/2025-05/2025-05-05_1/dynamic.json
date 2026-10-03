@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "1063475555132768278",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/1063475555132768278",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月5日",
+    "pub_ts": 1746448098,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "呜哇假期假期不要走～[洛天依·天星问动态_求善待]转眼五一假期就结束啦！大家在这个假期有留下什么特别的回忆吗？或者，只是好好休息了一下，也很好呀！[洛天依·天星问动态_惬意]\n让天依猜猜，大家有没有带天依出去玩呀～～有吧有吧一定有吧！[洛天依-潮声回响_拜托拜托]这样的话，天依也算是和大家一起，去好多地方旅游啦！[洛天依-潮声回响_带上我]\n今天是立夏！转眼又是一年夏天，好期待今年的夏天，我们又会一起谱写出怎样的特别夏日乐章呢？[洛天依-潮声回响_摸摸头]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "呜哇假期假期不要走～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_求善待]",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "name": "求善待",
+        "url": "https://i0.hdslb.com/bfs/garb/141ee55afb72f66c97dab25514190936c5c96c36.gif"
+      },
+      {
+        "type": "text",
+        "text": "转眼五一假期就结束啦！大家在这个假期有留下什么特别的回忆吗？或者，只是好好休息了一下，也很好呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_惬意]",
+        "package_id": "7618",
+        "emoji_id": "103424",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/75743a182d02a34db96cb18d909285bf22e1236e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n让天依猜猜，大家有没有带天依出去玩呀～～有吧有吧一定有吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_拜托拜托]",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "name": "拜托拜托",
+        "url": "https://i0.hdslb.com/bfs/garb/bff8c8fd6fbf7b88467b01da2ede27164195f188.png"
+      },
+      {
+        "type": "text",
+        "text": "这样的话，天依也算是和大家一起，去好多地方旅游啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_带上我]",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "name": "带上我",
+        "url": "https://i0.hdslb.com/bfs/garb/b8604e41a3f022731036690e02347c08c6279ffc.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今天是立夏！转眼又是一年夏天，好期待今年的夏天，我们又会一起谱写出怎样的特别夏日乐章呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/求善待.gif",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "text": "[洛天依·天星问动态_求善待]"
+      },
+      {
+        "file": "../../_assets/emojis/7618/惬意.gif",
+        "package_id": "7618",
+        "emoji_id": "103424",
+        "text": "[洛天依·天星问动态_惬意]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/拜托拜托.png",
+        "package_id": "7109",
+        "emoji_id": "94947",
+        "text": "[洛天依-潮声回响_拜托拜托]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/带上我.png",
+        "package_id": "7109",
+        "emoji_id": "94953",
+        "text": "[洛天依-潮声回响_带上我]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7561,
+    "comment": 722,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

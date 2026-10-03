@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "279241628077752447",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/279241628077752447",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月23日",
+    "pub_ts": 1563854408,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #蜀门手游# 天依的修仙之旅即将开始啦，蜀门的世界里有什么好玩的好吃的在等着天依呀？想想还有些小激动呢！来《蜀门手游》和天依一起来玩吧！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#蜀门手游#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%9C%80%E9%97%A8%E6%89%8B%E6%B8%B8"
+      },
+      {
+        "type": "text",
+        "text": " 天依的修仙之旅即将开始啦，蜀门的世界里有什么好玩的好吃的在等着天依呀？想想还有些小激动呢！来《蜀门手游》和天依一起来玩吧！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-07-23_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5f559f2055197b54c5b4a15c1a8a3e04787da4e6.jpg",
+        "width": 640,
+        "height": 1250,
+        "size_kb": 489.328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7114,
+    "comment": 386,
+    "forward": 34
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:21:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

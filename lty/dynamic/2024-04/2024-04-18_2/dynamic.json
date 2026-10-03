@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "921686083212673047",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/921686083212673047",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月18日",
+    "pub_ts": 1713435164,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n伴随时空裂缝的修复，穿梭于各个平行时空的CODE LUO意识逐渐回到了G星实验室......[代号洛天依_眠了]\n\n【档案公开】\nCODE LUO人设\nL星废弃实验室\nG星完好实验室\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n伴随时空裂缝的修复，穿梭于各个平行时空的CODE LUO意识逐渐回到了G星实验室......"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_眠了]",
+        "package_id": "1842",
+        "emoji_id": "32140",
+        "name": "眠了",
+        "url": "https://i0.hdslb.com/bfs/emote/cd256f91e6b7e1cfea0e78dad79f6399bb7e6de2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n【档案公开】\nCODE LUO人设\nL星废弃实验室\nG星完好实验室"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7bb5b5cc6dd86388c0990ecff96ab0b936081646.jpg",
+        "width": 6440,
+        "height": 4515,
+        "size_kb": 5375.3515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-18_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/37f858f0350caac851a049cb3b42414d36081646.jpg",
+        "width": 6000,
+        "height": 2858,
+        "size_kb": 9577.1669921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-18_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0e8b13b9ae63c86354e1b56fcb8cf1b936081646.jpg",
+        "width": 6000,
+        "height": 2858,
+        "size_kb": 8076.26171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/眠了.png",
+        "package_id": "1842",
+        "emoji_id": "32140",
+        "text": "[代号洛天依_眠了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6395,
+    "comment": 197,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

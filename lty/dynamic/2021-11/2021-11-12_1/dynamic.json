@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "592163504930449484",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/592163504930449484",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月12日",
+    "pub_ts": 1636712210,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 听说大家很喜欢我的冬奥Q版造型？ 铛铛~表情包四连送上！[洛天依·夜航星_摸摸] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 听说大家很喜欢我的冬奥Q版造型？ 铛铛~表情包四连送上！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-11-12_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3d9ca1dda4a2a1258c314d346208ad0c2957ba6d.png",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 2129.6201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-11-12_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2283005002b8465190b0a89cc88ef39737d8f2d0.png",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 1875.5,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2021-11-12_3.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/84fce465c52d6a315f332e7af3097988b670efc0.png",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 1771.75,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2021-11-12_4.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b31b7adfc20b6174322516979f3b7a414315a74e.png",
+        "width": 1920,
+        "height": 1920,
+        "size_kb": 1954.27001953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7921,
+    "comment": 421,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

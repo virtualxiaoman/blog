@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "743933046480175319",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/743933046480175319",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月26日",
+    "pub_ts": 1672048810,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "竟然可以边看晚会！边这么玩！【2022最美的夜】",
+      "desc": "#来B站跨年# 洛天依专属【指尖换音】互动玩法来袭~ 锁定2022最美的夜，在手机端体验边看边玩的跨年晚会！12月31日20:00 不见不散！",
+      "jump_url": "https://www.bilibili.com/video/BV1RG4y1J7ew",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/9d047d5cf509fe38fb299d15c811e133d1c8cae5.jpg",
+      "cover_file": "../../_assets/covers/2022-12-26_3.jpg",
+      "bvid": "BV1RG4y1J7ew",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1RG4y1J7ew",
+        "aid": "819142099",
+        "cover": "http://i0.hdslb.com/bfs/archive/9d047d5cf509fe38fb299d15c811e133d1c8cae5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1RG4y1J7ew",
+        "stat": {
+          "danmaku": "4693",
+          "play": "109.8万",
+          "vt": ""
+        },
+        "duration_text": "00:37",
+        "title": "竟然可以边看晚会！边这么玩！【2022最美的夜】",
+        "desc": "#来B站跨年# 洛天依专属【指尖换音】互动玩法来袭~ 锁定2022最美的夜，在手机端体验边看边玩的跨年晚会！12月31日20:00 不见不散！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2022最美的夜 bilibili晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss44003",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/c0986c8ae9e549a771963c619280b1cf305de7ec.png",
+      "cover_file": "../../_assets/covers/2022-12-26_4.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss44003",
+        "id_str": "819142099",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/c0986c8ae9e549a771963c619280b1cf305de7ec.png",
+        "style": 2,
+        "title": "2022最美的夜 bilibili晚会",
+        "desc1": "bilibili出品 已完结, 全3集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 79066,
+    "comment": 998,
+    "forward": 129
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

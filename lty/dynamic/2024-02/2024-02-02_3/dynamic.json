@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "id": "893434986662723590",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/893434986662723590",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月2日",
+    "pub_ts": 1706857443,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依X索尼音乐《洛 LUO》实体USB专辑预售开启啦！\n转发关注天依，揪1位小伙伴赠出【洛天依 梨花雪手办】1份~\n\n感谢@索尼音乐中国 的量身打造，让天依有机会和世界各地的优秀音乐人合作。\n国际知名创作者Richelle Alleyne、X Li、Takaaki Utsumi...\n还有让天依之所以可以歌唱的调校老师们！\n最最重要的是，一直在天依身边的所有来自大家的《记不完的名字》[洛天依蝶变_害羞]\n从Color Bass电音、Asia Pop到经典国风R&B，属于洛天依的「∞」可能，就与我在这次的EP里再次探寻吧~[洛·LUO_打call]\n\n🎶购买戳：网页链接\n实体USB专辑分为精装版和简装版，大家可以选择自己更心仪的版本哦！\n详情请戳长图查看~\n\n🎶 试听PV：洛天依X索尼音乐全新EP《洛 LUO》试听PV“百变风格 诠释洛之名”\n\n🎶《洛 LUO》数字EP现已上架网易云音乐、QQ音乐、酷狗音乐、酷我音乐，购买解锁&特殊铭牌有礼活动火热进行中\n*网易云音乐:抢5210号获实体EP镭射票，7120号获实体EP简装版\n*QQ音乐:抢712号获实体EP简装版\n*酷狗音乐:抢712号获实体EP简装版\n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "279379",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依X索尼音乐《洛 LUO》实体USB专辑预售开启啦！\n转发关注天依，揪1位小伙伴赠出【洛天依 梨花雪手办】1份~\n\n感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@索尼音乐中国 ",
+        "mid": 486906719,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "的量身打造，让天依有机会和世界各地的优秀音乐人合作。\n国际知名创作者Richelle Alleyne、X Li、Takaaki Utsumi...\n还有让天依之所以可以歌唱的调校老师们！\n最最重要的是，一直在天依身边的所有来自大家的《记不完的名字》"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n从Color Bass电音、Asia Pop到经典国风R&B，属于洛天依的「∞」可能，就与我在这次的EP里再次探寻吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛·LUO_打call]",
+        "package_id": "4400",
+        "emoji_id": "62231",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/emote/8894fb4cb6b5f297d81320ca4f044feca040dcc1.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶购买戳："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?loadingShow=1&loadingPageId=7236&noTitleBar=1&itemsId=10257550#noReffer=true&goFrom=na&hasBack=false"
+      },
+      {
+        "type": "text",
+        "text": "\n实体USB专辑分为精装版和简装版，大家可以选择自己更心仪的版本哦！\n详情请戳长图查看~\n\n🎶 试听PV："
+      },
+      {
+        "type": "video",
+        "text": "洛天依X索尼音乐全新EP《洛 LUO》试听PV“百变风格 诠释洛之名”",
+        "url": "https://www.bilibili.com/video/BV19p421Z78e/",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶《洛 LUO》数字EP现已上架网易云音乐、QQ音乐、酷狗音乐、酷我音乐，购买解锁&特殊铭牌有礼活动火热进行中\n*网易云音乐:抢5210号获实体EP镭射票，7120号获实体EP简装版\n*QQ音乐:抢712号获实体EP简装版\n*酷狗音乐:抢712号获实体EP简装版\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-02_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0af400483521e701cf8ffcb1ff8a173b36081646.jpg",
+        "width": 900,
+        "height": 12190,
+        "size_kb": 7202.56005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/4400/打call.png",
+        "package_id": "4400",
+        "emoji_id": "62231",
+        "text": "[洛·LUO_打call]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依《洛LUO》全新EP 实体专辑",
+            "price": "¥98",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/53/a2/53a20becaf310ccda37daaa492cd6bf6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10257550&msource=cps_Mdynamic_36081646_cont-2-893434986662723590&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-02_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "279379"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7492,
+    "comment": 925,
+    "forward": 6768
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

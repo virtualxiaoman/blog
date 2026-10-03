@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "id": "1080525999758639105",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1080525999758639105",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月20日",
+    "pub_ts": 1750417964,
+    "location": ""
+  },
+  "topic": {
+    "id": 1297171,
+    "name": "BW2025",
+    "jump_url": "https://mall.bilibili.com/neul-next/circle/index.html?page=circle_home&noTitleBar=1&loadingShow=1&circleName=circle_comic&from=dttopic_comic_bw&needBackRemind=1&topTopicId=1297171&topicId=1297171"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶洛天依#BW2025#参展详细情报公开🎶\n转发关注天依并预约直播，揪1位小伙伴送出【洛天依周边礼包】1份！\n\n✨参展信息\n■展会时间：7月11日-7月13日\n■展馆地址：上海国家会展中心\n■展台位置：2.1H 展位2A02\n\n✨展台预览&互动体验\n按铃互动、闯关游戏、拍照留影、专属VR体验、抽奖福利等惊喜活动！\n\n✨特别舞台\n除了天依的演出舞台，还有趣味互动游戏、嘉宾演出等\n每日中午，天依还将在up主舞台和大家见面~\n\n✨周边情报\n八音奇响场贩礼盒，洛天依十三周年生日周边、线下首发周边等\n\n6月21日 12:00/18:00，BilibiliWorld2025会员购门票预售开启，大家记得定好闹钟哦！\n来到这座精心搭建的舞会城堡，和天依一起在八音奇响的时光幻境中共奏回忆乐章吧！[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶洛天依"
+      },
+      {
+        "type": "topic",
+        "text": "#BW2025#",
+        "url": "https://search.bilibili.com/all?keyword=BW2025"
+      },
+      {
+        "type": "text",
+        "text": "参展详细情报公开🎶\n转发关注天依并预约直播，揪1位小伙伴送出【洛天依周边礼包】1份！\n\n✨参展信息\n■展会时间：7月11日-7月13日\n■展馆地址：上海国家会展中心\n■展台位置：2.1H 展位2A02\n\n✨展台预览&互动体验\n按铃互动、闯关游戏、拍照留影、专属VR体验、抽奖福利等惊喜活动！\n\n✨特别舞台\n除了天依的演出舞台，还有趣味互动游戏、嘉宾演出等\n每日中午，天依还将在up主舞台和大家见面~\n\n✨周边情报\n八音奇响场贩礼盒，洛天依十三周年生日周边、线下首发周边等\n\n6月21日 12:00/18:00，BilibiliWorld2025会员购门票预售开启，大家记得定好闹钟哦！\n来到这座精心搭建的舞会城堡，和天依一起在八音奇响的时光幻境中共奏回忆乐章吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-20_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8f9ba678de952d729f37c918edf3aab436081646.png",
+        "width": 957,
+        "height": 960,
+        "size_kb": 1445.6357421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-20_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/51d1bf74c5fb6a84f1274a3db587338436081646.png",
+        "width": 963,
+        "height": 960,
+        "size_kb": 1559.15234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-06-20_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/81488676ab15865ed5c9c22c6017759536081646.png",
+        "width": 960,
+        "height": 960,
+        "size_kb": 1427.1318359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-06-20_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/591740bdfc34bda5d4294e609b2ef30a36081646.png",
+        "width": 957,
+        "height": 960,
+        "size_kb": 1245.45703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-06-20_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e779b8657bddcbcba88fc73b848d61df36081646.png",
+        "width": 963,
+        "height": 960,
+        "size_kb": 971.9814453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-06-20_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dc1da9e78dba0ecca55239dfe8d7a5e136081646.png",
+        "width": 960,
+        "height": 960,
+        "size_kb": 1367.5419921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-06-20_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/521970a9f7bb7f8446cbfb4a30af9e0c36081646.png",
+        "width": 960,
+        "height": 4400,
+        "size_kb": 3426.982421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-06-20_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8503b34966ae08b8b573be0792db8ee636081646.png",
+        "width": 960,
+        "height": 6773,
+        "size_kb": 4525.23828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-06-20_9.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4edbe6527e55fd08b91ec3978c6deeb636081646.png",
+        "width": 960,
+        "height": 8618,
+        "size_kb": 6356.84375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5023,
+    "comment": 473,
+    "forward": 2199
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

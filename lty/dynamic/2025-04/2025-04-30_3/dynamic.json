@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "id": "1061597331561906199",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1061597331561906199",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月30日",
+    "pub_ts": 1746010790,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖 洛天依 X Pumki 新品周边——手拉手磁吸毛绒挂件q萌出击~\n转发关注天依，揪5位小伙伴送出【同款毛绒挂件】1个！[洛天依·天星问动态_萌]\n\n✨【十指相扣の心动魔法】\n双手内置强效磁芯，让天依拥抱你的点滴生活吧~\n\n⏰售价 69r\n 4月30日 预售开启！\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "355509",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 洛天依 X Pumki 新品周边——手拉手磁吸毛绒挂件q萌出击~\n转发关注天依，揪5位小伙伴送出【同款毛绒挂件】1个！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨【十指相扣の心动魔法】\n双手内置强效磁芯，让天依拥抱你的点滴生活吧~\n\n⏰售价 69r\n 4月30日 预售开启！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-04-30_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b18423875d0ee6d95c5153c2f5c5f19336081646.png",
+        "width": 1042,
+        "height": 4862,
+        "size_kb": 2609.234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "PUMKI 洛天依 手拉手磁吸毛绒挂件",
+            "price": "¥69",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/63/3d/633d968bdee56efa1c899b1c28e6b0a8.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=12299861&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1061597331561906199",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-04-30_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "355509"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5329,
+    "comment": 582,
+    "forward": 6912
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

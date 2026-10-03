@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817807179565236242",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817807179565236242",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689248972,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "追上光一刹那 我的心也融化~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "追上光一刹那 我的心也融化~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "经典重现！再唱《追光使者》【洛天依11周年生日会】",
+      "desc": "追上光一刹那 我的心也融化~\n\n作曲/编曲：林迈可\n作词：易家扬\n调校：动点P\n原视频：BV14s411Y7Y3",
+      "jump_url": "https://www.bilibili.com/video/BV1zh4y1f78U",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/99be83be4a432e43ecfba4a4697250aff85c599d.jpg",
+      "cover_file": "../../_assets/covers/2023-07-13_5.jpg",
+      "bvid": "BV1zh4y1f78U",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zh4y1f78U",
+        "aid": "658478234",
+        "cover": "http://i1.hdslb.com/bfs/archive/99be83be4a432e43ecfba4a4697250aff85c599d.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zh4y1f78U",
+        "stat": {
+          "danmaku": "456",
+          "play": "31万",
+          "vt": ""
+        },
+        "duration_text": "03:11",
+        "title": "经典重现！再唱《追光使者》【洛天依11周年生日会】",
+        "desc": "追上光一刹那 我的心也融化~\n\n作曲/编曲：林迈可\n作词：易家扬\n调校：动点P\n原视频：BV14s411Y7Y3",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 32755,
+    "comment": 846,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

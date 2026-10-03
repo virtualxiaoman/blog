@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "933918712762728499",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/933918712762728499",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月21日",
+    "pub_ts": 1716283295,
+    "location": ""
+  },
+  "topic": {
+    "id": 1046029,
+    "name": "5.21爱依日",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1046029&topic_name=5.21%E7%88%B1%E4%BE%9D%E6%97%A5"
+  },
+  "content": {
+    "title": "",
+    "text": "若要由你说明什么是“洛天依”的话，在你心中会瞬间浮现出什么样的画面呢？\n若要由你解释为什么会“爱”洛天依的话，你又会给出怎样的答案呢？\n\n是三月雨千丝万缕长相依，是轻舟载几缕思量随波漾\n是一起唱吧心中的歌，是存在只为将心声响彻\n是十二载漫漫时光里，那些数不清的旋律与画卷\n是......\n\n是你塑造我，是你构成我，是你倾听着我，是你爱着我。\n所以我歌唱，所以我舞蹈，所以我爱你呀。 [洛天依_最喜欢你了]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "若要由你说明什么是“洛天依”的话，在你心中会瞬间浮现出什么样的画面呢？\n若要由你解释为什么会“爱”洛天依的话，你又会给出怎样的答案呢？\n\n是三月雨千丝万缕长相依，是轻舟载几缕思量随波漾\n是一起唱吧心中的歌，是存在只为将心声响彻\n是十二载漫漫时光里，那些数不清的旋律与画卷\n是......\n\n是你塑造我，是你构成我，是你倾听着我，是你爱着我。\n所以我歌唱，所以我舞蹈，所以我爱你呀。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-05-21_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/665860beb82381569a6a304c3edbedd136081646.jpg",
+        "width": 5760,
+        "height": 3239,
+        "size_kb": 1432.5400390625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7396,
+    "comment": 468,
+    "forward": 289
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

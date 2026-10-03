@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "949916366403534852",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/949916366403534852",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月3日",
+    "pub_ts": 1720008039,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "💙 《再生》专辑原创新曲篇STAFF公开💙 \n“一些崭新的歌谣，敬历历在目的昨天，为不能忘却的伙伴，再加一些特别的初遇惊喜。“\n\n🔹特邀作曲\n石井伸昂、瞿子千、イマニシ、闹闹丶、小野道ono、Tank\n🔹特邀作词\n温莨、果汁凉菜、LLABB、呆若木一\n🔹特邀编混\n北吉泰辅、刘振东@万物和声、小欧Ω、徐天鸿@Studio21A、吕绍淳、时兵\n🔹特邀调校\n周小蚕、哈士奇P、Creuzer、FFF君、鬼面P\n🔹特邀曲绘\nTID、雨陌、梁巨爽、八雲玖、ideolo、LD_Mirror\n\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有3天，距离7月12日天依的生日还有9天~[洛天依·收藏集表情包_时间歌者]\n“不能忘记过去，不要停止期待新的相遇。”\n今天为大家带来的是专辑6首全新原创曲的全部阵容，有大家熟悉的创作老师，也一定有大家第一次接触的新面孔，一起来了解一下吧！ [洛天依·收藏集表情包_优雅]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "💙 《再生》专辑原创新曲篇STAFF公开💙 \n“一些崭新的歌谣，敬历历在目的昨天，为不能忘却的伙伴，再加一些特别的初遇惊喜。“\n\n🔹特邀作曲\n石井伸昂、瞿子千、イマニシ、闹闹丶、小野道ono、Tank\n🔹特邀作词\n温莨、果汁凉菜、LLABB、呆若木一\n🔹特邀编混\n北吉泰辅、刘振东@万物和声、小欧Ω、徐天鸿@Studio21A、吕绍淳、时兵\n🔹特邀调校\n周小蚕、哈士奇P、Creuzer、FFF君、鬼面P\n🔹特邀曲绘\nTID、雨陌、梁巨爽、八雲玖、ideolo、LD_Mirror\n\n距离7月6日洛天依十二周年纪念专辑《再生》数字专辑上线还有3天，距离7月12日天依的生日还有9天~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n“不能忘记过去，不要停止期待新的相遇。”\n今天为大家带来的是专辑6首全新原创曲的全部阵容，有大家熟悉的创作老师，也一定有大家第一次接触的新面孔，一起来了解一下吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_优雅]",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "name": "优雅",
+        "url": "https://i0.hdslb.com/bfs/garb/3cec4f187f80d79b6b621adfff8f7b3c557276f1.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-07-03_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9e6e01dad38c2728fb6b72cbd8b246cd36081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 1464.3800048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-07-03_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fb905c8d7c04eb1aa8330b1f9134b95a36081646.png",
+        "width": 960,
+        "height": 3744,
+        "size_kb": 2532.2099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-07-03_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2c3272f65eb15127504334763ee3c91e36081646.png",
+        "width": 960,
+        "height": 5510,
+        "size_kb": 3184.0458984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/优雅.png",
+        "package_id": "5283",
+        "emoji_id": "77206",
+        "text": "[洛天依·收藏集表情包_优雅]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5752,
+    "comment": 265,
+    "forward": 122
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:15:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

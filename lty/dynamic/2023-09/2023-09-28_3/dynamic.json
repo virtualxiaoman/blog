@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "846366422873407512",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/846366422873407512",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月28日",
+    "pub_ts": 1695898439,
+    "location": ""
+  },
+  "topic": {
+    "id": 1104333,
+    "name": "雪王天依 甜蜜出击",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1104333&topic_name=%E9%9B%AA%E7%8E%8B%E5%A4%A9%E4%BE%9D+%E7%94%9C%E8%9C%9C%E5%87%BA%E5%87%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "天依和雪王的合作MV大家看了嘛？嘿嘿，有没有被我们可爱治愈到呀？[代号洛天依_比心]\n分享一些很适合做表情包的图图，欢迎大家在话题#雪王天依 甜蜜出击#二创表情包，天依会揪3位小伙伴送出小礼物喔！[洛天依_礼物]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和雪王的合作MV大家看了嘛？嘿嘿，有没有被我们可爱治愈到呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n分享一些很适合做表情包的图图，欢迎大家在话题"
+      },
+      {
+        "type": "topic",
+        "text": "#雪王天依 甜蜜出击#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%A4%A9%E4%BE%9D%20%E7%94%9C%E8%9C%9C%E5%87%BA%E5%87%BB"
+      },
+      {
+        "type": "text",
+        "text": "二创表情包，天依会揪3位小伙伴送出小礼物喔！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-28_1.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1c226e545ac9181be11a29421ae7219636081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 709.3193359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-28_2.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f97816a7066cac7ac835ee1c95b064ae36081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 817.6279296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-09-28_3.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/816670e7a237184b4eb4ed83cffda45c36081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 826.5546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-09-28_4.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/81832f63a34ef518d373825c29a4674c36081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 851.9306640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-09-28_5.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ed7b9138b5f84490cbf475376145051336081646.gif",
+        "width": 220,
+        "height": 220,
+        "size_kb": 999.12890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-09-28_6.gif",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/50667e15911e880582a83cc895a423dc36081646.gif",
+        "width": 240,
+        "height": 240,
+        "size_kb": 905.09765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      },
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4837,
+    "comment": 252,
+    "forward": 62
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

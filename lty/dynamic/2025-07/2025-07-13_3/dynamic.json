@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "1088995112637169664",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1088995112637169664",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月13日",
+    "pub_ts": 1752389833,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依演唱会×猫噜噜萌物社「流光协奏」毛绒玩偶预售已经开售啦！\n转发关注天依，揪1位小伙伴赠送同款玩偶1个。\n\n流光小洛请求加入你的大家庭～\n\n⚙️预售平台：哔哩哔哩会员购、猫噜噜官方店铺、Vsinger旗舰店等\n⚙️预售价格：119r\n⚙️现货价格：129r\n⚙️出荷时间：2025年10月\n\nPS：服饰可穿脱~产品监修中，小伙伴们请以实物为准哦。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依演唱会×猫噜噜萌物社「流光协奏」毛绒玩偶预售已经开售啦！\n转发关注天依，揪1位小伙伴赠送同款玩偶1个。\n\n流光小洛请求加入你的大家庭～\n\n⚙️预售平台：哔哩哔哩会员购、猫噜噜官方店铺、Vsinger旗舰店等\n⚙️预售价格：119r\n⚙️现货价格：129r\n⚙️出荷时间：2025年10月\n\nPS：服饰可穿脱~产品监修中，小伙伴们请以实物为准哦。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-13_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c5c86698c9b61bd183e75f9166c3ab7536081646.jpg",
+        "width": 1000,
+        "height": 12095,
+        "size_kb": 3476.737,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 猫噜噜 洛天依 流光协奏 坐姿毛绒玩偶",
+            "price": "¥129",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/ab/a9/294fb4a596e7d4d98de4d982a2fe476b.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=12698261&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1088995112637169664",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-13_3.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5475,
+    "comment": 1231,
+    "forward": 2689
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

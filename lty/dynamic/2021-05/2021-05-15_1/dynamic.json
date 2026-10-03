@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "525026517487875110",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/525026517487875110",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年5月15日",
+    "pub_ts": 1621080662,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "千言万语都藏在微笑之中",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "千言万语都藏在微笑之中"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5247,
+    "comment": 128,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 524691312469765213,
+    "orig_mid": 22873623,
+    "deleted": false,
+    "archive_dir": "../../../22873623/2021-05/2021-05-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:30:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

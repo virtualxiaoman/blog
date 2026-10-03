@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "1025250363360411827",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1025250363360411827",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月22日",
+    "pub_ts": 1737548102,
+    "location": ""
+  },
+  "topic": {
+    "id": 171504,
+    "name": "上B站看春晚",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=171504&topic_name=%E4%B8%8AB%E7%AB%99%E7%9C%8B%E6%98%A5%E6%99%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "新中式舞台《寄明月》",
+      "desc": "“新中式养生版”《寄明月》，将八段锦、太极拳等经典中式养生操与舞蹈结合，倡导大家开启健康新生活！",
+      "jump_url": "https://www.bilibili.com/video/BV1ocfaYBEo8",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ffb163d328350bc22f9f3faebce28aa8fdc04324.jpg",
+      "cover_file": "../../_assets/covers/2025-01-22_2.jpg",
+      "bvid": "BV1ocfaYBEo8",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1ocfaYBEo8",
+        "aid": "113871696172060",
+        "cover": "http://i0.hdslb.com/bfs/archive/ffb163d328350bc22f9f3faebce28aa8fdc04324.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ocfaYBEo8",
+        "stat": {
+          "danmaku": "4.3万",
+          "play": "147.6万",
+          "vt": ""
+        },
+        "duration_text": "04:05",
+        "title": "新中式舞台《寄明月》",
+        "desc": "“新中式养生版”《寄明月》，将八段锦、太极拳等经典中式养生操与舞蹈结合，倡导大家开启健康新生活！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "中央广播电视总台2025网络春晚",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss85806",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/96441644e37a838d2b34b0427b6f8ba09c4aeb8a.png",
+      "cover_file": "../../_assets/covers/2025-01-22_3.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss85806",
+        "id_str": "113871696172060",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/96441644e37a838d2b34b0427b6f8ba09c4aeb8a.png",
+        "style": 2,
+        "title": "中央广播电视总台2025网络春晚",
+        "desc1": "已完结, 全1集",
+        "desc2": "2.8万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 98979,
+    "comment": 13105,
+    "forward": 30
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

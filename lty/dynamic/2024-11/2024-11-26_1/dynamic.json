@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "id": "1004075221106294785",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1004075221106294785",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1732617880,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 转发关注天依，揪3位小伙伴送出【怪趣之夜冰箱贴套组】1份\n\n报告，前方有小恶魔出没！\n怪趣之夜虽迟但到，快换上喜爱的怪趣穿搭，一起加入惊喜派对吧！[洛天依-潮声回响_酷]\n\n👻洛天依「怪趣之夜」系列周边\n✦徽章\n✦冰箱贴套组\n✦大徽章\n✦亚克力流沙摆件\n✦亚克力立牌\n\n👻预售时间\n11月22日\n\n👻购买地址\n天mao-moeyu旗舰店、B站-会员购\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "329454",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注天依，揪3位小伙伴送出【怪趣之夜冰箱贴套组】1份\n\n报告，前方有小恶魔出没！\n怪趣之夜虽迟但到，快换上喜爱的怪趣穿搭，一起加入惊喜派对吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_酷]",
+        "package_id": "7109",
+        "emoji_id": "94956",
+        "name": "酷",
+        "url": "https://i0.hdslb.com/bfs/garb/3bd3235f328030440455bf04f818d25b491e6d73.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n👻洛天依「怪趣之夜」系列周边\n✦徽章\n✦冰箱贴套组\n✦大徽章\n✦亚克力流沙摆件\n✦亚克力立牌\n\n👻预售时间\n11月22日\n\n👻购买地址\n天mao-moeyu旗舰店、B站-会员购"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2cab35dfc180d7e3014d8567cb8b3def36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 464.3564453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-11-26_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0be8c267627e2e2139e692048e12a9a036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 466.6328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-11-26_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b3e46fe0ad2d5c3bfebe298e160b399e36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 431.7080078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-11-26_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5c37abb8c2fe54520c3d56e6aad0639d36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 331.091796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-11-26_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a13ae02ec10e51033fdddae9246b0d0336081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1645.2607421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-11-26_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fcaff1b658b0a10dee8c1a335099eccb36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 456.4287109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-11-26_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/216e6451e3744598acdb212ce96975b136081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 260.7880859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-11-26_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a21244b023695bcca6455944a7d135b236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 275.8974609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-11-26_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8e3521e64df977079f17cdb0a2042f6b36081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1820.6171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/酷.png",
+        "package_id": "7109",
+        "emoji_id": "94956",
+        "text": "[洛天依-潮声回响_酷]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "329454"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

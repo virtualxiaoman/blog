@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "864492413222125606",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/864492413222125606",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月16日",
+    "pub_ts": 1700118725,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依收藏集——蝶变】预约开启啦！天依的收藏集将会以每月全新企划主题，解锁全新造型、独家插画等内容，本期的主题是天依和索尼的合作曲《蝶变（Butterfly）》 ，全新解锁内容抢先看，感兴趣的小伙伴戳长图了解喔[代号洛天依_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依收藏集——蝶变】预约开启啦！天依的收藏集将会以每月全新企划主题，解锁全新造型、独家插画等内容，本期的主题是天依和索尼的合作曲《蝶变（Butterfly）》 ，全新解锁内容抢先看，感兴趣的小伙伴戳长图了解喔"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3611,
+    "comment": 284,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 864473923403644948,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-11/2023-11-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

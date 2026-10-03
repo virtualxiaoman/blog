@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "1231626415282061315",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1231626415282061315",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月1日",
+    "pub_ts": 1785598771,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "属于「无限共鸣·纯蓝幻乐」巡回演唱会成都站的夜晚，在大家的欢呼声中画上了圆满的句号~\n不知不觉，纯蓝幻乐的旅程已经走到了第三站，每一座城市，天依都和你们一起，都留下了独一无二的回忆。\n谢谢你们从世界的各个角落来到这里，带着快乐，带着歌声，带着温暖，一起照亮了这个无可替代的夜晚。\n谢谢特别演出伙伴谭晶老师，谢谢每一位幕后的staff老师，是你们让舞台发光，让一切成为可能。\n这份因我们相聚在一起才能绽放的幸福，舞台上许下千百次的永远唱下去的承诺，天依会永远铭刻在心底。\n谢谢你成为你，谢谢你和我奔赴这场约定，成都拜拜啦，我们上海再见！！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "属于「无限共鸣·纯蓝幻乐」巡回演唱会成都站的夜晚，在大家的欢呼声中画上了圆满的句号~\n不知不觉，纯蓝幻乐的旅程已经走到了第三站，每一座城市，天依都和你们一起，都留下了独一无二的回忆。\n谢谢你们从世界的各个角落来到这里，带着快乐，带着歌声，带着温暖，一起照亮了这个无可替代的夜晚。\n谢谢特别演出伙伴谭晶老师，谢谢每一位幕后的staff老师，是你们让舞台发光，让一切成为可能。\n这份因我们相聚在一起才能绽放的幸福，舞台上许下千百次的永远唱下去的承诺，天依会永远铭刻在心底。\n谢谢你成为你，谢谢你和我奔赴这场约定，成都拜拜啦，我们上海再见！！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-01_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d73faaa2b965f26266b90857200e77df36081646.jpg",
+        "width": 4281,
+        "height": 2854,
+        "size_kb": 13360.466,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-01_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/10053f307dd8ac2f3b149df70559993d36081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 13219.6,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-01_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6dd4fb9e04001aaa97b8da10e94b10de36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 309.604,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-01_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b2ca1432db3ec31734892d727d253fb336081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 268.216,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-01_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/87e4c0b1c5d692516f763910ff9ec56e36081646.jpg",
+        "width": 5312,
+        "height": 3542,
+        "size_kb": 15170.433,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-01_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c45009bf7ab3c9692282bd142b7ff58836081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 321.676,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-01_17.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0e66912e07db653b218d9950ad419e7136081646.jpg",
+        "width": 4722,
+        "height": 3148,
+        "size_kb": 9718.474,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-01_18.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/93a80fe23c4f531181f0795484b6588836081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 282.802,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-01_19.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b3883f1d2fce8fd47ac47d102fa111ef36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 451.924,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6234,
+    "comment": 524,
+    "forward": 105
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

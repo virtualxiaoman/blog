@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "622868582611474612",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/622868582611474612",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月3日",
+    "pub_ts": 1643861293,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依·茉莉花】2022中国网络视听盛典",
+      "desc": "很荣幸登上“中国梦·我的梦”2022中国网络视听盛典的舞台，携手知名二胡演奏家赵磊老师，再次演绎中国江苏民歌《茉莉花》，经典总是历久弥新，希望我的歌声可以融入这唯美悠扬的弦乐，带大家走进江南，感受小桥流水般的古典柔美。",
+      "jump_url": "https://www.bilibili.com/video/BV1jS4y157Mo",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a97a16cf03dcf536fa31a05cf0316f835e0fa8ac.jpg",
+      "cover_file": "../../_assets/covers/2022-02-03_1.jpg",
+      "bvid": "BV1jS4y157Mo",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1jS4y157Mo",
+        "aid": "681219084",
+        "cover": "http://i1.hdslb.com/bfs/archive/a97a16cf03dcf536fa31a05cf0316f835e0fa8ac.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1jS4y157Mo",
+        "stat": {
+          "danmaku": "1708",
+          "play": "60.3万",
+          "vt": ""
+        },
+        "duration_text": "03:32",
+        "title": "【洛天依·茉莉花】2022中国网络视听盛典",
+        "desc": "很荣幸登上“中国梦·我的梦”2022中国网络视听盛典的舞台，携手知名二胡演奏家赵磊老师，再次演绎中国江苏民歌《茉莉花》，经典总是历久弥新，希望我的歌声可以融入这唯美悠扬的弦乐，带大家走进江南，感受小桥流水般的古典柔美。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 70816,
+    "comment": 2367,
+    "forward": 425
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

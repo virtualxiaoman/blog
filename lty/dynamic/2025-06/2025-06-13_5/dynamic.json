@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1077960194861826083",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1077960194861826083",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月13日",
+    "pub_ts": 1749820566,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【老V有话说】闪耀的Producer到底是个啥？",
+      "desc": "老V有话说 ，今天说说——闪耀的Producer到底是怎么个事！",
+      "jump_url": "https://www.bilibili.com/video/BV18sMBzFEXD",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a0a5607a0b3de8bf73327c17d942200516356d57.jpg",
+      "cover_file": "../../_assets/covers/2025-06-13_4.jpg",
+      "bvid": "BV18sMBzFEXD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18sMBzFEXD",
+        "aid": "114676163811752",
+        "cover": "http://i1.hdslb.com/bfs/archive/a0a5607a0b3de8bf73327c17d942200516356d57.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18sMBzFEXD",
+        "stat": {
+          "danmaku": "60",
+          "play": "3.8万",
+          "vt": ""
+        },
+        "duration_text": "05:03",
+        "title": "【老V有话说】闪耀的Producer到底是个啥？",
+        "desc": "老V有话说 ，今天说说——闪耀的Producer到底是怎么个事！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7158,
+    "comment": 733,
+    "forward": 12
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

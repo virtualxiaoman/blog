@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "1244805219606331392",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1244805219606331392",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月6日",
+    "pub_ts": 1788667200,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "第三步「Attack 进攻」\n你获得了第三枚棋子——“黑国王”[逆转童话动态_驾到]\n\n你看到一个疯狂的背影，一个执着的眼神。\n无用的仁慈统治已然落幕，复仇是她唯一的信念，\n她将为权杖插上锋利刀刃，撕开大地之上虚伪的辉光。\n“所有决裁由我判下，所有罪孽由我背负，我只要这场战争。\n暴君？哈哈，如果这是你对我的赞誉，感谢。”[逆转童话动态_够了]\n\n♟️掉落「黑象×黑王」日常碎片小故事一则~\n以为是可爱的小猫咪？其实很凶哦！ [逆转童话动态_好奇]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第三步「Attack 进攻」\n你获得了第三枚棋子——“黑国王”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n你看到一个疯狂的背影，一个执着的眼神。\n无用的仁慈统治已然落幕，复仇是她唯一的信念，\n她将为权杖插上锋利刀刃，撕开大地之上虚伪的辉光。\n“所有决裁由我判下，所有罪孽由我背负，我只要这场战争。\n暴君？哈哈，如果这是你对我的赞誉，感谢。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_够了]",
+        "package_id": "8744",
+        "emoji_id": "121356",
+        "name": "够了",
+        "url": "https://i0.hdslb.com/bfs/garb/dd05f6dade944377111b2f92d8ee034701aefc23.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♟️掉落「黑象×黑王」日常碎片小故事一则~\n以为是可爱的小猫咪？其实很凶哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好奇]",
+        "package_id": "8744",
+        "emoji_id": "121350",
+        "name": "好奇",
+        "url": "https://i0.hdslb.com/bfs/garb/590ccb7f6c84a776e5cedc2b1fad271256a3f5ff.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-06_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/79d8992d3ecf47aa1c5685db17862cc236081646.jpg",
+        "width": 2667,
+        "height": 1500,
+        "size_kb": 3152.239990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-06_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/04ff76cb695f29ab795ef5196e0e515736081646.png",
+        "width": 1647,
+        "height": 4260,
+        "size_kb": 1333.3699951171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/够了.gif",
+        "package_id": "8744",
+        "emoji_id": "121356",
+        "text": "[逆转童话动态_够了]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好奇.gif",
+        "package_id": "8744",
+        "emoji_id": "121350",
+        "text": "[逆转童话动态_好奇]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6353,
+    "comment": 255,
+    "forward": 78
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

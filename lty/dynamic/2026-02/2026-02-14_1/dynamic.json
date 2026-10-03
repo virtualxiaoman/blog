@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "id": "1169112723877789699",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169112723877789699",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月14日",
+    "pub_ts": 1771043668,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "“喜欢什么的，明明天依已经说过好多遍啦！[洛天依动态流光协奏_害羞]\n你说要特殊节日的仪式感嘛…知道啦知道啦～[洛天依-潮声回响_摸摸头]\n也没有花很长时间做巧克力，包装礼盒哦，节日快乐！你喜欢的话，就收下吧～[马到成功表情包_洛天依-害羞]\n\n今晚18点，天依还准备了特别听歌陪伴慢直播哦，我们一起度过这个夜晚吧[洛天依八音奇响动态_爱意]”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“喜欢什么的，明明天依已经说过好多遍啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_害羞]",
+        "package_id": "8399",
+        "emoji_id": "115680",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/garb/66de636f850af493eea9e2bc4bda3d255000faeb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n你说要特殊节日的仪式感嘛…知道啦知道啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n也没有花很长时间做巧克力，包装礼盒哦，节日快乐！你喜欢的话，就收下吧～"
+      },
+      {
+        "type": "emoji",
+        "text": "[马到成功表情包_洛天依-害羞]",
+        "package_id": "9378",
+        "emoji_id": "131522",
+        "name": "洛天依-害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/10d18406801ce8054895006158c15af20e5069a7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n今晚18点，天依还准备了特别听歌陪伴慢直播哦，我们一起度过这个夜晚吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-14_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ab2b5b594714705f510605d9a1e62abc36081646.jpg",
+        "width": 3000,
+        "height": 3000,
+        "size_kb": 3174.97998046875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/害羞.gif",
+        "package_id": "8399",
+        "emoji_id": "115680",
+        "text": "[洛天依动态流光协奏_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      },
+      {
+        "file": "../../_assets/emojis/9378/洛天依-害羞.png",
+        "package_id": "9378",
+        "emoji_id": "131522",
+        "text": "[马到成功表情包_洛天依-害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：情人节专场·洛天依慢直播",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：情人节专场·洛天依慢直播",
+        "desc1": {
+          "text": "02-14 18:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "7.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 5375342,
+        "reserve_total": 73606,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9307,
+    "comment": 1186,
+    "forward": 251
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

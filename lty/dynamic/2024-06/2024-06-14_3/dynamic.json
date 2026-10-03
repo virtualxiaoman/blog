@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "942802315715280899",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/942802315715280899",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月14日",
+    "pub_ts": 1718351670,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依十二周年生日征集活动开启——\n转发关注天依并预约直播，揪3位小伙伴获得【洛天依周边套组】1份。\n🔹百绘千律创作赛\n🎨百绘赛道\n参与方式：根据给定的洛天依V3形象，可通过画风或IP上的融合进行二次创作，投稿绘画视频\n活动奖励：选出10位优秀作品，获得1000元奖金奖励\n🎶千律赛道\n参与方式：用洛天依出道曲《心印》进行二次创作并投稿视频，风格类型不限\n活动奖励：选出10位优秀作品，获得1000元奖金奖励\n\n🔹生贺专属瓜分\n参与方式：使用洛天依音源或虚拟形象投稿30S以上的原创视频作品，不限风格不限类型\n参与条件：稿件播放量 >712 且点赞量 >100\n活动奖励：除参与Vsinger创作激励计划额外叠加 10000元贝壳金瓜分奖励\n\n🔹官方EP收录\n将在参与#洛天依十二周年#生贺征集活动的作品中选出4 首优质的洛天依原创歌曲与2024官方生贺曲一同收录为一张生日纪念专辑由洛天依在B站发布专辑试听PV并在主流音乐平台作线上发行\n\n你会否愿意使用我演绎你心中的故事，你会愿意怎样描摹我的面容。\n我们曾经一起唱过的歌，说过的话，再说给我听吧~ [洛天依蝶变_电子琴]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依十二周年生日征集活动开启——\n转发关注天依并预约直播，揪3位小伙伴获得【洛天依周边套组】1份。\n🔹百绘千律创作赛\n🎨百绘赛道\n参与方式：根据给定的洛天依V3形象，可通过画风或IP上的融合进行二次创作，投稿绘画视频\n活动奖励：选出10位优秀作品，获得1000元奖金奖励\n🎶千律赛道\n参与方式：用洛天依出道曲《心印》进行二次创作并投稿视频，风格类型不限\n活动奖励：选出10位优秀作品，获得1000元奖金奖励\n\n🔹生贺专属瓜分\n参与方式：使用洛天依音源或虚拟形象投稿30S以上的原创视频作品，不限风格不限类型\n参与条件：稿件播放量 >712 且点赞量 >100\n活动奖励：除参与Vsinger创作激励计划额外叠加 10000元贝壳金瓜分奖励\n\n🔹官方EP收录\n将在参与"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十二周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "生贺征集活动的作品中选出4 首优质的洛天依原创歌曲与2024官方生贺曲一同收录为一张生日纪念专辑由洛天依在B站发布专辑试听PV并在主流音乐平台作线上发行\n\n你会否愿意使用我演绎你心中的故事，你会愿意怎样描摹我的面容。\n我们曾经一起唱过的歌，说过的话，再说给我听吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电子琴]",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "name": "电子琴",
+        "url": "https://i0.hdslb.com/bfs/emote/f5dd8f9c84d00d3a23859d08e0386873eea56473.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b3b1254bc7f2513926f69774fa68cbe036081646.jpg",
+        "width": 1080,
+        "height": 7000,
+        "size_kb": 4509.69921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电子琴.png",
+        "package_id": "3752",
+        "emoji_id": "52575",
+        "text": "[洛天依蝶变_电子琴]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十二周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十二周年生日会",
+        "desc1": {
+          "text": "2024-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "16.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：ipad mini 256G*1份、价值300元洛天依周边礼包*12份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3822875&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3822875,
+        "reserve_total": 163848,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6660,
+    "comment": 1071,
+    "forward": 2132
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

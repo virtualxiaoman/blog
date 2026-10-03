@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "id": "995910209118404617",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/995910209118404617",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1730716815,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依X天羽川联名#正版秋季套装新品周边预售开启啦！\n🍂一起让温暖多一点吧~@天羽川JK[歌行宇宙表情包_可靠]\n🎁转发关注天依，揪3位小伙伴送出联名款圆领毛衣1件\n\n✨联名服饰套装\n🔹【休闲外套】\n🔹【圆领毛衣】\n🔹【假两件毛衣】\n\n属于天依的经典蓝白配色和元素融入设计，希望可以时刻为你带来如置身碧蓝晴空下的好心情~！[歌行宇宙表情包_mua]\n\n♡传送门：\n休闲外套&圆领毛衣：网页链接\n假两件毛衣：网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "326274",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依X天羽川联名#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9DX%E5%A4%A9%E7%BE%BD%E5%B7%9D%E8%81%94%E5%90%8D"
+      },
+      {
+        "type": "text",
+        "text": "正版秋季套装新品周边预售开启啦！\n🍂一起让温暖多一点吧~"
+      },
+      {
+        "type": "mention",
+        "text": "@天羽川JK",
+        "mid": 394187581,
+        "url": ""
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_可靠]",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/c4947ffce07dd9355cf893acf531afbbde05efbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🎁转发关注天依，揪3位小伙伴送出联名款圆领毛衣1件\n\n✨联名服饰套装\n🔹【休闲外套】\n🔹【圆领毛衣】\n🔹【假两件毛衣】\n\n属于天依的经典蓝白配色和元素融入设计，希望可以时刻为你带来如置身碧蓝晴空下的好心情~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♡传送门：\n休闲外套&圆领毛衣："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=10739312&loadingShow=1&noTitleBar=1#noReffer=true"
+      },
+      {
+        "type": "text",
+        "text": "\n假两件毛衣："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=10739340&loadingShow=1&noTitleBar=1"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-04_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/51164a2eb1bba7a6e4f601ed140cc76736081646.jpg",
+        "width": 1587,
+        "height": 2245,
+        "size_kb": 1889.087890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-11-04_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0a184294356c1fe6d8b91cd9275259c136081646.jpg",
+        "width": 1587,
+        "height": 2245,
+        "size_kb": 2030.05859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-11-04_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e2cf17588db4d968ffb516617e0426d736081646.jpg",
+        "width": 1587,
+        "height": 2245,
+        "size_kb": 1778.4365234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/可靠.png",
+        "package_id": "5880",
+        "emoji_id": "86902",
+        "text": "[歌行宇宙表情包_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "天羽川洛天依正版授权休闲连帽外套圆领套头毛衣秋冬2024新款百搭正版联名",
+            "price": "¥149",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/d8/b8/9b2415bd3c7018551abe3dbaa31533cf.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=10739312&loadingShow=1&noTitleBar=1&msource=cps_Mdynamic_36081646_cont-2-995910209118404617&track_id=__BGMT__&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-11-04_1.png"
+          },
+          {
+            "name": "天羽川洛天依假两件套头毛衣半裙套装秋冬女2024新款百搭正版联名",
+            "price": "¥148",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/2f/d9/879a2ae638efc10174ea7e55897f1622.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=10739340&loadingShow=1&noTitleBar=1&msource=cps_Mdynamic_36081646_cont-2-995910209118404617&track_id=__BGMT__&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-11-04_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "326274"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

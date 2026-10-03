@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1200020008633106452",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1200020008633106452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月8日",
+    "pub_ts": 1778239831,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来自天依的「心予報」ෆ8( ˶'ᵕ'˶)ෆ",
+      "desc": "BGM&模板：Eve《心予報》",
+      "jump_url": "https://www.bilibili.com/video/BV1SZdGB4Epe",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/89d53c8b101fa5c904112d0ce07ef6e164678b73.jpg",
+      "cover_file": "../../_assets/covers/2026-05-08_1.jpg",
+      "bvid": "BV1SZdGB4Epe",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1SZdGB4Epe",
+        "aid": "116538719864374",
+        "cover": "http://i0.hdslb.com/bfs/archive/89d53c8b101fa5c904112d0ce07ef6e164678b73.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1SZdGB4Epe",
+        "stat": {
+          "danmaku": "131",
+          "play": "18.1万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "来自天依的「心予報」ෆ8( ˶'ᵕ'˶)ෆ",
+        "desc": "BGM&模板：Eve《心予報》",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 48306,
+    "comment": 1132,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

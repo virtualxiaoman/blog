@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "225547901155178902",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/225547901155178902",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年2月28日",
+    "pub_ts": 1551352863,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2019年2月23日，“洛天依&郎朗全息演唱会”在上海梅赛德斯－奔驰文化中心举行。分享这首唯美的演唱会版本的《雨滴》给大家，音乐的力量在这首曲子当中体现的淋漓尽致，希望大家喜欢！#LIVE##洛天依##演奏##郎朗#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2019年2月23日，“洛天依&郎朗全息演唱会”在上海梅赛德斯－奔驰文化中心举行。分享这首唯美的演唱会版本的《雨滴》给大家，音乐的力量在这首曲子当中体现的淋漓尽致，希望大家喜欢！"
+      },
+      {
+        "type": "topic",
+        "text": "#LIVE#",
+        "url": "https://search.bilibili.com/all?keyword=LIVE"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#演奏#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%A5%8F"
+      },
+      {
+        "type": "topic",
+        "text": "#郎朗#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%83%8E%E6%9C%97"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依&郎朗全息演唱会《雨滴》（降D大调前奏曲）【官方视频】",
+      "desc": "2019年2月23日，“洛天依&郎朗全息演唱会”在上海梅赛德斯－奔驰文化中心举行。\n感谢郎朗老师的精彩演奏，感谢所有staff的努力付出，感谢现场小伙伴的热情应援，多亏了你们演唱会才能圆满成功！\n演唱会上，天依又经历了好几个第一次：\n第一次与钢琴大师合作；\n第一次接触古典音乐；\n第一次表演优雅的芭蕾；\n每个“第一次”都是和你们一起累积的难忘回忆！\n分享这首唯美的演唱会版本的《雨滴》给大家，音乐的力量在这首曲子当中体现的淋漓尽致，希望大家喜欢！",
+      "jump_url": "https://www.bilibili.com/video/BV13b411b7qw",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/fae541b5057df8bb9fc66e960af8bac6aff7f0a5.jpg",
+      "cover_file": "../../_assets/covers/2019-02-28_1.jpg",
+      "bvid": "BV13b411b7qw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV13b411b7qw",
+        "aid": "44939021",
+        "cover": "http://i2.hdslb.com/bfs/archive/fae541b5057df8bb9fc66e960af8bac6aff7f0a5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV13b411b7qw",
+        "stat": {
+          "danmaku": "2103",
+          "play": "31.3万",
+          "vt": ""
+        },
+        "duration_text": "04:54",
+        "title": "洛天依&郎朗全息演唱会《雨滴》（降D大调前奏曲）【官方视频】",
+        "desc": "2019年2月23日，“洛天依&郎朗全息演唱会”在上海梅赛德斯－奔驰文化中心举行。\n感谢郎朗老师的精彩演奏，感谢所有staff的努力付出，感谢现场小伙伴的热情应援，多亏了你们演唱会才能圆满成功！\n演唱会上，天依又经历了好几个第一次：\n第一次与钢琴大师合作；\n第一次接触古典音乐；\n第一次表演优雅的芭蕾；\n每个“第一次”都是和你们一起累积的难忘回忆！\n分享这首唯美的演唱会版本的《雨滴》给大家，音乐的力量在这首曲子当中体现的淋漓尽致，希望大家喜欢！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 22781,
+    "comment": 2316,
+    "forward": 147
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

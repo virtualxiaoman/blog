@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1249722121812181065",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1249722121812181065",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月19日",
+    "pub_ts": 1789812006,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《花骨朵》亚细亚旷世奇才/洛天依",
+      "desc": "我想要，死在春天里，红花作衣绿地作席，野蛮生长 在春泥，养万物生我饲衣鱼\n\n歌名：《花骨朵》\n\n作词：亚细亚旷世奇才\n\n作曲：亚细亚旷世奇才\n\n演唱：洛天依\n\n混音：歪歪Mixing\n\n母带：谢天驰\n\nA&R:百万/说唱刷怪笼\n\n调校：@Creuzer  \n\n动画：@脂山   @大史仔仔  \n\n特别感谢：@AA呈",
+      "jump_url": "https://www.bilibili.com/video/BV16veP6eEeC",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/d47d936f14f9fd33f70926014771ae60f75970f1.jpg",
+      "cover_file": "../../_assets/covers/2026-09-19_1.jpg",
+      "bvid": "BV16veP6eEeC",
+      "extra": {
+        "type": 1,
+        "bvid": "BV16veP6eEeC",
+        "aid": "117280709025651",
+        "cover": "http://i1.hdslb.com/bfs/archive/d47d936f14f9fd33f70926014771ae60f75970f1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV16veP6eEeC",
+        "stat": {
+          "danmaku": "1万",
+          "play": "386.7万",
+          "vt": ""
+        },
+        "duration_text": "02:51",
+        "title": "《花骨朵》亚细亚旷世奇才/洛天依",
+        "desc": "我想要，死在春天里，红花作衣绿地作席，野蛮生长 在春泥，养万物生我饲衣鱼\n\n歌名：《花骨朵》\n\n作词：亚细亚旷世奇才\n\n作曲：亚细亚旷世奇才\n\n演唱：洛天依\n\n混音：歪歪Mixing\n\n母带：谢天驰\n\nA&R:百万/说唱刷怪笼\n\n调校：@Creuzer  \n\n动画：@脂山   @大史仔仔  \n\n特别感谢：@AA呈",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 334382,
+    "comment": 13842,
+    "forward": 39
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:39:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

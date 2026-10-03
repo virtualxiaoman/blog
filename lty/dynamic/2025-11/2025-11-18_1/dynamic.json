@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1136479300416962560",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1136479300416962560",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年11月18日",
+    "pub_ts": 1763445607,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依《我们都在这里》【十五运会和残特奥会志愿者主题曲】",
+      "desc": "天依很高兴受邀演唱十五运会和残特奥会志愿者主题歌曲《我们都在这里》\n步履不停，热爱不熄，在同一片天空下，我们友爱互助，相伴前行\n和天依一起，致敬志愿者们勠力同心服务赛会的热情、温暖与坚守吧！",
+      "jump_url": "https://www.bilibili.com/video/BV11gy3BnEDb",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/fdb786382f4b7b322e797dbd7a220a209f2d87a5.jpg",
+      "cover_file": "../../_assets/covers/2025-11-18_1.jpg",
+      "bvid": "BV11gy3BnEDb",
+      "extra": {
+        "type": 1,
+        "bvid": "BV11gy3BnEDb",
+        "aid": "115569030332573",
+        "cover": "http://i1.hdslb.com/bfs/archive/fdb786382f4b7b322e797dbd7a220a209f2d87a5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV11gy3BnEDb",
+        "stat": {
+          "danmaku": "822",
+          "play": "30.4万",
+          "vt": ""
+        },
+        "duration_text": "03:35",
+        "title": "洛天依《我们都在这里》【十五运会和残特奥会志愿者主题曲】",
+        "desc": "天依很高兴受邀演唱十五运会和残特奥会志愿者主题歌曲《我们都在这里》\n步履不停，热爱不熄，在同一片天空下，我们友爱互助，相伴前行\n和天依一起，致敬志愿者们勠力同心服务赛会的热情、温暖与坚守吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 41154,
+    "comment": 2038,
+    "forward": 282
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

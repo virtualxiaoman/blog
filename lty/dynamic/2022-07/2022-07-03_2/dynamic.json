@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "id": "678575725826015249",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/678575725826015249",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月3日",
+    "pub_ts": 1656831623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "生日派对上，怎么能少了零食和礼物呢？香爆脆x洛天依十周年干脆邀全网粉丝一起，上天猫官方旗舰店、京东官方旗舰店和饿了么开启零食狂欢！7月12日天猫店铺直播间还会限量送出小柠檬手办，记得来互动哦！现在打开饿了么搜索“康师傅”进入品牌馆，还有超丰富的生日礼物等你来！#干脆依起狂欢#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "生日派对上，怎么能少了零食和礼物呢？香爆脆x洛天依十周年干脆邀全网粉丝一起，上天猫官方旗舰店、京东官方旗舰店和饿了么开启零食狂欢！7月12日天猫店铺直播间还会限量送出小柠檬手办，记得来互动哦！现在打开饿了么搜索“康师傅”进入品牌馆，还有超丰富的生日礼物等你来！"
+      },
+      {
+        "type": "topic",
+        "text": "#干脆依起狂欢#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%B9%B2%E8%84%86%E4%BE%9D%E8%B5%B7%E7%8B%82%E6%AC%A2"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-03_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/cdb3b39a570ab85748d988c53b4970ac36081646.png",
+        "width": 750,
+        "height": 1000,
+        "size_kb": 920.8699951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-07-03_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/39fd18483cdab92eadf762d617aeb6a736081646.jpg",
+        "width": 750,
+        "height": 1000,
+        "size_kb": 583.9600219726562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依 10周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依 10周年生日会",
+        "desc1": {
+          "text": "2022-07-12 17:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Apple ipad pro 11英寸*1份、洛天依甜点款拍立得*3份、十周年线下展门票*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=728756&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 728756,
+        "reserve_total": 263821,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7634,
+    "comment": 413,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:49:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

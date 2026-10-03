@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "id": "1103947607445602312",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1103947607445602312",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月22日",
+    "pub_ts": 1755871232,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 转发关注天依，揪2位小伙伴送出【上海站限定礼盒】1份~\n\n呼~彩排结束啦，让天依稍微休息一下。[洛天依·闪耀的Producer动态_不用再战斗]\n今天天依到~处~监工，可是很累哒！[洛天依·闪耀的Producer动态_重拳出击]\n当然是staff老师们和即将奔波到这里的大家最辛苦啦！[洛天依·闪耀的Producer动态_可靠]\n天依都布置好啦，大家到了吗？早点休息哦，我们明天开开心心地相见吧！ [洛天依·闪耀的Producer动态_幸福]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "374582",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注天依，揪2位小伙伴送出【上海站限定礼盒】1份~\n\n呼~彩排结束啦，让天依稍微休息一下。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_不用再战斗]",
+        "package_id": "8540",
+        "emoji_id": "117844",
+        "name": "不用再战斗",
+        "url": "https://i0.hdslb.com/bfs/garb/d73e61df7e2bd3e5dcfbf2b2a9592825a3dd4e7a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n今天天依到~处~监工，可是很累哒！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_重拳出击]",
+        "package_id": "8540",
+        "emoji_id": "117841",
+        "name": "重拳出击",
+        "url": "https://i0.hdslb.com/bfs/garb/96eba25c63774846fe89ef522bbb0a665f65fa0a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n当然是staff老师们和即将奔波到这里的大家最辛苦啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_可靠]",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/0948f9c15324f91126a33675b15d111744117b23.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依都布置好啦，大家到了吗？早点休息哦，我们明天开开心心地相见吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d03739895f98739ffe25e695bd5f43b236081646.jpg",
+        "width": 1980,
+        "height": 1086,
+        "size_kb": 2834.8828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-08-22_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8e6baaf6949db23de498ab8db411ebe636081646.jpg",
+        "width": 1980,
+        "height": 1127,
+        "size_kb": 1945.66796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-08-22_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/74b0acb8c39828a968b0e4eda3ae063936081646.jpg",
+        "width": 1980,
+        "height": 1255,
+        "size_kb": 2183.8173828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-08-22_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/abda7d7915dafe6fa728cbf181a1835c36081646.jpg",
+        "width": 1980,
+        "height": 1321,
+        "size_kb": 2670.1630859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-08-22_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6bf0217da1fa79323fdeabe7b028b7c336081646.jpg",
+        "width": 3888,
+        "height": 5184,
+        "size_kb": 6221.8896484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-08-22_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/22a074317508e3b8f1fc65805f72259b36081646.jpg",
+        "width": 1980,
+        "height": 1321,
+        "size_kb": 2336.2998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-08-22_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f870c4f85e10fd2de267601888c784b836081646.jpg",
+        "width": 1980,
+        "height": 1213,
+        "size_kb": 2509.18359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-08-22_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c4e653188f6ccf1d05ad4d7932a134c436081646.jpg",
+        "width": 1980,
+        "height": 1176,
+        "size_kb": 2010.8525390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-08-22_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6bee077fd2bafab087a3ddf1a408f60e36081646.jpg",
+        "width": 1980,
+        "height": 1052,
+        "size_kb": 1989.3154296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/不用再战斗.gif",
+        "package_id": "8540",
+        "emoji_id": "117844",
+        "text": "[洛天依·闪耀的Producer动态_不用再战斗]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/重拳出击.gif",
+        "package_id": "8540",
+        "emoji_id": "117841",
+        "text": "[洛天依·闪耀的Producer动态_重拳出击]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/可靠.gif",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "text": "[洛天依·闪耀的Producer动态_可靠]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "374582"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7118,
+    "comment": 881,
+    "forward": 8196
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:39:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

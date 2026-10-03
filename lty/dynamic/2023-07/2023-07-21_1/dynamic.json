@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "820766188693880869",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/820766188693880869",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月21日",
+    "pub_ts": 1689937920,
+    "location": ""
+  },
+  "topic": {
+    "id": 59092,
+    "name": "我的演奏高光时刻",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=59092&topic_name=%E6%88%91%E7%9A%84%E6%BC%94%E5%A5%8F%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "在如画的山水之中，在皎洁的月光之下，一曲一舞一琴，邀你共赏丹青画卷。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在如画的山水之中，在皎洁的月光之下，一曲一舞一琴，邀你共赏丹青画卷。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&墨韵】《月华舞》舞台首秀 当绝美古筝遇见国风电音",
+      "desc": "在如画的山水之中，在皎洁的月光之下，一曲一舞一琴，邀你共赏丹青画卷。\n\n演唱：洛天依 \n古筝：墨韵随步摇 \n\n《月华舞》pv版BV19W4y1f7hz\n作词：LunaSafari/冥凰\n作曲：LunaSafari \n调校：哈士奇P \n编曲：1AN孙毅然 李建衡@Enjoy \n制作人：李建衡 \n和声： 洛天依 邢琛 周弦 \n笛萧：笛呆子囚牛 \n民乐监制：杨柳音子@音若子兮\n人声编辑：曹文佳@Enjoy 吕俊龙@Enjoy\n混音：罗文Rown@Enjoy\n母带：罗文Rown@Enjoy",
+      "jump_url": "https://www.bilibili.com/video/BV1im4y177p2",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/58da0369c064c03e027dd9b2f5db23a4e5a04d35.jpg",
+      "cover_file": "../../_assets/covers/2023-07-21_1.jpg",
+      "bvid": "BV1im4y177p2",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1im4y177p2",
+        "aid": "701179174",
+        "cover": "http://i1.hdslb.com/bfs/archive/58da0369c064c03e027dd9b2f5db23a4e5a04d35.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1im4y177p2",
+        "stat": {
+          "danmaku": "349",
+          "play": "39.6万",
+          "vt": ""
+        },
+        "duration_text": "04:01",
+        "title": "【洛天依&墨韵】《月华舞》舞台首秀 当绝美古筝遇见国风电音",
+        "desc": "在如画的山水之中，在皎洁的月光之下，一曲一舞一琴，邀你共赏丹青画卷。\n\n演唱：洛天依 \n古筝：墨韵随步摇 \n\n《月华舞》pv版BV19W4y1f7hz\n作词：LunaSafari/冥凰\n作曲：LunaSafari \n调校：哈士奇P \n编曲：1AN孙毅然 李建衡@Enjoy \n制作人：李建衡 \n和声： 洛天依 邢琛 周弦 \n笛萧：笛呆子囚牛 \n民乐监制：杨柳音子@音若子兮\n人声编辑：曹文佳@Enjoy 吕俊龙@Enjoy\n混音：罗文Rown@Enjoy\n母带：罗文Rown@Enjoy",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 64660,
+    "comment": 697,
+    "forward": 91
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "id": "1159795790902722566",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1159795790902722566",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月20日",
+    "pub_ts": 1768874400,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "带薪吃好吃的，还有这样的好事？\n嘿嘿，小厨娘天依带着新美味来咯！[洛天依·闪耀的Producer动态_此乃佳品]\n听说虎邦辣酱拌什么都好吃？想试试辣酱拌小笼包......\n佐餐搭档，就选#虎邦洛天依联名礼包#\n天依精选，值得信赖！ [洛天依·闪耀的Producer动态_有请]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "带薪吃好吃的，还有这样的好事？\n嘿嘿，小厨娘天依带着新美味来咯！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_此乃佳品]",
+        "package_id": "8540",
+        "emoji_id": "117829",
+        "name": "此乃佳品",
+        "url": "https://i0.hdslb.com/bfs/garb/fab77f6871ec2974a09660e32d5595a4e221c7eb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n听说虎邦辣酱拌什么都好吃？想试试辣酱拌小笼包......\n佐餐搭档，就选"
+      },
+      {
+        "type": "topic",
+        "text": "#虎邦洛天依联名礼包#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%99%8E%E9%82%A6%E6%B4%9B%E5%A4%A9%E4%BE%9D%E8%81%94%E5%90%8D%E7%A4%BC%E5%8C%85"
+      },
+      {
+        "type": "text",
+        "text": "\n天依精选，值得信赖！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_有请]",
+        "package_id": "8540",
+        "emoji_id": "117828",
+        "name": "有请",
+        "url": "https://i0.hdslb.com/bfs/garb/ec1b372c8ca1ee5c392fe6a98dd4d48c8f66eca1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-01-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/22d6bc6c41d89a73cb4e4cf53b010b9e36081646.jpg",
+        "width": 1242,
+        "height": 1656,
+        "size_kb": 2040.4189453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-01-20_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/945523f5624bfe15c213fad76d3045c236081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 2215.72265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-01-20_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7ac26b5eee1177cfc865facbdf7cf7ca36081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 469.443359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-01-20_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ec146aea04c09a96ff59798c2b471cbe36081646.png",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 980.6064453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/此乃佳品.gif",
+        "package_id": "8540",
+        "emoji_id": "117829",
+        "text": "[洛天依·闪耀的Producer动态_此乃佳品]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/有请.gif",
+        "package_id": "8540",
+        "emoji_id": "117828",
+        "text": "[洛天依·闪耀的Producer动态_有请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5230,
+    "comment": 362,
+    "forward": 83
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "id": "1094283170871771170",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1094283170871771170",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月27日",
+    "pub_ts": 1753621055,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依大型原创音乐征集活动\n「闪耀的Producer」特邀评委老师们最爱 TOP3 作品来啦！[洛天依动态流光协奏_MVP]\n一起来看看并聆听这些参与征集的创作者老师们的精彩作品吧，记得也为你喜欢的作品投出一票哦！[洛天依动态流光协奏_打call]\n🌟闪耀对决舞台应援传送门：网页链接\n\n感谢特邀评委老师们[洛天依动态流光协奏_捧花]\n@陈致逸音乐工作室  @银临  @天秤Dav @我是爱音乐的徐梦圆 @音乐制作人赵兆 @歌手唐汉霄 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依大型原创音乐征集活动\n「闪耀的Producer」特邀评委老师们最爱 TOP3 作品来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_MVP]",
+        "package_id": "8399",
+        "emoji_id": "115684",
+        "name": "MVP",
+        "url": "https://i0.hdslb.com/bfs/garb/29f34ef4cc757fde4fc64f616fde869d5e50ddfc.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n一起来看看并聆听这些参与征集的创作者老师们的精彩作品吧，记得也为你喜欢的作品投出一票哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n🌟闪耀对决舞台应援传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/oaYvyOr"
+      },
+      {
+        "type": "text",
+        "text": "\n\n感谢特邀评委老师们"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@陈致逸音乐工作室 ",
+        "mid": 11057377,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@银临 ",
+        "mid": 2460656,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@天秤Dav ",
+        "mid": 1054162081,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@我是爱音乐的徐梦圆 ",
+        "mid": 12633655,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@音乐制作人赵兆 ",
+        "mid": 225526812,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@歌手唐汉霄 ",
+        "mid": 23994746,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-27_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/212a2c3a16f5350514bb13d11c3e3fd936081646.png",
+        "width": 1500,
+        "height": 3110,
+        "size_kb": 3805.308,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-27_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5762f610967e06f2259197891bb765936081646.png",
+        "width": 1500,
+        "height": 3110,
+        "size_kb": 3847.569,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-27_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/312ec0a515ff31880cc6c038cbbda77536081646.png",
+        "width": 1500,
+        "height": 3110,
+        "size_kb": 3553.101,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-27_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0bd4e1b24545824168155f04a3f8a0c336081646.png",
+        "width": 1500,
+        "height": 3110,
+        "size_kb": 3666.042,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-27_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8f5d87b12e67dd8b8585523c7b9ce29336081646.png",
+        "width": 1500,
+        "height": 3110,
+        "size_kb": 3880.991,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-07-27_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/baec7b0963503f806b15897f1f465bf536081646.png",
+        "width": 1500,
+        "height": 3110,
+        "size_kb": 3521.443,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/MVP.gif",
+        "package_id": "8399",
+        "emoji_id": "115684",
+        "text": "[洛天依动态流光协奏_MVP]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5125,
+    "comment": 168,
+    "forward": 79
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:36:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

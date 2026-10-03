@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "769945258239721570",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/769945258239721570",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年3月6日",
+    "pub_ts": 1678105250,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一些社畜的日常.jpg[洛天依_感动]一起对UP主老师的音乐梦想说一声加油吧！[洛天依_冲鸭]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一些社畜的日常.jpg"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_感动]",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "name": "感动",
+        "url": "http://i0.hdslb.com/bfs/emote/24de715f4b8730a5eedd1e0e6fbd2f2701143f83.png"
+      },
+      {
+        "type": "text",
+        "text": "一起对UP主老师的音乐梦想说一声加油吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/感动.png",
+        "package_id": "340",
+        "emoji_id": "7261",
+        "text": "[洛天依_感动]"
+      },
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7105,
+    "comment": 218,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 758462018926674066,
+    "orig_mid": 413808022,
+    "deleted": false,
+    "archive_dir": "../../../413808022/2023-02/2023-02-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

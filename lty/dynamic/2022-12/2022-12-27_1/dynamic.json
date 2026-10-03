@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "744288665477316662",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/744288665477316662",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月27日",
+    "pub_ts": 1672131609,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一个人组成一支乐队！\n一起来看看用阿卡贝拉的方式重新演绎经典歌曲《茉莉花》会是一种什么样的感觉吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一个人组成一支乐队！\n一起来看看用阿卡贝拉的方式重新演绎经典歌曲《茉莉花》会是一种什么样的感觉吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】用阿卡贝拉的方式打开经典《茉莉花》",
+      "desc": "一个人组成一支乐队！\n用阿卡贝拉的方式重新演绎经典歌曲《茉莉花》\n\n编曲/混音：EggyWalker\n调校：OQQ\n曲绘：Haku白\n视频：伊水_Uryan",
+      "jump_url": "https://www.bilibili.com/video/BV1ZP4y1i74a",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/4773a9487116e17828a8f596c7d2fa0f30d6cef0.jpg",
+      "cover_file": "../../_assets/covers/2022-12-27_1.jpg",
+      "bvid": "BV1ZP4y1i74a",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZP4y1i74a",
+        "aid": "904264736",
+        "cover": "http://i0.hdslb.com/bfs/archive/4773a9487116e17828a8f596c7d2fa0f30d6cef0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZP4y1i74a",
+        "stat": {
+          "danmaku": "1286",
+          "play": "113.8万",
+          "vt": ""
+        },
+        "duration_text": "02:45",
+        "title": "【洛天依】用阿卡贝拉的方式打开经典《茉莉花》",
+        "desc": "一个人组成一支乐队！\n用阿卡贝拉的方式重新演绎经典歌曲《茉莉花》\n\n编曲/混音：EggyWalker\n调校：OQQ\n曲绘：Haku白\n视频：伊水_Uryan",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 188064,
+    "comment": 1656,
+    "forward": 332
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

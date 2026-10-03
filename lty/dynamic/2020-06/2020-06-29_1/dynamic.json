@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "406264074680349867",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/406264074680349867",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月29日",
+    "pub_ts": 1593429126,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#与洛天依分享你的城# #2020洛天依生日应援# #洛天依0712生日快乐#  漫步在古旧街巷间，处处能闻到诱人的麻香味，刺激着鼻子和味蕾，让人忍不住胃口大开，流连忘返。 城市巡礼的第二站，天依来到了有大熊猫之乡美誉的四川成都，早上去看了可爱的国宝，听饲养员说了好多关于熊猫的故事，还买了纪念品，晚上就来到了……差点说漏嘴了，这个要让大家自己去猜才行。 晚餐吃的火锅又麻又辣，但真的非常好吃，尝过一遍就忘不掉，路边的串串也相当美味，边走边吃十分惬意，如果要让天依选择的话，那肯定是全都要。 除了熊猫和美食，成都也有着天依和小伙伴们的回忆在，并且今天又增添了一个，相信跟大家的羁绊还会越来越多，直到∞（无穷大）。  最后还是要提问的，大家知道这个差点被天依剧透的地方是成都哪里吗？（提示，两个字）转发+评论正确的地名，有机会获得天依的成都限定宣传海报哦~ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#与洛天依分享你的城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E5%9F%8E"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  漫步在古旧街巷间，处处能闻到诱人的麻香味，刺激着鼻子和味蕾，让人忍不住胃口大开，流连忘返。 城市巡礼的第二站，天依来到了有大熊猫之乡美誉的四川成都，早上去看了可爱的国宝，听饲养员说了好多关于熊猫的故事，还买了纪念品，晚上就来到了……差点说漏嘴了，这个要让大家自己去猜才行。 晚餐吃的火锅又麻又辣，但真的非常好吃，尝过一遍就忘不掉，路边的串串也相当美味，边走边吃十分惬意，如果要让天依选择的话，那肯定是全都要。 除了熊猫和美食，成都也有着天依和小伙伴们的回忆在，并且今天又增添了一个，相信跟大家的羁绊还会越来越多，直到∞（无穷大）。  最后还是要提问的，大家知道这个差点被天依剧透的地方是成都哪里吗？（提示，两个字）转发+评论正确的地名，有机会获得天依的成都限定宣传海报哦~ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-06-29_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/87ae4d9287ba595e4bbf4bc16e1e649456a96132.jpg",
+        "width": 1068,
+        "height": 1600,
+        "size_kb": 1551.5947265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10521,
+    "comment": 1254,
+    "forward": 939
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

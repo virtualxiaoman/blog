@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "id": "816345821234593793",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/816345821234593793",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月9日",
+    "pub_ts": 1688908723,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖​\n#洛天依#❀#洛天依0712生日快乐# \n转发并关注，揪3位小伙伴送出我的生日纪念系列周边set（徽章色纸镭射票）一份~ \n\nVsinger 洛天依 2023 \n       ——月华舞翩翩 \n\n【生日纪念系列周边】\n收藏色纸\n镭射套票\n马口铁徽章\n亚克力流沙立牌\n金属书签\n半身抱枕 \n\n【生日纪念交通联合一卡通】\n便利交通卡，伴你出行 \n\n详情戳：网页链接 \n如画山水，皎皎月光，期盼与你共听时光，赏人间风花雪月。 [古色花香洛天依_贴贴]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "162474",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "​\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "❀"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " \n转发并关注，揪3位小伙伴送出我的生日纪念系列周边set（徽章色纸镭射票）一份~ \n\nVsinger 洛天依 2023 \n       ——月华舞翩翩 \n\n【生日纪念系列周边】\n收藏色纸\n镭射套票\n马口铁徽章\n亚克力流沙立牌\n金属书签\n半身抱枕 \n\n【生日纪念交通联合一卡通】\n便利交通卡，伴你出行 \n\n详情戳："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?noTitleBar=1&itemsId=10164723&msource=yyqbanner_dt"
+      },
+      {
+        "type": "text",
+        "text": " \n如画山水，皎皎月光，期盼与你共听时光，赏人间风花雪月。 "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_贴贴]",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "name": "贴贴",
+        "url": "https://i0.hdslb.com/bfs/garb/item/14830657a12203a0eecec49885447b931608c4ea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-09_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/3e562b5832116b7e91534fc940413e0b36081646.jpg",
+        "width": 992,
+        "height": 17124,
+        "size_kb": 9913.4404296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/贴贴.png",
+        "package_id": "1096",
+        "emoji_id": "19450",
+        "text": "[古色花香洛天依_贴贴]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "BEMOE Vsinger 洛天依 2023生日纪念系列 收藏套票/光栅马口铁徽章/收藏色纸/亚克力流沙立牌/金属书签/半身抱枕",
+            "price": "¥67.15",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/03/1d/031da6e19aed716af88971afca2b0180.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10164723&msource=cps_Mdynamic_36081646_cont-2-816345821234593793&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-07-09_1.png"
+          },
+          {
+            "name": "北京市政交通一卡通有限公司 Vsinger 洛天依 洛天依2023生日贺礼纪念卡 交通卡",
+            "price": "¥35",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/ac/2b/ac2b3f03e6b64d86e3e1138bf15782e6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10164736&msource=cps_Mdynamic_36081646_cont-2-816345821234593793&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-07-09_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "162474"
+  },
+  "vote": null,
+  "stats": {
+    "like": 10053,
+    "comment": 1082,
+    "forward": 8651
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

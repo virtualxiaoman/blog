@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "1114291782832619523",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1114291782832619523",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月19日",
+    "pub_ts": 1758279673,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依的老朋友交通银行信用卡又为大家带来新卡面啦！[洛天依动态流光协奏_捧花]\n这次的新卡面取自天依的巡回演唱会成都站“翡翠石”和北京站“月光石”。\n小交这次也为大家准备了惊喜福利和丰富权益哦！\n希望这份如月光温柔、如翡翠温润的治愈心情，可以传递给大家~ [洛天依动态流光协奏_喜欢]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的老朋友交通银行信用卡又为大家带来新卡面啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n这次的新卡面取自天依的巡回演唱会成都站“翡翠石”和北京站“月光石”。\n小交这次也为大家准备了惊喜福利和丰富权益哦！\n希望这份如月光温柔、如翡翠温润的治愈心情，可以传递给大家~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_喜欢]",
+        "package_id": "8399",
+        "emoji_id": "115678",
+        "name": "喜欢",
+        "url": "https://i0.hdslb.com/bfs/garb/83150896ea1e796c1c0da591fdf0c34f0a5180fd.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f1333a1751572810eacb54a0e47f7fc936081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1420.5478515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/喜欢.gif",
+        "package_id": "8399",
+        "emoji_id": "115678",
+        "text": "[洛天依动态流光协奏_喜欢]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5034,
+    "comment": 289,
+    "forward": 58
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

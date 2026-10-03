@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "817801635017261192",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/817801635017261192",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689247681,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@清风长笑@雾霭林深@练习一坤年的纯鹿人等10位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@清风长笑",
+        "mid": 346763706,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@雾霭林深",
+        "mid": 1801267,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@练习一坤年的纯鹿人",
+        "mid": 3493126251481092,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等10位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3511,
+    "comment": 126,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 817060276157284390,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-07-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:55:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

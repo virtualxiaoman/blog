@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1081976397308624897",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1081976397308624897",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月24日",
+    "pub_ts": 1750755661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@愿做你万一的光@喑喑1@天天又依依O_o中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@愿做你万一的光",
+        "mid": 349236851,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@喑喑1",
+        "mid": 1059658348,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@天天又依依O_o",
+        "mid": 640629746,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3096,
+    "comment": 51,
+    "forward": 13
+  },
+  "forward": {
+    "orig_id": 1070101985268596736,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-05/2025-05-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

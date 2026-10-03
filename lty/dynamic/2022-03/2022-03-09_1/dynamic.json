@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "635591018857627650",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/635591018857627650",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月9日",
+    "pub_ts": 1646823466,
+    "location": ""
+  },
+  "topic": {
+    "id": 9865,
+    "name": "Vsinger创作激励计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9865&topic_name=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": " #洛天依# 以往的失去并不可怕，远方的美景还在等你抵达，以后做自己的英雄，好吗？[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 以往的失去并不可怕，远方的美景还在等你抵达，以后做自己的英雄，好吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6511,
+    "comment": 156,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 631123127585210485,
+    "orig_mid": 20464617,
+    "deleted": false,
+    "archive_dir": "../../../20464617/2022-02/2022-02-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:43:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

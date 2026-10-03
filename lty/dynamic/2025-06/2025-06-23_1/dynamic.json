@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1081620988806823945",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1081620988806823945",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月23日",
+    "pub_ts": 1750672911,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "\\摇滚/‍\\摇滚/‍\\摇滚/[洛天依-潮声回响_舞蹈中]大家最近都在听什么新歌呀，都来安利安利吧~[洛天依-潮声回响_祝贺]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "\\摇滚/‍\\摇滚/‍\\摇滚/"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      },
+      {
+        "type": "text",
+        "text": "大家最近都在听什么新歌呀，都来安利安利吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4466,
+    "comment": 156,
+    "forward": 28
+  },
+  "forward": {
+    "orig_id": 1076747094266478593,
+    "orig_mid": 628417991,
+    "deleted": false,
+    "archive_dir": "../../../628417991/2025-06/2025-06-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:31:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

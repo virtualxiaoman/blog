@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "1069012541072474131",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1069012541072474131",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月20日",
+    "pub_ts": 1747737278,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 即将开启！⚡\n六位闪耀发起人的特邀作品歌曲追更日历来啦~[洛天依·天星问动态_好耶]\n\n大家来一起猜猜看，这六首歌曲的关键词都对应了哪位P主老师吧？\n创作征集大赛即将启幕，更多关注活动的详细资讯，请持续关注天依吧！[洛天依·天星问动态_求善待]\n#洛天依# #闪耀的Producer#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "⚡2025洛天依大型原创音乐征集活动\n——闪耀的Producer 即将开启！⚡\n六位闪耀发起人的特邀作品歌曲追更日历来啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_好耶]",
+        "package_id": "7618",
+        "emoji_id": "103412",
+        "name": "好耶",
+        "url": "https://i0.hdslb.com/bfs/garb/b919fc4b96651b8c8a64b97d22d6825462f5b75d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n大家来一起猜猜看，这六首歌曲的关键词都对应了哪位P主老师吧？\n创作征集大赛即将启幕，更多关注活动的详细资讯，请持续关注天依吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_求善待]",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "name": "求善待",
+        "url": "https://i0.hdslb.com/bfs/garb/141ee55afb72f66c97dab25514190936c5c96c36.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-20_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/169a84844e234cd993546aaffad19de036081646.png",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 4898.3779296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/好耶.gif",
+        "package_id": "7618",
+        "emoji_id": "103412",
+        "text": "[洛天依·天星问动态_好耶]"
+      },
+      {
+        "file": "../../_assets/emojis/7618/求善待.gif",
+        "package_id": "7618",
+        "emoji_id": "103429",
+        "text": "[洛天依·天星问动态_求善待]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5018,
+    "comment": 277,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

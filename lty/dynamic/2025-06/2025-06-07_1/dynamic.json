@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1075590438064226359",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1075590438064226359",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月7日",
+    "pub_ts": 1749268814,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创】code：TY712",
+      "desc": "灾变后被遗弃的TY712型歌舞机器人，仍在每天执行预定的歌舞程序，她会为自己搭建简陋舞台，拾捡废弃物修补随时间风化的礼服。她也会时常眺望天际，好像在等待什么归来……\n\n唱：洛天依\n词/曲：COP\n曲绘/视频：hisa镜\n特别感谢：镜面不反射\n\n1:49-2:05改编自莫扎特《安魂曲》的Lacrimosa（落泪之日）章节",
+      "jump_url": "https://www.bilibili.com/video/BV16ATuzoErT",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/dc67ee79e23a42fe27151e7ec1a85b77ffe819fc.jpg",
+      "cover_file": "../../_assets/covers/2025-06-07_1.jpg",
+      "bvid": "BV16ATuzoErT",
+      "extra": {
+        "type": 1,
+        "bvid": "BV16ATuzoErT",
+        "aid": "114636267459168",
+        "cover": "http://i2.hdslb.com/bfs/archive/dc67ee79e23a42fe27151e7ec1a85b77ffe819fc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV16ATuzoErT",
+        "stat": {
+          "danmaku": "1204",
+          "play": "196.7万",
+          "vt": ""
+        },
+        "duration_text": "03:35",
+        "title": "【洛天依原创】code：TY712",
+        "desc": "灾变后被遗弃的TY712型歌舞机器人，仍在每天执行预定的歌舞程序，她会为自己搭建简陋舞台，拾捡废弃物修补随时间风化的礼服。她也会时常眺望天际，好像在等待什么归来……\n\n唱：洛天依\n词/曲：COP\n曲绘/视频：hisa镜\n特别感谢：镜面不反射\n\n1:49-2:05改编自莫扎特《安魂曲》的Lacrimosa（落泪之日）章节",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 53147,
+    "comment": 3311,
+    "forward": 17
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:30:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

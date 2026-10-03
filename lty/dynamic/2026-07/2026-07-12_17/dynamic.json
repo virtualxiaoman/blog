@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224150728321269764",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224150728321269764",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783858202,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“天大地大 任我出发 随风去啊”《风之子》洛天依14周年生日会",
+      "desc": "我们天生都是风的孩子，用奔跑记下世界的样子\n不管世事变化，我们会永远拥抱彼此，用勇敢的心追逐下一个开始\n\n作曲：瞿子千\n编曲：瞿子千\n作词：温莨\n调教：哈士奇P\n原PV：BV1kfjR6uEye",
+      "jump_url": "https://www.bilibili.com/video/BV1cMNg6jERG",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/fce82bc80fa4ac63017016531975df5804e0154a.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_13.jpg",
+      "bvid": "BV1cMNg6jERG",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1cMNg6jERG",
+        "aid": "116906258402281",
+        "cover": "http://i1.hdslb.com/bfs/archive/fce82bc80fa4ac63017016531975df5804e0154a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1cMNg6jERG",
+        "stat": {
+          "danmaku": "386",
+          "play": "46.6万",
+          "vt": ""
+        },
+        "duration_text": "03:15",
+        "title": "“天大地大 任我出发 随风去啊”《风之子》洛天依14周年生日会",
+        "desc": "我们天生都是风的孩子，用奔跑记下世界的样子\n不管世事变化，我们会永远拥抱彼此，用勇敢的心追逐下一个开始\n\n作曲：瞿子千\n编曲：瞿子千\n作词：温莨\n调教：哈士奇P\n原PV：BV1kfjR6uEye",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36206,
+    "comment": 610,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

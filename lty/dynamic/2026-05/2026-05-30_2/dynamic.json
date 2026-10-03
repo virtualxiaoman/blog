@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1208160685363560581",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1208160685363560581",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月30日",
+    "pub_ts": 1780135230,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "寨子醒了｜天依游学记广西三月三纪录片",
+      "desc": "有些声音，不需要被记住名字。\n它们会顺着山风，被一代代人重新唱起。\n\n广西三月三的动人，从来不只是热闹。铜鼓、绣球、壮锦、歌圩，人们以歌相认，以舞传情，把那些难以言说的爱意、勇气与思念，都留在一年一度的相聚里。\n\n而刘三姐留下的，也不只是传说。她让山歌成为了广西人与世界对话的方式，也让那些流淌在山水之间的民族记忆，直到今天依然鲜活明亮。\n\n今年的三月三已经结束，但那一刻的热烈，还停留在天依的心里。\n\n出品：Vsinger\n监制：林星捷、强者的爸爸\n策划：CCCC\n制作公司：北京言态文化传播有限公司\n导演：",
+      "jump_url": "https://www.bilibili.com/video/BV1jSVG6vEnq",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/9a226b70f15864a23175abce910a2841a3208ce9.jpg",
+      "cover_file": "../../_assets/covers/2026-05-30_1.jpg",
+      "bvid": "BV1jSVG6vEnq",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1jSVG6vEnq",
+        "aid": "116662284193703",
+        "cover": "http://i0.hdslb.com/bfs/archive/9a226b70f15864a23175abce910a2841a3208ce9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1jSVG6vEnq",
+        "stat": {
+          "danmaku": "210",
+          "play": "22.1万",
+          "vt": ""
+        },
+        "duration_text": "03:29",
+        "title": "寨子醒了｜天依游学记广西三月三纪录片",
+        "desc": "有些声音，不需要被记住名字。\n它们会顺着山风，被一代代人重新唱起。\n\n广西三月三的动人，从来不只是热闹。铜鼓、绣球、壮锦、歌圩，人们以歌相认，以舞传情，把那些难以言说的爱意、勇气与思念，都留在一年一度的相聚里。\n\n而刘三姐留下的，也不只是传说。她让山歌成为了广西人与世界对话的方式，也让那些流淌在山水之间的民族记忆，直到今天依然鲜活明亮。\n\n今年的三月三已经结束，但那一刻的热烈，还停留在天依的心里。\n\n出品：Vsinger\n监制：林星捷、强者的爸爸\n策划：CCCC\n制作公司：北京言态文化传播有限公司\n导演：",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21648,
+    "comment": 759,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:22:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "846301577471852545",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/846301577471852545",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月28日",
+    "pub_ts": 1695883341,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "活动攻略来啦！[古色花香洛天依_突然冒出]9月29日-30日下午14:00-16:00，蜜雪冰城上海田子坊主题门店还会有天依八王龙人偶出没哦！[古色花香洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "活动攻略来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_突然冒出]",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "name": "突然冒出",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ae3f32ed6678677c8c0ed3812b10b81571e0c68.png"
+      },
+      {
+        "type": "text",
+        "text": "9月29日-30日下午14:00-16:00，蜜雪冰城上海田子坊主题门店还会有天依八王龙人偶出没哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/突然冒出.png",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "text": "[古色花香洛天依_突然冒出]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4051,
+    "comment": 270,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 846285041820500024,
+    "orig_mid": 236178045,
+    "deleted": false,
+    "archive_dir": "../../../236178045/2023-09/2023-09-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

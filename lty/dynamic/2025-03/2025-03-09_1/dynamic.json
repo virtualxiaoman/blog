@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1042192793889407059",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1042192793889407059",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月9日",
+    "pub_ts": 1741492819,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "意笃情深，一纸聘书相约为誓，哪怕世间荒芜，愿为所爱引路",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "意笃情深，一纸聘书相约为誓，哪怕世间荒芜，愿为所爱引路"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“可是天意总将 有情人放逐”洛天依原创曲《聘书》【歌行黄梅戏篇·天仙配】",
+      "desc": "“爱是跨过山重水复，天上地下唯一的脚步”\n以“爱”为题，以“情”为引，为大家带来\n【天依游学记·歌行戏曲季】黄梅戏篇原创单曲《聘书》\n意笃情深，一纸聘书相约为誓，哪怕世间荒芜，愿为所爱引路\n\n演唱：洛天依\n制作人：瞿子千\n作曲：瞿子千\n作词：温莨\n编曲：刘少卿\n调校：哈士奇P\n混音&母带工程师：刘振东\n戏曲支持：梁歆艺\n画师：兔扎特 苍辰 祢尔MERE\nPV：YH_Studio\n音乐监制：林星捷/TENKO\n出品：Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1PP9CYBEg3",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/282ded18c7cfc631eda303d861744dac92f32505.jpg",
+      "cover_file": "../../_assets/covers/2025-03-09_1.jpg",
+      "bvid": "BV1PP9CYBEg3",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1PP9CYBEg3",
+        "aid": "114119210437372",
+        "cover": "http://i1.hdslb.com/bfs/archive/282ded18c7cfc631eda303d861744dac92f32505.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1PP9CYBEg3",
+        "stat": {
+          "danmaku": "4887",
+          "play": "124万",
+          "vt": ""
+        },
+        "duration_text": "04:10",
+        "title": "“可是天意总将 有情人放逐”洛天依原创曲《聘书》【歌行黄梅戏篇·天仙配】",
+        "desc": "“爱是跨过山重水复，天上地下唯一的脚步”\n以“爱”为题，以“情”为引，为大家带来\n【天依游学记·歌行戏曲季】黄梅戏篇原创单曲《聘书》\n意笃情深，一纸聘书相约为誓，哪怕世间荒芜，愿为所爱引路\n\n演唱：洛天依\n制作人：瞿子千\n作曲：瞿子千\n作词：温莨\n编曲：刘少卿\n调校：哈士奇P\n混音&母带工程师：刘振东\n戏曲支持：梁歆艺\n画师：兔扎特 苍辰 祢尔MERE\nPV：YH_Studio\n音乐监制：林星捷/TENKO\n出品：Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 63140,
+    "comment": 5400,
+    "forward": 700
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

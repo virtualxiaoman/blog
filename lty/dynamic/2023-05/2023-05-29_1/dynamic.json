@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "801040568085905440",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/801040568085905440",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月29日",
+    "pub_ts": 1685345191,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "珍宝珠#美乐笛依哈哈哈哈哈# 报！@珍宝珠-ChupaChups 「美乐笛依哈哈哈哈哈官」头衔接收完毕，吹响珍宝珠美乐笛音乐棒棒糖，快乐的讯息飞速传递，准备好一起听单曲，一起依哈哈哈哈哈了吗？更多惊喜活动loading中……",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "珍宝珠"
+      },
+      {
+        "type": "topic",
+        "text": "#美乐笛依哈哈哈哈哈#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%B9%90%E7%AC%9B%E4%BE%9D%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88"
+      },
+      {
+        "type": "text",
+        "text": " 报！"
+      },
+      {
+        "type": "mention",
+        "text": "@珍宝珠-ChupaChups",
+        "mid": 30281306,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 「美乐笛依哈哈哈哈哈官」头衔接收完毕，吹响珍宝珠美乐笛音乐棒棒糖，快乐的讯息飞速传递，准备好一起听单曲，一起依哈哈哈哈哈了吗？更多惊喜活动loading中……"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5198,
+    "comment": 159,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 801035448490131458,
+    "orig_mid": 30281306,
+    "deleted": false,
+    "archive_dir": "../../../30281306/2023-05/2023-05-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

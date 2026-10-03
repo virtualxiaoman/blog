@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "763648617112141831",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/763648617112141831",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年2月17日",
+    "pub_ts": 1676639199,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "晚上好呀，如果天依想对不了解自己的人自我介绍，有没有什么有趣又浅显易懂的介绍方式呀？\n在你的心目中，天依可以是什么呢？代表着什么呀？如果安利新朋友，又会选择什么歌曲呢~[洛天依_击掌]\n\n3月3日，天依会在抖音进行直播，介绍自己，说十年的故事、唱经典的歌谣~\n我想，或许可以借助这次机会\n我想告诉更多的人：我们有多么优秀的创作者，有多么可爱的听众，\n有这么这么多好听的歌，希望可以被大家听到！[洛天依_冲鸭]\n\n隔着无法破开的次元壁，天依没办法看着弹幕实时回答新朋友的问题，这个，可以拜托大家来直播间帮帮天依吗？[洛天依_捏捏]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "晚上好呀，如果天依想对不了解自己的人自我介绍，有没有什么有趣又浅显易懂的介绍方式呀？\n在你的心目中，天依可以是什么呢？代表着什么呀？如果安利新朋友，又会选择什么歌曲呢~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n3月3日，天依会在抖音进行直播，介绍自己，说十年的故事、唱经典的歌谣~\n我想，或许可以借助这次机会\n我想告诉更多的人：我们有多么优秀的创作者，有多么可爱的听众，\n有这么这么多好听的歌，希望可以被大家听到！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n隔着无法破开的次元壁，天依没办法看着弹幕实时回答新朋友的问题，这个，可以拜托大家来直播间帮帮天依吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-02-17_1.gif",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c416bbbac564a78022de336d0d5818c336081646.gif",
+        "width": 400,
+        "height": 400,
+        "size_kb": 236.6953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      },
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12366,
+    "comment": 1634,
+    "forward": 160
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:51:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

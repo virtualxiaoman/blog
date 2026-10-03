@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "922084982606790674",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/922084982606790674",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月19日",
+    "pub_ts": 1713528040,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n #代号洛天依#圣魔法师L ver. 实体交通卡预售正式开启\n转发关注天依，揪5位小伙伴送出同款交通卡1张。\n\n法杖舞动，法阵闪烁，大魔法师L降临！\n传送门：网页链接\n\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "292929",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n "
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "圣魔法师L ver. 实体交通卡预售正式开启\n转发关注天依，揪5位小伙伴送出同款交通卡1张。\n\n法杖舞动，法阵闪烁，大魔法师L降临！\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/ioaA69c"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-19_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/46ef7886f83fb27c5238b37a683bf38136081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 450.57000732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-19_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6e786c7938f6db4b77cda56e85d2ad1e36081646.jpg",
+        "width": 1280,
+        "height": 4068,
+        "size_kb": 1487.3499755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海公共交通卡 洛天依 圣魔法师ver. 交通卡",
+            "price": "¥30",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/64/2a/642a2f4bfd00458172db40a6de1debc9.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10333701&msource=cps_Mdynamic_36081646_cont-2-922084982606790674&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-04-19_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "292929"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6315,
+    "comment": 1017,
+    "forward": 5342
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

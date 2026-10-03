@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "919799209617522691",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/919799209617522691",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月13日",
+    "pub_ts": 1712995842,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#代号洛天依#\n灰发绿眸的少女如同流星般一头撞进宫殿，降落在公主面前。\n指尖触碰的瞬间，波动骤起，城邦震动。\n似乎有什么奇迹，瞬间诞生了……[代号洛天依_降落]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n灰发绿眸的少女如同流星般一头撞进宫殿，降落在公主面前。\n指尖触碰的瞬间，波动骤起，城邦震动。\n似乎有什么奇迹，瞬间诞生了……"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_降落]",
+        "package_id": "1842",
+        "emoji_id": "32137",
+        "name": "降落",
+        "url": "https://i0.hdslb.com/bfs/emote/bd5eb002028a22fa0a6f7981243b2ef598229cfb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-13_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f5dfb774064211f1af98d993df2a049236081646.jpg",
+        "width": 10000,
+        "height": 7000,
+        "size_kb": 13449.8701171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/降落.png",
+        "package_id": "1842",
+        "emoji_id": "32137",
+        "text": "[代号洛天依_降落]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9234,
+    "comment": 2177,
+    "forward": 453
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:09:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

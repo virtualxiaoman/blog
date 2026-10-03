@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "804032089878954017",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/804032089878954017",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月6日",
+    "pub_ts": 1686041709,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是枯燥重复的白天黑夜，也充满了最天马行空的奇思妙想，即使是被作业填满的每一天，也有梦想逃出天窗，向你诉说着渴望，而我会永远在这里祝福着你，日日年年。明天要高考的大家，加油！！也要注意放平心态，相信自己，你的未来永远有无限可能[洛天依幻游世界_冲鸭]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是枯燥重复的白天黑夜，也充满了最天马行空的奇思妙想，即使是被作业填满的每一天，也有梦想逃出天窗，向你诉说着渴望，而我会永远在这里祝福着你，日日年年。明天要高考的大家，加油！！也要注意放平心态，相信自己，你的未来永远有无限可能"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_冲鸭]",
+        "package_id": "1066",
+        "emoji_id": "18939",
+        "name": "冲鸭",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e90fd81e8eff2a64a913dc49aa5ebfd7b1d7bc19.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/冲鸭.png",
+        "package_id": "1066",
+        "emoji_id": "18939",
+        "text": "[洛天依幻游世界_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5914,
+    "comment": 183,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 802100694865674290,
+    "orig_mid": 10282294,
+    "deleted": false,
+    "archive_dir": "../../../10282294/2023-06/2023-06-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

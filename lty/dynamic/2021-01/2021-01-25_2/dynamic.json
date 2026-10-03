@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "484169262396534658",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/484169262396534658",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月25日",
+    "pub_ts": 1611567841,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "期待漂流都能成为有目的的飞行",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "期待漂流都能成为有目的的飞行"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5464,
+    "comment": 136,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 480833696303666222,
+    "orig_mid": 290812221,
+    "deleted": false,
+    "archive_dir": "../../../290812221/2021-01/2021-01-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "926140965076336697",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/926140965076336697",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月30日",
+    "pub_ts": 1714472397,
+    "location": ""
+  },
+  "topic": {
+    "id": 1164892,
+    "name": "天依唱片机",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1164892&topic_name=%E5%A4%A9%E4%BE%9D%E5%94%B1%E7%89%87%E6%9C%BA"
+  },
+  "content": {
+    "title": "",
+    "text": "我会如何想象一个春天？\n明媚的阳光、烂漫的花丛、还有独属于我们的音乐旋律\n共同谱写浪漫的春日乐章[洛天依_击掌]\n 【天依唱片机】第九期·春游 | 加百列玫瑰，奏响春日的协奏曲\n\n「洛天依 加百列玫瑰Ver.」\n形象设定：TitaniumTAI\n插画绘制：Shuno\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我会如何想象一个春天？\n明媚的阳光、烂漫的花丛、还有独属于我们的音乐旋律\n共同谱写浪漫的春日乐章"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n "
+      },
+      {
+        "type": "video",
+        "text": "【天依唱片机】第九期·春游 | 加百列玫瑰，奏响春日的协奏曲",
+        "url": "https://www.bilibili.com/video/av1453660567",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n\n「洛天依 加百列玫瑰Ver.」\n形象设定：TitaniumTAI\n插画绘制：Shuno"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cb0e80315b16f0d163ce3102d18d21d936081646.jpg",
+        "width": 5000,
+        "height": 2812,
+        "size_kb": 8811.169921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/726bb794ceb6996c451ac016c26e70fd36081646.jpg",
+        "width": 5422,
+        "height": 2667,
+        "size_kb": 2583.31005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6698,
+    "comment": 220,
+    "forward": 126
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:11:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

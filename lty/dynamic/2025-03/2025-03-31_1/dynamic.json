@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "1050477970455527456",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1050477970455527456",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月31日",
+    "pub_ts": 1743421862,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@只想静静当一名帅哥@倥絔格中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@只想静静当一名帅哥",
+        "mid": 1476576041,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@倥絔格",
+        "mid": 189161557,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3783,
+    "comment": 126,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 1030810726828081175,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-02/2025-02-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:28:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

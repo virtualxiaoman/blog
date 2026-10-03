@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "976639266607071249",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/976639266607071249",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月13日",
+    "pub_ts": 1726229949,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“霓裳仙子，盈盈步月。”洛天依 <霓裳步月Ver.> 1/7等比例手办预售即将开启～[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“霓裳仙子，盈盈步月。”洛天依 <霓裳步月Ver.> 1/7等比例手办预售即将开启～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3655,
+    "comment": 109,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 976603152183722000,
+    "orig_mid": 430351780,
+    "deleted": false,
+    "archive_dir": "../../../430351780/2024-09/2024-09-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:19:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

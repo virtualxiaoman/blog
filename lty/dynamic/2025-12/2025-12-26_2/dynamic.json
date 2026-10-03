@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1150657928020099124",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1150657928020099124",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月26日",
+    "pub_ts": 1766746826,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "饭饭！饿饿！开始Rap！【洛天依×黄子弘凡跨晚花絮】",
+      "desc": "正式官宣天依的跨晚演出嘉宾——\n铛铛铛！就是黄子弘凡老师啦~\n之前，黄子老师其实就多次演唱过天依的《歌行四方》\n这次，终于有机会在同一个舞台上一起唱歌啦！\n12月31日晚19:30，和我们一起，唱四方，吃四方，尝遍中华美食吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1inBeBnErV",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/2e7f8ab2c390824cff72923a37457c02e10b4c03.jpg",
+      "cover_file": "../../_assets/covers/2025-12-26_1.jpg",
+      "bvid": "BV1inBeBnErV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1inBeBnErV",
+        "aid": "115785305423890",
+        "cover": "http://i2.hdslb.com/bfs/archive/2e7f8ab2c390824cff72923a37457c02e10b4c03.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1inBeBnErV",
+        "stat": {
+          "danmaku": "279",
+          "play": "17.5万",
+          "vt": ""
+        },
+        "duration_text": "02:12",
+        "title": "饭饭！饿饿！开始Rap！【洛天依×黄子弘凡跨晚花絮】",
+        "desc": "正式官宣天依的跨晚演出嘉宾——\n铛铛铛！就是黄子弘凡老师啦~\n之前，黄子老师其实就多次演唱过天依的《歌行四方》\n这次，终于有机会在同一个舞台上一起唱歌啦！\n12月31日晚19:30，和我们一起，唱四方，吃四方，尝遍中华美食吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21269,
+    "comment": 876,
+    "forward": 92
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:43:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

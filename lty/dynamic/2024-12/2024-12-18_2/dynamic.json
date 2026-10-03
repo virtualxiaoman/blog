@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1012227794857361512",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1012227794857361512",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月18日",
+    "pub_ts": 1734516049,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "小 天 依 唱 大 戏 ٩(๑>◡<๑)۶ ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小 天 依 唱 大 戏 ٩(๑>◡<๑)۶ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "小 天 依 唱 大 戏",
+      "desc": "大家最近是不是已经在期待天依的游学成果啦？今天先来给大家小露一手٩(๑>◡<๑)۶ \n距离本次游学主题曲发布还有不到48小时，大家不要忘记按时来观看喔~",
+      "jump_url": "https://www.bilibili.com/video/BV1CvrfYEExy",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/3be3933e1086ed4ae52e2adab0ca3a0d4070af3b.jpg",
+      "cover_file": "../../_assets/covers/2024-12-18_1.jpg",
+      "bvid": "BV1CvrfYEExy",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1CvrfYEExy",
+        "aid": "113672701608342",
+        "cover": "http://i2.hdslb.com/bfs/archive/3be3933e1086ed4ae52e2adab0ca3a0d4070af3b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1CvrfYEExy",
+        "stat": {
+          "danmaku": "536",
+          "play": "63.4万",
+          "vt": ""
+        },
+        "duration_text": "00:51",
+        "title": "小 天 依 唱 大 戏",
+        "desc": "大家最近是不是已经在期待天依的游学成果啦？今天先来给大家小露一手٩(๑>◡<๑)۶ \n距离本次游学主题曲发布还有不到48小时，大家不要忘记按时来观看喔~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30460,
+    "comment": 975,
+    "forward": 191
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

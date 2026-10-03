@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "276390237949237178",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/276390237949237178",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年7月15日",
+    "pub_ts": 1563190517,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家要好好准备哟(=・ω・=)//@大家的音乐姬:“初”心“依”然！下周五的#BML2019#VR上，#初音未来#和#洛天依#将历史性同台！~你们准备好了么？#VOCALOID##原创歌曲#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家要好好准备哟(=・ω・=)//"
+      },
+      {
+        "type": "mention",
+        "text": "@大家的音乐姬",
+        "mid": 32708543,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":“初”心“依”然！下周五的"
+      },
+      {
+        "type": "topic",
+        "text": "#BML2019#",
+        "url": "https://search.bilibili.com/all?keyword=BML2019"
+      },
+      {
+        "type": "text",
+        "text": "VR上，"
+      },
+      {
+        "type": "topic",
+        "text": "#初音未来#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5"
+      },
+      {
+        "type": "text",
+        "text": "和"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "将历史性同台！~你们准备好了么？"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#原创歌曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6635,
+    "comment": 325,
+    "forward": 67
+  },
+  "forward": {
+    "orig_id": 275979252526881425,
+    "orig_mid": 12481783,
+    "deleted": false,
+    "archive_dir": "../../../12481783/2019-07/2019-07-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:21:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

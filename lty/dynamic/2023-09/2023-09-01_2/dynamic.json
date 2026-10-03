@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "836240526373027974",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/836240526373027974",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月1日",
+    "pub_ts": 1693540820,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "循声而行，自由而歌，岁月迢迢，声声不息。\n用天依的歌声与所有音乐美好相逢，原来，这就是属于我的《歌行》。\n谨以此曲，献给那些缤纷多彩的民族瑰宝。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "循声而行，自由而歌，岁月迢迢，声声不息。\n用天依的歌声与所有音乐美好相逢，原来，这就是属于我的《歌行》。\n谨以此曲，献给那些缤纷多彩的民族瑰宝。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐",
+      "desc": "走过千山万水，感受了自然的音律、艺术的缘起，马头琴、呼麦、冬不拉、热瓦普、藏戏、藏鼓、新疆手鼓......都蕴藏着他们对生活最初的热爱与向往。\n\n去发现，去感受，去热爱，去继承，去到天南地北的任何地方，自由歌唱。\n\n循声而行，自由而歌，岁月迢迢，声声不息。\n用天依的歌声与所有音乐美好相逢，原来，这就是属于我的《歌行》。\n\n谨以此曲，献给那些缤纷多彩的民族瑰宝。\n\n出品：Vsinger",
+      "jump_url": "https://www.bilibili.com/video/BV1Yp4y1j7jX",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/87278a452e2d7f379de3664e9bdd6b5be6d72f85.jpg",
+      "cover_file": "../../_assets/covers/2023-09-01_1.jpg",
+      "bvid": "BV1Yp4y1j7jX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Yp4y1j7jX",
+        "aid": "957890888",
+        "cover": "http://i1.hdslb.com/bfs/archive/87278a452e2d7f379de3664e9bdd6b5be6d72f85.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Yp4y1j7jX",
+        "stat": {
+          "danmaku": "6597",
+          "play": "512.9万",
+          "vt": ""
+        },
+        "duration_text": "03:41",
+        "title": "【洛天依游学记原创曲】歌行四方 | AI歌手X非遗音乐",
+        "desc": "走过千山万水，感受了自然的音律、艺术的缘起，马头琴、呼麦、冬不拉、热瓦普、藏戏、藏鼓、新疆手鼓......都蕴藏着他们对生活最初的热爱与向往。\n\n去发现，去感受，去热爱，去继承，去到天南地北的任何地方，自由歌唱。\n\n循声而行，自由而歌，岁月迢迢，声声不息。\n用天依的歌声与所有音乐美好相逢，原来，这就是属于我的《歌行》。\n\n谨以此曲，献给那些缤纷多彩的民族瑰宝。\n\n出品：Vsinger",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 295666,
+    "comment": 7361,
+    "forward": 3066
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

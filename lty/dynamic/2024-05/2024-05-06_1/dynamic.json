@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "928408076422217816",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/928408076422217816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月6日",
+    "pub_ts": 1715000250,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "被思绪浸泡的旋律，鼓动着，跳跃着，渴望谁驻足聆听[洛天依蝶变_轻唱]好有情绪感染力的一首歌曲，大家听听呀[洛天依·夜航星_崇拜]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "被思绪浸泡的旋律，鼓动着，跳跃着，渴望谁驻足聆听"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "好有情绪感染力的一首歌曲，大家听听呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      },
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4916,
+    "comment": 181,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 926403834250526777,
+    "orig_mid": 7045677,
+    "deleted": false,
+    "archive_dir": "../../../7045677/2024-05/2024-05-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

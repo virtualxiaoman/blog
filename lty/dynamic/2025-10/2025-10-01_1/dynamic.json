@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "1118720997883641862",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1118720997883641862",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月1日",
+    "pub_ts": 1759310930,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "今天是2025年10月1日，也是我们相遇的第?天呢?\n天依的十月壁纸来啦，一起迈入崭新的一月吧!\n大家国庆快乐！会不会带天依出去玩呀？[逆转童话动态_好吃]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天是2025年10月1日，也是我们相遇的第?天呢?\n天依的十月壁纸来啦，一起迈入崭新的一月吧!\n大家国庆快乐！会不会带天依出去玩呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-10-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fca41d002efde7cbe5c68f357ce6842d36081646.jpg",
+        "width": 2560,
+        "height": 1440,
+        "size_kb": 3887.84765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-10-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6598880cbdd7ec485567fbee7a63089436081646.jpg",
+        "width": 750,
+        "height": 1468,
+        "size_kb": 825.44140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7148,
+    "comment": 488,
+    "forward": 94
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

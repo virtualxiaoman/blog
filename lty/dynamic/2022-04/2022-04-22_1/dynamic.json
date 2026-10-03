@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "id": "651917357956988936",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/651917357956988936",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月22日",
+    "pub_ts": 1650624738,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#【新品预售即将开启】 多款新品周边来袭，快来看看有你喜欢的吗？[洛天依9th_好康！]  ※【预售时间】 2022年4月30日起  ※【预售新品】 「月华流转」系列周边 「香罗叠锦」端午礼盒  「梦里啥都有」系列周边  ※【购买渠道】 -上海禾念淘宝店 -哔哩哔哩会员购:（活动页面将会于23日0点公开）  丰富的周边款式，全新的插画造型，有大家喜爱的徽章、色纸、挂件，也有实用型的吸管杯、充电宝、帆布包、卡套~这次的端午礼盒，首次尝试了纸书灯周边哦！希望大家喜欢呀！[洛天依·夜航星_好康]  更多详细情报，请戳长图查看↓ ↓ ↓\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "【新品预售即将开启】 多款新品周边来袭，快来看看有你喜欢的吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "  ※【预售时间】 2022年4月30日起  ※【预售新品】 「月华流转」系列周边 「香罗叠锦」端午礼盒  「梦里啥都有」系列周边  ※【购买渠道】 -上海禾念淘宝店 -哔哩哔哩会员购:（活动页面将会于23日0点公开）  丰富的周边款式，全新的插画造型，有大家喜爱的徽章、色纸、挂件，也有实用型的吸管杯、充电宝、帆布包、卡套~这次的端午礼盒，首次尝试了纸书灯周边哦！希望大家喜欢呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      },
+      {
+        "type": "text",
+        "text": "  更多详细情报，请戳长图查看↓ ↓ ↓"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-22_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2f01c65156f5c27521085304234bc1e49ef81849.jpg",
+        "width": 3334,
+        "height": 3334,
+        "size_kb": 1628.4599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-04-22_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/8702362b06049e7cb9f87f7641a98c8a4616b692.jpg",
+        "width": 3334,
+        "height": 3334,
+        "size_kb": 2159.9599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-04-22_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/78cce908ce61850530345acf01af98ea6ea98b46.jpg",
+        "width": 3334,
+        "height": 3334,
+        "size_kb": 2491.320068359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-04-22_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0adf70f89b8284910b5ecbc261a31ee48171cd6c.jpg",
+        "width": 3334,
+        "height": 3334,
+        "size_kb": 1638.0799560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-04-22_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/9e797211e249cda1e3365ca8c7adcbbe6576424a.jpg",
+        "width": 3334,
+        "height": 3334,
+        "size_kb": 1754.77001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-04-22_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3884f0c95bbec0c6471e3177af642c4c98fdbb8a.jpg",
+        "width": 3334,
+        "height": 3334,
+        "size_kb": 2290.780029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-04-22_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fdbdc9da0d1a3c13af4d2788e1745cfa370051d1.jpg",
+        "width": 3334,
+        "height": 28521,
+        "size_kb": 13532.73046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-04-22_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/daf3fb394147f16f508575f52f60cbfaf61bbdc4.jpg",
+        "width": 1000,
+        "height": 10760,
+        "size_kb": 2794.659912109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-04-22_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/15c190601306e5ed154d501991c0b7df06742df5.jpg",
+        "width": 3334,
+        "height": 13204,
+        "size_kb": 5118.85986328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5996,
+    "comment": 233,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:45:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

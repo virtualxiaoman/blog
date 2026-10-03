@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1185905981605806098",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1185905981605806098",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月31日",
+    "pub_ts": 1774953653,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天送鼠标！从天依这条的转发里揪一个送同款天依联名鼠标一个[洛天依国乐季动态表情包_wink]最近老v也收到了带的小朋友送的鼠标作为礼物，可开心啦！天依要么也送某个最爱打游戏的小朋友一个好啦~[洛天依国乐季动态表情包_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天送鼠标！从天依这条的转发里揪一个送同款天依联名鼠标一个"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "最近老v也收到了带的小朋友送的鼠标作为礼物，可开心啦！天依要么也送某个最爱打游戏的小朋友一个好啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_爱你]",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/86c3cdee5c02e524ca53394046c9eb45c2a06a7b.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/爱你.gif",
+        "package_id": "9546",
+        "emoji_id": "134435",
+        "text": "[洛天依国乐季动态表情包_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5287,
+    "comment": 1170,
+    "forward": 2914
+  },
+  "forward": {
+    "orig_id": 1185861511512326164,
+    "orig_mid": 3493259242375305,
+    "deleted": false,
+    "archive_dir": "../../../3493259242375305/2026-03/2026-03-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:20:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

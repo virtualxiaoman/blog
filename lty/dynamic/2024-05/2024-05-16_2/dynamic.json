@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "932104101965070342",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/932104101965070342",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月16日",
+    "pub_ts": 1715860798,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发此条并关注天依，揪2位小伙伴送出同款玩偶1个！[洛天依_礼物]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发此条并关注天依，揪2位小伙伴送出同款玩偶1个！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4106,
+    "comment": 997,
+    "forward": 2337
+  },
+  "forward": {
+    "orig_id": 932098733232881688,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-05-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

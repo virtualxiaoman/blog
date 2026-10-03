@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1191092047202746392",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1191092047202746392",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月14日",
+    "pub_ts": 1776161128,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "墨镜一戴，谁都不爱",
+      "desc": "咚咚咚咚，开门，洛天依！\nBGM：所长sama",
+      "jump_url": "https://www.bilibili.com/video/BV14sQgBqEUv",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d83160991880c6b5a99ba3f47bcc3047181781bd.jpg",
+      "cover_file": "../../_assets/covers/2026-04-14_1.jpg",
+      "bvid": "BV14sQgBqEUv",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14sQgBqEUv",
+        "aid": "116402488869387",
+        "cover": "http://i0.hdslb.com/bfs/archive/d83160991880c6b5a99ba3f47bcc3047181781bd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14sQgBqEUv",
+        "stat": {
+          "danmaku": "150",
+          "play": "17.6万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "墨镜一戴，谁都不爱",
+        "desc": "咚咚咚咚，开门，洛天依！\nBGM：所长sama",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 49782,
+    "comment": 1299,
+    "forward": 124
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

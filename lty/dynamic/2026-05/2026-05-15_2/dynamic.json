@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "1202600446444699680",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1202600446444699680",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月15日",
+    "pub_ts": 1778840636,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「鼓乐」主题单曲《破天光》5月22日即将擂鼓\n\n“长安鼓起，万邦闻声。”\n夜深月明，鼓钟铿锵，铁衣映霜，旌旂猎猎。\n有人循丝路而来，有人向盛世而歌——\n千年之后，那属于大唐的鼓声，依旧震荡人心！[乐鸣东方动态表情包_干杯]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「鼓乐」主题单曲《破天光》5月22日即将擂鼓\n\n“长安鼓起，万邦闻声。”\n夜深月明，鼓钟铿锵，铁衣映霜，旌旂猎猎。\n有人循丝路而来，有人向盛世而歌——\n千年之后，那属于大唐的鼓声，依旧震荡人心！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-05-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1bfacd11a6fcb01ce4d89c62fd45eef636081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 3578.610107421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-05-15_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/eda21e3bf07f19cf7f8e723a54f62dd536081646.jpg",
+        "width": 2500,
+        "height": 11098,
+        "size_kb": 4036.719970703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6611,
+    "comment": 424,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:21:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

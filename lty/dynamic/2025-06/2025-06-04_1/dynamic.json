@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1074573140733984773",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1074573140733984773",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月4日",
+    "pub_ts": 1749031956,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "亲爱的客人，要不要来一份蜜瓜苏打呢？[洛天依-潮声回响_祝贺]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "亲爱的客人，要不要来一份蜜瓜苏打呢？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5315,
+    "comment": 139,
+    "forward": 36
+  },
+  "forward": {
+    "orig_id": 1071972331876777984,
+    "orig_mid": 596275582,
+    "deleted": false,
+    "archive_dir": "../../../596275582/2025-05/2025-05-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:30:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

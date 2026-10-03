@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1233707713443135488",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1233707713443135488",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月7日",
+    "pub_ts": 1786083361,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好听好听~东方瓷韵之美，值得流传到更远的地方，天依和青花一起恭喜景德镇手工瓷业遗存申遗成功呀！[洛天依国乐季动态表情包_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好听好听~东方瓷韵之美，值得流传到更远的地方，天依和青花一起恭喜景德镇手工瓷业遗存申遗成功呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4606,
+    "comment": 86,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 1229352410466484231,
+    "orig_mid": 3546930539923798,
+    "deleted": false,
+    "archive_dir": "../../../3546930539923798/2026-07/2026-07-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:35:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1212892489492463639",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1212892489492463639",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月12日",
+    "pub_ts": 1781236939,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一键打开天依的蓝色衣柜！前方准备前往「纯蓝幻乐」",
+      "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·北京站\n将于6月12日 19:00今晚正式开票啦！\n🎶传送门：https://show.bilibili.com/platform/detail.html?id=1002171\n🎤演出时间&地点\n7月18日19:12 北京·国家体育馆\n🎫即将开售\n6月12日 18:00 会员购开启优先购票\n6月12日 19:00 会员购等正式全面开票\n🎶巡演城市\n7.18 北京/7.25 杭州/8.1 成都/8.15 上海/8.22 长沙/8.29 广州\n \n模板参考：陶阿",
+      "jump_url": "https://www.bilibili.com/video/BV1WGEy6mE28",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/04af9ce70448cca90c77a35b991f3deb93a1089b.jpg",
+      "cover_file": "../../_assets/covers/2026-06-12_1.jpg",
+      "bvid": "BV1WGEy6mE28",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1WGEy6mE28",
+        "aid": "116735130733184",
+        "cover": "http://i1.hdslb.com/bfs/archive/04af9ce70448cca90c77a35b991f3deb93a1089b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1WGEy6mE28",
+        "stat": {
+          "danmaku": "62",
+          "play": "8.6万",
+          "vt": ""
+        },
+        "duration_text": "00:15",
+        "title": "一键打开天依的蓝色衣柜！前方准备前往「纯蓝幻乐」",
+        "desc": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·北京站\n将于6月12日 19:00今晚正式开票啦！\n🎶传送门：https://show.bilibili.com/platform/detail.html?id=1002171\n🎤演出时间&地点\n7月18日19:12 北京·国家体育馆\n🎫即将开售\n6月12日 18:00 会员购开启优先购票\n6月12日 19:00 会员购等正式全面开票\n🎶巡演城市\n7.18 北京/7.25 杭州/8.1 成都/8.15 上海/8.22 长沙/8.29 广州\n \n模板参考：陶阿",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 20798,
+    "comment": 470,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:24:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

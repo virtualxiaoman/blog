@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1061915601539170342",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1061915601539170342",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月1日",
+    "pub_ts": 1746084893,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "典藏卡【天垂万象】开启兑换～可以兑换的小伙伴不要忘记啦！[洛天依·天星问动态_惬意]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "典藏卡【天垂万象】开启兑换～可以兑换的小伙伴不要忘记啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_惬意]",
+        "package_id": "7618",
+        "emoji_id": "103424",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/75743a182d02a34db96cb18d909285bf22e1236e.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/惬意.gif",
+        "package_id": "7618",
+        "emoji_id": "103424",
+        "text": "[洛天依·天星问动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3352,
+    "comment": 46,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 1061489635277930502,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2025-04/2025-04-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "955544336916807744",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/955544336916807744",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月19日",
+    "pub_ts": 1721318403,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@滚泽不是帕鲁@9900W@燕回春野不见君等88位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@滚泽不是帕鲁",
+        "mid": 519894628,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@9900W",
+        "mid": 315127644,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@燕回春野不见君",
+        "mid": 285779832,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等88位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3251,
+    "comment": 113,
+    "forward": 10
+  },
+  "forward": {
+    "orig_id": 950659318418505765,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-07-05_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

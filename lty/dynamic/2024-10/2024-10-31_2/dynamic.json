@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "id": "994403938279096327",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/994403938279096327",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1730366109,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖​\n洛天依X @上海都市旅游卡 首款V3公式毛绒异形交通卡 上架啦！\n转发关注天依，揪2位小伙伴送出同款毛绒交通卡一份~ \n\n是毛茸茸的，可以捧在手心的可爱哦！\n另外附赠挂扣，方便挂在你的包包上~ [歌行宇宙表情包_娃娃]\n\n全国330+城市公共交通通用，快带小天依回家吧！ [歌行宇宙表情包_喜欢洛天依]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "325561",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "​\n洛天依X "
+      },
+      {
+        "type": "mention",
+        "text": "@上海都市旅游卡 ",
+        "mid": 3537123070184212,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "首款V3公式毛绒异形交通卡 上架啦！\n转发关注天依，揪2位小伙伴送出同款毛绒交通卡一份~ \n\n是毛茸茸的，可以捧在手心的可爱哦！\n另外附赠挂扣，方便挂在你的包包上~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_娃娃]",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "name": "娃娃",
+        "url": "https://i0.hdslb.com/bfs/garb/7ad43030b3dba76a77b9c8c48a5d69b4506facea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n全国330+城市公共交通通用，快带小天依回家吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_喜欢洛天依]",
+        "package_id": "5880",
+        "emoji_id": "86894",
+        "name": "喜欢洛天依",
+        "url": "https://i0.hdslb.com/bfs/garb/aaa2555398283edc81e4d1052e40904fa56c3a14.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-31_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/541025c75ac1358e0e71bce28321d40f36081646.jpg",
+        "width": 1280,
+        "height": 12756,
+        "size_kb": 8793.9599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/娃娃.png",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "text": "[歌行宇宙表情包_娃娃]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/喜欢洛天依.png",
+        "package_id": "5880",
+        "emoji_id": "86894",
+        "text": "[歌行宇宙表情包_喜欢洛天依]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海公共交通卡 洛天依 共鸣舞台系列 毛绒交通卡",
+            "price": "¥80",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/cd/f1/cdf1b100d8c96001d64970410cb3a0d6.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10736081&msource=cps_Mdynamic_36081646_cont-2-994403938279096327&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-10-31_4.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "325561"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "222930754241891957",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/222930754241891957",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年2月21日",
+    "pub_ts": 1550743511,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依，原创《夜间出租车》",
+      "desc": "1.专辑曲第二弹。人声本家：陈乐一 av44392242 \n2.感谢Tofu哥的摄影&视频团队提供的PV。\n3.（顺便感谢TS映画协力制作的精美封面）\n4.其实有部分灵感来自于某天深夜骑自行车，但是“深夜共享单车”要么太没梗，要么梗太足。\n5.于是结合着搭出租的体验，便有了这一首歌。\n6.同样它会有一首不同风味的人声本家晚些发布。嗯，风味可以说 非 常 不 同 。\n7.本意是希望你能在单调又快节奏的城市里找到些迷之浪漫，希望你喜欢。",
+      "jump_url": "https://www.bilibili.com/video/BV1vb411Y7A6",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d58b6de2016cf0251315a4030eccbbb527301098.jpg",
+      "cover_file": "../../_assets/covers/2019-02-21_1.jpg",
+      "bvid": "BV1vb411Y7A6",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1vb411Y7A6",
+        "aid": "44255110",
+        "cover": "http://i0.hdslb.com/bfs/archive/d58b6de2016cf0251315a4030eccbbb527301098.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1vb411Y7A6",
+        "stat": {
+          "danmaku": "7404",
+          "play": "218.8万",
+          "vt": ""
+        },
+        "duration_text": "03:56",
+        "title": "洛天依，原创《夜间出租车》",
+        "desc": "1.专辑曲第二弹。人声本家：陈乐一 av44392242 \n2.感谢Tofu哥的摄影&视频团队提供的PV。\n3.（顺便感谢TS映画协力制作的精美封面）\n4.其实有部分灵感来自于某天深夜骑自行车，但是“深夜共享单车”要么太没梗，要么梗太足。\n5.于是结合着搭出租的体验，便有了这一首歌。\n6.同样它会有一首不同风味的人声本家晚些发布。嗯，风味可以说 非 常 不 同 。\n7.本意是希望你能在单调又快节奏的城市里找到些迷之浪漫，希望你喜欢。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 126135,
+    "comment": 21519,
+    "forward": 20
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

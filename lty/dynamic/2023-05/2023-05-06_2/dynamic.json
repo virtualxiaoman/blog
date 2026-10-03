@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "792529742490239217",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/792529742490239217",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月6日",
+    "pub_ts": 1683363610,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "《大地球歌厅》正式开业， everybody一起来唱~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《大地球歌厅》正式开业， everybody一起来唱~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【ilem&洛天依原创合作曲】大地球歌厅【正式开业 一起来唱！】",
+      "desc": "《大地球歌厅》\n欢迎加入我们的钻石色舞台，这一首歌，一起唱给地球听！\n\n演唱：洛天依&ilem\n词曲：ilem\n编曲：ilem\n调教：ilem\n混音：刘逸辰",
+      "jump_url": "https://www.bilibili.com/video/BV1Xs4y1377m",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/0a5af9c2b05d10865c311f3d9f0d3928af551eaa.jpg",
+      "cover_file": "../../_assets/covers/2023-05-06_1.jpg",
+      "bvid": "BV1Xs4y1377m",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Xs4y1377m",
+        "aid": "953365015",
+        "cover": "http://i1.hdslb.com/bfs/archive/0a5af9c2b05d10865c311f3d9f0d3928af551eaa.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Xs4y1377m",
+        "stat": {
+          "danmaku": "1607",
+          "play": "128.7万",
+          "vt": ""
+        },
+        "duration_text": "05:38",
+        "title": "【ilem&洛天依原创合作曲】大地球歌厅【正式开业 一起来唱！】",
+        "desc": "《大地球歌厅》\n欢迎加入我们的钻石色舞台，这一首歌，一起唱给地球听！\n\n演唱：洛天依&ilem\n词曲：ilem\n编曲：ilem\n调教：ilem\n混音：刘逸辰",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 118867,
+    "comment": 2446,
+    "forward": 304
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

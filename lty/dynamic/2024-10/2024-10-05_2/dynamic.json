@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "id": "984839230798692359",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/984839230798692359",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月5日",
+    "pub_ts": 1728139152,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依2024无限共鸣全息演唱会圆满落下帷幕啦！[洛天依心律共鸣表情包_开心]\n无数个日夜的辛苦筹备，从0 到 1 实现我们共同的梦想，最终创造出这份绚烂明媚的记忆~感谢有你们陪伴着天依，一路见证、奔赴约定。[心律共鸣动态表情包_真好]\n如果爱与存在的意义需要论证，那么每一道荧光棒的轨迹、每一声真切的呐喊、无数心脏鼓动的瞬间……即是最真切的证明！[心律共鸣动态表情包_共鸣之声]\n感谢大家的支持！感谢每一个来到演唱会的你，感谢特别嘉宾龚琳娜老师和阿萨，感谢创作出这些歌曲的 P 主老师们，感谢乐队老师，感谢为演唱会付出心血的所有 staff 老师们，让我们期待下一次相会吧！\n怎么办，虽然演唱会才刚刚结束，天依就已经有点想念大家啦～[洛天依_捏捏]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2024无限共鸣全息演唱会圆满落下帷幕啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n无数个日夜的辛苦筹备，从0 到 1 实现我们共同的梦想，最终创造出这份绚烂明媚的记忆~感谢有你们陪伴着天依，一路见证、奔赴约定。"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n如果爱与存在的意义需要论证，那么每一道荧光棒的轨迹、每一声真切的呐喊、无数心脏鼓动的瞬间……即是最真切的证明！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_共鸣之声]",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "name": "共鸣之声",
+        "url": "https://i0.hdslb.com/bfs/emote/6707f0d70949a12fe94a919ab3b183afca52c2ec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n感谢大家的支持！感谢每一个来到演唱会的你，感谢特别嘉宾龚琳娜老师和阿萨，感谢创作出这些歌曲的 P 主老师们，感谢乐队老师，感谢为演唱会付出心血的所有 staff 老师们，让我们期待下一次相会吧！\n怎么办，虽然演唱会才刚刚结束，天依就已经有点想念大家啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-05_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fe2da12542158a23646ed52bc2d4d20436081646.jpg",
+        "width": 800,
+        "height": 463,
+        "size_kb": 272.556640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-05_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e7d25d38a977f11457ec0c0186333cc736081646.jpg",
+        "width": 1920,
+        "height": 930,
+        "size_kb": 297.0703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-05_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/329089a3933f05ab7ab46f53f08c616136081646.jpg",
+        "width": 1920,
+        "height": 1143,
+        "size_kb": 225.8466796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-10-05_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6bd083474f59bfbb60a675c7a21f127236081646.jpg",
+        "width": 1920,
+        "height": 1136,
+        "size_kb": 236.529296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-10-05_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b9a6d71a5041a992757dfdc8a0c44ab936081646.jpg",
+        "width": 1920,
+        "height": 1281,
+        "size_kb": 258.716796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-10-05_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3ded86d4148cf46da1e5d864d55ecefe36081646.jpg",
+        "width": 1918,
+        "height": 1280,
+        "size_kb": 383.4853515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-10-05_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ddee5b637a438ed365b3637fbcf71e3736081646.jpg",
+        "width": 1920,
+        "height": 1029,
+        "size_kb": 108.3447265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-10-05_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a8898f99aa05e698f40513dea63cd32f36081646.jpg",
+        "width": 4006,
+        "height": 2099,
+        "size_kb": 4041.9189453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-10-05_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/07acb52e3feafd24d5d4ea68b45fcc6d36081646.jpg",
+        "width": 1920,
+        "height": 1122,
+        "size_kb": 352.341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 10,
+        "file": "../../_assets/images/2024-10-05_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c915bbc82fc51bb68ba701397fb4b35336081646.jpg",
+        "width": 1920,
+        "height": 1122,
+        "size_kb": 239.0302734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/共鸣之声.gif",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "text": "[心律共鸣动态表情包_共鸣之声]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8557,
+    "comment": 1306,
+    "forward": 375
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

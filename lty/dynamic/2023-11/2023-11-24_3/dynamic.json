@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "id": "867525643679563796",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/867525643679563796",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月24日",
+    "pub_ts": 1700824954,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖\n@bilibiliGoods 出品【Vsinger洛天依 AI·LUO 系列周边】将于11月24日 20:00开启预售\n[洛天依幻游世界_变欧皇]转发并关注，揪3位小伙伴送出【系列周边 随机新品】1份。\n\n划破宇宙的无尽黑夜，降临到你的身边。\n伴你走过的岁月点滴，命名为无限【AI&爱】的轨迹。[代号洛天依_比心]\n\n✨【Vsinger洛天依 AI·LUO 系列周边】\n※依星闪耀系列·反光长柄雨伞 大容量保温杯 反光双肩背包 金属书签\n※依点可爱系列·Q版抱枕 CUTER毛绒玩偶 mini毛绒挂件 连帽围巾 空调毯\n\n可爱与实用兼备，温暖你整个冬天~\n原画师：@水豚ideolo @江湖人称叶不修 \n产品制作方：@bilibiliGoods @BEMOE \n版权方：@vsinger团队 \n传送门：网页链接\n\n✨【预售福利】\n欧气宝箱，100%随机立减尾款\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "224573",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "mention",
+        "text": "@bilibiliGoods ",
+        "mid": 35365327,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "出品【Vsinger洛天依 AI·LUO 系列周边】将于11月24日 20:00开启预售\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_变欧皇]",
+        "package_id": "1066",
+        "emoji_id": "18931",
+        "name": "变欧皇",
+        "url": "https://i0.hdslb.com/bfs/garb/item/b19056279ed68163c6949b36a1651e14bf591f74.png"
+      },
+      {
+        "type": "text",
+        "text": "转发并关注，揪3位小伙伴送出【系列周边 随机新品】1份。\n\n划破宇宙的无尽黑夜，降临到你的身边。\n伴你走过的岁月点滴，命名为无限【AI&爱】的轨迹。"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨【Vsinger洛天依 AI·LUO 系列周边】\n※依星闪耀系列·反光长柄雨伞 大容量保温杯 反光双肩背包 金属书签\n※依点可爱系列·Q版抱枕 CUTER毛绒玩偶 mini毛绒挂件 连帽围巾 空调毯\n\n可爱与实用兼备，温暖你整个冬天~\n原画师："
+      },
+      {
+        "type": "mention",
+        "text": "@水豚ideolo ",
+        "mid": 163571,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@江湖人称叶不修 ",
+        "mid": 499052,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n产品制作方："
+      },
+      {
+        "type": "mention",
+        "text": "@bilibiliGoods ",
+        "mid": 35365327,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@BEMOE ",
+        "mid": 1779709282,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n版权方："
+      },
+      {
+        "type": "mention",
+        "text": "@vsinger团队 ",
+        "mid": 10878474,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/1xrO25jtL1.html?msource=yyqbanner_Vsinger"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨【预售福利】\n欧气宝箱，100%随机立减尾款"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-11-24_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/09afeec629e8431743021b8736c9d89936081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 93.27999877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-11-24_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/bc366257c7746c26710ba18bdfca9ad236081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 146.08999633789062,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-11-24_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/a15fa5480677e36fe0271da03081a62d36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 108.33999633789062,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-11-24_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/3e28ae7e740e3df81b81b33ab6b2503936081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 126.37999725341797,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-11-24_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/8d5b554212ffb21d65c1ca577a17dbf436081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 140.72999572753906,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-11-24_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/626bac8b84c0645a468cd02a8b8eb0f936081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 158.82000732421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-11-24_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/6100cc73b601c3b7ba64fbcc99c5b5a736081646.jpg",
+        "width": 1000,
+        "height": 16269,
+        "size_kb": 6577.0,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-11-24_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/8595b99d5cc96d6c6e1e7edb6414ef6d36081646.jpg",
+        "width": 1000,
+        "height": 14619,
+        "size_kb": 4181.0,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-11-24_10.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/a54be528fd406d49a4f8db29e6bec0f736081646.jpg",
+        "width": 1000,
+        "height": 20457,
+        "size_kb": 9812.0302734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/变欧皇.png",
+        "package_id": "1066",
+        "emoji_id": "18931",
+        "text": "[洛天依幻游世界_变欧皇]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依点可爱Q版暖手抱枕",
+            "price": "¥81",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/7d/2b/7d2bf94fd877dc4182be5205e68fe58a.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198612&msource=cps_Mdynamic_36081646_cont-2-867525643679563796&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-11-24_1.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依点可爱连帽围巾/双面空调毯",
+            "price": "¥101",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/1e/13/1e1380f98405c0435ddf59286269b63e.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198602&msource=cps_Mdynamic_36081646_cont-2-867525643679563796&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-11-24_2.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依点可爱mini毛绒挂件",
+            "price": "¥39",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/96/15/96157ac45cb1e1c6da0abbe756cc9e59.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198623&msource=cps_Mdynamic_36081646_cont-2-867525643679563796&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-11-24_3.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依星闪耀超防护反光长柄雨伞",
+            "price": "¥81",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f9/1a/f91a10d5fcec93a0200592c90b0c29dc.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198594&msource=cps_Mdynamic_36081646_cont-2-867525643679563796&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-11-24_4.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依点可爱CUTER毛绒玩偶",
+            "price": "¥79",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/31/73/31732e8a441752dd474b118f372f49ab.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198597&msource=cps_Mdynamic_36081646_cont-2-867525643679563796&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-11-24_5.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "224573"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6495,
+    "comment": 683,
+    "forward": 5763
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:02+08:00",
+    "force": false,
+    "failures": []
+  }
+}

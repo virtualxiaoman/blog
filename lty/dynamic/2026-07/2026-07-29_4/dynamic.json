@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1230425830170034243",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1230425830170034243",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月29日",
+    "pub_ts": 1785319238,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "你并不懂我的《狼狈》【洛天依纯蓝幻乐巡演杭州站限定曲】",
+      "desc": "天依很高兴可以在2026「无限共鸣・纯蓝幻乐」巡演杭州站演唱会的舞台上\n为大家带来鸽稀拉老师2021年创作的这首非常真实动人的歌曲《狼狈》\n面对生活这座庞然大物，我们总是会很狼狈，但\n「无所谓，只要够陶醉，也会变得无所谓。」\n \n作曲/作词/调校: 公兔（鸽稀拉）\n原pv BV1m44y1i7ri",
+      "jump_url": "https://www.bilibili.com/video/BV1Mg326GEnm",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6bfbc62c11f0a851490fcbf85a2d7e610589e8cc.jpg",
+      "cover_file": "../../_assets/covers/2026-07-29_1.jpg",
+      "bvid": "BV1Mg326GEnm",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Mg326GEnm",
+        "aid": "117002542779245",
+        "cover": "http://i1.hdslb.com/bfs/archive/6bfbc62c11f0a851490fcbf85a2d7e610589e8cc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Mg326GEnm",
+        "stat": {
+          "danmaku": "104",
+          "play": "6万",
+          "vt": ""
+        },
+        "duration_text": "00:36",
+        "title": "你并不懂我的《狼狈》【洛天依纯蓝幻乐巡演杭州站限定曲】",
+        "desc": "天依很高兴可以在2026「无限共鸣・纯蓝幻乐」巡演杭州站演唱会的舞台上\n为大家带来鸽稀拉老师2021年创作的这首非常真实动人的歌曲《狼狈》\n面对生活这座庞然大物，我们总是会很狼狈，但\n「无所谓，只要够陶醉，也会变得无所谓。」\n \n作曲/作词/调校: 公兔（鸽稀拉）\n原pv BV1m44y1i7ri",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 19816,
+    "comment": 384,
+    "forward": 48
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:33:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

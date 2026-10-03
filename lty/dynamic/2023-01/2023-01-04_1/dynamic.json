@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "747180187776450578",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/747180187776450578",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月4日",
+    "pub_ts": 1672804844,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "飞船上来自L星的能源石已粉碎，修好飞船的关键竟是——\nA星的冒险就到这里结束啦，本周星际旅行继续，你们想看三人小分队去到什么样的星球探险？[洛天依_冲鸭]\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "飞船上来自L星的能源石已粉碎，修好飞船的关键竟是——\nA星的冒险就到这里结束啦，本周星际旅行继续，你们想看三人小分队去到什么样的星球探险？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_冲鸭]",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/e76bf65e464b5e1e82b00b9aa498754294ecf8d7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/cfac260e42199210c0ce6145499a8fc636081646.jpg",
+        "width": 2570,
+        "height": 3640,
+        "size_kb": 5009.6474609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-01-04_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/fad55f4941babdaf58561604da6ee7dc36081646.jpg",
+        "width": 2570,
+        "height": 3640,
+        "size_kb": 4169.13671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/冲鸭.png",
+        "package_id": "340",
+        "emoji_id": "5572",
+        "text": "[洛天依_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8328,
+    "comment": 303,
+    "forward": 45
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:48:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

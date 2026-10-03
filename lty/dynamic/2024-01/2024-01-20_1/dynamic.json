@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "888409608648917008",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/888409608648917008",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月20日",
+    "pub_ts": 1705687381,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@应辰兮@暴风雨の海燕@Stardust_awa中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@应辰兮",
+        "mid": 471308289,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@暴风雨の海燕",
+        "mid": 457760662,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@Stardust_awa",
+        "mid": 526630867,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4291,
+    "comment": 71,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 878638214418530326,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-12/2023-12-24_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

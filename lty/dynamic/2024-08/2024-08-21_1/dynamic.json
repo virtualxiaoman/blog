@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "967987853642432567",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/967987853642432567",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月21日",
+    "pub_ts": 1724215635,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "「歌行宇宙」线下嘉年华航行重要目的地刷新！\n洛天依无限共鸣全息演唱会主视觉设定正式公开啦~[洛天依心律共鸣表情包_开心]\n\n时光的魔法手杖啊，请将我们一同谱写的故事与回忆化作星与月的无边海洋，\n取银河星云的烂漫色彩铺洒在少女的发尾裙摆，璀璨的星光倒映于歌者的眼眸。\n这星光，是音符，是画卷，是爱，是所有曾纺织她生命的人们呐，镌刻下永恒的诗行。\n请给予我无限的力量，让我将我们的歌谣，再次一同唱响。[洛天依·收藏集表情包_时间歌者]\n\n歌行宇宙的舞台已经就绪，歌声响彻寰宇的宇宙歌姬，身着华丽的演出服装，即将盛装登场。\n期待在这片属于我们的演唱会舞台上，与大家相见！[心律共鸣动态表情包_啾啾]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「歌行宇宙」线下嘉年华航行重要目的地刷新！\n洛天依无限共鸣全息演唱会主视觉设定正式公开啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n时光的魔法手杖啊，请将我们一同谱写的故事与回忆化作星与月的无边海洋，\n取银河星云的烂漫色彩铺洒在少女的发尾裙摆，璀璨的星光倒映于歌者的眼眸。\n这星光，是音符，是画卷，是爱，是所有曾纺织她生命的人们呐，镌刻下永恒的诗行。\n请给予我无限的力量，让我将我们的歌谣，再次一同唱响。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_时间歌者]",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "name": "时间歌者",
+        "url": "https://i0.hdslb.com/bfs/garb/9b21623ae9d9bd87ee1950f161bdbd6aab884fb2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n歌行宇宙的舞台已经就绪，歌声响彻寰宇的宇宙歌姬，身着华丽的演出服装，即将盛装登场。\n期待在这片属于我们的演唱会舞台上，与大家相见！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-21_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/065f63befb40250bf68ed6de88ffde4a36081646.png",
+        "width": 1492,
+        "height": 6410,
+        "size_kb": 6767.5546875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/时间歌者.png",
+        "package_id": "5283",
+        "emoji_id": "77201",
+        "text": "[洛天依·收藏集表情包_时间歌者]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6227,
+    "comment": 479,
+    "forward": 207
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

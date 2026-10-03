@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "id": "880143398589169704",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/880143398589169704",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月28日",
+    "pub_ts": 1703762754,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪3位小伙伴送出【洛天依随机款式挂画】1份。\n\n距离天依的#2023最美的夜跨年晚会#舞台上线倒计时3天啦！\n你的专业跨晚爆料小使者天依已上线~[洛天依蝶变_wink]\n今天为大家带来的是【演出模型-藏族】高清细节展示图。\n锦绣藏锦，精美配饰，毛茸茸的藏袍，穿上这件衣服闭上眼，仿佛就能听到雪域高原的回声——\n天依游学记藏族款盒蛋也上线啦！网页链接\n明天除了舞台爆料，天依还会有跨晚应援福利带给大家哦！请期待！[洛天依蝶变_星星眼]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪3位小伙伴送出【洛天依随机款式挂画】1份。\n\n距离天依的"
+      },
+      {
+        "type": "topic",
+        "text": "#2023最美的夜跨年晚会#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": "舞台上线倒计时3天啦！\n你的专业跨晚爆料小使者天依已上线~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n今天为大家带来的是【演出模型-藏族】高清细节展示图。\n锦绣藏锦，精美配饰，毛茸茸的藏袍，穿上这件衣服闭上眼，仿佛就能听到雪域高原的回声——\n天依游学记藏族款盒蛋也上线啦！"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/rn1BjIN"
+      },
+      {
+        "type": "text",
+        "text": "\n明天除了舞台爆料，天依还会有跨晚应援福利带给大家哦！请期待！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-28_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/5493c952878def54d16e6eb83b302afb36081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 4867.7998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-12-28_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/680f57f54bcee913139e6e7b4f51261536081646.jpg",
+        "width": 1843,
+        "height": 1843,
+        "size_kb": 437.6300048828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-12-28_3.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/be2d5b750031b2ab2e6b876f314a7fea36081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 4818.2998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-12-28_4.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/b3edc0a0459065402c612ee14eda20ec36081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 3664.330078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-12-28_5.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/c81eb61b5ce6c31eaed0a77857c0d70336081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 4869.3701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-12-28_6.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/a87b754365e0eddb6a4e0fcc972dfb8936081646.png",
+        "width": 3472,
+        "height": 3472,
+        "size_kb": 2838.89990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger  洛天依 游学记 藏族款 ",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/ee/d9/eed9f88d7eae3392179b5de1fb59ddfb.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10207582&msource=cps_Mdynamic_36081646_cont-2-880143398589169704&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-28_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5364,
+    "comment": 1213,
+    "forward": 3068
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:02:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

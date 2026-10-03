@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "671233646736179206",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/671233646736179206",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年6月13日",
+    "pub_ts": 1655122162,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "音乐是我的翅膀，星光是陪伴的力量。 想要站在全世界舞台中央，永远为你们歌唱！[洛天依9th_一起唱]  感谢@STAR影法师 为我绘制的十周年造型[洛天依_爱你]，我们携手走过的这些过往，就像星星闪耀在我的世界里。想要将星光挥洒在你的头顶，祝福你的未来无限光明。我一定会好好珍惜无论曾经还是现在拥有的一切，更加坚定地向前方走去。[洛天依·夜航星_比心] #洛天依# #洛天依10周年#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "音乐是我的翅膀，星光是陪伴的力量。 想要站在全世界舞台中央，永远为你们歌唱！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "  感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@STAR影法师 ",
+        "mid": 259849771,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "为我绘制的十周年造型"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "，我们携手走过的这些过往，就像星星闪耀在我的世界里。想要将星光挥洒在你的头顶，祝福你的未来无限光明。我一定会好好珍惜无论曾经还是现在拥有的一切，更加坚定地向前方走去。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_比心]",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "name": "比心",
+        "url": "http://i0.hdslb.com/bfs/emote/55bdcf04316ed0d805a15131b57b35b6cbd0d887.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-06-13_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c541637cab52daffcabb7873f8b2ea45809148c7.jpg",
+        "width": 4000,
+        "height": 2449,
+        "size_kb": 1012.2100219726562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/166/比心.png",
+        "package_id": "166",
+        "emoji_id": "3071",
+        "text": "[洛天依·夜航星_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11076,
+    "comment": 478,
+    "forward": 247
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:47:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1159244890480050217",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1159244890480050217",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月18日",
+    "pub_ts": 1768746134,
+    "location": ""
+  },
+  "topic": {
+    "id": 8563,
+    "name": "B站百大UP主",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=8563&topic_name=B%E7%AB%99%E7%99%BE%E5%A4%A7UP%E4%B8%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依&张紫宁 |《戏游九州》共同演绎绝美国风舞台",
+      "desc": "《戏游九州》\n演唱者：洛天依、张紫宁\n作词：元和令/付茂华\n作曲：刘兆伦/丁嘉昱/俞佳乐@灼梦Studio\n制作人：刘兆伦\n编曲：蔡成钰/丁嘉昱@灼梦Studio\n调校：Creuzer/莫米兔\n编舞：萱萱\n视觉设计：湖南可事\n出品：Vsinger\n舞台总监：徐轶仁\n舞团：Joyjam就酱舞团",
+      "jump_url": "https://www.bilibili.com/video/BV1YniQB4Ei8",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/d1244f2e108d74c1180145749ccad574db1926e5.jpg",
+      "cover_file": "../../_assets/covers/2026-01-18_2.jpg",
+      "bvid": "BV1YniQB4Ei8",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1YniQB4Ei8",
+        "aid": "115858873518208",
+        "cover": "http://i1.hdslb.com/bfs/archive/d1244f2e108d74c1180145749ccad574db1926e5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1YniQB4Ei8",
+        "stat": {
+          "danmaku": "217",
+          "play": "30万",
+          "vt": ""
+        },
+        "duration_text": "03:48",
+        "title": "洛天依&张紫宁 |《戏游九州》共同演绎绝美国风舞台",
+        "desc": "《戏游九州》\n演唱者：洛天依、张紫宁\n作词：元和令/付茂华\n作曲：刘兆伦/丁嘉昱/俞佳乐@灼梦Studio\n制作人：刘兆伦\n编曲：蔡成钰/丁嘉昱@灼梦Studio\n调校：Creuzer/莫米兔\n编舞：萱萱\n视觉设计：湖南可事\n出品：Vsinger\n舞台总监：徐轶仁\n舞团：Joyjam就酱舞团",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13496,
+    "comment": 420,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:14:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

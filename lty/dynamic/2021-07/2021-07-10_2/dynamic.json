@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "id": "545667550489513893",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/545667550489513893",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月10日",
+    "pub_ts": 1625886527,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#音乐现场# #现场# #演唱会# #BML# #BML2021# #LIVE# #音乐# #BML-VR2021# #洛天依# #Vsinger#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#音乐现场#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#现场#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML#",
+        "url": "https://search.bilibili.com/all?keyword=BML"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML2021"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#LIVE#",
+        "url": "https://search.bilibili.com/all?keyword=LIVE"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#音乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%9F%B3%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#BML-VR2021#",
+        "url": "https://search.bilibili.com/all?keyword=BML-VR2021"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "与洛天依的《美好生活上买单吧》，就差你了",
+      "desc": "美好生活尽在于此",
+      "jump_url": "https://www.bilibili.com/video/BV12M4y1M7Nn",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/a1c336e92cd8dd9813bc558cb52196534fa644c0.jpg",
+      "cover_file": "../../_assets/covers/2021-07-10_2.jpg",
+      "bvid": "BV12M4y1M7Nn",
+      "extra": {
+        "type": 1,
+        "bvid": "BV12M4y1M7Nn",
+        "aid": "931602801",
+        "cover": "http://i2.hdslb.com/bfs/archive/a1c336e92cd8dd9813bc558cb52196534fa644c0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV12M4y1M7Nn",
+        "stat": {
+          "danmaku": "268",
+          "play": "13.2万",
+          "vt": ""
+        },
+        "duration_text": "03:40",
+        "title": "与洛天依的《美好生活上买单吧》，就差你了",
+        "desc": "美好生活尽在于此",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12532,
+    "comment": 505,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

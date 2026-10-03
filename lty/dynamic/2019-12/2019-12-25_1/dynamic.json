@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "336759830106284029",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/336759830106284029",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年12月25日",
+    "pub_ts": 1577246408,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#“♪ Jingle bells, jingle bells~~ ♪……”天依正一边哼着歌，一边在圣诞树下拆礼物呢~收到了这么多祝福，太暖心了，蟹蟹大家今年份的记挂！你最期待的圣诞礼物是什么呢？来悄悄告诉天依吧，2019年12月27日，天依将抽5位小可爱，各送随机1款【美年达x洛天依限定款水果扭蛋娃娃】！祝大家圣诞快乐鸭~\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "40485",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "“♪ Jingle bells, jingle bells~~ ♪……”天依正一边哼着歌，一边在圣诞树下拆礼物呢~收到了这么多祝福，太暖心了，蟹蟹大家今年份的记挂！你最期待的圣诞礼物是什么呢？来悄悄告诉天依吧，2019年12月27日，天依将抽5位小可爱，各送随机1款【美年达x洛天依限定款水果扭蛋娃娃】！祝大家圣诞快乐鸭~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-12-25_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0198f17b63a97d5ecce9f9c8141d57ffcaa5f0e2.png",
+        "width": 800,
+        "height": 1131,
+        "size_kb": 625.15,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-12-25_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/28f66db68c1b5413030ba36def2a5a67bb41232d.jpg",
+        "width": 975,
+        "height": 750,
+        "size_kb": 67.27,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "40485"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6097,
+    "comment": 854,
+    "forward": 3968
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

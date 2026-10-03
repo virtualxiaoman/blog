@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "1107286987526635577",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1107286987526635577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月31日",
+    "pub_ts": 1756648742,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@明年不再摆烂@雪夜千阳中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@明年不再摆烂",
+        "mid": 311718505,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@雪夜千阳",
+        "mid": 549070885,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4178,
+    "comment": 129,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 1103947607445602312,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-08-22_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:39:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

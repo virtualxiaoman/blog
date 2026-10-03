@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "775507897990774803",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/775507897990774803",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年3月21日",
+    "pub_ts": 1679400403,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "现在向你奔去，是不是仍然不算太晚[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "现在向你奔去，是不是仍然不算太晚"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5997,
+    "comment": 180,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 773546377862971506,
+    "orig_mid": 8238664,
+    "deleted": false,
+    "archive_dir": "../../../8238664/2023-03/2023-03-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:51:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

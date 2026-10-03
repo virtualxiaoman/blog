@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "340470759161739563",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/340470759161739563",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月4日",
+    "pub_ts": 1578110426,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 天依茉莉花造型表情已经登录微信啦！微信表情搜索“洛天依元旦”即可下载使用哟！快让天依占领你的微信聊天界面吧~\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 天依茉莉花造型表情已经登录微信啦！微信表情搜索“洛天依元旦”即可下载使用哟！快让天依占领你的微信聊天界面吧~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-01-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fa210bee79913f01a633fe70739a6d15c3a576bf.jpg",
+        "width": 781,
+        "height": 1110,
+        "size_kb": 100.75,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7759,
+    "comment": 574,
+    "forward": 59
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

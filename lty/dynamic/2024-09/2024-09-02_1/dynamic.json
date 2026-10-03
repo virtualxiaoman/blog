@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "972554864117678160",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/972554864117678160",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月2日",
+    "pub_ts": 1725278975,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依无限共鸣全息演唱会·舞台无限创造赛今日开启啦！\n\n🪐活动奖励\n选出10份优秀作品给出1000元奖金1份和无限遨游展览门票1张\n\n✨参与方式\n带话题 #洛天依喊你去看演唱会# 在B站投稿图文动态或者>30s的视频作品即可参与活动。\n-使用洛天依形象或音源创作与洛天依无限共鸣演唱会有关的设定、歌曲、舞台等内容\n-绘画过程/作品、手工、MMD、手书等形式不限\n\n🎤活动时间\n即日起-9月30日\n发挥你的热爱与想象力吧！详情请大家看长图~ [心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依无限共鸣全息演唱会·舞台无限创造赛今日开启啦！\n\n🪐活动奖励\n选出10份优秀作品给出1000元奖金1份和无限遨游展览门票1张\n\n✨参与方式\n带话题 "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依喊你去看演唱会#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+      },
+      {
+        "type": "text",
+        "text": " 在B站投稿图文动态或者>30s的视频作品即可参与活动。\n-使用洛天依形象或音源创作与洛天依无限共鸣演唱会有关的设定、歌曲、舞台等内容\n-绘画过程/作品、手工、MMD、手书等形式不限\n\n🎤活动时间\n即日起-9月30日\n发挥你的热爱与想象力吧！详情请大家看长图~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-02_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4fb6ba83c4316fd834a384cf9279419a36081646.jpg",
+        "width": 750,
+        "height": 3067,
+        "size_kb": 1253.755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5186,
+    "comment": 149,
+    "forward": 70
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

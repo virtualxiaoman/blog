@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "925756178937413638",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/925756178937413638",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月29日",
+    "pub_ts": 1714382807,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "启示之瞳系列预售即将开启啦！于我的双眼，开启一切未知的时空与未来——",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "启示之瞳系列预售即将开启啦！于我的双眼，开启一切未知的时空与未来——"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3225,
+    "comment": 55,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 925662424064851986,
+    "orig_mid": 35365327,
+    "deleted": false,
+    "archive_dir": "../../../35365327/2024-04/2024-04-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:11:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088709802233692198",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088709802233692198",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752323404,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "如果你可以肯定我的一片心意 |《I LOVE U 》洛天依十三周年生日会",
+      "desc": "就让我们用生命许下这个约定——\n和我在一起吧~\n\n《I LOVE U》\n作曲：阿良良木健\n作词：苍十三\n编曲：阿良良木健\n调教：阿良良木健\n原PV：BV16s411Z7PW",
+      "jump_url": "https://www.bilibili.com/video/BV1gBuuzDEL5",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/0cfbbc1a815e214c2172175e35a06b5d4610a837.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_14.jpg",
+      "bvid": "BV1gBuuzDEL5",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1gBuuzDEL5",
+        "aid": "114832409889647",
+        "cover": "http://i2.hdslb.com/bfs/archive/0cfbbc1a815e214c2172175e35a06b5d4610a837.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1gBuuzDEL5",
+        "stat": {
+          "danmaku": "412",
+          "play": "87.4万",
+          "vt": ""
+        },
+        "duration_text": "04:38",
+        "title": "如果你可以肯定我的一片心意 |《I LOVE U 》洛天依十三周年生日会",
+        "desc": "就让我们用生命许下这个约定——\n和我在一起吧~\n\n《I LOVE U》\n作曲：阿良良木健\n作词：苍十三\n编曲：阿良良木健\n调教：阿良良木健\n原PV：BV16s411Z7PW",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24794,
+    "comment": 795,
+    "forward": 116
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

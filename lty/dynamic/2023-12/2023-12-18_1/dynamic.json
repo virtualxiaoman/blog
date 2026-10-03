@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "876411106366586917",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/876411106366586917",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月18日",
+    "pub_ts": 1702893762,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "#2023最美的夜#天依来啦！转眼我们又将相伴走过一年的时光，天依也将这一年一个很重要的回忆，在跨晚的舞台再次呈现给大家，让我们共同期待敲响跨年的钟声吧~[天依游学记_前排占楼]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2023最美的夜#",
+        "url": "https://search.bilibili.com/all?keyword=2023%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%9C"
+      },
+      {
+        "type": "text",
+        "text": "天依来啦！转眼我们又将相伴走过一年的时光，天依也将这一年一个很重要的回忆，在跨晚的舞台再次呈现给大家，让我们共同期待敲响跨年的钟声吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_前排占楼]",
+        "package_id": "2363",
+        "emoji_id": "41444",
+        "name": "前排占楼",
+        "url": "https://i0.hdslb.com/bfs/garb/item/4d2426cc6160f9bbb5c0a325e6308369396efe09.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/449e806079cc0df75c720920a9b1c42036081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 1244.9736328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/前排占楼.png",
+        "package_id": "2363",
+        "emoji_id": "41444",
+        "text": "[天依游学记_前排占楼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5551,
+    "comment": 384,
+    "forward": 119
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

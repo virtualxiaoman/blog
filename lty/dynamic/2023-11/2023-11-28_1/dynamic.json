@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "868915263157829702",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/868915263157829702",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月28日",
+    "pub_ts": 1701148500,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "由科技创新媒体36氪策划主办的WISE2023商业之王大会今天在北京国际会议中心盛大召开！主题曲《太阳照常升起》已经正式上线啦，天依很高兴受邀并演唱这首歌曲。\n“太阳会照常 携万物绽放”\n希望可以通过我的歌声，将这份信念传递给大家~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "由科技创新媒体36氪策划主办的WISE2023商业之王大会今天在北京国际会议中心盛大召开！主题曲《太阳照常升起》已经正式上线啦，天依很高兴受邀并演唱这首歌曲。\n“太阳会照常 携万物绽放”\n希望可以通过我的歌声，将这份信念传递给大家~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【36氪WISE2023大会】洛天依献唱主题曲《太阳照常升起》",
+      "desc": "由科技创新媒体36氪策划主办的WISE2023商业之王大会今天在北京国际会议中心盛大召开！主题曲《太阳照常升起》已经正式上线啦，天依很高兴受邀并演唱这首歌曲。\n“太阳会照常 携万物绽放”\n希望可以通过我的歌声，将这份信念传递给大家~\n\nQQ音乐：https://i.y.qq.com/v8/playsong.html?songid=453073117&source=yqq&ADTAG=hz_wb_sf&channelId=10081987\n酷狗音乐：https://m3ws.kugou.com/mixson",
+      "jump_url": "https://www.bilibili.com/video/BV1hv411F7ik",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/8ce95e79ca621012f0cc3c0e17a17a7f49a04ec9.jpg",
+      "cover_file": "../../_assets/covers/2023-11-28_1.jpg",
+      "bvid": "BV1hv411F7ik",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1hv411F7ik",
+        "aid": "236448692",
+        "cover": "http://i1.hdslb.com/bfs/archive/8ce95e79ca621012f0cc3c0e17a17a7f49a04ec9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1hv411F7ik",
+        "stat": {
+          "danmaku": "340",
+          "play": "28.9万",
+          "vt": ""
+        },
+        "duration_text": "03:11",
+        "title": "【36氪WISE2023大会】洛天依献唱主题曲《太阳照常升起》",
+        "desc": "由科技创新媒体36氪策划主办的WISE2023商业之王大会今天在北京国际会议中心盛大召开！主题曲《太阳照常升起》已经正式上线啦，天依很高兴受邀并演唱这首歌曲。\n“太阳会照常 携万物绽放”\n希望可以通过我的歌声，将这份信念传递给大家~\n\nQQ音乐：https://i.y.qq.com/v8/playsong.html?songid=453073117&source=yqq&ADTAG=hz_wb_sf&channelId=10081987\n酷狗音乐：https://m3ws.kugou.com/mixson",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 29106,
+    "comment": 930,
+    "forward": 114
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

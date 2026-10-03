@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "729450090320625665",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/729450090320625665",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月17日",
+    "pub_ts": 1668676734,
+    "location": ""
+  },
+  "topic": {
+    "id": 66850,
+    "name": "天钿的爆料时间",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=66850&topic_name=%E5%A4%A9%E9%92%BF%E7%9A%84%E7%88%86%E6%96%99%E6%97%B6%E9%97%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "是我是我还是我，你们的好朋友小天钿～ 分享一个某人进食中的憨照[tv_doge] 大家有没有发现，现在分辨AI天依的心情变得特别容易了耶！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是我是我还是我，你们的好朋友小天钿～ 分享一个某人进食中的憨照"
+      },
+      {
+        "type": "emoji",
+        "text": "[tv_doge]",
+        "package_id": "2",
+        "emoji_id": "34",
+        "name": "doge",
+        "url": "https://i0.hdslb.com/bfs/emote/302d6c88c63ed162c81a49cafe7ed2709e6fb955.gif"
+      },
+      {
+        "type": "text",
+        "text": " 大家有没有发现，现在分辨AI天依的心情变得特别容易了耶！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-17_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/56775ddcc1adf8e28b12611a736a0acb36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 86.44999694824219,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2/doge.gif",
+        "package_id": "2",
+        "emoji_id": "34",
+        "text": "[tv_doge]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9713,
+    "comment": 386,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

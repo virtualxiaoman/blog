@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "452260155055927173",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/452260155055927173",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年10月31日",
+    "pub_ts": 1604138423,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "居然闯进我们的聚会？你很有胆量(σ･ω･)σ 如果不想被可怕的法术轰出去，就乖乖留下糖果～\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "居然闯进我们的聚会？你很有胆量(σ･ω･)σ 如果不想被可怕的法术轰出去，就乖乖留下糖果～"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-10-31_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/373bc0b1f2fe04241cfcc93699b163d7de1a1621.jpg",
+        "width": 1080,
+        "height": 1608,
+        "size_kb": 1312.12,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12166,
+    "comment": 709,
+    "forward": 279
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

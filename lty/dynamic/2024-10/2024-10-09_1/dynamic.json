@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "986251768280121394",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/986251768280121394",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月9日",
+    "pub_ts": 1728468034,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "希望大家喜欢天依和龚老师的特别合作舞台，也请多多期待以中国戏曲为主题的第二季洛天依游学记吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "希望大家喜欢天依和龚老师的特别合作舞台，也请多多期待以中国戏曲为主题的第二季洛天依游学记吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依X龚琳娜「忐忑 戏曲改编版」【无限共鸣全息演唱会单品】",
+      "desc": "✦演唱会完整回放：https://www.bilibili.com/video/BV1Yq2LYdExC\n\n在10月5日洛天依无限共鸣全息演唱会的舞台上，天依很荣幸和龚琳娜老师同台演唱了戏曲改编版的龚老师的经典歌曲《忐忑》。\n是以戏曲版再唱经典的传承之意，亦是歌唱家的极致技巧与虚拟歌手无限可能的美妙碰撞~\n天依和龚老师表演的戏曲唱段大家还喜欢吗？唢呐天依也吹得非常过瘾哦！\n希望大家喜欢天依和龚老师的特别合作舞台，也请多多期待以中国戏曲为主题的第二季洛天依游学记吧！",
+      "jump_url": "https://www.bilibili.com/video/BV18E2cYkEwz",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c40b0a8ff7a2eb5b449d1ccdc7b9c74470e60cb8.jpg",
+      "cover_file": "../../_assets/covers/2024-10-09_1.jpg",
+      "bvid": "BV18E2cYkEwz",
+      "extra": {
+        "type": 1,
+        "bvid": "BV18E2cYkEwz",
+        "aid": "113276356658893",
+        "cover": "http://i2.hdslb.com/bfs/archive/c40b0a8ff7a2eb5b449d1ccdc7b9c74470e60cb8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV18E2cYkEwz",
+        "stat": {
+          "danmaku": "1099",
+          "play": "48万",
+          "vt": ""
+        },
+        "duration_text": "03:52",
+        "title": "洛天依X龚琳娜「忐忑 戏曲改编版」【无限共鸣全息演唱会单品】",
+        "desc": "✦演唱会完整回放：https://www.bilibili.com/video/BV1Yq2LYdExC\n\n在10月5日洛天依无限共鸣全息演唱会的舞台上，天依很荣幸和龚琳娜老师同台演唱了戏曲改编版的龚老师的经典歌曲《忐忑》。\n是以戏曲版再唱经典的传承之意，亦是歌唱家的极致技巧与虚拟歌手无限可能的美妙碰撞~\n天依和龚老师表演的戏曲唱段大家还喜欢吗？唢呐天依也吹得非常过瘾哦！\n希望大家喜欢天依和龚老师的特别合作舞台，也请多多期待以中国戏曲为主题的第二季洛天依游学记吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 39825,
+    "comment": 828,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

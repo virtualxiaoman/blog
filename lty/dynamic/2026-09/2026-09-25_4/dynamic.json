@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1251902242910371976",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1251902242910371976",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月25日",
+    "pub_ts": 1790319605,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "今晚的月光一定很美！洛天依潮汕话翻唱《月下煮茶》 祝大家中秋快乐~",
+      "desc": "茶烟袅袅，乡音呢喃。舟行万里归途，莫忘月下有人等候。\n恰逢中秋佳节，天依翻唱了电影《给阿嬷的情书》主题曲《月下煮茶》\n愿我的歌声，也能永远带给大家最温柔的治愈和守望。\n大家期待天依用地方方言演绎更多歌曲给大家听吗？\n \n演唱：洛天依\n原唱：陈佳\n作曲：李奕瀚\n作词：沈丹扬\n调教：鬼面P",
+      "jump_url": "https://www.bilibili.com/video/BV13fhy68EdJ",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/c31b0a878d46daf4e067ef6f562102e0e9739fb6.jpg",
+      "cover_file": "../../_assets/covers/2026-09-25_1.jpg",
+      "bvid": "BV13fhy68EdJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV13fhy68EdJ",
+        "aid": "117330336090120",
+        "cover": "http://i0.hdslb.com/bfs/archive/c31b0a878d46daf4e067ef6f562102e0e9739fb6.jpg",
+        "jump_url": "//www.bilibili.com/video/BV13fhy68EdJ",
+        "stat": {
+          "danmaku": "440",
+          "play": "6.9万",
+          "vt": ""
+        },
+        "duration_text": "01:48",
+        "title": "今晚的月光一定很美！洛天依潮汕话翻唱《月下煮茶》 祝大家中秋快乐~",
+        "desc": "茶烟袅袅，乡音呢喃。舟行万里归途，莫忘月下有人等候。\n恰逢中秋佳节，天依翻唱了电影《给阿嬷的情书》主题曲《月下煮茶》\n愿我的歌声，也能永远带给大家最温柔的治愈和守望。\n大家期待天依用地方方言演绎更多歌曲给大家听吗？\n \n演唱：洛天依\n原唱：陈佳\n作曲：李奕瀚\n作词：沈丹扬\n调教：鬼面P",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 22940,
+    "comment": 1476,
+    "forward": 180
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

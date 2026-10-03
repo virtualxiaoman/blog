@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1004448333493698583",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1004448333493698583",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月27日",
+    "pub_ts": 1732704752,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "想逃离他人的期待蜷缩在自己的世界，却也渴望绽放属于自己独一无二的光芒，骄傲也好，自卑也好，都是真实存在的已经行至如今的你呀[洛天依-潮声回响_摸摸头]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "想逃离他人的期待蜷缩在自己的世界，却也渴望绽放属于自己独一无二的光芒，骄傲也好，自卑也好，都是真实存在的已经行至如今的你呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5433,
+    "comment": 183,
+    "forward": 38
+  },
+  "forward": {
+    "orig_id": 1000030104958533667,
+    "orig_mid": 11870424,
+    "deleted": false,
+    "archive_dir": "../../../11870424/2024-11/2024-11-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

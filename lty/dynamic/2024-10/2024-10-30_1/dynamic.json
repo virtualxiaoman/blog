@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "id": "994015333977161750",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/994015333977161750",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "",
+    "pub_ts": 1730275630,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 moeyu洛天依「革新追迹」系列服饰周边上新啦~\n转发关注天依，揪2位小伙伴送出【革新追迹胸包】1份。\n\n蓝白色风暴来袭，和天依一起潮流出街吧！[洛天依9th_社会]\n\n入手方式：天猫moeyu旗舰店、bilibili会员购\n传送门：\n-帽子：网页链接\n-卫衣：网页链接\n-胸包：网页链接\n-徽章组：网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "325337",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " moeyu洛天依「革新追迹」系列服饰周边上新啦~\n转发关注天依，揪2位小伙伴送出【革新追迹胸包】1份。\n\n蓝白色风暴来袭，和天依一起潮流出街吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_社会]",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "name": "社会",
+        "url": "http://i0.hdslb.com/bfs/emote/2e4134d34974c1c27967d3e52631c33072513cb8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n入手方式：天猫moeyu旗舰店、bilibili会员购\n传送门：\n-帽子："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/htQ9cj6"
+      },
+      {
+        "type": "text",
+        "text": "\n-卫衣："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/OcCluDg"
+      },
+      {
+        "type": "text",
+        "text": "\n-胸包："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/Z0rJ8bQ"
+      },
+      {
+        "type": "text",
+        "text": "\n-徽章组："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/JemloKN"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f3206c206c4968843104013d9466964f36081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 644.818359375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-10-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3a7b2c28b0a2cad5c094aef46807f34736081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 614.1435546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-10-30_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1926515420542da12f0b7be1264f1a0836081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 322.1142578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-10-30_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3d01373bec3dd8435f2a2e61e716bdd036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 439.7998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-10-30_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6ef5accca11798f1cbb74b069ffac49536081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 432.8369140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-10-30_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ca7fb2012c97395fd1c673952207570036081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 423.9755859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/社会.png",
+        "package_id": "255",
+        "emoji_id": "4238",
+        "text": "[洛天依9th_社会]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "325337"
+  },
+  "vote": null,
+  "stats": {
+    "like": 0,
+    "comment": 0,
+    "forward": 0
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

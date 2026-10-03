@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "510381525111239677",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/510381525111239677",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年4月6日",
+    "pub_ts": 1617670859,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "因为光芒，我们才有振翅的力量。 大家早上好，连假结束第一天也要有精神哦！[洛天依_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "因为光芒，我们才有振翅的力量。 大家早上好，连假结束第一天也要有精神哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6089,
+    "comment": 294,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 7875496848325760,
+    "orig_mid": 917194,
+    "deleted": false,
+    "archive_dir": "../../../917194/2014-07/2014-07-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:29:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

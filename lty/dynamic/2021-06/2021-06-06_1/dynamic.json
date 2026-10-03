@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "533111892208048832",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/533111892208048832",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月6日",
+    "pub_ts": 1622963185,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#趁着周末出去玩了，夏天果然还是要去海边呢！ 白沙、蓝天和碧海——这一切都十分陶冶人心，天依也想把这幅风景分享给你们，希望在即将到来的暑假，也能和大家一起留下许多开心的回忆~\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "趁着周末出去玩了，夏天果然还是要去海边呢！ 白沙、蓝天和碧海——这一切都十分陶冶人心，天依也想把这幅风景分享给你们，希望在即将到来的暑假，也能和大家一起留下许多开心的回忆~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-06_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1cf0720220f2e393d8a3d7fc61f0c3ce93d8e5fc.jpg",
+        "width": 4315,
+        "height": 2647,
+        "size_kb": 3656.25,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10351,
+    "comment": 503,
+    "forward": 140
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

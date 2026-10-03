@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "637354931839303749",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/637354931839303749",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年3月14日",
+    "pub_ts": 1647234159,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##开年神曲梦里啥都有#二创征集活动结果揭晓啦，感谢大家的参与和投稿！  获奖详情请戳下方长图查看，再次感谢所有参与的小伙伴~[洛天依_爱你]  叮叮叮~新的一周已经开启，为了不做梦也能有，要继续努力啦！[洛天依_goodjob]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#开年神曲梦里啥都有#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%B9%B4%E7%A5%9E%E6%9B%B2%E6%A2%A6%E9%87%8C%E5%95%A5%E9%83%BD%E6%9C%89"
+      },
+      {
+        "type": "text",
+        "text": "二创征集活动结果揭晓啦，感谢大家的参与和投稿！  获奖详情请戳下方长图查看，再次感谢所有参与的小伙伴~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": "  叮叮叮~新的一周已经开启，为了不做梦也能有，要继续努力啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_goodjob]",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "name": "goodjob",
+        "url": "http://i0.hdslb.com/bfs/emote/a781b75de326488ba00c937f0d89b4eaba6a0ca0.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-03-14_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c7045dea15ed8d967f9dd0345f35b1aa4d201c4a.jpg",
+        "width": 750,
+        "height": 3904,
+        "size_kb": 1925.0,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/101/goodjob.png",
+        "package_id": "101",
+        "emoji_id": "2202",
+        "text": "[洛天依_goodjob]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6117,
+    "comment": 113,
+    "forward": 26
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:43:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

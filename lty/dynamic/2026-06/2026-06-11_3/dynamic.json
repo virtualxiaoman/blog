@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "1212558607312224262",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1212558607312224262",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月11日",
+    "pub_ts": 1781159201,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "天依收到了大家的超无限热爱信号，是时候见面啦——\n今年天依的十四周年生日会，将会在北京环球度假区独家举办哦！[洛天依八音奇响动态_可爱]\n\n每年最重要的生日庆典时光，天依想给大家留下最盛大难忘的回忆~\n现场有很多歌曲的初次演绎，天依都在努力准备啦！\n\n6月 15 日 13:00，前往北京环球度假区官方APP或小程序get 洛天依 14 周年共鸣之夜线下生日歌会专属通行证\n跨越次元，接收超无限信号，期待在北京环球度假区和大家见面~[洛天依动态流光协奏_捧花]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依收到了大家的超无限热爱信号，是时候见面啦——\n今年天依的十四周年生日会，将会在北京环球度假区独家举办哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n每年最重要的生日庆典时光，天依想给大家留下最盛大难忘的回忆~\n现场有很多歌曲的初次演绎，天依都在努力准备啦！\n\n6月 15 日 13:00，前往北京环球度假区官方APP或小程序get 洛天依 14 周年共鸣之夜线下生日歌会专属通行证\n跨越次元，接收超无限信号，期待在北京环球度假区和大家见面~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_捧花]",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/503de7756331e8e48f47eec24f6d4f2285fa4411.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8399/捧花.gif",
+        "package_id": "8399",
+        "emoji_id": "115669",
+        "text": "[洛天依动态流光协奏_捧花]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "来北京环球度假区，看洛天依十四周年共鸣之夜线下生日歌会!",
+      "desc": "天依收到了大家的超无限热爱信号，是时候见面啦——\n今年天依的十四周年生日会，将会在北京环球度假区独家举办哦！\n\n每年最重要的生日庆典时光，天依想给大家留下最盛大难忘的回忆~\n现场有很多歌曲的初次演绎，天依都在努力准备啦！\n\n6月 15 日 13:00，前往北京环球度假区官方APP或小程序get 洛天依 14 周年共鸣之夜线下生日歌会专属通行证\n跨越次元，接收超无限信号，期待在北京环球度假区和大家见面~",
+      "jump_url": "https://www.bilibili.com/video/BV19qEv6zE3Z",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c6b3920696d5c884c44a00d7fca45e394e2c50af.jpg",
+      "cover_file": "../../_assets/covers/2026-06-11_2.jpg",
+      "bvid": "BV19qEv6zE3Z",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19qEv6zE3Z",
+        "aid": "116730030525869",
+        "cover": "http://i1.hdslb.com/bfs/archive/c6b3920696d5c884c44a00d7fca45e394e2c50af.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19qEv6zE3Z",
+        "stat": {
+          "danmaku": "54",
+          "play": "4.9万",
+          "vt": ""
+        },
+        "duration_text": "00:55",
+        "title": "来北京环球度假区，看洛天依十四周年共鸣之夜线下生日歌会!",
+        "desc": "天依收到了大家的超无限热爱信号，是时候见面啦——\n今年天依的十四周年生日会，将会在北京环球度假区独家举办哦！\n\n每年最重要的生日庆典时光，天依想给大家留下最盛大难忘的回忆~\n现场有很多歌曲的初次演绎，天依都在努力准备啦！\n\n6月 15 日 13:00，前往北京环球度假区官方APP或小程序get 洛天依 14 周年共鸣之夜线下生日歌会专属通行证\n跨越次元，接收超无限信号，期待在北京环球度假区和大家见面~",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16781,
+    "comment": 647,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:23:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

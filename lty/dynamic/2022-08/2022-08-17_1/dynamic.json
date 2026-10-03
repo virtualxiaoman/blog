@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "695313440974045205",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/695313440974045205",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月17日",
+    "pub_ts": 1660728676,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "突击抽查你们的历史记录！今天有没有听天依的歌呀~[洛天依_超凶] 先分享一个我的好啦，大家在评论区也分享一下最近看的视频吧，让天依看看，有没有我没有发现的宝藏！[洛天依_+1] 不会吧不会吧，不会大家这几天都没有看天依吧[洛天依_……] #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "突击抽查你们的历史记录！今天有没有听天依的歌呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_超凶]",
+        "package_id": "340",
+        "emoji_id": "7258",
+        "name": "超凶",
+        "url": "http://i0.hdslb.com/bfs/emote/90e665d60f2a759d6f4b09880ff49bcf67b33fd4.png"
+      },
+      {
+        "type": "text",
+        "text": " 先分享一个我的好啦，大家在评论区也分享一下最近看的视频吧，让天依看看，有没有我没有发现的宝藏！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_+1]",
+        "package_id": "340",
+        "emoji_id": "5567",
+        "name": "+1",
+        "url": "http://i0.hdslb.com/bfs/emote/f9e39b7a474f01b70c9f0a71fc5554cf29bfda25.png"
+      },
+      {
+        "type": "text",
+        "text": " 不会吧不会吧，不会大家这几天都没有看天依吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_……]",
+        "package_id": "340",
+        "emoji_id": "5568",
+        "name": "……",
+        "url": "http://i0.hdslb.com/bfs/emote/a9eba54c34cdc042d21e1960a317756ac4d65472.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-17_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c6b761fa08d7384b1c46c0f07e444cb636081646.jpg",
+        "width": 1440,
+        "height": 3008,
+        "size_kb": 997.3359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/超凶.png",
+        "package_id": "340",
+        "emoji_id": "7258",
+        "text": "[洛天依_超凶]"
+      },
+      {
+        "file": "../../_assets/emojis/340/+1.png",
+        "package_id": "340",
+        "emoji_id": "5567",
+        "text": "[洛天依_+1]"
+      },
+      {
+        "file": "../../_assets/emojis/340/…….png",
+        "package_id": "340",
+        "emoji_id": "5568",
+        "text": "[洛天依_……]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9817,
+    "comment": 745,
+    "forward": 221
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:53:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

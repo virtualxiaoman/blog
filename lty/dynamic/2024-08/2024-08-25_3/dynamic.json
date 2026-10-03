@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "id": "969572352937426980",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/969572352937426980",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月25日",
+    "pub_ts": 1724584555,
+    "location": ""
+  },
+  "topic": {
+    "id": 13402,
+    "name": "冰火歌会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=13402&topic_name=%E5%86%B0%E7%81%AB%E6%AD%8C%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "不知不觉，天依也已经是冰火歌会的老朋友啦！猜猜天依这次会表演……？[洛天依·收藏集表情包_盯]\n嘿嘿，这次不用猜啦！天依直接告诉大家答案～天依将会首次演绎十二周年专辑《再生》收录曲《蝴蝶》，小🦋也会在无限共鸣演唱会上与大家见面哦！[心律共鸣动态表情包_享受音乐]\n\n告别紧张的首轮开票周，大家有没有都得偿所愿呢？没有抢到的小伙伴，记得关注8月30日的正式开票呀！接下来，天依还有演唱会第二张主视觉等情报和大家分享，请持续关注小洛～[心律共鸣动态表情包_啾啾]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "不知不觉，天依也已经是冰火歌会的老朋友啦！猜猜天依这次会表演……？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_盯]",
+        "package_id": "5283",
+        "emoji_id": "77191",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/c111d108c592624ad8e79067d8fe71ad551d3856.png"
+      },
+      {
+        "type": "text",
+        "text": "\n嘿嘿，这次不用猜啦！天依直接告诉大家答案～天依将会首次演绎十二周年专辑《再生》收录曲《蝴蝶》，小🦋也会在无限共鸣演唱会上与大家见面哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_享受音乐]",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "name": "享受音乐",
+        "url": "https://i0.hdslb.com/bfs/emote/dfdae0c09d32b85b76468c75e5b62215e2fbda24.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n告别紧张的首轮开票周，大家有没有都得偿所愿呢？没有抢到的小伙伴，记得关注8月30日的正式开票呀！接下来，天依还有演唱会第二张主视觉等情报和大家分享，请持续关注小洛～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-25_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1bded2e2dfdc5cc3f24b318c720f674336081646.png",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 2975.989990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/盯.png",
+        "package_id": "5283",
+        "emoji_id": "77191",
+        "text": "[洛天依·收藏集表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/享受音乐.gif",
+        "package_id": "5582",
+        "emoji_id": "81888",
+        "text": "[心律共鸣动态表情包_享受音乐]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：冰火歌会2024漫游季",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：冰火歌会2024漫游季",
+        "desc1": {
+          "text": "2024-09-15 19:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone 16 pro max*1份、PS5 Slim 光驱版*1份、AirPods 第三代*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=3998804&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3998804,
+        "reserve_total": 260286,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "9617619"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5929,
+    "comment": 258,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

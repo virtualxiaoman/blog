@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "781660000583942342",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/781660000583942342",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年4月7日",
+    "pub_ts": 1680832801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《有兽焉》主题曲发布",
+      "desc": "洛天依演唱！福瑞有自己的BGM了！\n\n演唱：洛天依\n作词：徐博 李乌\n作曲：大河内航太\n声音调校：哈士奇P\n声音监制：人形兎\n混音：12GatesMusic 孙晔 赵楠\n音乐监制：陈红/胡霓\n音乐发行：黄咏竹/吴哲宇",
+      "jump_url": "https://www.bilibili.com/video/BV1Ss4y127bT",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/73d527a4e3001471e6e239ea0df804134ad94f3f.jpg",
+      "cover_file": "../../_assets/covers/2023-04-07_1.jpg",
+      "bvid": "BV1Ss4y127bT",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1Ss4y127bT",
+        "aid": "994631644",
+        "cover": "http://i0.hdslb.com/bfs/archive/73d527a4e3001471e6e239ea0df804134ad94f3f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Ss4y127bT",
+        "stat": {
+          "danmaku": "2169",
+          "play": "148.3万",
+          "vt": ""
+        },
+        "duration_text": "04:23",
+        "title": "《有兽焉》主题曲发布",
+        "desc": "洛天依演唱！福瑞有自己的BGM了！\n\n演唱：洛天依\n作词：徐博 李乌\n作曲：大河内航太\n声音调校：哈士奇P\n声音监制：人形兎\n混音：12GatesMusic 孙晔 赵楠\n音乐监制：陈红/胡霓\n音乐发行：黄咏竹/吴哲宇",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "有兽焉",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss39947",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/dcea358cba5d91ab75d556aa7675faf862f77afe.png",
+      "cover_file": "../../_assets/covers/2023-04-07_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss39947",
+        "id_str": "994631644",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/dcea358cba5d91ab75d556aa7675faf862f77afe.png",
+        "style": 2,
+        "title": "有兽焉",
+        "desc1": "bilibili出品 连载中, 每周三10:00更新",
+        "desc2": "263.4万追番"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 50694,
+    "comment": 1723,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:52:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

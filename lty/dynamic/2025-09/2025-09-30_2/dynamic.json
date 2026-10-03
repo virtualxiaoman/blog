@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "1118364339500220487",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1118364339500220487",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月30日",
+    "pub_ts": 1759227889,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "在这次的世界里，我们又会一起写下怎样不一样的故事呢？\n#洛天依复古未来# 系列周边上新啦！[逆转童话动态_驾到]\n\n🏍「复古未来」系列周边新品\n🎧【AIPIAIPI × 洛天依复古未来机械蓝牙耳机礼盒】网页链接 \n来看看有没有你喜欢的吧~[逆转童话动态_好吃]\nPS：还有阿次元复古未来正比手办、恩雅赛博吉他陆续上线，敬请期待！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在这次的世界里，我们又会一起写下怎样不一样的故事呢？\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依复古未来#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%A4%8D%E5%8F%A4%E6%9C%AA%E6%9D%A5"
+      },
+      {
+        "type": "text",
+        "text": " 系列周边上新啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_驾到]",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "name": "驾到",
+        "url": "https://i0.hdslb.com/bfs/garb/e830680d3eface6f40cc66d51c2a8f53ec6f84e1.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🏍「复古未来」系列周边新品\n🎧【AIPIAIPI × 洛天依复古未来机械蓝牙耳机礼盒】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/Cy13xln"
+      },
+      {
+        "type": "text",
+        "text": " \n来看看有没有你喜欢的吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_好吃]",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "name": "好吃",
+        "url": "https://i0.hdslb.com/bfs/garb/77639e89661b484966601ffec0491911ab280c6f.gif"
+      },
+      {
+        "type": "text",
+        "text": "\nPS：还有阿次元复古未来正比手办、恩雅赛博吉他陆续上线，敬请期待！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/497ede738918d45c74f7509ec4247e4536081646.jpg",
+        "width": 1000,
+        "height": 13098,
+        "size_kb": 4311.4716796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-09-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8a4568657040c199401c19a1ad9d357c36081646.jpg",
+        "width": 904,
+        "height": 14998,
+        "size_kb": 7836.90234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/驾到.gif",
+        "package_id": "8744",
+        "emoji_id": "121353",
+        "text": "[逆转童话动态_驾到]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/好吃.gif",
+        "package_id": "8744",
+        "emoji_id": "121358",
+        "text": "[逆转童话动态_好吃]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 复古未来骑士 色纸 徽章 立牌  镭射票 挂件 团子 二次元动漫周边",
+            "price": "¥15",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/8b/66/e067d7f2b4d277b950a624a0f0cacb10.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=13266297&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1118364339500220487",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-09-30_2.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5097,
+    "comment": 191,
+    "forward": 50
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

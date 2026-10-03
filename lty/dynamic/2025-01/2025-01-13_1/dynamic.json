@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1021788018416025623",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1021788018416025623",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月13日",
+    "pub_ts": 1736741962,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依的巡回演唱会开回荒野大陆啦！[洛天依-潮声回响_祝贺] 1月14日~2月12日，天依在荒野大陆等你们，快来一起玩吧~[洛天依-潮声回响_舞蹈中]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的巡回演唱会开回荒野大陆啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_祝贺]",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "name": "祝贺",
+        "url": "https://i0.hdslb.com/bfs/garb/ab0e18794ae8abbd78f6a99b00d8bfa87f9d2154.png"
+      },
+      {
+        "type": "text",
+        "text": " 1月14日~2月12日，天依在荒野大陆等你们，快来一起玩吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/祝贺.png",
+        "package_id": "7109",
+        "emoji_id": "94949",
+        "text": "[洛天依-潮声回响_祝贺]"
+      },
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4484,
+    "comment": 195,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 1021412006895288358,
+    "orig_mid": 267655164,
+    "deleted": false,
+    "archive_dir": "../../../267655164/2025-01/2025-01-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:25:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

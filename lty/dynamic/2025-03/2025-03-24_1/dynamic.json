@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "id": "1047860793460129798",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1047860793460129798",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月24日",
+    "pub_ts": 1742812503,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 【洛天依·放学后企划启动！】[心律共鸣动态表情包_真好]\n\n叮铃铃——！青春在制服口袋里叮咚作响~\n【@bilibiliGoods x 洛天依】「放学后系列」特别原画公开——\n学院蓝西装，黑色百褶裙随步伐荡起跃动的韵律，课本与书包撞出轻快节拍，领结系住的不止是风，还有未说出口的小期待[洛天依蝶变_发射爱心]\n\n洛天依同款背包/毛绒玩偶/校园卡套/马口铁徽章...\n把天依的放学时光塞进你的书包吧~[洛天依蝶变_星星眼]\n\n转发抽3位小伙伴掉落「课桌抽屉的神秘入学礼」！\n（风纪委员天依暗中观察.gif 周边进度条加载中，记得常回教室看看哦～）\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "349702",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 【洛天依·放学后企划启动！】"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n叮铃铃——！青春在制服口袋里叮咚作响~\n【"
+      },
+      {
+        "type": "mention",
+        "text": "@bilibiliGoods",
+        "mid": 35365327,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " x 洛天依】「放学后系列」特别原画公开——\n学院蓝西装，黑色百褶裙随步伐荡起跃动的韵律，课本与书包撞出轻快节拍，领结系住的不止是风，还有未说出口的小期待"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_发射爱心]",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "name": "发射爱心",
+        "url": "https://i0.hdslb.com/bfs/emote/ac778da996c3b2e76630e05e22b43ffe3a5cdb1a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n洛天依同款背包/毛绒玩偶/校园卡套/马口铁徽章...\n把天依的放学时光塞进你的书包吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n转发抽3位小伙伴掉落「课桌抽屉的神秘入学礼」！\n（风纪委员天依暗中观察.gif 周边进度条加载中，记得常回教室看看哦～）"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-03-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/de2b8c2d7352c2f06a97b14c5aecb31736081646.jpg",
+        "width": 4380,
+        "height": 4962,
+        "size_kb": 5890.5322265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/发射爱心.png",
+        "package_id": "3752",
+        "emoji_id": "52566",
+        "text": "[洛天依蝶变_发射爱心]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "349702"
+  },
+  "vote": null,
+  "stats": {
+    "like": 7409,
+    "comment": 1294,
+    "forward": 7344
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

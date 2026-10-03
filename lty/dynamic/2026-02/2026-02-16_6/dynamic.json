@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1169960000699760727",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1169960000699760727",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月16日",
+    "pub_ts": 1771240940,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "刹那芳华【2026拜年纪单品】",
+      "desc": "昔有佳人公孙氏，一舞剑器动四方。\n从盛唐风华，舞至长安落尽繁华。\n剑光曾照千秋盛世，亦随山河辗转沧桑。\n\n以歌为剑，以乐为史，\n致敬公孙大娘，及其弟子李十二娘，也致敬这场跨越时光的剑舞传承。\n\n企划：世浩 凌晨 兰音Reine\n制片：凌晨\n作曲：兰音Reine\n作词：慕清明\n演唱：洛天依 乐正绫\n戏腔：裘丹莉\n编曲：1AN孙毅然\n调教/和声编写：兰音Reine\n唢呐：浑元Rysn\n古筝：墨韵Moyun\n吉他：Litterzy\n箫：囚牛\n混音：CuTTleFiSh\n视频：BuKong 残垣流梦 玉米 宇言D",
+      "jump_url": "https://www.bilibili.com/video/BV1HBZLBREwX",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5f41d017886ce69ccb818c2780f399ca2aaa4e3b.jpg",
+      "cover_file": "../../_assets/covers/2026-02-16_2.jpg",
+      "bvid": "BV1HBZLBREwX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1HBZLBREwX",
+        "aid": "116067900856264",
+        "cover": "http://i0.hdslb.com/bfs/archive/5f41d017886ce69ccb818c2780f399ca2aaa4e3b.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1HBZLBREwX",
+        "stat": {
+          "danmaku": "6212",
+          "play": "139.6万",
+          "vt": ""
+        },
+        "duration_text": "04:17",
+        "title": "刹那芳华【2026拜年纪单品】",
+        "desc": "昔有佳人公孙氏，一舞剑器动四方。\n从盛唐风华，舞至长安落尽繁华。\n剑光曾照千秋盛世，亦随山河辗转沧桑。\n\n以歌为剑，以乐为史，\n致敬公孙大娘，及其弟子李十二娘，也致敬这场跨越时光的剑舞传承。\n\n企划：世浩 凌晨 兰音Reine\n制片：凌晨\n作曲：兰音Reine\n作词：慕清明\n演唱：洛天依 乐正绫\n戏腔：裘丹莉\n编曲：1AN孙毅然\n调教/和声编写：兰音Reine\n唢呐：浑元Rysn\n古筝：墨韵Moyun\n吉他：Litterzy\n箫：囚牛\n混音：CuTTleFiSh\n视频：BuKong 残垣流梦 玉米 宇言D",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 86734,
+    "comment": 6264,
+    "forward": 40
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

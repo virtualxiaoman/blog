@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1168782157421740035",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1168782157421740035",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月13日",
+    "pub_ts": 1770966702,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "追加动态典藏卡啦啦，大家记得兑换喔！[乐鸣东方动态表情包_支持]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "追加动态典藏卡啦啦，大家记得兑换喔！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3917,
+    "comment": 102,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 1168774284750880793,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2026-02/2026-02-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:17:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

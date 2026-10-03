@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "1012119353388171265",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1012119353388171265",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月18日",
+    "pub_ts": 1734490800,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "看看是谁来啦！是天依的老朋友雪王哦~\n天依很高兴受邀演唱雪王动画第二季主题曲《奇幻沙州》\n动画OP12月18日抢先看，歌曲及MV12月22日上线\n敬请期待~！ [洛天依-潮声回响_舞蹈中]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "看看是谁来啦！是天依的老朋友雪王哦~\n天依很高兴受邀演唱雪王动画第二季主题曲《奇幻沙州》\n动画OP12月18日抢先看，歌曲及MV12月22日上线\n敬请期待~！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_舞蹈中]",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "name": "舞蹈中",
+        "url": "https://i0.hdslb.com/bfs/garb/37b4591b234281925eab0fdccf6ac18690dc0f2b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-18_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5576cd3c942bf670e0b6a6130f7d9ad936081646.png",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 1103.169921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/舞蹈中.png",
+        "package_id": "7109",
+        "emoji_id": "94960",
+        "text": "[洛天依-潮声回响_舞蹈中]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5866,
+    "comment": 323,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:22:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "796921007251128320",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/796921007251128320",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月18日",
+    "pub_ts": 1684386031,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "@洛天依 X @QQ音乐 #洛天依典藏星光卡#全新立绘公开\n\n是《三月雨》千丝万缕长相忆，是我愿成为你《万分之一的光》，是当走到时光的尽头，今天的我仍将继续，《为了你唱下去》。\n\n更多详细信息，请关注后续报道~ [洛天依_最喜欢你了]\n",
+    "blocks": [
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " X "
+      },
+      {
+        "type": "mention",
+        "text": "@QQ音乐",
+        "mid": 533622509,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依典藏星光卡#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%85%B8%E8%97%8F%E6%98%9F%E5%85%89%E5%8D%A1"
+      },
+      {
+        "type": "text",
+        "text": "全新立绘公开\n\n是《三月雨》千丝万缕长相忆，是我愿成为你《万分之一的光》，是当走到时光的尽头，今天的我仍将继续，《为了你唱下去》。\n\n更多详细信息，请关注后续报道~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-05-18_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/71326fe8c6e5666e32ae2de844b7191e36081646.jpg",
+        "width": 1080,
+        "height": 1905,
+        "size_kb": 546.412109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-05-18_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/54ef8e9a3ca4bc96c6213e5095b8d47436081646.jpg",
+        "width": 1080,
+        "height": 1905,
+        "size_kb": 612.4580078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-05-18_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e1555b970fd809bb2723439748f142ae36081646.jpg",
+        "width": 1080,
+        "height": 1905,
+        "size_kb": 502.736328125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6212,
+    "comment": 346,
+    "forward": 101
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

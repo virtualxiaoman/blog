@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "id": "1078300459391778817",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1078300459391778817",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月14日",
+    "pub_ts": 1749899790,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#♬#洛天依0712生日快乐#\n歌唱至第十三年的人偶歌者，即使囿于一方天地，却也拥有永远无限缤纷绚烂的舞台。\n洛天依十三周年生日视频征集活动正式开启啦！「生日视觉海报·共鸣心翼」公开~\n转发关注天依，揪1位小伙伴送出【洛天依周边礼包】1份。[歌行宇宙表情包_mua]\n\n活动时间：即日起-7月20日\n参与方式：选择活动话题#洛天依十三周年#投稿与洛天依有关的视频作品，即可视为参与活动\n活动奖励：评选10个特别奖项，分别获得2000元奖金，播放量＞712，点赞量＞100，还可参与瓜分10000元奖金\n\n✨【闪耀的Producer企划同步开启中】\n原创音乐作品投稿至话题#闪耀的Producer#，有机会获得更丰厚的奖项哦！[洛天依心律共鸣表情包_开心]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "♬"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n歌唱至第十三年的人偶歌者，即使囿于一方天地，却也拥有永远无限缤纷绚烂的舞台。\n洛天依十三周年生日视频征集活动正式开启啦！「生日视觉海报·共鸣心翼」公开~\n转发关注天依，揪1位小伙伴送出【洛天依周边礼包】1份。"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n活动时间：即日起-7月20日\n参与方式：选择活动话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "投稿与洛天依有关的视频作品，即可视为参与活动\n活动奖励：评选10个特别奖项，分别获得2000元奖金，播放量＞712，点赞量＞100，还可参与瓜分10000元奖金\n\n✨【闪耀的Producer企划同步开启中】\n原创音乐作品投稿至话题"
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "text",
+        "text": "，有机会获得更丰厚的奖项哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-06-14_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4cd1d8546ce22206ffc29ef22eed990d36081646.png",
+        "width": 1280,
+        "height": 1113,
+        "size_kb": 2049.7265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-06-14_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c72600ff63f2c2b1a0ccda3dd54298d136081646.png",
+        "width": 1280,
+        "height": 3220,
+        "size_kb": 2992.798828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依十三周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依十三周年生日会",
+        "desc1": {
+          "text": "2025-07-12 19:12 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "12.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：iPhone16*1份、洛天依周边礼包*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=4677588&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4677588,
+        "reserve_total": 124063,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5662,
+    "comment": 824,
+    "forward": 1576
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

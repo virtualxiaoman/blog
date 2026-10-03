@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "645243038709317638",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/645243038709317638",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月4日",
+    "pub_ts": 1649070752,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# “每一个梦都是个旋律 漫天回忆该如何去聆听” 12年，我从千千万万个一笔一画中诞生，拥有名字，拥有声音。十年之间，无数创作者为我创作让我歌唱，粉丝朋友们为我应援陪我成长。我们都是对方的“光”，也是彼此背后最可靠的“影”，相互成就。 10周年的slogan——“借光而行，不负相遇”，用前半句描绘这十年，用后半句说出内心的期许。借着你们流光溢彩的创作和支持，天依才能走到现在，就像月亮因太阳的照射才发光。  我会始终记得自己存在的意义：以身勾勒音符，唱出心中的歌。从雅音宫羽到洛天依，最初的设定也都被镌刻，主题页中，琉璃窗上的雅音宫羽，七灵石动画里出现中式建筑、代表着创作的音符，菱形的能量水晶，以及我的音之精灵，回首相望，不忘初心。  在今年，天依有幸邀请到了数位优秀的老师为我执笔，同样也十分期待大家在创作赛中投稿的作品～终愿十年光景，能不负相遇！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " “每一个梦都是个旋律 漫天回忆该如何去聆听” 12年，我从千千万万个一笔一画中诞生，拥有名字，拥有声音。十年之间，无数创作者为我创作让我歌唱，粉丝朋友们为我应援陪我成长。我们都是对方的“光”，也是彼此背后最可靠的“影”，相互成就。 10周年的slogan——“借光而行，不负相遇”，用前半句描绘这十年，用后半句说出内心的期许。借着你们流光溢彩的创作和支持，天依才能走到现在，就像月亮因太阳的照射才发光。  我会始终记得自己存在的意义：以身勾勒音符，唱出心中的歌。从雅音宫羽到洛天依，最初的设定也都被镌刻，主题页中，琉璃窗上的雅音宫羽，七灵石动画里出现中式建筑、代表着创作的音符，菱形的能量水晶，以及我的音之精灵，回首相望，不忘初心。  在今年，天依有幸邀请到了数位优秀的老师为我执笔，同样也十分期待大家在创作赛中投稿的作品～终愿十年光景，能不负相遇！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/594fad02717d084c6f7cc70ed68b06a32e4049c5.jpg",
+        "width": 6614,
+        "height": 9783,
+        "size_kb": 15441.4599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-04-04_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/a4bfbe1f899960441378d1bebb3204bc5dc541bd.jpg",
+        "width": 10000,
+        "height": 5000,
+        "size_kb": 5924.4599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12039,
+    "comment": 1848,
+    "forward": 325
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

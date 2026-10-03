@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1179497027075047448",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1179497027075047448",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月14日",
+    "pub_ts": 1773461452,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“感谢无数次我们交付彼此的勇气”",
+      "desc": "最幸福的时光，就是……\n有你在天依的身旁！\n许下永恒的约定，此后岁岁年年，我们都要一起走下去吧～",
+      "jump_url": "https://www.bilibili.com/video/BV1cxwsz8EKa",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/1a4eb5044f9168a1605c2f6e4c4a6f978a60973a.jpg",
+      "cover_file": "../../_assets/covers/2026-03-14_1.jpg",
+      "bvid": "BV1cxwsz8EKa",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1cxwsz8EKa",
+        "aid": "116225539640556",
+        "cover": "http://i2.hdslb.com/bfs/archive/1a4eb5044f9168a1605c2f6e4c4a6f978a60973a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1cxwsz8EKa",
+        "stat": {
+          "danmaku": "1570",
+          "play": "32.4万",
+          "vt": ""
+        },
+        "duration_text": "00:31",
+        "title": "“感谢无数次我们交付彼此的勇气”",
+        "desc": "最幸福的时光，就是……\n有你在天依的身旁！\n许下永恒的约定，此后岁岁年年，我们都要一起走下去吧～",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 127348,
+    "comment": 2126,
+    "forward": 229
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

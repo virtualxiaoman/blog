@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "1090230293689794578",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1090230293689794578",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月16日",
+    "pub_ts": 1752677421,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "深夜投毒时间～[洛天依八音奇响动态_嘻嘻]\n嘿嘿，是大家投喂给天依的蛋糕、花花和礼物返图来啦！[洛天依八音奇响动态_可爱]\n拍完照后，天依纠结了好久，才舍得吃掉，因为实在太可爱了 8(*╹▽╹*)\n大家的信件、满满心意的手账、各种可爱的周边，天依一点一点翻阅着…\n谢谢大家！天依要把大家的爱意全部珍藏起来，说好的，一点点都不许溜走哦！[洛天依八音奇响动态_爱意]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "深夜投毒时间～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n嘿嘿，是大家投喂给天依的蛋糕、花花和礼物返图来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n拍完照后，天依纠结了好久，才舍得吃掉，因为实在太可爱了 8(*╹▽╹*)\n大家的信件、满满心意的手账、各种可爱的周边，天依一点一点翻阅着…\n谢谢大家！天依要把大家的爱意全部珍藏起来，说好的，一点点都不许溜走哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-16_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/17e550d447df668d5cbdde8994a89da736081646.jpg",
+        "width": 5712,
+        "height": 4284,
+        "size_kb": 934.509,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-16_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9baef8301beaf8c32a47fad752c2396336081646.jpg",
+        "width": 4284,
+        "height": 5712,
+        "size_kb": 516.024,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-16_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/bb4a257b72a4c29987ff74f4806028a436081646.jpg",
+        "width": 5712,
+        "height": 4284,
+        "size_kb": 600.204,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-16_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/44deca40edeb00df7763eda5aa7fbfba36081646.jpg",
+        "width": 4284,
+        "height": 5712,
+        "size_kb": 487.733,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-16_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9ab64b5600ac8b0642c75aea8a13075636081646.jpg",
+        "width": 4284,
+        "height": 5712,
+        "size_kb": 708.914,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-07-16_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d8b595b05d98450290ec9cb6d0cc4cf536081646.jpg",
+        "width": 5712,
+        "height": 4284,
+        "size_kb": 1340.665,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-07-16_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d00783e33c6af97222ce79108639e25036081646.jpg",
+        "width": 5712,
+        "height": 4284,
+        "size_kb": 1073.792,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-07-16_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/21e4ede68f96bba26026e15601739bb836081646.jpg",
+        "width": 5712,
+        "height": 4284,
+        "size_kb": 1252.236,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-07-16_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b106afac260d289c54ccaacf48399b8d36081646.jpg",
+        "width": 5712,
+        "height": 4284,
+        "size_kb": 1411.871,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6844,
+    "comment": 461,
+    "forward": 98
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "693490682625523778",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/693490682625523778",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月12日",
+    "pub_ts": 1660304282,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "i love you too[洛天依_最喜欢你了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "i love you too"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7880,
+    "comment": 279,
+    "forward": 60
+  },
+  "forward": {
+    "orig_id": 693372820122501316,
+    "orig_mid": 112428,
+    "deleted": false,
+    "archive_dir": "../../../112428/2022-08/2022-08-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

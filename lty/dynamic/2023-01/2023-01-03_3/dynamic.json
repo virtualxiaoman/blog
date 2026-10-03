@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "746847744434372611",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/746847744434372611",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月3日",
+    "pub_ts": 1672727441,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果你是洛，你会选择带领小伙伴们：\n在M星上度过了一段轻松愉快的时光，三人决定出发开启新的旅行。\n飞船在宇宙中穿梭，突然一阵颠簸——\n“不妙，前方有大片陨石群，大家抓紧！”\n如果你是洛，你会选择带领小伙伴们：\nA. 掉头逃离陨石区域\nB. 就近选择星球降落\n她们能否躲过陨石的袭击，下一站又会到达何处？\n今晚解锁全新地图，记得来看哦！[洛天依_拉钩]\n",
+    "blocks": [
+      {
+        "type": "vote",
+        "text": "如果你是洛，你会选择带领小伙伴们：",
+        "rid": "4667578",
+        "url": "https://www.bilibili.com/h5/vote?vote_id=4667578&dynamic_id=746847744434372611"
+      },
+      {
+        "type": "text",
+        "text": "\n在M星上度过了一段轻松愉快的时光，三人决定出发开启新的旅行。\n飞船在宇宙中穿梭，突然一阵颠簸——\n“不妙，前方有大片陨石群，大家抓紧！”\n如果你是洛，你会选择带领小伙伴们：\nA. 掉头逃离陨石区域\nB. 就近选择星球降落\n她们能否躲过陨石的袭击，下一站又会到达何处？\n今晚解锁全新地图，记得来看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_拉钩]",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "name": "拉钩",
+        "url": "http://i0.hdslb.com/bfs/emote/31e12ae73ce2d260a0366e1f1df0c18a55a2543b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/拉钩.png",
+        "package_id": "340",
+        "emoji_id": "5576",
+        "text": "[洛天依_拉钩]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "vote",
+      "title": "如果你是洛，你会选择带领小伙伴们：",
+      "desc": "1.2万人参与",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "vote_id": "4667578",
+        "choice_cnt": "1",
+        "default_share": "1",
+        "title": "如果你是洛，你会选择带领小伙伴们：",
+        "desc": "1.2万人参与",
+        "end_time": "1673328942",
+        "join_num": "12083",
+        "status": "4",
+        "type": "0",
+        "uid": "36081646",
+        "jump_url": "",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "参与",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/h5/vote?vote_id=4667578&dyn_id=746847744434372611",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "upower_action_state": 0,
+        "upower_level": "0"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": {
+    "vote_id": "4667578",
+    "choice_cnt": "1",
+    "default_share": "1",
+    "title": "如果你是洛，你会选择带领小伙伴们：",
+    "desc": "1.2万人参与",
+    "end_time": "1673328942",
+    "join_num": "12083",
+    "status": "4",
+    "type": "0",
+    "uid": "36081646",
+    "jump_url": "",
+    "button": {
+      "type": 1,
+      "jump_style": {
+        "icon_url": "",
+        "text": "参与",
+        "interactive": null,
+        "bg_style": 0,
+        "toast": "",
+        "disable": 0
+      },
+      "jump_url": "//www.bilibili.com/h5/vote?vote_id=4667578&dyn_id=746847744434372611",
+      "check": null,
+      "uncheck": null,
+      "status": 0,
+      "click_type": 0
+    },
+    "upower_action_state": 0,
+    "upower_level": "0"
+  },
+  "stats": {
+    "like": 5814,
+    "comment": 358,
+    "forward": 3037
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:48:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

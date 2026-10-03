@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "689786878919966816",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/689786878919966816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月2日",
+    "pub_ts": 1659441923,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#总有一场你我都无法逃避的雨，下一次请让我来为你撑伞吧[洛天依_晚安]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "总有一场你我都无法逃避的雨，下一次请让我来为你撑伞吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_晚安]",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "name": "晚安",
+        "url": "http://i0.hdslb.com/bfs/emote/90d545932788169efa102df5bb23a6ef187d90d5.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/晚安.png",
+        "package_id": "340",
+        "emoji_id": "5577",
+        "text": "[洛天依_晚安]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7884,
+    "comment": 234,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 685224257848868896,
+    "orig_mid": 480714796,
+    "deleted": false,
+    "archive_dir": "../../../480714796/2022-07/2022-07-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:52:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

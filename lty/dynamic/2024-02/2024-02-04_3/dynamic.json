@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "id": "894227223444193305",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/894227223444193305",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月4日",
+    "pub_ts": 1707041900,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# | 新品上线\n洛天依灯火春澜系列 坐姿毛绒玩偶&omamori 3C系列周边\n卷❀评论关注天依，揪3位小伙伴分别送出【新品毛绒玩偶】1个，omamori 【无线鼠标】1个，【骨气传导蓝牙耳机】1个。\n\n在这璀璨的万家灯火中，总有一盏为你点亮。\n当跨年的钟声响起，一切焕然一新，此后，长风而往万象春澜。\n\n※洛天依灯火春澜系列 坐姿毛绒玩偶\n产品售价：预售99元；现货 119 元\n预售时间：2024年2月10日0:00\n出荷时间：2024年4月底\n入手方式：TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n\n※omamori 3C系列周边\nomamori 无线鼠标礼盒 ￥79\nomamori 骨气传导蓝牙耳机礼盒 ￥259\nomamori 机械键盘鼠标垫礼盒 ￥399\n预售时间：2024年2月3日0:00\n出荷时间：2024年4月-5月\n入手方式：bilibili会员购、上海禾念官方TB店\n\n※合集页传送门\n网页链接\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " | 新品上线\n洛天依灯火春澜系列 坐姿毛绒玩偶&omamori 3C系列周边\n卷❀评论关注天依，揪3位小伙伴分别送出【新品毛绒玩偶】1个，omamori 【无线鼠标】1个，【骨气传导蓝牙耳机】1个。\n\n在这璀璨的万家灯火中，总有一盏为你点亮。\n当跨年的钟声响起，一切焕然一新，此后，长风而往万象春澜。\n\n※洛天依灯火春澜系列 坐姿毛绒玩偶\n产品售价：预售99元；现货 119 元\n预售时间：2024年2月10日0:00\n出荷时间：2024年4月底\n入手方式：TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道\n\n※omamori 3C系列周边\nomamori 无线鼠标礼盒 ￥79\nomamori 骨气传导蓝牙耳机礼盒 ￥259\nomamori 机械键盘鼠标垫礼盒 ￥399\n预售时间：2024年2月3日0:00\n出荷时间：2024年4月-5月\n入手方式：bilibili会员购、上海禾念官方TB店\n\n※合集页传送门\n"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/a5PDYhcaazm.html"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-04_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/c83a61a17949d8ab14a697b7d2ec5a9f36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 81.27999877929688,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-02-04_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/953d0722a6682b08703a88c11080f62136081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 83.22000122070312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-02-04_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/892416c5fae258ed42fdec421b937d9636081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 71.80999755859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-02-04_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/0ae2bf09bfb15410c0b72b52b87d3b9436081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 69.48999786376953,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-02-04_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/21554a0510f03f46d89f9c623d70346236081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 72.68000030517578,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-02-04_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/08f405eac5f1d6de045d56d80730d28b36081646.jpg",
+        "width": 640,
+        "height": 400,
+        "size_kb": 61.04999923706055,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-02-04_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/b3d3f2c9dbe7a159311c6de3d8bac33236081646.jpg",
+        "width": 640,
+        "height": 400,
+        "size_kb": 50.52000045776367,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-02-04_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/901afea6de61b93c0861496b23018cb136081646.jpg",
+        "width": 640,
+        "height": 400,
+        "size_kb": 52.70000076293945,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-02-04_10.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/be8d6bd75091b14ec5bad67144dcf58436081646.jpg",
+        "width": 1280,
+        "height": 1280,
+        "size_kb": 163.67999267578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "猫噜噜 洛天依 灯火春澜系列 坐姿毛绒玩偶",
+            "price": "¥111",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/e1/96/e196253b053413984e9bcb46383e52b4.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10260584&msource=cps_Mdynamic_36081646_cont-2-894227223444193305&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-04_2.png"
+          },
+          {
+            "name": "omamori Vsinger 洛天依 无线鼠标礼盒",
+            "price": "¥79",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/17/20/1720caeb2c1c6c2a2c93a08567442f65.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10255878&msource=cps_Mdynamic_36081646_cont-2-894227223444193305&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-04_3.png"
+          },
+          {
+            "name": "omamori Vsinger 洛天依 机械键盘鼠标垫礼盒",
+            "price": "¥359",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/f3/56/f3568bd4c8a755d12d5ea11c3f803fbd.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10255893&msource=cps_Mdynamic_36081646_cont-2-894227223444193305&track_id=__BGMT__&contentId=&from=",
+            "brief": "附赠特典 徽章 色纸 鼠标垫",
+            "cover_file": "../../_assets/covers/2024-02-04_4.png"
+          },
+          {
+            "name": "omamori Vsinger 洛天依 骨气传导蓝牙耳机礼盒",
+            "price": "¥244",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/be/85/be85114586407ab615548d64c22dd3ea.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10258475&msource=cps_Mdynamic_36081646_cont-2-894227223444193305&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-02-04_5.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5956,
+    "comment": 3383,
+    "forward": 2974
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

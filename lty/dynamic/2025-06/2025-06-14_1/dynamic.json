@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1078188004258873431",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1078188004258873431",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月14日",
+    "pub_ts": 1749873607,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【官方MV】MAO！- 洛天依&神山羊-有機酸",
+      "desc": "MAO（猫）のように愛らしい人へ夢中になる気持ちを曲にしました。\n洛天依さんがMAO（猫）であり曲を聴いてくれる人もMAO（猫）だと思いながら書きました。\n为像猫咪般可爱的人着迷的心情，我将它写成一首歌。天依酱是一只猫（MAO），正在听这首歌曲的大家也是一只猫（MAO）。\n \n唱：洛天依\n词/曲：神山羊-有機酸\nTunning：纳兰寻风\nMV：小猫まり",
+      "jump_url": "https://www.bilibili.com/video/BV1DtMMzyEoN",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/1e9908ee6826d3e2da65e34925a853b43a09a8de.jpg",
+      "cover_file": "../../_assets/covers/2025-06-14_1.jpg",
+      "bvid": "BV1DtMMzyEoN",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1DtMMzyEoN",
+        "aid": "114673949088028",
+        "cover": "http://i0.hdslb.com/bfs/archive/1e9908ee6826d3e2da65e34925a853b43a09a8de.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1DtMMzyEoN",
+        "stat": {
+          "danmaku": "2788",
+          "play": "272.6万",
+          "vt": ""
+        },
+        "duration_text": "03:19",
+        "title": "【官方MV】MAO！- 洛天依&神山羊-有機酸",
+        "desc": "MAO（猫）のように愛らしい人へ夢中になる気持ちを曲にしました。\n洛天依さんがMAO（猫）であり曲を聴いてくれる人もMAO（猫）だと思いながら書きました。\n为像猫咪般可爱的人着迷的心情，我将它写成一首歌。天依酱是一只猫（MAO），正在听这首歌曲的大家也是一只猫（MAO）。\n \n唱：洛天依\n词/曲：神山羊-有機酸\nTunning：纳兰寻风\nMV：小猫まり",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 95590,
+    "comment": 3942,
+    "forward": 20
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "411458524092891829",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/411458524092891829",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月13日",
+    "pub_ts": 1594638553,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发这条动态，天依会送出8套2020年全套生日周边哦",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发这条动态，天依会送出8套2020年全套生日周边哦"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8173,
+    "comment": 338,
+    "forward": 4621
+  },
+  "forward": {
+    "orig_id": 411456342247396607,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2020-07-13_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:25:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "935415092463271952",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/935415092463271952",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年5月25日",
+    "pub_ts": 1716631698,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "猫噜噜萌物社 花依奇缘Ver. 50cm玩偶已经开售啦！[古色花香洛天依_请你吃包子]传送门网页链接",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "猫噜噜萌物社 花依奇缘Ver. 50cm玩偶已经开售啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_请你吃包子]",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "name": "请你吃包子",
+        "url": "https://i0.hdslb.com/bfs/garb/item/bd7d7eafe538d8c7c0670bb7e00b7a906ca7b66e.png"
+      },
+      {
+        "type": "text",
+        "text": "传送门"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/ipC6KRt"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/请你吃包子.png",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "text": "[古色花香洛天依_请你吃包子]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3872,
+    "comment": 64,
+    "forward": 75
+  },
+  "forward": {
+    "orig_id": 933940041566126087,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-05-21_4"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:12:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

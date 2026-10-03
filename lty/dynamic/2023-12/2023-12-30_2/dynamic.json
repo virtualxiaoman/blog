@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "id": "880768591227519011",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/880768591227519011",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月30日",
+    "pub_ts": 1703908318,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖【Vsinger洛天依 AI·LUO 系列 依星闪耀·超防护反光双肩背包】新品周边预售开启啦！\n转发并关注，揪1位小伙伴送出【同款反光双肩背包】1个。\n\n「天依温暖你的跨年夜，用闪耀点亮新一年」\n依星闪耀，陪伴你的点滴日常生活\n守护出行，捕捉你的每一刻心动瞬间~\n还有可以捧在手心的天依大号团子[洛天依_捏捏]网页链接\n\n预售截止时间：3月30日\n传送门： 网页链接\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "252902",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "【Vsinger洛天依 AI·LUO 系列 依星闪耀·超防护反光双肩背包】新品周边预售开启啦！\n转发并关注，揪1位小伙伴送出【同款反光双肩背包】1个。\n\n「天依温暖你的跨年夜，用闪耀点亮新一年」\n依星闪耀，陪伴你的点滴日常生活\n守护出行，捕捉你的每一刻心动瞬间~\n还有可以捧在手心的天依大号团子"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://t.bilibili.com/877893810686787623?tab=2&spm_id_from=333.999.0.0"
+      },
+      {
+        "type": "text",
+        "text": "\n\n预售截止时间：3月30日\n传送门： "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/B8UpzwY"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-30_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/3d176f6db7fcedea792d8ffabaf9c98836081646.jpg",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 357.4200134277344,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-12-30_2.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/5e441c520e23422001a409cfe54b992836081646.jpg",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 377.4700012207031,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-12-30_3.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/896bfcf1f44706d753c20e7fd7d7922d36081646.jpg",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 361.7900085449219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-12-30_4.gif",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/ea396242d5957ccddfb1f537c1697e3e36081646.gif",
+        "width": 1280,
+        "height": 1706,
+        "size_kb": 2394.080078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-12-30_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/2882a2575f017b025dded9e426d648f836081646.jpg",
+        "width": 1000,
+        "height": 1547,
+        "size_kb": 221.22000122070312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-12-30_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/fd4afb8261201953c526c165692f97eb36081646.jpg",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 532.8300170898438,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-12-30_7.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/be4bac45bd98912d36faac5f63d8e59f36081646.jpg",
+        "width": 1000,
+        "height": 1879,
+        "size_kb": 209.4199981689453,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-12-30_8.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/587fc90986084a3e3b119c7b9aabbe3436081646.jpg",
+        "width": 877,
+        "height": 1178,
+        "size_kb": 176.17999267578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-12-30_9.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/9bbf10a28a75b9907c9c6ae15a0f858e36081646.jpg",
+        "width": 872,
+        "height": 936,
+        "size_kb": 266.0899963378906,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依星闪耀超防护反光双肩包",
+            "price": "¥184",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/24/8d/248d42f9744113c44a0cb14e44f30bbf.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10207767&msource=cps_Mdynamic_36081646_cont-2-880768591227519011&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-30_1.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依点可爱大号毛绒挂件 可爱款",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/9b/73/9b7370968c64d49cfa4d67b7a0660a9f.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10207882&msource=cps_Mdynamic_36081646_cont-2-880768591227519011&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-30_2.png"
+          },
+          {
+            "name": "Vsinger  洛天依 游学记 藏族款 ",
+            "price": "¥59",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/ee/d9/eed9f88d7eae3392179b5de1fb59ddfb.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10207582&msource=cps_Mdynamic_36081646_cont-2-880768591227519011&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-30_3.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依星闪耀超防护反光长柄雨伞",
+            "price": "¥81",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/f9/1a/f91a10d5fcec93a0200592c90b0c29dc.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198594&msource=cps_Mdynamic_36081646_cont-2-880768591227519011&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-30_4.png"
+          },
+          {
+            "name": "BEMOE Vsinger洛天依 AILUO系列 依点可爱连帽围巾/双面空调毯",
+            "price": "¥101",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/1e/13/1e1380f98405c0435ddf59286269b63e.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10198602&msource=cps_Mdynamic_36081646_cont-2-880768591227519011&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-12-30_5.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "252902"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6577,
+    "comment": 949,
+    "forward": 6165
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:03:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

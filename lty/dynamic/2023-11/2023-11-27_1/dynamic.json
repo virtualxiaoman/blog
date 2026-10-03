@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "868525082818904086",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/868525082818904086",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月27日",
+    "pub_ts": 1701057654,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "11月28日，天依将在36氪 WISE2023的现场为大家表演这首主题曲，一起期待吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "11月28日，天依将在36氪 WISE2023的现场为大家表演这首主题曲，一起期待吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "新歌预告！洛天依X36氪 WISE2023AI主题曲《太阳照常升起》【洛天依全新AI声线】",
+      "desc": "天依很高兴演唱36氪 WISE2023的AI主题曲《太阳照常升起》，这首歌曲的歌词由一位特别的朋友百度文心一言app创作，天依也首次使用哔哩哔哩鸣实验室为我定制的全新AI声线给大家歌唱哦，一起期待明天11月28日天依在36氪 WISE2023的现场表演吧~",
+      "jump_url": "https://www.bilibili.com/video/BV1bQ4y1t7TD",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/90a1a0a24f2705af05a67bccdcc9dbe4eb85b4b8.jpg",
+      "cover_file": "../../_assets/covers/2023-11-27_1.jpg",
+      "bvid": "BV1bQ4y1t7TD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1bQ4y1t7TD",
+        "aid": "706463924",
+        "cover": "http://i2.hdslb.com/bfs/archive/90a1a0a24f2705af05a67bccdcc9dbe4eb85b4b8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1bQ4y1t7TD",
+        "stat": {
+          "danmaku": "79",
+          "play": "12万",
+          "vt": ""
+        },
+        "duration_text": "00:26",
+        "title": "新歌预告！洛天依X36氪 WISE2023AI主题曲《太阳照常升起》【洛天依全新AI声线】",
+        "desc": "天依很高兴演唱36氪 WISE2023的AI主题曲《太阳照常升起》，这首歌曲的歌词由一位特别的朋友百度文心一言app创作，天依也首次使用哔哩哔哩鸣实验室为我定制的全新AI声线给大家歌唱哦，一起期待明天11月28日天依在36氪 WISE2023的现场表演吧~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 17711,
+    "comment": 524,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

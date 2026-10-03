@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1082791169819148321",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1082791169819148321",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月26日",
+    "pub_ts": 1750945365,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "李艺彤 X 洛天依《CONNECT~心的连接~》",
+      "desc": "战歌起！李艺彤 X 洛天依 跨次元特别企划！",
+      "jump_url": "https://www.bilibili.com/video/BV1itNEzyEZA",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/8888d84e1b67385416dbd632df27134940c86fc7.jpg",
+      "cover_file": "../../_assets/covers/2025-06-26_1.jpg",
+      "bvid": "BV1itNEzyEZA",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1itNEzyEZA",
+        "aid": "114704282357596",
+        "cover": "http://i0.hdslb.com/bfs/archive/8888d84e1b67385416dbd632df27134940c86fc7.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1itNEzyEZA",
+        "stat": {
+          "danmaku": "3357",
+          "play": "118.9万",
+          "vt": ""
+        },
+        "duration_text": "04:14",
+        "title": "李艺彤 X 洛天依《CONNECT~心的连接~》",
+        "desc": "战歌起！李艺彤 X 洛天依 跨次元特别企划！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 30525,
+    "comment": 1492,
+    "forward": 18
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:31:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

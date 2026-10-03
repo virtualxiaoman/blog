@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "752762970949287993",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/752762970949287993",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月19日",
+    "pub_ts": 1674104687,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发并关注，评论说说你最喜欢的单品，揪3位小伙伴获得本系列随机周边。\n\n神秘的信号引导洛，开启了一趟未知的星际旅行。\n为特殊的回忆留下纪念，洛天依 Project Luo系列全新周边来啦！ \n故事的结局，也将留给你们续写......\n\n【代号洛天依 Project Luo系列】\nCD播放器、天钿毛绒痛包\n编织手绳、盖毯\n毛绒公仔、场景立牌\n马口铁徽章、系列船票 \n\n系列商品将于1月22日0点开启预售，详情请戳~ 网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发并关注，评论说说你最喜欢的单品，揪3位小伙伴获得本系列随机周边。\n\n神秘的信号引导洛，开启了一趟未知的星际旅行。\n为特殊的回忆留下纪念，洛天依 Project Luo系列全新周边来啦！ \n故事的结局，也将留给你们续写......\n\n【代号洛天依 Project Luo系列】\nCD播放器、天钿毛绒痛包\n编织手绳、盖毯\n毛绒公仔、场景立牌\n马口铁徽章、系列船票 \n\n系列商品将于1月22日0点开启预售，详情请戳~ "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/act/aicms/AoJLDkbDF.html?msource=yyqbanner_lty_bb_P"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-19_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ff11eb459fae345345f9f7df128a64a436081646.png",
+        "width": 1000,
+        "height": 11443,
+        "size_kb": 7274.8681640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-01-19_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/9c36ee7f2251aa3fcf16a2c55863cf3636081646.jpg",
+        "width": 1000,
+        "height": 13549,
+        "size_kb": 3401.7802734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-01-19_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/5ff59c5b0705de1ab83b29ecf233e81236081646.jpg",
+        "width": 2084,
+        "height": 35105,
+        "size_kb": 3710.998046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-01-19_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f7811b3992c324c4c99c2fe22558adba36081646.jpg",
+        "width": 1000,
+        "height": 14792,
+        "size_kb": 3765.3984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-01-19_5.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/0a1fa3a87378e2b156ac563c380117d936081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 3741.6376953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-01-19_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/71294b0a75d95ddfa2ba69a305476fae36081646.jpg",
+        "width": 2084,
+        "height": 25571,
+        "size_kb": 19409.7705078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-01-19_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/ad0270cbd4e7075be38fba3b9bcb358336081646.jpg",
+        "width": 2084,
+        "height": 20428,
+        "size_kb": 13150.9814453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-01-19_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/be42e24a42e08c27f71be1d6278c684f36081646.jpg",
+        "width": 2084,
+        "height": 24499,
+        "size_kb": 14527.7607421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-01-19_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/41f9df98cba1cf4211de63a60965acd136081646.jpg",
+        "width": 2084,
+        "height": 30834,
+        "size_kb": 4378.640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9198,
+    "comment": 2717,
+    "forward": 2356
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:50:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

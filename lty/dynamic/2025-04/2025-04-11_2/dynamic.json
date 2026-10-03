@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "id": "1054546249369255944",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1054546249369255944",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月11日",
+    "pub_ts": 1744369082,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依 X 鹿鸣世界工作室 戏游九州Q版手办现已开售~[洛天依·戏游九州动态_登场]\n\n“粉墨千年，戏游九州，山海同梦，戏魂重生。”\n\n🏮产品信息：\n-产品售价：预售 199r，现货 238 r\n-产品材质：PVC+ABS+亚克力\n- 产品尺寸：人物部分约13.5cm, 整体高约19cm\n- 预售特典： 透卡\n- 出荷时间：2025年Q3",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 X 鹿鸣世界工作室 戏游九州Q版手办现已开售~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_登场]",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b0e9b1358e9f604183a513a855ee7cbbafcedeaf.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“粉墨千年，戏游九州，山海同梦，戏魂重生。”\n\n🏮产品信息：\n-产品售价：预售 199r，现货 238 r\n-产品材质：PVC+ABS+亚克力\n- 产品尺寸：人物部分约13.5cm, 整体高约19cm\n- 预售特典： 透卡\n- 出荷时间：2025年Q3"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/登场.gif",
+        "package_id": "7318",
+        "emoji_id": "98448",
+        "text": "[洛天依·戏游九州动态_登场]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依 X 鹿鸣世界工作室 戏游九州Q版手办 实物展示",
+      "desc": "洛天依 X 鹿鸣世界工作室 戏游九州Q版手办现已开售~\n\n“粉墨千年，戏游九州，山海同梦，戏魂重生。”\n\n🏮产品信息：\n-产品售价：预售 199r，现货 238 r\n-产品材质：PVC+ABS+亚克力\n- 产品尺寸：人物部分约13.5cm, 整体高约19cm\n- 预售特典： 透卡\n- 出荷时间：2025年Q3",
+      "jump_url": "https://www.bilibili.com/video/BV1sTdUYZERx",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/96473ab0f36df84d626f62de2c71b86b5bba91fe.png",
+      "cover_file": "../../_assets/covers/2025-04-11_1.png",
+      "bvid": "BV1sTdUYZERx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1sTdUYZERx",
+        "aid": "114318926416720",
+        "cover": "http://i0.hdslb.com/bfs/archive/96473ab0f36df84d626f62de2c71b86b5bba91fe.png",
+        "jump_url": "//www.bilibili.com/video/BV1sTdUYZERx",
+        "stat": {
+          "danmaku": "49",
+          "play": "3.7万",
+          "vt": ""
+        },
+        "duration_text": "01:09",
+        "title": "洛天依 X 鹿鸣世界工作室 戏游九州Q版手办 实物展示",
+        "desc": "洛天依 X 鹿鸣世界工作室 戏游九州Q版手办现已开售~\n\n“粉墨千年，戏游九州，山海同梦，戏魂重生。”\n\n🏮产品信息：\n-产品售价：预售 199r，现货 238 r\n-产品材质：PVC+ABS+亚克力\n- 产品尺寸：人物部分约13.5cm, 整体高约19cm\n- 预售特典： 透卡\n- 出荷时间：2025年Q3",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7829,
+    "comment": 505,
+    "forward": 4778
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "495320036879383479",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/495320036879383479",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月24日",
+    "pub_ts": 1614164083,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "好冷呀，不过很快就不冷了吧[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "好冷呀，不过很快就不冷了吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6946,
+    "comment": 307,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 494845958385695951,
+    "orig_mid": 172790,
+    "deleted": false,
+    "archive_dir": "../../../172790/2021-02/2021-02-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

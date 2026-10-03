@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "id": "1238969082791854083",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1238969082791854083",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月21日",
+    "pub_ts": 1787308369,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 “歌声唤醒云朵、浪花与星辰，让万物在蓝色旋律中共鸣。”[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]\n洛天依2026巡演「纯蓝幻乐」主题收藏集正式开启啦！[洛天依14周年·纯蓝幻乐 动态表情包_感动]\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~[洛天依14周年·纯蓝幻乐 动态表情包_展示]\n\n🎶卡池收录：动态数字音乐卡、精美数字卡牌\n🎶羁绊之礼解锁：越冰船典藏卡、专属勋章、专属动态表情包、动态个性主题、专属头像框\n🎶传送入口：网页链接\n\n有限时间里，这是我们一同创造的奇观 [洛天依14周年·纯蓝幻乐 动态表情包_登场]\n评论里再揪5位小伙伴赠送【许愿普卡】1张[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "422578",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " “歌声唤醒云朵、浪花与星辰，让万物在蓝色旋律中共鸣。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/c40744465a07dbe19263b3b9edcade10eee29712.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依2026巡演「纯蓝幻乐」主题收藏集正式开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_感动]",
+        "package_id": "10238",
+        "emoji_id": "145988",
+        "name": "感动",
+        "url": "https://i0.hdslb.com/bfs/garb/690c8ae9a245b35a06fe1eace2844c501230a9db.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/2a0de49c1ca305d19eaff614d79da7d9f2bd611a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎶卡池收录：动态数字音乐卡、精美数字卡牌\n🎶羁绊之礼解锁：越冰船典藏卡、专属勋章、专属动态表情包、动态个性主题、专属头像框\n🎶传送入口："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=114113&f_source=social&from=share_dynamic"
+      },
+      {
+        "type": "text",
+        "text": "\n\n有限时间里，这是我们一同创造的奇观 "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_登场]",
+        "package_id": "10238",
+        "emoji_id": "145970",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/b86d74a2be39156754dbc1b676d658a736f1fd3c.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n评论里再揪5位小伙伴赠送【许愿普卡】1张"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "name": "拥抱",
+        "url": "https://i0.hdslb.com/bfs/garb/65eb4c9e4124d9e698ae248af2d5167d1c262ba6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-21_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/04fc5697f02b2202035332c42f00ad5f36081646.jpg",
+        "width": 1125,
+        "height": 13495,
+        "size_kb": 11765.8466796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/唱歌.gif",
+        "package_id": "10238",
+        "emoji_id": "145972",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_唱歌]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/感动.gif",
+        "package_id": "10238",
+        "emoji_id": "145988",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_感动]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/展示.gif",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/登场.gif",
+        "package_id": "10238",
+        "emoji_id": "145970",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/拥抱.gif",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·新像集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/c38636530a4a2624cef156b0d027ab4b56474175.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=0&rebate=10878474&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2026-08-21_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "422578"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5352,
+    "comment": 725,
+    "forward": 6086
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

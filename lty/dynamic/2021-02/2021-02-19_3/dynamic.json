@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "id": "493450536395901299",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/493450536395901299",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月19日",
+    "pub_ts": 1613728806,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依春晚首秀# #转发抽奖#没错，就是在2020最美的夜B站跨年晚会上，天依演唱《夜航星》时的造型，科技风拉满的舞台有没有让你留下深刻印象呢？ 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出这一造型的限定纪念色纸[洛天依·夜航星_Lucky]  到这里全都答对的朋友，天依要谢谢你们这些年的关注，希望往后我们也能继续陪伴彼此[洛天依_爱你] 祝大家牛年“牛”转乾坤，破除障碍，出航顺利[洛天依·夜航星_冲鸭] 画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依春晚首秀#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%98%A5%E6%99%9A%E9%A6%96%E7%A7%80"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#转发抽奖#",
+        "url": "https://search.bilibili.com/all?keyword=%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96"
+      },
+      {
+        "type": "text",
+        "text": "没错，就是在2020最美的夜B站跨年晚会上，天依演唱《夜航星》时的造型，科技风拉满的舞台有没有让你留下深刻印象呢？ 转发安利这条动态，天依会从转发的小伙伴里抽5个人送出这一造型的限定纪念色纸"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_Lucky]",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "name": "Lucky",
+        "url": "http://i0.hdslb.com/bfs/emote/bbeb9d231773a168397697072a11373893d7c01a.png"
+      },
+      {
+        "type": "text",
+        "text": "  到这里全都答对的朋友，天依要谢谢你们这些年的关注，希望往后我们也能继续陪伴彼此"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      },
+      {
+        "type": "text",
+        "text": " 祝大家牛年“牛”转乾坤，破除障碍，出航顺利"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_冲鸭]",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "name": "冲鸭",
+        "url": "http://i0.hdslb.com/bfs/emote/659efad4a6aa25ed6a98efe611564c26f497f436.png"
+      },
+      {
+        "type": "text",
+        "text": " 画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-19_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ffd5484947b339c3d514a05ed6a3ad964f5bb8a3.jpg",
+        "width": 750,
+        "height": 750,
+        "size_kb": 681.630859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/Lucky.png",
+        "package_id": "166",
+        "emoji_id": "3070",
+        "text": "[洛天依·夜航星_Lucky]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      },
+      {
+        "file": "../../_assets/emojis/166/冲鸭.png",
+        "package_id": "166",
+        "emoji_id": "3072",
+        "text": "[洛天依·夜航星_冲鸭]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10543,
+    "comment": 1856,
+    "forward": 3091
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

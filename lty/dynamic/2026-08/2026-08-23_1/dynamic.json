@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1239610027177672705",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1239610027177672705",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月23日",
+    "pub_ts": 1787457600,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "大家午好，小洛为大家带来洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n广州站·官方周边场贩预购活动情报啦[洛天依14周年·纯蓝幻乐 动态表情包_打call]\n转发关注天依，揪1位小伙伴送出【广州场贩礼盒】1份~\n\n🔺购买渠道：【Manverse漫游宇宙】小程序\n\n✨预购开启时间\n8月23日12:00-8月29日19:12\n*自提订单须在8月29日17:00前下单\n\n✨核销领取时间\n8月29日15:00-19:12\n\n大家广州见啦~ [洛天依14周年·纯蓝幻乐 动态表情包_邀请]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家午好，小洛为大家带来洛天依 2026「无限共鸣・纯蓝幻乐」巡回演唱会\n广州站·官方周边场贩预购活动情报啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/4401a18bbf1425651c30f6ea29d6fb7052f3b1d2.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪1位小伙伴送出【广州场贩礼盒】1份~\n\n🔺购买渠道：【Manverse漫游宇宙】小程序\n\n✨预购开启时间\n8月23日12:00-8月29日19:12\n*自提订单须在8月29日17:00前下单\n\n✨核销领取时间\n8月29日15:00-19:12\n\n大家广州见啦~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "name": "邀请",
+        "url": "https://i0.hdslb.com/bfs/garb/f7f110a8c874b6bb31a453eed43cf0792bc68b41.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-23_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4fdaa0f6f0dfb2ab0173ad0e6edf202236081646.png",
+        "width": 859,
+        "height": 9151,
+        "size_kb": 6920.439453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-23_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/344a1be2ed5f0d8e8dca61c7c0bdda9936081646.png",
+        "width": 859,
+        "height": 7036,
+        "size_kb": 4762.5751953125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/打call.gif",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/邀请.gif",
+        "package_id": "10238",
+        "emoji_id": "145985",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_邀请]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6321,
+    "comment": 1829,
+    "forward": 3540
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "482696015604483772",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/482696015604483772",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月21日",
+    "pub_ts": 1611224824,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "让沿途的风景丰富名为生活的书页吧~ ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让沿途的风景丰富名为生活的书页吧~ "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5956,
+    "comment": 114,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 475313787160126694,
+    "orig_mid": 249030155,
+    "deleted": false,
+    "archive_dir": "../../../249030155/2021-01/2021-01-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:27:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

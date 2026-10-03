@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "893091831664869399",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/893091831664869399",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月1日",
+    "pub_ts": 1706777546,
+    "location": ""
+  },
+  "topic": {
+    "id": 1099829,
+    "name": "2024虚拟歌手贺岁纪",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1099829&topic_name=2024%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+  },
+  "content": {
+    "title": "",
+    "text": "老师们辛苦啦！期待大家的作品~[Vsinger_给大佬递茶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "老师们辛苦啦！期待大家的作品~"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3203,
+    "comment": 67,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 892640537956319232,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2024-01/2024-01-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:05:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

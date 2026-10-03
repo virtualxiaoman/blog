@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "879283374348304400",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/879283374348304400",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月26日",
+    "pub_ts": 1703562514,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "高燃预警！天依战斗力MAX！！洛天依X潘婷首度合作新年动画《奇迹驯龙少女》",
+      "desc": "你是否曾经有过面对前方挑战，不知所措的时刻。\n当想要向前再走一步的时候，力量从哪里来？\n洛天依携手护发品牌潘婷，在新年即将到来的时刻，联合共创全新洛天依奇迹驯龙动画微电影。\n当面对龙鳞立起，嚣张至极的“恶龙”找到一招驯服的内心源力\n就像面对无能为力的秀发损伤，修护发丝，从发芯开始。",
+      "jump_url": "https://www.bilibili.com/video/BV1zQ4y1E72t",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/9fa9bd3b4e03d796bed2eb98b651b43badc86540.jpg",
+      "cover_file": "../../_assets/covers/2023-12-26_1.jpg",
+      "bvid": "BV1zQ4y1E72t",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1zQ4y1E72t",
+        "aid": "707856430",
+        "cover": "http://i0.hdslb.com/bfs/archive/9fa9bd3b4e03d796bed2eb98b651b43badc86540.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1zQ4y1E72t",
+        "stat": {
+          "danmaku": "609",
+          "play": "112.2万",
+          "vt": ""
+        },
+        "duration_text": "01:21",
+        "title": "高燃预警！天依战斗力MAX！！洛天依X潘婷首度合作新年动画《奇迹驯龙少女》",
+        "desc": "你是否曾经有过面对前方挑战，不知所措的时刻。\n当想要向前再走一步的时候，力量从哪里来？\n洛天依携手护发品牌潘婷，在新年即将到来的时刻，联合共创全新洛天依奇迹驯龙动画微电影。\n当面对龙鳞立起，嚣张至极的“恶龙”找到一招驯服的内心源力\n就像面对无能为力的秀发损伤，修护发丝，从发芯开始。",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 40204,
+    "comment": 923,
+    "forward": 131
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

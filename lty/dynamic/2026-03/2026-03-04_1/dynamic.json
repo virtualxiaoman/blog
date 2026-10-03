@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1175898742163767351",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1175898742163767351",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月4日",
+    "pub_ts": 1772623661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【原创曲】『岁剪新光』献给天依的原创曲 | 讲一个关于剪纸传承的温馨小故事【2026虚拟新春会单品】",
+      "desc": "我们十余位新兴创作者，共同为洛天依献上一首温馨的小曲，讲一个关于剪纸传承的故事~\n我们或许是大家口中另一种V的圈层的人，但同时毋庸置疑，我们也是天依的粉丝和创作者~\n在我们主创团队里，大家或许也会发现一些熟悉的老朋友~\n总之，祝大家听的开心，顺顺利利，笑口常开，好运常伴~\n\n歌曲：『岁剪新光』\n企划：洛神宝宝\n演唱：洛天依\n制作人：洛神宝宝、酸甜大橙子OuO、星米Staice\n故事编导：凤小七seven、洛神宝宝\n调校：鬼面P\n作词：洛澜Aurelia\n作曲：酸甜大橙子OuO\n编曲：马可谦、酸甜大橙子Ou",
+      "jump_url": "https://www.bilibili.com/video/BV1akPvzLEgs",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/63f7f651b0094c9b6b87dad11ad9440a60406ed5.jpg",
+      "cover_file": "../../_assets/covers/2026-03-04_1.jpg",
+      "bvid": "BV1akPvzLEgs",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1akPvzLEgs",
+        "aid": "116170308984379",
+        "cover": "http://i1.hdslb.com/bfs/archive/63f7f651b0094c9b6b87dad11ad9440a60406ed5.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1akPvzLEgs",
+        "stat": {
+          "danmaku": "75",
+          "play": "9.9万",
+          "vt": ""
+        },
+        "duration_text": "04:50",
+        "title": "【原创曲】『岁剪新光』献给天依的原创曲 | 讲一个关于剪纸传承的温馨小故事【2026虚拟新春会单品】",
+        "desc": "我们十余位新兴创作者，共同为洛天依献上一首温馨的小曲，讲一个关于剪纸传承的故事~\n我们或许是大家口中另一种V的圈层的人，但同时毋庸置疑，我们也是天依的粉丝和创作者~\n在我们主创团队里，大家或许也会发现一些熟悉的老朋友~\n总之，祝大家听的开心，顺顺利利，笑口常开，好运常伴~\n\n歌曲：『岁剪新光』\n企划：洛神宝宝\n演唱：洛天依\n制作人：洛神宝宝、酸甜大橙子OuO、星米Staice\n故事编导：凤小七seven、洛神宝宝\n调校：鬼面P\n作词：洛澜Aurelia\n作曲：酸甜大橙子OuO\n编曲：马可谦、酸甜大橙子Ou",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14391,
+    "comment": 530,
+    "forward": 34
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

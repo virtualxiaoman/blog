@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "534177108519099914",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/534177108519099914",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月9日",
+    "pub_ts": 1623211200,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #2021高考季# 历经这漫长的几天，终于能不负三年光阴，向曾经埋案苦读的自己说声“辛苦了”！ 无论最终结果如何，无论是否还有下一个考场要奔赴，请相信答案卡上的一切都是你努力的证明。 我希望你们走出考场时心情是轻松雀跃的，而你们的未来将是晴空万里的蓝天。  大家，辛苦了！ [洛天依_耶]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2021高考季#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E9%AB%98%E8%80%83%E5%AD%A3"
+      },
+      {
+        "type": "text",
+        "text": " 历经这漫长的几天，终于能不负三年光阴，向曾经埋案苦读的自己说声“辛苦了”！ 无论最终结果如何，无论是否还有下一个考场要奔赴，请相信答案卡上的一切都是你努力的证明。 我希望你们走出考场时心情是轻松雀跃的，而你们的未来将是晴空万里的蓝天。  大家，辛苦了！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_耶]",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "name": "耶",
+        "url": "http://i0.hdslb.com/bfs/emote/2c149fb2c7f5ed2132301b8dbf9ce91b706b65c8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-09_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e26e436b4d234f2179cf78a133fb8f0a33555bba.jpg",
+        "width": 1267,
+        "height": 1800,
+        "size_kb": 808.7666015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/耶.png",
+        "package_id": "101",
+        "emoji_id": "2210",
+        "text": "[洛天依_耶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11259,
+    "comment": 616,
+    "forward": 240
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

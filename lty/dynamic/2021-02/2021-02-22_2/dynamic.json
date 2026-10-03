@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "494533203161911481",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/494533203161911481",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月22日",
+    "pub_ts": 1613980884,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "猫咪好治愈[洛天依·夜航星_崇拜]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "猫咪好治愈"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_崇拜]",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "name": "崇拜",
+        "url": "http://i0.hdslb.com/bfs/emote/55c633884ca8405aade71d05fbaa687ab6fedd4a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/崇拜.png",
+        "package_id": "166",
+        "emoji_id": "3081",
+        "text": "[洛天依·夜航星_崇拜]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7585,
+    "comment": 194,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 183977634249750847,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2018-11/2018-11-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

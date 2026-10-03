@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "924188292531879940",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/924188292531879940",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月25日",
+    "pub_ts": 1714017755,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小伙伴们，天依携手交通银行信用卡再次邀大家体验民族奇妙之旅啦~想要get这张天依同款卡面的超多福利主题信用卡？戳评论区办卡链接，即可轻松拥有哦！[洛天依歌行四方_咚嚓！]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小伙伴们，天依携手交通银行信用卡再次邀大家体验民族奇妙之旅啦~想要get这张天依同款卡面的超多福利主题信用卡？戳评论区办卡链接，即可轻松拥有哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_咚嚓！]",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "name": "咚嚓！",
+        "url": "https://i0.hdslb.com/bfs/emote/b40f306d25ec7a4e1977b0cfff107a8cb27c045d.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/咚嚓！.png",
+        "package_id": "4128",
+        "emoji_id": "58596",
+        "text": "[洛天依歌行四方_咚嚓！]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3993,
+    "comment": 80,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 924156724504428725,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2024-04/2024-04-25_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:10:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

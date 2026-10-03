@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "612157178991861620",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/612157178991861620",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月5日",
+    "pub_ts": 1641367350,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#每天许下一个小心愿！今天的愿望就是大家可以听听这首歌好啦~[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "每天许下一个小心愿！今天的愿望就是大家可以听听这首歌好啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6112,
+    "comment": 123,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 605897113829199245,
+    "orig_mid": 3220270,
+    "deleted": false,
+    "archive_dir": "../../../3220270/2021-12/2021-12-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

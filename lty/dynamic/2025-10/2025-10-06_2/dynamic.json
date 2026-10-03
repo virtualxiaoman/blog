@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "1120569143763927045",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1120569143763927045",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月6日",
+    "pub_ts": 1759741235,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依最近认识了一位新朋友哦@奶龙小七 \n我们一起来祝大家中秋快乐啦！[洛天依八音奇响_爱意]\n大家今天吃月饼了嘛，吃了什么馅儿哒？[洛天依八音奇响_美丽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依最近认识了一位新朋友哦"
+      },
+      {
+        "type": "mention",
+        "text": "@奶龙小七 ",
+        "mid": 230481071,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n我们一起来祝大家中秋快乐啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响_爱意]",
+        "package_id": "8363",
+        "emoji_id": "115097",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/b266215c3a86e246284bb7056a5273ce85a04baa.png"
+      },
+      {
+        "type": "text",
+        "text": "\n大家今天吃月饼了嘛，吃了什么馅儿哒？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响_美丽]",
+        "package_id": "8363",
+        "emoji_id": "115090",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/7678ef49d2ac043c8883d112a8714dc5f0c18ba7.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-10-06_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/18012177e83f59fb2152a11f9ee69d0e36081646.png",
+        "width": 3000,
+        "height": 4342,
+        "size_kb": 5702.306,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8363/爱意.png",
+        "package_id": "8363",
+        "emoji_id": "115097",
+        "text": "[洛天依八音奇响_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8363/美丽.png",
+        "package_id": "8363",
+        "emoji_id": "115090",
+        "text": "[洛天依八音奇响_美丽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8149,
+    "comment": 4001,
+    "forward": 412
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

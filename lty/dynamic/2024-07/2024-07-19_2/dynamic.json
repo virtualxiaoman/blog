@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "955559790245838868",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/955559790245838868",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月19日",
+    "pub_ts": 1721322001,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@碇の维@云集壹@明月下成仙等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@碇の维",
+        "mid": 587302365,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@云集壹",
+        "mid": 400640129,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@明月下成仙",
+        "mid": 510181244,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3607,
+    "comment": 88,
+    "forward": 17
+  },
+  "forward": {
+    "orig_id": 933125891862560770,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-05/2024-05-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:06+08:00",
+    "force": false,
+    "failures": []
+  }
+}

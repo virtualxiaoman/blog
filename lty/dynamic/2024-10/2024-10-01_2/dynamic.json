@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "983192359972896784",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/983192359972896784",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月1日",
+    "pub_ts": 1727755710,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家国庆快乐呀！[歌行宇宙表情包_mua]享受假期的同时，天依也非常期待，也希望大家多多支持老师们的创作哦～[歌行宇宙表情包_组织放心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家国庆快乐呀！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "享受假期的同时，天依也非常期待，也希望大家多多支持老师们的创作哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_组织放心]",
+        "package_id": "5880",
+        "emoji_id": "86892",
+        "name": "组织放心",
+        "url": "https://i0.hdslb.com/bfs/garb/93ee95620ccff021df7b220087ebc61e7e79c473.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/组织放心.png",
+        "package_id": "5880",
+        "emoji_id": "86892",
+        "text": "[歌行宇宙表情包_组织放心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4508,
+    "comment": 148,
+    "forward": 42
+  },
+  "forward": {
+    "orig_id": 983190229667020871,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-10/2024-10-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:20:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

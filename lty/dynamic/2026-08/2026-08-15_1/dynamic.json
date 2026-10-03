@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "id": "1236673920945356808",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1236673920945356808",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月15日",
+    "pub_ts": 1786773985,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "曾经来自大家的这座心意满满的花篮\n天依很高兴将其珍藏，再带到今天这样幸福美好的时刻\n上海站的大家有没有前往打卡呀？\n谢谢大家的花篮，谢谢大家的到来，一定要享受接下来的演出哦！\n一起在今天，继续留下珍贵的回忆吧~ [洛天依14周年·四重奏_爱你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "曾经来自大家的这座心意满满的花篮\n天依很高兴将其珍藏，再带到今天这样幸福美好的时刻\n上海站的大家有没有前往打卡呀？\n谢谢大家的花篮，谢谢大家的到来，一定要享受接下来的演出哦！\n一起在今天，继续留下珍贵的回忆吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_爱你]",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/bc2a4f74fb26c171585377e011df9d27938b2529.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/39cc382dcea1f6a0ff1dcf4d456b477936081646.jpg",
+        "width": 3201,
+        "height": 4800,
+        "size_kb": 8712.826171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-15_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c394da08907fd666cad86af45f0cc41536081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 7437.40625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-15_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/907af02b40eb0888b8308ab7c70770de36081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 264.697265625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-15_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0102d3e7571c72399fcb63bebab0967736081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 6911.771484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-15_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/026266c1bcc4fce1ed979b86f54dd18a36081646.jpg",
+        "width": 2448,
+        "height": 3662,
+        "size_kb": 4241.1767578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-15_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3cdcf77a3737f55531bd260c9c16841636081646.jpg",
+        "width": 4689,
+        "height": 3127,
+        "size_kb": 4819.1376953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-15_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/406c1ce251fdcc74dbb636baf6d26f7a36081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 6945.4619140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-15_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f228b25e13288fbbe07867079f91339536081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 6019.2275390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-15_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/68d9adf2c5c84af14058ff09cc7d6b7836081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 8506.5771484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/爱你.gif",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "text": "[洛天依14周年·四重奏_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6220,
+    "comment": 293,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:36:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

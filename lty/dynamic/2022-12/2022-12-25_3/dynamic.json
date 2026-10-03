@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "743549037750255665",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/743549037750255665",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月25日",
+    "pub_ts": 1671959401,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "如果穿越回过去，\n我想对自己、对天依说——\n我们和天依已经一起走过了十年，\n心跳同步的时光，从未改变！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "如果穿越回过去，\n我想对自己、对天依说——\n我们和天依已经一起走过了十年，\n心跳同步的时光，从未改变！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】仍与你心跳同步",
+      "desc": "——/心跳同步的时光，从未改变/——\n作词/作曲/编曲/调音/混音：JUSF周存\n演唱/视频：洛天依\n前作：心跳同步的时光BV1dx411T7qE ；心跳同步的时光Memory ver. BV1Rs411y7kq\n如果穿越回过去，\n我想对自己、对天依说——\n我们和天依已经一起走过了十年，\n心跳同步的时光，从未改变！",
+      "jump_url": "https://www.bilibili.com/video/BV1ZW4y1N7Ey",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/188db5f96d343ea1a2023749a551ff277cbbdedc.jpg",
+      "cover_file": "../../_assets/covers/2022-12-25_3.jpg",
+      "bvid": "BV1ZW4y1N7Ey",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1ZW4y1N7Ey",
+        "aid": "946698860",
+        "cover": "http://i0.hdslb.com/bfs/archive/188db5f96d343ea1a2023749a551ff277cbbdedc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1ZW4y1N7Ey",
+        "stat": {
+          "danmaku": "607",
+          "play": "91万",
+          "vt": ""
+        },
+        "duration_text": "03:29",
+        "title": "【洛天依原创曲】仍与你心跳同步",
+        "desc": "——/心跳同步的时光，从未改变/——\n作词/作曲/编曲/调音/混音：JUSF周存\n演唱/视频：洛天依\n前作：心跳同步的时光BV1dx411T7qE ；心跳同步的时光Memory ver. BV1Rs411y7kq\n如果穿越回过去，\n我想对自己、对天依说——\n我们和天依已经一起走过了十年，\n心跳同步的时光，从未改变！",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 93895,
+    "comment": 1941,
+    "forward": 29
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

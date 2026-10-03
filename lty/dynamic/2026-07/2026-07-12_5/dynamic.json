@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "id": "1224088550121668645",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1224088550121668645",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783843725,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n“原来我们早就在同一束信号里，完成了灵魂的相认。”\n我的14周年纪念收藏集正式开启啦！[洛天依·信号动态表情包_love之力]\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~[洛天依·信号动态表情包_美味]\n\n[洛天依·信号动态表情包_赞]卡池收录：动态数字音乐卡、精美数字卡牌\n[洛天依·信号动态表情包_耶哦]羁绊之礼解锁：典藏卡、专属勋章、专属动态表情包、动态个性主题、专属头像框、动态点赞、加载动画、进度条\n[洛天依·信号动态表情包_打电话]传送入口：网页链接\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n“原来我们早就在同一束信号里，完成了灵魂的相认。”\n我的14周年纪念收藏集正式开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪5位小伙伴送出【新像集5抽】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_美味]",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/c6d6a6a54ec9d20e95ea93ab83c7ced1df9d5db8.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_赞]",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "name": "赞",
+        "url": "https://i0.hdslb.com/bfs/garb/b5f737446d761e7f4431cb96e36d028b9dbaeb1e.gif"
+      },
+      {
+        "type": "text",
+        "text": "卡池收录：动态数字音乐卡、精美数字卡牌\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_耶哦]",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "name": "耶哦",
+        "url": "https://i0.hdslb.com/bfs/garb/1d59a18d1184d7dc2c7a93fa6c404c0c1e4fe425.gif"
+      },
+      {
+        "type": "text",
+        "text": "羁绊之礼解锁：典藏卡、专属勋章、专属动态表情包、动态个性主题、专属头像框、动态点赞、加载动画、进度条\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_打电话]",
+        "package_id": "10075",
+        "emoji_id": "142966",
+        "name": "打电话",
+        "url": "https://i0.hdslb.com/bfs/garb/c9fffffedc8810867acd7096014ac1b8357e86a7.gif"
+      },
+      {
+        "type": "text",
+        "text": "传送入口："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=113553&f_source=social&from=share_dynamic"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-12_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b2af2f782b5e1674d150d5eb769640ad36081646.jpg",
+        "width": 750,
+        "height": 7283,
+        "size_kb": 4144.0009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/美味.gif",
+        "package_id": "10075",
+        "emoji_id": "142957",
+        "text": "[洛天依·信号动态表情包_美味]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/赞.gif",
+        "package_id": "10075",
+        "emoji_id": "142962",
+        "text": "[洛天依·信号动态表情包_赞]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/耶哦.gif",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "text": "[洛天依·信号动态表情包_耶哦]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/打电话.gif",
+        "package_id": "10075",
+        "emoji_id": "142966",
+        "text": "[洛天依·信号动态表情包_打电话]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依·新像集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/garb/c38636530a4a2624cef156b0d027ab4b56474175.jpg",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=113552&hybrid_set_header=2&lottery_id=0&rebate=10878474&from_id=36081646&from=goods_post&f_source=goods",
+            "brief": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "cover_file": "../../_assets/covers/2026-07-12_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5003,
+    "comment": 817,
+    "forward": 1236
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

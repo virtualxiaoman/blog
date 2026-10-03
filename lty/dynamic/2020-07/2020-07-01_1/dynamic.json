@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "407006253617882469",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/407006253617882469",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月1日",
+    "pub_ts": 1593601928,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#与洛天依分享你的城# #2020洛天依生日应援# #洛天依0712生日快乐#  这是一方能令人心神宁静的天地，有着传统的闽南风情，也有临海城市朝气的活力，信步街上，处处可见人们的笑脸。 第四站来到的城市是福建省厦门市，既然来到了厦门，那天依就一定得感受一下“海上花园”的魅力，小小的岛屿有大大的浪漫，许多文化在此地交汇，中外建筑并立的景象，勾起了想要更深入了解这里的好奇心。 这里也是著名的“钢琴之岛”，钢琴密度居全国之冠，还设有专门的博物馆，或许是受到音乐的美好熏陶，这里的人都特别亲切可爱，悠扬的琴音让天依想起去年跟郎朗老师的联合演唱会，在古典乐的旋律中，心情也变得非常平和。 今天的提示已经很多啦，不会再说下去了~ 天依现在就要考考你们这座岛的名字，知道答案的小伙伴记得评论+转发回复（三个字），有机会获得天依的厦门限定宣传海报！ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#与洛天依分享你的城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E5%9F%8E"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  这是一方能令人心神宁静的天地，有着传统的闽南风情，也有临海城市朝气的活力，信步街上，处处可见人们的笑脸。 第四站来到的城市是福建省厦门市，既然来到了厦门，那天依就一定得感受一下“海上花园”的魅力，小小的岛屿有大大的浪漫，许多文化在此地交汇，中外建筑并立的景象，勾起了想要更深入了解这里的好奇心。 这里也是著名的“钢琴之岛”，钢琴密度居全国之冠，还设有专门的博物馆，或许是受到音乐的美好熏陶，这里的人都特别亲切可爱，悠扬的琴音让天依想起去年跟郎朗老师的联合演唱会，在古典乐的旋律中，心情也变得非常平和。 今天的提示已经很多啦，不会再说下去了~ 天依现在就要考考你们这座岛的名字，知道答案的小伙伴记得评论+转发回复（三个字），有机会获得天依的厦门限定宣传海报！ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/76c9d5465da8e44bdb3bee031c73f327813927f1.jpg",
+        "width": 2600,
+        "height": 1733,
+        "size_kb": 1708.771484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9721,
+    "comment": 1305,
+    "forward": 977
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

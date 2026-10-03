@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1147307836386050055",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1147307836386050055",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月17日",
+    "pub_ts": 1765966822,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶「无限共鸣·流光协奏」武汉站观演须知来啦！\n武汉站的小伙伴们注意查收~[洛天依八音奇响动态_爱意]\n\n💐花篮入场登记\n-申请时间：即日起-12月22日\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n\n🎶演出时间\n12月27日 19:12\n🎶演出场地\n武汉国际博览中心B5馆\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶「无限共鸣·流光协奏」武汉站观演须知来啦！\n武汉站的小伙伴们注意查收~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n💐花篮入场登记\n-申请时间：即日起-12月22日\n-申请方式：发送邮件，并附上花篮的设计样式图纸及尺寸\n\n🎶演出时间\n12月27日 19:12\n🎶演出场地\n武汉国际博览中心B5馆"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-12-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/03ce966fefcbe1613a1c49e6c1e1f8ee36081646.jpg",
+        "width": 1080,
+        "height": 16584,
+        "size_kb": 8068.259765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "武汉· 2025洛天依《无限共鸣·流光协奏》全息巡回演唱会",
+            "price": "¥480",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202511/4IRUpwSl1764052981121.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=110561&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1147307836386050055",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-12-17_2.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4507,
+    "comment": 221,
+    "forward": 48
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:42:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "977067289916473377",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/977067289916473377",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月15日",
+    "pub_ts": 1726329606,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@绫依丿@哎呀咋又饿了@血压拉满_等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@绫依丿",
+        "mid": 2093481406,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@哎呀咋又饿了",
+        "mid": 1454547130,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@血压拉满_",
+        "mid": 3461574490590081,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3674,
+    "comment": 63,
+    "forward": 16
+  },
+  "forward": {
+    "orig_id": 967331217531731977,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-08/2024-08-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:19:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

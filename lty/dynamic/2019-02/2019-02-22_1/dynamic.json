@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "id": "223176997601258632",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/223176997601258632",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年2月22日",
+    "pub_ts": 1550800844,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "明天就是天依和郎朗老师的演唱会啦~天依心里既紧张又期待～非常感谢大家对T爹设计的演唱会礼服的喜爱，为此我们特地准备了天依演唱会限定礼服款盒蛋，今天正式开启预售啦！这款盒蛋不仅有可爱的限定钢琴底座，还有一个特别的钢琴场景版本供大家选择，天依觉得图片并没有完全展现出场景的美貌，哈哈~ 预售链接：https://item.taobao.com/item.htm?id=587500330630  感谢盒蛋原画_Haku白_ 以及出品方ACTOYS 的大力支持～\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "明天就是天依和郎朗老师的演唱会啦~天依心里既紧张又期待～非常感谢大家对T爹设计的演唱会礼服的喜爱，为此我们特地准备了天依演唱会限定礼服款盒蛋，今天正式开启预售啦！这款盒蛋不仅有可爱的限定钢琴底座，还有一个特别的钢琴场景版本供大家选择，天依觉得图片并没有完全展现出场景的美貌，哈哈~ 预售链接：https://item.taobao.com/item.htm?id=587500330630  感谢盒蛋原画_Haku白_ 以及出品方ACTOYS 的大力支持～"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-02-22_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0a85b80329b32153af1a8f94232c31836f0a9a58.jpg",
+        "width": 2400,
+        "height": 1600,
+        "size_kb": 1678.5185546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2019-02-22_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/65760e83ad54bbd814c171937965395b43b4b6cf.jpg",
+        "width": 2400,
+        "height": 1600,
+        "size_kb": 1591.3310546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2019-02-22_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/72edee974e2e8e1b23b9aff81ead9c9a40e4db9d.jpg",
+        "width": 2400,
+        "height": 1600,
+        "size_kb": 1508.8564453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2019-02-22_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/4a50383e11765e36d17060c560c1f6992a2b7127.jpg",
+        "width": 7952,
+        "height": 5304,
+        "size_kb": 9574.8349609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2019-02-22_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/39e1872272a88614541a68455bef94d301bbe625.jpg",
+        "width": 750,
+        "height": 5512,
+        "size_kb": 680.76171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2019-02-22_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/7a2f7c869b17e8729635355c5cdd082f698789cc.jpg",
+        "width": 7952,
+        "height": 5304,
+        "size_kb": 8918.6962890625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2019-02-22_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c5652d5d1492f33495897e949c653219c0bcdc73.jpg",
+        "width": 7952,
+        "height": 5304,
+        "size_kb": 6483.150390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2019-02-22_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/b43f5197ff32a905c3922cdfd3ca5ec383ec0644.jpg",
+        "width": 7952,
+        "height": 5304,
+        "size_kb": 6440.3740234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2019-02-22_9.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/3c2c41f6695476e792a8924c77806faafba843a6.jpg",
+        "width": 7952,
+        "height": 5304,
+        "size_kb": 3955.052734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6026,
+    "comment": 478,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

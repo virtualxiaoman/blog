@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "955843657497313321",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/955843657497313321",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年7月19日",
+    "pub_ts": 1721388094,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "老v：好天依捞一下这条扣扣装扮[古色花香洛天依_请你吃包子]\n天依：好说好说~[古色花香洛天依_喝茶]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "老v：好天依捞一下这条扣扣装扮"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_请你吃包子]",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "name": "请你吃包子",
+        "url": "https://i0.hdslb.com/bfs/garb/item/bd7d7eafe538d8c7c0670bb7e00b7a906ca7b66e.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依：好说好说~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_喝茶]",
+        "package_id": "1096",
+        "emoji_id": "19430",
+        "name": "喝茶",
+        "url": "https://i0.hdslb.com/bfs/garb/item/34b92a29cc7d9a4dde5c0f506eb371425cb797f6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/请你吃包子.png",
+        "package_id": "1096",
+        "emoji_id": "19434",
+        "text": "[古色花香洛天依_请你吃包子]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/喝茶.png",
+        "package_id": "1096",
+        "emoji_id": "19430",
+        "text": "[古色花香洛天依_喝茶]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4969,
+    "comment": 360,
+    "forward": 101
+  },
+  "forward": {
+    "orig_id": 952914171958132776,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2024-07-11_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

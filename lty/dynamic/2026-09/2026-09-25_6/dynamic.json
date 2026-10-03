@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "id": "1251948697304957059",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1251948697304957059",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月25日",
+    "pub_ts": 1790330421,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "胸のあたり痛むのに\n明明胸口隐隐作痛\n病名は付かない\n却没有一个可以称呼的病名\n#香椎モイミ##洛天依##盲目シャボン##闪耀的Producer##日文原创##神椿工作室#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "胸のあたり痛むのに\n明明胸口隐隐作痛\n病名は付かない\n却没有一个可以称呼的病名\n"
+      },
+      {
+        "type": "topic",
+        "text": "#香椎モイミ#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%A4%8E%E3%83%A2%E3%82%A4%E3%83%9F"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#盲目シャボン#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%9B%B2%E7%9B%AE%E3%82%B7%E3%83%A3%E3%83%9C%E3%83%B3"
+      },
+      {
+        "type": "topic",
+        "text": "#闪耀的Producer#",
+        "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+      },
+      {
+        "type": "topic",
+        "text": "#日文原创#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%96%87%E5%8E%9F%E5%88%9B"
+      },
+      {
+        "type": "topic",
+        "text": "#神椿工作室#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%A5%9E%E6%A4%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "盲目シャボン / 香椎モイミ feat. 洛天依",
+      "desc": "盲目シャボン / 香椎モイミ feat. 洛天依\n\nMusic&Lyrics 香椎モイミ　https://x.com/moi__moimi\nIllustration ｽｲﾐﾝ　https://x.com/sui_0z0\nMovie ode　https://x.com/o_d_eee\n\n誰にも会いたくないのは\n「心に飼ってる黒の雨雲、\n　見られちゃったらどうしよう」\nそんなことばっか考えてるから\n\n怪物も悪魔も見抜くの出来なくて\n誰とでも握手するよ\nだけど突然はじけちゃうかもね\n\n寂しいよ　苦しいの\n私は臆",
+      "jump_url": "https://www.bilibili.com/video/BV1khaA6hECW",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/80be746420e189e19fa9669515dd3ad34b0731d0.jpg",
+      "cover_file": "../../_assets/covers/2026-09-25_2.jpg",
+      "bvid": "BV1khaA6hECW",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1khaA6hECW",
+        "aid": "117325336479700",
+        "cover": "http://i1.hdslb.com/bfs/archive/80be746420e189e19fa9669515dd3ad34b0731d0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1khaA6hECW",
+        "stat": {
+          "danmaku": "399",
+          "play": "10.5万",
+          "vt": ""
+        },
+        "duration_text": "03:39",
+        "title": "盲目シャボン / 香椎モイミ feat. 洛天依",
+        "desc": "盲目シャボン / 香椎モイミ feat. 洛天依\n\nMusic&Lyrics 香椎モイミ　https://x.com/moi__moimi\nIllustration ｽｲﾐﾝ　https://x.com/sui_0z0\nMovie ode　https://x.com/o_d_eee\n\n誰にも会いたくないのは\n「心に飼ってる黒の雨雲、\n　見られちゃったらどうしよう」\nそんなことばっか考えてるから\n\n怪物も悪魔も見抜くの出来なくて\n誰とでも握手するよ\nだけど突然はじけちゃうかもね\n\n寂しいよ　苦しいの\n私は臆",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25661,
+    "comment": 1434,
+    "forward": 25
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

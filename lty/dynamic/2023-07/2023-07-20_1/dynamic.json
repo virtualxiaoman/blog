@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "820327264505823267",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/820327264505823267",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月20日",
+    "pub_ts": 1689835725,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#BW2023#\n拥「豹」海洋，携手相伴。\n7月21-23日，上海国家会展中心3H馆3A21@比亚迪汽车海洋 展台\n天依将在21号下午13点带来与比亚迪的原创合作曲《拥抱海洋》，现场还有海豹改装的天依痛车，记得来展台找天依，用拥「豹」一起治愈生活吧！ [洛天依幻游世界_摸摸]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#BW2023#",
+        "url": "https://search.bilibili.com/all?keyword=BW2023"
+      },
+      {
+        "type": "text",
+        "text": "\n拥「豹」海洋，携手相伴。\n7月21-23日，上海国家会展中心3H馆3A21"
+      },
+      {
+        "type": "mention",
+        "text": "@比亚迪汽车海洋",
+        "mid": 1789475866,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 展台\n天依将在21号下午13点带来与比亚迪的原创合作曲《拥抱海洋》，现场还有海豹改装的天依痛车，记得来展台找天依，用拥「豹」一起治愈生活吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_摸摸]",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c97346bd9f5bb64a1cad8eecf85f50cc7a083eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-20_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dacec48830eb7020c50bc8ff76c338af36081646.jpg",
+        "width": 2160,
+        "height": 4680,
+        "size_kb": 5435.4306640625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/摸摸.png",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "text": "[洛天依幻游世界_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8021,
+    "comment": 506,
+    "forward": 146
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

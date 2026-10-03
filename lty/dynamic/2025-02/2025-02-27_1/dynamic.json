@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "id": "1038579347699531777",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1038579347699531777",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月27日",
+    "pub_ts": 1740651498,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 雪落人间，天使降临！洛天依「雪天使坐姿玩偶」&「雪天使全国通用交通卡」新品上架~转发关注天依，揪1位小伙伴赠送同款玩偶1个！\n\n踏入梦幻之境，天依化身雪天使降临。\n打破沉睡的宁静，将甜美的梦境唤醒~[洛天依·天星问动态_萌]\n\n❄猫噜噜 雪天使坐姿玩偶\n产品售价：预售169r；现货189r\n出荷时间：2025年6月 \n传送门：网页链接\n*服饰可穿脱，毛绒大翅膀支持自由拆卸\n\n❄雪天使 全国通用交通卡\n持卡可畅行全国330+城市\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "345952",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 雪落人间，天使降临！洛天依「雪天使坐姿玩偶」&「雪天使全国通用交通卡」新品上架~转发关注天依，揪1位小伙伴赠送同款玩偶1个！\n\n踏入梦幻之境，天依化身雪天使降临。\n打破沉睡的宁静，将甜美的梦境唤醒~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·天星问动态_萌]",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "name": "萌",
+        "url": "https://i0.hdslb.com/bfs/garb/3ed01457a5a2c7c2ec304a1aa0565033f4b7fde4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n❄猫噜噜 雪天使坐姿玩偶\n产品售价：预售169r；现货189r\n出荷时间：2025年6月 \n传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/cGzrfhv"
+      },
+      {
+        "type": "text",
+        "text": "\n*服饰可穿脱，毛绒大翅膀支持自由拆卸\n\n❄雪天使 全国通用交通卡\n持卡可畅行全国330+城市"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-02-27_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a3c95c5bbbca15827e1e05472683268c36081646.jpg",
+        "width": 1000,
+        "height": 12089,
+        "size_kb": 4480.8330078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-02-27_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7a732b3ded0a0b368e28fa25d4ffe5de36081646.jpg",
+        "width": 1280,
+        "height": 7283,
+        "size_kb": 9355.25,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7618/萌.gif",
+        "package_id": "7618",
+        "emoji_id": "103415",
+        "text": "[洛天依·天星问动态_萌]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 雪天使系列周边",
+            "price": "¥12",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/4d/b8/6418db407b339a1d7234f710e6a83f65.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=11276284&loadingShow=1&noTitleBar=1&msource=cps_Mdynamic_36081646_cont-2-1038579347699531777&track_id=__BGMT__&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-02-27_1.png"
+          },
+          {
+            "name": "上海公共交通卡 洛天依 雪天使 标准交通卡",
+            "price": "¥40",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/0b/0f/0b0fc70dd1902ecd81036a8d941d4393.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=11271202&msource=cps_Mdynamic_36081646_cont-2-1038579347699531777&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-02-27_2.png"
+          },
+          {
+            "name": "猫噜噜 Vsinger 洛天依 雪天使 坐姿毛绒玩偶 哔哩哔哩独家首发",
+            "price": "¥154",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/ea/e9/eae9496422aea890e2ac4c7886d43c55.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=11350450&msource=cps_Mdynamic_36081646_cont-2-1038579347699531777&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-02-27_3.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "345952"
+  },
+  "vote": null,
+  "stats": {
+    "like": 4949,
+    "comment": 832,
+    "forward": 6039
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

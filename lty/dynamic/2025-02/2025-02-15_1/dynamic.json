@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1034122133701132313",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1034122133701132313",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月15日",
+    "pub_ts": 1739613722,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@倒立的茶杯@代号Z先生@论三中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@倒立的茶杯",
+        "mid": 456184211,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@代号Z先生",
+        "mid": 40186086,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@论三",
+        "mid": 1813825960,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4361,
+    "comment": 90,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 1021876516229742600,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-01/2025-01-13_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:27:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "id": "535427008423951456",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/535427008423951456",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月12日",
+    "pub_ts": 1623502215,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依0712生日快乐# 【九周年第一弹】还记得去年五月，天依在浙江卫视《天赐的声音》节目和张韶涵老师合作那首《芒种》吗？ 历时一年企划，携手GSAS @GoodSmileArts上海，终于将这个经典造型还原~  「1/8比例手办 洛天依 芒种Ver.」原画&彩色原型初次公开！ 画师：@-TID-  彩色原型将于明天开展的#WF2021上海#GSAS展位展示，现场更有1:1等身大手办，期待你的到来！ 「洛天依 芒种Ver.」将于本月开启正式预售，持续关注天依动态，第一时间获得预售信息哦[洛天依·夜航星_好康]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 【九周年第一弹】还记得去年五月，天依在浙江卫视《天赐的声音》节目和张韶涵老师合作那首《芒种》吗？ 历时一年企划，携手GSAS @GoodSmileArts上海，终于将这个经典造型还原~  「1/8比例手办 洛天依 芒种Ver.」原画&彩色原型初次公开！ 画师：@-TID-  彩色原型将于明天开展的"
+      },
+      {
+        "type": "topic",
+        "text": "#WF2021上海#",
+        "url": "https://search.bilibili.com/all?keyword=WF2021%E4%B8%8A%E6%B5%B7"
+      },
+      {
+        "type": "text",
+        "text": "GSAS展位展示，现场更有1:1等身大手办，期待你的到来！ 「洛天依 芒种Ver.」将于本月开启正式预售，持续关注天依动态，第一时间获得预售信息哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_好康]",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "name": "好康",
+        "url": "http://i0.hdslb.com/bfs/emote/730e0d30a6556f433fa317f8468ce7229e4c7872.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-12_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/ca80fd7a50bc191791548d5baeab1c36f89a1771.jpg",
+        "width": 1080,
+        "height": 1620,
+        "size_kb": 1468.49,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2021-06-12_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/6296be8348ed60eefc5857416c256d31ec2ffc72.jpg",
+        "width": 1080,
+        "height": 1507,
+        "size_kb": 1040.21,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/好康.png",
+        "package_id": "166",
+        "emoji_id": "3073",
+        "text": "[洛天依·夜航星_好康]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10291,
+    "comment": 800,
+    "forward": 344
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

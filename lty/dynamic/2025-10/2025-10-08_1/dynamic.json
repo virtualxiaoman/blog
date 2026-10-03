@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "1121322146017050675",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1121322146017050675",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月8日",
+    "pub_ts": 1759916557,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "呜呜呜假期假期不要走～\n转眼假期就快结束啦，大家有没有什么有趣的事情想分享哒？\n或者有没有带天依出去玩的照片！想看想看～[洛天依八音奇响动态_可爱]\n出去玩了这么久，能量和假期一起耗尽了～～还是和大家一起最幸福最开心啦！大家呢，有没有想天依呀？[洛天依八音奇响动态_嘻嘻]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "呜呜呜假期假期不要走～\n转眼假期就快结束啦，大家有没有什么有趣的事情想分享哒？\n或者有没有带天依出去玩的照片！想看想看～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n出去玩了这么久，能量和假期一起耗尽了～～还是和大家一起最幸福最开心啦！大家呢，有没有想天依呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-10-08_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3f824129007818702d68783360048e8d36081646.jpg",
+        "width": 1358,
+        "height": 2080,
+        "size_kb": 516.5700073242188,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8052,
+    "comment": 1008,
+    "forward": 107
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

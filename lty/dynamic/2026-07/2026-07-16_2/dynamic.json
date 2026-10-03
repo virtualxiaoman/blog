@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1225601710031896577",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1225601710031896577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月16日",
+    "pub_ts": 1784196035,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "让这抹属于洛天依的「蓝」，被感知，被触碰，编织这场「纯蓝幻乐」之梦",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "让这抹属于洛天依的「蓝」，被感知，被触碰，编织这场「纯蓝幻乐」之梦"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "舞美灯光展示【2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会】",
+      "desc": "如何用有限时间搭建一场关于梦想的奇观？\n巨屏动态光幕系统、数控灯光矩阵\n多维感官场域，裸眼3D特效，沉浸式气味叙事\n让视觉彻底重构，突破原有框架，重构4D视界\n音响、乐队、歌声......亟待你们的呼喊声，共同搭建出这片音乐幻境\n让这抹属于洛天依的「蓝」，被感知，被触碰，编织这场「纯蓝幻乐」之梦\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会多城市售票进行中！\n🏔北京站https://show.bilibili.com/platform/detail.html?id=1002171\n❀杭州站https",
+      "jump_url": "https://www.bilibili.com/video/BV1qgKG62EgB",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5b99060b5a89c50a402b09668b364b728b36143c.jpg",
+      "cover_file": "../../_assets/covers/2026-07-16_1.jpg",
+      "bvid": "BV1qgKG62EgB",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qgKG62EgB",
+        "aid": "116928924551034",
+        "cover": "http://i0.hdslb.com/bfs/archive/5b99060b5a89c50a402b09668b364b728b36143c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qgKG62EgB",
+        "stat": {
+          "danmaku": "81",
+          "play": "6.2万",
+          "vt": ""
+        },
+        "duration_text": "00:48",
+        "title": "舞美灯光展示【2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会】",
+        "desc": "如何用有限时间搭建一场关于梦想的奇观？\n巨屏动态光幕系统、数控灯光矩阵\n多维感官场域，裸眼3D特效，沉浸式气味叙事\n让视觉彻底重构，突破原有框架，重构4D视界\n音响、乐队、歌声......亟待你们的呼喊声，共同搭建出这片音乐幻境\n让这抹属于洛天依的「蓝」，被感知，被触碰，编织这场「纯蓝幻乐」之梦\n \n洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会多城市售票进行中！\n🏔北京站https://show.bilibili.com/platform/detail.html?id=1002171\n❀杭州站https",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13439,
+    "comment": 869,
+    "forward": 88
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

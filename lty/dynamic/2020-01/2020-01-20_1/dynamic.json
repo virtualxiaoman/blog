@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "346545827197285764",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/346545827197285764",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年1月20日",
+    "pub_ts": 1579524888,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这个春节，与天依一起度过吧(o^^o)",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这个春节，与天依一起度过吧(o^^o)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8709,
+    "comment": 897,
+    "forward": 87
+  },
+  "forward": {
+    "orig_id": 346516595648651295,
+    "orig_mid": 2306780,
+    "deleted": false,
+    "archive_dir": "../../../2306780/2020-01/2020-01-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:22:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

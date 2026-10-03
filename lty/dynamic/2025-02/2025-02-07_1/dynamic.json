@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1031151876069916690",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1031151876069916690",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月7日",
+    "pub_ts": 1738922155,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在情绪的雨幕里，既想逃离，又想沉沦，廉价吗，普通吗，无用吗，但这就是我们的真实，我们的世界，我们的梦呀[洛天依蝶变_电吉他！]请多多支持聆听吧~[洛天依蝶变_轻唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在情绪的雨幕里，既想逃离，又想沉沦，廉价吗，普通吗，无用吗，但这就是我们的真实，我们的世界，我们的梦呀"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_电吉他！]",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "name": "电吉他！",
+        "url": "https://i0.hdslb.com/bfs/emote/e6ae3f9ca8f096ed2803f38c12b67001c3822e6d.png"
+      },
+      {
+        "type": "text",
+        "text": "请多多支持聆听吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/电吉他！.png",
+        "package_id": "3752",
+        "emoji_id": "52567",
+        "text": "[洛天依蝶变_电吉他！]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6342,
+    "comment": 164,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 1028911049891381329,
+    "orig_mid": 526573745,
+    "deleted": false,
+    "archive_dir": "../../../526573745/2025-02/2025-02-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:27:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

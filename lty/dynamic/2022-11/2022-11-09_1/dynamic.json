@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "726510795091869714",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/726510795091869714",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年11月9日",
+    "pub_ts": 1667992376,
+    "location": ""
+  },
+  "topic": {
+    "id": 57026,
+    "name": "天依的心声代理站",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=57026&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%BF%83%E5%A3%B0%E4%BB%A3%E7%90%86%E7%AB%99"
+  },
+  "content": {
+    "title": "",
+    "text": "吹着夜晚的海风，享受这一刻的悠闲时光~ 今日小破店打卡完毕👉https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH 《为大家而作的歌》第二期筹备中！留言多多！持续征集大家的灵感ing~ “给远方的朋友” “给回不去的童年” “给不被理解的热爱” ...... 会有什么样的灵感被创作老师们选中呢，已经开始期待啦！♪₍๐•ᴗ•๐₎\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "吹着夜晚的海风，享受这一刻的悠闲时光~ 今日小破店打卡完毕👉https://docs.qq.com/sheet/DSmtYc3RSaHRFT1VH 《为大家而作的歌》第二期筹备中！留言多多！持续征集大家的灵感ing~ “给远方的朋友” “给回不去的童年” “给不被理解的热爱” ...... 会有什么样的灵感被创作老师们选中呢，已经开始期待啦！♪₍๐•ᴗ•๐₎"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-11-09_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/38425dbf061a9f83029260a122ae39d436081646.jpg",
+        "width": 5472,
+        "height": 3648,
+        "size_kb": 664.780029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-11-09_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d755a68602b2fa2f5b4456a5c22e344b36081646.jpg",
+        "width": 1000,
+        "height": 2000,
+        "size_kb": 105.69999694824219,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9310,
+    "comment": 360,
+    "forward": 83
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

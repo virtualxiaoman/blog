@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "864906701471481938",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/864906701471481938",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月17日",
+    "pub_ts": 1700215184,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "加依点温暖，再加依点可爱~[洛天依蝶变_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "加依点温暖，再加依点可爱~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_wink]",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/c23dbfbda90512b1cc66153aac9c4368460d6eca.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/wink.png",
+        "package_id": "3752",
+        "emoji_id": "52568",
+        "text": "[洛天依蝶变_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4327,
+    "comment": 181,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 864804373877751812,
+    "orig_mid": 35365327,
+    "deleted": false,
+    "archive_dir": "../../../35365327/2023-11/2023-11-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

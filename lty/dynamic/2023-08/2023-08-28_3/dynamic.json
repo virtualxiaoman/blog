@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "834881431234674710",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/834881431234674710",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月28日",
+    "pub_ts": 1693224381,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "缤纷而瑰丽的神秘热土——新疆\n这里的音乐欢快随心，明亮热情\n音乐与舞蹈渗透尽新疆人的血脉，成为不可分割的一部分\n8月29日，《天依游学记·歌行》第三集 新疆篇采风Vlog要来咯！\n天依有幸见证了一个非常重要特别的时刻！大家要来看呀~[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "缤纷而瑰丽的神秘热土——新疆\n这里的音乐欢快随心，明亮热情\n音乐与舞蹈渗透尽新疆人的血脉，成为不可分割的一部分\n8月29日，《天依游学记·歌行》第三集 新疆篇采风Vlog要来咯！\n天依有幸见证了一个非常重要特别的时刻！大家要来看呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《天依游学记·歌行》第三集 新疆篇采风Vlog 预告",
+      "desc": "缤纷而瑰丽的神秘热土——新疆\n这里的音乐欢快随心，明亮热情\n音乐与舞蹈渗透尽新疆人的血脉，成为不可分割的一部分\n8月29日，《天依游学记·歌行》第三集 新疆篇采风Vlog要来咯！\n天依有幸见证了一个非常重要特别的时刻！大家要来看呀~[洛天依_捏捏]",
+      "jump_url": "https://www.bilibili.com/video/BV1iG411Z7Lr",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/fd8d44b937554e474875f9065250936d701cb22f.jpg",
+      "cover_file": "../../_assets/covers/2023-08-28_1.jpg",
+      "bvid": "BV1iG411Z7Lr",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1iG411Z7Lr",
+        "aid": "405270817",
+        "cover": "http://i2.hdslb.com/bfs/archive/fd8d44b937554e474875f9065250936d701cb22f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1iG411Z7Lr",
+        "stat": {
+          "danmaku": "28",
+          "play": "7.2万",
+          "vt": ""
+        },
+        "duration_text": "00:16",
+        "title": "《天依游学记·歌行》第三集 新疆篇采风Vlog 预告",
+        "desc": "缤纷而瑰丽的神秘热土——新疆\n这里的音乐欢快随心，明亮热情\n音乐与舞蹈渗透尽新疆人的血脉，成为不可分割的一部分\n8月29日，《天依游学记·歌行》第三集 新疆篇采风Vlog要来咯！\n天依有幸见证了一个非常重要特别的时刻！大家要来看呀~[洛天依_捏捏]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12282,
+    "comment": 248,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

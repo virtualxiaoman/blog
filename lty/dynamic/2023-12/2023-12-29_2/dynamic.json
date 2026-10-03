@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "880491333890867223",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/880491333890867223",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月29日",
+    "pub_ts": 1703843764,
+    "location": ""
+  },
+  "topic": {
+    "id": 1128291,
+    "name": "B站跨年营业中",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1128291&topic_name=B%E7%AB%99%E8%B7%A8%E5%B9%B4%E8%90%A5%E4%B8%9A%E4%B8%AD"
+  },
+  "content": {
+    "title": "",
+    "text": "大家关于天依的今年印象最深刻的舞台或是回忆是什么呀？[洛天依_捏捏]希望能将更多我们之间的回忆铭刻为永恒的纪念带给大家，无论是今年的跨晚舞台，还是各种可爱的纪念周边网页链接 （大家还想要什么周边呀！），感谢大家又一年的陪伴，转发这条动态，揪1位小伙伴送出【价值500元天依豪华周边礼盒】1份哦[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家关于天依的今年印象最深刻的舞台或是回忆是什么呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "希望能将更多我们之间的回忆铭刻为永恒的纪念带给大家，无论是今年的跨晚舞台，还是各种可爱的纪念周边"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/rn1BjIN"
+      },
+      {
+        "type": "text",
+        "text": " （大家还想要什么周边呀！），感谢大家又一年的陪伴，转发这条动态，揪1位小伙伴送出【价值500元天依豪华周边礼盒】1份哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      },
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3859,
+    "comment": 387,
+    "forward": 620
+  },
+  "forward": {
+    "orig_id": 880479879227768853,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-12-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:02:36+08:00",
+    "force": false,
+    "failures": []
+  }
+}

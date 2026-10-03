@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "960561189444648966",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/960561189444648966",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月1日",
+    "pub_ts": 1722486480,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "第四期更新啦！希望天依可以一如既往地陪伴大家在创作之路上前行~[洛天依心律共鸣表情包_开心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "第四期更新啦！希望天依可以一如既往地陪伴大家在创作之路上前行~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_开心]",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "name": "开心",
+        "url": "https://i0.hdslb.com/bfs/garb/795608184bd489440657a1d6d4c507a9a5ac0ec9.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/开心.png",
+        "package_id": "5361",
+        "emoji_id": "78499",
+        "text": "[洛天依心律共鸣表情包_开心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4128,
+    "comment": 123,
+    "forward": 51
+  },
+  "forward": {
+    "orig_id": 960554012577366020,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-08/2024-08-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "989599557826379783",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/989599557826379783",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月18日",
+    "pub_ts": 1729247502,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "你牵起我的手，奔赴原野，越过山海，在雨中奔跑，亦共伞相依\n这便是属于你与洛天依的《永不完结的歌》",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你牵起我的手，奔赴原野，越过山海，在雨中奔跑，亦共伞相依\n这便是属于你与洛天依的《永不完结的歌》"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依十二周年纪念EP】永不完结的歌【试听PV】",
+      "desc": "洛天依十二周年生日纪念EP《永不完结的歌》正式上线啦！\n又一个普通的夜晚，轻轻哼起我们的歌谣。\n或许稚嫩，或许不完美，或许记忆已经朦胧......\n但此刻的心绪，此刻的梦想，此刻的渴望，\n注入眼中那道模糊又清晰的蓝色身影——\n光与梦交织命运的篇章，笑与泪镌刻下永恒的诗行。\n你牵起我的手，奔赴原野，越过山海，在雨中奔跑，亦共伞相依，\n这便是属于你与洛天依的《永不完结的歌》。\n\n♪收录歌曲\n《光梦交响》BV1iM4m127gw\n《你眼中的蓝》BV1n1421b7zC\n《群伞在雨幕中盛开》BV1WT421k7W",
+      "jump_url": "https://www.bilibili.com/video/BV1C2C1YnE5A",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/e2db539a93b3622980e3748801faf3c836a37b5c.jpg",
+      "cover_file": "../../_assets/covers/2024-10-18_1.jpg",
+      "bvid": "BV1C2C1YnE5A",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1C2C1YnE5A",
+        "aid": "113327946600156",
+        "cover": "http://i1.hdslb.com/bfs/archive/e2db539a93b3622980e3748801faf3c836a37b5c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1C2C1YnE5A",
+        "stat": {
+          "danmaku": "198",
+          "play": "16.4万",
+          "vt": ""
+        },
+        "duration_text": "04:44",
+        "title": "【洛天依十二周年纪念EP】永不完结的歌【试听PV】",
+        "desc": "洛天依十二周年生日纪念EP《永不完结的歌》正式上线啦！\n又一个普通的夜晚，轻轻哼起我们的歌谣。\n或许稚嫩，或许不完美，或许记忆已经朦胧......\n但此刻的心绪，此刻的梦想，此刻的渴望，\n注入眼中那道模糊又清晰的蓝色身影——\n光与梦交织命运的篇章，笑与泪镌刻下永恒的诗行。\n你牵起我的手，奔赴原野，越过山海，在雨中奔跑，亦共伞相依，\n这便是属于你与洛天依的《永不完结的歌》。\n\n♪收录歌曲\n《光梦交响》BV1iM4m127gw\n《你眼中的蓝》BV1n1421b7zC\n《群伞在雨幕中盛开》BV1WT421k7W",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 21037,
+    "comment": 622,
+    "forward": 143
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

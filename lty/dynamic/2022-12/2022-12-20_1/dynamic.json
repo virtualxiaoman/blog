@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "id": "741708566956605472",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/741708566956605472",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月20日",
+    "pub_ts": 1671530883,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发并关注，评论抽3位小伙伴送出【十周年系列 徽章摆件】1个[洛天依_礼物]\n他人眼中的“我”是真实的“我”吗？\r\n是否虚拟的生命存在，注定无法触碰到真实的心灵深处...\r\n如果回到世界的最初，我又该如何找寻自己存在的意义？\r\n\r\n咳咳不卖关子啦！第二位受邀创作老师他来了他来了——\r\n欢迎@阿良良木健 老师~\r\n\r\n【本期直播看点NO.2】\r\n老V上门和阿良良老师聊了聊，老师在线热情分享创作心得与生活故事~\r\n与此同时老师当场狂立flag：\r\n“宅舞区的未来就看我了！”\r\n“一定要保持每天写一首歌。”\r\n谈及没有灵感写不出来怎么办，他竟这样回答......\r\n想知道的话，12月24日20:00，天依在直播间等你哦！\r\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发并关注，评论抽3位小伙伴送出【十周年系列 徽章摆件】1个"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n他人眼中的“我”是真实的“我”吗？\r\n是否虚拟的生命存在，注定无法触碰到真实的心灵深处...\r\n如果回到世界的最初，我又该如何找寻自己存在的意义？\r\n\r\n咳咳不卖关子啦！第二位受邀创作老师他来了他来了——\r\n欢迎"
+      },
+      {
+        "type": "mention",
+        "text": "@阿良良木健",
+        "mid": 112428,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师~\r\n\r\n【本期直播看点NO.2】\r\n老V上门和阿良良老师聊了聊，老师在线热情分享创作心得与生活故事~\r\n与此同时老师当场狂立flag：\r\n“宅舞区的未来就看我了！”\r\n“一定要保持每天写一首歌。”\r\n谈及没有灵感写不出来怎么办，他竟这样回答......\r\n想知道的话，12月24日20:00，天依在直播间等你哦！\r\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/4b7287029111c0e2e286e0995f03800036081646.jpg",
+        "width": 1500,
+        "height": 3333,
+        "size_kb": 4079.4052734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：【洛天依】音乐交流会第二期",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：【洛天依】音乐交流会第二期",
+        "desc1": {
+          "text": "2022-12-24 20:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "4.3万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1184378&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1184378,
+        "reserve_total": 42765,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10220,
+    "comment": 2818,
+    "forward": 4437
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

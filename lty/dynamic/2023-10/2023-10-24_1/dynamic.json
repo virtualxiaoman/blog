@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "856000743173259280",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/856000743173259280",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月24日",
+    "pub_ts": 1698141604,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "@洛天依 X @索尼音乐中国 原创EP《洛 LUO》\n第二主打曲《蝶变（butterfly）》\n期待与你相见[洛天依9th_好康！]\n\n帷幕拉开，蝶翼绽放\n“欢迎来我的频道，听我的宣告” [洛天依9th_一起唱]\n#索尼音乐牵手洛天依#\n",
+    "blocks": [
+      {
+        "type": "mention",
+        "text": "@洛天依",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " X "
+      },
+      {
+        "type": "mention",
+        "text": "@索尼音乐中国",
+        "mid": 486906719,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 原创EP《洛 LUO》\n第二主打曲《蝶变（butterfly）》\n期待与你相见"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n帷幕拉开，蝶翼绽放\n“欢迎来我的频道，听我的宣告” "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-24_1.png",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/e17eb566761f467f9575c9d659c7691536081646.png",
+        "width": 1600,
+        "height": 900,
+        "size_kb": 1742.1500244140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6029,
+    "comment": 220,
+    "forward": 67
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

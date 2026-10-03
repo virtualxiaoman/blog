@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "id": "1164294393335644169",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1164294393335644169",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月1日",
+    "pub_ts": 1769921813,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶五音共鸣，四海同频；此声为律，共此东方\n🪕游学记「歌行·国乐季」纪念专辑&系列周边上新啦！[乐鸣东方动态表情包_支持]\n\n🛎除专辑外，系列新品周边将上线官方授权快闪及YOOOOSHOP线下门店现货首发~\n⏰现货首发时间：2月1日起\n🌟线下限量特典：单笔消费游学记系列商品每满99元，赠送同系列特典明信片一张\n\n大家看看有没有喜欢哒？更多信息大家戳长图查看哦！[乐鸣东方动态表情包_干杯]\n\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶五音共鸣，四海同频；此声为律，共此东方\n🪕游学记「歌行·国乐季」纪念专辑&系列周边上新啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_支持]",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "name": "支持",
+        "url": "https://i0.hdslb.com/bfs/garb/6ad536d4e24e2044e5b5ca6e074d25b87ed8226a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🛎除专辑外，系列新品周边将上线官方授权快闪及YOOOOSHOP线下门店现货首发~\n⏰现货首发时间：2月1日起\n🌟线下限量特典：单笔消费游学记系列商品每满99元，赠送同系列特典明信片一张\n\n大家看看有没有喜欢哒？更多信息大家戳长图查看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c477a930cc3b52fbdd53947041490f0536081646.jpg",
+        "width": 441,
+        "height": 5326,
+        "size_kb": 2796.3701171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-02-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c64028bc0737008eddb7b3a75d4cfd9036081646.jpg",
+        "width": 441,
+        "height": 5310,
+        "size_kb": 2592.306640625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-02-01_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8bbe9f4f590666f60ec4bc1e799b4ce636081646.jpg",
+        "width": 441,
+        "height": 4361,
+        "size_kb": 1910.509765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-02-01_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/99514f28c53158149d0cf90258809f6e36081646.jpg",
+        "width": 1000,
+        "height": 6886,
+        "size_kb": 5075.470703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-02-01_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/47e7ce2b1110d689b9710aba6e2b6a2336081646.jpg",
+        "width": 2835,
+        "height": 6692,
+        "size_kb": 5353.0908203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-02-01_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1d3301fa22f6f82507d1e86613bbda8236081646.jpg",
+        "width": 2835,
+        "height": 6692,
+        "size_kb": 8143.2705078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/支持.gif",
+        "package_id": "9343",
+        "emoji_id": "131162",
+        "text": "[乐鸣东方动态表情包_支持]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 游学记国乐季 系列周边 徽章 挂件 色纸 立牌 杯垫 金属卡 周边礼盒",
+            "price": "¥9",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/91/4a/7d856eee90040988f8a38036c3b2a70b.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?isMerchant=1&page=detailuniversal_detail&saleType=0&itemsId=40402285&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_36081646_cont-2-1164294393335644169",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-02-01_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4922,
+    "comment": 166,
+    "forward": 72
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

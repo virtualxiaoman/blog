@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "397375734348481870",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/397375734348481870",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年6月5日",
+    "pub_ts": 1591359648,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起来体会失重的感觉~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起来体会失重的感觉~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6790,
+    "comment": 193,
+    "forward": 23
+  },
+  "forward": {
+    "orig_id": 395375860135690061,
+    "orig_mid": 12961590,
+    "deleted": false,
+    "archive_dir": "../../../12961590/2020-05/2020-05-31_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:24:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

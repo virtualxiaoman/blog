@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1033768228383358999",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1033768228383358999",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月14日",
+    "pub_ts": 1739531322,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依X王珮瑜】时隔七年再度相会！合作舞台等你来看~",
+      "desc": "时隔七年，天依再次在新春动漫之夜的舞台上见到了王珮瑜老师！\n大家还记得我们的首次合作歌曲吗？\n那么这一次，我们又会为大家带来怎样的合作舞台呢？敬请期待吧！",
+      "jump_url": "https://www.bilibili.com/video/BV1szKKeAETJ",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/320716092f3afb282f4a86d7479b0b81f2ad55d9.jpg",
+      "cover_file": "../../_assets/covers/2025-02-14_2.jpg",
+      "bvid": "BV1szKKeAETJ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1szKKeAETJ",
+        "aid": "114001518330746",
+        "cover": "http://i1.hdslb.com/bfs/archive/320716092f3afb282f4a86d7479b0b81f2ad55d9.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1szKKeAETJ",
+        "stat": {
+          "danmaku": "214",
+          "play": "13.2万",
+          "vt": ""
+        },
+        "duration_text": "01:35",
+        "title": "【洛天依X王珮瑜】时隔七年再度相会！合作舞台等你来看~",
+        "desc": "时隔七年，天依再次在新春动漫之夜的舞台上见到了王珮瑜老师！\n大家还记得我们的首次合作歌曲吗？\n那么这一次，我们又会为大家带来怎样的合作舞台呢？敬请期待吧！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 15709,
+    "comment": 863,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

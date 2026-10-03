@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "1022631489843494921",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1022631489843494921",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月15日",
+    "pub_ts": 1736938348,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "moeyu洛天依「革新追迹」系列轻周边上新啦!\n🎁转发关注天依，揪1位小伙伴送出【革新追迹全套轻周边】1份~[歌行宇宙表情包_mua]\n\n集帅气与可爱于一身，跨越蓝白色风暴来到你面前\n\n♡洛天依「革新追迹」系列轻周边\n✦徽章\n✦大徽章\n✦透卡\n✦镭射票\n✦仿黑胶亚克力摆件\n✦立牌\n\n第一弹的服饰周边也在现货发售中哦[心律共鸣动态表情包_真好]\n\n♡购买地址\nTM-moeyu旗舰店、B站-会员购\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "moeyu洛天依「革新追迹」系列轻周边上新啦!\n🎁转发关注天依，揪1位小伙伴送出【革新追迹全套轻周边】1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n集帅气与可爱于一身，跨越蓝白色风暴来到你面前\n\n♡洛天依「革新追迹」系列轻周边\n✦徽章\n✦大徽章\n✦透卡\n✦镭射票\n✦仿黑胶亚克力摆件\n✦立牌\n\n第一弹的服饰周边也在现货发售中哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n♡购买地址\nTM-moeyu旗舰店、B站-会员购"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-15_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a6d06609909981508d5caf9681ae30d936081646.jpg",
+        "width": 1200,
+        "height": 1200,
+        "size_kb": 1538.2626953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-01-15_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5ddd5bb6e6bb79b28ac98272f0d461c836081646.jpg",
+        "width": 1200,
+        "height": 1200,
+        "size_kb": 1566.7392578125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-01-15_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/062179627e8df27b6286757e94969bfb36081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1272.7705078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-01-15_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d8f5c4b72c4c66e6f6a6500f850ab12536081646.png",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1300.0830078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6244,
+    "comment": 2216,
+    "forward": 4302
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:25:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "373106102517508989",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/373106102517508989",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年4月1日",
+    "pub_ts": 1585708934,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "用心去聆听大自然的声音，是动人的回响。我们赞美大自然的恩赐，也要守护自然的持续。生命川流不息，歌声不曾停歇，感谢瑞丽伊人风尚的邀请，让我们一起为地球尽一份心。 \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "用心去聆听大自然的声音，是动人的回响。我们赞美大自然的恩赐，也要守护自然的持续。生命川流不息，歌声不曾停歇，感谢瑞丽伊人风尚的邀请，让我们一起为地球尽一份心。 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-04-01_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/abadfe4c32d663a6d3007f6a5a4ad73747d59457.jpg",
+        "width": 2524,
+        "height": 3249,
+        "size_kb": 2580.09375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-04-01_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/2c73e4b70296478f43df19f7ea9bbc4604e4bfa8.jpg",
+        "width": 734,
+        "height": 957,
+        "size_kb": 527.7763671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-04-01_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/324de9c3893147cad0f1add3664f087b015233f0.jpg",
+        "width": 898,
+        "height": 1169,
+        "size_kb": 1252.6923828125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-04-01_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/c075d8d9aa354a8b08bb7192fe87bcd6c9018be2.jpg",
+        "width": 734,
+        "height": 957,
+        "size_kb": 763.765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2020-04-01_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/864d1b683378c433caf9dda55ba88e0a945a0d49.jpg",
+        "width": 646,
+        "height": 842,
+        "size_kb": 511.671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2020-04-01_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/fa5e11c8e1c6e2ca51ad3b7b4478f645745d772e.jpg",
+        "width": 1326,
+        "height": 1255,
+        "size_kb": 583.169921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2020-04-01_7.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/0898b20102f6406ca2644451de7ba3acb66d1c38.png",
+        "width": 589,
+        "height": 861,
+        "size_kb": 454.1875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13520,
+    "comment": 1052,
+    "forward": 205
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:23:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

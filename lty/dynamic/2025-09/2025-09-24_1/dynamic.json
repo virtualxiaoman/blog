@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "1116131802612760594",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1116131802612760594",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月24日",
+    "pub_ts": 1758708086,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依大型原创音乐征集活动「闪耀的Producer」纪念专辑《闪耀》正式上线啦！[洛天依·闪耀的Producer动态_此乃佳品]\n专辑将收录6位发起人的作品和最终获得「发行合作奖」的6首歌曲。\n伴随这张专辑的上线，终于为这次的活动划下了圆满的句号，再次感谢每一位参与的老师！[洛天依·闪耀的Producer动态_我更喜欢你]\n正如这张封面呈现的一样，是无数个音符、无数道画笔，构成了「洛天依」的生命，\n请继续在这个任由你涂抹的电子生命之上，留下你的故事吧！[洛天依·闪耀的Producer动态_可靠]\n\n✨上线平台：QQ音乐、酷狗音乐、酷我音乐、网易云音乐、华为音乐、咪咕音乐、汽水音乐\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依大型原创音乐征集活动「闪耀的Producer」纪念专辑《闪耀》正式上线啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_此乃佳品]",
+        "package_id": "8540",
+        "emoji_id": "117829",
+        "name": "此乃佳品",
+        "url": "https://i0.hdslb.com/bfs/garb/fab77f6871ec2974a09660e32d5595a4e221c7eb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n专辑将收录6位发起人的作品和最终获得「发行合作奖」的6首歌曲。\n伴随这张专辑的上线，终于为这次的活动划下了圆满的句号，再次感谢每一位参与的老师！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "name": "我更喜欢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/6802c9a5c0ff1d69b3bd334a33872a74b0b625e4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n正如这张封面呈现的一样，是无数个音符、无数道画笔，构成了「洛天依」的生命，\n请继续在这个任由你涂抹的电子生命之上，留下你的故事吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_可靠]",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "name": "可靠",
+        "url": "https://i0.hdslb.com/bfs/garb/0948f9c15324f91126a33675b15d111744117b23.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n✨上线平台：QQ音乐、酷狗音乐、酷我音乐、网易云音乐、华为音乐、咪咕音乐、汽水音乐"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-24_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ccc3752dd11a0cf3560336d9d2d5cc4a36081646.jpg",
+        "width": 4000,
+        "height": 4000,
+        "size_kb": 4312.193359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/此乃佳品.gif",
+        "package_id": "8540",
+        "emoji_id": "117829",
+        "text": "[洛天依·闪耀的Producer动态_此乃佳品]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/我更喜欢你.gif",
+        "package_id": "8540",
+        "emoji_id": "117836",
+        "text": "[洛天依·闪耀的Producer动态_我更喜欢你]"
+      },
+      {
+        "file": "../../_assets/emojis/8540/可靠.gif",
+        "package_id": "8540",
+        "emoji_id": "117833",
+        "text": "[洛天依·闪耀的Producer动态_可靠]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7430,
+    "comment": 475,
+    "forward": 154
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

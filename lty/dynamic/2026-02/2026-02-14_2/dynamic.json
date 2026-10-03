@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "1169151236856872993",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1169151236856872993",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月14日",
+    "pub_ts": 1771052635,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "春光烂漫的时节，和天依一起赴一场浪漫的约会~[洛天依八音奇响动态_爱意]\n天依很高兴来到深圳世界之窗，开启“春日银河”乐园音乐派对！[洛天依八音奇响动态_登场]\n\n领航员小洛要再次带领大家出发啦！一起用音乐点亮星空，共赴银河浪漫狂欢吧~[洛天依八音奇响动态_美丽]\n\n🎉中旅×洛天依 「春日银河」音乐派对\n🚗发车时间：2026年3月14日&15日 19:00\n车票演出内容等详细信息请等待小洛的下一次发车邀约哦！[洛天依八音奇响动态_可爱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "春光烂漫的时节，和天依一起赴一场浪漫的约会~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依很高兴来到深圳世界之窗，开启“春日银河”乐园音乐派对！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_登场]",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "name": "登场",
+        "url": "https://i0.hdslb.com/bfs/garb/3a90f08758833cca8b628bc1320c1144d0c5dca6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n领航员小洛要再次带领大家出发啦！一起用音乐点亮星空，共赴银河浪漫狂欢吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_美丽]",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "name": "美丽",
+        "url": "https://i0.hdslb.com/bfs/garb/fa57c3c89bcb7a3b9134c6b1ac718cc6e2353297.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎉中旅×洛天依 「春日银河」音乐派对\n🚗发车时间：2026年3月14日&15日 19:00\n车票演出内容等详细信息请等待小洛的下一次发车邀约哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_可爱]",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/garb/1eda10aa46db63a91f40e38d816ce770b9e4abbb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-14_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/065a8ad892d459ce9029fd612e41ebe836081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 4761.31005859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/登场.gif",
+        "package_id": "8362",
+        "emoji_id": "115073",
+        "text": "[洛天依八音奇响动态_登场]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/美丽.gif",
+        "package_id": "8362",
+        "emoji_id": "115070",
+        "text": "[洛天依八音奇响动态_美丽]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/可爱.gif",
+        "package_id": "8362",
+        "emoji_id": "115082",
+        "text": "[洛天依八音奇响动态_可爱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5557,
+    "comment": 230,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

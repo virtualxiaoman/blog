@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "id": "1180967641081184277",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1180967641081184277",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月18日",
+    "pub_ts": 1773803856,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依的神秘新朋友，就是来自CFM互动影游的星见哦！很开心能和星见一起，演绎CFM首款真人互动影游主题曲。[洛天依·闪耀的Producer动态_幸福]\n3月19日，CFM互动影游主题曲《微光》正式上线，愿每一束微光，都能与你我相遇~#CF手游星见奇遇#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依的神秘新朋友，就是来自CFM互动影游的星见哦！很开心能和星见一起，演绎CFM首款真人互动影游主题曲。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·闪耀的Producer动态_幸福]",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "name": "幸福",
+        "url": "https://i0.hdslb.com/bfs/garb/fc0070c7fa66861fbc34785eca3bfc6bb81463cb.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n3月19日，CFM互动影游主题曲《微光》正式上线，愿每一束微光，都能与你我相遇~"
+      },
+      {
+        "type": "topic",
+        "text": "#CF手游星见奇遇#",
+        "url": "https://search.bilibili.com/all?keyword=CF%E6%89%8B%E6%B8%B8%E6%98%9F%E8%A7%81%E5%A5%87%E9%81%87"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8540/幸福.gif",
+        "package_id": "8540",
+        "emoji_id": "117843",
+        "text": "[洛天依·闪耀的Producer动态_幸福]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依×星见】3月19日，CFM互动影游主题曲《微光》正式上线",
+      "desc": "天依的神秘新朋友，就是来自CFM互动影游的星见哦！很开心能和星见一起，演绎CFM首款真人互动影游主题曲。[洛天依·闪耀的Producer动态_幸福]\n3月19日，CFM互动影游主题曲《微光》正式上线，愿每一束微光，都能与你我相遇~#CF手游星见奇遇#",
+      "jump_url": "https://www.bilibili.com/video/BV1kzwYzQEcd",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/fdb85d454d86542ef683f470daac1e33ea1e5d95.jpg",
+      "cover_file": "../../_assets/covers/2026-03-18_1.jpg",
+      "bvid": "BV1kzwYzQEcd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1kzwYzQEcd",
+        "aid": "116247987487807",
+        "cover": "http://i0.hdslb.com/bfs/archive/fdb85d454d86542ef683f470daac1e33ea1e5d95.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1kzwYzQEcd",
+        "stat": {
+          "danmaku": "20",
+          "play": "4.6万",
+          "vt": ""
+        },
+        "duration_text": "00:10",
+        "title": "【洛天依×星见】3月19日，CFM互动影游主题曲《微光》正式上线",
+        "desc": "天依的神秘新朋友，就是来自CFM互动影游的星见哦！很开心能和星见一起，演绎CFM首款真人互动影游主题曲。[洛天依·闪耀的Producer动态_幸福]\n3月19日，CFM互动影游主题曲《微光》正式上线，愿每一束微光，都能与你我相遇~#CF手游星见奇遇#",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9237,
+    "comment": 494,
+    "forward": 46
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

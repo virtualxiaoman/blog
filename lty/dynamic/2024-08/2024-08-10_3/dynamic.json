@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "963849184713113603",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/963849184713113603",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月10日",
+    "pub_ts": 1723252026,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "唔，早安～\n啊啊已经这个时间啦！！我们的约会！！\n等等我等等我，天依马上就到～[心律共鸣动态表情包_心软软]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "唔，早安～\n啊啊已经这个时间啦！！我们的约会！！\n等等我等等我，天依马上就到～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_心软软]",
+        "package_id": "5582",
+        "emoji_id": "81879",
+        "name": "心软软",
+        "url": "https://i0.hdslb.com/bfs/emote/3026492aa35c156c8c7c0e81d28be864b78ae615.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-10_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/89272a756e67afdcdbb0e21fb32fc79b36081646.jpg",
+        "width": 1000,
+        "height": 1000,
+        "size_kb": 1065.4300537109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/心软软.gif",
+        "package_id": "5582",
+        "emoji_id": "81879",
+        "text": "[心律共鸣动态表情包_心软软]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12294,
+    "comment": 839,
+    "forward": 201
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1027464225710145536",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1027464225710145536",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月28日",
+    "pub_ts": 1738063557,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今年天依也有准备新年表情包哦[蛇来运转表情包_洛天依-]\nQQ上已经可以使用啦！\n\n获取方式：装扮-表情商城-搜索洛天依-作者主页，就可以看到了哦！[蛇来运转表情包_洛天依-大头]\n\n再次，大家新春快乐！！[洛天依·戏游九州动态_撒花]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今年天依也有准备新年表情包哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-]",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "name": "洛天依-",
+        "url": "https://i0.hdslb.com/bfs/emote/0a49f32d734650673c92a5d469ed51818d3503b0.png"
+      },
+      {
+        "type": "text",
+        "text": "\nQQ上已经可以使用啦！\n\n获取方式：装扮-表情商城-搜索洛天依-作者主页，就可以看到了哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[蛇来运转表情包_洛天依-大头]",
+        "package_id": "7562",
+        "emoji_id": "102476",
+        "name": "洛天依-大头",
+        "url": "https://i0.hdslb.com/bfs/emote/e3c02924430a6f17aef533e60c5db3f4ad0d1e7b.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n再次，大家新春快乐！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_撒花]",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/garb/a7c9bf6966d72b4e4ab7f69685f53567876c427e.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-01-28_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e774bb2b50ef9c3b5d42ead0850bd55836081646.jpg",
+        "width": 1169,
+        "height": 1724,
+        "size_kb": 261.6000061035156,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7562/洛天依-.png",
+        "package_id": "7562",
+        "emoji_id": "102475",
+        "text": "[蛇来运转表情包_洛天依-]"
+      },
+      {
+        "file": "../../_assets/emojis/7562/洛天依-大头.png",
+        "package_id": "7562",
+        "emoji_id": "102476",
+        "text": "[蛇来运转表情包_洛天依-大头]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/撒花.gif",
+        "package_id": "7318",
+        "emoji_id": "98450",
+        "text": "[洛天依·戏游九州动态_撒花]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5561,
+    "comment": 238,
+    "forward": 38
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:52+08:00",
+    "force": false,
+    "failures": []
+  }
+}

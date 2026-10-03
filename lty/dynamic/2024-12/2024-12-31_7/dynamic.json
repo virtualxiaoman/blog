@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "id": "1017119887194062905",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1017119887194062905",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月31日",
+    "pub_ts": 1735655078,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【直拍】洛天依《戏游九州》【2024B站跨年晚会】",
+      "desc": "-",
+      "jump_url": "https://www.bilibili.com/video/BV1Cq6nYzEcn",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/42eca2bb63c4304431880c3d6e18e96539c3d97b.png",
+      "cover_file": "../../_assets/covers/2024-12-31_3.png",
+      "bvid": "BV1Cq6nYzEcn",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1Cq6nYzEcn",
+        "aid": "113747645434493",
+        "cover": "http://i0.hdslb.com/bfs/archive/42eca2bb63c4304431880c3d6e18e96539c3d97b.png",
+        "jump_url": "//www.bilibili.com/video/BV1Cq6nYzEcn",
+        "stat": {
+          "danmaku": "41",
+          "play": "7.5万",
+          "vt": ""
+        },
+        "duration_text": "05:31",
+        "title": "【直拍】洛天依《戏游九州》【2024B站跨年晚会】",
+        "desc": "-",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2024最美的夜 bilibili跨年晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss48928",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/c086af8102fbec8a19c35ca0ae4f6ee7e01b2d96.jpg",
+      "cover_file": "../../_assets/covers/2024-12-31_4.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss48928",
+        "id_str": "113747645434493",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/c086af8102fbec8a19c35ca0ae4f6ee7e01b2d96.jpg",
+        "style": 2,
+        "title": "2024最美的夜 bilibili跨年晚会",
+        "desc1": "独家 已完结, 全4集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8011,
+    "comment": 204,
+    "forward": 31
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:23:22+08:00",
+    "force": false,
+    "failures": []
+  }
+}

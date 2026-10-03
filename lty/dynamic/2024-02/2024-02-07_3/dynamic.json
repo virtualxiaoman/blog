@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "id": "895350258618335235",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/895350258618335235",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月7日",
+    "pub_ts": 1707303377,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "龙佑新岁，迎春送福。\n天依的龙年贺新春表情包已经上线QQ平台啦。\n祝大家新年快乐，龙年大吉！\n努力想了大家新年用得上的表情包，大家请使用[Vsinger_给大佬递茶]\n\n获取方式:QQ-表情栏-搜索更多表情-搜索洛天依-下载表情包【龙年洛天依】就可以啦～[Vsinger_加依]\n微信也上传啦！还没有通过审核꒦ິ^꒦ິ等过审了天依第一时间告知大家哦！(｡ì _ í｡)8\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "龙佑新岁，迎春送福。\n天依的龙年贺新春表情包已经上线QQ平台啦。\n祝大家新年快乐，龙年大吉！\n努力想了大家新年用得上的表情包，大家请使用"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_给大佬递茶]",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "name": "给大佬递茶",
+        "url": "https://i0.hdslb.com/bfs/emote/b8e7b7ebb3b100d366a9fed0552930c4a39986a8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n获取方式:QQ-表情栏-搜索更多表情-搜索洛天依-下载表情包【龙年洛天依】就可以啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      },
+      {
+        "type": "text",
+        "text": "\n微信也上传啦！还没有通过审核꒦ິ^꒦ິ等过审了天依第一时间告知大家哦！(｡ì _ í｡)8"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-02-07_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/5eedffd61f8cb684691e3e4cd046b40236081646.jpg",
+        "width": 1054,
+        "height": 1604,
+        "size_kb": 703.25,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/给大佬递茶.png",
+        "package_id": "4363",
+        "emoji_id": "61573",
+        "text": "[Vsinger_给大佬递茶]"
+      },
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4801,
+    "comment": 154,
+    "forward": 46
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:07:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

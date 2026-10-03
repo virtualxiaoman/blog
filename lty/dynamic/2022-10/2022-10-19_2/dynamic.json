@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "718706156620480564",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/718706156620480564",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月19日",
+    "pub_ts": 1666175217,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "有一点想试试看是怎么回事[洛天依_吃包群众]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "有一点想试试看是怎么回事"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_吃包群众]",
+        "package_id": "9",
+        "emoji_id": "196",
+        "name": "吃包群众",
+        "url": "http://i0.hdslb.com/bfs/emote/f8cdabfc1b81fd25b85b8457ee49a20a4fc5d91b.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9/吃包群众.png",
+        "package_id": "9",
+        "emoji_id": "196",
+        "text": "[洛天依_吃包群众]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6307,
+    "comment": 187,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 718705331966836745,
+    "orig_mid": 406949083,
+    "deleted": false,
+    "archive_dir": "../../../406949083/2022-10/2022-10-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:54:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

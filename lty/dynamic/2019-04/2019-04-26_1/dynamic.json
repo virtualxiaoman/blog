@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "246645858551685121",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/246645858551685121",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月26日",
+    "pub_ts": 1556265114,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##VOCALOID##原创歌曲# “我们不生产歌词，我们只是歌词的搬运工”——伊列姆山泉",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#原创歌曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2"
+      },
+      {
+        "type": "text",
+        "text": " “我们不生产歌词，我们只是歌词的搬运工”——伊列姆山泉"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依，原创《售楼小姐》",
+      "desc": "1.专辑曲最后一弹。人声本家：彩虹合唱团av50850238\n2.仅在这首歌里，我们承诺不生产歌词，我们只是歌词的搬运工。因为歌词都是我有段时间被耳濡目染来的。\n3.虽然也可以叫“售楼员”之类，之所以叫售楼小姐——你们做梦想不到《x阳先生》的番外姊妹篇会应在这吧？！\n4.PV外挂到期，老铁只好捉起幻灯片亲自上阵。封面是我女主的立绘，倾国倾城，就是长得有点像钥匙孔。\n5.我们有很多人声本家，大量的。敬请期待。\n6.然后你们要是想验证歌词的话可以到售楼处或者中介走一遭，你稍微表现一点好奇他们就会把这些词复述给",
+      "jump_url": "https://www.bilibili.com/video/BV134411h7XX",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/e1d0292869a134355ad45615b041cc66bd35b926.jpg",
+      "cover_file": "../../_assets/covers/2019-04-26_1.jpg",
+      "bvid": "BV134411h7XX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV134411h7XX",
+        "aid": "50517318",
+        "cover": "http://i2.hdslb.com/bfs/archive/e1d0292869a134355ad45615b041cc66bd35b926.jpg",
+        "jump_url": "//www.bilibili.com/video/BV134411h7XX",
+        "stat": {
+          "danmaku": "6147",
+          "play": "358.8万",
+          "vt": ""
+        },
+        "duration_text": "02:58",
+        "title": "洛天依，原创《售楼小姐》",
+        "desc": "1.专辑曲最后一弹。人声本家：彩虹合唱团av50850238\n2.仅在这首歌里，我们承诺不生产歌词，我们只是歌词的搬运工。因为歌词都是我有段时间被耳濡目染来的。\n3.虽然也可以叫“售楼员”之类，之所以叫售楼小姐——你们做梦想不到《x阳先生》的番外姊妹篇会应在这吧？！\n4.PV外挂到期，老铁只好捉起幻灯片亲自上阵。封面是我女主的立绘，倾国倾城，就是长得有点像钥匙孔。\n5.我们有很多人声本家，大量的。敬请期待。\n6.然后你们要是想验证歌词的话可以到售楼处或者中介走一遭，你稍微表现一点好奇他们就会把这些词复述给",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 189272,
+    "comment": 12468,
+    "forward": 11
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:20:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

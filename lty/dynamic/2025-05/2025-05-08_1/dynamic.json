@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "1064445650771378183",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1064445650771378183",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月8日",
+    "pub_ts": 1746673966,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "洛天依 X BDF2025 主题曲 《听见 WO！》\n5 月 10 日 即将上线\n\n隔绝外界的喧嚣，一起用音乐和舞蹈\n去感受，去听见，内心最真实的回响吧！[洛天依蝶变_轻唱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依 X BDF2025 主题曲 《听见 WO！》\n5 月 10 日 即将上线\n\n隔绝外界的喧嚣，一起用音乐和舞蹈\n去感受，去听见，内心最真实的回响吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_轻唱]",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "name": "轻唱",
+        "url": "https://i0.hdslb.com/bfs/emote/2a1a393fa39ceac792cbd60ed69dad4dfaf9abb4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-05-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/00829632ecbd1cf92a99bd4c59fcf57436081646.png",
+        "width": 1080,
+        "height": 1440,
+        "size_kb": 2369.002,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/轻唱.png",
+        "package_id": "3752",
+        "emoji_id": "52580",
+        "text": "[洛天依蝶变_轻唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7377,
+    "comment": 493,
+    "forward": 131
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:29:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

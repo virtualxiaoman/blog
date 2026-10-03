@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1239741472477020162",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1239741472477020162",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月23日",
+    "pub_ts": 1787488205,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“急急如律令 肚肚响地狱”洛天依《地府美食家》【冰火歌会】",
+      "desc": "遍览人间美食，忽然来到地府？\n那便开启一场地府特色美食之旅吧！\n\n《地府美食家》\n演唱：洛天依\n作词：诶姆\n作曲：诶姆\n编曲：郑子文ZIIN\n调教：流绪\n混音：郑子文ZIIN\n*歌曲收录于洛天依十四周年纪念专辑《四重奏》",
+      "jump_url": "https://www.bilibili.com/video/BV1an8b6jE1T",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/5fd90374d7869b21d20956428118fc5e6764d80e.jpg",
+      "cover_file": "../../_assets/covers/2026-08-23_1.jpg",
+      "bvid": "BV1an8b6jE1T",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1an8b6jE1T",
+        "aid": "117144662576000",
+        "cover": "http://i2.hdslb.com/bfs/archive/5fd90374d7869b21d20956428118fc5e6764d80e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1an8b6jE1T",
+        "stat": {
+          "danmaku": "755",
+          "play": "36.1万",
+          "vt": ""
+        },
+        "duration_text": "03:51",
+        "title": "“急急如律令 肚肚响地狱”洛天依《地府美食家》【冰火歌会】",
+        "desc": "遍览人间美食，忽然来到地府？\n那便开启一场地府特色美食之旅吧！\n\n《地府美食家》\n演唱：洛天依\n作词：诶姆\n作曲：诶姆\n编曲：郑子文ZIIN\n调教：流绪\n混音：郑子文ZIIN\n*歌曲收录于洛天依十四周年纪念专辑《四重奏》",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 45071,
+    "comment": 2073,
+    "forward": 215
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

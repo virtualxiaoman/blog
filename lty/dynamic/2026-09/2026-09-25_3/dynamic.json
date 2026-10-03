@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "1251855837932027928",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1251855837932027928",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月25日",
+    "pub_ts": 1790308800,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "我与彩云谁为客，月舞长空共徘徊。\n今日中秋佳节，愿与君共赏此间美景，共祈团圆平安~ [洛天依国乐季动态表情包_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我与彩云谁为客，月舞长空共徘徊。\n今日中秋佳节，愿与君共赏此间美景，共祈团圆平安~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-25_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d46e81189e2d1ea924ff9ccbb82b16b236081646.jpg",
+        "width": 3000,
+        "height": 4498,
+        "size_kb": 4477.490234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-25_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/87bdf90012f85763fc257ac4d5b6d3bb36081646.png",
+        "width": 4000,
+        "height": 4000,
+        "size_kb": 7113.759765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7147,
+    "comment": 628,
+    "forward": 175
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

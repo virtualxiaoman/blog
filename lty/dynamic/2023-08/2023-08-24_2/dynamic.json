@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "833369259134418984",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/833369259134418984",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月24日",
+    "pub_ts": 1692872301,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "铛铛！穿上了藏族服饰，当然就是要为大家介绍来自西藏的艺术家——@扎年-旦增益西老师~[天依游学记_谢谢你]\n\n旦增益西老师是拉萨扎念弹唱非遗传承人 ，毕业于中央民族大学藏学研究院，2019年获藏学硕士学位。\n2016年起，师从著名藏戏艺术大师“玛依啦”嫡系弟子，雪巴拉姆第五代戏师边巴次仁、边巴斯暖，系统学习“觉木隆”派藏戏表演艺术，成为了一名既能表演，又能研究，理论与实践兼备的青年阿吉拉姆研究者型的传承人。\n\n天依希望以自己为引，带大家多多了解藏族音乐，多多了解这些优秀的非遗传承人~\n一起期待我的西藏采风vlog吧！\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "铛铛！穿上了藏族服饰，当然就是要为大家介绍来自西藏的艺术家——"
+      },
+      {
+        "type": "mention",
+        "text": "@扎年-旦增益西",
+        "mid": 630420238,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师~"
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n旦增益西老师是拉萨扎念弹唱非遗传承人 ，毕业于中央民族大学藏学研究院，2019年获藏学硕士学位。\n2016年起，师从著名藏戏艺术大师“玛依啦”嫡系弟子，雪巴拉姆第五代戏师边巴次仁、边巴斯暖，系统学习“觉木隆”派藏戏表演艺术，成为了一名既能表演，又能研究，理论与实践兼备的青年阿吉拉姆研究者型的传承人。\n\n天依希望以自己为引，带大家多多了解藏族音乐，多多了解这些优秀的非遗传承人~\n一起期待我的西藏采风vlog吧！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/546f16b0f4661d5b84fd1be59e979b5736081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1637.0615234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-24_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/168a87c2da3b41c17244bcbde078d1b536081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 264.9052734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5252,
+    "comment": 141,
+    "forward": 57
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "id": "968814501706072104",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/968814501706072104",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月23日",
+    "pub_ts": 1724408104,
+    "location": ""
+  },
+  "topic": {
+    "id": 1221280,
+    "name": "洛天依沉浸式体验展",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1221280&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%B1%95"
+  },
+  "content": {
+    "title": "",
+    "text": "📢重要播报！重要播报！\n2024洛天依「歌行宇宙」无限遨游沉浸式体验展8月24日即将正式开票啦！\n转发关注天依，揪5位小伙伴送出【展览早鸟特典票（单人）】1张！[心律共鸣动态表情包_大成功]\n\n※购票地址\n-8月24日18:00同步开售\n【bilibili会员购】网页链接\n【大麦】https://detail.damai.cn/item.htm?id=826885859043\n\n🪐展期时间&地点\n9月15日-10月31日，上海月星环球港4楼（环球大厅-环球展馆）\n🪐售票信息\n早鸟普通票（单人）￥98\n早鸟特典票（单人）￥138\n普通票（单人）￥138 \n特典票（单人）￥178\n\n更有B站大会员专属活动：\n大会员专享秒杀早鸟普通票（单人）¥ 1\n大会员专享早鸟普通票（单人）￥88\n大会员专享早鸟特典票（单人）￥128\n[心律共鸣动态表情包_真好]所有早鸟票数量有限、售罄为止哦\n\n🪐特典信息\n[心律共鸣动态表情包_可爱]展览限定徽章&镭射船票&纪念币*1\n\n【展览主题】\n在属于洛天依的无限宇宙里，天依化身飞船领航员，带领大家来到浩瀚星海中，那一个个用熟悉的音乐构建而成的音乐星球，感受熟悉的音乐记忆，探索无尽的旋律之旅。\n【展览亮点】\n超千平米展览面积，6大主题音乐空间、顶尖数字媒体技术、全息投影奇幻舞台、超现实场景实体打造、超多洛天依周边商品等你体验，和洛天依一起畅游音乐宇宙吧！\n\n*更多关于展览的详细资讯，各位乘客请戳长图查看~ [心律共鸣动态表情包_好厉害]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "📢重要播报！重要播报！\n2024洛天依「歌行宇宙」无限遨游沉浸式体验展8月24日即将正式开票啦！\n转发关注天依，揪5位小伙伴送出【展览早鸟特典票（单人）】1张！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_大成功]",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "name": "大成功",
+        "url": "https://i0.hdslb.com/bfs/emote/85f122b0f476e5896f3d2e4f867cb62a1d46b175.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n※购票地址\n-8月24日18:00同步开售\n【bilibili会员购】"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=91175"
+      },
+      {
+        "type": "text",
+        "text": "\n【大麦】"
+      },
+      {
+        "type": "text",
+        "text": "https://detail.damai.cn/item.htm?id=826885859043"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪐展期时间&地点\n9月15日-10月31日，上海月星环球港4楼（环球大厅-环球展馆）\n🪐售票信息\n早鸟普通票（单人）￥98\n早鸟特典票（单人）￥138\n普通票（单人）￥138 \n特典票（单人）￥178\n\n更有B站大会员专属活动：\n大会员专享秒杀早鸟普通票（单人）¥ 1\n大会员专享早鸟普通票（单人）￥88\n大会员专享早鸟特典票（单人）￥128\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "所有早鸟票数量有限、售罄为止哦\n\n🪐特典信息\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_可爱]",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "name": "可爱",
+        "url": "https://i0.hdslb.com/bfs/emote/ba9712392f36dd43fbb75434cb5d1df5f275bee8.gif"
+      },
+      {
+        "type": "text",
+        "text": "展览限定徽章&镭射船票&纪念币*1\n\n【展览主题】\n在属于洛天依的无限宇宙里，天依化身飞船领航员，带领大家来到浩瀚星海中，那一个个用熟悉的音乐构建而成的音乐星球，感受熟悉的音乐记忆，探索无尽的旋律之旅。\n【展览亮点】\n超千平米展览面积，6大主题音乐空间、顶尖数字媒体技术、全息投影奇幻舞台、超现实场景实体打造、超多洛天依周边商品等你体验，和洛天依一起畅游音乐宇宙吧！\n\n*更多关于展览的详细资讯，各位乘客请戳长图查看~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-23_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/784205fb031b44aef5a75341a472b50036081646.jpg",
+        "width": 1200,
+        "height": 1600,
+        "size_kb": 1259.078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-08-23_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b5933d0029a3247610cb2aafdbd0b3d336081646.jpg",
+        "width": 1080,
+        "height": 10902,
+        "size_kb": 6227.0703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/大成功.gif",
+        "package_id": "5582",
+        "emoji_id": "81877",
+        "text": "[心律共鸣动态表情包_大成功]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/可爱.gif",
+        "package_id": "5582",
+        "emoji_id": "81881",
+        "text": "[心律共鸣动态表情包_可爱]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/好厉害.gif",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "text": "[心律共鸣动态表情包_好厉害]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海 洛天依歌行宇宙·无限遨游 沉浸式体验展",
+            "price": "¥1",
+            "cover": "https://i2.hdslb.com/bfs/openplatform/202408/ei9COXS41724405861343.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91175&msource=cps_Mdynamic_36081646_cont-2-968814501706072104&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-08-23_2.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5836,
+    "comment": 0,
+    "forward": 2646
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

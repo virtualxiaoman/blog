@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "838985942490415136",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/838985942490415136",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月8日",
+    "pub_ts": 1694180037,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "送你一张舞会入场券，就暂时忘掉所有的烦恼吧，跟上我的节拍，尽情感受此刻的快乐！[古色花香洛天依_突然冒出]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "送你一张舞会入场券，就暂时忘掉所有的烦恼吧，跟上我的节拍，尽情感受此刻的快乐！"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_突然冒出]",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "name": "突然冒出",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ae3f32ed6678677c8c0ed3812b10b81571e0c68.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/突然冒出.png",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "text": "[古色花香洛天依_突然冒出]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5808,
+    "comment": 109,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 836319364782227497,
+    "orig_mid": 1594066,
+    "deleted": false,
+    "archive_dir": "../../../1594066/2023-09/2023-09-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:05+08:00",
+    "force": false,
+    "failures": []
+  }
+}

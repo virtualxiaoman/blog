@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "828509503643189289",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/828509503643189289",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月11日",
+    "pub_ts": 1691740801,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【中国BOY x 天依 x 排骨教主 x 易言】梦幻联动！宝藏少年同唱文化传承！",
+      "desc": "悠悠华夏，盛世中华，探问何以中国？纵有千古，横有八荒，我中国少年，与国无疆！\n\n作词：百万填词\n作曲：易言 / YM阿张\n编曲：易言 /  nine\n演唱：中国BOY超级大猩猩 / 洛天依 / 排骨教主 / 易言\n洛天依调教：鬼面P\n朗诵：安州牧",
+      "jump_url": "https://www.bilibili.com/video/BV15z4y1W7iV",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/c40140397c3b0154b070726b7a16829d28749dd0.jpg",
+      "cover_file": "../../_assets/covers/2023-08-11_1.jpg",
+      "bvid": "BV15z4y1W7iV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV15z4y1W7iV",
+        "aid": "574521744",
+        "cover": "http://i2.hdslb.com/bfs/archive/c40140397c3b0154b070726b7a16829d28749dd0.jpg",
+        "jump_url": "//www.bilibili.com/video/BV15z4y1W7iV",
+        "stat": {
+          "danmaku": "1311",
+          "play": "16.4万",
+          "vt": ""
+        },
+        "duration_text": "04:45",
+        "title": "【中国BOY x 天依 x 排骨教主 x 易言】梦幻联动！宝藏少年同唱文化传承！",
+        "desc": "悠悠华夏，盛世中华，探问何以中国？纵有千古，横有八荒，我中国少年，与国无疆！\n\n作词：百万填词\n作曲：易言 / YM阿张\n编曲：易言 /  nine\n演唱：中国BOY超级大猩猩 / 洛天依 / 排骨教主 / 易言\n洛天依调教：鬼面P\n朗诵：安州牧",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 27432,
+    "comment": 1182,
+    "forward": 26
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:56:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

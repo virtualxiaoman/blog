@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "id": "907120972943851572",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/907120972943851572",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年3月10日",
+    "pub_ts": 1710043960,
+    "location": ""
+  },
+  "topic": {
+    "id": 1105903,
+    "name": "洛天依收藏集",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1105903&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%94%B6%E8%97%8F%E9%9B%86"
+  },
+  "content": {
+    "title": "",
+    "text": "小助手天依上线[大哉乾元_打call]\n【洛天依收藏集——大哉乾元】出框头像兑换活动已经开启啦！[大哉乾元_撒花]注意有兑换截止时间哦[大哉乾元_去玩]\n\n[大哉乾元_源流万世大哉乾元]传送门：网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小助手天依上线"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_打call]",
+        "package_id": "4621",
+        "emoji_id": "66053",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/emote/8a0900e7f2030aab63f19fabbc20b98340f90898.png"
+      },
+      {
+        "type": "text",
+        "text": "\n【洛天依收藏集——大哉乾元】出框头像兑换活动已经开启啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_撒花]",
+        "package_id": "4621",
+        "emoji_id": "66050",
+        "name": "撒花",
+        "url": "https://i0.hdslb.com/bfs/emote/9c0952eed6189a3ddc50dfa2e6f2138a4d7f2990.png"
+      },
+      {
+        "type": "text",
+        "text": "注意有兑换截止时间哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_去玩]",
+        "package_id": "4621",
+        "emoji_id": "66052",
+        "name": "去玩",
+        "url": "https://i0.hdslb.com/bfs/emote/6d84c79efd4b4997af9a4db0643d32c1c36524b4.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元_源流万世大哉乾元]",
+        "package_id": "4621",
+        "emoji_id": "66046",
+        "name": "源流万世大哉乾元",
+        "url": "https://i0.hdslb.com/bfs/emote/23530ab8ef23161634c2448d1a52156b53c201ab.png"
+      },
+      {
+        "type": "text",
+        "text": "传送门："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=287"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-03-10_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/044e7cb8e98d312f47bc28527adab92f36081646.png",
+        "width": 1125,
+        "height": 2763,
+        "size_kb": 5087.08984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4621/打call.png",
+        "package_id": "4621",
+        "emoji_id": "66053",
+        "text": "[大哉乾元_打call]"
+      },
+      {
+        "file": "../../_assets/emojis/4621/撒花.png",
+        "package_id": "4621",
+        "emoji_id": "66050",
+        "text": "[大哉乾元_撒花]"
+      },
+      {
+        "file": "../../_assets/emojis/4621/去玩.png",
+        "package_id": "4621",
+        "emoji_id": "66052",
+        "text": "[大哉乾元_去玩]"
+      },
+      {
+        "file": "../../_assets/emojis/4621/源流万世大哉乾元.png",
+        "package_id": "4621",
+        "emoji_id": "66046",
+        "text": "[大哉乾元_源流万世大哉乾元]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "洛天依收藏集",
+            "price": "¥9.9",
+            "cover": "https://i0.hdslb.com/bfs/archive/fed4ad3c8c2832231259795b55d0b8eb06e97d89.png",
+            "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?-Abrowser=live&act_id=171&hybrid_set_header=2&lottery_id=0&f_source=goods&from=goods_post&from_id=36081646",
+            "brief": "独家民族风情天依大片，定制表情包、头像框等你抱回家！",
+            "cover_file": "../../_assets/covers/2024-03-10_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4424,
+    "comment": 371,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:08:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

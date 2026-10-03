@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "896097376730611715",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/896097376730611715",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月9日",
+    "pub_ts": 1707477329,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "龙年到，和大家一起其乐龙龙贺新春[Vsinger_加依]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "龙年到，和大家一起其乐龙龙贺新春"
+      },
+      {
+        "type": "emoji",
+        "text": "[Vsinger_加依]",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "name": "加依",
+        "url": "https://i0.hdslb.com/bfs/emote/c45e78cd002adea6985f96d563567b0592f3e139.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4363/加依.png",
+        "package_id": "4363",
+        "emoji_id": "61571",
+        "text": "[Vsinger_加依]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4659,
+    "comment": 227,
+    "forward": 57
+  },
+  "forward": {
+    "orig_id": 896096423273037897,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2024-02/2024-02-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:07:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

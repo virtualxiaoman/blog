@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "984362682751647766",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/984362682751647766",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月4日",
+    "pub_ts": 1728028197,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "🪐洛天依歌行宇宙全新动态主题套装上线啦！\n\n🔹两套动态主题\n-歌行宇宙无限共鸣\n-歌行宇宙无限遨游\n\n🔹限定福利\n10月31日前获取，可获得对应主题天依头像框一个\n*将在10月31日后统一发放\n\n繁星汇聚之刻，热爱绽放之时，歌行宇宙的航行旅程 ，是我们仍彼此相伴的每时每刻～[心律共鸣动态表情包_啾啾]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🪐洛天依歌行宇宙全新动态主题套装上线啦！\n\n🔹两套动态主题\n-歌行宇宙无限共鸣\n-歌行宇宙无限遨游\n\n🔹限定福利\n10月31日前获取，可获得对应主题天依头像框一个\n*将在10月31日后统一发放\n\n繁星汇聚之刻，热爱绽放之时，歌行宇宙的航行旅程 ，是我们仍彼此相伴的每时每刻～"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_啾啾]",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "name": "啾啾",
+        "url": "https://i0.hdslb.com/bfs/emote/55bbe7e1c69fb5382764cd467a6ef43c97e8fb81.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-04_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/9c0badb289d99624ed100fd198fe6e2936081646.png",
+        "width": 750,
+        "height": 3464,
+        "size_kb": 2129.974609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/啾啾.gif",
+        "package_id": "5582",
+        "emoji_id": "81884",
+        "text": "[心律共鸣动态表情包_啾啾]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3802,
+    "comment": 130,
+    "forward": 61
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

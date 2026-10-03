@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "602094319717876515",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/602094319717876515",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年12月9日",
+    "pub_ts": 1639024408,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2022虚拟歌手贺岁纪#希望可以用歌声为大家送上新年的祝福[洛天依·夜航星_摸摸]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2022虚拟歌手贺岁纪#",
+        "url": "https://search.bilibili.com/all?keyword=2022%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E8%B4%BA%E5%B2%81%E7%BA%AA"
+      },
+      {
+        "type": "text",
+        "text": "希望可以用歌声为大家送上新年的祝福"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3627,
+    "comment": 85,
+    "forward": 54
+  },
+  "forward": {
+    "orig_id": 601881246399080451,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2021-12/2021-12-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:39:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

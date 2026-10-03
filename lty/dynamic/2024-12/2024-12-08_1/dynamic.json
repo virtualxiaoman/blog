@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "1008424012920913985",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1008424012920913985",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年12月8日",
+    "pub_ts": 1733630412,
+    "location": ""
+  },
+  "topic": {
+    "id": 1255661,
+    "name": "和洛天依戏游九州",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1255661&topic_name=%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%88%8F%E6%B8%B8%E4%B9%9D%E5%B7%9E"
+  },
+  "content": {
+    "title": "",
+    "text": "❀洛天依游学记「歌行·戏曲季」主视觉详细设定公开❀\n转发关注天依，揪3位小伙伴送出【洛天依随机徽章3款】1份。\n\n描摹千秋绝色，荟萃梨园风华，天依的游学新装揭幕啦！\n融会多个戏种特色，承袭千年旦角服饰精髓\n将传统戏韵风华集于一身，于三尺红台之上振华彩新章\n\n我自登场，且待开唱！12月20日，主题原创单曲先导MV正式上线，敬请期待~\n大家喜欢本次天依的游学新装吗？新衣服中还有很多细节与寓意，大家可以点击长图查看哦！[心律共鸣动态表情包_好厉害]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "❀洛天依游学记「歌行·戏曲季」主视觉详细设定公开❀\n转发关注天依，揪3位小伙伴送出【洛天依随机徽章3款】1份。\n\n描摹千秋绝色，荟萃梨园风华，天依的游学新装揭幕啦！\n融会多个戏种特色，承袭千年旦角服饰精髓\n将传统戏韵风华集于一身，于三尺红台之上振华彩新章\n\n我自登场，且待开唱！12月20日，主题原创单曲先导MV正式上线，敬请期待~\n大家喜欢本次天依的游学新装吗？新衣服中还有很多细节与寓意，大家可以点击长图查看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_好厉害]",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/emote/97604e33896e60b98aa31a6404291822018905b7.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-12-08_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/14f8f2f491610375467fe64d2a5ba41d36081646.png",
+        "width": 3500,
+        "height": 4800,
+        "size_kb": 9363.33984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-12-08_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/48096d6d71920f83218d8176754fbbf836081646.jpg",
+        "width": 900,
+        "height": 4768,
+        "size_kb": 2992.969970703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/好厉害.gif",
+        "package_id": "5582",
+        "emoji_id": "81874",
+        "text": "[心律共鸣动态表情包_好厉害]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：天依游学记歌行戏曲季先导MV",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1HWkwYWETx",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：天依游学记歌行戏曲季先导MV",
+        "desc1": {
+          "text": "视频预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "829.8万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1HWkwYWETx",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 4286531,
+        "reserve_total": 14370,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6996,
+    "comment": 1503,
+    "forward": 3435
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

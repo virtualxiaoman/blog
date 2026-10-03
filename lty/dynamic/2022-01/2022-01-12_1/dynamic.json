@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "614806834510316643",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/614806834510316643",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月12日",
+    "pub_ts": 1641984271,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#一段故事结束了，至少曾经拼命绽放过，留下了无数美好的回忆[洛天依9th_太好听了]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "一段故事结束了，至少曾经拼命绽放过，留下了无数美好的回忆"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_太好听了]",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "name": "太好听了",
+        "url": "http://i0.hdslb.com/bfs/emote/3b9ab2f62f23a407624d6c3030ca40dacfd21b37.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/太好听了.png",
+        "package_id": "255",
+        "emoji_id": "4240",
+        "text": "[洛天依9th_太好听了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6682,
+    "comment": 116,
+    "forward": 27
+  },
+  "forward": {
+    "orig_id": 605116924427355413,
+    "orig_mid": 2539720,
+    "deleted": false,
+    "archive_dir": "../../../2539720/2021-12/2021-12-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:40:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

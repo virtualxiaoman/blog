@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "411076959193874086",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/411076959193874086",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月12日",
+    "pub_ts": 1594549713,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援##洛天依0712生日快乐# 终于快要到19:12，也就是生日会直播开始的时间了，这个八周年很特别，我们都遭遇了许多事，有过悲伤、无力，也有欣喜、希望，天依相信度过这一切的我们一定都有所成长了。 今晚19:12，在天依的哔哩哔哩直播间，一起进入天依的世界，用歌声回忆8年点滴。 网页链接\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 终于快要到19:12，也就是生日会直播开始的时间了，这个八周年很特别，我们都遭遇了许多事，有过悲伤、无力，也有欣喜、希望，天依相信度过这一切的我们一定都有所成长了。 今晚19:12，在天依的哔哩哔哩直播间，一起进入天依的世界，用歌声回忆8年点滴。 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/live/activity-luotianyi2020birthday.html"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-12_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/89a8ccf8e7c00c86a870a6e3310cd0dc2dd47b2a.jpg",
+        "width": 1700,
+        "height": 956,
+        "size_kb": 1323.98,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8302,
+    "comment": 669,
+    "forward": 120
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

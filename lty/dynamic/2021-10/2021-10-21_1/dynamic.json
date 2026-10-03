@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "id": "583928115598120420",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/583928115598120420",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月21日",
+    "pub_ts": 1634794759,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 如果可以偷得浮生半日闲，与朋友一起秉烛赏月，一定是很快乐的事吧~ [洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 如果可以偷得浮生半日闲，与朋友一起秉烛赏月，一定是很快乐的事吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5116,
+    "comment": 117,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 581776581791067386,
+    "orig_mid": 4037580,
+    "deleted": false,
+    "archive_dir": "../../../4037580/2021-10/2021-10-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:37:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

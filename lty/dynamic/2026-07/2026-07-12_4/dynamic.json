@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1224056183248125958",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1224056183248125958",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783836189,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十四周年#🛜#洛天依0712生日快乐#\n洛天依14周年 × QQ 联动主题套装上新啦！[洛天依·人格镜像 动态表情包_你好]\n歌声跨越十四载时光，而故事仍将与你继续书写💫\n\n全新限定主题、名片、挂件、气泡等专属装扮上线\n还为大家准备了周年限定惊喜抽奖\n\n打开QQ-个性装扮，搜索【洛天依】，和天依一起赴约十四周年，共同延续下一段旅程吧！[洛天依·人格镜像 动态表情包_卖萌]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十四周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "🛜"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依14周年 × QQ 联动主题套装上新啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_你好]",
+        "package_id": "9834",
+        "emoji_id": "138849",
+        "name": "你好",
+        "url": "https://i0.hdslb.com/bfs/garb/d292cfbe5790c2c2a4dbaac6e8c0a4553bbfb1b4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n歌声跨越十四载时光，而故事仍将与你继续书写💫\n\n全新限定主题、名片、挂件、气泡等专属装扮上线\n还为大家准备了周年限定惊喜抽奖\n\n打开QQ-个性装扮，搜索【洛天依】，和天依一起赴约十四周年，共同延续下一段旅程吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "name": "卖萌",
+        "url": "https://i0.hdslb.com/bfs/garb/223de3fef7dd1695c542dfbd9c9c1eea377d2b46.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-12_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d5097714df03aa2085ccc56f42aafa6b36081646.jpg",
+        "width": 750,
+        "height": 8247,
+        "size_kb": 3788.833984375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9834/你好.gif",
+        "package_id": "9834",
+        "emoji_id": "138849",
+        "text": "[洛天依·人格镜像 动态表情包_你好]"
+      },
+      {
+        "file": "../../_assets/emojis/9834/卖萌.gif",
+        "package_id": "9834",
+        "emoji_id": "138858",
+        "text": "[洛天依·人格镜像 动态表情包_卖萌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4837,
+    "comment": 388,
+    "forward": 225
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

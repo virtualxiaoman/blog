@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1217066751014994004",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1217066751014994004",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月23日",
+    "pub_ts": 1782208835,
+    "location": ""
+  },
+  "topic": {
+    "id": 1342151,
+    "name": "2026哔哩哔哩毕业歌",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1342151&topic_name=2026%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%AF%95%E4%B8%9A%E6%AD%8C"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "毕业快乐！开着无敌战舰去征服一万个星球吧！【洛天依2026毕业歌】",
+      "desc": "拆一张“床”，造一艘“船”\n四面八方，都是前方~\n天依也唱了今年的毕业歌，祝大家毕业快乐\n启航吧！把热爱、勇气和想象力重新拼装，驶向更辽阔的宇宙！\n\n《2026年6月20日海水淹没了宿舍我决定拆掉床板造一艘无敌战舰去征服一万个星球》\n原唱：戴荃BV1GtJG63ES5\n演唱：洛天依\n作词：马晓波 嘻嘻弗斯\n作曲：群玉山音乐 东序\n制作人/音乐设计：戴荃\n编曲：戴艺/戴荃\n曲绘：kaka\n调校:鬼面P \n混音:蓝欣也是蓝斤欠\n视频制作：YH_studio",
+      "jump_url": "https://www.bilibili.com/video/BV1GNjm6AETx",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/426f8a98c8ccbe0a46b76d050129ecab87a9f2dc.jpg",
+      "cover_file": "../../_assets/covers/2026-06-23_1.jpg",
+      "bvid": "BV1GNjm6AETx",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1GNjm6AETx",
+        "aid": "116798716382652",
+        "cover": "http://i0.hdslb.com/bfs/archive/426f8a98c8ccbe0a46b76d050129ecab87a9f2dc.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1GNjm6AETx",
+        "stat": {
+          "danmaku": "446",
+          "play": "24.3万",
+          "vt": ""
+        },
+        "duration_text": "04:40",
+        "title": "毕业快乐！开着无敌战舰去征服一万个星球吧！【洛天依2026毕业歌】",
+        "desc": "拆一张“床”，造一艘“船”\n四面八方，都是前方~\n天依也唱了今年的毕业歌，祝大家毕业快乐\n启航吧！把热爱、勇气和想象力重新拼装，驶向更辽阔的宇宙！\n\n《2026年6月20日海水淹没了宿舍我决定拆掉床板造一艘无敌战舰去征服一万个星球》\n原唱：戴荃BV1GtJG63ES5\n演唱：洛天依\n作词：马晓波 嘻嘻弗斯\n作曲：群玉山音乐 东序\n制作人/音乐设计：戴荃\n编曲：戴艺/戴荃\n曲绘：kaka\n调校:鬼面P \n混音:蓝欣也是蓝斤欠\n视频制作：YH_studio",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35372,
+    "comment": 1636,
+    "forward": 244
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:25:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

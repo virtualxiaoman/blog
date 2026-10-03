@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "id": "981806636016336899",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/981806636016336899",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月27日",
+    "pub_ts": 1727433071,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 \n亲爱的小伙伴们，包括洛天依歌行宇宙·无限遨游线下展主题周边的多款新品上架啦！快来看看有没有你感兴趣的吧~[歌行宇宙表情包_娃娃]\n转发关注天依，揪3位乘客分别送出【无限遨游系列全套周边+星球痛包】1份、【ProjectLuo系列 充电头+充电宝】1份、【洛天依 12分可动手办】1个！\n\n🪐歌行宇宙·无限遨游系列\n-镭射票、徽章、色纸、透卡\n*将在10月1日-10月7日在线下展进行场贩，其他时间不定\n\n 🚀ProjectLuo系列\n-空间站款快充头、拼装移动电源\n\n🌌 超星动 星球痛包\n-早鸟价立减10，到手￥148\n\n💕洛天依 12分 MJD 可动手办 公式服款\n-早鸟价立减20，特惠￥149\n\n✨ Vsinger旗舰店（天猫）、bilibili会员购，9月27日晚20:00同步开售\n各位和天依一起「歌行宇宙」的乘客，带上背包，充满电力，一起继续前进吧！[歌行宇宙表情包_出发]\n#洛天依# #洛天依歌行宇宙# #代号洛天依#\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "320216",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n亲爱的小伙伴们，包括洛天依歌行宇宙·无限遨游线下展主题周边的多款新品上架啦！快来看看有没有你感兴趣的吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_娃娃]",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "name": "娃娃",
+        "url": "https://i0.hdslb.com/bfs/garb/7ad43030b3dba76a77b9c8c48a5d69b4506facea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪3位乘客分别送出【无限遨游系列全套周边+星球痛包】1份、【ProjectLuo系列 充电头+充电宝】1份、【洛天依 12分可动手办】1个！\n\n🪐歌行宇宙·无限遨游系列\n-镭射票、徽章、色纸、透卡\n*将在10月1日-10月7日在线下展进行场贩，其他时间不定\n\n 🚀ProjectLuo系列\n-空间站款快充头、拼装移动电源\n\n🌌 超星动 星球痛包\n-早鸟价立减10，到手￥148\n\n💕洛天依 12分 MJD 可动手办 公式服款\n-早鸟价立减20，特惠￥149\n\n✨ Vsinger旗舰店（天猫）、bilibili会员购，9月27日晚20:00同步开售\n各位和天依一起「歌行宇宙」的乘客，带上背包，充满电力，一起继续前进吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_出发]",
+        "package_id": "5880",
+        "emoji_id": "86900",
+        "name": "出发",
+        "url": "https://i0.hdslb.com/bfs/garb/5b06d69d0123790ce30b67b115f3bac9d24459ed.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依歌行宇宙#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%AD%8C%E8%A1%8C%E5%AE%87%E5%AE%99"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#代号洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BB%A3%E5%8F%B7%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-27_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d3db126e810efeba0329e2dfa3e7240d36081646.png",
+        "width": 1200,
+        "height": 1280,
+        "size_kb": 1625.2939453125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-09-27_3.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cb621d50475b954bde95d37e23e0843836081646.png",
+        "width": 1200,
+        "height": 1280,
+        "size_kb": 1226.0341796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-09-27_4.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2ccba5343f95bdd534b90e71b8b7317536081646.png",
+        "width": 1200,
+        "height": 1280,
+        "size_kb": 1083.201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-09-27_5.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/16a1a0608f0540fba2634ac2f3ff306636081646.png",
+        "width": 1200,
+        "height": 1280,
+        "size_kb": 1139.3544921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-09-27_6.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cc2dfd2611279d44be6226c69c0f90cb36081646.png",
+        "width": 1200,
+        "height": 1280,
+        "size_kb": 1563.6800537109375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-09-27_7.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3f3a73fb0f03067413a4bf124e41896836081646.png",
+        "width": 1200,
+        "height": 1280,
+        "size_kb": 1777.5791015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/娃娃.png",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "text": "[歌行宇宙表情包_娃娃]"
+      },
+      {
+        "file": "../../_assets/emojis/5880/出发.png",
+        "package_id": "5880",
+        "emoji_id": "86900",
+        "text": "[歌行宇宙表情包_出发]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 Awww超星动 星球痛包",
+            "price": "¥140",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/85/f6/85f6ff9bdbf5f562d1e6026dcabc0015.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10663212&msource=cps_Mdynamic_36081646_cont-2-981806636016336899&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-27_2.png"
+          },
+          {
+            "name": "Vsinger 洛天依 ProjectLuo系列 拼装移动电源",
+            "price": "¥198",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/ad/6d/ad6d8367fda8517478c0afa575115270.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10663027&msource=cps_Mdynamic_36081646_cont-2-981806636016336899&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-27_3.png"
+          },
+          {
+            "name": "Vsinger 洛天依 ProjectLuo系列 空间站款充电头",
+            "price": "¥128",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/a5/ad/a5adfee3ffafc3fd765b86d7abab1639.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10663346&msource=cps_Mdynamic_36081646_cont-2-981806636016336899&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-27_4.png"
+          },
+          {
+            "name": "Vsinger 洛天依 12分MJD 可动手办 公式服款",
+            "price": "¥154",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/e8/a3/e8a3df582469aabdf68d1f3ac8150600.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10646509&msource=cps_Mdynamic_36081646_cont-2-981806636016336899&track_id=__BGMT__&contentId=&from=",
+            "brief": "9月27日20:00-10月7日23:59，限时售价149元",
+            "cover_file": "../../_assets/covers/2024-09-27_5.png"
+          },
+          {
+            "name": "Vsinger 洛天依 无限遨游系列周边 徽章吧唧色纸透卡镭射牌",
+            "price": "¥8",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/a4/af/a4afae1bd83a8ad7e062db1dd847ff3b.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10644922&msource=cps_Mdynamic_36081646_cont-2-981806636016336899&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-27_6.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "320216"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5735,
+    "comment": 1087,
+    "forward": 11854
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

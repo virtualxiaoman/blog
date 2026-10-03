@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1129123679245959172",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1129123679245959172",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月29日",
+    "pub_ts": 1761732993,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家有没有get天依头套呀？[洛天依八音奇响动态_嘻嘻]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家有没有get天依头套呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_嘻嘻]",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "name": "嘻嘻",
+        "url": "https://i0.hdslb.com/bfs/garb/e34f36857985cc7064f01d824beb9b8860b007ef.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8362/嘻嘻.gif",
+        "package_id": "8362",
+        "emoji_id": "115087",
+        "text": "[洛天依八音奇响动态_嘻嘻]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5007,
+    "comment": 161,
+    "forward": 29
+  },
+  "forward": {
+    "orig_id": 1127172286667816980,
+    "orig_mid": 1567141152,
+    "deleted": false,
+    "archive_dir": "../../../1567141152/2025-10/2025-10-24_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:41:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

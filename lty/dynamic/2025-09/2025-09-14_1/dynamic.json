@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "id": "1112327857434001523",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1112327857434001523",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月14日",
+    "pub_ts": 1757822411,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "幸运青×洛天依联动曲上线！\n小凸欢呼播报！🌟\n幸运青和@洛天依   的联动MV完整版公开啦——《幸运共鸣》全网上线！\n一起跟着哼唱，让幸运🍀穿过耳朵，在心里发芽吧🌱\n#凸变英雄X# #洛天依幸运青联动曲# ",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "幸运青×洛天依联动曲上线！\n小凸欢呼播报！🌟\n幸运青和"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依 ",
+        "mid": 36081646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "  的联动MV完整版公开啦——《幸运共鸣》全网上线！\n一起跟着哼唱，让幸运🍀穿过耳朵，在心里发芽吧🌱\n"
+      },
+      {
+        "type": "topic",
+        "text": "#凸变英雄X#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%87%B8%E5%8F%98%E8%8B%B1%E9%9B%84X"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依幸运青联动曲#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%B9%B8%E8%BF%90%E9%9D%92%E8%81%94%E5%8A%A8%E6%9B%B2"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依X幸运青联动曲《幸运共鸣》完整版公开！",
+      "desc": "小凸欢呼播报！🌟\n幸运青和@洛天依   的联动MV完整版公开啦——《幸运共鸣》全网上线！\n一起跟着哼唱，让幸运🍀穿过耳朵，在心里发芽吧🌱 \n演唱：洛天依&幸运青\n作词：珞一不高兴\n作曲：Nobutaka Ishii\n编曲：Nobutaka Ishii\n调校：玖蝶\n吉他：Akira Okuyama\n混音：Taisuke Kitayoshi\n音乐监制：Tenko / Mineaki Kawahara / Yingzi Li\n制作：Kay Production\n监制：林捷 / 小槐",
+      "jump_url": "https://www.bilibili.com/video/BV1XQHrz5ESv",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/6d5d87a13ef0a2d20531eb8e499b1e5a0eb539ee.jpg",
+      "cover_file": "../../_assets/covers/2025-09-14_1.jpg",
+      "bvid": "BV1XQHrz5ESv",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1XQHrz5ESv",
+        "aid": "115190536340837",
+        "cover": "http://i0.hdslb.com/bfs/archive/6d5d87a13ef0a2d20531eb8e499b1e5a0eb539ee.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1XQHrz5ESv",
+        "stat": {
+          "danmaku": "1286",
+          "play": "74.9万",
+          "vt": ""
+        },
+        "duration_text": "03:06",
+        "title": "洛天依X幸运青联动曲《幸运共鸣》完整版公开！",
+        "desc": "小凸欢呼播报！🌟\n幸运青和@洛天依   的联动MV完整版公开啦——《幸运共鸣》全网上线！\n一起跟着哼唱，让幸运🍀穿过耳朵，在心里发芽吧🌱 \n演唱：洛天依&幸运青\n作词：珞一不高兴\n作曲：Nobutaka Ishii\n编曲：Nobutaka Ishii\n调校：玖蝶\n吉他：Akira Okuyama\n混音：Taisuke Kitayoshi\n音乐监制：Tenko / Mineaki Kawahara / Yingzi Li\n制作：Kay Production\n监制：林捷 / 小槐",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "凸变英雄X",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss43554",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/82568ec2918b7e266ec82ce485ea14018a2d4e71.png",
+      "cover_file": "../../_assets/covers/2025-09-14_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追番",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss43554",
+        "id_str": "115190536340837",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/82568ec2918b7e266ec82ce485ea14018a2d4e71.png",
+        "style": 2,
+        "title": "凸变英雄X",
+        "desc1": "bilibili出品 已完结, 全24话",
+        "desc2": "443.2万系列追番"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 48045,
+    "comment": 1372,
+    "forward": 43
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

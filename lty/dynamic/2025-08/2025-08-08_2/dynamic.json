@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "1098711196245164040",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1098711196245164040",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月8日",
+    "pub_ts": 1754652035,
+    "location": ""
+  },
+  "topic": {
+    "id": 1310025,
+    "name": "洛天依喊你来看全息巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1310025&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E6%9D%A5%E7%9C%8B%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依流光协奏全息巡演#\n转发关注天依，揪6位小伙伴送出皮肤兑换码1份~[洛天依流光协奏_捧花]\n\n定格流转星光，合奏回忆乐章。\n洛天依流光协奏全息巡演×搜狗输入法移动端联动皮肤正式上线啦！\n\n🎶昼夜双色\n🎶双重按下动效\n\n皮肤展示和获取方式等详情，小伙伴们请戳长图查看哦~[洛天依流光协奏_ALLIN]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依流光协奏全息巡演#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B5%81%E5%85%89%E5%8D%8F%E5%A5%8F%E5%85%A8%E6%81%AF%E5%B7%A1%E6%BC%94"
+      },
+      {
+        "type": "text",
+        "text": "\n转发关注天依，揪6位小伙伴送出皮肤兑换码1份~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_捧花]",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "name": "捧花",
+        "url": "https://i0.hdslb.com/bfs/garb/1970804d6735f906318f08b771381742692960d8.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n定格流转星光，合奏回忆乐章。\n洛天依流光协奏全息巡演×搜狗输入法移动端联动皮肤正式上线啦！\n\n🎶昼夜双色\n🎶双重按下动效\n\n皮肤展示和获取方式等详情，小伙伴们请戳长图查看哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依流光协奏_ALLIN]",
+        "package_id": "8393",
+        "emoji_id": "115578",
+        "name": "ALLIN",
+        "url": "https://i0.hdslb.com/bfs/garb/461f0aaab5efcd210d620c093a06f333821c1495.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-08-08_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2ce6fd323031c01e81bf87826315a14036081646.png",
+        "width": 1080,
+        "height": 4013,
+        "size_kb": 4150.663,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8393/捧花.png",
+        "package_id": "8393",
+        "emoji_id": "115564",
+        "text": "[洛天依流光协奏_捧花]"
+      },
+      {
+        "file": "../../_assets/emojis/8393/ALLIN.png",
+        "package_id": "8393",
+        "emoji_id": "115578",
+        "text": "[洛天依流光协奏_ALLIN]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6585,
+    "comment": 6066,
+    "forward": 3708
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

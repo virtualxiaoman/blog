@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "538771499457836246",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/538771499457836246",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月21日",
+    "pub_ts": 1624280915,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 🎶#洛天依0712生日快乐# 【九周年第二弹】洛天依庆生活动页明日上线！  九年风雨一路走过，改变的是时间，不变的是那些美好的回忆和对未来的憧憬。  🦋九周年B站庆生活动6/22上线 关注B站活动页，生日会入场券将以以下形式发布：  【第一阶段：120张入场券抽选机制】 6/22 晚20:00至7/1， 在B站洛天依九周年庆生活动页点击「线下抽票」，1元拍下抽选资格 7/2晚上 20:00， 天依将在B站直播间公开唱票抽选 *未抽中的用户将获得7/12 生日会直播间限定道具一个  【第二阶段：50张入场券购买周边抢赠】 7/5 洛天依九周年生日主题周边上线 耳机、键盘、立牌、徽章等多款庆生周边，在会员购消费洛天依商品满521元即赠生日会入场券一张，限量50张，先到先得  🦋洛天依庆生应援投稿征集6/28开启 活动期间，带Tag #洛天依九周年# 投稿，即可参与瓜分6w现金奖励、更有机会获得全球唯一洛天依定制3080Ti，欢迎同步投稿到B站 #2021虚拟歌手创作赛# 一份投稿，双份收获，为天依庆生！\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 🎶"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 【九周年第二弹】洛天依庆生活动页明日上线！  九年风雨一路走过，改变的是时间，不变的是那些美好的回忆和对未来的憧憬。  🦋九周年B站庆生活动6/22上线 关注B站活动页，生日会入场券将以以下形式发布：  【第一阶段：120张入场券抽选机制】 6/22 晚20:00至7/1， 在B站洛天依九周年庆生活动页点击「线下抽票」，1元拍下抽选资格 7/2晚上 20:00， 天依将在B站直播间公开唱票抽选 *未抽中的用户将获得7/12 生日会直播间限定道具一个  【第二阶段：50张入场券购买周边抢赠】 7/5 洛天依九周年生日主题周边上线 耳机、键盘、立牌、徽章等多款庆生周边，在会员购消费洛天依商品满521元即赠生日会入场券一张，限量50张，先到先得  🦋洛天依庆生应援投稿征集6/28开启 活动期间，带Tag "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 投稿，即可参与瓜分6w现金奖励、更有机会获得全球唯一洛天依定制3080Ti，欢迎同步投稿到B站 "
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": " 一份投稿，双份收获，为天依庆生！"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-06-21_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1f2efac6fcf65bf8ac4220c68ac92d2d64b541e7.jpg",
+        "width": 1773,
+        "height": 900,
+        "size_kb": 920.64,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9895,
+    "comment": 780,
+    "forward": 534
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:31:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

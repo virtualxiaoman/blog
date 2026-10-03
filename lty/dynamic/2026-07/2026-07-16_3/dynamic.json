@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "1225618739557302277",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1225618739557302277",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月16日",
+    "pub_ts": 1784200000,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "来到广州，当然要在蔚蓝的天空下，和广州塔来一张合照啦！\n再漫步到海边，看看大海，吹吹海风~\n晴空下的天空和大海都是那么澄净，心情也渐渐宁静下来\n天依的六城捕蓝计划圆满结束！准备好，静静等待和大家正式相见的那一天啦~[洛天依·信号动态表情包_love之力]\n\n🪐2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·广州站将于7月17日19点全面开票\n🎶传送门网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来到广州，当然要在蔚蓝的天空下，和广州塔来一张合照啦！\n再漫步到海边，看看大海，吹吹海风~\n晴空下的天空和大海都是那么澄净，心情也渐渐宁静下来\n天依的六城捕蓝计划圆满结束！准备好，静静等待和大家正式相见的那一天啦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🪐2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·广州站将于7月17日19点全面开票\n🎶传送门"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1003717"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8e39f483c997be18be2e596b19d6e87336081646.jpg",
+        "width": 2250,
+        "height": 3000,
+        "size_kb": 4027.280029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/72f5f07665801c57ef8b41a3d711b7bf36081646.jpg",
+        "width": 1280,
+        "height": 1707,
+        "size_kb": 1244.300048828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "广州·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202607/500sYBzw1783919702_1783919702600.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1003717&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1225618739557302277",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-07-16_2.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6765,
+    "comment": 239,
+    "forward": 76
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:31:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1098969950839636057",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1098969950839636057",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月9日",
+    "pub_ts": 1754712281,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "最后一轮作品闪耀对决正式开启啦！天依又来分享P主老师们的特别寄语啦~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "最后一轮作品闪耀对决正式开启啦！天依又来分享P主老师们的特别寄语啦~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "第三周闪耀对决，让天依看看是谁还没有投票~！",
+      "desc": "洛天依大型原创音乐征集活动「闪耀的Producer 」 \n最后一轮作品闪耀对决正式开启啦！天依又来分享P主老师们的特别寄语啦~\n一起多多支持关注这些优秀的P主老师和作品，聆听这份用创作传递而出的真切共鸣吧！\n✨主题页：https://www.bilibili.com/blackboard/era/Producer2025.html \n\n🎶打擂期：8月8日0点-8月14日24点 \n🎶参与打擂作品\n✨Kirakira组\n@MiDiCat_OvO   《傲娇少女日记》BV1dVuGzeEAX\n@雨天决行__",
+      "jump_url": "https://www.bilibili.com/video/BV1aUtHzTEMV",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/01274662c8324b8b0313b0400b60308756e4d008.jpg",
+      "cover_file": "../../_assets/covers/2025-08-09_1.jpg",
+      "bvid": "BV1aUtHzTEMV",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1aUtHzTEMV",
+        "aid": "114994226137850",
+        "cover": "http://i0.hdslb.com/bfs/archive/01274662c8324b8b0313b0400b60308756e4d008.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1aUtHzTEMV",
+        "stat": {
+          "danmaku": "140",
+          "play": "19.9万",
+          "vt": ""
+        },
+        "duration_text": "07:47",
+        "title": "第三周闪耀对决，让天依看看是谁还没有投票~！",
+        "desc": "洛天依大型原创音乐征集活动「闪耀的Producer 」 \n最后一轮作品闪耀对决正式开启啦！天依又来分享P主老师们的特别寄语啦~\n一起多多支持关注这些优秀的P主老师和作品，聆听这份用创作传递而出的真切共鸣吧！\n✨主题页：https://www.bilibili.com/blackboard/era/Producer2025.html \n\n🎶打擂期：8月8日0点-8月14日24点 \n🎶参与打擂作品\n✨Kirakira组\n@MiDiCat_OvO   《傲娇少女日记》BV1dVuGzeEAX\n@雨天决行__  ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14214,
+    "comment": 1878,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

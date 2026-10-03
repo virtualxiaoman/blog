@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "1241457728581271668",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1241457728581271668",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月28日",
+    "pub_ts": 1787887802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@我是懂初音的中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@我是懂初音的",
+        "mid": 259267677,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3581,
+    "comment": 189,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1235891880444559376,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2026-08-13_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:37:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

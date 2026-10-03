@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224158454981066792",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224158454981066792",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783860001,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“世界上所有美好与苦难  统统都坠入那片纯蓝”《纯蓝》洛天依14周年生日会",
+      "desc": "我怎会不知你挚爱纯蓝\n\n作曲：COP\n编曲：Jsoul\n作词：COP\n调教：COP\n原PV：BV1z64y1b7H4",
+      "jump_url": "https://www.bilibili.com/video/BV1L6Nu6vEgi",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/a8b06b289d3219efb9aa19b747b3178d8d477fc2.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_17.jpg",
+      "bvid": "BV1L6Nu6vEgi",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1L6Nu6vEgi",
+        "aid": "116906359064440",
+        "cover": "http://i1.hdslb.com/bfs/archive/a8b06b289d3219efb9aa19b747b3178d8d477fc2.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1L6Nu6vEgi",
+        "stat": {
+          "danmaku": "304",
+          "play": "25.5万",
+          "vt": ""
+        },
+        "duration_text": "04:06",
+        "title": "“世界上所有美好与苦难  统统都坠入那片纯蓝”《纯蓝》洛天依14周年生日会",
+        "desc": "我怎会不知你挚爱纯蓝\n\n作曲：COP\n编曲：Jsoul\n作词：COP\n调教：COP\n原PV：BV1z64y1b7H4",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24030,
+    "comment": 1098,
+    "forward": 127
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

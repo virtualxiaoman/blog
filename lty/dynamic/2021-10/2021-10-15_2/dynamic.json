@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "581816340302619924",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/581816340302619924",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年10月15日",
+    "pub_ts": 1634303073,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "等会见哦！[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "等会见哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5199,
+    "comment": 524,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 581815983817185668,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2021-10/2021-10-15_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:37:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

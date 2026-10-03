@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "815817561748799489",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/815817561748799489",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月8日",
+    "pub_ts": 1688785728,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依X罗森 全国各地主题店活动即将开启，欢迎大家参与线下活动打卡~不同地区的活动和开启时间不同，详情请大家戳长图查看ヾ(≧▽≦*)o特别提醒：8王龙人偶互动的第一站是在7月12日天依生日当天的上海主题店哦！ [代号洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依X罗森 全国各地主题店活动即将开启，欢迎大家参与线下活动打卡~不同地区的活动和开启时间不同，详情请大家戳长图查看ヾ(≧▽≦*)o特别提醒：8王龙人偶互动的第一站是在7月12日天依生日当天的上海主题店哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5824,
+    "comment": 310,
+    "forward": 65
+  },
+  "forward": {
+    "orig_id": 815166006606430210,
+    "orig_mid": 361078062,
+    "deleted": false,
+    "archive_dir": "../../../361078062/2023-07/2023-07-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:54:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1083847100408528960",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1083847100408528960",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年6月29日",
+    "pub_ts": 1751191218,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "来到这座天依精心搭建的舞会城堡，一起留下珍贵的回忆吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来到这座天依精心搭建的舞会城堡，一起留下珍贵的回忆吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "今年来BW的小伙伴在哪里——让我看到你们的双手~",
+      "desc": "去年和大家在BW一起度过的快乐记忆仍然历历在目\n今年天依也将继续在BW和大家见面！\n是BW的相约盛会，也是属于天依生日的梦幻邀约\n天依准备了超级华丽的展区和丰富的活动给大家哦！\n特别舞台、游戏环节、游玩互动、打卡集章、扭蛋抽奖、周边场贩、限定满赠......\n来到这座天依精心搭建的舞会城堡，一起留下珍贵的回忆吧！\n\n✨参展信息\n■展会时间：7月11日-7月13日\n■展馆地址：上海国家会展中心\n■展台位置：2.1H 展位2A02",
+      "jump_url": "https://www.bilibili.com/video/BV1CDgfzUEGP",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b151e5604b5f4c153caaf95b4d5f18710b6980a4.jpg",
+      "cover_file": "../../_assets/covers/2025-06-29_1.jpg",
+      "bvid": "BV1CDgfzUEGP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1CDgfzUEGP",
+        "aid": "114765183583479",
+        "cover": "http://i2.hdslb.com/bfs/archive/b151e5604b5f4c153caaf95b4d5f18710b6980a4.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1CDgfzUEGP",
+        "stat": {
+          "danmaku": "60",
+          "play": "8.2万",
+          "vt": ""
+        },
+        "duration_text": "01:05",
+        "title": "今年来BW的小伙伴在哪里——让我看到你们的双手~",
+        "desc": "去年和大家在BW一起度过的快乐记忆仍然历历在目\n今年天依也将继续在BW和大家见面！\n是BW的相约盛会，也是属于天依生日的梦幻邀约\n天依准备了超级华丽的展区和丰富的活动给大家哦！\n特别舞台、游戏环节、游玩互动、打卡集章、扭蛋抽奖、周边场贩、限定满赠......\n来到这座天依精心搭建的舞会城堡，一起留下珍贵的回忆吧！\n\n✨参展信息\n■展会时间：7月11日-7月13日\n■展馆地址：上海国家会展中心\n■展台位置：2.1H 展位2A02",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 23909,
+    "comment": 458,
+    "forward": 53
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:19+08:00",
+    "force": false,
+    "failures": []
+  }
+}

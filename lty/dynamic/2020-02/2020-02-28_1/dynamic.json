@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "360967189208098849",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/360967189208098849",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年2月28日",
+    "pub_ts": 1582882623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一起来把头摇摇吧~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起来把头摇摇吧~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7198,
+    "comment": 225,
+    "forward": 33
+  },
+  "forward": {
+    "orig_id": 360957675857568287,
+    "orig_mid": 317866,
+    "deleted": false,
+    "archive_dir": "../../../317866/2020-02/2020-02-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:23:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "393628645964067910",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/393628645964067910",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月26日",
+    "pub_ts": 1590487211,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依汰渍环球街拍# 上线啦！想先睹为快吗？快来为天依打call解锁写真照吧~ 网页链接 参与B站盖楼抽奖活动，还有机会赢取海报哦~重点提醒：上天猫宝洁官方旗舰店购买汰渍限量礼盒，还有机会获得洛天依X汰渍云旅写真集，隐藏款写真照等你来发现哦~ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依汰渍环球街拍#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B1%B0%E6%B8%8D%E7%8E%AF%E7%90%83%E8%A1%97%E6%8B%8D"
+      },
+      {
+        "type": "text",
+        "text": " 上线啦！想先睹为快吗？快来为天依打call解锁写真照吧~ "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/activity-TZH5.html"
+      },
+      {
+        "type": "text",
+        "text": " 参与B站盖楼抽奖活动，还有机会赢取海报哦~重点提醒：上天猫宝洁官方旗舰店购买汰渍限量礼盒，还有机会获得洛天依X汰渍云旅写真集，隐藏款写真照等你来发现哦~ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-05-26_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/5d9b7854d6093702acdc91e84889ced4120a271f.jpg",
+        "width": 4480,
+        "height": 6720,
+        "size_kb": 15930.744140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2020-05-26_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/83bdf446396d518040ca19a4eb565fa0ef0670dc.jpg",
+        "width": 4480,
+        "height": 6720,
+        "size_kb": 12349.024414062,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2020-05-26_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/876c71df4055e91cc66b6f2ec49e07ad26a3558e.jpg",
+        "width": 3414,
+        "height": 5120,
+        "size_kb": 10872.283203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2020-05-26_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f0724658fadf739443f77fbce13466e65b17dbd4.jpg",
+        "width": 4410,
+        "height": 2942,
+        "size_kb": 8475.2412109375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8864,
+    "comment": 773,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

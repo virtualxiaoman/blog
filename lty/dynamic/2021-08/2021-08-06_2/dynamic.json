@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "555840159054216940",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/555840159054216940",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月6日",
+    "pub_ts": 1628255022,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这次的线下活动大家玩得开心吗？虽然没能到现场和大家见面，但小伙伴们满满的热情都传达给天依了哦~\n记得一定要好好收藏天依分享的“小肌密”，认准娇韵诗，一起keep少女肌[洛天依_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这次的线下活动大家玩得开心吗？虽然没能到现场和大家见面，但小伙伴们满满的热情都传达给天依了哦~\n记得一定要好好收藏天依分享的“小肌密”，认准娇韵诗，一起keep少女肌"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你]",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "name": "爱你",
+        "url": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/爱你.png",
+        "package_id": "101",
+        "emoji_id": "2204",
+        "text": "[洛天依_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5869,
+    "comment": 115,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 555837049497861935,
+    "orig_mid": 9809515,
+    "deleted": false,
+    "archive_dir": "../../../9809515/2021-08/2021-08-06_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:33:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

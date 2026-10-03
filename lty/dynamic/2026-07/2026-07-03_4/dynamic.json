@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "1220770825313976326",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1220770825313976326",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月3日",
+    "pub_ts": 1783071257,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "要来啦要来啦！大家准备好了嘛[洛天依-潮声回响_为你][洛天依-潮声回响_为你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "要来啦要来啦！大家准备好了嘛"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_为你]",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "name": "为你",
+        "url": "https://i0.hdslb.com/bfs/garb/5a766d1d166f6ea1ac769f1e138942f5906f4c13.png"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_为你]",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "name": "为你",
+        "url": "https://i0.hdslb.com/bfs/garb/5a766d1d166f6ea1ac769f1e138942f5906f4c13.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/为你.png",
+        "package_id": "7109",
+        "emoji_id": "94945",
+        "text": "[洛天依-潮声回响_为你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3835,
+    "comment": 196,
+    "forward": 44
+  },
+  "forward": {
+    "orig_id": 1219238763246387235,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-06/2026-06-29_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:26:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

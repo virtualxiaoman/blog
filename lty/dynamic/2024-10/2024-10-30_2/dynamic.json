@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "993956286720638984",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/993956286720638984",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月30日",
+    "pub_ts": 1730261882,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@太阳系的屑地球中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@太阳系的屑地球",
+        "mid": 291284862,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3203,
+    "comment": 93,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 973175736043044905,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-09/2024-09-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

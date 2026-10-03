@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "id": "684600031830868000",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/684600031830868000",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月19日",
+    "pub_ts": 1658234266,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "叮咚叮咚，这里是你的活动结束提醒小闹钟[洛天依_GKD] #洛天依10周年#视频类征集活动、画稿类创作赛及MMD模型创作大赛都即将在明晚23:59结束啦，还有想要投稿的老师，不要错过咯！[洛天依_周年快乐]  部分优秀参赛作品展示： p1:歌曲《你和我的篇章》封面画师:韶华 p2:歌曲《圆圈之外》封面画师:Tico p3:歌曲《心照不宣》封面画师:眠启 p4:深谷-shintani p5:利刹牙口 p6:甘斯托洛夫斯基 p7:伊灵一号机 p8:机动战士牛肉 p9:Spazadura  *感谢所有老师的投稿，篇幅展示有限，欢迎大家前往话题#洛天依10周年# #依如初见#欣赏更多作品呀⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "叮咚叮咚，这里是你的活动结束提醒小闹钟"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_GKD]",
+        "package_id": "340",
+        "emoji_id": "5569",
+        "name": "GKD",
+        "url": "http://i0.hdslb.com/bfs/emote/57173e412d69dd029832192e61b107434ad8eac1.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "视频类征集活动、画稿类创作赛及MMD模型创作大赛都即将在明晚23:59结束啦，还有想要投稿的老师，不要错过咯！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_周年快乐]",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "name": "周年快乐",
+        "url": "http://i0.hdslb.com/bfs/emote/6276163f4158e7ea145fd8a13c98c10e77066e7b.png"
+      },
+      {
+        "type": "text",
+        "text": "  部分优秀参赛作品展示： p1:歌曲《你和我的篇章》封面画师:韶华 p2:歌曲《圆圈之外》封面画师:Tico p3:歌曲《心照不宣》封面画师:眠启 p4:深谷-shintani p5:利刹牙口 p6:甘斯托洛夫斯基 p7:伊灵一号机 p8:机动战士牛肉 p9:Spazadura  *感谢所有老师的投稿，篇幅展示有限，欢迎大家前往话题"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#依如初见#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%BE%9D%E5%A6%82%E5%88%9D%E8%A7%81"
+      },
+      {
+        "type": "text",
+        "text": "欣赏更多作品呀⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-19_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/37486c6ca311e74ec814207b17bfad0f36081646.jpg",
+        "width": 1504,
+        "height": 940,
+        "size_kb": 235.36000061035156,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2022-07-19_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/36d5a0dbb9c8fdd912d18a8f707dc9a336081646.jpg",
+        "width": 1146,
+        "height": 716,
+        "size_kb": 58.16999816894531,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2022-07-19_3.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d313b92026bb94065ebca954f3ef948336081646.jpg",
+        "width": 1045,
+        "height": 654,
+        "size_kb": 658.9400024414062,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2022-07-19_4.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/8d413c8da029e1425f42f616187f38c136081646.jpg",
+        "width": 2053,
+        "height": 1080,
+        "size_kb": 1207.0400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2022-07-19_5.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a1cb150a1a3019d07e3364d9b774122f36081646.jpg",
+        "width": 2256,
+        "height": 1080,
+        "size_kb": 1495.0799560546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2022-07-19_6.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/cda12b36a56706c9eb23ef4957af9c1336081646.jpg",
+        "width": 1527,
+        "height": 1080,
+        "size_kb": 566.9099731445312,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2022-07-19_7.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/87710e943014d6842a91884b3b1147d536081646.jpg",
+        "width": 1024,
+        "height": 724,
+        "size_kb": 183.66000366210938,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2022-07-19_8.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/f8e0623acac8c39f6b06312e3754ba1c36081646.jpg",
+        "width": 1122,
+        "height": 631,
+        "size_kb": 82.94999694824219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2022-07-19_9.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/04d6373fc6ae16aa63632d8e7551e9aa36081646.png",
+        "width": 1618,
+        "height": 900,
+        "size_kb": 890.1699829101562,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/GKD.png",
+        "package_id": "340",
+        "emoji_id": "5569",
+        "text": "[洛天依_GKD]"
+      },
+      {
+        "file": "../../_assets/emojis/340/周年快乐.png",
+        "package_id": "340",
+        "emoji_id": "5581",
+        "text": "[洛天依_周年快乐]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8543,
+    "comment": 249,
+    "forward": 71
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

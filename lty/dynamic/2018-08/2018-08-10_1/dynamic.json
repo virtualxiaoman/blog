@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "150593802647039836",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/150593802647039836",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年8月10日",
+    "pub_ts": 1533901252,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "超有韵味的方言版《一花依世界》～快来找找有没有你的家乡话吧(｡･ω･｡)",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "超有韵味的方言版《一花依世界》～快来找找有没有你的家乡话吧(｡･ω･｡)"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4768,
+    "comment": 384,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 150553073472105345,
+    "orig_mid": 32708543,
+    "deleted": false,
+    "archive_dir": "../../../32708543/2018-08/2018-08-10_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:18:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

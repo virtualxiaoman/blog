@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "535317091622236871",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/535317091622236871",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年6月12日",
+    "pub_ts": 1623476623,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 生气了吗？",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 生气了吗？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5609,
+    "comment": 142,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 535012174717797607,
+    "orig_mid": 25681,
+    "deleted": false,
+    "archive_dir": "../../../25681/2021-06/2021-06-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:31:15+08:00",
+    "force": false,
+    "failures": []
+  }
+}

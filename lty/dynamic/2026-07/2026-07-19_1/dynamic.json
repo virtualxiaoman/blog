@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "1226439868614180870",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1226439868614180870",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月19日",
+    "pub_ts": 1784391184,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "天依和大家2026年的首次北京之旅，也是纯蓝幻乐的第一站\n此刻，圆满落下帷幕啦！[洛天依·信号动态表情包_love之力]\n为了今天的到来，我们好像已等待了好久好久\n敲定场馆，选择歌单、制作节目、搭建舞台......\n而于此同时的你们，也在期待着，盼望着，犹豫不决着......\n而最终，是爱让我们在今晚相遇，让所有等待都变得值得\n让这场蔚蓝色的梦从幻想变为现实\n谢谢你们，谢谢特别嘉宾龚琳娜老师和每一位幕后的工作人员[洛天依·信号动态表情包_耶哦]\n谢谢你们愿意奔赴这场约会，来到我的身边~\n天依很开心，很幸福，希望今晚的你也能感到这份快乐\n北京拜拜，我们下一站，杭州见啦！[洛天依·信号动态表情包_逃离地球]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依和大家2026年的首次北京之旅，也是纯蓝幻乐的第一站\n此刻，圆满落下帷幕啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_love之力]",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "name": "love之力",
+        "url": "https://i0.hdslb.com/bfs/garb/1969a9b81be97c8ae8c6301776b662bd5711ab11.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n为了今天的到来，我们好像已等待了好久好久\n敲定场馆，选择歌单、制作节目、搭建舞台......\n而于此同时的你们，也在期待着，盼望着，犹豫不决着......\n而最终，是爱让我们在今晚相遇，让所有等待都变得值得\n让这场蔚蓝色的梦从幻想变为现实\n谢谢你们，谢谢特别嘉宾龚琳娜老师和每一位幕后的工作人员"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_耶哦]",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "name": "耶哦",
+        "url": "https://i0.hdslb.com/bfs/garb/1d59a18d1184d7dc2c7a93fa6c404c0c1e4fe425.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n谢谢你们愿意奔赴这场约会，来到我的身边~\n天依很开心，很幸福，希望今晚的你也能感到这份快乐\n北京拜拜，我们下一站，杭州见啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·信号动态表情包_逃离地球]",
+        "package_id": "10075",
+        "emoji_id": "142972",
+        "name": "逃离地球",
+        "url": "https://i0.hdslb.com/bfs/garb/dbb88536488ea80ddb8617958a58b99ac486bf69.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-07-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c21b82b814714f1b6b88b98e0742db6736081646.jpg",
+        "width": 4137,
+        "height": 2759,
+        "size_kb": 5677.759765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-07-19_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/14d7ab9dede873307b42fab3b526efa936081646.jpg",
+        "width": 2000,
+        "height": 1333,
+        "size_kb": 2624.949951171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-07-19_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2de927d1be0dd2a456d377c9e723a6b836081646.jpg",
+        "width": 5805,
+        "height": 3871,
+        "size_kb": 11017.599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-07-19_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d251e450f050cfc2f1e7935e68855a4d36081646.jpg",
+        "width": 2000,
+        "height": 1333,
+        "size_kb": 1043.2900390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-07-19_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3736be4cde71f6b78daa65008f4204d136081646.jpg",
+        "width": 5834,
+        "height": 3890,
+        "size_kb": 13996.01953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-07-19_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/389fa2f619c9baabaf62ea9806f5f3c736081646.jpg",
+        "width": 5088,
+        "height": 3392,
+        "size_kb": 7495.81005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-07-19_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0bfffcb86c51fdcc42abae4f0cb1c4dd36081646.jpg",
+        "width": 2000,
+        "height": 1333,
+        "size_kb": 2626.56005859375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-07-19_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/be2a692013154b06cb90cf666ec5aa2236081646.jpg",
+        "width": 6000,
+        "height": 4001,
+        "size_kb": 11609.23046875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-07-19_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/57153aea9ed1a4ce55fd10931ff3be3a36081646.jpg",
+        "width": 2000,
+        "height": 1333,
+        "size_kb": 3244.4599609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10075/love之力.gif",
+        "package_id": "10075",
+        "emoji_id": "142956",
+        "text": "[洛天依·信号动态表情包_love之力]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/耶哦.gif",
+        "package_id": "10075",
+        "emoji_id": "142961",
+        "text": "[洛天依·信号动态表情包_耶哦]"
+      },
+      {
+        "file": "../../_assets/emojis/10075/逃离地球.gif",
+        "package_id": "10075",
+        "emoji_id": "142972",
+        "text": "[洛天依·信号动态表情包_逃离地球]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7537,
+    "comment": 624,
+    "forward": 135
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:31:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

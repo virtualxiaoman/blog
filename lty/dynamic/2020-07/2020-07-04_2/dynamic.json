@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "408119732480929364",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/408119732480929364",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月4日",
+    "pub_ts": 1593861180,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#与洛天依分享你的城##2020洛天依生日应援##洛天依0712生日快乐# 正所谓“食在广州”，来到这里不好好享受美食就太可惜了！ 广东粤菜是四大菜系之一，涵盖山珍与海味，从早餐开始，我就身处在美味的天堂中，光是天依喜欢的包子就有好几种，能像这样陷入选择困难，也算是一种幸福的烦恼呢~ 吃完了饭后点心，趁着夜色游览珠江，将美丽的城市灯火尽收眼底，高挑的“水蛇腰”静静凝视繁华的珠江岸，晚风拂过，带来夏夜的清凉。 对了，荔枝的季节也快到了，这些年真的跟小伙伴们有好多回忆，第七站天依也玩得非常开心，希望大家能猜猜看这座“小蛮腰”的本名，评论+转发回答正确答案（三个字），有机会获得天依广州限定宣传海报，也别忘了做运动哦~\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#与洛天依分享你的城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E5%9F%8E"
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 正所谓“食在广州”，来到这里不好好享受美食就太可惜了！ 广东粤菜是四大菜系之一，涵盖山珍与海味，从早餐开始，我就身处在美味的天堂中，光是天依喜欢的包子就有好几种，能像这样陷入选择困难，也算是一种幸福的烦恼呢~ 吃完了饭后点心，趁着夜色游览珠江，将美丽的城市灯火尽收眼底，高挑的“水蛇腰”静静凝视繁华的珠江岸，晚风拂过，带来夏夜的清凉。 对了，荔枝的季节也快到了，这些年真的跟小伙伴们有好多回忆，第七站天依也玩得非常开心，希望大家能猜猜看这座“小蛮腰”的本名，评论+转发回答正确答案（三个字），有机会获得天依广州限定宣传海报，也别忘了做运动哦~"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d7e00cbe8176ecd7e4af5158f582f4dcb0317758.jpg",
+        "width": 767,
+        "height": 1150,
+        "size_kb": 514.02,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10193,
+    "comment": 1344,
+    "forward": 986
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

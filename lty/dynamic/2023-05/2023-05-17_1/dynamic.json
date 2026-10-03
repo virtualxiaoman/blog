@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "796587795098370084",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/796587795098370084",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月17日",
+    "pub_ts": 1684308449,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "永远相信，音乐的力量[洛天依_打call ]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "永远相信，音乐的力量"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_打call ]",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "name": "打call",
+        "url": "http://i0.hdslb.com/bfs/emote/c20e0200384199f44808859fecadb89f0e61789f.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/打call.png",
+        "package_id": "340",
+        "emoji_id": "7259",
+        "text": "[洛天依_打call ]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4407,
+    "comment": 89,
+    "forward": 18
+  },
+  "forward": {
+    "orig_id": 796534344226177061,
+    "orig_mid": 8047632,
+    "deleted": false,
+    "archive_dir": "../../../8047632/2023-05/2023-05-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:53:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

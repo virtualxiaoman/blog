@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "1069394178937454662",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1069394178937454662",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年5月21日",
+    "pub_ts": 1747826135,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依·共鸣宝石收藏家】设定也分享给大家~！[洛天依·戏游九州动态_惬意]查看图片",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依·共鸣宝石收藏家】设定也分享给大家~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "unknown",
+        "text": "查看图片",
+        "url": "",
+        "node_type": "RICH_TEXT_NODE_TYPE_VIEW_PICTURE"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4198,
+    "comment": 82,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 1069372845877886982,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-05-21_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:29:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

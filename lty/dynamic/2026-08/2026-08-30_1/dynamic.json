@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "1242224526258864151",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1242224526258864151",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月30日",
+    "pub_ts": 1788066336,
+    "location": ""
+  },
+  "topic": {
+    "id": 1347208,
+    "name": "洛天依终冕",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1347208&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%BB%88%E5%86%95"
+  },
+  "content": {
+    "title": "",
+    "text": "纯白的王国，是梦幻的理想乡，是永恒的乌托邦。\n然而，传说当六枚棋子归位，黑王国将自地脉苏醒，吹响复仇的号角。\n旅人指尖的残片，是历史被涂改的证词，亦是终焉的序章。[逆转童话动态_惊讶]\n\n白璧无瑕之下，永续漆黑之影。\n洛天依全新主题企划「终冕」序幕将启，请跟随指引，缓缓揭开尘封的真相。[逆转童话动态_微笑]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "纯白的王国，是梦幻的理想乡，是永恒的乌托邦。\n然而，传说当六枚棋子归位，黑王国将自地脉苏醒，吹响复仇的号角。\n旅人指尖的残片，是历史被涂改的证词，亦是终焉的序章。"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_惊讶]",
+        "package_id": "8744",
+        "emoji_id": "121351",
+        "name": "惊讶",
+        "url": "https://i0.hdslb.com/bfs/garb/5f06ff977013a4cba22b0d0873281b7773390aec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n白璧无瑕之下，永续漆黑之影。\n洛天依全新主题企划「终冕」序幕将启，请跟随指引，缓缓揭开尘封的真相。"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_微笑]",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "name": "微笑",
+        "url": "https://i0.hdslb.com/bfs/garb/28b7f06a3b55053c7bdebd7bf1bb006e6278fea4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/645ec3d285f0309baaf4bef9b07201b136081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 1747.8199462890625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/惊讶.gif",
+        "package_id": "8744",
+        "emoji_id": "121351",
+        "text": "[逆转童话动态_惊讶]"
+      },
+      {
+        "file": "../../_assets/emojis/8744/微笑.gif",
+        "package_id": "8744",
+        "emoji_id": "121347",
+        "text": "[逆转童话动态_微笑]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6521,
+    "comment": 345,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

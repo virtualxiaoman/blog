@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "692392369513824305",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/692392369513824305",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月9日",
+    "pub_ts": 1660048561,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "提前恭喜所有获奖的老师呀，天依感谢每一个参与的创作者，谢谢大家用心的创作[洛天依_击掌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "提前恭喜所有获奖的老师呀，天依感谢每一个参与的创作者，谢谢大家用心的创作"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_击掌]",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "name": "击掌",
+        "url": "http://i0.hdslb.com/bfs/emote/208712d25bbfffefb00f51eb2c977b12b98e52a8.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/击掌.png",
+        "package_id": "340",
+        "emoji_id": "5574",
+        "text": "[洛天依_击掌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5975,
+    "comment": 85,
+    "forward": 8
+  },
+  "forward": {
+    "orig_id": 692384067365109768,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2022-08/2022-08-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

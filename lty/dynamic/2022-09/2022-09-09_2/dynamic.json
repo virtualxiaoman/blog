@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "703883988191674450",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/703883988191674450",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年9月9日",
+    "pub_ts": 1662724162,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "今天也是快乐唱歌的一天！[洛天依9th_一起唱]\n嗯......你找我？是想继续听我唱歌吗~[洛天依_捏捏]\n\n#洛天依#",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "今天也是快乐唱歌的一天！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n嗯......你找我？是想继续听我唱歌吗~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      },
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依】想继续听我唱歌吗~",
+      "desc": "今天也是快乐唱歌的一天！\n嗯......你找我？是想继续听我唱歌吗~",
+      "jump_url": "https://www.bilibili.com/video/BV1RG411G7J5",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/fd9a5ba64bdded7a786f707f9a91a96f89a40066.png",
+      "cover_file": "../../_assets/covers/2022-09-09_1.png",
+      "bvid": "BV1RG411G7J5",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1RG411G7J5",
+        "aid": "430301355",
+        "cover": "http://i2.hdslb.com/bfs/archive/fd9a5ba64bdded7a786f707f9a91a96f89a40066.png",
+        "jump_url": "//www.bilibili.com/video/BV1RG411G7J5",
+        "stat": {
+          "danmaku": "591",
+          "play": "13.3万",
+          "vt": ""
+        },
+        "duration_text": "00:32",
+        "title": "【洛天依】想继续听我唱歌吗~",
+        "desc": "今天也是快乐唱歌的一天！\n嗯......你找我？是想继续听我唱歌吗~",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 34522,
+    "comment": 838,
+    "forward": 133
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:54:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

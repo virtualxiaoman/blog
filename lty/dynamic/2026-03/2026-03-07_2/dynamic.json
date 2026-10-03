@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1177051004570435593",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1177051004570435593",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月7日",
+    "pub_ts": 1772891943,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@雾绪兔纸@あか_淦の涵@miku39CJ中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@雾绪兔纸",
+        "mid": 187588955,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@あか_淦の涵",
+        "mid": 1199510812,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@miku39CJ",
+        "mid": 415031,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4451,
+    "comment": 73,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 1164064707110240259,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2026-01/2026-01-31_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:19:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

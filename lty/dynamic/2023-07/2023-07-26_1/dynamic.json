@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "822588298502340680",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/822588298502340680",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月26日",
+    "pub_ts": 1690362163,
+    "location": ""
+  },
+  "topic": {
+    "id": 85254,
+    "name": "天依的日常",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=85254&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E6%97%A5%E5%B8%B8"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依青鸟传信# \n\n『 愿如青鸟，遥寄佳音』\n\nVsinger正版授权 BLACKRAY ENJOY倾力打造\nBLACKRAY Enjoy系列手办【Vsinger洛天依 青鸟传信 ver.】制作决定！\n\n敬请期待~ [古色花香洛天依_突然冒出]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依青鸟传信#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%9D%92%E9%B8%9F%E4%BC%A0%E4%BF%A1"
+      },
+      {
+        "type": "text",
+        "text": " \n\n『 愿如青鸟，遥寄佳音』\n\nVsinger正版授权 BLACKRAY ENJOY倾力打造\nBLACKRAY Enjoy系列手办【Vsinger洛天依 青鸟传信 ver.】制作决定！\n\n敬请期待~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_突然冒出]",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "name": "突然冒出",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ae3f32ed6678677c8c0ed3812b10b81571e0c68.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-07-26_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7366dee0d9d51ee0d2834a3b2f877ca636081646.jpg",
+        "width": 1833,
+        "height": 1500,
+        "size_kb": 1569.849609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-07-26_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c5f5cde666b501a25cfe29f1ef1b39c336081646.jpg",
+        "width": 1833,
+        "height": 1500,
+        "size_kb": 1517.51171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-07-26_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c19a8afe508b196c474d42807db5b43e36081646.jpg",
+        "width": 1833,
+        "height": 1500,
+        "size_kb": 1536.7646484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-07-26_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cb08eb9c0ee2353416d8ab226f16ff0736081646.jpg",
+        "width": 1833,
+        "height": 1500,
+        "size_kb": 1518.8896484375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/突然冒出.png",
+        "package_id": "1096",
+        "emoji_id": "19442",
+        "text": "[古色花香洛天依_突然冒出]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8717,
+    "comment": 434,
+    "forward": 108
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:55+08:00",
+    "force": false,
+    "failures": []
+  }
+}

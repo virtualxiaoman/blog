@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "690486752601702401",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/690486752601702401",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月4日",
+    "pub_ts": 1659604875,
+    "location": ""
+  },
+  "topic": {
+    "id": 9865,
+    "name": "Vsinger创作激励计划",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9865&topic_name=Vsinger%E5%88%9B%E4%BD%9C%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92"
+  },
+  "content": {
+    "title": "",
+    "text": "“蓬山此去无多路，青鸟殷勤为探看。” 青鸟在传说中是为爱人传递讯息的信使，恰如天依愿为传递幸福而歌唱。 如果青鸟从云外为你带来幸福的消息，请记得，那不止是仙使的眷顾，更是因为你虔诚的追寻。 绸缎轻缠，金铃清脆，青鸟的羽毛划过云端，飘飞的丝带赋予飘逸的灵动感，云外而来的青衣信使，愿用歌声为每个人带去希望。 #洛天依# #七夕#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“蓬山此去无多路，青鸟殷勤为探看。” 青鸟在传说中是为爱人传递讯息的信使，恰如天依愿为传递幸福而歌唱。 如果青鸟从云外为你带来幸福的消息，请记得，那不止是仙使的眷顾，更是因为你虔诚的追寻。 绸缎轻缠，金铃清脆，青鸟的羽毛划过云端，飘飞的丝带赋予飘逸的灵动感，云外而来的青衣信使，愿用歌声为每个人带去希望。 "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#七夕#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%83%E5%A4%95"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-08-04_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/d757b2ac5ded93bb5f55cf181d58f7d836081646.jpg",
+        "width": 750,
+        "height": 5287,
+        "size_kb": 401.572265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8646,
+    "comment": 287,
+    "forward": 124
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:52:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

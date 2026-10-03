@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1097857970893488136",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1097857970893488136",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年8月6日",
+    "pub_ts": 1754453378,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "第二周作品闪耀对决！天依不许你没有听过这些歌~",
+      "desc": "洛天依大型原创音乐征集活动「闪耀的Producer 」 第二周闪耀对决持续开启中啦！ \n天依这次也采访了这12首作品的12位创作者，倾听了他们的创作心声\n来活动页为你喜欢的作品投上一票吧~！ \n✨主题页：https://www.bilibili.com/blackboard/era/Producer2025.html\n\n🎶打擂期：8月1日0点-8月7日24点 \n🎶参与打擂作品\n✨Kirakira组\n@兰音Reine   《忆游神》BV1FkK5zkEXv\n@北极星Polaris_D   《99%加载失败》",
+      "jump_url": "https://www.bilibili.com/video/BV126tFzAEzX",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/5d419a657b105c4bc057120aed9234f5903f4174.jpg",
+      "cover_file": "../../_assets/covers/2025-08-06_1.jpg",
+      "bvid": "BV126tFzAEzX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV126tFzAEzX",
+        "aid": "114979848061200",
+        "cover": "http://i0.hdslb.com/bfs/archive/5d419a657b105c4bc057120aed9234f5903f4174.jpg",
+        "jump_url": "//www.bilibili.com/video/BV126tFzAEzX",
+        "stat": {
+          "danmaku": "322",
+          "play": "16.6万",
+          "vt": ""
+        },
+        "duration_text": "07:37",
+        "title": "第二周作品闪耀对决！天依不许你没有听过这些歌~",
+        "desc": "洛天依大型原创音乐征集活动「闪耀的Producer 」 第二周闪耀对决持续开启中啦！ \n天依这次也采访了这12首作品的12位创作者，倾听了他们的创作心声\n来活动页为你喜欢的作品投上一票吧~！ \n✨主题页：https://www.bilibili.com/blackboard/era/Producer2025.html\n\n🎶打擂期：8月1日0点-8月7日24点 \n🎶参与打擂作品\n✨Kirakira组\n@兰音Reine   《忆游神》BV1FkK5zkEXv\n@北极星Polaris_D   《99%加载失败》",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16150,
+    "comment": 626,
+    "forward": 68
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:37:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

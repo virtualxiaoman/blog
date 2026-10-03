@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1150612865201209344",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1150612865201209344",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年12月26日",
+    "pub_ts": 1766736334,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在回忆的流光里，与月光共舞吧~[洛天依动态流光协奏_盯]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在回忆的流光里，与月光共舞吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_盯]",
+        "package_id": "8399",
+        "emoji_id": "115673",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/8af003671f1adf0895781933471958b540607c74.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/盯.gif",
+        "package_id": "8399",
+        "emoji_id": "115673",
+        "text": "[洛天依动态流光协奏_盯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3837,
+    "comment": 193,
+    "forward": 32
+  },
+  "forward": {
+    "orig_id": 1150610464358531072,
+    "orig_mid": 3546716607350979,
+    "deleted": false,
+    "archive_dir": "../../../3546716607350979/2025-12/2025-12-26_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:43:18+08:00",
+    "force": false,
+    "failures": []
+  }
+}

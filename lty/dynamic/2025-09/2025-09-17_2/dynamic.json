@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "id": "1113534163470778375",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1113534163470778375",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月17日",
+    "pub_ts": 1758103276,
+    "location": ""
+  },
+  "topic": {
+    "id": 1320843,
+    "name": "洛天依逆转童话",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1320843&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+  },
+  "content": {
+    "title": "",
+    "text": "🐺 #洛天依逆转童话#第四篇章「偶人独幕剧」揭晓\n天真的女孩和邪恶的野兽，善恶分明的故事迎来了温馨的结局……\n“不，在注定的命运叩响门扉之前，她已为故事建立起属于她的新规则。”\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🐺 "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依逆转童话#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E9%80%86%E8%BD%AC%E7%AB%A5%E8%AF%9D"
+      },
+      {
+        "type": "text",
+        "text": "第四篇章「偶人独幕剧」揭晓\n天真的女孩和邪恶的野兽，善恶分明的故事迎来了温馨的结局……\n“不，在注定的命运叩响门扉之前，她已为故事建立起属于她的新规则。”"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-09-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dc531deefaeb39c4cb4c38c09b09e5a436081646.jpg",
+        "width": 4237,
+        "height": 2383,
+        "size_kb": 3177.427734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5295,
+    "comment": 204,
+    "forward": 85
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

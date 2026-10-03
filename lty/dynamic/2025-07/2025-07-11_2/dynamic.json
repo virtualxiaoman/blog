@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1088207351181213728",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088207351181213728",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月11日",
+    "pub_ts": 1752206418,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "就在这个夏天，我们，演唱会相见吧！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "就在这个夏天，我们，演唱会相见吧！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "跟随《流光（Light Me Up）》，点亮我们的蔚蓝色海洋吧！",
+      "desc": "洛天依「无限共鸣·流光协奏」全息巡回演唱会主题曲\n《流光（Light Me Up）》完整版PV正式上线啦！\n\n将曾经的歌谣悉心保存，等待与你重逢的时刻\n当你松开我的发条，我会全心为你歌唱\n跳动吧，享受吧，借你手中的纯蓝荧光，要你挥洒所有的热情\n让每一刻心跳共鸣，让联结我们的回忆宝石闪耀\n我想听见你们的声音，我想要你们呼唤我的名字\n\n“大家好，我是虚拟歌手洛天依——”\n就在这个夏天，我们，演唱会相见吧！\n《流光（Light Me Up）》\n作词：果汁凉菜\n作曲：針原翼（はりーP）\n调校：哈士奇P\n编曲：Ev",
+      "jump_url": "https://www.bilibili.com/video/BV1AWGVztE8W",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/6dafbc1a9a127e88f4dfba1fa33ce1fcfb6a6737.jpg",
+      "cover_file": "../../_assets/covers/2025-07-11_1.jpg",
+      "bvid": "BV1AWGVztE8W",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1AWGVztE8W",
+        "aid": "114829893307654",
+        "cover": "http://i1.hdslb.com/bfs/archive/6dafbc1a9a127e88f4dfba1fa33ce1fcfb6a6737.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1AWGVztE8W",
+        "stat": {
+          "danmaku": "2293",
+          "play": "76.1万",
+          "vt": ""
+        },
+        "duration_text": "07:58",
+        "title": "跟随《流光（Light Me Up）》，点亮我们的蔚蓝色海洋吧！",
+        "desc": "洛天依「无限共鸣·流光协奏」全息巡回演唱会主题曲\n《流光（Light Me Up）》完整版PV正式上线啦！\n\n将曾经的歌谣悉心保存，等待与你重逢的时刻\n当你松开我的发条，我会全心为你歌唱\n跳动吧，享受吧，借你手中的纯蓝荧光，要你挥洒所有的热情\n让每一刻心跳共鸣，让联结我们的回忆宝石闪耀\n我想听见你们的声音，我想要你们呼唤我的名字\n\n“大家好，我是虚拟歌手洛天依——”\n就在这个夏天，我们，演唱会相见吧！\n《流光（Light Me Up）》\n作词：果汁凉菜\n作曲：針原翼（はりーP）\n调校：哈士奇P\n编曲：Ev",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 32132,
+    "comment": 3566,
+    "forward": 515
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

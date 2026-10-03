@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "945434095819685926",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/945434095819685926",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月21日",
+    "pub_ts": 1718964429,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "一起来看看天依准备得怎么样啦？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一起来看看天依准备得怎么样啦？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "超燃吉他show！直击洛天依生日会彩排现场",
+      "desc": "距离天依生日还有22天，天依已经在紧张地练习和录制中啦～\n想不想看看天依准备得怎么样了？一段生日会彩排现场吉他show花絮带给大家！\n咳咳，虽然天依的吉他差点发生事故，还好还好，有惊无险！\n\n7月12日晚19:12，洛天依十二周年“共鸣之夜”生日会\n我会带着这把恩雅音乐和天依的联名新品吉他，为大家表演全新原创单曲\n记得要来看哦！\n生日主题页：https://www.bilibili.com/blackboard/era/Luo2024.html",
+      "jump_url": "https://www.bilibili.com/video/BV15z42187FE",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/d30da408b5c20114ecd5aee157cf1ce969d3e68c.jpg",
+      "cover_file": "../../_assets/covers/2024-06-21_1.jpg",
+      "bvid": "BV15z42187FE",
+      "extra": {
+        "type": 1,
+        "bvid": "BV15z42187FE",
+        "aid": "1355759945",
+        "cover": "http://i0.hdslb.com/bfs/archive/d30da408b5c20114ecd5aee157cf1ce969d3e68c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV15z42187FE",
+        "stat": {
+          "danmaku": "606",
+          "play": "49.2万",
+          "vt": ""
+        },
+        "duration_text": "00:59",
+        "title": "超燃吉他show！直击洛天依生日会彩排现场",
+        "desc": "距离天依生日还有22天，天依已经在紧张地练习和录制中啦～\n想不想看看天依准备得怎么样了？一段生日会彩排现场吉他show花絮带给大家！\n咳咳，虽然天依的吉他差点发生事故，还好还好，有惊无险！\n\n7月12日晚19:12，洛天依十二周年“共鸣之夜”生日会\n我会带着这把恩雅音乐和天依的联名新品吉他，为大家表演全新原创单曲\n记得要来看哦！\n生日主题页：https://www.bilibili.com/blackboard/era/Luo2024.html",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 62871,
+    "comment": 1354,
+    "forward": 180
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

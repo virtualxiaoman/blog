@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "407748862050299016",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/407748862050299016",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月3日",
+    "pub_ts": 1593774830,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#与洛天依分享你的城# #2020洛天依生日应援# #洛天依0712生日快乐#  旅程的第六站来到了北京，这里同样有许多百闻不如一见的景点，又是一座拥有千年历史的古城。 踏过石砖路，沿着有些斑驳的宫墙，历史感扑面而来。重重层层的墙，大大小小的殿，使这里几乎与世隔绝，除了对建筑之美的赞叹，还有一股难以表达的寂寥。 不只这个地方，巍峨的长城和草木葱茏的园林，也能让来访者同时体会到不同情绪，天依认为这是历史吸引人的地方，尽管长河奔流不休，一去不返，却留下了璀璨之物供人感怀。 此次天依展示了古色古香的北京，希望下次能展示现代的首都。  最近北京的小伙伴们在积极奋斗，天依相信大家这次也能共度难关。让我们一起为北京的小伙伴加油吧！ 今天不竞猜了，转发这条动态、带上“北京加油”字样，就会有机会获得天依的北京限定宣传海报，大家也都要加油啦！ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#与洛天依分享你的城#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%8E%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E5%9F%8E"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "  旅程的第六站来到了北京，这里同样有许多百闻不如一见的景点，又是一座拥有千年历史的古城。 踏过石砖路，沿着有些斑驳的宫墙，历史感扑面而来。重重层层的墙，大大小小的殿，使这里几乎与世隔绝，除了对建筑之美的赞叹，还有一股难以表达的寂寥。 不只这个地方，巍峨的长城和草木葱茏的园林，也能让来访者同时体会到不同情绪，天依认为这是历史吸引人的地方，尽管长河奔流不休，一去不返，却留下了璀璨之物供人感怀。 此次天依展示了古色古香的北京，希望下次能展示现代的首都。  最近北京的小伙伴们在积极奋斗，天依相信大家这次也能共度难关。让我们一起为北京的小伙伴加油吧！ 今天不竞猜了，转发这条动态、带上“北京加油”字样，就会有机会获得天依的北京限定宣传海报，大家也都要加油啦！ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-07-03_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/98f82b53bb6aabef47876f91b7365acd1a185da6.jpg",
+        "width": 3000,
+        "height": 2002,
+        "size_kb": 1693.7822265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9036,
+    "comment": 897,
+    "forward": 1057
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:24:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

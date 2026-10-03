@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "id": "1085727638911189009",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1085727638911189009",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月4日",
+    "pub_ts": 1751629065,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308522,
+    "name": "洛天依十三周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308522&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "#洛天依十三周年#⚙#洛天依0712生日快乐#\n洛天依十三周年纪念实体专辑《八音迭奏》将于今晚20:00正式开售~\n八首原创歌曲，八位原创音乐创作人\n八方热爱之音，拨动八音盒歌者的发条\n汇聚为这张《八音迭奏》\n\n这是歌者第十三年的特别纪念，亦是属于创作者的闪耀舞台\n天依也为大家带来了作者老师们的特别寄语，一起来看看吧！[洛天依-潮声回响_摸摸头]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依十三周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%B8%89%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "⚙"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n洛天依十三周年纪念实体专辑《八音迭奏》将于今晚20:00正式开售~\n八首原创歌曲，八位原创音乐创作人\n八方热爱之音，拨动八音盒歌者的发条\n汇聚为这张《八音迭奏》\n\n这是歌者第十三年的特别纪念，亦是属于创作者的闪耀舞台\n天依也为大家带来了作者老师们的特别寄语，一起来看看吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_摸摸头]",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "name": "摸摸头",
+        "url": "https://i0.hdslb.com/bfs/garb/0153c39ef67e50c989175eb2d8cfc52579ac3c65.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-07-04_8.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/74702fa8b2e116ad0416cd7689b4cddb36081646.png",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 2438.53,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2025-07-04_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/294934b870267ad2b2c88db8ff015f1c36081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 1354.652,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2025-07-04_10.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/194a641755438117ff13e7100b94c85a36081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 533.547,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2025-07-04_11.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d22811678eb47a92146d424d71233b6636081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 1320.528,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2025-07-04_12.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ea0743acda27e09aab5a366fb11d3dbb36081646.jpg",
+        "width": 1280,
+        "height": 720,
+        "size_kb": 404.83,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2025-07-04_13.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/70f07c63e386a592857b5c2b089225f236081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 1549.434,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2025-07-04_14.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/3ff65ad7c501a2fb7c0ccc592314e12e36081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 1310.212,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2025-07-04_15.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ff665a531a1b0e0a9aa4f8b619d35ded36081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 1491.756,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2025-07-04_16.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f846c33b2d1c0271e6f3d4220eb43b5036081646.jpg",
+        "width": 1600,
+        "height": 1200,
+        "size_kb": 729.14,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/摸摸头.png",
+        "package_id": "7109",
+        "emoji_id": "94958",
+        "text": "[洛天依-潮声回响_摸摸头]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依13周年纪念专辑",
+            "price": "¥82",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/00/b8/00b81b004e634e60dbd4c98f3a888cdf.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=12619675&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1085727638911189009",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2025-07-04_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4544,
+    "comment": 359,
+    "forward": 110
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:32:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

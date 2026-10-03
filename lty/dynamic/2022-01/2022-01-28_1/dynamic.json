@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "620634112992289461",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/620634112992289461",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年1月28日",
+    "pub_ts": 1643341040,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 很高兴和@腾格尔 老师一起合作，2022年#开年神曲梦里啥都有# 之不做梦也能有！12:30即将上线。两个版本循环起来～ ​​​​ \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 很高兴和"
+      },
+      {
+        "type": "mention",
+        "text": "@腾格尔 ",
+        "mid": 386043247,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "老师一起合作，2022年"
+      },
+      {
+        "type": "topic",
+        "text": "#开年神曲梦里啥都有#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%BC%80%E5%B9%B4%E7%A5%9E%E6%9B%B2%E6%A2%A6%E9%87%8C%E5%95%A5%E9%83%BD%E6%9C%89"
+      },
+      {
+        "type": "text",
+        "text": " 之不做梦也能有！12:30即将上线。两个版本循环起来～ ​​​​ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-01-28_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e60b350d8772e199b756100e4d2bdbbe05e6417f.jpg",
+        "width": 2160,
+        "height": 3840,
+        "size_kb": 5717.9423828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6005,
+    "comment": 206,
+    "forward": 45
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:40:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

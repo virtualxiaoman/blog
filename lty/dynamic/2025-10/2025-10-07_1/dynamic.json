@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1120898597836029954",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1120898597836029954",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月7日",
+    "pub_ts": 1759817942,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "戏已开场，我已登场｜《无双花》致敬中华稀有剧种",
+      "desc": "中国戏曲百花园博大精深，异彩纷呈。348个剧种中，既有昆曲、京剧等流行区域广阔的剧种，也有一批传播范围虽小，却依然在默默坚守、生生不息的“稀有剧种”。\n\n荣幸受总台邀请，为首届稀有剧种盛典献唱主题曲《无双花》。自游学初遇，戏曲便如一束光，为我打开了一个瑰丽浩瀚的世界，让我的歌声拥有了不一样的灵魂。\n\n那些在方寸舞台上，以一生描摹万里江山的传承人们的身影，是最亮的星光——在漫长岁月里悄然绽放，却汇聚成了世间最繁花万象。\n\n天依谨以这朵《无双花》，献给所有以热爱为灯、以生命为戏的稀有剧种传承者。",
+      "jump_url": "https://www.bilibili.com/video/BV1j9xSzDE5P",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ca41f82779212c022e3f4afdf9ddfd17774873f3.jpg",
+      "cover_file": "../../_assets/covers/2025-10-07_1.jpg",
+      "bvid": "BV1j9xSzDE5P",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1j9xSzDE5P",
+        "aid": "115331414754627",
+        "cover": "http://i0.hdslb.com/bfs/archive/ca41f82779212c022e3f4afdf9ddfd17774873f3.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1j9xSzDE5P",
+        "stat": {
+          "danmaku": "1778",
+          "play": "36.2万",
+          "vt": ""
+        },
+        "duration_text": "03:19",
+        "title": "戏已开场，我已登场｜《无双花》致敬中华稀有剧种",
+        "desc": "中国戏曲百花园博大精深，异彩纷呈。348个剧种中，既有昆曲、京剧等流行区域广阔的剧种，也有一批传播范围虽小，却依然在默默坚守、生生不息的“稀有剧种”。\n\n荣幸受总台邀请，为首届稀有剧种盛典献唱主题曲《无双花》。自游学初遇，戏曲便如一束光，为我打开了一个瑰丽浩瀚的世界，让我的歌声拥有了不一样的灵魂。\n\n那些在方寸舞台上，以一生描摹万里江山的传承人们的身影，是最亮的星光——在漫长岁月里悄然绽放，却汇聚成了世间最繁花万象。\n\n天依谨以这朵《无双花》，献给所有以热爱为灯、以生命为戏的稀有剧种传承者。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 38272,
+    "comment": 1816,
+    "forward": 282
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

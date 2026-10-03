@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "id": "1251579733840232452",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1251579733840232452",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月24日",
+    "pub_ts": 1790244515,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "说到武汉的蓝色，天依第一时间找到了这座蓝色的古田桥~[洛天依14周年·纯蓝幻乐 动态表情包_展示]\n接下来去哪里捕捉蓝色呢？对了，蓝天就是最好的蓝色幕布！[洛天依14周年·纯蓝幻乐 动态表情包_思考]\n秋水共长天一色，一起呼吸来自大自然的新鲜空气，放松放松心情吧~[洛天依14周年·纯蓝幻乐 动态表情包_魔法]\n期待和大家见面的那天啦！[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]\n\n🩵2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·武汉站将于9月25日19点全面开票\n✧ 网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "说到武汉的蓝色，天依第一时间找到了这座蓝色的古田桥~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/2a0de49c1ca305d19eaff614d79da7d9f2bd611a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n接下来去哪里捕捉蓝色呢？对了，蓝天就是最好的蓝色幕布！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_思考]",
+        "package_id": "10238",
+        "emoji_id": "145981",
+        "name": "思考",
+        "url": "https://i0.hdslb.com/bfs/garb/d66368993a2fcbc1fc5268cdc78df0c5a56bd9ee.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n秋水共长天一色，一起呼吸来自大自然的新鲜空气，放松放松心情吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "name": "魔法",
+        "url": "https://i0.hdslb.com/bfs/garb/586e20309a26fa9aa927c64ab9f94b6dd2f401f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n期待和大家见面的那天啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "name": "拥抱",
+        "url": "https://i0.hdslb.com/bfs/garb/65eb4c9e4124d9e698ae248af2d5167d1c262ba6.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🩵2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·武汉站将于9月25日19点全面开票\n✧ "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://show.bilibili.com/platform/detail.html?id=1006306"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-09-24_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/68ad3cad2233109ffd5756b06c474ebb36081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 7627.41015625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-09-24_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/526bed4c59213cee9b9764b55a449d2636081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 9926.259765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/展示.gif",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/思考.gif",
+        "package_id": "10238",
+        "emoji_id": "145981",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_思考]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/魔法.gif",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/拥抱.gif",
+        "package_id": "10238",
+        "emoji_id": "145982",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_拥抱]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "武汉·2026洛天依「无限共鸣.纯蓝幻乐」巡回演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202609/g2B6FlgZ1790750176_1790750176333.jpg",
+            "jump_url": "https://show.bilibili.com/platform/detail.html?id=1006306&noTitleBar=1&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1251579733840232452",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-09-24_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5788,
+    "comment": 205,
+    "forward": 70
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

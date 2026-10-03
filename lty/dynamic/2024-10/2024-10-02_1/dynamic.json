@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "983561259000529120",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/983561259000529120",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月2日",
+    "pub_ts": 1727841601,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【BLG S14全球总决赛出征曲】《信念不熄》UP合唱为BLG加油！",
+      "desc": "总策划：哔哩哔哩音乐内容部、哔哩哔哩游戏内容部、令狐襄儿、花祭\n作词：令狐襄儿\n作曲：执素兮\n编曲：洪施锐、徐一@乐馨音乐\n演唱：（按演唱顺序）\n洛天依、咻咻满、拯救世界的狗子、排骨教主、阿张RayZhang、鹿火CAVY、兰音Reine、祖娅纳惜、李滇滇、邓园长、阿萨Aza、萧忆情Alex、Vaniah维、折原露露、泠鸢yousa、真栗、玄觞、糖醋蛋黄、执素兮、令狐襄儿\n和声：执素兮、糖醋蛋黄\n混音：月才\n洛天依调教：鬼面P\ndemo调教：李小年\n题字：辞意\n视频：海Rhine\n监制：Ayellow、V",
+      "jump_url": "https://www.bilibili.com/video/BV19ZxjebEyw",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/ee662646325536d4d3bd224d54b2236ed60aae97.jpg",
+      "cover_file": "../../_assets/covers/2024-10-02_1.jpg",
+      "bvid": "BV19ZxjebEyw",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19ZxjebEyw",
+        "aid": "113202453152619",
+        "cover": "http://i1.hdslb.com/bfs/archive/ee662646325536d4d3bd224d54b2236ed60aae97.jpg",
+        "jump_url": "//www.bilibili.com/video/BV19ZxjebEyw",
+        "stat": {
+          "danmaku": "4906",
+          "play": "164.3万",
+          "vt": ""
+        },
+        "duration_text": "03:51",
+        "title": "【BLG S14全球总决赛出征曲】《信念不熄》UP合唱为BLG加油！",
+        "desc": "总策划：哔哩哔哩音乐内容部、哔哩哔哩游戏内容部、令狐襄儿、花祭\n作词：令狐襄儿\n作曲：执素兮\n编曲：洪施锐、徐一@乐馨音乐\n演唱：（按演唱顺序）\n洛天依、咻咻满、拯救世界的狗子、排骨教主、阿张RayZhang、鹿火CAVY、兰音Reine、祖娅纳惜、李滇滇、邓园长、阿萨Aza、萧忆情Alex、Vaniah维、折原露露、泠鸢yousa、真栗、玄觞、糖醋蛋黄、执素兮、令狐襄儿\n和声：执素兮、糖醋蛋黄\n混音：月才\n洛天依调教：鬼面P\ndemo调教：李小年\n题字：辞意\n视频：海Rhine\n监制：Ayellow、V",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 58029,
+    "comment": 4733,
+    "forward": 13
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

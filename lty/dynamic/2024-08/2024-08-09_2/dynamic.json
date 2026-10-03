@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "963602030619787271",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/963602030619787271",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月9日",
+    "pub_ts": 1723194481,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“我等待着你穿越人海，共执一伞，紧紧相挨。”[洛天依蝶变_星星眼]I MISS YOU~[洛天依蝶变_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“我等待着你穿越人海，共执一伞，紧紧相挨。”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_星星眼]",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "name": "星星眼",
+        "url": "https://i0.hdslb.com/bfs/emote/8034b3cb55370d19b1683eb38e7747c5c6c5dba6.png"
+      },
+      {
+        "type": "text",
+        "text": "I MISS YOU~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/星星眼.png",
+        "package_id": "3752",
+        "emoji_id": "52579",
+        "text": "[洛天依蝶变_星星眼]"
+      },
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4426,
+    "comment": 153,
+    "forward": 21
+  },
+  "forward": {
+    "orig_id": 953874565549785127,
+    "orig_mid": 177281644,
+    "deleted": false,
+    "archive_dir": "../../../177281644/2024-07/2024-07-14_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:17:56+08:00",
+    "force": false,
+    "failures": []
+  }
+}

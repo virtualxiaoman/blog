@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1253061991423016961",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1253061991423016961",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月28日",
+    "pub_ts": 1790589630,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "胆怯的泡泡，盲目的泡泡，不要讨厌我，不要靠近我......",
+      "desc": "我是胆怯的泡泡，想要靠近，但害怕破碎\n我是盲目的泡泡，自我喜欢，却自我否定\n梦幻，轻盈，易碎的......欢迎大家一起听这首好听的歌~\n\n「闪耀的Producer 2」发起人 香椎モイ作品\n《盲目シャボン》BV1khaA6hECW\nMusic&Lyrics 香椎モイミ",
+      "jump_url": "https://www.bilibili.com/video/BV1AAa36XEuk",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/aa6ba302873f553e8e7b1f07bf07ce6b688dc759.jpg",
+      "cover_file": "../../_assets/covers/2026-09-28_1.jpg",
+      "bvid": "BV1AAa36XEuk",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1AAa36XEuk",
+        "aid": "117347968945468",
+        "cover": "http://i2.hdslb.com/bfs/archive/aa6ba302873f553e8e7b1f07bf07ce6b688dc759.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1AAa36XEuk",
+        "stat": {
+          "danmaku": "80",
+          "play": "4.8万",
+          "vt": ""
+        },
+        "duration_text": "00:44",
+        "title": "胆怯的泡泡，盲目的泡泡，不要讨厌我，不要靠近我......",
+        "desc": "我是胆怯的泡泡，想要靠近，但害怕破碎\n我是盲目的泡泡，自我喜欢，却自我否定\n梦幻，轻盈，易碎的......欢迎大家一起听这首好听的歌~\n\n「闪耀的Producer 2」发起人 香椎モイ作品\n《盲目シャボン》BV1khaA6hECW\nMusic&Lyrics 香椎モイミ",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18176,
+    "comment": 717,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

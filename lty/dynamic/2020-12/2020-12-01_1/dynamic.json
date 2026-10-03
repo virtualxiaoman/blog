@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "463763705266796694",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/463763705266796694",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年12月1日",
+    "pub_ts": 1606816802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@无所适从的肥啾 @赤绛绯朱红 @Mr_pot一个土豆 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@无所适从的肥啾",
+        "mid": 15623753,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@赤绛绯朱红",
+        "mid": 362910588,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@Mr_pot一个土豆",
+        "mid": 18426255,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 等5位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3664,
+    "comment": 92,
+    "forward": 22
+  },
+  "forward": {
+    "orig_id": 433706300064093967,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2020-09/2020-09-11_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:26:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

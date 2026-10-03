@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "1241945443586277385",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1241945443586277385",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月29日",
+    "pub_ts": 1788001357,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·广州站现场情报速递！[洛天依14周年·纯蓝幻乐 动态表情包_展示]\n来自前台记者洛包为你追踪播报——[洛天依14周年·纯蓝幻乐 动态表情包_思考]\n演出前大家也要玩得开心哦，天依在做最后的准备啦，我们一会儿见~[洛天依14周年·纯蓝幻乐 动态表情包_打call]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依2026「无限共鸣·纯蓝幻乐」巡回演唱会·广州站现场情报速递！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/2a0de49c1ca305d19eaff614d79da7d9f2bd611a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n来自前台记者洛包为你追踪播报——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_思考]",
+        "package_id": "10238",
+        "emoji_id": "145981",
+        "name": "思考",
+        "url": "https://i0.hdslb.com/bfs/garb/d66368993a2fcbc1fc5268cdc78df0c5a56bd9ee.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n演出前大家也要玩得开心哦，天依在做最后的准备啦，我们一会儿见~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/4401a18bbf1425651c30f6ea29d6fb7052f3b1d2.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-29_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ecb0bcb9dfa12db9828f454d9760988036081646.jpg",
+        "width": 5860,
+        "height": 3908,
+        "size_kb": 5143.9599609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-29_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d80dde1b836a533d0ed78e034e2e728736081646.jpg",
+        "width": 5088,
+        "height": 3392,
+        "size_kb": 4281.58984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-29_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b190be5828c69b375fca4f78316bd2c236081646.jpg",
+        "width": 6000,
+        "height": 4001,
+        "size_kb": 13208.3203125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-29_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/dfef89db5cbaa83cf8b3f4973abc6e4736081646.jpg",
+        "width": 2919,
+        "height": 2919,
+        "size_kb": 4210.830078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-29_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b2843f13e5b9c5c5d17de0d561a8f59336081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 9620.8095703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-29_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/b477943fb925ebb5e9778755769d734536081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 6399.52001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-29_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/a9e8749f7c8516cf127bcbc3a84b274c36081646.jpg",
+        "width": 4578,
+        "height": 3053,
+        "size_kb": 6008.1201171875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-29_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e9c47c59b7a1181c7536cff3da20f5e636081646.jpg",
+        "width": 3201,
+        "height": 4800,
+        "size_kb": 4694.2099609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-29_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/0621f2a74394045fd2ab0bf7b6bc9f7a36081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 4371.8701171875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/展示.gif",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/思考.gif",
+        "package_id": "10238",
+        "emoji_id": "145981",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_思考]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/打call.gif",
+        "package_id": "10238",
+        "emoji_id": "145980",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5934,
+    "comment": 334,
+    "forward": 66
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

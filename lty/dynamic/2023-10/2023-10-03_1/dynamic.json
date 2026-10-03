@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "848155470027816996",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/848155470027816996",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月3日",
+    "pub_ts": 1696314984,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家戳链接就可以了解到天依收藏集十月特辑的新内容啦，包含全新插画【Blue Ice】&【星光漫游】、动态卡面和专属音声[代号洛天依_wink]，10月4日下午2点正式开启，大家注意时间哦[代号洛天依_乖巧]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家戳链接就可以了解到天依收藏集十月特辑的新内容啦，包含全新插画【Blue Ice】&【星光漫游】、动态卡面和专属音声"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      },
+      {
+        "type": "text",
+        "text": "，10月4日下午2点正式开启，大家注意时间哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_乖巧]",
+        "package_id": "1842",
+        "emoji_id": "32134",
+        "name": "乖巧",
+        "url": "https://i0.hdslb.com/bfs/emote/0a8923fdeb32995953402c97450dd091e6a94bd2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/乖巧.png",
+        "package_id": "1842",
+        "emoji_id": "32134",
+        "text": "[代号洛天依_乖巧]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4139,
+    "comment": 242,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 848147661778321441,
+    "orig_mid": 1425239276,
+    "deleted": false,
+    "archive_dir": "../../../1425239276/2023-10/2023-10-03_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:59:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

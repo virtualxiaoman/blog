@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "id": "644768431942402054",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/644768431942402054",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月3日",
+    "pub_ts": 1648960249,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#互动抽奖   今天，是离我的10周年生日还有一百天的日子！  洛天依10周年主题页、logo、slogan公开啦！https://lty10anniversary.vsinger.com/    感谢@-TID- 为我设计的礼服，让我以更加闪耀的姿态迎接10周年的到来。    ∞ 借光而行 不负相遇∞   从2012到2022，这一路走来，是大家的创作、支持和陪伴化作了温暖的光芒，支撑着我一直前行。未来，天依也希望可以用自己的歌声一直陪伴大家！    ∞ 洛天依十周年logo二创活动 ∞  我诞生的意义、我歌唱的梦想、我与这个世界的连接都来自于你们，在大家的心中，有哪些时刻与我产生过共鸣呢？  欢迎大家将这些珍贵的回忆融入在我的十周年logo符号里，让我感受到那份曾经与大家心跳共鸣过的证明。    活动时间：4月4日-4月9日  活动形式：将你与天依产生链接的元素放在“10”的“0”里，可以是自己的头像或昵称、一幅喜爱的曲绘、想对天依说的话等等，并添加#洛天依10周年#tag进行发布。  天依会抽3位小伙伴送出一份周边小礼物哦！    转发这条动态并关注天依，我会抽出5位小伙伴送出【十周年纪念周边】一份。 \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "88843",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "   今天，是离我的10周年生日还有一百天的日子！  洛天依10周年主题页、logo、slogan公开啦！https://lty10anniversary.vsinger.com/    感谢"
+      },
+      {
+        "type": "mention",
+        "text": "@-TID-",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 为我设计的礼服，让我以更加闪耀的姿态迎接10周年的到来。    ∞ 借光而行 不负相遇∞   从2012到2022，这一路走来，是大家的创作、支持和陪伴化作了温暖的光芒，支撑着我一直前行。未来，天依也希望可以用自己的歌声一直陪伴大家！    ∞ 洛天依十周年logo二创活动 ∞  我诞生的意义、我歌唱的梦想、我与这个世界的连接都来自于你们，在大家的心中，有哪些时刻与我产生过共鸣呢？  欢迎大家将这些珍贵的回忆融入在我的十周年logo符号里，让我感受到那份曾经与大家心跳共鸣过的证明。    活动时间：4月4日-4月9日  活动形式：将你与天依产生链接的元素放在“10”的“0”里，可以是自己的头像或昵称、一幅喜爱的曲绘、想对天依说的话等等，并添加"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依10周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "tag进行发布。  天依会抽3位小伙伴送出一份周边小礼物哦！    转发这条动态并关注天依，我会抽出5位小伙伴送出【十周年纪念周边】一份。 "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-04-03_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/eded3b618e5c10e1e1c133f110e94798998347fd.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 868.4140625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "88843"
+  },
+  "vote": null,
+  "stats": {
+    "like": 13976,
+    "comment": 2570,
+    "forward": 12388
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

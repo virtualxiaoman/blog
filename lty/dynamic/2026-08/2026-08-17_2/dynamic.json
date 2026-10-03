@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1237431587579101185",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1237431587579101185",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月17日",
+    "pub_ts": 1786950393,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "交通银行信用卡×洛天依四季Q版异形卡集合啦！春日踏青、夏日饮冰、秋日赏枫、冬日听雪，你最喜欢哪个季节的天依呀？办法福利也同步拉满，快来pick你的心动小洛吧！ [洛天依14周年·四重奏_爱你]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "交通银行信用卡×洛天依四季Q版异形卡集合啦！春日踏青、夏日饮冰、秋日赏枫、冬日听雪，你最喜欢哪个季节的天依呀？办法福利也同步拉满，快来pick你的心动小洛吧！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_爱你]",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "name": "爱你",
+        "url": "https://i0.hdslb.com/bfs/garb/bc2a4f74fb26c171585377e011df9d27938b2529.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/爱你.gif",
+        "package_id": "10148",
+        "emoji_id": "144389",
+        "text": "[洛天依14周年·四重奏_爱你]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3993,
+    "comment": 132,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1237420403436027904,
+    "orig_mid": 578454094,
+    "deleted": false,
+    "archive_dir": "../../../578454094/2026-08/2026-08-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:36:44+08:00",
+    "force": false,
+    "failures": []
+  }
+}

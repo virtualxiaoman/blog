@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "996312162197569589",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/996312162197569589",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月5日",
+    "pub_ts": 1730810402,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@杜凌菲喵喵@僚机的神吕小布中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@杜凌菲喵喵",
+        "mid": 27841126,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@僚机的神吕小布",
+        "mid": 1189582593,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3923,
+    "comment": 109,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 973677422588198918,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2024-09/2024-09-05_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:21:20+08:00",
+    "force": false,
+    "failures": []
+  }
+}

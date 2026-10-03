@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1212230209841922052",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1212230209841922052",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "6月10日",
+    "pub_ts": 1781082740,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·北京站\n演出歌曲预告&城市限定歌曲揭秘！[洛天依国乐季动态表情包_wink]\n\n❄️部分演出歌曲\n《下等马》\n《万分之一的光》\n\n❄️城市限定歌曲\n《Time to Shine》\n\n于蓝色冰川之上，请听从歌者的指引，前往我们的纯蓝殿堂\n*关于演唱会的真人嘉宾信息，还在加载中，请等待天依的稍晚下一步通知哦~\n\n🎶演出时间&地点\n7月18日 19:12 北京国家体育馆\n🎶购票时间\n-【优先购票】6月12日 18:00\n-【正式开售】6月12日 19:00\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2026洛天依「无限共鸣·纯蓝幻乐」巡回演唱会·北京站\n演出歌曲预告&城市限定歌曲揭秘！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n❄️部分演出歌曲\n《下等马》\n《万分之一的光》\n\n❄️城市限定歌曲\n《Time to Shine》\n\n于蓝色冰川之上，请听从歌者的指引，前往我们的纯蓝殿堂\n*关于演唱会的真人嘉宾信息，还在加载中，请等待天依的稍晚下一步通知哦~\n\n🎶演出时间&地点\n7月18日 19:12 北京国家体育馆\n🎶购票时间\n-【优先购票】6月12日 18:00\n-【正式开售】6月12日 19:00"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-06-10_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/83e3a4dd975a1ca35daf2a77abf69a7c36081646.png",
+        "width": 1080,
+        "height": 2900,
+        "size_kb": 6106.66015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "北京·2026洛天依「无限共鸣.纯蓝幻乐」演唱会",
+            "price": "¥480",
+            "cover": "https://i1.hdslb.com/bfs/openplatform/202606/n5rArC8l1780917394_1780917394816.jpg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=1002171&track_id=__BGMT__&contentId=&from=&msource=cps_Mdynamic_36081646_cont-2-1212230209841922052",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2026-06-10_1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4321,
+    "comment": 376,
+    "forward": 137
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:23:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

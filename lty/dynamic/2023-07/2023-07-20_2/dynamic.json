@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "820423510430056482",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/820423510430056482",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月20日",
+    "pub_ts": 1689858134,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小痛包也来啦！还有限时优惠活动哦~[洛天依幻游世界_好厉害]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小痛包也来啦！还有限时优惠活动哦~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_好厉害]",
+        "package_id": "1066",
+        "emoji_id": "18930",
+        "name": "好厉害",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c154096625e55c2ceaf576f0c5f86d194491d728.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/好厉害.png",
+        "package_id": "1066",
+        "emoji_id": "18930",
+        "text": "[洛天依幻游世界_好厉害]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5477,
+    "comment": 119,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 820381131990892616,
+    "orig_mid": 35365327,
+    "deleted": false,
+    "archive_dir": "../../../35365327/2023-07/2023-07-20_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:55:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

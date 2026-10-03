@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "1233025135804416041",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1233025135804416041",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月5日",
+    "pub_ts": 1785924436,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "来一杯莫吉托~[乐鸣东方动态表情包_干杯]8月7日18点，天依即将和新豪老师一起带来「闪耀的Producer」发起人单曲《哑巴》，记得来听哦！[乐鸣东方动态表情包_盯]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来一杯莫吉托~"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "8月7日18点，天依即将和新豪老师一起带来「闪耀的Producer」发起人单曲《哑巴》，记得来听哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5362,
+    "comment": 221,
+    "forward": 60
+  },
+  "forward": {
+    "orig_id": 1233023284671414405,
+    "orig_mid": 2720641,
+    "deleted": false,
+    "archive_dir": "../../../2720641/2026-08/2026-08-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:34:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

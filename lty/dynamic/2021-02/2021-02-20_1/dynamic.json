@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "493789366366514250",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/493789366366514250",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月20日",
+    "pub_ts": 1613807696,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "春天来临，积雪终会消融",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "春天来临，积雪终会消融"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7229,
+    "comment": 208,
+    "forward": 56
+  },
+  "forward": {
+    "orig_id": 492662014759428025,
+    "orig_mid": 123372,
+    "deleted": false,
+    "archive_dir": "../../../123372/2021-02/2021-02-17_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:28:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

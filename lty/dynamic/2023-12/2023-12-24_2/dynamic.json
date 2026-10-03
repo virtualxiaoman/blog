@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "878638214418530326",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/878638214418530326",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年12月24日",
+    "pub_ts": 1703412301,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖纯白圣诞夜，敲响祝福的钟声。\n在槲寄生树下，吟唱一曲颂歌，我向神明许愿。\n愿你今夜好梦，愿你岁岁平安。[洛天依_许愿]\n\n🎁天依准备了平安夜礼物哦，转发关注，揪3位小伙伴送出【来自天依的圣诞礼物】1份。[洛天依_礼物]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "248138",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "纯白圣诞夜，敲响祝福的钟声。\n在槲寄生树下，吟唱一曲颂歌，我向神明许愿。\n愿你今夜好梦，愿你岁岁平安。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_许愿]",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "name": "许愿",
+        "url": "http://i0.hdslb.com/bfs/emote/11dd222e9f5d7b2c596d0f206dc9d1eb4efee407.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🎁天依准备了平安夜礼物哦，转发关注，揪3位小伙伴送出【来自天依的圣诞礼物】1份。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_礼物]",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "name": "礼物",
+        "url": "http://i0.hdslb.com/bfs/emote/9826fb4f77944387767a37552143fbec40159fa5.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-12-24_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/356d1e1db50887e7359b4e634d758b8d36081646.jpg",
+        "width": 2500,
+        "height": 3334,
+        "size_kb": 8156.66015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/许愿.png",
+        "package_id": "340",
+        "emoji_id": "5579",
+        "text": "[洛天依_许愿]"
+      },
+      {
+        "file": "../../_assets/emojis/340/礼物.png",
+        "package_id": "340",
+        "emoji_id": "7262",
+        "text": "[洛天依_礼物]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "248138"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9317,
+    "comment": 1068,
+    "forward": 6064
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:01:42+08:00",
+    "force": false,
+    "failures": []
+  }
+}

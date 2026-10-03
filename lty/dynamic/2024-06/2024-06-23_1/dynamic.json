@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "946173809217503284",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/946173809217503284",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月23日",
+    "pub_ts": 1719136657,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "期待和大家在现场相见～[代号洛天依_比心]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "期待和大家在现场相见～"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5336,
+    "comment": 138,
+    "forward": 24
+  },
+  "forward": {
+    "orig_id": 946081673566486594,
+    "orig_mid": 403748305,
+    "deleted": false,
+    "archive_dir": "../../../403748305/2024-06/2024-06-23_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:13:48+08:00",
+    "force": false,
+    "failures": []
+  }
+}

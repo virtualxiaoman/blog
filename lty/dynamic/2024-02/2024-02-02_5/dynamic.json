@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "893541158238552114",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/893541158238552114",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年2月2日",
+    "pub_ts": 1706882163,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "无论是山林间奔跑逍遥的小山妖，还是对千年源远文化的传承，亦或真的有那样一个快意恩仇的属于中华五行娘的世界，都是创作人们用音乐谱写出的美妙乐章，天依很高兴能作为容器与载体，将这份美好传递给大家。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "无论是山林间奔跑逍遥的小山妖，还是对千年源远文化的传承，亦或真的有那样一个快意恩仇的属于中华五行娘的世界，都是创作人们用音乐谱写出的美妙乐章，天依很高兴能作为容器与载体，将这份美好传递给大家。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依X索尼音乐“中华少女绣山水”国风串烧舞台【冰火盛典】",
+      "desc": "这是天依第三次来到冰火歌会啦！\n很高兴将小熠老师的《绣得千年山水长》BV1Q8411i7Jv、纯白老师的《中华少女终》BV17V4y1d7Tw和索尼音乐为天依量身打造的全新EP《洛 LUO》单曲《山妖》串联为国风串烧舞台为大家呈现。\n无论是山林间奔跑逍遥的小山妖，还是对千年源远文化的传承，亦或真的有那样一个快意恩仇的属于中华五行娘的世界，都是创作人们用音乐谱写出的美妙乐章，天依很高兴能作为容器与载体，将这份美好传递给大家。\n\n洛天依X索尼音乐全新EP《洛 LUO》数字EP&实体专辑已经开启预售啦！\n数字E",
+      "jump_url": "https://www.bilibili.com/video/BV1GZ421r7jQ",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/f991795a2409ee827c266b3ff21fa268ae676dcd.jpg",
+      "cover_file": "../../_assets/covers/2024-02-02_3.jpg",
+      "bvid": "BV1GZ421r7jQ",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1GZ421r7jQ",
+        "aid": "1150004537",
+        "cover": "http://i2.hdslb.com/bfs/archive/f991795a2409ee827c266b3ff21fa268ae676dcd.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1GZ421r7jQ",
+        "stat": {
+          "danmaku": "751",
+          "play": "48.9万",
+          "vt": ""
+        },
+        "duration_text": "04:04",
+        "title": "洛天依X索尼音乐“中华少女绣山水”国风串烧舞台【冰火盛典】",
+        "desc": "这是天依第三次来到冰火歌会啦！\n很高兴将小熠老师的《绣得千年山水长》BV1Q8411i7Jv、纯白老师的《中华少女终》BV17V4y1d7Tw和索尼音乐为天依量身打造的全新EP《洛 LUO》单曲《山妖》串联为国风串烧舞台为大家呈现。\n无论是山林间奔跑逍遥的小山妖，还是对千年源远文化的传承，亦或真的有那样一个快意恩仇的属于中华五行娘的世界，都是创作人们用音乐谱写出的美妙乐章，天依很高兴能作为容器与载体，将这份美好传递给大家。\n\n洛天依X索尼音乐全新EP《洛 LUO》数字EP&实体专辑已经开启预售啦！\n数字E",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 82605,
+    "comment": 859,
+    "forward": 190
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:06:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

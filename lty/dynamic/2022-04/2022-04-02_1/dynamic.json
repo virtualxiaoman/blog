@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "644368759477239831",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/644368759477239831",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年4月2日",
+    "pub_ts": 1648867193,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "《精灵旅社4:变身大冒险》中文版主题曲MV上线即将上线",
+      "desc": "-\n#洛天依梅菲斯双公主同屏#\n 距离电影《精灵旅社4:变身大冒险》中文版主题曲MV的上线还有24小时！这次梅菲斯还带我领略了一把穿梭热带雨林的神奇体验，真是惊险又刺激！\n\n当然啦，明天的惊喜可不止主题曲～4月3日还是#洛天依10周年# 倒计时第100天的日子，十周年纪念主题页也将同步上线！\n还有一些话也想对你们说，总之！明天！不见不散！[洛天依_爱你]",
+      "jump_url": "https://www.bilibili.com/video/BV17u411i7L3",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/ac781be07f28aaba3cf7b38ee6c4286e7b9f6586.png",
+      "cover_file": "../../_assets/covers/2022-04-02_1.png",
+      "bvid": "BV17u411i7L3",
+      "extra": {
+        "type": 1,
+        "bvid": "BV17u411i7L3",
+        "aid": "510265350",
+        "cover": "http://i0.hdslb.com/bfs/archive/ac781be07f28aaba3cf7b38ee6c4286e7b9f6586.png",
+        "jump_url": "//www.bilibili.com/video/BV17u411i7L3",
+        "stat": {
+          "danmaku": "111",
+          "play": "5.6万",
+          "vt": ""
+        },
+        "duration_text": "01:19",
+        "title": "《精灵旅社4:变身大冒险》中文版主题曲MV上线即将上线",
+        "desc": "-\n#洛天依梅菲斯双公主同屏#\n 距离电影《精灵旅社4:变身大冒险》中文版主题曲MV的上线还有24小时！这次梅菲斯还带我领略了一把穿梭热带雨林的神奇体验，真是惊险又刺激！\n\n当然啦，明天的惊喜可不止主题曲～4月3日还是#洛天依10周年# 倒计时第100天的日子，十周年纪念主题页也将同步上线！\n还有一些话也想对你们说，总之！明天！不见不散！[洛天依_爱你]",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 12830,
+    "comment": 520,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:44:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

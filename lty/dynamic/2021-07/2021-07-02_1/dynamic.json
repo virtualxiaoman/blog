@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "542775332397995435",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/542775332397995435",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月2日",
+    "pub_ts": 1625213130,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# #洛天依0712生日快乐# #洛天依九周年#  今晚将有个激动人心的大事——今晚 20:00 天依将在B站直播间，直播抽选120位小伙伴参与到7月12日的线下生日会！ 除此之外，天依也会解答大家一些关于生日会的问题，同时和大家说说，第二次赠票活动相关的信息，顺便在生日之前跟大家聊聊一些内心话[洛天依_害羞]   【九周年第四弹】生日周边也很快就要上线啦~ 天依先给大家过过眼瘾，瞒着老V发个图透 (o゜▽゜)o☆ 这次有之前大家呼声很高的定制键盘和全新款式的耳机，吧唧、立牌、色纸也没有缺席，希望能与你们留下九周年的回忆见证。   定好闹钟，我们晚上见[洛天依_爱你哦] \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": "  今晚将有个激动人心的大事——今晚 20:00 天依将在B站直播间，直播抽选120位小伙伴参与到7月12日的线下生日会！ 除此之外，天依也会解答大家一些关于生日会的问题，同时和大家说说，第二次赠票活动相关的信息，顺便在生日之前跟大家聊聊一些内心话"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "   【九周年第四弹】生日周边也很快就要上线啦~ 天依先给大家过过眼瘾，瞒着老V发个图透 (o゜▽゜)o☆ 这次有之前大家呼声很高的定制键盘和全新款式的耳机，吧唧、立牌、色纸也没有缺席，希望能与你们留下九周年的回忆见证。   定好闹钟，我们晚上见"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_爱你哦]",
+        "package_id": "9",
+        "emoji_id": "211",
+        "name": "爱你哦",
+        "url": "http://i0.hdslb.com/bfs/emote/7102c9e25359af8348489ff8529b3bb2c5bd05d0.png"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-02_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/d67f67f184e6b7fd6f39734caf7a48e59797daab.jpg",
+        "width": 800,
+        "height": 2851,
+        "size_kb": 842.74609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      },
+      {
+        "file": "../../_assets/emojis/9/爱你哦.png",
+        "package_id": "9",
+        "emoji_id": "211",
+        "text": "[洛天依_爱你哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6784,
+    "comment": 537,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:17+08:00",
+    "force": false,
+    "failures": []
+  }
+}

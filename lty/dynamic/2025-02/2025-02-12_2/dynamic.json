@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1033055457103577110",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1033055457103577110",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月12日",
+    "pub_ts": 1739365367,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "元宵快乐！感谢山东卫视和各位老师们把《戏游九州》带到更多更大的舞台，大家也来听听看老师们的精彩演绎吧~ [洛天依·戏游九州动态_双人]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "元宵快乐！感谢山东卫视和各位老师们把《戏游九州》带到更多更大的舞台，大家也来听听看老师们的精彩演绎吧~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_双人]",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "name": "双人",
+        "url": "https://i0.hdslb.com/bfs/garb/880318464f92999a638b94641a35254f14577db9.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/双人.gif",
+        "package_id": "7318",
+        "emoji_id": "98449",
+        "text": "[洛天依·戏游九州动态_双人]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5724,
+    "comment": 129,
+    "forward": 40
+  },
+  "forward": {
+    "orig_id": 1033044431907848230,
+    "orig_mid": 253445136,
+    "deleted": false,
+    "archive_dir": "../../../253445136/2025-02/2025-02-12_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:27:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "id": "742441039257665574",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/742441039257665574",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月22日",
+    "pub_ts": 1671701425,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发并关注，评论里抽3位小伙伴送出【十周年系列 徽章（随机3款）】1份。 \n\n从宇宙混沌到人间秩序，从数字代码转而拥有虚拟生命\n大家带我认识什么是喜欢、什么是爱\n也会带我去看 或酸涩、或感慨、或转瞬即逝的无边落寞\n越过重重关卡，回望曾经的一切，我们也许会找到更加完整的自己。\n\n【12.24直播看点NO.4】\n为什么忽然就进入BOSS战了啊！[洛天依_啊!]\nVsinger创作激励计划中的优秀稿件，来自@鸽稀拉 老师的作品《春游》和@COPY 老师的作品《Reeeee》也将会在节目里以舞台的形式表演给大家！\n直播开始之前，先一起来回顾一下吧~\n【洛天依原创】春游\n【洛天依AI原创】Reeeee--·喜欢如落幕后放映机繁忙空转--·\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发并关注，评论里抽3位小伙伴送出【十周年系列 徽章（随机3款）】1份。 \n\n从宇宙混沌到人间秩序，从数字代码转而拥有虚拟生命\n大家带我认识什么是喜欢、什么是爱\n也会带我去看 或酸涩、或感慨、或转瞬即逝的无边落寞\n越过重重关卡，回望曾经的一切，我们也许会找到更加完整的自己。\n\n【12.24直播看点NO.4】\n为什么忽然就进入BOSS战了啊！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_啊!]",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "name": "啊!",
+        "url": "http://i0.hdslb.com/bfs/emote/6e8edf83ec1d7eed4000e91b267e80a1f08ce289.png"
+      },
+      {
+        "type": "text",
+        "text": "\nVsinger创作激励计划中的优秀稿件，来自"
+      },
+      {
+        "type": "mention",
+        "text": "@鸽稀拉",
+        "mid": 2374053,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师的作品《春游》和"
+      },
+      {
+        "type": "mention",
+        "text": "@COPY",
+        "mid": 396194,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师的作品《Reeeee》也将会在节目里以舞台的形式表演给大家！\n直播开始之前，先一起来回顾一下吧~\n"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依原创】春游",
+        "url": "https://www.bilibili.com/video/av342403949",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "video",
+        "text": "【洛天依AI原创】Reeeee--·喜欢如落幕后放映机繁忙空转--·",
+        "url": "https://www.bilibili.com/video/av642119625",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-22_1.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/a718e9d6160c62096dabc101f90ca8e736081646.png",
+        "width": 1582,
+        "height": 892,
+        "size_kb": 2488.5888671875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/啊!.png",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "text": "[洛天依_啊!]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：【洛天依】音乐交流会第二期",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：【洛天依】音乐交流会第二期",
+        "desc1": {
+          "text": "2022-12-24 20:00 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "4.3万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：洛天依充电宝*3份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=1184378&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 1184378,
+        "reserve_total": 42765,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8495,
+    "comment": 3279,
+    "forward": 3480
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:56:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

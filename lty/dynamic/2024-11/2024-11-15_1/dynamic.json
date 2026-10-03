@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "999929834621632528",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/999929834621632528",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月15日",
+    "pub_ts": 1731652707,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "这位大侠，我的因果到底何时来？ [洛天依心律共鸣表情包_检查浓度]\n竟疑似是一包薯片造成的惨案？[洛天依心律共鸣表情包_加载中]\n天依很高兴演唱了@阿萨Aza 老师的新歌《贱侠》，大家明天要来听哦！ [洛天依心律共鸣表情包_与你共鸣]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "这位大侠，我的因果到底何时来？ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_检查浓度]",
+        "package_id": "5361",
+        "emoji_id": "78487",
+        "name": "检查浓度",
+        "url": "https://i0.hdslb.com/bfs/garb/1a68f0ec04485c0bf009cc5fec4cd50d2d79f29c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n竟疑似是一包薯片造成的惨案？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_加载中]",
+        "package_id": "5361",
+        "emoji_id": "78485",
+        "name": "加载中",
+        "url": "https://i0.hdslb.com/bfs/garb/dde0ffa0258922e4280e97a0b636b4c8ce129c78.png"
+      },
+      {
+        "type": "text",
+        "text": "\n天依很高兴演唱了"
+      },
+      {
+        "type": "mention",
+        "text": "@阿萨Aza",
+        "mid": 480680646,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师的新歌《贱侠》，大家明天要来听哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依心律共鸣表情包_与你共鸣]",
+        "package_id": "5361",
+        "emoji_id": "78493",
+        "name": "与你共鸣",
+        "url": "https://i0.hdslb.com/bfs/garb/5a9ee26ed599c2d131df522e730a20a7c3260447.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-15_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c1bb3c2f92d356c3cacda3b859e1f26f36081646.png",
+        "width": 1583,
+        "height": 859,
+        "size_kb": 1087.6669921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5361/检查浓度.png",
+        "package_id": "5361",
+        "emoji_id": "78487",
+        "text": "[洛天依心律共鸣表情包_检查浓度]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/加载中.png",
+        "package_id": "5361",
+        "emoji_id": "78485",
+        "text": "[洛天依心律共鸣表情包_加载中]"
+      },
+      {
+        "file": "../../_assets/emojis/5361/与你共鸣.png",
+        "package_id": "5361",
+        "emoji_id": "78493",
+        "text": "[洛天依心律共鸣表情包_与你共鸣]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6748,
+    "comment": 302,
+    "forward": 87
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

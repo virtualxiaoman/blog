@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "id": "1232930494067245059",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1232930494067245059",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月5日",
+    "pub_ts": 1785902400,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依来喊你一起嗦粉啦！发现了新宝藏——掌小鸭螺蛳粉~\n13年，只为一碗地道柳州味，鲜香爽辣，一口入魂！[洛天依14周年·四重奏_完美]\n我们还一起为大家准备了可爱的天依特别联动款包装和精美赠礼~\n现已开启预售，和天依一起享受这份同款美味吧~！[洛天依14周年·四重奏_wink]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依来喊你一起嗦粉啦！发现了新宝藏——掌小鸭螺蛳粉~\n13年，只为一碗地道柳州味，鲜香爽辣，一口入魂！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_完美]",
+        "package_id": "10148",
+        "emoji_id": "144404",
+        "name": "完美",
+        "url": "https://i0.hdslb.com/bfs/garb/d5b53037c1807d81009ce652417635d0b0de2511.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n我们还一起为大家准备了可爱的天依特别联动款包装和精美赠礼~\n现已开启预售，和天依一起享受这份同款美味吧~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_wink]",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/c2a860fb1bfb39c3828df50af8350308651fd26a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-05_1.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5010ebb2457bca7f7502e2d56b3c363036081646.png",
+        "width": 4000,
+        "height": 2250,
+        "size_kb": 8723.6904296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-05_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/865c9071b3b109f7d0770229fdeee1ba36081646.png",
+        "width": 2250,
+        "height": 13705,
+        "size_kb": 12034.716796875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/完美.gif",
+        "package_id": "10148",
+        "emoji_id": "144404",
+        "text": "[洛天依14周年·四重奏_完美]"
+      },
+      {
+        "file": "../../_assets/emojis/10148/wink.gif",
+        "package_id": "10148",
+        "emoji_id": "144388",
+        "text": "[洛天依14周年·四重奏_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5947,
+    "comment": 389,
+    "forward": 80
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:57+08:00",
+    "force": false,
+    "failures": []
+  }
+}

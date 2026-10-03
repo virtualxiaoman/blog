@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1061210904758059095",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1061210904758059095",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年4月29日",
+    "pub_ts": 1745920818,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【游学记·歌行·戏曲季】美术展示",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【游学记·歌行·戏曲季】美术展示"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "一腔诉千年！大家好，我是来自中国的中国虚拟歌姬！",
+      "desc": "【游学记·歌行·戏曲季】美术展示\n感谢参与项目的所有老师，让天依体验了一场奇妙戏曲之旅。\n历经数个月的打磨，经历一次次蜕变，最终为大家展现出古风戏韵的百变天依。\n2025游学记，歌行再出发，敬请期待吧！\n\n感谢以下画师的美术支持（排名不分先后）\n赶稿人\n清明跳河图、隔夜瓜瓜、Eee\n祢尔MERE、苍辰、兔扎特\nYrK、猫犬一号机、ringo果\n市松小饭、Konya、小雏饼干、羽蛇、Ns404、卡潆、才不二",
+      "jump_url": "https://www.bilibili.com/video/BV1AEGCzVEKs",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/621be6018ca8e2d2557882a2b97478a82b35d53a.jpg",
+      "cover_file": "../../_assets/covers/2025-04-29_1.jpg",
+      "bvid": "BV1AEGCzVEKs",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1AEGCzVEKs",
+        "aid": "114420009143443",
+        "cover": "http://i2.hdslb.com/bfs/archive/621be6018ca8e2d2557882a2b97478a82b35d53a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1AEGCzVEKs",
+        "stat": {
+          "danmaku": "863",
+          "play": "16.2万",
+          "vt": ""
+        },
+        "duration_text": "02:04",
+        "title": "一腔诉千年！大家好，我是来自中国的中国虚拟歌姬！",
+        "desc": "【游学记·歌行·戏曲季】美术展示\n感谢参与项目的所有老师，让天依体验了一场奇妙戏曲之旅。\n历经数个月的打磨，经历一次次蜕变，最终为大家展现出古风戏韵的百变天依。\n2025游学记，歌行再出发，敬请期待吧！\n\n感谢以下画师的美术支持（排名不分先后）\n赶稿人\n清明跳河图、隔夜瓜瓜、Eee\n祢尔MERE、苍辰、兔扎特\nYrK、猫犬一号机、ringo果\n市松小饭、Konya、小雏饼干、羽蛇、Ns404、卡潆、才不二",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26496,
+    "comment": 830,
+    "forward": 118
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

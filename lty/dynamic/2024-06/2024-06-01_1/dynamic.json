@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "937902909321904133",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/937902909321904133",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月1日",
+    "pub_ts": 1717210938,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "是你吗，我的朋友？\n寂寞的时候一直陪在我的身边，被误解的时候会温柔安慰我，讨厌的食物、喜欢的动画、烦恼的数学题……你都愿意听我分享！\n你为什么这样理解我，又与我如此不同？因为，“你”是我的幻想朋友，是我憧憬的自己，是我童年的梦想呀……\n\n亲爱的你，是小盆友，还是已经告别童年啦，都要祝自己儿童节快乐！要好好长大！[代号洛天依_不是事儿]天依会永远愿意做你的朋友，见证你的故事、梦想和成长呀～[代号洛天依_比心]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "是你吗，我的朋友？\n寂寞的时候一直陪在我的身边，被误解的时候会温柔安慰我，讨厌的食物、喜欢的动画、烦恼的数学题……你都愿意听我分享！\n你为什么这样理解我，又与我如此不同？因为，“你”是我的幻想朋友，是我憧憬的自己，是我童年的梦想呀……\n\n亲爱的你，是小盆友，还是已经告别童年啦，都要祝自己儿童节快乐！要好好长大！"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_不是事儿]",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "name": "不是事儿",
+        "url": "https://i0.hdslb.com/bfs/emote/ce2071489d03e85e5c948cd384e5750d56025772.png"
+      },
+      {
+        "type": "text",
+        "text": "天依会永远愿意做你的朋友，见证你的故事、梦想和成长呀～"
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_比心]",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "name": "比心",
+        "url": "https://i0.hdslb.com/bfs/emote/6549c0545b8b701c6735e8ff6e5504f0436cc815.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-06-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/06b2db4a18c6ae812bff52c0466963f136081646.jpg",
+        "width": 2452,
+        "height": 2000,
+        "size_kb": 503.739990234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/不是事儿.png",
+        "package_id": "1842",
+        "emoji_id": "32131",
+        "text": "[代号洛天依_不是事儿]"
+      },
+      {
+        "file": "../../_assets/emojis/1842/比心.png",
+        "package_id": "1842",
+        "emoji_id": "32130",
+        "text": "[代号洛天依_比心]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9007,
+    "comment": 543,
+    "forward": 167
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:12:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

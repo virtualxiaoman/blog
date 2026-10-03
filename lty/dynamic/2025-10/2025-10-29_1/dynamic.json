@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1129026728956526656",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1129026728956526656",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月29日",
+    "pub_ts": 1761710420,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依×DOUDOU】《馬》【原创曲PV付】",
+      "desc": "天依又认识新的朋友啦！很开心受邀演唱《馬》的日语版本，这是天依第一次跟DOUDOU合作，希望大家喜欢天依的特别演绎~！\n\n演唱：洛天依\n调教/混音：周小蚕\n词曲：杜冰儿/杜飞儿\n词曲/编曲：DOUDOU",
+      "jump_url": "https://www.bilibili.com/video/BV14ZyBBPESg",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/10f161eea192311cbe86d271f2a4a9c0b8c6ae07.jpg",
+      "cover_file": "../../_assets/covers/2025-10-29_1.jpg",
+      "bvid": "BV14ZyBBPESg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV14ZyBBPESg",
+        "aid": "115450784646345",
+        "cover": "http://i1.hdslb.com/bfs/archive/10f161eea192311cbe86d271f2a4a9c0b8c6ae07.jpg",
+        "jump_url": "//www.bilibili.com/video/BV14ZyBBPESg",
+        "stat": {
+          "danmaku": "9064",
+          "play": "154.5万",
+          "vt": ""
+        },
+        "duration_text": "03:48",
+        "title": "【洛天依×DOUDOU】《馬》【原创曲PV付】",
+        "desc": "天依又认识新的朋友啦！很开心受邀演唱《馬》的日语版本，这是天依第一次跟DOUDOU合作，希望大家喜欢天依的特别演绎~！\n\n演唱：洛天依\n调教/混音：周小蚕\n词曲：杜冰儿/杜飞儿\n词曲/编曲：DOUDOU",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 141928,
+    "comment": 4016,
+    "forward": 1374
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:47+08:00",
+    "force": false,
+    "failures": []
+  }
+}

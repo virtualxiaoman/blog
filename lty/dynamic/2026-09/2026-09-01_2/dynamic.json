@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1243042687472369700",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1243042687472369700",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "9月1日",
+    "pub_ts": 1788256829,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“他想要给你他的桂冠 或许你会喜欢”",
+      "desc": "“当初的花环 是否早已枯败”\n存存老师来闪P发刀子啦！一起来听《花环与桂冠》BV1D88J6EE2x\n✨2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\nhttps://b23.tv/MBvh3P6\n原创音乐，二创同人，期待大家的参与和创作~\n\n演唱：洛天依\n作词/作曲/编曲/调教：JUSF周存",
+      "jump_url": "https://www.bilibili.com/video/BV16dt36rERg",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/54a1c60187889aba073c4a6b46ee2a70cc280827.jpg",
+      "cover_file": "../../_assets/covers/2026-09-01_1.jpg",
+      "bvid": "BV16dt36rERg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV16dt36rERg",
+        "aid": "117195061332627",
+        "cover": "http://i2.hdslb.com/bfs/archive/54a1c60187889aba073c4a6b46ee2a70cc280827.jpg",
+        "jump_url": "//www.bilibili.com/video/BV16dt36rERg",
+        "stat": {
+          "danmaku": "50",
+          "play": "8.2万",
+          "vt": ""
+        },
+        "duration_text": "00:41",
+        "title": "“他想要给你他的桂冠 或许你会喜欢”",
+        "desc": "“当初的花环 是否早已枯败”\n存存老师来闪P发刀子啦！一起来听《花环与桂冠》BV1D88J6EE2x\n✨2026洛天依大型原创音乐征集活动「闪耀的Producer 2」进行中\nhttps://b23.tv/MBvh3P6\n原创音乐，二创同人，期待大家的参与和创作~\n\n演唱：洛天依\n作词/作曲/编曲/调教：JUSF周存",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 35668,
+    "comment": 537,
+    "forward": 74
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:38:58+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "988877157182734368",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/988877157182734368",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月16日",
+    "pub_ts": 1729079305,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "晚上好呀，大家最近都在听什么歌呢，请多多支持老师们的精彩创作吧！[心律共鸣动态表情包_真好]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "晚上好呀，大家最近都在听什么歌呢，请多多支持老师们的精彩创作吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3955,
+    "comment": 167,
+    "forward": 19
+  },
+  "forward": {
+    "orig_id": 982928614633766934,
+    "orig_mid": 10248182,
+    "deleted": false,
+    "archive_dir": "../../../10248182/2024-09/2024-09-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:20:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

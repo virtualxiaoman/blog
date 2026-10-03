@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "835583722790060067",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/835583722790060067",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年8月30日",
+    "pub_ts": 1693387896,
+    "location": ""
+  },
+  "topic": {
+    "id": 1084727,
+    "name": "洛天依游学记",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1084727&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+  },
+  "content": {
+    "title": "",
+    "text": "互动抽奖 #洛天依# #洛天依游学记#\n转关天依，揪3位小伙伴送出【洛天依 挂画】1份！\n\n对襟绣花短衣、层叠百褶裙搭配绑腿，干练灵动\n垂坠的织锦花带与高耸的银花冠，相映生辉\n光华灿然、玎玲作响的银饰套组\n点亮了山水绵延间沉默的森林\n\n感谢服装设计@赶稿人 老师为天依设计的苗族服饰造型~\n翻山越岭，跋涉千里，最终定居彩云之南的苗族儿女\n怀揣着对自然、对先祖、对族群的诚挚祈望\n化作一丝一缕细密的针脚，化作豪迈奔放的歌舞\n在竹影婆娑间留下跃动的色彩[洛天依幻游世界_哇哦]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "178505",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依游学记#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E6%B8%B8%E5%AD%A6%E8%AE%B0"
+      },
+      {
+        "type": "text",
+        "text": "\n转关天依，揪3位小伙伴送出【洛天依 挂画】1份！\n\n对襟绣花短衣、层叠百褶裙搭配绑腿，干练灵动\n垂坠的织锦花带与高耸的银花冠，相映生辉\n光华灿然、玎玲作响的银饰套组\n点亮了山水绵延间沉默的森林\n\n感谢服装设计"
+      },
+      {
+        "type": "mention",
+        "text": "@赶稿人",
+        "mid": 590881599,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 老师为天依设计的苗族服饰造型~\n翻山越岭，跋涉千里，最终定居彩云之南的苗族儿女\n怀揣着对自然、对先祖、对族群的诚挚祈望\n化作一丝一缕细密的针脚，化作豪迈奔放的歌舞\n在竹影婆娑间留下跃动的色彩"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_哇哦]",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "name": "哇哦",
+        "url": "https://i0.hdslb.com/bfs/garb/item/e5bc68534e3271c873a8ab2cabe0eac69b01a952.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-08-30_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6ff83e7f5f4c7203a51bf5abdac1977536081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1119.76953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-08-30_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/54a9c0302a9161cec11845a5dd67ee8336081646.jpg",
+        "width": 1080,
+        "height": 1028,
+        "size_kb": 1105.3349609375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-08-30_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/18560d85959a08554c2af9415b5a2f0636081646.jpg",
+        "width": 1080,
+        "height": 1831,
+        "size_kb": 1994.79296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-08-30_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1b65b1699a28d97c400a240c31ab19cf36081646.jpg",
+        "width": 1080,
+        "height": 1938,
+        "size_kb": 2126.3984375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2023-08-30_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6555af4471f2984b695f939aa6d8473d36081646.jpg",
+        "width": 1080,
+        "height": 1192,
+        "size_kb": 1355.234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2023-08-30_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ba4f54a8814bb893fd1006cf4b89035a36081646.jpg",
+        "width": 1080,
+        "height": 1864,
+        "size_kb": 2056.345703125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2023-08-30_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c583135c7fccc96d0ed267351ff637f936081646.jpg",
+        "width": 1080,
+        "height": 1218,
+        "size_kb": 1363.2626953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2023-08-30_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/eaefffbf932e8a4b22bfee4fdee571ac36081646.jpg",
+        "width": 1080,
+        "height": 2425,
+        "size_kb": 2498.1611328125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2023-08-30_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c0da57a6c44c087d63abe4c4bf36325736081646.jpg",
+        "width": 1080,
+        "height": 1080,
+        "size_kb": 1126.6357421875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/哇哦.png",
+        "package_id": "1066",
+        "emoji_id": "18948",
+        "text": "[洛天依幻游世界_哇哦]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "178505"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6690,
+    "comment": 711,
+    "forward": 4042
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:57:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

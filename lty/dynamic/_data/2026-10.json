@@ -1,0 +1,34 @@
+[
+  {
+    "key": "2026-10-02_1",
+    "ym": "2026-10",
+    "date": "2026-10-02",
+    "type": "DYNAMIC_TYPE_AV",
+    "typeLabel": "视频动态",
+    "title": "小洛也来！学功夫，练武术！",
+    "excerpt": "小洛也来！学功夫，练武术！",
+    "cover": "https://i2.hdslb.com/bfs/archive/bf53429b89a1d58e8eda99a07dd5aee6d4e5521f.jpg",
+    "url": "https://www.bilibili.com/opus/1254566312323055666",
+    "stats": {
+      "like": 5121,
+      "comment": 467,
+      "forward": 35
+    }
+  },
+  {
+    "key": "2026-10-01_1",
+    "ym": "2026-10",
+    "date": "2026-10-01",
+    "type": "DYNAMIC_TYPE_AV",
+    "typeLabel": "视频动态",
+    "title": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～[洛天依14周年·纯…",
+    "excerpt": "经常有小伙伴希望天依送出生日祝福，那天依就一起祝福一下好啦～",
+    "cover": "https://i0.hdslb.com/bfs/archive/c386b4293b559e1fdc9f526b1b704610c6e7cfcd.jpg",
+    "url": "https://www.bilibili.com/opus/1254193156999610375",
+    "stats": {
+      "like": 17888,
+      "comment": 1367,
+      "forward": 133
+    }
+  }
+]

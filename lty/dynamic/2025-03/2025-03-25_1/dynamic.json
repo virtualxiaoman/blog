@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "1048241400625233945",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1048241400625233945",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年3月25日",
+    "pub_ts": 1742901120,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#  #广西三月三非遗次元集# \n\n“到山水深处，赴壮乡浪漫。”\n天依很高兴身着壮服，受邀参加广西三月三非遗次元集活动！[洛天依·戏游九州动态_惬意]\n\n🌸【洛天依谷子快闪】线下市集\n3月29日-4月1日，前往可以解锁【洛天依壮服限定周边】\n\n🌸【次元节奏LIVEPARTY】\n3月31日晚20:00，天依将为大家带来特别演出\n\n✨活动地点：广西壮族自治区南宁市民歌湖国际音乐小镇商业街A区",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "topic",
+        "text": "#广西三月三非遗次元集#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%B9%BF%E8%A5%BF%E4%B8%89%E6%9C%88%E4%B8%89%E9%9D%9E%E9%81%97%E6%AC%A1%E5%85%83%E9%9B%86"
+      },
+      {
+        "type": "text",
+        "text": " \n\n“到山水深处，赴壮乡浪漫。”\n天依很高兴身着壮服，受邀参加广西三月三非遗次元集活动！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n🌸【洛天依谷子快闪】线下市集\n3月29日-4月1日，前往可以解锁【洛天依壮服限定周边】\n\n🌸【次元节奏LIVEPARTY】\n3月31日晚20:00，天依将为大家带来特别演出\n\n✨活动地点：广西壮族自治区南宁市民歌湖国际音乐小镇商业街A区"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依 X 广西三月三非遗次元集",
+      "desc": "“到山水深处，赴壮乡浪漫。”\n天依很高兴身着壮服，受邀参加广西三月三非遗次元集活动！\n\n🌸【洛天依谷子快闪】线下市集\n3月29日-4月1日，前往可以解锁【洛天依壮服限定周边】\n\n🌸【次元节奏LIVEPARTY】\n3月31日晚20:00，天依将为大家带来特别演出\n\n✨活动地点：广西壮族自治区南宁市民歌湖国际音乐小镇商业街A区",
+      "jump_url": "https://www.bilibili.com/video/BV19NobYHEwd",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/a87a9e20ffcfb3998d738fd3b1dc192cbd7a4acc.png",
+      "cover_file": "../../_assets/covers/2025-03-25_1.png",
+      "bvid": "BV19NobYHEwd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV19NobYHEwd",
+        "aid": "114222759478537",
+        "cover": "http://i2.hdslb.com/bfs/archive/a87a9e20ffcfb3998d738fd3b1dc192cbd7a4acc.png",
+        "jump_url": "//www.bilibili.com/video/BV19NobYHEwd",
+        "stat": {
+          "danmaku": "81",
+          "play": "6.5万",
+          "vt": ""
+        },
+        "duration_text": "00:25",
+        "title": "洛天依 X 广西三月三非遗次元集",
+        "desc": "“到山水深处，赴壮乡浪漫。”\n天依很高兴身着壮服，受邀参加广西三月三非遗次元集活动！\n\n🌸【洛天依谷子快闪】线下市集\n3月29日-4月1日，前往可以解锁【洛天依壮服限定周边】\n\n🌸【次元节奏LIVEPARTY】\n3月31日晚20:00，天依将为大家带来特别演出\n\n✨活动地点：广西壮族自治区南宁市民歌湖国际音乐小镇商业街A区",
+        "badge": {
+          "icon_url": "",
+          "text": "动态视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14666,
+    "comment": 1317,
+    "forward": 161
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:28:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

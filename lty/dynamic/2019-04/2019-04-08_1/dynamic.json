@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "239930879045299031",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/239930879045299031",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年4月8日",
+    "pub_ts": 1554701661,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "礼物已经准备好啦~//@言和:这次礼物挑选了很久呢~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "礼物已经准备好啦~//"
+      },
+      {
+        "type": "mention",
+        "text": "@言和",
+        "mid": 406948276,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": ":这次礼物挑选了很久呢~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4727,
+    "comment": 429,
+    "forward": 37
+  },
+  "forward": {
+    "orig_id": 239930449546471405,
+    "orig_mid": 406948651,
+    "deleted": false,
+    "archive_dir": "../../../406948651/2019-04/2019-04-08_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:20:07+08:00",
+    "force": false,
+    "failures": []
+  }
+}

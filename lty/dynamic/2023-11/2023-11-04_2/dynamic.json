@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "860016176835592256",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/860016176835592256",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年11月4日",
+    "pub_ts": 1699076520,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "嘿嘿，黄龄老师唱了《歌行四方》！太好听啦！开心！！大家快来听呀~[洛天依幻游世界_我就要浪]天依也有首歌叫《夜舞》来着，大家还记得嘛，也是缘分啦[洛天依幻游世界_i了i了]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "嘿嘿，黄龄老师唱了《歌行四方》！太好听啦！开心！！大家快来听呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_我就要浪]",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "name": "我就要浪",
+        "url": "https://i0.hdslb.com/bfs/garb/item/1f7ad55271e26aedbb481ed5159a85025d04e568.png"
+      },
+      {
+        "type": "text",
+        "text": "天依也有首歌叫《夜舞》来着，大家还记得嘛，也是缘分啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_i了i了]",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "name": "i了i了",
+        "url": "https://i0.hdslb.com/bfs/garb/item/3141c7426d6c41f72a163a0d15aa8a16ca39b1ea.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/我就要浪.png",
+        "package_id": "1066",
+        "emoji_id": "18932",
+        "text": "[洛天依幻游世界_我就要浪]"
+      },
+      {
+        "file": "../../_assets/emojis/1066/i了i了.png",
+        "package_id": "1066",
+        "emoji_id": "18928",
+        "text": "[洛天依幻游世界_i了i了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5148,
+    "comment": 62,
+    "forward": 9
+  },
+  "forward": {
+    "orig_id": 859990149330632896,
+    "orig_mid": 345630501,
+    "deleted": false,
+    "archive_dir": "../../../345630501/2023-11/2023-11-04_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:00:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

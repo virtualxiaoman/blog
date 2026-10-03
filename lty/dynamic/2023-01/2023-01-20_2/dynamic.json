@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "753210141479796904",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/753210141479796904",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月20日",
+    "pub_ts": 1674208802,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@黑猫00@1块腹肌的时雨雨雨雨@bili_1540836552等10位同学中奖，已私信通知，详情请点击互动抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@黑猫00",
+        "mid": 1604360,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@1块腹肌的时雨雨雨雨",
+        "mid": 1152021258,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@bili_1540836552",
+        "mid": 1540836552,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等10位同学中奖，已私信通知，详情请点击互动抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3919,
+    "comment": 223,
+    "forward": 14
+  },
+  "forward": {
+    "orig_id": 752469792201375858,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2023-01-18_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:50:59+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "1129861586865881091",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1129861586865881091",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月31日",
+    "pub_ts": 1761904800,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "「洛天依·Gluttony&Greed」\n“一直留在我的身边，一直看着我、满足我\n给予我快乐，给予我苦痛，给予我一切…” [洛天依-潮声回响_天依来喽]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "「洛天依·Gluttony&Greed」\n“一直留在我的身边，一直看着我、满足我\n给予我快乐，给予我苦痛，给予我一切…” "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依-潮声回响_天依来喽]",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "name": "天依来喽",
+        "url": "https://i0.hdslb.com/bfs/garb/599551701d532db2c99d0824297d51b066a6cc59.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2025-10-31_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d1466b66c2a4b620a7c384a4afc0eb7836081646.jpg",
+        "width": 4050,
+        "height": 5400,
+        "size_kb": 8300.041015625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7109/天依来喽.png",
+        "package_id": "7109",
+        "emoji_id": "94944",
+        "text": "[洛天依-潮声回响_天依来喽]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9585,
+    "comment": 626,
+    "forward": 197
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:50+08:00",
+    "force": false,
+    "failures": []
+  }
+}

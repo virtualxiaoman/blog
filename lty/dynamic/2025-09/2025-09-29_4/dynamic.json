@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1118010077708550163",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1118010077708550163",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年9月29日",
+    "pub_ts": 1759145406,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "我的悲伤是水做的~是水做的~",
+      "desc": "是天依演唱会版本的《我的悲伤是水做的》哦！\n点击屏幕来为天依一键换装吧~\n作曲/作词/编曲/调教：ChiliChill\n原曲：BV1Qc411h7Ys",
+      "jump_url": "https://www.bilibili.com/video/BV1FrnqzkEFS",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/63f2d6430a0612a059ecbbd628abe0dcfe1b2966.jpg",
+      "cover_file": "../../_assets/covers/2025-09-29_2.jpg",
+      "bvid": "BV1FrnqzkEFS",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1FrnqzkEFS",
+        "aid": "115287173107523",
+        "cover": "http://i2.hdslb.com/bfs/archive/63f2d6430a0612a059ecbbd628abe0dcfe1b2966.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1FrnqzkEFS",
+        "stat": {
+          "danmaku": "436",
+          "play": "115.8万",
+          "vt": ""
+        },
+        "duration_text": "00:29",
+        "title": "我的悲伤是水做的~是水做的~",
+        "desc": "是天依演唱会版本的《我的悲伤是水做的》哦！\n点击屏幕来为天依一键换装吧~\n作曲/作词/编曲/调教：ChiliChill\n原曲：BV1Qc411h7Ys",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 235951,
+    "comment": 2249,
+    "forward": 208
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:40:28+08:00",
+    "force": false,
+    "failures": []
+  }
+}

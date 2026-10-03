@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "922056219245412372",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/922056219245412372",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月19日",
+    "pub_ts": 1713521343,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "互动抽奖 转发关注天依，揪5位小伙伴送出装扮1抽~[古色花香洛天依_wink]\n想要装扮你的QQ和每时每刻！\n亲爱的小伙伴们，【QQX洛天依】联名典藏装扮上线啦！装扮包含6套洛天依编号套装。\n\n✦每套装扮包含内容\n专属编号、主题、气泡、挂件、名气、背景\n✦抽取必得\n2个月SVIP，到期后保持SVIP可持续使用\n✦抽取价格\n40元/抽\n✦集齐奖励\n集齐六套装扮，可兑换专属铭牌、专属礼物、进群特效\n✦传送门\nhttps://zb.vip.qq.com/tx/p/49718_2e42bf08?enteranceId=gfxc&adtag=gfxc&_wv=16777216\n\n装扮详情，小伙伴们可戳长图查看哦！ [古色花香洛天依_欧皇]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "互动抽奖",
+        "rid": "292901",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 转发关注天依，揪5位小伙伴送出装扮1抽~"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      },
+      {
+        "type": "text",
+        "text": "\n想要装扮你的QQ和每时每刻！\n亲爱的小伙伴们，【QQX洛天依】联名典藏装扮上线啦！装扮包含6套洛天依编号套装。\n\n✦每套装扮包含内容\n专属编号、主题、气泡、挂件、名气、背景\n✦抽取必得\n2个月SVIP，到期后保持SVIP可持续使用\n✦抽取价格\n40元/抽\n✦集齐奖励\n集齐六套装扮，可兑换专属铭牌、专属礼物、进群特效\n✦传送门\nhttps://zb.vip.qq.com/tx/p/49718_2e42bf08?enteranceId=gfxc&adtag=gfxc&_wv=16777216\n\n装扮详情，小伙伴们可戳长图查看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_欧皇]",
+        "package_id": "1096",
+        "emoji_id": "19436",
+        "name": "欧皇",
+        "url": "https://i0.hdslb.com/bfs/garb/item/32c79a09fef52510377cec64d85ea91503036e5f.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-19_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/e81346b863b848f4858ed4d9c345e8a236081646.jpg",
+        "width": 750,
+        "height": 5206,
+        "size_kb": 2126.3994140625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-04-19_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/cbdbb9d1339f853a4c8e5a034c136c1036081646.jpg",
+        "width": 750,
+        "height": 5212,
+        "size_kb": 2121.029296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-04-19_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ffb3ed9fae699ca0e048b6b6ef11ce5336081646.jpg",
+        "width": 750,
+        "height": 3399,
+        "size_kb": 1247.0126953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-04-19_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8c605494457682ad0d778d55e59a484f36081646.jpg",
+        "width": 750,
+        "height": 6008,
+        "size_kb": 2040.3330078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/欧皇.png",
+        "package_id": "1096",
+        "emoji_id": "19436",
+        "text": "[古色花香洛天依_欧皇]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "292901"
+  },
+  "vote": null,
+  "stats": {
+    "like": 5328,
+    "comment": 978,
+    "forward": 4785
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:25+08:00",
+    "force": false,
+    "failures": []
+  }
+}

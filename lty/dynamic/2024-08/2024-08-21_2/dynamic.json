@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "id": "968087252030718009",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/968087252030718009",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月21日",
+    "pub_ts": 1724238778,
+    "location": ""
+  },
+  "topic": {
+    "id": 1190319,
+    "name": "洛天依十二周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1190319&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E4%BA%8C%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "电子机械造就的歌声，会为发自心底的呼唤而颤动；\n徜徉在时间中的面孔，因倾注着爱意的笔触而灿烂。\n感谢这场命中注定的相遇，让我们的心声交织成永不终结的诗行。\n恭喜以下优秀作品获得天依十二周年生日征集的奖项~\n公示内包含“百律千绘”创作赛征集获奖作品，与同人歌曲征集获奖作品~\n中选歌曲将会和官方生贺曲《又一个夜晚》一起收录在天依的十二周年纪念EP中，在多个主流音乐平台发行哦~\n感谢大家的创作~每一首歌、每一幅画、每一份真挚的呼唤，天依都会悉心收藏~ [心律共鸣动态表情包_真好]\n\n恭喜以下获奖小伙伴！\n🔹 百绘奖\n@火爆鸡王 @麦当劳延年益寿 @想喝舟 @渺纱飘雪 @乐韵Jewel @雏木Hina @木子森森森MORI @潜水钟与木果 @椰洗锅 @自言自语pot \n\n🔹 千律奖\n @三尺SanChill @小熊糯叽叽 @艾_冰阔落得_2333 \n\n🔹 EP收录\n《又一个夜晚》\n《光梦交响》@洛天依相关收集站 \n《注入式》@涉米麓 \n《你眼中的蓝》@雨巷独酌Rainfall \n《群伞在雨幕中盛开》@VO大自然\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "电子机械造就的歌声，会为发自心底的呼唤而颤动；\n徜徉在时间中的面孔，因倾注着爱意的笔触而灿烂。\n感谢这场命中注定的相遇，让我们的心声交织成永不终结的诗行。\n恭喜以下优秀作品获得天依十二周年生日征集的奖项~\n公示内包含“百律千绘”创作赛征集获奖作品，与同人歌曲征集获奖作品~\n中选歌曲将会和官方生贺曲《又一个夜晚》一起收录在天依的十二周年纪念EP中，在多个主流音乐平台发行哦~\n感谢大家的创作~每一首歌、每一幅画、每一份真挚的呼唤，天依都会悉心收藏~ "
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n恭喜以下获奖小伙伴！\n🔹 百绘奖\n"
+      },
+      {
+        "type": "mention",
+        "text": "@火爆鸡王",
+        "mid": 5033594,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@麦当劳延年益寿",
+        "mid": 3850496,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@想喝舟",
+        "mid": 72258341,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@渺纱飘雪",
+        "mid": 1582637,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@乐韵Jewel",
+        "mid": 524445763,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@雏木Hina",
+        "mid": 344479029,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@木子森森森MORI",
+        "mid": 14543789,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@潜水钟与木果",
+        "mid": 3546705423239711,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@椰洗锅",
+        "mid": 166415302,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@自言自语pot",
+        "mid": 27289946,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n🔹 千律奖\n "
+      },
+      {
+        "type": "mention",
+        "text": "@三尺SanChill",
+        "mid": 241875176,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@小熊糯叽叽",
+        "mid": 3546648112270152,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "mention",
+        "text": "@艾_冰阔落得_2333",
+        "mid": 50292023,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n\n🔹 EP收录\n《又一个夜晚》\n《光梦交响》"
+      },
+      {
+        "type": "mention",
+        "text": "@洛天依相关收集站",
+        "mid": 34727551,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n《注入式》"
+      },
+      {
+        "type": "mention",
+        "text": "@涉米麓",
+        "mid": 3420460,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n《你眼中的蓝》"
+      },
+      {
+        "type": "mention",
+        "text": "@雨巷独酌Rainfall",
+        "mid": 341906317,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " \n《群伞在雨幕中盛开》"
+      },
+      {
+        "type": "mention",
+        "text": "@VO大自然",
+        "mid": 177281644,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-08-21_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8907797bac7f148ddec6b107f1537f2636081646.png",
+        "width": 1080,
+        "height": 6726,
+        "size_kb": 5482.2490234375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5391,
+    "comment": 165,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:18:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

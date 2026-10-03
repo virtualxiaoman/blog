@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1033659840611745895",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1033659840611745895",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年2月14日",
+    "pub_ts": 1739506086,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "『天天好天』| 大马导游小鸽子黎歌Neeko带天依游遍马来西亚啦！！【虚拟UP新春会单品】",
+      "desc": "双人合唱本家：BV1zLNfevEqZ\n————————————————————————————————————————————————\n企划：﻿@洛神宝宝    ﻿、﻿@黎歌Neeko  \n演唱：﻿@洛天依     \n调校：﻿@鬼面P     \n混音：﻿@虎皮猫P     \n扒谱：﻿@雨巷独酌Rainfall     \n曲绘：@一条坠子    \n视频制作：﻿@阿妍蝶愫嗨椰奶国际 \n协力：@修改一次昵称需要    \n曲绘拆分：﻿@咩咩yagi   、﻿@花田刨土的幽香    \n监制：﻿@黎歌Neeko",
+      "jump_url": "https://www.bilibili.com/video/BV1exNfeZEeP",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/bb5b56dae5a9500175d86592605831e72a828963.jpg",
+      "cover_file": "../../_assets/covers/2025-02-14_1.jpg",
+      "bvid": "BV1exNfeZEeP",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1exNfeZEeP",
+        "aid": "113997726619657",
+        "cover": "http://i1.hdslb.com/bfs/archive/bb5b56dae5a9500175d86592605831e72a828963.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1exNfeZEeP",
+        "stat": {
+          "danmaku": "254",
+          "play": "4.4万",
+          "vt": ""
+        },
+        "duration_text": "04:25",
+        "title": "『天天好天』| 大马导游小鸽子黎歌Neeko带天依游遍马来西亚啦！！【虚拟UP新春会单品】",
+        "desc": "双人合唱本家：BV1zLNfevEqZ\n————————————————————————————————————————————————\n企划：﻿@洛神宝宝    ﻿、﻿@黎歌Neeko  \n演唱：﻿@洛天依     \n调校：﻿@鬼面P     \n混音：﻿@虎皮猫P     \n扒谱：﻿@雨巷独酌Rainfall     \n曲绘：@一条坠子    \n视频制作：﻿@阿妍蝶愫嗨椰奶国际 \n协力：@修改一次昵称需要    \n曲绘拆分：﻿@咩咩yagi   、﻿@花田刨土的幽香    \n监制：﻿@黎歌Neeko  ",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8977,
+    "comment": 343,
+    "forward": 15
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:27:29+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "751027748337614905",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/751027748337614905",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月14日",
+    "pub_ts": 1673700674,
+    "location": ""
+  },
+  "topic": {
+    "id": 187287,
+    "name": "用交响乐打开2023",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=187287&topic_name=%E7%94%A8%E4%BA%A4%E5%93%8D%E4%B9%90%E6%89%93%E5%BC%802023"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【2023欢乐春节音乐会】穿越千年文明，邂逅神鸟",
+      "desc": "《神鸟》寒辞去冬雪，暖带入春风。在优美的琵琶声中，让我们迎接新的一年。",
+      "jump_url": "https://www.bilibili.com/video/BV1224y1Y7QA",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/7186faae1a0756f0ebb70c16ea062371b966e563.jpg",
+      "cover_file": "../../_assets/covers/2023-01-14_1.jpg",
+      "bvid": "BV1224y1Y7QA",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1224y1Y7QA",
+        "aid": "692822528",
+        "cover": "http://i0.hdslb.com/bfs/archive/7186faae1a0756f0ebb70c16ea062371b966e563.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1224y1Y7QA",
+        "stat": {
+          "danmaku": "1664",
+          "play": "108.8万",
+          "vt": ""
+        },
+        "duration_text": "03:59",
+        "title": "【2023欢乐春节音乐会】穿越千年文明，邂逅神鸟",
+        "desc": "《神鸟》寒辞去冬雪，暖带入春风。在优美的琵琶声中，让我们迎接新的一年。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2023欢乐春节 和合共生音乐会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss44591",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/f66c1802b0f6b2f2ad8d300828382c37a661849f.jpg",
+      "cover_file": "../../_assets/covers/2023-01-14_2.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss44591",
+        "id_str": "692822528",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/f66c1802b0f6b2f2ad8d300828382c37a661849f.jpg",
+        "style": 2,
+        "title": "2023欢乐春节 和合共生音乐会",
+        "desc1": "已完结，共1集",
+        "desc2": "4261追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 160815,
+    "comment": 2368,
+    "forward": 47
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

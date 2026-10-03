@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "736790313977249833",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/736790313977249833",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年12月7日",
+    "pub_ts": 1670385763,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "通往大楼的必经之路被建筑残骸挡住，洛只能选择探索通道。在地下通道的尽头，她发现了一间实验室，这里似乎掩藏着很多秘密。 “房间里的装置突然启动了！”[洛天依_啊!]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "通往大楼的必经之路被建筑残骸挡住，洛只能选择探索通道。在地下通道的尽头，她发现了一间实验室，这里似乎掩藏着很多秘密。 “房间里的装置突然启动了！”"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_啊!]",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "name": "啊!",
+        "url": "http://i0.hdslb.com/bfs/emote/6e8edf83ec1d7eed4000e91b267e80a1f08ce289.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-12-07_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/741609cdf066b75f8fcd0973b0de8c6836081646.jpg",
+        "width": 1932,
+        "height": 1080,
+        "size_kb": 1614.1099853515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/啊!.png",
+        "package_id": "340",
+        "emoji_id": "5570",
+        "text": "[洛天依_啊!]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10984,
+    "comment": 505,
+    "forward": 179
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

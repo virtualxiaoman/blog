@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1232324721126670345",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1232324721126670345",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月3日",
+    "pub_ts": 1785761358,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "快注意到我吧～8(♡><)/♥",
+      "desc": "甜甜的天依送给大家！\nBGM：有華《Baby you》",
+      "jump_url": "https://www.bilibili.com/video/BV1PgMd6pEV1",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/8925b2ed29bdcb1204783b0bb4df8469e9cd22d8.jpg",
+      "cover_file": "../../_assets/covers/2026-08-03_2.jpg",
+      "bvid": "BV1PgMd6pEV1",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1PgMd6pEV1",
+        "aid": "117031651248677",
+        "cover": "http://i2.hdslb.com/bfs/archive/8925b2ed29bdcb1204783b0bb4df8469e9cd22d8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1PgMd6pEV1",
+        "stat": {
+          "danmaku": "529",
+          "play": "33.7万",
+          "vt": ""
+        },
+        "duration_text": "00:17",
+        "title": "快注意到我吧～8(♡><)/♥",
+        "desc": "甜甜的天依送给大家！\nBGM：有華《Baby you》",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 110348,
+    "comment": 2354,
+    "forward": 166
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:34:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

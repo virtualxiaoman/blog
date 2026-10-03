@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1152863282072125497",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1152863282072125497",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "1月1日",
+    "pub_ts": 1767260300,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2026年的收藏夹天依也建好啦！期待大家的创作[洛天依动态流光协奏_打call]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2026年的收藏夹天依也建好啦！期待大家的创作"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依动态流光协奏_打call]",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "name": "打call",
+        "url": "https://i0.hdslb.com/bfs/garb/527b1a12dc29ce5c85d5d55d5b53ba2b2af60054.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8399/打call.gif",
+        "package_id": "8399",
+        "emoji_id": "115668",
+        "text": "[洛天依动态流光协奏_打call]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3812,
+    "comment": 63,
+    "forward": 52
+  },
+  "forward": {
+    "orig_id": 1152853405765468176,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-01/2026-01-01_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:12:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

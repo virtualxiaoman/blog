@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1090945478759022617",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1090945478759022617",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月18日",
+    "pub_ts": 1752843938,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "舞美灯光展示【洛天依流光协奏全息巡回演唱会】",
+      "desc": "一点点搭建梦想的舞台，一步步奔赴我们的约定\n屏幕、灯光、舞台、音响、音乐......\n一切准备就绪，天依在这里静候你的光临。\n7月19日，大家！我们北京见啦~",
+      "jump_url": "https://www.bilibili.com/video/BV1FguUzVEA7",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/367e772169ccc482eaab6428459df16ff356d11f.jpg",
+      "cover_file": "../../_assets/covers/2025-07-18_4.jpg",
+      "bvid": "BV1FguUzVEA7",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1FguUzVEA7",
+        "aid": "114874352928220",
+        "cover": "http://i2.hdslb.com/bfs/archive/367e772169ccc482eaab6428459df16ff356d11f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1FguUzVEA7",
+        "stat": {
+          "danmaku": "75",
+          "play": "6.4万",
+          "vt": ""
+        },
+        "duration_text": "00:39",
+        "title": "舞美灯光展示【洛天依流光协奏全息巡回演唱会】",
+        "desc": "一点点搭建梦想的舞台，一步步奔赴我们的约定\n屏幕、灯光、舞台、音响、音乐......\n一切准备就绪，天依在这里静候你的光临。\n7月19日，大家！我们北京见啦~",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10476,
+    "comment": 1056,
+    "forward": 73
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

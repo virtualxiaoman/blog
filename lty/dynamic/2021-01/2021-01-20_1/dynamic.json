@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "482317989754848837",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/482317989754848837",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年1月20日",
+    "pub_ts": 1611136808,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 又到了农历腊月八日，面对多种多样的腊八粥，小伙伴喜欢什么口味的腊八粥？会加哪些食材？ 不管怎说，寒冷的冬日喝上一碗热腾腾的粥，的确是件非常幸福的事，若是跟喜欢的家人朋友们一起享用，幸福感还会加倍哦[洛天依·夜航星_饿了] 希望你们会喜欢这有点“特别”的粥~   Illustration by Haku\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 又到了农历腊月八日，面对多种多样的腊八粥，小伙伴喜欢什么口味的腊八粥？会加哪些食材？ 不管怎说，寒冷的冬日喝上一碗热腾腾的粥，的确是件非常幸福的事，若是跟喜欢的家人朋友们一起享用，幸福感还会加倍哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_饿了]",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "name": "饿了",
+        "url": "http://i0.hdslb.com/bfs/emote/5455abac01a22978b20ec0b365c214a872a0fd14.png"
+      },
+      {
+        "type": "text",
+        "text": " 希望你们会喜欢这有点“特别”的粥~   Illustration by Haku"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-01-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/e3274cd356efe72d4033e576070ccab7adf88ff3.jpg",
+        "width": 2000,
+        "height": 1331,
+        "size_kb": 1451.29296875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/饿了.png",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "text": "[洛天依·夜航星_饿了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8704,
+    "comment": 443,
+    "forward": 177
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:27:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

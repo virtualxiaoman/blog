@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1090897714440306787",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1090897714440306787",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月18日",
+    "pub_ts": 1752832817,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&神山羊_有機酸】双人版MAO！来啦~",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1PYgNzaExj",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/00edb12f9419cb166ad8585f635e8dc96ba79b40.jpg",
+      "cover_file": "../../_assets/covers/2025-07-18_2.jpg",
+      "bvid": "BV1PYgNzaExj",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1PYgNzaExj",
+        "aid": "114867893706265",
+        "cover": "http://i2.hdslb.com/bfs/archive/00edb12f9419cb166ad8585f635e8dc96ba79b40.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1PYgNzaExj",
+        "stat": {
+          "danmaku": "224",
+          "play": "35.8万",
+          "vt": ""
+        },
+        "duration_text": "03:19",
+        "title": "【洛天依&神山羊_有機酸】双人版MAO！来啦~",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 31600,
+    "comment": 777,
+    "forward": 20
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:35:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

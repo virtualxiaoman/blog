@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "1124204696199757832",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1124204696199757832",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月16日",
+    "pub_ts": 1760587703,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "转发关注天依，揪1位小伙伴送出【系列收藏卡】1盒~[逆转童话动态_结婚]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发关注天依，揪1位小伙伴送出【系列收藏卡】1盒~"
+      },
+      {
+        "type": "emoji",
+        "text": "[逆转童话动态_结婚]",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "name": "结婚",
+        "url": "https://i0.hdslb.com/bfs/garb/6852f07c7fb4c503228ad363aecdbc3d02e8cbcc.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/8744/结婚.gif",
+        "package_id": "8744",
+        "emoji_id": "121355",
+        "text": "[逆转童话动态_结婚]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4619,
+    "comment": 1056,
+    "forward": 2763
+  },
+  "forward": {
+    "orig_id": 1124171614154391573,
+    "orig_mid": 1971428019,
+    "deleted": false,
+    "archive_dir": "../../../1971428019/2025-10/2025-10-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:41:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "545721568290466381",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/545721568290466381",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年7月10日",
+    "pub_ts": 1625899104,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我是#洛天依9th生日纪念#的NO.000001号真爱粉，靓号在手，走路带风，解锁专属粉丝卡片，使用专属粉丝装扮，你也来生成你的专属秀起来吧！网页链接\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我是"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依9th生日纪念#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D9th%E7%94%9F%E6%97%A5%E7%BA%AA%E5%BF%B5"
+      },
+      {
+        "type": "text",
+        "text": "的NO.000001号真爱粉，靓号在手，走路带风，解锁专属粉丝卡片，使用专属粉丝装扮，你也来生成你的专属秀起来吧！"
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=5766&q=48986954380243497"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-07-10_2.png",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/bcef7efb3da6576e6580dd266e40019d0aea06e5.png",
+        "width": 1012,
+        "height": 415,
+        "size_kb": 492.267578125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "common",
+      "title": "洛天依9th生日纪念",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=5766",
+      "cover_url": "https://i0.hdslb.com/bfs/garb/7f6cc9753189896726d0563bd62960abfc4bcddd.png",
+      "cover_file": "../../_assets/covers/2021-07-10_4.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去看看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=5766",
+          "check": null,
+          "uncheck": null,
+          "status": 0,
+          "click_type": 0
+        },
+        "sub_type": "decoration",
+        "head_text": "相关装扮",
+        "jump_url": "https://www.bilibili.com/h5/mall/suit/detail?navhide=1&id=5766",
+        "id_str": "5766",
+        "cover": "https://i0.hdslb.com/bfs/garb/7f6cc9753189896726d0563bd62960abfc4bcddd.png",
+        "style": 1,
+        "title": "洛天依9th生日纪念",
+        "desc1": "包括头像挂件等10件装扮内容",
+        "desc2": "3.7万人已购买"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8955,
+    "comment": 2290,
+    "forward": 102
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:32:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

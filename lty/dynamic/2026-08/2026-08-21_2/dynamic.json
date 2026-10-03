@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "1238960673192411145",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1238960673192411145",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月21日",
+    "pub_ts": 1787306411,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "【洛天依原创曲】༺花环与桂冠༻【叙事风/PV付】\n本曲纯属虚构，且含有创作夸张成分，请勿代入现实\n————————\n演唱：洛天依\n作词/作曲/编曲/调音/混音/视频：JUSF周存\n曲绘：Sya",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "【洛天依原创曲】༺花环与桂冠༻【叙事风/PV付】\n本曲纯属虚构，且含有创作夸张成分，请勿代入现实\n————————\n演唱：洛天依\n作词/作曲/编曲/调音/混音/视频：JUSF周存\n曲绘：Sya"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依原创曲】༺花环与桂冠༻【叙事风/PV付】",
+      "desc": "【洛天依原创曲】✿花环与桂冠✿【叙事风/PV付】\n本曲纯属虚构，且含有创作夸张成分，请勿代入现实\n————————\n演唱：洛天依\n作词/作曲/编曲/调音/混音/视频：JUSF周存\n曲绘：Sya",
+      "jump_url": "https://www.bilibili.com/video/BV1D88J6EE2x",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/e3f52312fbb8107df4a3e2c79b8f9adb85b0968c.jpg",
+      "cover_file": "../../_assets/covers/2026-08-21_1.jpg",
+      "bvid": "BV1D88J6EE2x",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1D88J6EE2x",
+        "aid": "117122214664116",
+        "cover": "http://i1.hdslb.com/bfs/archive/e3f52312fbb8107df4a3e2c79b8f9adb85b0968c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1D88J6EE2x",
+        "stat": {
+          "danmaku": "1069",
+          "play": "37.4万",
+          "vt": ""
+        },
+        "duration_text": "05:21",
+        "title": "【洛天依原创曲】༺花环与桂冠༻【叙事风/PV付】",
+        "desc": "【洛天依原创曲】✿花环与桂冠✿【叙事风/PV付】\n本曲纯属虚构，且含有创作夸张成分，请勿代入现实\n————————\n演唱：洛天依\n作词/作曲/编曲/调音/混音/视频：JUSF周存\n曲绘：Sya",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 38463,
+    "comment": 2476,
+    "forward": 23
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:09+08:00",
+    "force": false,
+    "failures": []
+  }
+}

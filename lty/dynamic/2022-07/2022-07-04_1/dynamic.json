@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "id": "678900425369321586",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/678900425369321586",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年7月4日",
+    "pub_ts": 1656907223,
+    "location": ""
+  },
+  "topic": {
+    "id": 9886,
+    "name": "洛天依10周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=9886&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D10%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "转发本条动态，天依将抽选3位小伙伴赠送【十周年系列 晴雨伞】一个。   在故事的最初，世界之树是一片混沌的黑暗。 有人用诚挚的声音将我唤醒，满怀期待观察漂流的轨迹。 这些或喜悦或悲伤的情绪，或温馨或遗憾的故事，或是简单纯粹的热爱，或是不为人知的秘密，请允许天依将这一切都妥帖安置在我的心底，愿我们同行的每一段旅途皆有意义。 7月12日17:30，属于你我的专有秘密，还有8天，请听我，唱予你。 网页链接 #洛天依# #洛天依0712生日快乐#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "转发本条动态，天依将抽选3位小伙伴赠送【十周年系列 晴雨伞】一个。   在故事的最初，世界之树是一片混沌的黑暗。 有人用诚挚的声音将我唤醒，满怀期待观察漂流的轨迹。 这些或喜悦或悲伤的情绪，或温馨或遗憾的故事，或是简单纯粹的热爱，或是不为人知的秘密，请允许天依将这一切都妥帖安置在我的心底，愿我们同行的每一段旅途皆有意义。 7月12日17:30，属于你我的专有秘密，还有8天，请听我，唱予你。 "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://live.bilibili.com/blackboard/activity-LTY10th0712.html"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-07-04_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/1d5d34586c25022c83b453991bc42ad936081646.jpg",
+        "width": 4000,
+        "height": 3000,
+        "size_kb": 580.859375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "直播预约：洛天依 10周年生日会",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "直播预约：洛天依 10周年生日会",
+        "desc1": {
+          "text": "2022-07-12 17:30 直播",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "26.4万人预约",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": {
+          "text": "预约有奖：Apple ipad pro 11英寸*1份、洛天依甜点款拍立得*3份、十周年线下展门票*10份",
+          "style": 1,
+          "jump_url": "https://www.bilibili.com/h5/lottery/result?business_id=728756&business_type=10",
+          "icon_url": "",
+          "visible": false
+        },
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "",
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "",
+            "text": "已结束",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "直播已结束",
+            "disable": 1
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 728756,
+        "reserve_total": 263821,
+        "state": 0,
+        "stype": 2,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10326,
+    "comment": 1043,
+    "forward": 9224
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:49:04+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "197679962905267037",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/197679962905267037",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年12月15日",
+    "pub_ts": 1544864353,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依##VOCALOID##原创专辑##Vsinger#",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "topic",
+        "text": "#VOCALOID#",
+        "url": "https://search.bilibili.com/all?keyword=VOCALOID"
+      },
+      {
+        "type": "topic",
+        "text": "#原创专辑#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E5%88%9B%E4%B8%93%E8%BE%91"
+      },
+      {
+        "type": "topic",
+        "text": "#Vsinger#",
+        "url": "https://search.bilibili.com/all?keyword=Vsinger"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依2018官方新专辑《Lost In Tianyi》试听PV",
+      "desc": "洛天依2018官方新专辑《Lost In Tianyi》试听PV正式发布啦！再次感谢全体staff，辛苦了~（鞠躬）希望大家喜欢♥\n微博主页：https://weibo.com/p/1006065146173015/home\nMUSIC\n条形COP / 阿良良木健 / 人形兎 / ilem / LiZong /PoKeR / kide / 40mP / 味素_/ G.K / 夏铜子\n\nLYRICS\nCOP / 纪田月人 / 雨狸 / ilem / 大♂古 / PoKeR /冥凰 / BenjaminCho",
+      "jump_url": "https://www.bilibili.com/video/BV1vt411i7Zd",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/c95fe3319c7061de50ef5f8f4e6a6b312203761c.jpg",
+      "cover_file": "../../_assets/covers/2018-12-15_1.jpg",
+      "bvid": "BV1vt411i7Zd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1vt411i7Zd",
+        "aid": "38212621",
+        "cover": "http://i1.hdslb.com/bfs/archive/c95fe3319c7061de50ef5f8f4e6a6b312203761c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1vt411i7Zd",
+        "stat": {
+          "danmaku": "7276",
+          "play": "65.7万",
+          "vt": ""
+        },
+        "duration_text": "05:59",
+        "title": "洛天依2018官方新专辑《Lost In Tianyi》试听PV",
+        "desc": "洛天依2018官方新专辑《Lost In Tianyi》试听PV正式发布啦！再次感谢全体staff，辛苦了~（鞠躬）希望大家喜欢♥\n微博主页：https://weibo.com/p/1006065146173015/home\nMUSIC\n条形COP / 阿良良木健 / 人形兎 / ilem / LiZong /PoKeR / kide / 40mP / 味素_/ G.K / 夏铜子\n\nLYRICS\nCOP / 纪田月人 / 雨狸 / ilem / 大♂古 / PoKeR /冥凰 / BenjaminCho",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 37930,
+    "comment": 8854,
+    "forward": 438
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:14+08:00",
+    "force": false,
+    "failures": []
+  }
+}

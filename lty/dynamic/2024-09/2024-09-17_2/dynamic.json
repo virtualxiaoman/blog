@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "978095363377332227",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/978095363377332227",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月17日",
+    "pub_ts": 1726568973,
+    "location": ""
+  },
+  "topic": {
+    "id": 1220214,
+    "name": "洛天依喊你去看演唱会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1220214&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%96%8A%E4%BD%A0%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "洛天依无限共鸣全息演唱会线下观演活动举办决定&线上放送形式公开！[心律共鸣动态表情包_共鸣之声]\n\n“或许无法相逢在最难忘的夜晚，但这场你我期待已久的盛会，就让它再蔓延，再续写，直到链接每一个你我，铺满我们的回忆。”\n\n🪐影院放送决定\n活动时间：10 月 7 日 16:00\n售票时间：9 月 21 日 12:00\n活动票价：¥108\n（随票附赠周边礼品一份）\n\n🎤线上放送决定\n回放将以充电专属视频的形式投稿\n投稿时间：10 月 8 日 0:00\n充电定价：88 元（包月充电）\n观看时间：10月8 日-11 月 7 日\n专属权益：洛天依收藏集 5 抽，充电专属抽奖\n\n具体影厅等详情小伙伴们请戳长图查看哦！[心律共鸣动态表情包_真好]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "洛天依无限共鸣全息演唱会线下观演活动举办决定&线上放送形式公开！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_共鸣之声]",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "name": "共鸣之声",
+        "url": "https://i0.hdslb.com/bfs/emote/6707f0d70949a12fe94a919ab3b183afca52c2ec.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“或许无法相逢在最难忘的夜晚，但这场你我期待已久的盛会，就让它再蔓延，再续写，直到链接每一个你我，铺满我们的回忆。”\n\n🪐影院放送决定\n活动时间：10 月 7 日 16:00\n售票时间：9 月 21 日 12:00\n活动票价：¥108\n（随票附赠周边礼品一份）\n\n🎤线上放送决定\n回放将以充电专属视频的形式投稿\n投稿时间：10 月 8 日 0:00\n充电定价：88 元（包月充电）\n观看时间：10月8 日-11 月 7 日\n专属权益：洛天依收藏集 5 抽，充电专属抽奖\n\n具体影厅等详情小伙伴们请戳长图查看哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-17_2.png",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/4c4dc590f64401eec3fb12f86fdfb10436081646.png",
+        "width": 960,
+        "height": 4900,
+        "size_kb": 6101.8359375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/共鸣之声.gif",
+        "package_id": "5582",
+        "emoji_id": "81878",
+        "text": "[心律共鸣动态表情包_共鸣之声]"
+      },
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "上海·洛天依2024无限共鸣演唱会",
+            "price": "¥480",
+            "cover": "https://i0.hdslb.com/bfs/openplatform/202408/or0iy18f1724401612225.jpeg",
+            "jump_url": "https://mall.bilibili.com/neul-next/ticket/detail.html?noTitleBar=1&id=91180&msource=cps_Mdynamic_36081646_cont-2-978095363377332227&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-09-17_1.jpeg"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5674,
+    "comment": 1805,
+    "forward": 186
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:26+08:00",
+    "force": false,
+    "failures": []
+  }
+}

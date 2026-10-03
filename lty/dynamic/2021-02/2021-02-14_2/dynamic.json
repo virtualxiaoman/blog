@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "491536862182931255",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/491536862182931255",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年2月14日",
+    "pub_ts": 1613283244,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 今天是情人节，也是向平时关照自己的人表示感谢的日子。 因为有你们在，天依才能踏上各式各样的舞台，演唱不同风格的歌曲。 谢谢大家一直以来的鼓励，这一刻，能收下天依的心意吗？[洛天依_害羞]  画师：@-TID- \n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 今天是情人节，也是向平时关照自己的人表示感谢的日子。 因为有你们在，天依才能踏上各式各样的舞台，演唱不同风格的歌曲。 谢谢大家一直以来的鼓励，这一刻，能收下天依的心意吗？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_害羞]",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "name": "害羞",
+        "url": "http://i0.hdslb.com/bfs/emote/6f252dc101140281ee67d39b089107086d51557b.png"
+      },
+      {
+        "type": "text",
+        "text": "  画师："
+      },
+      {
+        "type": "mention",
+        "text": "@-TID- ",
+        "mid": 1329489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-02-14_2.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/00b77ff358fb5f3fb490819d174c10bacfb6bf48.jpg",
+        "width": 1364,
+        "height": 2000,
+        "size_kb": 2025.8173828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/害羞.png",
+        "package_id": "101",
+        "emoji_id": "2207",
+        "text": "[洛天依_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14184,
+    "comment": 1136,
+    "forward": 274
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:28:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

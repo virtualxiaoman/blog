@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "id": "846024131169222675",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/846024131169222675",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月27日",
+    "pub_ts": 1695818743,
+    "location": ""
+  },
+  "topic": {
+    "id": 1104333,
+    "name": "雪王天依 甜蜜出击",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1104333&topic_name=%E9%9B%AA%E7%8E%8B%E5%A4%A9%E4%BE%9D+%E7%94%9C%E8%9C%9C%E5%87%BA%E5%87%BB"
+  },
+  "content": {
+    "title": "",
+    "text": "你爱我我爱你，来看雪王和天依~🎶\n\n9月28日12:00，天依游学记X雪王《甜蜜蜜》动画MV\nQQ弹弹小天依，可可爱爱小雪王\n一起来唱歌吧，一起来跳舞吧—— [天依游学记_谢谢你]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "你爱我我爱你，来看雪王和天依~🎶\n\n9月28日12:00，天依游学记X雪王《甜蜜蜜》动画MV\nQQ弹弹小天依，可可爱爱小雪王\n一起来唱歌吧，一起来跳舞吧—— "
+      },
+      {
+        "type": "emoji",
+        "text": "[天依游学记_谢谢你]",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "name": "谢谢你",
+        "url": "https://i0.hdslb.com/bfs/garb/item/2ba27e230149d1edca4fb9b0cdf0494fdf56214c.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-09-27_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/c802db21c1ce414a3a9dcaaa958ef41436081646.jpg",
+        "width": 1548,
+        "height": 858,
+        "size_kb": 692.0888671875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-09-27_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/92f1e5dd91e5f04ea8941c4cb638588e36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1161.7421875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-09-27_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7e8890f8bb19903c425848a65eb3548736081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 867.490234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2023-09-27_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1589b0ba3cfd22bb0a50e04de9f8d51f36081646.jpg",
+        "width": 1920,
+        "height": 1080,
+        "size_kb": 1151.47265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/2363/谢谢你.png",
+        "package_id": "2363",
+        "emoji_id": "41450",
+        "text": "[天依游学记_谢谢你]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "reserve",
+      "title": "视频预约：【天依X雪王】民乐版甜蜜蜜 | 天依雪王 甜蜜出击",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1fj41187R8",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "title": "视频预约：【天依X雪王】民乐版甜蜜蜜 | 天依雪王 甜蜜出击",
+        "desc1": {
+          "text": "预计2023-09-28 12:00发布",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": false
+        },
+        "desc2": {
+          "text": "81.4万观看",
+          "style": 0,
+          "jump_url": "",
+          "icon_url": "",
+          "visible": true
+        },
+        "desc3": null,
+        "premiere": null,
+        "badge_text": "",
+        "jump_url": "//www.bilibili.com/video/BV1fj41187R8",
+        "button": {
+          "type": 1,
+          "jump_style": {
+            "icon_url": "",
+            "text": "去观看",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "jump_url": "//www.bilibili.com/video/BV1fj41187R8",
+          "check": {
+            "icon_url": "",
+            "text": "已预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "https://i0.hdslb.com/bfs/album/1d6af68e116985828780dd843ef435ccd6307e63.png",
+            "text": "预约",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "rid": 3208665,
+        "reserve_total": 3907,
+        "state": 0,
+        "stype": 1,
+        "up_mid": "36081646"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5555,
+    "comment": 243,
+    "forward": 49
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:58:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

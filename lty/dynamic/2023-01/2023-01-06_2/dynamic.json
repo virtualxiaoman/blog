@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "748014983387807813",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/748014983387807813",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年1月6日",
+    "pub_ts": 1672999210,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "G星竟然有着同L星一样的楼宇建筑、城市布局，仿佛就是文明湮灭之前的L星。\n她们在这里发现了十分眼熟的通道入口。\n实验室大门缓缓打开，一个人迎面走来——\n“你们终于来了。”\n#洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "G星竟然有着同L星一样的楼宇建筑、城市布局，仿佛就是文明湮灭之前的L星。\n她们在这里发现了十分眼熟的通道入口。\n实验室大门缓缓打开，一个人迎面走来——\n“你们终于来了。”\n"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-01-06_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/67e3ea85c32a48cc066d54911b7eafee36081646.jpg",
+        "width": 10000,
+        "height": 5590,
+        "size_kb": 9173.728515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11640,
+    "comment": 508,
+    "forward": 170
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:49:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

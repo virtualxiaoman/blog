@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "846706880639139920",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/846706880639139920",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年9月29日",
+    "pub_ts": 1695977708,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "诶嘿，是我赢啦！！虽然是墨姐有放水，以及感谢阿绫搞事[古色花香洛天依_狂喜]大家有没有被天依骗到呀？[古色花香洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "诶嘿，是我赢啦！！虽然是墨姐有放水，以及感谢阿绫搞事"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_狂喜]",
+        "package_id": "1096",
+        "emoji_id": "19446",
+        "name": "狂喜",
+        "url": "https://i0.hdslb.com/bfs/garb/item/9f6bc0b6e7b69402561aa8d8084292bf61bd1742.png"
+      },
+      {
+        "type": "text",
+        "text": "大家有没有被天依骗到呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[古色花香洛天依_wink]",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/item/a9a0332f0a2cabaf7b1e099c6897689e421ee12a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1096/狂喜.png",
+        "package_id": "1096",
+        "emoji_id": "19446",
+        "text": "[古色花香洛天依_狂喜]"
+      },
+      {
+        "file": "../../_assets/emojis/1096/wink.png",
+        "package_id": "1096",
+        "emoji_id": "19439",
+        "text": "[古色花香洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3912,
+    "comment": 127,
+    "forward": 13
+  },
+  "forward": {
+    "orig_id": 846692196139663366,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2023-09/2023-09-29_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:58:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

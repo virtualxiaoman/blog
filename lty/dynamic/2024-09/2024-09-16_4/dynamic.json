@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "977745525431336997",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/977745525431336997",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月16日",
+    "pub_ts": 1726487520,
+    "location": ""
+  },
+  "topic": {
+    "id": 1227830,
+    "name": "花好月圆bilibili中秋晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1227830&topic_name=%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%86bilibili%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "电子白月光上线，简直就是一场完美的赛博视听盛宴！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "电子白月光上线，简直就是一场完美的赛博视听盛宴！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依 《又见·明月光》月光与回忆再降临【2024中秋漫游夜】",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1VF4ZeVEXk",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/b3693964d2030fe7ac2dfaa6518bc4c15df39378.jpg",
+      "cover_file": "../../_assets/covers/2024-09-16_4.jpg",
+      "bvid": "BV1VF4ZeVEXk",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1VF4ZeVEXk",
+        "aid": "113130445215816",
+        "cover": "http://i0.hdslb.com/bfs/archive/b3693964d2030fe7ac2dfaa6518bc4c15df39378.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1VF4ZeVEXk",
+        "stat": {
+          "danmaku": "1509",
+          "play": "68.8万",
+          "vt": ""
+        },
+        "duration_text": "04:04",
+        "title": "洛天依 《又见·明月光》月光与回忆再降临【2024中秋漫游夜】",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "花好月圆会·2024bilibili中秋漫游夜",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss48524",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/699304f60dd83192e6dafa80ff4bc72f28bcf201.jpg",
+      "cover_file": "../../_assets/covers/2024-09-16_5.jpg",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 1,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss48524",
+        "id_str": "113130445215816",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/699304f60dd83192e6dafa80ff4bc72f28bcf201.jpg",
+        "style": 2,
+        "title": "花好月圆会·2024bilibili中秋漫游夜",
+        "desc1": "bilibili出品 已完结, 全2集",
+        "desc2": "11.6万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 26650,
+    "comment": 1557,
+    "forward": 2768
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:21+08:00",
+    "force": false,
+    "failures": []
+  }
+}

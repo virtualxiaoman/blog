@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "1170035935713165336",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/1170035935713165336",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月17日",
+    "pub_ts": 1771258620,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "都在零点发，那天依也要发！[乐鸣东方动态表情包_盯]\n快赶不上了！大家，新年快乐！！[乐鸣东方动态表情包_干杯]\n谢谢大家，天依这几天过得非常充实哦～[乐鸣东方动态表情包_骄傲]\n新的一年，天依祝大家马上好运，马上发财，马上有惊喜～当然，最希望的是大家平安健康，开开心心，好好爱惜自己就好啦！[洛天依八音奇响动态_爱意]再陪伴天依再多走远一些，就最最最好啦～[洛天依八音奇响动态_咪]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "都在零点发，那天依也要发！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_盯]",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "name": "盯",
+        "url": "https://i0.hdslb.com/bfs/garb/ff98a785aa8db6e1f9c7fa24224bcaba4fed2e5a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n快赶不上了！大家，新年快乐！！"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_干杯]",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/garb/b70745aff9020746e5ceb8b2c665f7c220965233.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n谢谢大家，天依这几天过得非常充实哦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_骄傲]",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/90f6913236ea8c76ed65669cd4a5e7e25de676f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n新的一年，天依祝大家马上好运，马上发财，马上有惊喜～当然，最希望的是大家平安健康，开开心心，好好爱惜自己就好啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_爱意]",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "name": "爱意",
+        "url": "https://i0.hdslb.com/bfs/garb/2d9d63684b8182b7ede4ee75e1b29abf10099c00.gif"
+      },
+      {
+        "type": "text",
+        "text": "再陪伴天依再多走远一些，就最最最好啦～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依八音奇响动态_咪]",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "name": "咪",
+        "url": "https://i0.hdslb.com/bfs/garb/a1d9ec5007773e95465498bdf0894647f39191b1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/盯.gif",
+        "package_id": "9343",
+        "emoji_id": "131151",
+        "text": "[乐鸣东方动态表情包_盯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/干杯.gif",
+        "package_id": "9343",
+        "emoji_id": "131157",
+        "text": "[乐鸣东方动态表情包_干杯]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/骄傲.gif",
+        "package_id": "9343",
+        "emoji_id": "131164",
+        "text": "[乐鸣东方动态表情包_骄傲]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/爱意.gif",
+        "package_id": "8362",
+        "emoji_id": "115077",
+        "text": "[洛天依八音奇响动态_爱意]"
+      },
+      {
+        "file": "../../_assets/emojis/8362/咪.gif",
+        "package_id": "8362",
+        "emoji_id": "115069",
+        "text": "[洛天依八音奇响动态_咪]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 16092,
+    "comment": 2501,
+    "forward": 204
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:17:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

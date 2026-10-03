@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1027491537421860888",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1027491537421860888",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月28日",
+    "pub_ts": 1738069916,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "天星问【2025拜年纪单品】",
+      "desc": "——煌煌河汉，以正四方，天垂万象，引路浩汤，枯荣有数，屡变星霜，天行有常，本不为古今更易、人事存亡。",
+      "jump_url": "https://www.bilibili.com/video/BV1AvfpYsE4t",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/cf900f374c534ba5d6ca957d48d5d279ea331100.jpg",
+      "cover_file": "../../_assets/covers/2025-01-28_1.jpg",
+      "bvid": "BV1AvfpYsE4t",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1AvfpYsE4t",
+        "aid": "113883876430736",
+        "cover": "http://i0.hdslb.com/bfs/archive/cf900f374c534ba5d6ca957d48d5d279ea331100.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1AvfpYsE4t",
+        "stat": {
+          "danmaku": "2.3万",
+          "play": "253.9万",
+          "vt": ""
+        },
+        "duration_text": "04:00",
+        "title": "天星问【2025拜年纪单品】",
+        "desc": "——煌煌河汉，以正四方，天垂万象，引路浩汤，枯荣有数，屡变星霜，天行有常，本不为古今更易、人事存亡。",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 106368,
+    "comment": 16475,
+    "forward": 64
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:26:53+08:00",
+    "force": false,
+    "failures": []
+  }
+}

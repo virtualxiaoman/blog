@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "1128284498470895622",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1128284498470895622",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年10月27日",
+    "pub_ts": 1761537606,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依十分期待与大家相聚！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依十分期待与大家相聚！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "2025bilibili跨年晚会12月上旬苏州录制！天依喊你报名，十分期待与大家相聚",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1AVsBzxEGX",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/4d1cdeb22c6474406ec739bf61fc5347a411a23c.jpg",
+      "cover_file": "../../_assets/covers/2025-10-27_1.jpg",
+      "bvid": "BV1AVsBzxEGX",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1AVsBzxEGX",
+        "aid": "115422582150644",
+        "cover": "http://i0.hdslb.com/bfs/archive/4d1cdeb22c6474406ec739bf61fc5347a411a23c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1AVsBzxEGX",
+        "stat": {
+          "danmaku": "189",
+          "play": "25.4万",
+          "vt": ""
+        },
+        "duration_text": "00:28",
+        "title": "2025bilibili跨年晚会12月上旬苏州录制！天依喊你报名，十分期待与大家相聚",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2025最美的夜 bilibili跨年晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss116324",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/db5a33680b687efa85aeec45fc258b0ea7e253ca.png",
+      "cover_file": "../../_assets/covers/2025-10-27_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 2,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss116324",
+        "id_str": "115422582150644",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/db5a33680b687efa85aeec45fc258b0ea7e253ca.png",
+        "style": 2,
+        "title": "2025最美的夜 bilibili跨年晚会",
+        "desc1": "独家 已完结, 全4集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 11116,
+    "comment": 957,
+    "forward": 32
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:41:46+08:00",
+    "force": false,
+    "failures": []
+  }
+}

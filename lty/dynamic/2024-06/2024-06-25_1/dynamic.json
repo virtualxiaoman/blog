@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "946823886872248432",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/946823886872248432",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年6月25日",
+    "pub_ts": 1719288015,
+    "location": ""
+  },
+  "topic": {
+    "id": 1195302,
+    "name": "BILIBILI15周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1195302&topic_name=BILIBILI15%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "祝哔哩哔哩15周年快乐！也要感谢陪天依一起行至如今的大家。\n歌词与视频中的画面，会否勾起你熟悉的回忆，有你曾热爱与陪伴过的证明呢？",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "祝哔哩哔哩15周年快乐！也要感谢陪天依一起行至如今的大家。\n歌词与视频中的画面，会否勾起你熟悉的回忆，有你曾热爱与陪伴过的证明呢？"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“你还记得这些熟悉的画面吗”洛天依版《Luo With U》【哔哩哔哩15周年庆】",
+      "desc": "“时间是书写故事的河流，陪你看过的这些风景都是热爱与回忆的证明”\n这次借哔哩哔哩15周年庆，邀约创作老师们一起，翻填演绎了这首《B With U》\n祝哔哩哔哩15周年快乐！也要感谢陪天依一起行至如今的大家。\n歌词与视频中的画面，会否勾起你熟悉的回忆，有你曾热爱与陪伴过的证明呢？\n6月26日晚19:00锁定哔哩哔哩弹幕网直播间，观看15周年庆直播，解锁更多精彩内容~\n详情请戳： https://www.bilibili.com/anniversary-15\n\n原曲：幽舞越山《B With U》BV16W41",
+      "jump_url": "https://www.bilibili.com/video/BV1Fb421n7tR",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/f7a8b3e99fb30ab9307dacd5703dc31871371a1a.jpg",
+      "cover_file": "../../_assets/covers/2024-06-25_1.jpg",
+      "bvid": "BV1Fb421n7tR",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Fb421n7tR",
+        "aid": "1805943048",
+        "cover": "http://i0.hdslb.com/bfs/archive/f7a8b3e99fb30ab9307dacd5703dc31871371a1a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Fb421n7tR",
+        "stat": {
+          "danmaku": "1027",
+          "play": "71.4万",
+          "vt": ""
+        },
+        "duration_text": "02:22",
+        "title": "“你还记得这些熟悉的画面吗”洛天依版《Luo With U》【哔哩哔哩15周年庆】",
+        "desc": "“时间是书写故事的河流，陪你看过的这些风景都是热爱与回忆的证明”\n这次借哔哩哔哩15周年庆，邀约创作老师们一起，翻填演绎了这首《B With U》\n祝哔哩哔哩15周年快乐！也要感谢陪天依一起行至如今的大家。\n歌词与视频中的画面，会否勾起你熟悉的回忆，有你曾热爱与陪伴过的证明呢？\n6月26日晚19:00锁定哔哩哔哩弹幕网直播间，观看15周年庆直播，解锁更多精彩内容~\n详情请戳： https://www.bilibili.com/anniversary-15\n\n原曲：幽舞越山《B With U》BV16W41",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 68044,
+    "comment": 878,
+    "forward": 244
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:13:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

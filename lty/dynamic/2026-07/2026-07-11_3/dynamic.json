@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1223759491146711047",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1223759491146711047",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月11日",
+    "pub_ts": 1783767110,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "新模型，新曲目，新舞台，豪华天选好礼\n尽在7月12日「信号Signal」洛天依十四周年·共鸣之夜生日会！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "新模型，新曲目，新舞台，豪华天选好礼\n尽在7月12日「信号Signal」洛天依十四周年·共鸣之夜生日会！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依14周年生日会预告片【小洛包亲制版】",
+      "desc": "今年的生日会预告片该怎么做呢？\n只见天空一声巨响，洛包闪亮登场！\n我来——\n只见此包头顶假发片掀开，竟是一个巨亮投影仪\n生日会精彩内容徐徐展开，极简排版却更添震撼\n新模型，新曲目，新舞台，豪华天选好礼\n尽在7月12日「信号Signal」洛天依十四周年·共鸣之夜生日会！\n \n“天依大人，天依大人，包包的创意怎么样？”\n“打回去重——算了算了，万一有奇效呢，包包出击！”",
+      "jump_url": "https://www.bilibili.com/video/BV194Nc63Ehg",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/adeb7ab4ae37f43ffbc25b39bf5bef79641a3fe1.jpg",
+      "cover_file": "../../_assets/covers/2026-07-11_1.jpg",
+      "bvid": "BV194Nc63Ehg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV194Nc63Ehg",
+        "aid": "116900956735749",
+        "cover": "http://i1.hdslb.com/bfs/archive/adeb7ab4ae37f43ffbc25b39bf5bef79641a3fe1.jpg",
+        "jump_url": "//www.bilibili.com/video/BV194Nc63Ehg",
+        "stat": {
+          "danmaku": "617",
+          "play": "9.7万",
+          "vt": ""
+        },
+        "duration_text": "00:48",
+        "title": "洛天依14周年生日会预告片【小洛包亲制版】",
+        "desc": "今年的生日会预告片该怎么做呢？\n只见天空一声巨响，洛包闪亮登场！\n我来——\n只见此包头顶假发片掀开，竟是一个巨亮投影仪\n生日会精彩内容徐徐展开，极简排版却更添震撼\n新模型，新曲目，新舞台，豪华天选好礼\n尽在7月12日「信号Signal」洛天依十四周年·共鸣之夜生日会！\n \n“天依大人，天依大人，包包的创意怎么样？”\n“打回去重——算了算了，万一有奇效呢，包包出击！”",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25342,
+    "comment": 1238,
+    "forward": 157
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:29:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

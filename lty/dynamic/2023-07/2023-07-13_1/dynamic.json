@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817738073536200721",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817738073536200721",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689232882,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "66CCFF~ 66CCFF~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "66CCFF~ 66CCFF~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "超萌Q版天依助唱《66CCFF》【洛天依11周年生日会】",
+      "desc": "“用最大化的音量 唱出我的心跳，要让这次元，听见我的音色！”\n\n《66CCFF》\n作曲：杉田朗\n作词：皓月\n编曲：Jsoul\n调校：鬼面p\n原视频：BV1ix411F7TB",
+      "jump_url": "https://www.bilibili.com/video/BV1Uj411Z7np",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/82061734e0dd76c2b45af274b9b99d9dbfd920cf.jpg",
+      "cover_file": "../../_assets/covers/2023-07-13_1.jpg",
+      "bvid": "BV1Uj411Z7np",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1Uj411Z7np",
+        "aid": "445864993",
+        "cover": "http://i0.hdslb.com/bfs/archive/82061734e0dd76c2b45af274b9b99d9dbfd920cf.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1Uj411Z7np",
+        "stat": {
+          "danmaku": "573",
+          "play": "31.2万",
+          "vt": ""
+        },
+        "duration_text": "03:56",
+        "title": "超萌Q版天依助唱《66CCFF》【洛天依11周年生日会】",
+        "desc": "“用最大化的音量 唱出我的心跳，要让这次元，听见我的音色！”\n\n《66CCFF》\n作曲：杉田朗\n作词：皓月\n编曲：Jsoul\n调校：鬼面p\n原视频：BV1ix411F7TB",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36855,
+    "comment": 793,
+    "forward": 86
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:32+08:00",
+    "force": false,
+    "failures": []
+  }
+}

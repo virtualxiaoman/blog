@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "883081542791856150",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/883081542791856150",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月5日",
+    "pub_ts": 1704446844,
+    "location": ""
+  },
+  "topic": {
+    "id": 1142520,
+    "name": "用跨晚的方式打开歌行四方",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1142520&topic_name=%E7%94%A8%E8%B7%A8%E6%99%9A%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%AD%8C%E8%A1%8C%E5%9B%9B%E6%96%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "《歌行四方》【2023最美的夜】跨晚舞台100w播放达成啦！感谢大家对《歌行四方》的喜爱与支持，转发这条动态关注天依，揪1位小伙伴送出【BLACKRAY 洛天依 燃 手办】1个，揪5位小伙伴送出【洛天依收藏集】5抽1份。\n\n还有更多台前幕后的花絮想在达成新的目标带给大家~\n可以呈现出最终的跨晚舞台，天依的每一句歌声，每一次舞动都离不开许多staff老师的努力，希望他们都可以被大家看到哦！[洛天依歌行四方_送哈达]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "《歌行四方》【2023最美的夜】跨晚舞台100w播放达成啦！感谢大家对《歌行四方》的喜爱与支持，转发这条动态关注天依，揪1位小伙伴送出【BLACKRAY 洛天依 燃 手办】1个，揪5位小伙伴送出【洛天依收藏集】5抽1份。\n\n还有更多台前幕后的花絮想在达成新的目标带给大家~\n可以呈现出最终的跨晚舞台，天依的每一句歌声，每一次舞动都离不开许多staff老师的努力，希望他们都可以被大家看到哦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_送哈达]",
+        "package_id": "4128",
+        "emoji_id": "58605",
+        "name": "送哈达",
+        "url": "https://i0.hdslb.com/bfs/emote/8208f53ae2d39d6dfdfaa79e6888bf26ce961a1a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/送哈达.png",
+        "package_id": "4128",
+        "emoji_id": "58605",
+        "text": "[洛天依歌行四方_送哈达]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6682,
+    "comment": 3450,
+    "forward": 4190
+  },
+  "forward": {
+    "orig_id": 881303641053462677,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2023-12/2023-12-31_6"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

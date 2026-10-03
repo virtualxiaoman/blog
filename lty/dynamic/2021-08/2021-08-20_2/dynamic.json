@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "561037580579860013",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/561037580579860013",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年8月20日",
+    "pub_ts": 1629465141,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "小伙伴们注意啦！ #洛天依九周年# 应援征集活动明天就要结束了，感谢所有参加活动的小伙伴，带来那——么多优秀的作品[洛天依9th_好康！] 还有想要投稿的小伙伴，可以继续参与 #2021虚拟歌手创作赛# 哦[洛天依9th_一起唱]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "小伙伴们注意啦！ "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依九周年#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B9%9D%E5%91%A8%E5%B9%B4"
+      },
+      {
+        "type": "text",
+        "text": " 应援征集活动明天就要结束了，感谢所有参加活动的小伙伴，带来那——么多优秀的作品"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_好康！]",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "name": "好康！",
+        "url": "http://i0.hdslb.com/bfs/emote/674940a41dcef78fe3d67677b684fcd38ce64fbd.png"
+      },
+      {
+        "type": "text",
+        "text": " 还有想要投稿的小伙伴，可以继续参与 "
+      },
+      {
+        "type": "topic",
+        "text": "#2021虚拟歌手创作赛#",
+        "url": "https://search.bilibili.com/all?keyword=2021%E8%99%9A%E6%8B%9F%E6%AD%8C%E6%89%8B%E5%88%9B%E4%BD%9C%E8%B5%9B"
+      },
+      {
+        "type": "text",
+        "text": " 哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-08-20_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/32cbf6f0939a016d7cabe09813b4f91099cd988b.jpg",
+        "width": 790,
+        "height": 800,
+        "size_kb": 50.72999954223633,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/好康！.png",
+        "package_id": "255",
+        "emoji_id": "4231",
+        "text": "[洛天依9th_好康！]"
+      },
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 8528,
+    "comment": 212,
+    "forward": 39
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:34:30+08:00",
+    "force": false,
+    "failures": []
+  }
+}

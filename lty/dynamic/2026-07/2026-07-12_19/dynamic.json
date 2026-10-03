@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "1224154615251992577",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1224154615251992577",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "7月12日",
+    "pub_ts": 1783859107,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340984,
+    "name": "洛天依十四周年",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340984&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%8D%81%E5%9B%9B%E5%91%A8%E5%B9%B4"
+  },
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "“感谢你听过我的歌 除了这些我一无所有”《monologue》洛天依14周年生日会",
+      "desc": "如果你听过我的歌，带给你一丝丝的温柔\n就算总有一天没人记得我的名字，也不后悔我曾经来过\n\n作曲：味素、G.K、夏铜子\n编曲：味素、G.K\n作词：夏铜子\n调教：动点P",
+      "jump_url": "https://www.bilibili.com/video/BV1qqNu6qENX",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/783f8717ee15117de389b508603b676c7b57b12c.jpg",
+      "cover_file": "../../_assets/covers/2026-07-12_15.jpg",
+      "bvid": "BV1qqNu6qENX",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1qqNu6qENX",
+        "aid": "116906325575550",
+        "cover": "http://i0.hdslb.com/bfs/archive/783f8717ee15117de389b508603b676c7b57b12c.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1qqNu6qENX",
+        "stat": {
+          "danmaku": "301",
+          "play": "30.1万",
+          "vt": ""
+        },
+        "duration_text": "04:18",
+        "title": "“感谢你听过我的歌 除了这些我一无所有”《monologue》洛天依14周年生日会",
+        "desc": "如果你听过我的歌，带给你一丝丝的温柔\n就算总有一天没人记得我的名字，也不后悔我曾经来过\n\n作曲：味素、G.K、夏铜子\n编曲：味素、G.K\n作词：夏铜子\n调教：动点P",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25537,
+    "comment": 604,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:30:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

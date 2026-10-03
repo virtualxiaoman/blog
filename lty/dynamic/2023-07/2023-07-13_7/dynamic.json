@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "817812642778316805",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/817812642778316805",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月13日",
+    "pub_ts": 1689250244,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "“我怎会不知你挚爱纯蓝”",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“我怎会不知你挚爱纯蓝”"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "我怎会不知你挚爱《纯蓝》【洛天依11周年生日会】",
+      "desc": "“我怎会不知你挚爱纯蓝”\n\n《纯蓝》\n作曲/作词/调校：COP\n编曲：Jsoul\n原视频：BV1z64y1b7H4",
+      "jump_url": "https://www.bilibili.com/video/BV1hV411N7SD",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/3c914e2ade8f785adb645145698f9557fcbe236f.jpg",
+      "cover_file": "../../_assets/covers/2023-07-13_6.jpg",
+      "bvid": "BV1hV411N7SD",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1hV411N7SD",
+        "aid": "403445306",
+        "cover": "http://i0.hdslb.com/bfs/archive/3c914e2ade8f785adb645145698f9557fcbe236f.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1hV411N7SD",
+        "stat": {
+          "danmaku": "220",
+          "play": "16.2万",
+          "vt": ""
+        },
+        "duration_text": "03:09",
+        "title": "我怎会不知你挚爱《纯蓝》【洛天依11周年生日会】",
+        "desc": "“我怎会不知你挚爱纯蓝”\n\n《纯蓝》\n作曲/作词/调校：COP\n编曲：Jsoul\n原视频：BV1z64y1b7H4",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 25757,
+    "comment": 451,
+    "forward": 65
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:34+08:00",
+    "force": false,
+    "failures": []
+  }
+}

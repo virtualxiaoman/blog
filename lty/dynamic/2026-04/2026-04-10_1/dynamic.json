@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "id": "1189550854025248816",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1189550854025248816",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "4月10日",
+    "pub_ts": 1775802291,
+    "location": ""
+  },
+  "topic": {
+    "id": 1324267,
+    "name": "2025bilibili跨年晚会",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1324267&topic_name=2025bilibili%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A"
+  },
+  "content": {
+    "title": "",
+    "text": "馋哭了！黄子弘凡 × 洛天依《千年食谱颂 - 好饿版》太炸了！",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "馋哭了！黄子弘凡 × 洛天依《千年食谱颂 - 好饿版》太炸了！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【4K 60帧】双厨狂喜！黄子弘凡 × 洛天依《千年食谱颂 - 好饿版》馋哭全场！RAP舞台太炸了！【2025B站跨年晚会单品】",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/video/BV1iSiwBWExN",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/eb17dfdffca2268bbd9f984b6853821cbb810f38.jpg",
+      "cover_file": "../../_assets/covers/2026-04-10_1.jpg",
+      "bvid": "BV1iSiwBWExN",
+      "extra": {
+        "type": 2,
+        "bvid": "BV1iSiwBWExN",
+        "aid": "115810337035880",
+        "cover": "http://i0.hdslb.com/bfs/archive/eb17dfdffca2268bbd9f984b6853821cbb810f38.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1iSiwBWExN",
+        "stat": {
+          "danmaku": "4790",
+          "play": "141.3万",
+          "vt": ""
+        },
+        "duration_text": "05:12",
+        "title": "【4K 60帧】双厨狂喜！黄子弘凡 × 洛天依《千年食谱颂 - 好饿版》馋哭全场！RAP舞台太炸了！【2025B站跨年晚会单品】",
+        "desc": "",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    },
+    {
+      "kind": "common",
+      "title": "2025最美的夜 bilibili跨年晚会",
+      "desc": "",
+      "jump_url": "https://www.bilibili.com/bangumi/play/ss116324",
+      "cover_url": "https://i0.hdslb.com/bfs/bangumi/image/db5a33680b687efa85aeec45fc258b0ea7e253ca.png",
+      "cover_file": "../../_assets/covers/2026-04-10_2.png",
+      "bvid": "",
+      "extra": {
+        "button": {
+          "type": 2,
+          "jump_style": null,
+          "jump_url": "",
+          "check": {
+            "icon_url": "",
+            "text": "已追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "uncheck": {
+            "icon_url": "http://i0.hdslb.com/bfs/bangumi/154b6898d2b2c20c21ccef9e41fcf809b518ebb4.png",
+            "text": "追剧",
+            "interactive": null,
+            "bg_style": 0,
+            "toast": "",
+            "disable": 0
+          },
+          "status": 2,
+          "click_type": 0
+        },
+        "sub_type": "ogv",
+        "head_text": "相关作品",
+        "jump_url": "https://www.bilibili.com/bangumi/play/ss116324",
+        "id_str": "115810337035880",
+        "cover": "https://i0.hdslb.com/bfs/bangumi/image/db5a33680b687efa85aeec45fc258b0ea7e253ca.png",
+        "style": 2,
+        "title": "2025最美的夜 bilibili跨年晚会",
+        "desc1": "独家 已完结, 全4集",
+        "desc2": "858.9万系列追剧"
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 71045,
+    "comment": 4321,
+    "forward": 4
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:20:16+08:00",
+    "force": false,
+    "failures": []
+  }
+}

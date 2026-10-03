@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "818137411002302517",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/818137411002302517",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年7月14日",
+    "pub_ts": 1689325860,
+    "location": ""
+  },
+  "topic": {
+    "id": 1057404,
+    "name": "洛天依11周年生日快乐",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1057404&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D11%E5%91%A8%E5%B9%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+  },
+  "content": {
+    "title": "",
+    "text": "我的小心思会被察觉到吗？\n能不能鼓起勇气将情感都向你表达~",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我的小心思会被察觉到吗？\n能不能鼓起勇气将情感都向你表达~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "含糖量超标~来自天依的《恋爱色魔法》【洛天依11周年生日会】",
+      "desc": "我的小心思会被察觉到吗？\n能不能鼓起勇气将情感都向你表达~\n\n《恋爱色魔法》\n中文版\n作曲/编曲：HoneyWorks\n作词：key-光玉\n调校：哈士奇P\n\n日文版\n作曲/作词/编曲：HoneyWorks\n调校：周小蚕\n原视频：BV1pX4y1a7Cd",
+      "jump_url": "https://www.bilibili.com/video/BV1HV4y1b7St",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b1503607871a2cd7e72bfda9995461c69a6c138e.jpg",
+      "cover_file": "../../_assets/covers/2023-07-14_2.jpg",
+      "bvid": "BV1HV4y1b7St",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1HV4y1b7St",
+        "aid": "870933668",
+        "cover": "http://i2.hdslb.com/bfs/archive/b1503607871a2cd7e72bfda9995461c69a6c138e.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1HV4y1b7St",
+        "stat": {
+          "danmaku": "500",
+          "play": "42.3万",
+          "vt": ""
+        },
+        "duration_text": "03:57",
+        "title": "含糖量超标~来自天依的《恋爱色魔法》【洛天依11周年生日会】",
+        "desc": "我的小心思会被察觉到吗？\n能不能鼓起勇气将情感都向你表达~\n\n《恋爱色魔法》\n中文版\n作曲/编曲：HoneyWorks\n作词：key-光玉\n调校：哈士奇P\n\n日文版\n作曲/作词/编曲：HoneyWorks\n调校：周小蚕\n原视频：BV1pX4y1a7Cd",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 89822,
+    "comment": 851,
+    "forward": 99
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:55:35+08:00",
+    "force": false,
+    "failures": []
+  }
+}

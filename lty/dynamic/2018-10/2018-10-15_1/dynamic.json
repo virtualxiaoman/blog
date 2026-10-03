@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "175013062545841608",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/175013062545841608",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2018年10月15日",
+    "pub_ts": 1539586804,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "生活就是一个大大的战场，充满硝烟。愿你不畏困难，拒绝软弱，自信登场成为披荆斩棘的英雄！战场发号施令，看天依英雄出征！\n《英雄出征》\n演唱：洛天依\n作词：冥凰\n作曲/编曲：乌龟Sui\n调校：动点P\n设定：TID\n人物模型：石英世界、椛暗\n场景模型：Yoyo\n编舞：ogata-姚子\n分镜/动画：曦歪CY\n渲染/后期：Li漫研部洛天依鹊桥仙模型配布见投稿简介",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "生活就是一个大大的战场，充满硝烟。愿你不畏困难，拒绝软弱，自信登场成为披荆斩棘的英雄！战场发号施令，看天依英雄出征！\n《英雄出征》\n演唱：洛天依\n作词：冥凰\n作曲/编曲：乌龟Sui\n调校：动点P\n设定：TID\n人物模型：石英世界、椛暗\n场景模型：Yoyo\n编舞：ogata-姚子\n分镜/动画：曦歪CY\n渲染/后期：Li"
+      },
+      {
+        "type": "unknown",
+        "text": "漫研部",
+        "url": "https://www.bilibili.com/bangumi/play/ep9",
+        "node_type": "RICH_TEXT_NODE_TYPE_OGV_EP"
+      },
+      {
+        "type": "text",
+        "text": "洛天依鹊桥仙模型配布见投稿简介"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "【洛天依&300大作战】英雄出征",
+      "desc": "生活就是一个大大的战场，充满硝烟。愿你不畏困难，拒绝软弱，自信登场成为披荆斩棘的英雄！战场发号施令，看天依英雄出征！\n《英雄出征》\n演唱：洛天依\n作词：冥凰\n作曲/编曲：乌龟Sui\n调校：动点P\n设定：TID\n人物模型：石英世界、椛暗\n场景模型：Yoyo\n编舞：ogata-姚子\n分镜/动画：曦歪CY\n渲染/后期：LieP9\n洛天依鹊桥仙模型配布： \n链接：https://pan.baidu.com/s/1rujtPzlhg-rBdvjY4zjHLQ \n提取码：lfex\n期待大家的精彩作品！",
+      "jump_url": "https://www.bilibili.com/video/BV1gt411Z7xg",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/b3a292f73aefedb3796587a760f92f0272a7949a.jpg",
+      "cover_file": "../../_assets/covers/2018-10-15_1.jpg",
+      "bvid": "BV1gt411Z7xg",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1gt411Z7xg",
+        "aid": "33871703",
+        "cover": "http://i0.hdslb.com/bfs/archive/b3a292f73aefedb3796587a760f92f0272a7949a.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1gt411Z7xg",
+        "stat": {
+          "danmaku": "4555",
+          "play": "67.9万",
+          "vt": ""
+        },
+        "duration_text": "03:40",
+        "title": "【洛天依&300大作战】英雄出征",
+        "desc": "生活就是一个大大的战场，充满硝烟。愿你不畏困难，拒绝软弱，自信登场成为披荆斩棘的英雄！战场发号施令，看天依英雄出征！\n《英雄出征》\n演唱：洛天依\n作词：冥凰\n作曲/编曲：乌龟Sui\n调校：动点P\n设定：TID\n人物模型：石英世界、椛暗\n场景模型：Yoyo\n编舞：ogata-姚子\n分镜/动画：曦歪CY\n渲染/后期：LieP9\n洛天依鹊桥仙模型配布： \n链接：https://pan.baidu.com/s/1rujtPzlhg-rBdvjY4zjHLQ \n提取码：lfex\n期待大家的精彩作品！",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 36368,
+    "comment": 5959,
+    "forward": 273
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:19:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

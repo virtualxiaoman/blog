@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "1174764656073375766",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1174764656073375766",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "3月1日",
+    "pub_ts": 1772359611,
+    "location": ""
+  },
+  "topic": {
+    "id": 1330332,
+    "name": "洛天依国乐季",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1330332&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D%E5%9B%BD%E4%B9%90%E5%AD%A3"
+  },
+  "content": {
+    "title": "",
+    "text": "🎶天依游学记【歌行·国乐季】\n「笛琴」主题单曲《云弦鹤梦》3月3日即将启弦\n主题印象短片也即将解锁[乐鸣东方动态表情包_快哉]\n\n“莫求琴声中真意，山川替我诉通明”。\n知音难觅，山川为证；白羽既逝，余音长存。\n此去千山万水，唯有琴心与笛声相和，在天地寂寥处丈量情义的深浅——\n问世间何以为知己？不过是一曲高山流水，万里云间共鸣。[乐鸣东方动态表情包_知音]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "🎶天依游学记【歌行·国乐季】\n「笛琴」主题单曲《云弦鹤梦》3月3日即将启弦\n主题印象短片也即将解锁"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_快哉]",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "name": "快哉",
+        "url": "https://i0.hdslb.com/bfs/garb/83c4c5bad51a032d0d2d806550dd8bc172f8974d.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n“莫求琴声中真意，山川替我诉通明”。\n知音难觅，山川为证；白羽既逝，余音长存。\n此去千山万水，唯有琴心与笛声相和，在天地寂寥处丈量情义的深浅——\n问世间何以为知己？不过是一曲高山流水，万里云间共鸣。"
+      },
+      {
+        "type": "emoji",
+        "text": "[乐鸣东方动态表情包_知音]",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "name": "知音",
+        "url": "https://i0.hdslb.com/bfs/garb/75a559c572146d83bfc282b84a018ca1d6646a12.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-03-01_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/91f738a4ce668f38fb9c84655ad3fee336081646.jpg",
+        "width": 7200,
+        "height": 4050,
+        "size_kb": 12709.919921875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-03-01_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d4786b4841b377c27bbb5b0f43fe05c836081646.jpg",
+        "width": 2500,
+        "height": 10200,
+        "size_kb": 14235.6298828125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9343/快哉.gif",
+        "package_id": "9343",
+        "emoji_id": "131155",
+        "text": "[乐鸣东方动态表情包_快哉]"
+      },
+      {
+        "file": "../../_assets/emojis/9343/知音.gif",
+        "package_id": "9343",
+        "emoji_id": "131159",
+        "text": "[乐鸣东方动态表情包_知音]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7032,
+    "comment": 348,
+    "forward": 117
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:19:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

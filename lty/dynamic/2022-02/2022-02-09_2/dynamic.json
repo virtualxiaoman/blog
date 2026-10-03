@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "625202966051828809",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/625202966051828809",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月9日",
+    "pub_ts": 1644404809,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "绽放着，闪耀着~[洛天依9th_一起唱]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "绽放着，闪耀着~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 13118,
+    "comment": 377,
+    "forward": 158
+  },
+  "forward": {
+    "orig_id": 625195016074629667,
+    "orig_mid": 1329489,
+    "deleted": false,
+    "archive_dir": "../../../1329489/2022-02/2022-02-09_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:41:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

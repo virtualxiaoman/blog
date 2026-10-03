@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "id": "696462907373781000",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/696462907373781000",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年8月20日",
+    "pub_ts": 1660996307,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#好像回到了某个朗朗晴天的午后教室，你抬头看向窗外，忽然就想变成气球飞到白云里[洛天依·夜航星_起飞]很可爱的一首歌耶[洛天依·夜航星_摸摸]！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "好像回到了某个朗朗晴天的午后教室，你抬头看向窗外，忽然就想变成气球飞到白云里"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_起飞]",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "name": "起飞",
+        "url": "http://i0.hdslb.com/bfs/emote/4a7550236996e1cb329974c58b751ac462007338.png"
+      },
+      {
+        "type": "text",
+        "text": "很可爱的一首歌耶"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/起飞.png",
+        "package_id": "166",
+        "emoji_id": "3078",
+        "text": "[洛天依·夜航星_起飞]"
+      },
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7068,
+    "comment": 197,
+    "forward": 41
+  },
+  "forward": {
+    "orig_id": 695877494741401684,
+    "orig_mid": 24029881,
+    "deleted": false,
+    "archive_dir": "../../../24029881/2022-08/2022-08-19_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:53:40+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "962157401389137940",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/962157401389137940",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年8月5日",
+    "pub_ts": 1722858127,
+    "location": ""
+  },
+  "topic": {
+    "id": 1096490,
+    "name": "天依聊天室",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1096490&topic_name=%E5%A4%A9%E4%BE%9D%E8%81%8A%E5%A4%A9%E5%AE%A4"
+  },
+  "content": {
+    "title": "",
+    "text": "来自一支快乐过完生日来到8月的小天依的聊天室突击！！\n大家晚上好呀~吃过了没有呀~[洛天依·收藏集表情包_晚安]\n按照之前和大家的约定，天依想在生日结束后，由大家决定接下来的头像，那么，要换吗要换吗！如果换的话，大家想换成哪只天依呀？[洛天依·收藏集表情包_不要啊]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "来自一支快乐过完生日来到8月的小天依的聊天室突击！！\n大家晚上好呀~吃过了没有呀~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_晚安]",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "name": "晚安",
+        "url": "https://i0.hdslb.com/bfs/garb/f1189ccef7775ac7807879b6416fe0945417ba01.png"
+      },
+      {
+        "type": "text",
+        "text": "\n按照之前和大家的约定，天依想在生日结束后，由大家决定接下来的头像，那么，要换吗要换吗！如果换的话，大家想换成哪只天依呀？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·收藏集表情包_不要啊]",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "name": "不要啊",
+        "url": "https://i0.hdslb.com/bfs/garb/dde80658b0aca4ab88c6316498ac7e27a2455dfd.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5283/晚安.png",
+        "package_id": "5283",
+        "emoji_id": "77202",
+        "text": "[洛天依·收藏集表情包_晚安]"
+      },
+      {
+        "file": "../../_assets/emojis/5283/不要啊.png",
+        "package_id": "5283",
+        "emoji_id": "77188",
+        "text": "[洛天依·收藏集表情包_不要啊]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7991,
+    "comment": 873,
+    "forward": 70
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:17:54+08:00",
+    "force": false,
+    "failures": []
+  }
+}

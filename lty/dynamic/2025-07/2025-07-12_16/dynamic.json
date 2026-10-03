@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "id": "1088700769939488768",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1088700769939488768",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月12日",
+    "pub_ts": 1752321301,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "",
+    "blocks": [],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "现在马上自立为王 |《天才般的我》洛天依十三周年生日会",
+      "desc": "真的是“天才”吗？\n\n《天才般的我》\n作曲：LOMML\n作词：LOMML\n编曲：LOMML\n混音：LOMML\n调教：LOMML\n原pv：BV1ew4m1R7Tb",
+      "jump_url": "https://www.bilibili.com/video/BV1xwuTzqEx9",
+      "cover_url": "http://i0.hdslb.com/bfs/archive/16540fb6fcca2a5882abadb4947d0b7cbd43f338.jpg",
+      "cover_file": "../../_assets/covers/2025-07-12_9.jpg",
+      "bvid": "BV1xwuTzqEx9",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1xwuTzqEx9",
+        "aid": "114832309226009",
+        "cover": "http://i0.hdslb.com/bfs/archive/16540fb6fcca2a5882abadb4947d0b7cbd43f338.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1xwuTzqEx9",
+        "stat": {
+          "danmaku": "344",
+          "play": "97.4万",
+          "vt": ""
+        },
+        "duration_text": "03:28",
+        "title": "现在马上自立为王 |《天才般的我》洛天依十三周年生日会",
+        "desc": "真的是“天才”吗？\n\n《天才般的我》\n作曲：LOMML\n作词：LOMML\n编曲：LOMML\n混音：LOMML\n调教：LOMML\n原pv：BV1ew4m1R7Tb",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 24863,
+    "comment": 367,
+    "forward": 75
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:34:41+08:00",
+    "force": false,
+    "failures": []
+  }
+}

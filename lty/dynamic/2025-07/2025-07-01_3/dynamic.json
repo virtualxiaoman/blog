@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "1084603895109386242",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1084603895109386242",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年7月1日",
+    "pub_ts": 1751367423,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "恭喜@危机纪元7年@森林木防火@极恶YYH等5位同学中奖，已私信通知，详情请点击抽奖查看。",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "恭喜"
+      },
+      {
+        "type": "mention",
+        "text": "@危机纪元7年",
+        "mid": 3546377592244298,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@森林木防火",
+        "mid": 3493272785783154,
+        "url": ""
+      },
+      {
+        "type": "mention",
+        "text": "@极恶YYH",
+        "mid": 3546714558433467,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "等5位同学中奖，已私信通知，详情请点击抽奖查看。"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3495,
+    "comment": 56,
+    "forward": 25
+  },
+  "forward": {
+    "orig_id": 1061597331561906199,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../../2025-04/2025-04-30_3"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:32:31+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "890554244735696901",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/890554244735696901",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年1月25日",
+    "pub_ts": 1706186718,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "关于夏天最浪漫的想象，就是和你牵手吹着海风，追逐海浪和夕阳~[洛天依蝶变_害羞]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "关于夏天最浪漫的想象，就是和你牵手吹着海风，追逐海浪和夕阳~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依蝶变_害羞]",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "name": "害羞",
+        "url": "https://i0.hdslb.com/bfs/emote/1a0bd06712664e5a33116090332519895296708a.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/3752/害羞.png",
+        "package_id": "3752",
+        "emoji_id": "52569",
+        "text": "[洛天依蝶变_害羞]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5080,
+    "comment": 131,
+    "forward": 34
+  },
+  "forward": {
+    "orig_id": 883090283023040565,
+    "orig_mid": 8223503,
+    "deleted": false,
+    "archive_dir": "../../../8223503/2024-01/2024-01-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T18:04:51+08:00",
+    "force": false,
+    "failures": []
+  }
+}

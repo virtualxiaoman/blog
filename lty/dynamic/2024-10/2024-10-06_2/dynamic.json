@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "985155426299412485",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/985155426299412485",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年10月6日",
+    "pub_ts": 1728212772,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "​互动抽奖洛天依x猫噜噜萌物社 | 无限共鸣演唱会限定系列 寰宇之音Ver.坐姿毛绒玩偶预售即将开启~\n转发关注天依，揪1位小伙伴赠送同款玩偶1个！\n\n“歌声穿越次元，现实虚拟交织，无限共鸣。”\n与寰宇小天依，签订永恒的契约吧！[歌行宇宙表情包_娃娃]\n\n开售时间：2024年10月6日18:00 \n产品售价：预售119r；现货139r \n出荷时间：2025年1月 \n入手方式：bilibili会员购、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道 \n会员购传送门：http://t.cn/A6Epe6ff\n\nPS：娃体服饰可拆卸；产品监修中，小伙伴们以实物为准哦。\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "321605",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "洛天依x猫噜噜萌物社 | 无限共鸣演唱会限定系列 寰宇之音Ver.坐姿毛绒玩偶预售即将开启~\n转发关注天依，揪1位小伙伴赠送同款玩偶1个！\n\n“歌声穿越次元，现实虚拟交织，无限共鸣。”\n与寰宇小天依，签订永恒的契约吧！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_娃娃]",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "name": "娃娃",
+        "url": "https://i0.hdslb.com/bfs/garb/7ad43030b3dba76a77b9c8c48a5d69b4506facea.png"
+      },
+      {
+        "type": "text",
+        "text": "\n\n开售时间：2024年10月6日18:00 \n产品售价：预售119r；现货139r \n出荷时间：2025年1月 \n入手方式：bilibili会员购、TB“猫噜噜萌物社”、TB“苍妹儿”等官方渠道 \n会员购传送门："
+      },
+      {
+        "type": "text",
+        "text": "http://t.cn/A6Epe6ff"
+      },
+      {
+        "type": "text",
+        "text": "\n\nPS：娃体服饰可拆卸；产品监修中，小伙伴们以实物为准哦。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-10-06_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/5893076e6a698803b5b43fcd25af6aa036081646.jpg",
+        "width": 1000,
+        "height": 11057,
+        "size_kb": 5932.75,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/娃娃.png",
+        "package_id": "5880",
+        "emoji_id": "86905",
+        "text": "[歌行宇宙表情包_娃娃]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "猫噜噜 Vsinger 洛天依 无限共鸣演唱会限定系列 坐姿毛绒玩偶",
+            "price": "¥83.85",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/f9/9b/f99b2a03c593001b49716320d4d77953.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10672130&msource=cps_Mdynamic_36081646_cont-2-985155426299412485&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-10-06_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "321605"
+  },
+  "vote": null,
+  "stats": {
+    "like": 6050,
+    "comment": 891,
+    "forward": 7553
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:20:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

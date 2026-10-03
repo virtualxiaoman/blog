@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "394770188142812209",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/394770188142812209",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年5月29日",
+    "pub_ts": 1590752997,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "微雨时霁，散散心也挺好",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "微雨时霁，散散心也挺好"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6467,
+    "comment": 205,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 394381682579607416,
+    "orig_mid": 6399110,
+    "deleted": false,
+    "archive_dir": "../../../6399110/2020-05/2020-05-28_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:24:03+08:00",
+    "force": false,
+    "failures": []
+  }
+}

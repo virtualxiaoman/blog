@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "1165397959458684998",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1165397959458684998",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2月4日",
+    "pub_ts": 1770178757,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "一句传唱百年的昆曲《牡丹亭》名句——\n“不到园林，怎知春色如许”响起，[洛天依·戏游九州动态_我吗]\n天依将在舞台上展开一场虚实相生的戏曲奇旅......\n全新舞台设计，新的剧种加入改编，重新演绎歌行·戏曲季主题曲《戏游九州》。[洛天依·戏游九州动态_惬意]\n\n上B站，和天依一起看#2026中国网络视听盛典#\n2026.02.07 腊月二十 \n19:00  盛典红毯时刻\n20:00  盛典正式开启\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "一句传唱百年的昆曲《牡丹亭》名句——\n“不到园林，怎知春色如许”响起，"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_我吗]",
+        "package_id": "7318",
+        "emoji_id": "98457",
+        "name": "我吗",
+        "url": "https://i0.hdslb.com/bfs/garb/5d305198203812c486987c3e95284a61e206d601.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依将在舞台上展开一场虚实相生的戏曲奇旅......\n全新舞台设计，新的剧种加入改编，重新演绎歌行·戏曲季主题曲《戏游九州》。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n上B站，和天依一起看"
+      },
+      {
+        "type": "topic",
+        "text": "#2026中国网络视听盛典#",
+        "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8"
+      },
+      {
+        "type": "text",
+        "text": "\n2026.02.07 腊月二十 \n19:00  盛典红毯时刻\n20:00  盛典正式开启"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-02-04_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/6eb1531d3f4a885672d063716593765536081646.jpg",
+        "width": 1920,
+        "height": 3413,
+        "size_kb": 5234.129,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/我吗.gif",
+        "package_id": "7318",
+        "emoji_id": "98457",
+        "text": "[洛天依·戏游九州动态_我吗]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7292,
+    "comment": 371,
+    "forward": 109
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:15:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

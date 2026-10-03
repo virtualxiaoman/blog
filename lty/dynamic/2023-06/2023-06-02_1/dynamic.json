@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "802471732795408499",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/802471732795408499",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月2日",
+    "pub_ts": 1685678410,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "为了迟钝的你！把世界都染上颜色~\nshu~请接收来自天依的恋爱色魔法!",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "为了迟钝的你！把世界都染上颜色~\nshu~请接收来自天依的恋爱色魔法!"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "洛天依&HoneyWorks| Ah~今天一定要传递爱意，好きなんです 【恋爱色魔法】",
+      "desc": "为了迟钝的你！把世界都染上颜色~\nshu~请接收来自天依的恋爱色魔法!\n\n歌曲收录在洛天依十周年专辑《无尽蓝》中BV153411D7vc\n日语版《恋の魔法ポーション》\n作曲 : HoneyWorks\n编曲 : HoneyWorks\n作词 : HoneyWorks\n钢琴 : 宇都圭輝\n混音 : Karma_27\n贝斯 : さと\n吉他 : Oji\n分轨 : nagomi\n调校：周小蚕\n调声协力：苍子_Aoko\n动画：黄可乖可不乖\n曲绘：苏安Lily/黄可乖/糖醋面/吃我一记喵喵拳/狗子毛\n制作人：苏逸_Suy",
+      "jump_url": "https://www.bilibili.com/video/BV1pX4y1a7Cd",
+      "cover_url": "http://i2.hdslb.com/bfs/archive/b46ed31eb6c3f3d57321ef07ce5ec2c6906074c8.jpg",
+      "cover_file": "../../_assets/covers/2023-06-02_1.jpg",
+      "bvid": "BV1pX4y1a7Cd",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1pX4y1a7Cd",
+        "aid": "356753377",
+        "cover": "http://i2.hdslb.com/bfs/archive/b46ed31eb6c3f3d57321ef07ce5ec2c6906074c8.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1pX4y1a7Cd",
+        "stat": {
+          "danmaku": "2713",
+          "play": "150.4万",
+          "vt": ""
+        },
+        "duration_text": "08:00",
+        "title": "洛天依&HoneyWorks| Ah~今天一定要传递爱意，好きなんです 【恋爱色魔法】",
+        "desc": "为了迟钝的你！把世界都染上颜色~\nshu~请接收来自天依的恋爱色魔法!\n\n歌曲收录在洛天依十周年专辑《无尽蓝》中BV153411D7vc\n日语版《恋の魔法ポーション》\n作曲 : HoneyWorks\n编曲 : HoneyWorks\n作词 : HoneyWorks\n钢琴 : 宇都圭輝\n混音 : Karma_27\n贝斯 : さと\n吉他 : Oji\n分轨 : nagomi\n调校：周小蚕\n调声协力：苍子_Aoko\n动画：黄可乖可不乖\n曲绘：苏安Lily/黄可乖/糖醋面/吃我一记喵喵拳/狗子毛\n制作人：苏逸_Suy",
+        "badge": {
+          "icon_url": "",
+          "text": "合作视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 178582,
+    "comment": 4061,
+    "forward": 609
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:38+08:00",
+    "force": false,
+    "failures": []
+  }
+}

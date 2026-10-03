@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "570913505690930859",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/570913505690930859",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年9月16日",
+    "pub_ts": 1631764559,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# 天依很荣幸成为第二届#冬奥优秀音乐作品# 演唱歌手之一，以歌声为体育健儿加油，为祖国加油！期待歌曲的发布哟！",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " 天依很荣幸成为第二届"
+      },
+      {
+        "type": "topic",
+        "text": "#冬奥优秀音乐作品#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%86%AC%E5%A5%A5%E4%BC%98%E7%A7%80%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81"
+      },
+      {
+        "type": "text",
+        "text": " 演唱歌手之一，以歌声为体育健儿加油，为祖国加油！期待歌曲的发布哟！"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6346,
+    "comment": 321,
+    "forward": 147
+  },
+  "forward": {
+    "orig_id": 570911289489888805,
+    "orig_mid": 565388139,
+    "deleted": false,
+    "archive_dir": "../../../565388139/2021-09/2021-09-16_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T19:36:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

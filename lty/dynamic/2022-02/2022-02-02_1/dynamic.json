@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "622661466407920448",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/622661466407920448",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年2月2日",
+    "pub_ts": 1643813070,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依#\n大家都打开电视了嘛？CCTV16频道，“相约北京”奥林匹克文化节暨第22届 #相约北京国际艺术节#开幕式正在播出！看完开幕式小伙伴们还可以给“转台”#中国梦我的梦网络视听年度盛典# B站直播间，天依的节目大约在今晚12点～[洛天依_捏捏]",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n大家都打开电视了嘛？CCTV16频道，“相约北京”奥林匹克文化节暨第22届 "
+      },
+      {
+        "type": "topic",
+        "text": "#相约北京国际艺术节#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%9B%B8%E7%BA%A6%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E8%89%BA%E6%9C%AF%E8%8A%82"
+      },
+      {
+        "type": "text",
+        "text": "开幕式正在播出！看完开幕式小伙伴们还可以给“转台”"
+      },
+      {
+        "type": "topic",
+        "text": "#中国梦我的梦网络视听年度盛典#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A2%A6%E6%88%91%E7%9A%84%E6%A2%A6%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8"
+      },
+      {
+        "type": "text",
+        "text": " B站直播间，天依的节目大约在今晚12点～"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_捏捏]",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "name": "捏捏",
+        "url": "http://i0.hdslb.com/bfs/emote/ae4e9a000dcbc9c95f72157886d5b06d907d75c6.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/101/捏捏.png",
+        "package_id": "101",
+        "emoji_id": "2208",
+        "text": "[洛天依_捏捏]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9524,
+    "comment": 539,
+    "forward": 34
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:41:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}

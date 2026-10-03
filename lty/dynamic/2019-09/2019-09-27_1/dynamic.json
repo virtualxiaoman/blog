@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "303735547394551561",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/303735547394551561",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2019年9月27日",
+    "pub_ts": 1569557343,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "我和@蜀门手游 一起给大家带来了全新单曲#刀剑纷扰# ，这次去到一个不同的江湖，天依也是感触颇多呀。扫一扫，和天依一起感受这个江湖！  《刀剑纷扰》  作词：@冷鸟    作曲：@没有龟壳的乌龟   调教：@动次打次的动点p\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "我和@蜀门手游 一起给大家带来了全新单曲"
+      },
+      {
+        "type": "topic",
+        "text": "#刀剑纷扰#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%88%80%E5%89%91%E7%BA%B7%E6%89%B0"
+      },
+      {
+        "type": "text",
+        "text": " ，这次去到一个不同的江湖，天依也是感触颇多呀。扫一扫，和天依一起感受这个江湖！  《刀剑纷扰》  作词："
+      },
+      {
+        "type": "mention",
+        "text": "@冷鸟",
+        "mid": 5798,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "    作曲："
+      },
+      {
+        "type": "mention",
+        "text": "@没有龟壳的乌龟",
+        "mid": 890489,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "   调教："
+      },
+      {
+        "type": "mention",
+        "text": "@动次打次的动点p",
+        "mid": 12481783,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2019-09-27_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/42c0a19face7150679301d9aafaec3f0f8d65962.jpg",
+        "width": 1800,
+        "height": 1800,
+        "size_kb": 926.2734375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6396,
+    "comment": 359,
+    "forward": 36
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:22:13+08:00",
+    "force": false,
+    "failures": []
+  }
+}

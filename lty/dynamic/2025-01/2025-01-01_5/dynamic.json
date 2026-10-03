@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1017365572203053075",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1017365572203053075",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2025年1月1日",
+    "pub_ts": 1735712281,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "天依牌小闹钟提醒你，已经可以兑换啦[洛天依·戏游九州动态_惬意]这条评论区大家来许愿想要的卡牌吧，会揪 5位小伙伴由天依送给你哦[洛天依·戏游九州动态_骄傲]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "天依牌小闹钟提醒你，已经可以兑换啦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_惬意]",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "name": "惬意",
+        "url": "https://i0.hdslb.com/bfs/garb/83081f524ec9cbaed4de5b5ba9ba6d62d7d79124.gif"
+      },
+      {
+        "type": "text",
+        "text": "这条评论区大家来许愿想要的卡牌吧，会揪 5位小伙伴由天依送给你哦"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·戏游九州动态_骄傲]",
+        "package_id": "7318",
+        "emoji_id": "98466",
+        "name": "骄傲",
+        "url": "https://i0.hdslb.com/bfs/garb/e4e91b1ed9073d0c6fa50418e6d199bbedbddab1.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/7318/惬意.gif",
+        "package_id": "7318",
+        "emoji_id": "98465",
+        "text": "[洛天依·戏游九州动态_惬意]"
+      },
+      {
+        "file": "../../_assets/emojis/7318/骄傲.gif",
+        "package_id": "7318",
+        "emoji_id": "98466",
+        "text": "[洛天依·戏游九州动态_骄傲]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 3986,
+    "comment": 842,
+    "forward": 206
+  },
+  "forward": {
+    "orig_id": 1017320754192056321,
+    "orig_mid": 36081646,
+    "deleted": false,
+    "archive_dir": "../2025-01-01_2"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:25:12+08:00",
+    "force": false,
+    "failures": []
+  }
+}

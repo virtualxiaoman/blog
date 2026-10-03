@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "id": "797011708371533831",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/797011708371533831",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年5月18日",
+    "pub_ts": 1684407149,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖#洛天依#\n★洛天依x擎苍工作室 | 梨花雪Ver.手办预售即将开启\n转发并关注，随机抽选2位小伙伴送出新品手办一个~\n\n❄产品信息\n上架时间：5月18日 18:00\n开售时间：5月20日 18:00\n预售特典：徽章*1、透卡*1、收藏纸卡*1\n产品售价：199r（定金60r，尾款139r）\n购买渠道：bilibili会员购、TM擎苍旗舰店、JD擎苍旗舰店、TB“苍妹儿”店铺等\n产品出荷：预计2023年11月下旬\n\n❄详情戳：网页链接\n我在簌簌而下的梨花雪中回眸，期盼能与你相见。[洛天依幻游世界_摸摸]\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "152565",
+        "url": ""
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n★洛天依x擎苍工作室 | 梨花雪Ver.手办预售即将开启\n转发并关注，随机抽选2位小伙伴送出新品手办一个~\n\n❄产品信息\n上架时间：5月18日 18:00\n开售时间：5月20日 18:00\n预售特典：徽章*1、透卡*1、收藏纸卡*1\n产品售价：199r（定金60r，尾款139r）\n购买渠道：bilibili会员购、TM擎苍旗舰店、JD擎苍旗舰店、TB“苍妹儿”店铺等\n产品出荷：预计2023年11月下旬\n\n❄详情戳："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://mall.bilibili.com/detail.html?noTitleBar=1&itemsId=10153193&msource=yyqbanner_dongtai_lhx"
+      },
+      {
+        "type": "text",
+        "text": "\n我在簌簌而下的梨花雪中回眸，期盼能与你相见。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依幻游世界_摸摸]",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "name": "摸摸",
+        "url": "https://i0.hdslb.com/bfs/garb/item/c97346bd9f5bb64a1cad8eecf85f50cc7a083eca.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-05-18_4.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/4357bd59ce3ec61a719524d61c003dbc36081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 83.44999694824219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2023-05-18_5.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/a1215cb18080b62e1aa3d491a077c66736081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 79.95999908447266,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2023-05-18_6.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/87a68bea567b1ada5af652e2926670d336081646.jpg",
+        "width": 800,
+        "height": 800,
+        "size_kb": 64.80000305175781,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1066/摸摸.png",
+        "package_id": "1066",
+        "emoji_id": "18947",
+        "text": "[洛天依幻游世界_摸摸]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "擎苍 Vsinger 洛天依 梨花雪 Q版手办",
+            "price": "¥184",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/11/97/119742a2c6f65977722ab2c5cde1e1c9.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10153193&msource=cps_Mdynamic_36081646_cont-2-797011708371533831&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2023-05-18_1.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": {
+    "rid": "152565"
+  },
+  "vote": null,
+  "stats": {
+    "like": 9596,
+    "comment": 1078,
+    "forward": 8510
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:53:27+08:00",
+    "force": false,
+    "failures": []
+  }
+}

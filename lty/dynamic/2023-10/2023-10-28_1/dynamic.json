@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "id": "857361491906527265",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/857361491906527265",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年10月28日",
+    "pub_ts": 1698458428,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "​互动抽奖​#洛天依# #索尼音乐牵手洛天依#\n关注转发天依，揪3位小伙伴送出【洛天依随机款式换装娃娃】1份。\n洛天依X@索尼音乐中国 原创EP《洛 LUO》\n第二主打单曲《蝶变（Butterfly）》正式上线啦！\n\n歌曲风格使用Asia Pop作为歌曲主要基调，结合中国民乐元素，融入R&B唱腔，以节奏韵律诠释破茧一刻。\n无论对错，是否完美，我自有我风格论调。\n\n欢迎来到我的频道，听我的宣告——[洛天依9th_一起唱]\n🦋QQ音乐：https://i.y.qq.com/v8/playsong.html?songid=444637200&source=yqq&ADTAG=hz_wb_sf&channelId=10081987 \n🦋网易云音乐：https://music.163.com/#/album?id=177309917 \n🦋酷狗音乐：https://m3ws.kugou.com/mixsong/9be6a23e.html \n🦋酷我音乐：http://m.kuwo.cn/newh5app/play_detail/309745227\n🦋海外平台：LuoTianyi.lnk.to/ButterflyRebirth\n",
+    "blocks": [
+      {
+        "type": "lottery",
+        "text": "​互动抽奖",
+        "rid": "204672",
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "​"
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#索尼音乐牵手洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E7%89%B5%E6%89%8B%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n关注转发天依，揪3位小伙伴送出【洛天依随机款式换装娃娃】1份。\n洛天依X"
+      },
+      {
+        "type": "mention",
+        "text": "@索尼音乐中国 ",
+        "mid": 486906719,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": "原创EP《洛 LUO》\n第二主打单曲《蝶变（Butterfly）》正式上线啦！\n\n歌曲风格使用Asia Pop作为歌曲主要基调，结合中国民乐元素，融入R&B唱腔，以节奏韵律诠释破茧一刻。\n无论对错，是否完美，我自有我风格论调。\n\n欢迎来到我的频道，听我的宣告——"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依9th_一起唱]",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "name": "一起唱",
+        "url": "http://i0.hdslb.com/bfs/emote/e08d1411e51a99d91459da8f295401f10ef94acb.png"
+      },
+      {
+        "type": "text",
+        "text": "\n🦋QQ音乐：https://i.y.qq.com/v8/playsong.html?songid=444637200&source=yqq&ADTAG=hz_wb_sf&channelId=10081987 \n🦋网易云音乐：https://music.163.com/#/album?id=177309917 \n🦋酷狗音乐：https://m3ws.kugou.com/mixsong/9be6a23e.html \n🦋酷我音乐：http://m.kuwo.cn/newh5app/play_detail/309745227\n🦋海外平台：LuoTianyi.lnk.to/ButterflyRebirth"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2023-10-28_1.jpg",
+        "live_file": "",
+        "url": "https://album.biliimg.com/bfs/new_dyn/14295136dee2f7a1fbbc05da0bbc044236081646.jpg",
+        "width": 5940,
+        "height": 3240,
+        "size_kb": 15300.7099609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/255/一起唱.png",
+        "package_id": "255",
+        "emoji_id": "4242",
+        "text": "[洛天依9th_一起唱]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": {
+    "rid": "204672"
+  },
+  "vote": null,
+  "stats": {
+    "like": 8020,
+    "comment": 668,
+    "forward": 6115
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T17:59:43+08:00",
+    "force": false,
+    "failures": []
+  }
+}

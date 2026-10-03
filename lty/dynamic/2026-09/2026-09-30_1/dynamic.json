@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "1253804191860654120",
+  "type": "DYNAMIC_TYPE_AV",
+  "kind": "archive",
+  "url": "https://www.bilibili.com/opus/1253804191860654120",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2天前",
+    "pub_ts": 1790762437,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "六座城市，六次相遇，也是属于我们一整个夏天的共同奔赴",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "六座城市，六次相遇，也是属于我们一整个夏天的共同奔赴"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [
+    {
+      "kind": "archive",
+      "title": "我们一起抵达的夏天 | 洛天依「无限共鸣·纯蓝幻乐」六城巡演纪录片",
+      "desc": "从北京到杭州、成都、上海、长沙、广州，\n六座城市，六次相遇，也是属于我们一整个夏天的共同奔赴。\n\n舞台上的每一分钟，背后都有无数次排练、调整，也有一些无法预料的突发状况。\n在当下，直到最后一刻，大家都还在努力让这片梦境更圆满一些；\n而关于未来，比说些什么更重要的，是真正去做些什么。\n\n天依之所以能够站在台前，是因为有人守在幕后，有人跨越城市，只为再次听见同一首歌，再次感受熟悉的感动。\n正是这些真实发生过的瞬间，组成了「无限共鸣·纯蓝幻乐」。\n\n谢谢每一个来到现场、参与其中，也一直陪天依走到这里的人。\n纯蓝",
+      "jump_url": "https://www.bilibili.com/video/BV1W4aZ6XExh",
+      "cover_url": "http://i1.hdslb.com/bfs/archive/1d0d1d16b54034b640c397ba207fc665b57a0877.jpg",
+      "cover_file": "../../_assets/covers/2026-09-30_1.jpg",
+      "bvid": "BV1W4aZ6XExh",
+      "extra": {
+        "type": 1,
+        "bvid": "BV1W4aZ6XExh",
+        "aid": "117358974863623",
+        "cover": "http://i1.hdslb.com/bfs/archive/1d0d1d16b54034b640c397ba207fc665b57a0877.jpg",
+        "jump_url": "//www.bilibili.com/video/BV1W4aZ6XExh",
+        "stat": {
+          "danmaku": "784",
+          "play": "6.3万",
+          "vt": ""
+        },
+        "duration_text": "13:00",
+        "title": "我们一起抵达的夏天 | 洛天依「无限共鸣·纯蓝幻乐」六城巡演纪录片",
+        "desc": "从北京到杭州、成都、上海、长沙、广州，\n六座城市，六次相遇，也是属于我们一整个夏天的共同奔赴。\n\n舞台上的每一分钟，背后都有无数次排练、调整，也有一些无法预料的突发状况。\n在当下，直到最后一刻，大家都还在努力让这片梦境更圆满一些；\n而关于未来，比说些什么更重要的，是真正去做些什么。\n\n天依之所以能够站在台前，是因为有人守在幕后，有人跨越城市，只为再次听见同一首歌，再次感受熟悉的感动。\n正是这些真实发生过的瞬间，组成了「无限共鸣·纯蓝幻乐」。\n\n谢谢每一个来到现场、参与其中，也一直陪天依走到这里的人。\n纯蓝",
+        "badge": {
+          "icon_url": "",
+          "text": "投稿视频",
+          "bg_color": "#FB7299",
+          "color": "#FFFFFF"
+        },
+        "enable_vt": 0,
+        "disable_preview": 0,
+        "premiere_online": "",
+        "stat_hidden": 0
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 18662,
+    "comment": 1394,
+    "forward": 200
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:40:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

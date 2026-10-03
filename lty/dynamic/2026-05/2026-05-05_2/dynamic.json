@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "1198902273488453640",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1198902273488453640",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "5月5日",
+    "pub_ts": 1777979588,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "[洛天依国乐季动态表情包_美味]感谢大家的投稿！[洛天依国乐季动态表情包_wink]期待更多画师老师的参与呀~",
+    "blocks": [
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_美味]",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "name": "美味",
+        "url": "https://i0.hdslb.com/bfs/garb/495ebb71f34d6d2cfa019b58a73c804990b77d9c.gif"
+      },
+      {
+        "type": "text",
+        "text": "感谢大家的投稿！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依国乐季动态表情包_wink]",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/garb/5c61fcb3ebd2f5673389abba8685746ccd08101b.gif"
+      },
+      {
+        "type": "text",
+        "text": "期待更多画师老师的参与呀~"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/9546/美味.gif",
+        "package_id": "9546",
+        "emoji_id": "134444",
+        "text": "[洛天依国乐季动态表情包_美味]"
+      },
+      {
+        "file": "../../_assets/emojis/9546/wink.gif",
+        "package_id": "9546",
+        "emoji_id": "134454",
+        "text": "[洛天依国乐季动态表情包_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5504,
+    "comment": 111,
+    "forward": 30
+  },
+  "forward": {
+    "orig_id": 1198899593393209361,
+    "orig_mid": 10878474,
+    "deleted": false,
+    "archive_dir": "../../../10878474/2026-05/2026-05-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:21:08+08:00",
+    "force": false,
+    "failures": []
+  }
+}

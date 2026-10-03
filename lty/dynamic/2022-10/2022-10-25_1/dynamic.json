@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "720948039341047830",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/720948039341047830",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2022年10月25日",
+    "pub_ts": 1666697196,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "在无垠的苍穹之下，为你高歌一曲。 愿你年年月月，平安喜乐。[洛天依_最喜欢你了]  🎶：【洛天依AI】【原创】一「错」再「错」（是你没听过的唱藏语的洛天依！）  #洛天依#\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "在无垠的苍穹之下，为你高歌一曲。 愿你年年月月，平安喜乐。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依_最喜欢你了]",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "name": "最喜欢你了",
+        "url": "http://i0.hdslb.com/bfs/emote/07e95a9ddb8bf3ef3aee76aafd85710f1cfd3562.png"
+      },
+      {
+        "type": "text",
+        "text": "  🎶："
+      },
+      {
+        "type": "video",
+        "text": "【洛天依AI】【原创】一「错」再「错」（是你没听过的唱藏语的洛天依！）",
+        "url": "https://www.bilibili.com/video/av897496964",
+        "video": null
+      },
+      {
+        "type": "text",
+        "text": "  "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2022-10-25_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/17f7f1384f33a058194580b17faccd4336081646.jpg",
+        "width": 3000,
+        "height": 4000,
+        "size_kb": 754.7705078125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/340/最喜欢你了.png",
+        "package_id": "340",
+        "emoji_id": "7267",
+        "text": "[洛天依_最喜欢你了]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 10560,
+    "comment": 310,
+    "forward": 150
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:55:01+08:00",
+    "force": false,
+    "failures": []
+  }
+}

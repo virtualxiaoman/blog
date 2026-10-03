@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "1239331281640095767",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1239331281640095767",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月22日",
+    "pub_ts": 1787392700,
+    "location": ""
+  },
+  "topic": {
+    "id": 1340422,
+    "name": "洛天依2026巡演",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1340422&topic_name=%E6%B4%9B%E5%A4%A9%E4%BE%9D2026%E5%B7%A1%E6%BC%94"
+  },
+  "content": {
+    "title": "",
+    "text": "见到长沙站的你们啦，天依在后台看着大家哦~\n看着大家像一颗颗星星，一点点填满今晚这个只属于我们的梦境。[洛天依14周年·纯蓝幻乐 动态表情包_魔法]\n天依不紧张不紧张，很期待！\n谢谢大家的花篮应援，我们一起等待演出的正式开始吧~[洛天依14周年·纯蓝幻乐 动态表情包_展示]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "见到长沙站的你们啦，天依在后台看着大家哦~\n看着大家像一颗颗星星，一点点填满今晚这个只属于我们的梦境。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "name": "魔法",
+        "url": "https://i0.hdslb.com/bfs/garb/586e20309a26fa9aa927c64ab9f94b6dd2f401f4.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n天依不紧张不紧张，很期待！\n谢谢大家的花篮应援，我们一起等待演出的正式开始吧~"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "name": "展示",
+        "url": "https://i0.hdslb.com/bfs/garb/2a0de49c1ca305d19eaff614d79da7d9f2bd611a.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2026-08-22_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/1aa5f1b5d4d9cb7d9088c2d82bfd6e2336081646.jpg",
+        "width": 1600,
+        "height": 1067,
+        "size_kb": 458.0400085449219,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2026-08-22_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/8e8a3c0f7aed551aaf5fb9e8ec54ccae36081646.jpg",
+        "width": 4471,
+        "height": 2981,
+        "size_kb": 4585.27001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2026-08-22_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f30d8b16715377d832ec5c116412cec536081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 4286.27001953125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2026-08-22_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/f931e7a22a36eaccc1ae7c2ccf7fb3fb36081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 5480.14990234375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2026-08-22_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2baa6e5c67a3dd9d67effc119fbc6cf336081646.jpg",
+        "width": 4696,
+        "height": 3131,
+        "size_kb": 4564.5400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2026-08-22_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/941b0d8c926edfee19a5a5d128acc91c36081646.jpg",
+        "width": 4800,
+        "height": 3200,
+        "size_kb": 5545.77978515625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2026-08-22_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fc0c859934de6529d6f04e959a3a080f36081646.jpg",
+        "width": 4800,
+        "height": 3201,
+        "size_kb": 9629.1396484375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2026-08-22_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d28bf9ddb4d67db9cbf07e99c21d73a336081646.jpg",
+        "width": 4650,
+        "height": 3101,
+        "size_kb": 6355.509765625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2026-08-22_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/fd7eb2df83f536e60835e32f550e46c736081646.jpg",
+        "width": 4723,
+        "height": 3150,
+        "size_kb": 3986.35009765625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10238/魔法.gif",
+        "package_id": "10238",
+        "emoji_id": "145971",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_魔法]"
+      },
+      {
+        "file": "../../_assets/emojis/10238/展示.gif",
+        "package_id": "10238",
+        "emoji_id": "145976",
+        "text": "[洛天依14周年·纯蓝幻乐 动态表情包_展示]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 5806,
+    "comment": 351,
+    "forward": 68
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T14:37:39+08:00",
+    "force": false,
+    "failures": []
+  }
+}

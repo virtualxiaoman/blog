@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "923832003540811779",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/923832003540811779",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年4月24日",
+    "pub_ts": 1713934800,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "伴着跃动的春日音符，开启新的体验~天依又带着老朋友交通银行信用卡来啦！[洛天依歌行四方_欢迎]\n【洛天依民族主题信用卡】惊喜上线,穿越现实与次元的边界，回忆游学的民族音乐拾遗点滴。[洛天依歌行四方_打手鼓]\n点击评论区办卡链接，get天依同款卡面，我们一起yalahula歌行四方！ [洛天依歌行四方_扭脖子]\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "伴着跃动的春日音符，开启新的体验~天依又带着老朋友交通银行信用卡来啦！"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_欢迎]",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "name": "欢迎",
+        "url": "https://i0.hdslb.com/bfs/emote/bf00c8e3908b42be8d5cc5871de9f0e2c523a302.png"
+      },
+      {
+        "type": "text",
+        "text": "\n【洛天依民族主题信用卡】惊喜上线,穿越现实与次元的边界，回忆游学的民族音乐拾遗点滴。"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_打手鼓]",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "name": "打手鼓",
+        "url": "https://i0.hdslb.com/bfs/emote/d3342fd45ede3b253aaeced8db5d52aadcbfc3c2.png"
+      },
+      {
+        "type": "text",
+        "text": "\n点击评论区办卡链接，get天依同款卡面，我们一起yalahula歌行四方！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依歌行四方_扭脖子]",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "name": "扭脖子",
+        "url": "https://i0.hdslb.com/bfs/emote/a76004e2e705431ad611f8ddef1b186def75cbd9.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-04-24_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/c9130bf09c31e3623686e0e99bc3f2ae36081646.jpg",
+        "width": 1080,
+        "height": 1920,
+        "size_kb": 518.720703125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4128/欢迎.png",
+        "package_id": "4128",
+        "emoji_id": "58600",
+        "text": "[洛天依歌行四方_欢迎]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/打手鼓.png",
+        "package_id": "4128",
+        "emoji_id": "58595",
+        "text": "[洛天依歌行四方_打手鼓]"
+      },
+      {
+        "file": "../../_assets/emojis/4128/扭脖子.png",
+        "package_id": "4128",
+        "emoji_id": "58603",
+        "text": "[洛天依歌行四方_扭脖子]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4163,
+    "comment": 140,
+    "forward": 41
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:10:45+08:00",
+    "force": false,
+    "failures": []
+  }
+}

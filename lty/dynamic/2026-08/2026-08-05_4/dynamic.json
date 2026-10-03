@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "1233058696652652664",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/1233058696652652664",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "8月5日",
+    "pub_ts": 1785932250,
+    "location": ""
+  },
+  "topic": {
+    "id": 1308528,
+    "name": "闪耀的Producer",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1308528&topic_name=%E9%97%AA%E8%80%80%E7%9A%84Producer"
+  },
+  "content": {
+    "title": "",
+    "text": "感谢网易云音乐特别支持，一起加入这场创作狂欢吧[洛天依14周年·四重奏_唱歌]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "感谢网易云音乐特别支持，一起加入这场创作狂欢吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依14周年·四重奏_唱歌]",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "name": "唱歌",
+        "url": "https://i0.hdslb.com/bfs/garb/cbff4881919473c2dc8622f50b6dfc59d10ac785.gif"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/10148/唱歌.gif",
+        "package_id": "10148",
+        "emoji_id": "144390",
+        "text": "[洛天依14周年·四重奏_唱歌]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4797,
+    "comment": 84,
+    "forward": 26
+  },
+  "forward": {
+    "orig_id": 1232945955950559254,
+    "orig_mid": 607217518,
+    "deleted": false,
+    "archive_dir": "../../../607217518/2026-08/2026-08-05_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T14:35:00+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "593304956913708253",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/593304956913708253",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2021年11月15日",
+    "pub_ts": 1636977975,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#洛天依# ☆Vsinger冬季御寒篇☆ 最近真的好冷好冷，私藏的御寒小妙招必须得用上了！ 最佳的御寒方法，往往只需要…… 吃一顿热乎乎的 火 锅 ！保证驱赶所有寒气！ 麻辣底、清汤锅……，宇宙的尽头一定就是火锅吧[洛天依·夜航星_饿了] 大家都喜欢什么锅底呀？啊，不是，大家都是怎样御寒的？[洛天依·夜航星_摸摸]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#洛天依#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      },
+      {
+        "type": "text",
+        "text": " ☆Vsinger冬季御寒篇☆ 最近真的好冷好冷，私藏的御寒小妙招必须得用上了！ 最佳的御寒方法，往往只需要…… 吃一顿热乎乎的 火 锅 ！保证驱赶所有寒气！ 麻辣底、清汤锅……，宇宙的尽头一定就是火锅吧"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_饿了]",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "name": "饿了",
+        "url": "http://i0.hdslb.com/bfs/emote/5455abac01a22978b20ec0b365c214a872a0fd14.png"
+      },
+      {
+        "type": "text",
+        "text": " 大家都喜欢什么锅底呀？啊，不是，大家都是怎样御寒的？"
+      },
+      {
+        "type": "emoji",
+        "text": "[洛天依·夜航星_摸摸]",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "name": "摸摸",
+        "url": "http://i0.hdslb.com/bfs/emote/6b4f86c6a21265addc8bc3fb511e5569af454237.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2021-11-15_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/f046a5c58575cabb5b646ebfb33b88eb57f8f32d.jpg",
+        "width": 1500,
+        "height": 1500,
+        "size_kb": 806.189453125,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/166/饿了.png",
+        "package_id": "166",
+        "emoji_id": "3082",
+        "text": "[洛天依·夜航星_饿了]"
+      },
+      {
+        "file": "../../_assets/emojis/166/摸摸.png",
+        "package_id": "166",
+        "emoji_id": "3077",
+        "text": "[洛天依·夜航星_摸摸]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9277,
+    "comment": 435,
+    "forward": 107
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:38:49+08:00",
+    "force": false,
+    "failures": []
+  }
+}

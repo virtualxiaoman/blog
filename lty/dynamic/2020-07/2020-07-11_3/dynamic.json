@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "410744932451878578",
+  "type": "DYNAMIC_TYPE_WORD",
+  "kind": "word",
+  "url": "https://www.bilibili.com/opus/410744932451878578",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年7月11日",
+    "pub_ts": 1594472407,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "#2020洛天依生日应援# #洛天依0712生日快乐# 明天的19:12天依会在B站直播间举办生日会，欢迎你们来天依的世界看看，生日会上将披露今年的庆生曲《万分之一的光》，20:30会投稿庆生曲MV，别错过，记得要来哦~  网页链接 ",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#2020洛天依生日应援#",
+        "url": "https://search.bilibili.com/all?keyword=2020%E6%B4%9B%E5%A4%A9%E4%BE%9D%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4"
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "topic",
+        "text": "#洛天依0712生日快乐#",
+        "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%A4%A9%E4%BE%9D0712%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90"
+      },
+      {
+        "type": "text",
+        "text": " 明天的19:12天依会在B站直播间举办生日会，欢迎你们来天依的世界看看，生日会上将披露今年的庆生曲《万分之一的光》，20:30会投稿庆生曲MV，别错过，记得要来哦~  "
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://www.bilibili.com/blackboard/live/activity-luotianyi2020birthday.html"
+      },
+      {
+        "type": "text",
+        "text": " "
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 9000,
+    "comment": 682,
+    "forward": 220
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:25:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

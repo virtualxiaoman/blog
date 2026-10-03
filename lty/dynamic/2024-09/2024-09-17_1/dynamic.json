@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "977994979219603475",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/977994979219603475",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年9月17日",
+    "pub_ts": 1726545600,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "“剑倚青天笛倚楼，云影悠悠，鹤影悠悠。”\n若有凌云剑，赋我凌云志，执长剑三尺，开天下太平。\n我不是你此行的归处，但中秋佳节，此刻月色正好，便陪我共赏吧。[大哉乾元__干杯]\n不必担心危险，万事有我。\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "“剑倚青天笛倚楼，云影悠悠，鹤影悠悠。”\n若有凌云剑，赋我凌云志，执长剑三尺，开天下太平。\n我不是你此行的归处，但中秋佳节，此刻月色正好，便陪我共赏吧。"
+      },
+      {
+        "type": "emoji",
+        "text": "[大哉乾元__干杯]",
+        "package_id": "4621",
+        "emoji_id": "66036",
+        "name": "干杯",
+        "url": "https://i0.hdslb.com/bfs/emote/5cf1df6ded6282ba5650554bf943ef62fb02ef09.png"
+      },
+      {
+        "type": "text",
+        "text": "\n不必担心危险，万事有我。"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-09-17_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/53209414f9b85f7aa9b034ffb3aa5abe36081646.jpg",
+        "width": 2000,
+        "height": 3000,
+        "size_kb": 2627.669921875,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/4621/干杯.png",
+        "package_id": "4621",
+        "emoji_id": "66036",
+        "text": "[大哉乾元__干杯]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 14791,
+    "comment": 702,
+    "forward": 349
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:19:23+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "999240071463829513",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/999240071463829513",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月13日",
+    "pub_ts": 1731492109,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "📢 天依和@万代南梦宫中国 一起为你带来更多活动情报啦~\n\n铛铛~天依和高达&数码宝贝的首次舞台限定联动服装抢先看！\n是不是让大家感到超惊喜的联动呀？\n那就快来#万代南梦宫嘉年华2024#特别舞台听天依唱——\n感觉天依会表演的歌曲大家是不是也猜到啦~？[心律共鸣动态表情包_真好]\n\n📝小Tips：\n天依的演出时间：\n11月22日（周五）19:00~\n11月23日（周六）20:15~\n11月24日（周日）19:10~\n📍活动地点：上海BFC外滩\n通过扫描二维码即可免费预约入场哦，和天依一起嗨翻嘉年华吧！🎶💫\n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "📢 天依和"
+      },
+      {
+        "type": "mention",
+        "text": "@万代南梦宫中国",
+        "mid": 287390748,
+        "url": ""
+      },
+      {
+        "type": "text",
+        "text": " 一起为你带来更多活动情报啦~\n\n铛铛~天依和高达&数码宝贝的首次舞台限定联动服装抢先看！\n是不是让大家感到超惊喜的联动呀？\n那就快来"
+      },
+      {
+        "type": "topic",
+        "text": "#万代南梦宫嘉年华2024#",
+        "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E4%BB%A3%E5%8D%97%E6%A2%A6%E5%AE%AB%E5%98%89%E5%B9%B4%E5%8D%8E2024"
+      },
+      {
+        "type": "text",
+        "text": "特别舞台听天依唱——\n感觉天依会表演的歌曲大家是不是也猜到啦~？"
+      },
+      {
+        "type": "emoji",
+        "text": "[心律共鸣动态表情包_真好]",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "name": "真好",
+        "url": "https://i0.hdslb.com/bfs/emote/737a7bd147cd671b0a47aae139fcf05321470ca0.gif"
+      },
+      {
+        "type": "text",
+        "text": "\n\n📝小Tips：\n天依的演出时间：\n11月22日（周五）19:00~\n11月23日（周六）20:15~\n11月24日（周日）19:10~\n📍活动地点：上海BFC外滩\n通过扫描二维码即可免费预约入场哦，和天依一起嗨翻嘉年华吧！🎶💫"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-13_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/ffce39a5c893257ede98c8d62b4e44cf36081646.jpg",
+        "width": 1200,
+        "height": 1558,
+        "size_kb": 1236.0927734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-11-13_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/d0c3ee6109cabb9826ddeb92d5f8c7d536081646.jpg",
+        "width": 1200,
+        "height": 1558,
+        "size_kb": 1236.6904296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-11-13_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/2aa9179c35208f459a8940a7abea3d3236081646.jpg",
+        "width": 1200,
+        "height": 1558,
+        "size_kb": 1073.78515625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5582/真好.gif",
+        "package_id": "5582",
+        "emoji_id": "81886",
+        "text": "[心律共鸣动态表情包_真好]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4995,
+    "comment": 360,
+    "forward": 63
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:24+08:00",
+    "force": false,
+    "failures": []
+  }
+}

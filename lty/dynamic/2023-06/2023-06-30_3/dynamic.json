@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "812945435496808480",
+  "type": "DYNAMIC_TYPE_FORWARD",
+  "kind": "forward",
+  "url": "https://www.bilibili.com/opus/812945435496808480",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2023年6月30日",
+    "pub_ts": 1688117009,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "大家熟悉的老朋友罗森今年也和天依联动啦！7月3日联名活动正式开启，威化饼干配上茉莉花茶，天依想要承包你的下午茶时间~详情请戳长图查看哦！ [代号洛天依_wink]",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "大家熟悉的老朋友罗森今年也和天依联动啦！7月3日联名活动正式开启，威化饼干配上茉莉花茶，天依想要承包你的下午茶时间~详情请戳长图查看哦！ "
+      },
+      {
+        "type": "emoji",
+        "text": "[代号洛天依_wink]",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "name": "wink",
+        "url": "https://i0.hdslb.com/bfs/emote/4ab4fda8d562a30dd62604af5a799203ddfcfdf2.png"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/1842/wink.png",
+        "package_id": "1842",
+        "emoji_id": "32129",
+        "text": "[代号洛天依_wink]"
+      }
+    ]
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 6395,
+    "comment": 406,
+    "forward": 82
+  },
+  "forward": {
+    "orig_id": 812940870201376784,
+    "orig_mid": 361078062,
+    "deleted": false,
+    "archive_dir": "../../../361078062/2023-06/2023-06-30_1"
+  },
+  "download": {
+    "fetched_at": "2026-10-02T17:54:11+08:00",
+    "force": false,
+    "failures": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "425186347670759261",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/425186347670759261",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2020年8月19日",
+    "pub_ts": 1597834811,
+    "location": ""
+  },
+  "topic": null,
+  "content": {
+    "title": "",
+    "text": "2020 #vsinger live# 周边即将开启预售，跟我们一起参加这特别的夏夜派对！  本次夏夜派对主题徽章共有两款，小伙伴们更喜欢哪一组？ 我们也推出了星型金属挂件、色纸及立牌，都是收藏展示的好选择，另外还有Vsinger全员的和纸胶带跟换装娃娃，感觉大家都变得可爱又调皮了。 周边详情和售价请见附图，我们会在8月21日，演唱会当天上午在【上海禾念】官方线上店铺开启预售。 今年的#vsinger live#也跟优酷合作推出了多种周边，部分会独家上架优酷店铺，也请小伙伴们记得留意优酷君那边的消息~ 让我们一起体会这夏夜欢乐的时光吧！ \n",
+    "blocks": [
+      {
+        "type": "text",
+        "text": "2020 "
+      },
+      {
+        "type": "topic",
+        "text": "#vsinger live#",
+        "url": "https://search.bilibili.com/all?keyword=vsinger%20live"
+      },
+      {
+        "type": "text",
+        "text": " 周边即将开启预售，跟我们一起参加这特别的夏夜派对！  本次夏夜派对主题徽章共有两款，小伙伴们更喜欢哪一组？ 我们也推出了星型金属挂件、色纸及立牌，都是收藏展示的好选择，另外还有Vsinger全员的和纸胶带跟换装娃娃，感觉大家都变得可爱又调皮了。 周边详情和售价请见附图，我们会在8月21日，演唱会当天上午在【上海禾念】官方线上店铺开启预售。 今年的"
+      },
+      {
+        "type": "topic",
+        "text": "#vsinger live#",
+        "url": "https://search.bilibili.com/all?keyword=vsinger%20live"
+      },
+      {
+        "type": "text",
+        "text": "也跟优酷合作推出了多种周边，部分会独家上架优酷店铺，也请小伙伴们记得留意优酷君那边的消息~ 让我们一起体会这夏夜欢乐的时光吧！ "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2020-08-19_1.jpg",
+        "live_file": "",
+        "url": "https://i0.hdslb.com/bfs/album/1853911c29ec5f6e76c157b5d67e2d19e86a7d19.jpg",
+        "width": 828,
+        "height": 6780,
+        "size_kb": 2819.2822265625,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": []
+  },
+  "cards": [],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 7408,
+    "comment": 615,
+    "forward": 159
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T19:26:10+08:00",
+    "force": false,
+    "failures": []
+  }
+}

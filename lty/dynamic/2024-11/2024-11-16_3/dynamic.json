@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "1000355521705803815",
+  "type": "DYNAMIC_TYPE_DRAW",
+  "kind": "draw",
+  "url": "https://www.bilibili.com/opus/1000355521705803815",
+  "author": {
+    "mid": 36081646,
+    "name": "洛天依",
+    "face": "https://i1.hdslb.com/bfs/garb/d9bfee24c093e6a2f4d14cd84b1746c538c7c6ce.png",
+    "pub_time": "2024年11月16日",
+    "pub_ts": 1731751820,
+    "location": ""
+  },
+  "topic": {
+    "id": 1156147,
+    "name": "天依的周边",
+    "jump_url": "https://m.bilibili.com/topic-detail?topic_id=1156147&topic_name=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+  },
+  "content": {
+    "title": "",
+    "text": "#天依的周边#【新品上架】\n⌨洛天依INFI75天青轴机械键盘\n特别定制洛天依主题按钮和键帽\n‌炫亮彩屏支持DIY图案\n\n【再贩通知】\n🧸洛天依V4公式服毛绒玩偶‌\n\n【预售特典】\n11月15日-12月12日期间购买键盘，即可获赠天依定制款键帽一份\n\n【传送门】\n-洛天依机械键盘：网页链接\n-洛天依V4毛绒公仔：网页链接 \n让天依陪伴你度过生活中每一个精彩瞬间吧~！[歌行宇宙表情包_mua]\n",
+    "blocks": [
+      {
+        "type": "topic",
+        "text": "#天依的周边#",
+        "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%BE%9D%E7%9A%84%E5%91%A8%E8%BE%B9"
+      },
+      {
+        "type": "text",
+        "text": "【新品上架】\n⌨洛天依INFI75天青轴机械键盘\n特别定制洛天依主题按钮和键帽\n‌炫亮彩屏支持DIY图案\n\n【再贩通知】\n🧸洛天依V4公式服毛绒玩偶‌\n\n【预售特典】\n11月15日-12月12日期间购买键盘，即可获赠天依定制款键帽一份\n\n【传送门】\n-洛天依机械键盘："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/q4Iv9fg"
+      },
+      {
+        "type": "text",
+        "text": "\n-洛天依V4毛绒公仔："
+      },
+      {
+        "type": "link",
+        "text": "网页链接",
+        "url": "https://b23.tv/KbCGtYs"
+      },
+      {
+        "type": "text",
+        "text": " \n让天依陪伴你度过生活中每一个精彩瞬间吧~！"
+      },
+      {
+        "type": "emoji",
+        "text": "[歌行宇宙表情包_mua]",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "name": "mua",
+        "url": "https://i0.hdslb.com/bfs/garb/eb8fd2fc495d75e33e2e12b8dd40cc9a96ffa718.png"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "truncated": false,
+    "full_text_fetched": false
+  },
+  "media": {
+    "images": [
+      {
+        "index": 1,
+        "file": "../../_assets/images/2024-11-16_1.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/82a7cfaf85dc81e7029f05eb3cce264236081646.jpg",
+        "width": 1024,
+        "height": 1038,
+        "size_kb": 214.0400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 2,
+        "file": "../../_assets/images/2024-11-16_2.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/948e1843b482bda5a038894f9757cc1a36081646.jpg",
+        "width": 1024,
+        "height": 2418,
+        "size_kb": 367.0400390625,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 3,
+        "file": "../../_assets/images/2024-11-16_3.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/7269023ddc933fe22afaa10193fe598436081646.jpg",
+        "width": 1024,
+        "height": 2119,
+        "size_kb": 183.80078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 4,
+        "file": "../../_assets/images/2024-11-16_4.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/309a14817348240c63046d9dd0dfffd236081646.jpg",
+        "width": 1024,
+        "height": 1185,
+        "size_kb": 193.435546875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 5,
+        "file": "../../_assets/images/2024-11-16_5.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/22e337e9b0e3853ed5ef7e3726bfcf3c36081646.jpg",
+        "width": 1024,
+        "height": 2213,
+        "size_kb": 278.591796875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 6,
+        "file": "../../_assets/images/2024-11-16_6.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/749e6ab1e6a03c0a0ab03f2753da052336081646.jpg",
+        "width": 1024,
+        "height": 1804,
+        "size_kb": 250.7177734375,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 7,
+        "file": "../../_assets/images/2024-11-16_7.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/47c6f46e2ca580807d0c8af5820ddb1b36081646.jpg",
+        "width": 1204,
+        "height": 1614,
+        "size_kb": 427.5205078125,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 8,
+        "file": "../../_assets/images/2024-11-16_8.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/56bb9f0edf7f6aa03bb732940e4fc50e36081646.jpg",
+        "width": 1000,
+        "height": 1318,
+        "size_kb": 303.54296875,
+        "live_url": "",
+        "aigc": 0
+      },
+      {
+        "index": 9,
+        "file": "../../_assets/images/2024-11-16_9.jpg",
+        "live_file": "",
+        "url": "http://i0.hdslb.com/bfs/new_dyn/64cb91b33d557b231361f7cd60feeef436081646.jpg",
+        "width": 750,
+        "height": 1151,
+        "size_kb": 226.99609375,
+        "live_url": "",
+        "aigc": 0
+      }
+    ],
+    "emojis": [
+      {
+        "file": "../../_assets/emojis/5880/mua.png",
+        "package_id": "5880",
+        "emoji_id": "86903",
+        "text": "[歌行宇宙表情包_mua]"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "kind": "goods",
+      "title": "UP主的推荐",
+      "desc": "",
+      "jump_url": "",
+      "cover_url": "",
+      "cover_file": "",
+      "bvid": "",
+      "extra": {
+        "head_text": "UP主的推荐",
+        "items": [
+          {
+            "name": "Vsinger 洛天依 Q版毛绒玩偶 50cm款和100cm款再版",
+            "price": "¥269",
+            "cover": "https://i0.hdslb.com/bfs/mall/mall/ee/7a/ee7a51b0b6abe702ea595e1331bca3ba.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10783575&msource=cps_Mdynamic_36081646_cont-2-1000355521705803815&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-11-16_2.png"
+          },
+          {
+            "name": "Vsinger 洛天依 infi75 （麻将音） 天青轴机械键盘",
+            "price": "¥599",
+            "cover": "https://i0.hdslb.com/bfs/mall/vendor/2e/d3/2ed3491636adea5ceadd01364d51ca71.png",
+            "jump_url": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&loadingShow=1&noTitleBar=1&saleType=0&itemsId=10768343&msource=cps_Mdynamic_36081646_cont-2-1000355521705803815&track_id=__BGMT__&contentId=&from=",
+            "brief": "",
+            "cover_file": "../../_assets/covers/2024-11-16_3.png"
+          }
+        ]
+      }
+    }
+  ],
+  "lottery": null,
+  "vote": null,
+  "stats": {
+    "like": 4354,
+    "comment": 230,
+    "forward": 82
+  },
+  "forward": null,
+  "download": {
+    "fetched_at": "2026-10-02T18:21:33+08:00",
+    "force": false,
+    "failures": []
+  }
+}
