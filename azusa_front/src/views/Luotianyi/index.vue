@@ -78,18 +78,15 @@ const pageStyle = computed(() =>
 
 <style scoped>
 .lty-page {
-  min-height: 100vh;
+  /* min-height 只约束内容盒：补上 padding-top 占用的 36px，页面总高才正好一屏。
+     否则内容放得下时也会多出恰好 36px 的滚动量（各无内容板块"莫名可滚动"的来源） */
+  min-height: calc(100vh - 36px);
   padding-top: 36px; /* 顶部留白：头部不贴屏幕顶端，浮在背景上方 */
   font-family: 'FZLanTYK', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   background:
     radial-gradient(120% 90% at 0% 0%, rgba(179, 157, 219, 0.18) 0%, transparent 55%),
     radial-gradient(120% 90% at 100% 0%, rgba(102, 204, 255, 0.14) 0%, transparent 55%),
     linear-gradient(180deg, #f8fafc 0%, #eef4f8 100%);
-}
-
-/* 全息板块：页面高度减去顶部留白，让内容区正好占满一屏不翻页 */
-.lty-page.is-holo {
-  min-height: calc(100vh - 36px);
 }
 
 /* 顶部栏：透明、不吸附、距顶留白，直接浮在背景上 */
