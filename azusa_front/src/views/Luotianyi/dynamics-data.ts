@@ -57,9 +57,6 @@ export interface DynamicSearchEntry {
   text: string;
 }
 
-/** 动态界面下按 Ctrl+K 时由 GlobalSearch 派发，动态搜索浮层监听此事件 */
-export const DYN_SEARCH_EVENT = 'lty-dynamic-search';
-
 /** 农历月份/日期选项（日期查找与结果标题共用），下标 + 1 为数值 */
 export const LUNAR_MONTH_LABELS = [
   '正月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '冬月', '腊月',

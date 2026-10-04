@@ -2,6 +2,7 @@
 // 索引数据在构建时由 scripts/generate-articles.mjs 生成到
 // public/article/search/content-index.json（按 /blog/ 部署路径 fetch），首次搜索时懒加载。
 import { scoreBodyLower, splitKeywords } from './utils/searchMatch';
+import type { ScopeFilter } from './search-scope';
 
 // content-index.json 结构：Record<"分类/文章名", { headings: string[], bodies: string[] }>
 interface ContentIndexEntry {
@@ -93,7 +94,12 @@ function makeSnippet(flat: string, flatLower: string, queryLower: string, span =
 // 搜索所有小节正文。只返回"正文命中"的小节（标题命中的小节由 search-index 的标题搜索覆盖）。
 // 评分：正文完整匹配 50 / 正文关键词匹配 10。
 // 排序与截断：按分数降序，同分保持阅读顺序；每篇文章最多返回 maxPerArticle 条。
-export async function searchContent(query: string, maxPerArticle = 20): Promise<ContentSearchResult[]> {
+// filter 限定搜索范围（不传则全量），索引 key（"分类/文章名"）与范围过滤的文章 key 对齐。
+export async function searchContent(
+  query: string,
+  maxPerArticle = 20,
+  filter?: ScopeFilter
+): Promise<ContentSearchResult[]> {
   const q = query.trim().toLowerCase();
   if (!q) return [];
   let index: PreparedIndex;
@@ -108,6 +114,7 @@ export async function searchContent(query: string, maxPerArticle = 20): Promise<
   }
   const hits: Hit[] = [];
   for (const [key, entry] of Object.entries(index)) {
+    if (filter && !filter.articles.has(key)) continue;
     const slash = key.lastIndexOf('/');
     const category = key.slice(0, slash);
     const article = key.slice(slash + 1);

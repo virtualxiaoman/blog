@@ -2,7 +2,7 @@
   <!-- 全局搜索：Ctrl+K 触发，悬浮半透明窗口，点击背景关闭 -->
   <Teleport to="body">
     <div v-if="open" class="gs-backdrop" @click.self="close">
-      <div class="gs-panel">
+      <div class="gs-panel" :class="{ 'is-scope-open': scopeOpen }">
         <input
           ref="inputRef"
           v-model="query"
@@ -10,14 +10,20 @@
           type="text"
           spellcheck="false"
           autocomplete="off"
-          placeholder="搜索文章、小节、工具、正文…"
+          :placeholder="placeholder"
           @input="onInput"
           @keydown="onPanelKeydown"
+        />
+        <SearchScopePicker
+          :model-value="scopeLeaves"
+          :open="scopeOpen"
+          @update:model-value="onScopeUpdate"
+          @update:open="scopeOpen = $event"
         />
         <div v-if="results.length" class="gs-list">
           <a
             v-for="(item, i) in results"
-            :key="`${item.type}-${item.path}-${item.sec}-${item.snippet}-${i}`"
+            :key="`${item.type}-${item.path}-${item.dynKey ?? ''}-${item.sec}-${item.snippet ?? ''}-${i}`"
             class="gs-item"
             :class="{ active: i === activeIndex }"
             :href="itemHref(item)"
@@ -30,8 +36,11 @@
             <span v-if="item.snippet" class="gs-snippet">{{ item.snippet }}</span>
           </a>
         </div>
+        <p v-else-if="scopeEmpty" class="gs-empty gs-hint">
+          未选择搜索范围 · 点击上方「范围」勾选要搜索的内容
+        </p>
         <p v-else-if="query && !loading" class="gs-empty">未找到与「{{ query }}」相关的内容</p>
-        <p v-else-if="query && loading" class="gs-empty">正在搜索正文…</p>
+        <p v-else-if="query && loading" class="gs-empty">正在搜索…</p>
         <p v-else class="gs-empty gs-hint">
           ↑↓ 选择 · Enter 跳转 · Esc 关闭
         </p>
@@ -45,8 +54,19 @@ import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router';
 import { searchAll, type SearchType } from '../search-index';
 import { searchContent, type ContentSearchResult } from '../content-search';
+import { searchDynamics, type DynamicSearchHit } from '../views/Luotianyi/dynamic-search';
 import { scrollToElementStable } from '../utils/stableScroll';
-import { DYN_SEARCH_EVENT } from '../views/Luotianyi/dynamics-data';
+import {
+  allScope,
+  defaultBlogScope,
+  defaultDynamicScope,
+  isEmptyScope,
+  isSameScope,
+  scopeSummary,
+  toScopeFilter,
+  type ScopeFilter,
+} from '../search-scope';
+import SearchScopePicker from './SearchScopePicker.vue';
 
 const route = useRoute();
 const router = useRouter();
@@ -55,22 +75,73 @@ const open = ref(false);
 const query = ref('');
 const inputRef = ref<HTMLInputElement | null>(null);
 const activeIndex = ref(0);
-const loading = ref(false); // 正文索引懒加载中
+const loading = ref(false); // 正文/动态索引懒加载中
 const contentResults = ref<ContentSearchResult[]>([]); // 异步加载的正文搜索结果
+const dynamicResults = ref<DynamicSearchHit[]>([]); // 异步加载的动态搜索结果
+const scopeOpen = ref(false); // 范围下拉是否展开
 
-// 标题索引结果（同步，即时）
-const titleResults = computed(() => searchAll(query.value, 20));
+// ---- 搜索范围：会话内按界面类型记忆（动态界面 / 其他界面各一份，初始为各自默认，刷新后重置）----
 
-// 合并标题与正文结果：标题结果在前，正文结果在后（优先展示标题，再展示正文）。
-// 两组各自已按评分降序排列（标题：100/30/10；正文：50/10）。
+type ScopeSlot = 'dynamic' | 'other';
+
+const scopeSlots: Record<ScopeSlot, Set<string>> = {
+  dynamic: defaultDynamicScope(),
+  other: defaultBlogScope(),
+};
+
+// 动态界面 = 洛天依"动态"板块或动态详情页；其余界面归入"其他"
+function interfaceSlot(): ScopeSlot {
+  const onDynamicBoard = route.path === '/lty' && route.query.tab === 'dynamic';
+  const onDynamicDetail = route.path.startsWith('/lty/dynamic/');
+  return onDynamicBoard || onDynamicDetail ? 'dynamic' : 'other';
+}
+
+const scopeLeaves = ref<ReadonlySet<string>>(scopeSlots[interfaceSlot()]);
+const scope = computed<ScopeFilter>(() => toScopeFilter(scopeLeaves.value));
+const scopeEmpty = computed(() => isEmptyScope(scopeLeaves.value));
+
+// 界面类型切换（动态 ↔ 其他）：换用该类型上次的选择；浮层开着时按新范围重搜
+watch(
+  () => interfaceSlot(),
+  (slot) => {
+    scopeLeaves.value = scopeSlots[slot];
+    scopeOpen.value = false;
+    if (open.value) scheduleSearch(0);
+  }
+);
+
+function onScopeUpdate(next: Set<string>) {
+  scopeSlots[interfaceSlot()] = next;
+  scopeLeaves.value = next;
+  activeIndex.value = 0;
+  scheduleSearch(0); // 勾选实时生效：立即按新范围重搜
+}
+
+// 输入框占位文案随范围变化，让用户打开就能确认正在搜索的范围
+const placeholder = computed(() => {
+  const leaves = scopeLeaves.value;
+  if (isEmptyScope(leaves)) return '请先选择搜索范围…';
+  if (isSameScope(leaves, allScope())) return '搜索文章、小节、工具、正文、动态…';
+  if (isSameScope(leaves, defaultBlogScope())) return '搜索文章、小节、工具、正文…';
+  if (isSameScope(leaves, defaultDynamicScope())) return '搜索洛天依动态（标题、正文）…';
+  return `在「${scopeSummary(leaves)}」中搜索…`;
+});
+
+// 标题索引结果（同步，即时；随范围变化重算）
+const titleResults = computed(() => searchAll(query.value, 20, scope.value));
+
+// 合并标题、正文与动态结果：标题结果在前，正文结果其次，动态结果最后。
+// 各组已按评分降序排列（标题：100/30/10；正文：50/10；动态：标题/正文取高）。
+type MergedType = SearchType | 'dynamic';
 interface MergedResult {
-  type: SearchType;
+  type: MergedType;
   title: string;
   subtitle: string;
   path: string;
   sec: number | null;
   score: number;
   snippet?: string;
+  dynKey?: string; // 动态结果的跳转 key（走命名路由）
 }
 const results = computed<MergedResult[]>(() => {
   const titles = titleResults.value.map((t) => ({
@@ -91,7 +162,17 @@ const results = computed<MergedResult[]>(() => {
     score: c.score,
     snippet: c.snippet,
   }));
-  return [...titles, ...contents];
+  const dynamics = dynamicResults.value.map((d) => ({
+    type: 'dynamic' as const,
+    title: d.entry.title,
+    subtitle: `${d.entry.date} · ${d.entry.typeLabel}`,
+    path: '',
+    sec: null,
+    score: d.score,
+    snippet: d.snippet,
+    dynKey: d.entry.key,
+  }));
+  return [...titles, ...contents, ...dynamics];
 });
 
 // 打开时锁定背景滚动，关闭后恢复
@@ -99,43 +180,72 @@ watch(open, (isOpen) => {
   document.body.style.overflow = isOpen ? 'hidden' : '';
 });
 
-// 输入即搜（无需点按钮）。正文搜索是异步的（懒加载索引），
+// 输入即搜（无需点按钮）。正文/动态搜索是异步的（懒加载索引），
 // 用 debounce 避免每次击键都触发 fetch/json 解析；标题搜索仍即时。
 // searchSeq 单调递增：已发出的慢请求 resolve 时若序号已过期则丢弃，
 // 避免旧查询结果覆盖新查询结果。
 let contentTimer = 0;
 let searchSeq = 0;
-function onInput() {
+
+function scheduleSearch(delay: number) {
   activeIndex.value = 0;
   clearTimeout(contentTimer);
   const q = query.value.trim();
   const seq = ++searchSeq;
-  if (!q) {
+  if (!q || scopeEmpty.value) {
     contentResults.value = [];
+    dynamicResults.value = [];
     loading.value = false;
     return;
   }
   loading.value = true;
-  contentTimer = window.setTimeout(async () => {
-    const res = await searchContent(q, 3);
-    if (seq !== searchSeq) return; // 已有更新的查询，丢弃过期结果
-    contentResults.value = res;
-    loading.value = false;
-  }, 200); // 200ms debounce：等用户停止输入再查正文
+  contentTimer = window.setTimeout(() => void runSearch(q, seq), delay);
+}
+
+function onInput() {
+  scheduleSearch(200); // 200ms debounce：等用户停止输入再查正文/动态
+}
+
+async function runSearch(q: string, seq: number) {
+  const filter = scope.value;
+  const tasks: Promise<void>[] = [];
+  if (filter.articles.size > 0) {
+    tasks.push(
+      searchContent(q, 3, filter).then((res) => {
+        if (seq === searchSeq) contentResults.value = res;
+      })
+    );
+  } else {
+    contentResults.value = [];
+  }
+  if (filter.dynamics) {
+    tasks.push(
+      searchDynamics(q).then((res) => {
+        if (seq === searchSeq) dynamicResults.value = res;
+      })
+    );
+  } else {
+    dynamicResults.value = [];
+  }
+  await Promise.all(tasks);
+  if (seq === searchSeq) loading.value = false;
 }
 
 function openSearch() {
   searchSeq++; // 作废可能在飞的旧请求
   query.value = '';
   contentResults.value = [];
+  dynamicResults.value = [];
   loading.value = false;
   activeIndex.value = 0;
+  scopeOpen.value = false;
   open.value = true;
   nextTick(() => inputRef.value?.focus());
 }
 
 function close() {
   open.value = false;
+  scopeOpen.value = false;
 }
 
 function toggle() {
@@ -143,21 +253,24 @@ function toggle() {
   else openSearch();
 }
 
-// 全局 Ctrl+K / ⌘K 触发（任意界面可用，preventDefault 阻止浏览器默认行为）
+// 全局键盘：Ctrl+K / ⌘K 开关浮层；浮层打开时 Esc 也能关（先关范围下拉、再关面板，
+// 不依赖焦点位置——焦点可能落在范围勾选框上）
 function onGlobalKeydown(e: KeyboardEvent) {
   if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
     e.preventDefault();
-    // 洛天依页"动态"板块：Ctrl+K 改为搜索动态（由 DynamicSearchOverlay 监听处理）
-    if (route.path === '/lty' && route.query.tab === 'dynamic') {
-      if (open.value) close();
-      window.dispatchEvent(new CustomEvent(DYN_SEARCH_EVENT));
+    toggle();
+    return;
+  }
+  if (e.key === 'Escape' && open.value) {
+    if (scopeOpen.value) {
+      scopeOpen.value = false;
       return;
     }
-    toggle();
+    close();
   }
 }
 
-// 面板内键盘导航：方向键移动高亮，Enter 跳转，Esc 关闭
+// 面板内键盘导航：方向键移动高亮，Enter 跳转，Esc 先关范围下拉、再关面板
 function onPanelKeydown(e: KeyboardEvent) {
   const n = results.value.length;
   if (e.key === 'ArrowDown') {
@@ -170,18 +283,24 @@ function onPanelKeydown(e: KeyboardEvent) {
     const item = results.value[activeIndex.value];
     if (item) go(item);
   } else if (e.key === 'Escape') {
+    e.stopPropagation(); // 输入框已处理，不再冒泡到全局 Esc 处理
+    if (scopeOpen.value) {
+      scopeOpen.value = false;
+      return;
+    }
     close();
   }
 }
 
-const TYPE_LABELS: Record<MergedResult['type'], string> = {
+const TYPE_LABELS: Record<MergedType, string> = {
   article: '文章',
   section: '小节',
   tool: '工具',
   page: '页面',
   content: '正文',
+  dynamic: '动态',
 };
-function typeLabel(t: MergedResult['type']) {
+function typeLabel(t: MergedType) {
   return TYPE_LABELS[t];
 }
 
@@ -210,6 +329,7 @@ function scrollToArticleTop(attempt = 0) {
 // 结果用真实链接渲染（右键可"在新标签页中打开"、可复制链接）；
 // 普通左键仍走 SPA 跳转 + 小节定位逻辑，修饰键/中键交给浏览器新标签页打开
 function itemHref(item: MergedResult) {
+  if (item.dynKey) return router.resolve({ name: 'lty-dynamic', params: { key: item.dynKey } }).href;
   return router.resolve(item.path).href;
 }
 
@@ -221,6 +341,10 @@ function onItemClick(e: MouseEvent, item: MergedResult) {
 
 async function go(item: MergedResult) {
   close();
+  if (item.dynKey) {
+    await router.push({ name: 'lty-dynamic', params: { key: item.dynKey } });
+    return;
+  }
   // 已在该文章页面：小节直接原地定位，无需路由跳转
   if (route.path === item.path && item.sec != null) {
     scrollToSection(item.sec);
@@ -271,13 +395,21 @@ onBeforeUnmount(() => {
   border-radius: 14px;
   box-shadow: 0 12px 40px rgba(0, 30, 50, 0.25);
   overflow: hidden;
+  min-height: 0;
+  transition: min-height 0.15s ease-out;
   animation: gs-panel-in 0.15s ease-out;
+}
+
+/* 范围下拉展开时面板自动增高：下拉是面板内的绝对定位元素（面板 overflow:hidden），
+   面板太矮（如空状态只有输入框+chip 时）会把下拉底边裁掉；增高后下拉可完整展示 */
+.gs-panel.is-scope-open {
+  min-height: min(70vh, 560px);
 }
 
 .gs-input {
   width: 100%;
   box-sizing: border-box;
-  padding: 18px 22px;
+  padding: 18px 22px 12px;
   border: none;
   background: transparent;
   font-size: 18px;
@@ -343,6 +475,10 @@ onBeforeUnmount(() => {
 
 .gs-type.content {
   background: #ecad9e;
+}
+
+.gs-type.dynamic {
+  background: #b39ddb;
 }
 
 .gs-title {

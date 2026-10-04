@@ -3,6 +3,7 @@
 import { allSections, type SectionWithArticle } from './articles';
 import { allTools, type ToolInfo } from './tools';
 import { scoreTitleLower, matchesQueryLower } from './utils/searchMatch';
+import type { ScopeFilter } from './search-scope';
 
 // 一条搜索结果的类型标签
 export type SearchType = 'article' | 'section' | 'tool' | 'page' | 'content';
@@ -15,10 +16,12 @@ export interface SearchItem {
   // 文章内小节定位：目标标题在文章渲染 HTML 中的 data-sec 序号，null 表示整篇文章/整页
   sec: number | null;
   keywords: string; // 参与匹配的关键词（中文原文 + 小写）
+  category?: string; // 文章/小节所属分类（范围过滤用）
+  article?: string; // 文章名（范围过滤用）
 }
 
-// 固定页面（非文章、非工具）。当前站点只有首页、文章选择页。
-const PAGES: { title: string; subtitle: string; path: string; keywords: string }[] = [
+// 固定页面（非文章、非工具）。当前站点只有首页、文章选择页。范围树与索引共用同一份注册表。
+export const PAGES: { title: string; subtitle: string; path: string; keywords: string }[] = [
   { title: '首页', subtitle: '博客主页', path: '/', keywords: '首页 主页 home azusa blog' },
   { title: '文章选择', subtitle: '按分类浏览全部文章', path: '/article/choice', keywords: '文章 选择 分类 choice' },
 ];
@@ -39,6 +42,8 @@ const INDEX: PreparedItem[] = [
           path: s.path,
           sec: null,
           keywords: `${s.text} ${s.category} ${s.article}`,
+          category: s.category,
+          article: s.article,
         }
       : {
           type: 'section' as const,
@@ -47,6 +52,8 @@ const INDEX: PreparedItem[] = [
           path: s.path,
           sec: s.seq,
           keywords: `${s.text} ${s.article} ${s.category}`,
+          category: s.category,
+          article: s.article,
         }
   ),
   // 工具
@@ -86,12 +93,23 @@ function score(item: PreparedItem, queryLower: string): number {
   return 0;
 }
 
+// 范围过滤：判断标题索引条目是否在用户勾选的搜索范围内
+function inScope(item: PreparedItem, filter?: ScopeFilter): boolean {
+  if (!filter) return true;
+  if (item.type === 'tool') return filter.tools;
+  if (item.type === 'page') return filter.pages;
+  return (
+    item.category != null && item.article != null && filter.articles.has(`${item.category}/${item.article}`)
+  );
+}
+
 // 搜索主入口：返回按相关度排序的结果，最多 limit 条。
-// 排序规则：分数高者在前，同分按标题字典序。
-export function searchAll(query: string, limit = 20): SearchItem[] {
+// 排序规则：分数高者在前，同分按标题字典序。filter 限定搜索范围（不传则全量）。
+export function searchAll(query: string, limit = 20, filter?: ScopeFilter): SearchItem[] {
   const q = query.trim().toLowerCase();
   if (!q) return [];
-  return INDEX.map((item) => ({ item, score: score(item, q) }))
+  return INDEX.filter((item) => inScope(item, filter))
+    .map((item) => ({ item, score: score(item, q) }))
     .filter((r) => r.score > 0)
     .sort((a, b) => b.score - a.score || a.item.title.localeCompare(b.item.title, 'zh'))
     .slice(0, limit)
