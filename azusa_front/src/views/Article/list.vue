@@ -3,7 +3,6 @@
     <ArticleNav />
     <div class="article-list-content">
       <h1 class="page-title">文章</h1>
-      <p class="page-sub">点击卡片即可阅读对应文章。</p>
       <BlogPost />
     </div>
   </div>
@@ -34,10 +33,5 @@ import BlogPost from '../../components/BlogPost.vue';
   font-weight: bold;
   color: #409eff;
   text-shadow: 2px 2px 4px rgba(102, 204, 255, 0.5);
-}
-
-.page-sub {
-  margin: 10px 0 28px;
-  color: #73767a;
 }
 </style>
