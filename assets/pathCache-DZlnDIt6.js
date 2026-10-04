@@ -1,0 +1,1 @@
+const a="tool-path:";function r(t){try{return localStorage.getItem(a+t)??""}catch{return""}}function c(t,o){try{const e=o.trim();e?localStorage.setItem(a+t,e):localStorage.removeItem(a+t)}catch{}}export{r as l,c as s};
