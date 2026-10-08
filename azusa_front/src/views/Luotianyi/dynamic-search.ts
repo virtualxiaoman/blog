@@ -37,15 +37,21 @@ export interface DynamicSearchHit {
 
 const MAX_RESULTS = 50;
 
+// 动态搜索结果：hits 为展示列表（最多 50 条），total 为截断前的真实命中数
+export interface DynamicSearchOutcome {
+  hits: DynamicSearchHit[];
+  total: number;
+}
+
 // 搜索动态（标题 + 正文）。索引加载失败时静默返回空结果（与正文搜索的降级策略一致）。
-export async function searchDynamics(query: string): Promise<DynamicSearchHit[]> {
+export async function searchDynamics(query: string): Promise<DynamicSearchOutcome> {
   const q = query.trim().toLowerCase();
-  if (!q) return [];
+  if (!q) return { hits: [], total: 0 };
   let entries: DecoratedEntry[];
   try {
     entries = await loadEntries();
   } catch {
-    return [];
+    return { hits: [], total: 0 };
   }
   const hits: DynamicSearchHit[] = [];
   for (const d of entries) {
@@ -53,9 +59,10 @@ export async function searchDynamics(query: string): Promise<DynamicSearchHit[]>
     if (!score) continue;
     hits.push({ entry: d.entry, score, snippet: makeSnippet(d.entry.text, q) });
   }
+  const total = hits.length;
   // 稳定排序：同分保持索引顺序（新动态在前）
   hits.sort((a, b) => b.score - a.score);
-  return hits.slice(0, MAX_RESULTS);
+  return { hits: hits.slice(0, MAX_RESULTS), total };
 }
 
 // 命中位置前后截断的摘要；"为什么命中"一目了然

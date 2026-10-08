@@ -91,6 +91,12 @@ function makeSnippet(flat: string, flatLower: string, queryLower: string, span =
   return `${prefix}${flat.slice(start, end)}${suffix}`;
 }
 
+// 正文搜索结果：results 为按 maxPerArticle 截断后的展示列表，total 为截断前的真实命中数
+export interface ContentSearchOutcome {
+  results: ContentSearchResult[];
+  total: number;
+}
+
 // 搜索所有小节正文。只返回"正文命中"的小节（标题命中的小节由 search-index 的标题搜索覆盖）。
 // 评分：正文完整匹配 50 / 正文关键词匹配 10。
 // 排序与截断：按分数降序，同分保持阅读顺序；每篇文章最多返回 maxPerArticle 条。
@@ -99,14 +105,14 @@ export async function searchContent(
   query: string,
   maxPerArticle = 20,
   filter?: ScopeFilter
-): Promise<ContentSearchResult[]> {
+): Promise<ContentSearchOutcome> {
   const q = query.trim().toLowerCase();
-  if (!q) return [];
+  if (!q) return { results: [], total: 0 };
   let index: PreparedIndex;
   try {
     index = await loadIndex();
   } catch {
-    return []; // 索引加载失败时正文搜索静默降级（标题搜索仍可用）
+    return { results: [], total: 0 }; // 索引加载失败时正文搜索静默降级（标题搜索仍可用）
   }
 
   interface Hit {
@@ -148,13 +154,17 @@ export async function searchContent(
     if (b.result.score !== a.result.score) return b.result.score - a.result.score;
     return a.result.path.localeCompare(b.result.path, 'zh') || a.result.sec - b.result.sec;
   });
+  const total = hits.length;
 
   // 每篇文章最多保留 maxPerArticle 条，避免单一长文刷屏
   const perArticle = new Map<string, number>();
-  return hits.filter((h) => {
-    const c = perArticle.get(h.result.path) ?? 0;
-    if (c >= maxPerArticle) return false;
-    perArticle.set(h.result.path, c + 1);
-    return true;
-  }).map((h) => h.result);
+  const results = hits
+    .filter((h) => {
+      const c = perArticle.get(h.result.path) ?? 0;
+      if (c >= maxPerArticle) return false;
+      perArticle.set(h.result.path, c + 1);
+      return true;
+    })
+    .map((h) => h.result);
+  return { results, total };
 }

@@ -14,12 +14,15 @@
           @input="onInput"
           @keydown="onPanelKeydown"
         />
-        <SearchScopePicker
-          :model-value="scopeLeaves"
-          :open="scopeOpen"
-          @update:model-value="onScopeUpdate"
-          @update:open="scopeOpen = $event"
-        />
+        <div class="gs-scope-row">
+          <SearchScopePicker
+            :model-value="scopeLeaves"
+            :open="scopeOpen"
+            @update:model-value="onScopeUpdate"
+            @update:open="scopeOpen = $event"
+          />
+          <span v-if="showResultCount" class="gs-result-count">共 <strong>{{ totalCount }}</strong> 条结果</span>
+        </div>
         <div v-if="results.length" class="gs-list">
           <a
             v-for="(item, i) in results"
@@ -52,7 +55,7 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import { searchAll, type SearchType } from '../search-index';
+import { searchAll, countAll, type SearchType } from '../search-index';
 import { searchContent, type ContentSearchResult } from '../content-search';
 import { searchDynamics, type DynamicSearchHit } from '../views/Luotianyi/dynamic-search';
 import { scrollToElementStable } from '../utils/stableScroll';
@@ -78,6 +81,8 @@ const activeIndex = ref(0);
 const loading = ref(false); // 正文/动态索引懒加载中
 const contentResults = ref<ContentSearchResult[]>([]); // 异步加载的正文搜索结果
 const dynamicResults = ref<DynamicSearchHit[]>([]); // 异步加载的动态搜索结果
+const contentTotal = ref(0); // 正文真实命中数（列表有每篇 3 条上限，总数不受限）
+const dynamicTotal = ref(0); // 动态真实命中数（列表最多 50 条）
 const scopeOpen = ref(false); // 范围下拉是否展开
 
 // ---- 搜索范围：会话内按界面类型记忆（动态界面 / 其他界面各一份，初始为各自默认，刷新后重置）----
@@ -129,6 +134,14 @@ const placeholder = computed(() => {
 
 // 标题索引结果（同步，即时；随范围变化重算）
 const titleResults = computed(() => searchAll(query.value, 20, scope.value));
+
+// 结果计数：标题 + 正文 + 动态的真实匹配总数（标题同步、其余异步到达后并入）。
+// 异步结果未返回前不展示，避免数字中途跳变。
+const titleTotal = computed(() => countAll(query.value, scope.value));
+const totalCount = computed(() => titleTotal.value + contentTotal.value + dynamicTotal.value);
+const showResultCount = computed(
+  () => Boolean(query.value.trim()) && !scopeEmpty.value && !loading.value
+);
 
 // 合并标题、正文与动态结果：标题结果在前，正文结果其次，动态结果最后。
 // 各组已按评分降序排列（标题：100/30/10；正文：50/10；动态：标题/正文取高）。
@@ -195,6 +208,8 @@ function scheduleSearch(delay: number) {
   if (!q || scopeEmpty.value) {
     contentResults.value = [];
     dynamicResults.value = [];
+    contentTotal.value = 0;
+    dynamicTotal.value = 0;
     loading.value = false;
     return;
   }
@@ -212,20 +227,26 @@ async function runSearch(q: string, seq: number) {
   if (filter.articles.size > 0) {
     tasks.push(
       searchContent(q, 3, filter).then((res) => {
-        if (seq === searchSeq) contentResults.value = res;
+        if (seq !== searchSeq) return;
+        contentResults.value = res.results;
+        contentTotal.value = res.total;
       })
     );
   } else {
     contentResults.value = [];
+    contentTotal.value = 0;
   }
   if (filter.dynamics) {
     tasks.push(
       searchDynamics(q).then((res) => {
-        if (seq === searchSeq) dynamicResults.value = res;
+        if (seq !== searchSeq) return;
+        dynamicResults.value = res.hits;
+        dynamicTotal.value = res.total;
       })
     );
   } else {
     dynamicResults.value = [];
+    dynamicTotal.value = 0;
   }
   await Promise.all(tasks);
   if (seq === searchSeq) loading.value = false;
@@ -236,6 +257,8 @@ function openSearch() {
   query.value = '';
   contentResults.value = [];
   dynamicResults.value = [];
+  contentTotal.value = 0;
+  dynamicTotal.value = 0;
   loading.value = false;
   activeIndex.value = 0;
   scopeOpen.value = false;
@@ -419,6 +442,30 @@ onBeforeUnmount(() => {
 
 .gs-input::placeholder {
   color: #a7b4bd;
+}
+
+/* 范围行：chip 在左，结果计数贴最右 */
+.gs-scope-row {
+  display: flex;
+  align-items: center;
+}
+
+.gs-scope-row .scope-pick {
+  flex: 1;
+  min-width: 0;
+}
+
+.gs-result-count {
+  flex-shrink: 0;
+  padding: 0 14px 10px 6px;
+  font-size: 12.5px;
+  color: #7d8a94;
+  white-space: nowrap;
+}
+
+.gs-result-count strong {
+  color: #3a8dbf;
+  font-weight: 700;
 }
 
 /* 结果列表：输入框下方，可滚动 */

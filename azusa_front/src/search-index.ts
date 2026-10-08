@@ -115,3 +115,14 @@ export function searchAll(query: string, limit = 20, filter?: ScopeFilter): Sear
     .slice(0, limit)
     .map((r) => r.item);
 }
+
+// 标题索引的真实匹配总数（不受 searchAll 的 limit 截断），供 Ctrl+K「共 N 条结果」使用
+export function countAll(query: string, filter?: ScopeFilter): number {
+  const q = query.trim().toLowerCase();
+  if (!q) return 0;
+  let n = 0;
+  for (const item of INDEX) {
+    if (inScope(item, filter) && score(item, q) > 0) n++;
+  }
+  return n;
+}
