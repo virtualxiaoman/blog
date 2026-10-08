@@ -53,6 +53,11 @@
         </template>
       </LtySection>
     </div>
+
+    <!-- 词频统计：宽屏粘在右侧空白区，窄屏回退到日历下方 -->
+    <div class="dyn-wordfreq">
+      <WordFreqPanel />
+    </div>
   </div>
 
   <!-- 弹层：月份列表与查找结果共用，Teleport 到 body 避免被卡片裁剪 -->
@@ -113,6 +118,7 @@ import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import LtySection from '../components/LtySection.vue';
 import DynamicFinder from '../components/DynamicFinder.vue';
+import WordFreqPanel from '../components/WordFreqPanel.vue';
 import {
   dynamicDetailHref,
   fetchDynamicsIndex,
@@ -342,9 +348,14 @@ const remainingCount = computed(() =>
   color: #7a8699;
 }
 
-/* ---------- 布局：宽屏时查找面板占左侧空白区 ---------- */
+/* ---------- 布局：宽屏时查找面板占左侧空白区、词频图占右侧空白区 ---------- */
 .dyn-sidebar {
   display: none;
+}
+
+/* 窄屏：词频图折叠到日历卡片下方 */
+.dyn-wordfreq {
+  margin-top: 16px;
 }
 
 .dyn-inline-finder {
@@ -358,9 +369,10 @@ const remainingCount = computed(() =>
 @media (min-width: 1520px) {
   .dyn-layout {
     display: grid;
-    grid-template-columns: 184px minmax(0, 1fr);
+    /* 左右各扩 200px 占住页面留白：左 184px 查找 + 右 200px 词频，中列宽度不变 */
+    grid-template-columns: 184px minmax(0, 1fr) 200px;
     gap: 16px;
-    width: calc(100% + 200px);
+    width: calc(100% + 416px);
     margin-left: -200px;
     align-items: start;
   }
@@ -374,6 +386,12 @@ const remainingCount = computed(() =>
     border-radius: 12px;
     background: rgba(255, 255, 255, 0.86);
     box-shadow: 0 4px 16px rgba(120, 160, 200, 0.12);
+  }
+
+  .dyn-wordfreq {
+    margin-top: 0;
+    position: sticky;
+    top: 24px;
   }
 
   .dyn-inline-finder {

@@ -2,12 +2,15 @@
 // 生成静态数据索引（静态托管无法列目录，必须构建期预生成）：
 //   data/index.json      总条数、年份→月份计数（日历视图）、最新动态摘要（首页用）
 //   data/<yyyy-mm>.json  当月动态摘要列表（月份弹层用）
+//   data/search-index.json 全文搜索索引（Ctrl+K 与日期查找共用）
+//   data/wordfreq.json   词频统计（右侧词频图用，见 dynamics-wordfreq.mjs）
 // 目录名不加下划线前缀：GitHub Pages 默认启用 Jekyll，会忽略 _data 这类目录导致线上 404。
 // 输出不含时间戳、键顺序固定，内容不变则不产生 diff。predev/prebuild 自动运行。
 import { readdirSync, readFileSync, existsSync, statSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { Solar } from 'lunar-javascript';
+import { computeWordFreq } from './dynamics-wordfreq.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
@@ -268,7 +271,12 @@ for (const ym of [...months].reverse()) {
 const searchJson = JSON.stringify(searchEntries);
 writeFileSync(join(dataDir, 'search-index.json'), searchJson);
 
+// 词频统计（右侧词频图数据）：分词 + 去停用词，输出 top 500 词
+const wordfreq = computeWordFreq(searchEntries);
+writeFileSync(join(dataDir, 'wordfreq.json'), JSON.stringify(wordfreq));
+
 console.log(
   `generate-dynamics: ${total} 条动态 / ${months.length} 个月 -> public/lty/dynamic/data/` +
-    `（search-index ${(searchJson.length / 1048576).toFixed(1)}MB）`
+    `（search-index ${(searchJson.length / 1048576).toFixed(1)}MB，` +
+    `wordfreq ${wordfreq.vocab} 词/top${wordfreq.words.length}）`
 );

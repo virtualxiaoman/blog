@@ -37,6 +37,7 @@
     "gh-pages": "^6.2.0",
     "lunar-javascript": "^1.7.7",
     "puppeteer-core": "^25.7.0",
+    "segmentit": "^2.0.3",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",
     "vue-tsc": "^2.0.6"

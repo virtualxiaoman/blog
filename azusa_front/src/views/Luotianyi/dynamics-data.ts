@@ -39,7 +39,7 @@ export interface DynamicsIndex {
   latest: DynamicSummary[];
 }
 
-/** 全文搜索索引条目（Ctrl+K 动态搜索与日期查找共用） */
+/** 全文搜索索引（Ctrl+K 动态搜索与日期查找共用） */
 export interface DynamicSearchEntry {
   key: string;
   /** 公历日期 YYYY-MM-DD */
@@ -55,6 +55,16 @@ export interface DynamicSearchEntry {
   cover: string | null;
   /** 全文搜索文本（正文剥离图片/meta 后，上限 1500 字） */
   text: string;
+}
+
+/** 词频统计（构建期生成）：全部动态标题+正文分词、去停用词后的出现总次数 */
+export interface WordFreqData {
+  /** 参与统计的动态条数 */
+  total: number;
+  /** 去停用词后的总词数（超出 top500 的部分不随 JSON 下发） */
+  vocab: number;
+  /** 按出现次数降序的 top500 词 */
+  words: { w: string; n: number }[];
 }
 
 /** 农历月份/日期选项（日期查找与结果标题共用），下标 + 1 为数值 */
@@ -95,6 +105,11 @@ export function fetchDynamicsMonth(ym: string): Promise<DynamicSummary[]> {
 /** 全文搜索索引约 1.2MB，按需加载（首次搜索/查找时） */
 export function fetchDynamicsSearchIndex(): Promise<DynamicSearchEntry[]> {
   return fetchJson<DynamicSearchEntry[]>('lty/dynamic/data/search-index.json');
+}
+
+/** 词频统计（约 11KB），动态板块挂载时加载（右侧词频图用） */
+export function fetchDynamicsWordFreq(): Promise<WordFreqData> {
+  return fetchJson<WordFreqData>('lty/dynamic/data/wordfreq.json');
 }
 
 /** 详情页链接：hash 路由下拼成 <base>#/lty/dynamic/<key>，兼容本地与 /blog/ 子路径部署 */
