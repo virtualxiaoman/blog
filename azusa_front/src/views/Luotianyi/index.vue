@@ -33,11 +33,12 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
-import { useRoute } from 'vue-router';
+import { computed, onBeforeUnmount, onMounted } from 'vue';
+import { useRoute, useRouter } from 'vue-router';
 import { ltySections } from './lty.config';
 
 const route = useRoute();
+const router = useRouter();
 
 // 资源在 public/ 下，路径带 BASE_URL 前缀兼容 GitHub Pages 的 /blog/ 子路径部署
 const base = import.meta.env.BASE_URL;
@@ -74,6 +75,33 @@ const pageStyle = computed(() =>
       }
     : undefined
 );
+
+// Q/E 或 Tab/Shift+Tab 循环切换板块：E/Tab 下一个，Q/Shift+Tab 上一个，首尾回绕。
+// Tab 按下时阻止默认的焦点移动；输入框内不劫持（Tab 仍是焦点导航），
+// 弹层（Ctrl+K 全局搜索面板、各板块弹窗）打开时不切换，避免打断弹层内的键盘交互。
+function onSectionKeydown(e: KeyboardEvent) {
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
+  let dir = 0;
+  if (e.key === 'Tab') dir = e.shiftKey ? -1 : 1;
+  else if (e.key === 'e' || e.key === 'E') dir = 1;
+  else if (e.key === 'q' || e.key === 'Q') dir = -1;
+  if (!dir) return;
+
+  const el = document.activeElement;
+  if (el instanceof HTMLElement) {
+    const tag = el.tagName;
+    if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || el.isContentEditable) return;
+  }
+  if (document.querySelector('.gs-backdrop, [role="dialog"]')) return;
+
+  e.preventDefault();
+  const idx = ltySections.findIndex((s) => s.key === current.value.key);
+  const next = ltySections[(idx + dir + ltySections.length) % ltySections.length];
+  void router.replace({ query: { ...route.query, tab: next.key } });
+}
+
+onMounted(() => window.addEventListener('keydown', onSectionKeydown));
+onBeforeUnmount(() => window.removeEventListener('keydown', onSectionKeydown));
 </script>
 
 <style scoped>
