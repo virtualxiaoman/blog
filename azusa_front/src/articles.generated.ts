@@ -1520,6 +1520,100 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         {
           "level": 3,
           "text": "1.1 MAE"
+        },
+        {
+          "level": 2,
+          "text": "2. NLP"
+        },
+        {
+          "level": 3,
+          "text": "2.1 Transformers"
+        }
+      ]
+    }
+  ],
+  "cos": [
+    {
+      "name": "kig出门带的",
+      "cover": null,
+      "headings": [
+        {
+          "level": 2,
+          "text": "1. 头壳相关"
+        },
+        {
+          "level": 3,
+          "text": "1.1 基本"
+        },
+        {
+          "level": 3,
+          "text": "1.2 Tool"
+        },
+        {
+          "level": 2,
+          "text": "2. C服相关"
+        },
+        {
+          "level": 3,
+          "text": "2.1 基本"
+        },
+        {
+          "level": 3,
+          "text": "2.2 Additional"
+        },
+        {
+          "level": 3,
+          "text": "2.3 Tool"
+        },
+        {
+          "level": 2,
+          "text": "3. 外设"
+        }
+      ]
+    },
+    {
+      "name": "kig后勤手册_小满版",
+      "cover": null,
+      "headings": [
+        {
+          "level": 1,
+          "text": "1. 后勤手册 designed by 小满"
+        },
+        {
+          "level": 2,
+          "text": "1.1 定义"
+        },
+        {
+          "level": 3,
+          "text": "1.1.1 kig"
+        },
+        {
+          "level": 3,
+          "text": "1.1.2 后勤"
+        },
+        {
+          "level": 2,
+          "text": "1.2 后勤职责"
+        },
+        {
+          "level": 3,
+          "text": "1.2.1 外出篇"
+        },
+        {
+          "level": 4,
+          "text": "1.2.1.1 打车"
+        },
+        {
+          "level": 4,
+          "text": "1.2.1.2 行程"
+        },
+        {
+          "level": 4,
+          "text": "1.2.1.3 游场"
+        },
+        {
+          "level": 4,
+          "text": "1.2.1.4 交流"
         }
       ]
     }
