@@ -78,14 +78,90 @@ function md2katex(md: string) {
   return processed;
 }
 
+// 代码中公式的占位符：纯字母数字，highlight.js 不会把它拆进多个文本节点。
+const CODE_FORMULA_SLOT = `KATEXCODESLOT${Math.random().toString(36).slice(2).toUpperCase()}X`;
+
+// 后行断言需要较新的内核；旧浏览器不支持时跳过代码内公式渲染，不影响其余内容。
+const CODE_FORMULA_RE = (() => {
+  try {
+    return new RegExp(
+      String.raw`(?<!\\)\$\$([\s\S]+?)(?<!\\)\$\$|(?<!\\)\$([^$\n]+?)(?<!\\)\$`,
+      'g',
+    );
+  } catch {
+    return null;
+  }
+})();
+
+// 渲染代码块/行内代码中的 $...$ 公式。
+// 顺序必须是：抽公式占位 → 语法高亮 → 还原公式；高亮会重建 code 的 DOM，
+// 提前插入的公式节点会被清掉。
+function highlightCodeWithFormulas(code: HTMLElement, highlight: boolean) {
+  const slots: { src: string; display: boolean; html: string }[] = [];
+  if (CODE_FORMULA_RE) {
+    CODE_FORMULA_RE.lastIndex = 0; // 全局正则在多次调用间共用
+    const text = (code.textContent ?? '').replace(
+      CODE_FORMULA_RE,
+      (_match, block: string | undefined, inline: string | undefined) => {
+        const src = block ?? inline ?? '';
+        const display = block !== undefined;
+        slots.push({
+          src,
+          display,
+          html: katex.renderToString(src, { throwOnError: false, displayMode: display }),
+        });
+        return `${CODE_FORMULA_SLOT}${slots.length - 1}`;
+      },
+    );
+    if (slots.length) code.textContent = text;
+  }
+
+  if (highlight) hljs.highlightElement(code);
+  if (!slots.length) return;
+
+  const walker = document.createTreeWalker(code, NodeFilter.SHOW_TEXT);
+  const textNodes: Text[] = [];
+  while (walker.nextNode()) textNodes.push(walker.currentNode as Text);
+
+  const slotRe = new RegExp(`${CODE_FORMULA_SLOT}(\\d+)`, 'g');
+  for (const node of textNodes) {
+    if (!node.data.includes(CODE_FORMULA_SLOT)) continue;
+    const frag = document.createDocumentFragment();
+    let last = 0;
+    for (const match of node.data.matchAll(slotRe)) {
+      const index = match.index ?? 0;
+      if (index > last) frag.append(node.data.slice(last, index));
+      const slot = slots[Number(match[1])];
+      if (slot) {
+        const wrap = document.createElement('span');
+        wrap.className = 'katex-wrap code-katex';
+        wrap.setAttribute('data-src', slot.display ? `$$${slot.src}$$` : `$${slot.src}$`);
+        wrap.innerHTML = slot.html;
+        frag.append(wrap);
+      } else {
+        frag.append(match[0]);
+      }
+      last = index + match[0].length;
+    }
+    if (last < node.data.length) frag.append(node.data.slice(last));
+    node.replaceWith(frag);
+  }
+}
+
 // 第二步，把md转化为html。
 // 返回 { html, mermaidTexts }：mermaid 图表定义文本单独抽出，代码块用占位元素标记，
 // 后续由 renderMermaid 异步渲染成 SVG。
 async function md2html(md: string) {
-  const html = await marked(md);
+  const html = await marked(md, { breaks: true });
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
   const mermaidTexts: string[] = [];
+
+  // 代码中的公式也渲染；mermaid 源码保持原样
+  tempDiv.querySelectorAll('code').forEach((code) => {
+    if (code.classList.contains('language-mermaid')) return;
+    highlightCodeWithFormulas(code as HTMLElement, code.closest('pre') !== null);
+  });
 
   tempDiv.querySelectorAll('pre').forEach((pre) => {
     const code = pre.querySelector('code');
@@ -100,9 +176,6 @@ async function md2html(md: string) {
       pre.replaceWith(slot);
       return;
     }
-
-    // 手动处理代码高亮，并给每个代码块加右上角复制按钮
-    hljs.highlightElement(code as HTMLElement);
 
     // 复制按钮：只负责展示。点击逻辑由根容器事件委托处理（见 onContentClick）。
     // 注意不能在这里 addEventListener——按钮会经 innerHTML 序列化后由浏览器重建，监听器会丢失。
@@ -167,6 +240,16 @@ function copyText(text: string) {
   } else {
     fallbackCopy(text);
   }
+}
+
+// 复制代码时把已渲染的公式还原为 $...$ 源码，
+// 否则 KaTeX 输出的 MathML 与 HTML 两份文本都会进剪贴板。
+function getCodeSource(code: Element): string {
+  const clone = code.cloneNode(true) as Element;
+  clone.querySelectorAll('.code-katex').forEach((el) => {
+    el.replaceWith(el.getAttribute('data-src') ?? '');
+  });
+  return clone.textContent ?? '';
 }
 
 function fallbackCopy(text: string) {
@@ -315,7 +398,7 @@ function onContentClick(event: MouseEvent) {
     const pre = copyBtn.closest('pre');
     const code = pre?.querySelector('code');
     if (pre && code) {
-      copyText(code.textContent ?? '');
+      copyText(getCodeSource(code));
       showCopied(copyBtn as HTMLElement);
     }
     return;
@@ -391,6 +474,11 @@ function onContentCopy(event: ClipboardEvent) {
   const frag = range.cloneContents();
   const holder = document.createElement('div');
   holder.appendChild(frag);
+  // turndown 的代码块规则按纯文本提取，先把代码内公式还原为源码，
+  // 避免把 KaTeX 的 MathML 与 HTML 两份文本写进复制出的代码块。
+  holder.querySelectorAll('code .katex-wrap').forEach((el) => {
+    el.replaceWith(el.getAttribute('data-src') ?? '');
+  });
   let markdown = getMdConverter().turndown(holder.innerHTML);
   // 标题行首的数字序号点（如 "1\."）是 turndown 为避免有序列表歧义的转义，还原为 "1."
   markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
@@ -500,6 +588,16 @@ watch(() => props.source, (source) => { loadContent(source); }, { immediate: tru
   font-size: 1em;
   box-sizing: border-box;
   margin: 0 2px;
+}
+
+/* 代码中渲染的公式：恢复正文色，避免继承语法高亮的注释/字符串配色 */
+.markdown-body code .code-katex {
+  color: #333;
+}
+
+/* 代码块字号是正文的 0.712em，按比例放大后公式与正文中的公式大小一致 */
+.markdown-body pre code .code-katex {
+  font-size: 1.4em;
 }
 
 /* 引言：一个 > 的引言仅为两字符缩进 */
