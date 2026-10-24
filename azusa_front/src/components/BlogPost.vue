@@ -2,7 +2,7 @@
   <div ref="rootRef" class="blog-section">
     <div class="board-header">
       <p class="board-hint">点击板块标题可折叠/展开，点击卡片即可阅读对应文章。</p>
-      <button type="button" class="toggle-all" @click="toggleAll">
+      <button v-if="categories.length > 1" type="button" class="toggle-all" @click="toggleAll">
         {{ allExpanded ? '全部折叠' : '全部展开' }}
       </button>
     </div>
@@ -45,7 +45,7 @@
       </div>
     </section>
 
-    <div class="archive-row">
+    <div v-if="!category" class="archive-row">
       <RouterLink class="archive-card" to="/article/choice">
         <img :src="`${base}article/cover/其他文章.jpg`" alt="全部文章归档">
         <div class="archive-info">
@@ -61,17 +61,23 @@
 import { computed, onMounted, ref } from 'vue';
 import { articlesByCategory, categoryNames, coverFile } from '../articles';
 
+const props = defineProps<{
+  /** 只展示指定分类；不传时展示全部分类。 */
+  category?: string;
+}>();
+
 const base = import.meta.env.BASE_URL;
-const categories = categoryNames();
+// 分类落地页（#/article/<分类>）复用本组件，只渲染该分类
+const categories = computed(() => (props.category ? [props.category] : categoryNames()));
 
 const rootRef = ref<HTMLElement | null>(null);
 
 // 各板块折叠状态：默认全部展开
 const expanded = ref<Record<string, boolean>>(
-  Object.fromEntries(categories.map((cat) => [cat, true]))
+  Object.fromEntries(categories.value.map((cat) => [cat, true]))
 );
 
-const allExpanded = computed(() => categories.every((cat) => expanded.value[cat]));
+const allExpanded = computed(() => categories.value.every((cat) => expanded.value[cat]));
 
 function isExpanded(cat: string): boolean {
   return expanded.value[cat];
@@ -82,7 +88,7 @@ function toggleGroup(cat: string) {
 }
 
 function toggleAll() {
-  scheduleToggle([...categories], !allExpanded.value);
+  scheduleToggle([...categories.value], !allExpanded.value);
 }
 
 // 预解码已加载的图片：否则折叠/展开动画首帧会把"加载了但未解码"的大图同步解码，

@@ -4,8 +4,10 @@ import Home from '../views/HomePage/index.vue';
 // 下载完才更新 URL 并渲染，弱网下点击后数秒无任何反馈（首页大图占带宽时会更久）。
 // 其余路由保持懒加载（文章详情页依赖较重，不适合进主包）。
 import ArticleList from '../views/Article/list.vue';
+import ArticleCategory from '../views/Article/category.vue';
 import ToolIndex from '../views/Tool/index.vue';
 import LuotianyiPage from '../views/Luotianyi/index.vue';
+import NotFound from '../views/NotFound.vue';
 
 // 使用 hash 历史模式，兼容 GitHub Pages 等静态托管：
 // 直接访问 / 刷新深链（如 /#/article/AI/强化学习）都能正常工作，无需服务端回退。
@@ -34,6 +36,12 @@ const routes = [
     component: () => import('../views/Luotianyi/DynamicDetail.vue'),
   },
   {
+    // 只带分类的落地页，路径形如 #/article/KaoYan
+    path: '/article/:category',
+    name: 'article-category',
+    component: ArticleCategory,
+  },
+  {
     // 分类后的文章详情页，路径形如 #/article/AI/强化学习
     path: '/article/:category/:name',
     name: 'article',
@@ -45,6 +53,11 @@ const routes = [
     component: () => import('../views/Article/misc.vue'),
   },
   {
+    // 不带文章名的 /article 直接回到文章列表，避免白屏
+    path: '/article',
+    redirect: '/articles',
+  },
+  {
     path: '/tool', // 工具箱首页
     name: 'tool',
     component: ToolIndex,
@@ -54,6 +67,12 @@ const routes = [
     path: '/tool/:category/:name',
     name: 'tool-detail',
     component: () => import('../views/Tool/detail.vue'),
+  },
+  {
+    // 未知地址兜底：渲染带文章导航的提示页，避免深链失效时整页空白
+    path: '/:pathMatch(.*)*',
+    name: 'not-found',
+    component: NotFound,
   },
 ];
 
