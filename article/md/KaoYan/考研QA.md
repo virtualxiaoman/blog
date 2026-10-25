@@ -1,13 +1,15 @@
 # 考研QA
 Copyright © 2026 virtual小满 All rights reserved.
 个人意见仅供参考。考研有风险，入坑需谨慎。
-在线阅读版：https://virtualxiaoman.github.io/blog/#/article/KaoYan/%E8%80%83%E7%A0%94QA
+在线阅读版：https://virtualxiaoman.github.io/blog/#/article/KaoYan
 PDF一般支持`Ctrl+F`搜索本文内容。在线博客额外支持`Ctrl+K`跨页面搜索，并且未来可能会有更新。善用搜索功能来查询本文，或者使用AI辅助阅读。
 本文来源于近6个月的考研QA内容，基本去除了隐私信息，不包括一对一付费咨询内容（不过付费咨询的感觉也是类似的东西）。
 
 
 
 [toc]
+
+
 
 ## 一页纸结论
 
@@ -737,8 +739,6 @@ PDF一般支持`Ctrl+F`搜索本文内容。在线博客额外支持`Ctrl+K`跨�
     <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 45%; min-width: 200px;">
         <img src="../../assets/考研QA/images/zfb.jpg" style="width: 100%; height: auto; max-width: 500px;" alt="图2">
     </div>
-
-
 </div>
 
 
