@@ -19,6 +19,7 @@
     "dompurify": "^3.4.16",
     "github-markdown-css": "^5.6.1",
     "highlight.js": "^11.10.0",
+    "html2pdf.js": "^0.14.0",
     "katex": "^0.16.11",
     "marked": "^14.0.0",
     "mermaid": "^11.16.1",

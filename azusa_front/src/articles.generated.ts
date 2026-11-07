@@ -19,511 +19,675 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
       "headings": [
         {
           "level": 1,
-          "text": "1. 动手算神经网络"
+          "text": "1. 深度学习模型"
         },
         {
           "level": 2,
-          "text": "1.1 前向传播的shape"
-        },
-        {
-          "level": 3,
-          "text": "1.1.1 简表"
-        },
-        {
-          "level": 3,
-          "text": "1.1.2 对该表的一些约定"
-        },
-        {
-          "level": 3,
-          "text": "1.1.3 补充说明"
+          "text": "1.1 MLP"
         },
         {
           "level": 2,
-          "text": "1.2 前向传播的计算"
+          "text": "1.2 CNN"
         },
         {
           "level": 3,
-          "text": "1.2.1 激活函数"
+          "text": "1.2.1 基本的CNN"
         },
         {
           "level": 3,
-          "text": "1.2.2 展平层"
+          "text": "1.2.2 深度可分离卷积"
         },
         {
           "level": 3,
-          "text": "1.2.3 线性层"
+          "text": "1.2.3 孪生网络Siamese Network"
+        },
+        {
+          "level": 2,
+          "text": "1.3 RNN"
+        },
+        {
+          "level": 3,
+          "text": "1.3.1 基本的RNN"
+        },
+        {
+          "level": 3,
+          "text": "1.3.2 GRU"
+        },
+        {
+          "level": 3,
+          "text": "1.3.3 LSTM"
+        },
+        {
+          "level": 3,
+          "text": "1.3.4 深度循环神经网络"
+        },
+        {
+          "level": 3,
+          "text": "1.3.5 双向循环神经网络"
+        },
+        {
+          "level": 3,
+          "text": "1.3.6 编码器-解码器架构"
+        },
+        {
+          "level": 3,
+          "text": "1.3.7 seq2seq"
+        },
+        {
+          "level": 2,
+          "text": "1.4 注意力机制"
+        },
+        {
+          "level": 3,
+          "text": "1.4.1 非参数注意力汇聚 Nadaraya-Watson核回归"
+        },
+        {
+          "level": 3,
+          "text": "1.4.2 带参数注意力汇聚"
+        },
+        {
+          "level": 3,
+          "text": "1.4.3 注意力评分函数"
+        },
+        {
+          "level": 3,
+          "text": "1.4.4 Bahdanau注意力"
+        },
+        {
+          "level": 3,
+          "text": "1.4.5 自注意力和位置编码"
+        },
+        {
+          "level": 2,
+          "text": "1.5 Transformer"
+        },
+        {
+          "level": 3,
+          "text": "1.5.1 编码器"
+        },
+        {
+          "level": 3,
+          "text": "1.5.2 解码器"
+        },
+        {
+          "level": 3,
+          "text": "1.5.3 一些细节问题"
+        },
+        {
+          "level": 3,
+          "text": "1.5.4 tricks"
+        },
+        {
+          "level": 2,
+          "text": "1.6 优化"
+        },
+        {
+          "level": 3,
+          "text": "1.6.1 KV Cache"
         },
         {
           "level": 4,
-          "text": "1.2.3.1 二维输入"
+          "text": "1.6.1.1 MHA"
         },
         {
           "level": 4,
-          "text": "1.2.3.2 高维输入"
-        },
-        {
-          "level": 3,
-          "text": "1.2.4 卷积层"
+          "text": "1.6.1.2 MQA"
         },
         {
           "level": 4,
-          "text": "1.2.4.1 `conv2d`"
+          "text": "1.6.1.3 GQA"
         },
         {
           "level": 4,
-          "text": "1.2.4.2 `conv1d`："
+          "text": "1.6.1.4 MLA"
         },
         {
           "level": 4,
-          "text": "1.2.4.3 out_channels > 1"
+          "text": "1.6.1.5 MHA、MQA、GQA和MLA的对比"
+        },
+        {
+          "level": 3,
+          "text": "1.6.2 计算复杂度"
         },
         {
           "level": 4,
-          "text": "1.2.4.4 in_channels > 1"
+          "text": "1.6.2.1 Linear Attention"
         },
         {
           "level": 3,
-          "text": "1.2.5 汇聚层"
-        },
-        {
-          "level": 3,
-          "text": "1.2.6 归一化"
-        },
-        {
-          "level": 2,
-          "text": "1.3 损失函数的计算"
-        },
-        {
-          "level": 3,
-          "text": "1.3.1 `MSELoss`(均方误差损失)"
-        },
-        {
-          "level": 3,
-          "text": "1.3.2 `L1Loss` (绝对误差损失)"
-        },
-        {
-          "level": 3,
-          "text": "1.3.3 `HuberLoss` (Huber 损失)"
-        },
-        {
-          "level": 3,
-          "text": "1.3.4 `CrossEntropyLoss` (交叉熵损失)"
-        },
-        {
-          "level": 3,
-          "text": "1.3.5 `BCEWithLogitsLoss` (带 `sigmoid` 的二分类交叉熵损失)"
-        },
-        {
-          "level": 3,
-          "text": "1.3.6 `BCELoss` (二分类交叉熵损失)"
-        },
-        {
-          "level": 1,
-          "text": "2. 常遇到的问题"
-        },
-        {
-          "level": 2,
-          "text": "2.1 代码运行问题"
-        },
-        {
-          "level": 3,
-          "text": "2.1.1 损失函数的问题"
-        },
-        {
-          "level": 3,
-          "text": "2.1.2 硬件的问题"
+          "text": "1.6.3 位置编码"
         },
         {
           "level": 4,
-          "text": "2.1.2.1 CUDA"
+          "text": "1.6.3.1 RoPE"
+        },
+        {
+          "level": 2,
+          "text": "1.7 生成式模型"
         },
         {
           "level": 3,
-          "text": "2.1.3 模型的问题"
+          "text": "1.7.1 GAN"
+        },
+        {
+          "level": 3,
+          "text": "1.7.2 CycleGAN"
+        },
+        {
+          "level": 3,
+          "text": "1.7.3 扩散模型diffusion"
+        },
+        {
+          "level": 2,
+          "text": "1.8 自监督学习"
+        },
+        {
+          "level": 3,
+          "text": "1.8.1 BERT"
         },
         {
           "level": 4,
-          "text": "2.1.3.1 导入模型"
+          "text": "1.8.1.1 优化"
         },
         {
           "level": 3,
-          "text": "2.1.4 其他问题"
+          "text": "1.8.2 GPT"
+        },
+        {
+          "level": 3,
+          "text": "1.8.3 T5"
+        },
+        {
+          "level": 3,
+          "text": "1.8.4 LLaMA"
+        },
+        {
+          "level": 3,
+          "text": "1.8.5 自编码器"
+        },
+        {
+          "level": 2,
+          "text": "1.9 迁移学习"
+        },
+        {
+          "level": 3,
+          "text": "1.9.1 领域偏移 domain shift"
+        },
+        {
+          "level": 3,
+          "text": "1.9.2 领域自适应 domain adaptation"
+        },
+        {
+          "level": 3,
+          "text": "1.9.3 领域泛化 domain generalization"
+        },
+        {
+          "level": 2,
+          "text": "1.10 强化学习"
+        },
+        {
+          "level": 2,
+          "text": "1.11 LLM"
+        },
+        {
+          "level": 3,
+          "text": "1.11.1 Pretrain"
         },
         {
           "level": 4,
-          "text": "2.1.4.1 软件包的问题"
-        },
-        {
-          "level": 2,
-          "text": "2.2 理论问题"
+          "text": "1.11.1.1 数据集"
         },
         {
           "level": 3,
-          "text": "2.2.1 梯度消失和梯度爆炸"
+          "text": "1.11.2 SFT"
         },
         {
           "level": 3,
-          "text": "2.2.2 过拟合和欠拟合"
+          "text": "1.11.3 RLHF"
         },
         {
-          "level": 3,
-          "text": "2.2.3 网络越深效果越差"
+          "level": 4,
+          "text": "1.11.3.1 RM"
         },
         {
-          "level": 3,
-          "text": "2.2.4 数据不匹配domain mismatch"
+          "level": 4,
+          "text": "1.11.3.2 PPO"
         },
         {
-          "level": 3,
-          "text": "2.2.5 局部极小值 OR 鞍点？"
-        },
-        {
-          "level": 3,
-          "text": "2.2.6 万能近似定理UAT"
-        },
-        {
-          "level": 3,
-          "text": "2.2.7 饱和"
-        },
-        {
-          "level": 2,
-          "text": "2.3 评估问题"
-        },
-        {
-          "level": 3,
-          "text": "2.3.1 基准语料库"
+          "level": 4,
+          "text": "1.11.3.3 DPO"
         },
         {
           "level": 1,
-          "text": "3. 激活函数&损失函数"
+          "text": "2. 经典网络"
         },
         {
           "level": 2,
-          "text": "3.1 [CrossEntropyLoss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)"
+          "text": "2.1 CNN相关"
+        },
+        {
+          "level": 3,
+          "text": "2.1.1 AlexNet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.2 VGG"
+        },
+        {
+          "level": 3,
+          "text": "2.1.3 GoogLeNet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.4 ResNet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.5 DenseNet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.6 SENet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.7 UNet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.8 MobileNet"
+        },
+        {
+          "level": 3,
+          "text": "2.1.9 MnasNet"
+        },
+        {
+          "level": 2,
+          "text": "2.2 RNN相关"
+        },
+        {
+          "level": 3,
+          "text": "2.2.1 LSTM"
+        },
+        {
+          "level": 3,
+          "text": "2.2.2 GRU"
+        },
+        {
+          "level": 2,
+          "text": "2.3 Transformer"
+        },
+        {
+          "level": 3,
+          "text": "2.3.1 BERT"
+        },
+        {
+          "level": 3,
+          "text": "2.3.2 GPT"
+        },
+        {
+          "level": 3,
+          "text": "2.3.3 T5"
+        },
+        {
+          "level": 3,
+          "text": "2.3.4 LLaMA"
         },
         {
           "level": 1,
-          "text": "4. 优化器"
+          "text": "3. 实际应用中的挑战与优化"
+        },
+        {
+          "level": 2,
+          "text": "3.1 并行"
+        },
+        {
+          "level": 3,
+          "text": "3.1.1 数据并行"
+        },
+        {
+          "level": 3,
+          "text": "3.1.2 模型并行"
+        },
+        {
+          "level": 3,
+          "text": "3.1.3 Deepspeed"
+        },
+        {
+          "level": 4,
+          "text": "3.1.3.1 ZeRO"
+        },
+        {
+          "level": 4,
+          "text": "3.1.3.2 CPU-offload"
+        },
+        {
+          "level": 2,
+          "text": "3.2 对抗攻击"
+        },
+        {
+          "level": 3,
+          "text": "3.2.1 如何攻击网络"
+        },
+        {
+          "level": 3,
+          "text": "3.2.2 如何防御网络"
+        },
+        {
+          "level": 2,
+          "text": "3.3 网络压缩"
+        },
+        {
+          "level": 3,
+          "text": "3.3.1 网络剪枝 network pruning"
+        },
+        {
+          "level": 3,
+          "text": "3.3.2 知识蒸馏 knowledge distillation"
+        },
+        {
+          "level": 3,
+          "text": "3.3.3 参数量化 parameter quantization"
+        },
+        {
+          "level": 3,
+          "text": "3.3.4 网络架构设计 network architecture design"
+        },
+        {
+          "level": 3,
+          "text": "3.3.5 动态计算 dynamic computation"
+        },
+        {
+          "level": 2,
+          "text": "3.4 终身学习"
+        },
+        {
+          "level": 3,
+          "text": "3.4.1 干什么"
+        },
+        {
+          "level": 3,
+          "text": "3.4.2 评估指标"
+        },
+        {
+          "level": 3,
+          "text": "3.4.3 解决方法"
+        },
+        {
+          "level": 2,
+          "text": "3.5 可解释性人工智能"
+        },
+        {
+          "level": 3,
+          "text": "3.5.1 局部解释"
+        },
+        {
+          "level": 3,
+          "text": "3.5.2 全局解释"
         },
         {
           "level": 1,
-          "text": "5. 正则化、标准化"
+          "text": "4. 动手算神经网络"
+        },
+        {
+          "level": 2,
+          "text": "4.1 前向传播的shape"
+        },
+        {
+          "level": 3,
+          "text": "4.1.1 简表"
+        },
+        {
+          "level": 3,
+          "text": "4.1.2 对该表的一些约定"
+        },
+        {
+          "level": 3,
+          "text": "4.1.3 补充说明"
+        },
+        {
+          "level": 2,
+          "text": "4.2 前向传播的计算"
+        },
+        {
+          "level": 3,
+          "text": "4.2.1 激活函数"
+        },
+        {
+          "level": 3,
+          "text": "4.2.2 展平层"
+        },
+        {
+          "level": 3,
+          "text": "4.2.3 线性层"
+        },
+        {
+          "level": 4,
+          "text": "4.2.3.1 二维输入"
+        },
+        {
+          "level": 4,
+          "text": "4.2.3.2 高维输入"
+        },
+        {
+          "level": 3,
+          "text": "4.2.4 卷积层"
+        },
+        {
+          "level": 4,
+          "text": "4.2.4.1 `conv2d`"
+        },
+        {
+          "level": 4,
+          "text": "4.2.4.2 `conv1d`："
+        },
+        {
+          "level": 4,
+          "text": "4.2.4.3 out_channels > 1"
+        },
+        {
+          "level": 4,
+          "text": "4.2.4.4 in_channels > 1"
+        },
+        {
+          "level": 3,
+          "text": "4.2.5 汇聚层"
+        },
+        {
+          "level": 3,
+          "text": "4.2.6 归一化"
+        },
+        {
+          "level": 2,
+          "text": "4.3 损失函数的计算"
+        },
+        {
+          "level": 3,
+          "text": "4.3.1 `MSELoss`(均方误差损失)"
+        },
+        {
+          "level": 3,
+          "text": "4.3.2 `L1Loss` (绝对误差损失)"
+        },
+        {
+          "level": 3,
+          "text": "4.3.3 `HuberLoss` (Huber 损失)"
+        },
+        {
+          "level": 3,
+          "text": "4.3.4 `CrossEntropyLoss` (交叉熵损失)"
+        },
+        {
+          "level": 3,
+          "text": "4.3.5 `BCEWithLogitsLoss` (带 `sigmoid` 的二分类交叉熵损失)"
+        },
+        {
+          "level": 3,
+          "text": "4.3.6 `BCELoss` (二分类交叉熵损失)"
         },
         {
           "level": 1,
-          "text": "6. 数据处理"
+          "text": "5. 激活函数&损失函数&优化器&正则化&标准化"
         },
         {
           "level": 2,
-          "text": "6.1 数据增强"
+          "text": "5.1 激活函数"
+        },
+        {
+          "level": 2,
+          "text": "5.2 损失函数"
         },
         {
           "level": 3,
-          "text": "6.1.1 图像增广"
+          "text": "5.2.1 [CrossEntropyLoss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)"
+        },
+        {
+          "level": 2,
+          "text": "5.3 优化器"
+        },
+        {
+          "level": 2,
+          "text": "5.4 正则化"
+        },
+        {
+          "level": 3,
+          "text": "5.4.1 BN与LN"
+        },
+        {
+          "level": 2,
+          "text": "5.5 标准化"
         },
         {
           "level": 1,
-          "text": "7. 经典网络"
+          "text": "6. 代码知识"
         },
         {
           "level": 2,
-          "text": "7.1 CNN相关"
-        },
-        {
-          "level": 3,
-          "text": "7.1.1 AlexNet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.2 VGG"
-        },
-        {
-          "level": 3,
-          "text": "7.1.3 GoogLeNet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.4 ResNet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.5 DenseNet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.6 SENet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.7 UNet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.8 MobileNet"
-        },
-        {
-          "level": 3,
-          "text": "7.1.9 MnasNet"
-        },
-        {
-          "level": 2,
-          "text": "7.2 RNN相关"
-        },
-        {
-          "level": 3,
-          "text": "7.2.1 LSTM"
-        },
-        {
-          "level": 3,
-          "text": "7.2.2 GRU"
-        },
-        {
-          "level": 2,
-          "text": "7.3 Transformer"
+          "text": "6.1 PyTorch的张量类型"
         },
         {
           "level": 1,
-          "text": "8. 深度学习模型"
+          "text": "7. 数据处理"
         },
         {
           "level": 2,
-          "text": "8.1 MLP"
-        },
-        {
-          "level": 2,
-          "text": "8.2 CNN"
+          "text": "7.1 数据增强"
         },
         {
           "level": 3,
-          "text": "8.2.1 基本的CNN"
-        },
-        {
-          "level": 3,
-          "text": "8.2.2 深度可分离卷积"
-        },
-        {
-          "level": 3,
-          "text": "8.2.3 孪生网络Siamese Network"
-        },
-        {
-          "level": 2,
-          "text": "8.3 RNN"
-        },
-        {
-          "level": 3,
-          "text": "8.3.1 基本的RNN"
-        },
-        {
-          "level": 3,
-          "text": "8.3.2 GRU"
-        },
-        {
-          "level": 3,
-          "text": "8.3.3 LSTM"
-        },
-        {
-          "level": 3,
-          "text": "8.3.4 深度循环神经网络"
-        },
-        {
-          "level": 3,
-          "text": "8.3.5 双向循环神经网络"
-        },
-        {
-          "level": 3,
-          "text": "8.3.6 编码器-解码器架构"
-        },
-        {
-          "level": 3,
-          "text": "8.3.7 seq2seq"
-        },
-        {
-          "level": 2,
-          "text": "8.4. 注意力机制"
-        },
-        {
-          "level": 3,
-          "text": "8.4.1 非参数注意力汇聚 Nadaraya-Watson核回归"
-        },
-        {
-          "level": 3,
-          "text": "8.4.2. 带参数注意力汇聚"
-        },
-        {
-          "level": 3,
-          "text": "8.4.3 注意力评分函数"
-        },
-        {
-          "level": 3,
-          "text": "8.4.4 Bahdanau注意力"
-        },
-        {
-          "level": 3,
-          "text": "8.4.5 自注意力和位置编码"
-        },
-        {
-          "level": 3,
-          "text": "8.4.6 Transformer"
-        },
-        {
-          "level": 3,
-          "text": "8.4.7 对比"
-        },
-        {
-          "level": 3,
-          "text": "8.4.8 tricks"
-        },
-        {
-          "level": 2,
-          "text": "8.5 生成式模型"
-        },
-        {
-          "level": 3,
-          "text": "8.5.1 GAN"
-        },
-        {
-          "level": 3,
-          "text": "8.5.2 CycleGAN"
-        },
-        {
-          "level": 3,
-          "text": "8.5.3 扩散模型diffusion"
-        },
-        {
-          "level": 2,
-          "text": "8.6 自监督学习"
-        },
-        {
-          "level": 3,
-          "text": "8.6.1 BERT"
-        },
-        {
-          "level": 3,
-          "text": "8.6.2 GPT"
-        },
-        {
-          "level": 3,
-          "text": "8.6.3 自编码器"
-        },
-        {
-          "level": 2,
-          "text": "8.7 迁移学习"
-        },
-        {
-          "level": 3,
-          "text": "8.7.1 领域偏移 domain shift"
-        },
-        {
-          "level": 3,
-          "text": "8.7.2 领域自适应 domain adaptation"
-        },
-        {
-          "level": 3,
-          "text": "8.7.3 领域泛化 domain generalization"
-        },
-        {
-          "level": 2,
-          "text": "8.8 强化学习"
+          "text": "7.1.1 图像增广"
         },
         {
           "level": 1,
-          "text": "9. 实际应用中的挑战与优化"
+          "text": "8. 常遇到的问题"
         },
         {
           "level": 2,
-          "text": "9.1 对抗攻击"
+          "text": "8.1 代码运行问题"
         },
         {
           "level": 3,
-          "text": "9.1.1 如何攻击网络"
+          "text": "8.1.1 损失函数的问题"
         },
         {
           "level": 3,
-          "text": "9.1.2 如何防御网络"
+          "text": "8.1.2 硬件的问题"
+        },
+        {
+          "level": 4,
+          "text": "8.1.2.1 CUDA"
+        },
+        {
+          "level": 3,
+          "text": "8.1.3 模型的问题"
+        },
+        {
+          "level": 4,
+          "text": "8.1.3.1 导入模型"
+        },
+        {
+          "level": 3,
+          "text": "8.1.4 其他问题"
+        },
+        {
+          "level": 4,
+          "text": "8.1.4.1 软件包的问题"
         },
         {
           "level": 2,
-          "text": "9.2 网络压缩"
+          "text": "8.2 理论问题"
         },
         {
           "level": 3,
-          "text": "9.2.1 网络剪枝 network pruning"
+          "text": "8.2.1 梯度消失和梯度爆炸"
         },
         {
           "level": 3,
-          "text": "9.2.2 知识蒸馏 knowledge distillation"
+          "text": "8.2.2 过拟合和欠拟合"
         },
         {
           "level": 3,
-          "text": "9.2.3 参数量化 parameter quantization"
+          "text": "8.2.3 网络越深效果越差"
         },
         {
           "level": 3,
-          "text": "9.2.4 网络架构设计 network architecture design"
+          "text": "8.2.4 数据不匹配domain mismatch"
         },
         {
           "level": 3,
-          "text": "9.2.5 动态计算 dynamic computation"
+          "text": "8.2.5 局部极小值 OR 鞍点？"
+        },
+        {
+          "level": 3,
+          "text": "8.2.6 万能近似定理UAT"
+        },
+        {
+          "level": 3,
+          "text": "8.2.7 饱和"
         },
         {
           "level": 2,
-          "text": "9.3 终身学习"
+          "text": "8.3 评估问题"
         },
         {
           "level": 3,
-          "text": "9.3.1 干什么"
-        },
-        {
-          "level": 3,
-          "text": "9.3.2 评估指标"
-        },
-        {
-          "level": 3,
-          "text": "9.3.3 解决方法"
-        },
-        {
-          "level": 2,
-          "text": "9.4 可解释性人工智能"
-        },
-        {
-          "level": 3,
-          "text": "9.4.1 局部解释"
-        },
-        {
-          "level": 3,
-          "text": "9.4.2 全局解释"
+          "text": "8.3.1 基准语料库"
         },
         {
           "level": 1,
-          "text": "10. 我的一些想法"
+          "text": "9. 我的一些想法"
         },
         {
           "level": 2,
-          "text": "10.1 象形字->embedding"
+          "text": "9.1 象形字->embedding"
         },
         {
           "level": 2,
-          "text": "10.2 通过内积求张量的相似度，以此模拟颜色聚类"
+          "text": "9.2 通过内积求张量的相似度，以此模拟颜色聚类"
         },
         {
           "level": 2,
-          "text": "10.3 卷积+池化是模糊图片，那么反卷积+反池化是什么？提取图片的细节？"
+          "text": "9.3 卷积+池化是模糊图片，那么反卷积+反池化是什么？提取图片的细节？"
         },
         {
           "level": 2,
-          "text": "10.4 注意力"
+          "text": "9.4 注意力"
         },
         {
           "level": 2,
-          "text": "10.5 顺序"
+          "text": "9.5 顺序"
         },
         {
           "level": 2,
-          "text": "10.6 宽度"
+          "text": "9.6 宽度"
+        },
+        {
+          "level": 2,
+          "text": "9.7 顺序"
         },
         {
           "level": 1,
-          "text": "11. 致谢"
+          "text": "10. 致谢"
         }
       ]
     },
@@ -1597,23 +1761,51 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         },
         {
           "level": 3,
-          "text": "1.2.1 外出篇"
+          "text": "1.2.1 酒店篇"
         },
         {
           "level": 4,
-          "text": "1.2.1.1 打车"
+          "text": "1.2.1.1 穿脱C服"
         },
         {
           "level": 4,
-          "text": "1.2.1.2 行程"
+          "text": "1.2.1.2 检查物品"
+        },
+        {
+          "level": 3,
+          "text": "1.2.2 外出篇"
         },
         {
           "level": 4,
-          "text": "1.2.1.3 游场"
+          "text": "1.2.2.1 打车"
         },
         {
           "level": 4,
-          "text": "1.2.1.4 交流"
+          "text": "1.2.2.2 行程"
+        },
+        {
+          "level": 4,
+          "text": "1.2.2.3 游场"
+        },
+        {
+          "level": 4,
+          "text": "1.2.2.4 交流"
+        },
+        {
+          "level": 4,
+          "text": "1.2.2.5 拍摄"
+        },
+        {
+          "level": 2,
+          "text": "1.3 附录"
+        },
+        {
+          "level": 3,
+          "text": "1.3.1 物品"
+        },
+        {
+          "level": 3,
+          "text": "1.3.2 参考文献"
         }
       ]
     }
@@ -2016,6 +2208,220 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         {
           "level": 2,
           "text": "8.5 翻译"
+        }
+      ]
+    },
+    {
+      "name": "考研QA",
+      "cover": null,
+      "headings": [
+        {
+          "level": 1,
+          "text": "1. 考研QA"
+        },
+        {
+          "level": 2,
+          "text": "1.1 一页纸结论"
+        },
+        {
+          "level": 2,
+          "text": "1.2 高频问题 Top 20"
+        },
+        {
+          "level": 2,
+          "text": "1.3 择校与定位"
+        },
+        {
+          "level": 3,
+          "text": "1.3.1 软微 vs 浙软 / 深研 / 上交 / 本校"
+        },
+        {
+          "level": 3,
+          "text": "11 还是 22、学硕还是专硕"
+        },
+        {
+          "level": 3,
+          "text": "1.3.2 跨考、双非、三无、挂科、低绩点、年龄"
+        },
+        {
+          "level": 3,
+          "text": "1.3.3 就业与保研"
+        },
+        {
+          "level": 2,
+          "text": "1.4 复试、科研与竞赛"
+        },
+        {
+          "level": 3,
+          "text": "1.4.1 复试形式速查"
+        },
+        {
+          "level": 3,
+          "text": "1.4.2 三无/双非/挂科在复试中的处理"
+        },
+        {
+          "level": 3,
+          "text": "1.4.3 科研、竞赛、项目的重要性"
+        },
+        {
+          "level": 3,
+          "text": "1.4.4 什么时候做项目/比赛"
+        },
+        {
+          "level": 3,
+          "text": "1.4.5 复试课程与培养方案"
+        },
+        {
+          "level": 3,
+          "text": "1.4.6 毕设、导师、复试经验贴"
+        },
+        {
+          "level": 2,
+          "text": "1.5 数学"
+        },
+        {
+          "level": 3,
+          "text": "1.5.1 资料选择速查"
+        },
+        {
+          "level": 3,
+          "text": "1.5.2 复习顺序与轮次"
+        },
+        {
+          "level": 3,
+          "text": "1.5.3 真题、模拟卷与时间线"
+        },
+        {
+          "level": 3,
+          "text": "1.5.4 错题、计算错误、没思路"
+        },
+        {
+          "level": 3,
+          "text": "1.5.5 笔记"
+        },
+        {
+          "level": 2,
+          "text": "1.6 408"
+        },
+        {
+          "level": 3,
+          "text": "1.6.1 资料选择"
+        },
+        {
+          "level": 3,
+          "text": "1.6.2 复习顺序"
+        },
+        {
+          "level": 3,
+          "text": "1.6.3 题型方法"
+        },
+        {
+          "level": 2,
+          "text": "1.7 英语"
+        },
+        {
+          "level": 3,
+          "text": "1.7.1 单词"
+        },
+        {
+          "level": 3,
+          "text": "1.7.2 阅读、精读、翻译、完形、新题型"
+        },
+        {
+          "level": 3,
+          "text": "1.7.3 真题、模拟题与时间线"
+        },
+        {
+          "level": 3,
+          "text": "1.7.4 英语作文"
+        },
+        {
+          "level": 4,
+          "text": "1.7.4.1 时间线与频率"
+        },
+        {
+          "level": 4,
+          "text": "1.7.4.2 模板与反模板"
+        },
+        {
+          "level": 4,
+          "text": "1.7.4.3 AI 批改流程"
+        },
+        {
+          "level": 4,
+          "text": "1.7.4.4 模型与提示词"
+        },
+        {
+          "level": 4,
+          "text": "1.7.4.5 字数、字体与格式"
+        },
+        {
+          "level": 4,
+          "text": "1.7.4.6 素材"
+        },
+        {
+          "level": 3,
+          "text": "1.7.5 英一/英二"
+        },
+        {
+          "level": 2,
+          "text": "1.8 政治"
+        },
+        {
+          "level": 2,
+          "text": "1.9 规划、心态与习惯"
+        },
+        {
+          "level": 3,
+          "text": "1.9.1 什么时候开始"
+        },
+        {
+          "level": 3,
+          "text": "1.9.2 每日安排"
+        },
+        {
+          "level": 3,
+          "text": "1.9.3 复盘"
+        },
+        {
+          "level": 3,
+          "text": "1.9.4 焦虑、进度、模考分数"
+        },
+        {
+          "level": 3,
+          "text": "1.9.5 手机、游戏、专注"
+        },
+        {
+          "level": 3,
+          "text": "1.9.6 背书、欲望、精力"
+        },
+        {
+          "level": 2,
+          "text": "1.10 资料、工具与联系方式"
+        },
+        {
+          "level": 3,
+          "text": "1.10.1 常用链接"
+        },
+        {
+          "level": 3,
+          "text": "1.10.2 笔记与文档"
+        },
+        {
+          "level": 3,
+          "text": "1.10.3 AI 工具"
+        },
+        {
+          "level": 3,
+          "text": "1.10.4 联系方式"
+        },
+        {
+          "level": 3,
+          "text": "1.10.5 赞赏码"
+        },
+        {
+          "level": 2,
+          "text": "1.11 附录"
         }
       ]
     },

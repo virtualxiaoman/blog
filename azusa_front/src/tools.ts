@@ -10,6 +10,7 @@ const modules = import.meta.glob('./views/Tool/tools/**/*.vue');
 const DISPLAY_NAMES: Record<string, string> = {
   format: '格式化',
   'text-processor': '文本处理',
+  'markdown-parser': 'Markdown 解析器',
   'review-template': '好评模板',
   'color-converter': '颜色转换',
   'qr-decoder': '二维码识别转 URL',
