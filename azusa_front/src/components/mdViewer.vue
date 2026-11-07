@@ -157,6 +157,19 @@ async function md2html(md: string) {
   tempDiv.innerHTML = html;
   const mermaidTexts: string[] = [];
 
+  // 目录标记：[toc]（大小写均可）独占一行时插入占位元素，
+  // 真正的目录等 generate_h_id 生成标题 id 后再填充（见 insertToc）。
+  let hasToc = false;
+  tempDiv.querySelectorAll('p').forEach((p) => {
+    // 只认纯文本的 [toc]，避免把 `[toc]` 行内代码误当成目录标记
+    if (p.children.length > 0) return;
+    if ((p.textContent ?? '').trim().toLowerCase() !== '[toc]') return;
+    const slot = document.createElement('div');
+    slot.className = 'md-toc-slot';
+    p.replaceWith(slot);
+    hasToc = true;
+  });
+
   // 代码中的公式也渲染；mermaid 源码保持原样
   tempDiv.querySelectorAll('code').forEach((code) => {
     if (code.classList.contains('language-mermaid')) return;
@@ -188,7 +201,7 @@ async function md2html(md: string) {
       '<path fill="currentColor" d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>';
     pre.appendChild(button);
   });
-  return { html: tempDiv.innerHTML, mermaidTexts };
+  return { html: tempDiv.innerHTML, mermaidTexts, hasToc };
 }
 
 // 全局递增，mermaid.render 不允许重复使用相同的图表 id，跨文章切换也不能复用
@@ -349,6 +362,68 @@ function generateUniqueId(text: string, i: number) {
   return `${sanitizedText}_${i}`;
 }
 
+// 用文章内的全部标题构建目录 HTML。
+// 结构取自 Typora 导出的目录（.md-toc > .md-toc-content > .md-toc-item.md-toc-hN），
+// 编号由 CSS 计数器生成，因此这里的链接文字取标题原文，不包含 autoNumberHeadings 的序号。
+function buildTocHtml(container: HTMLElement): string {
+  const items: string[] = [];
+  // 平级结构下 Chrome 不会把兄弟元素的 counter-reset 应用到后续兄弟的 ::before，
+  // 编号会跨父级连续累加（如 RNN 下出现 3.4）。这里把各级当前值内联写到条目上，
+  // 让每条的 ::before 在自己的作用域内取到正确计数，编号仍由原 CSS 输出。
+  const counters = [0, 0, 0, 0, 0, 0, 0]; // 下标 1~6 对应 h1~h6
+  container.querySelectorAll('h1,h2,h3,h4,h5,h6').forEach((heading) => {
+    const id = heading.getAttribute('id');
+    const text = (heading.textContent ?? '').trim();
+    if (!id || !text) return;
+
+    const level = Number(heading.tagName[1]);
+    if (level === 1) {
+      for (let l = 2; l <= 6; l++) counters[l] = 0;
+    } else {
+      counters[level] += 1;
+      for (let l = level + 1; l <= 6; l++) counters[l] = 0;
+    }
+    const resets: string[] = [];
+    for (let l = 2; l <= 6; l++) {
+      // 本级写 n-1：::before 里 counter-increment 后正好显示 n
+      const value = l < level ? counters[l] : l === level ? counters[l] - 1 : 0;
+      resets.push(`toc-h${l} ${value}`);
+    }
+
+    items.push(
+      `<div class="md-toc-item md-toc-h${level}" role="listitem" style="counter-reset: ${resets.join(' ')}">` +
+        `<a class="md-toc-inner" href="#${escapeAttr(id)}">${heading.innerHTML}</a>` +
+        '</div>',
+    );
+  });
+  if (!items.length) return '';
+  return (
+    '<div class="md-toc" role="navigation" aria-label="目录">' +
+    `<div class="md-toc-content" role="list">${items.join('')}</div>` +
+    '</div>'
+  );
+}
+
+// 把 [toc] 占位元素替换为目录；没有标题时直接移除占位，避免留下空块。
+function insertToc(html: string): string {
+  const container = document.createElement('div');
+  container.innerHTML = html;
+  const slots = container.querySelectorAll('.md-toc-slot');
+  if (!slots.length) return html;
+
+  const toc = buildTocHtml(container);
+  slots.forEach((slot) => {
+    if (!toc) {
+      slot.remove();
+      return;
+    }
+    const tpl = document.createElement('template');
+    tpl.innerHTML = toc;
+    slot.replaceWith(tpl.content.cloneNode(true));
+  });
+  return container.innerHTML;
+}
+
 // 匹配标题开头的已有序号："1. " "1.1 " "1.1.1 " "一、 " "第一章 " 等
 // 有序号 → 返回 null（跳过不处理）；无序号 → 返回标题文本
 const HEADING_ORDER_RE = /^\s*(\d+(?:[.．]\d+)*[.．]?\s+|\d+[、.]\s*|[一二三四五六七八九十]+[、.]\s*|第[一二三四五六七八九十百千]+[章节篇]\s+)/;
@@ -504,10 +579,11 @@ async function loadContent(source: string) {
     if (id !== loadId) return; // 已有更新的请求发出，丢弃本次结果
 
     const mdWithPlaceholders = md2katex(md);
-    const { html, mermaidTexts } = await md2html(mdWithPlaceholders);
+    const { html, mermaidTexts, hasToc } = await md2html(mdWithPlaceholders);
     let processedContent = fixMarkdownImagePaths(html, source); // 修复 Markdown 内图片路径
     processedContent = katex2html(processedContent);
     processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
+    if (hasToc) processedContent = insertToc(processedContent); // [toc] → 正文目录
     processedContent = autoNumberHeadings(processedContent); // 为无序号标题自动补层级序号
     // 消毒（在 mermaid 渲染之前）：拦截 Markdown 内联 HTML 中可能携带的脚本、事件属性。
     // katex 依赖行内 style 定位上下标，DOMPurify 默认剥离 style 属性，需显式放行；
@@ -638,6 +714,361 @@ watch(() => props.source, (source) => { loadContent(source); }, { immediate: tru
 /* 渲染失败的兜底展示 */
 .mermaid-error {
   background-color: rgba(255, 248, 220, 0.3);
+}
+
+/* =========================================================
+   正文目录 TOC（由 Markdown 中的 [toc] 生成）
+   独立样式，不依赖外部主题变量
+   结构：.md-toc > .md-toc-content > .md-toc-item.md-toc-hN
+
+   背景：近白色 + 极浅蓝青色渐变
+   h1：深海蓝
+   h2：深海蓝
+   h3：深青绿
+   h4：灰青蓝
+   h5、h6：灰蓝色
+   ========================================================= */
+
+/* ==================== 目录主体 ==================== */
+
+.markdown-body .md-toc {
+  box-sizing: border-box;
+
+  width: 100%;
+  max-width: 18cm;
+  margin: 1.5em auto 2em;
+  padding: 1.2em 1.5em 1.4em;
+
+  border: 1px solid rgba(102, 204, 255, 0.25);
+  border-left: 4px solid #39c5bb;
+  border-radius: 10px;
+
+  /* 接近纯白的背景 */
+  background-color: #feffff;
+
+  /* WebKit 兼容渐变 */
+  background-image:
+    -webkit-radial-gradient(
+      -20% 140%,
+      ellipse,
+      rgba(102, 204, 255, 0.025) 30%,
+      rgba(178, 216, 232, 0.045) 50%
+    ),
+    -webkit-radial-gradient(
+      60% 40%,
+      ellipse,
+      rgba(57, 197, 187, 0.035) 10%,
+      rgba(44, 70, 76, 0.008) 60%
+    ),
+    -webkit-linear-gradient(
+      -45deg,
+      rgba(102, 204, 255, 0.045) -10%,
+      rgba(178, 216, 232, 0.055) 80%
+    );
+
+  /* 标准 CSS 渐变 */
+  background-image:
+    radial-gradient(
+      ellipse at -20% 140%,
+      rgba(102, 204, 255, 0.025) 30%,
+      rgba(178, 216, 232, 0.045) 50%
+    ),
+    radial-gradient(
+      ellipse at 60% 40%,
+      rgba(57, 197, 187, 0.035) 10%,
+      rgba(44, 70, 76, 0.008) 60%
+    ),
+    linear-gradient(
+      -45deg,
+      rgba(102, 204, 255, 0.045) -10%,
+      rgba(178, 216, 232, 0.055) 80%
+    );
+
+  background-repeat: no-repeat;
+
+  color: #17394e;
+  font-family: inherit;
+  font-size: 9.5pt;
+  line-height: 1.8;
+
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* 屏幕预览：轻微悬浮效果 */
+@media screen {
+  .markdown-body .md-toc {
+    box-shadow: 0 4px 18px rgba(44, 70, 76, 0.05);
+  }
+}
+
+/* ==================== 目录标题 ==================== */
+
+/* 自动生成“目录”，正文无需额外写标题 */
+.markdown-body .md-toc::before {
+  content: '目录';
+  display: block;
+
+  margin: 0 0 0.8em;
+  padding: 0 0 0.55em;
+
+  border-bottom: 1px solid rgba(57, 197, 187, 0.3);
+
+  color: #174f73;
+  font-family: '华文黑体', '微软雅黑', sans-serif;
+  font-size: 1.55em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  line-height: 1.5;
+}
+
+/* ==================== 目录内容容器 ==================== */
+
+.markdown-body .md-toc .md-toc-content {
+  margin: 0;
+  padding: 0;
+
+  /* 目录编号与正文编号相互独立 */
+  counter-reset: toc-h2 toc-h3 toc-h4 toc-h5 toc-h6;
+}
+
+/* 基础文字样式 */
+.markdown-body .md-toc .md-toc-inner {
+  margin-left: 0 !important;
+  color: #17394e !important;
+  text-decoration: none;
+}
+
+.markdown-body .md-toc .md-toc-item {
+  color: #17394e !important;
+  line-height: 1.8;
+  text-decoration: none;
+}
+
+/* =========================================================
+   一级目录：# 
+   显示在目录最上方，不添加自动编号
+   ========================================================= */
+
+.markdown-body .md-toc .md-toc-content .md-toc-h1 {
+  display: block;
+
+  margin: 0.8em 0 0.4em;
+  padding: 0.15em 0 0.35em;
+
+  font-size: 11pt;
+  font-weight: 700;
+  line-height: 1.7;
+
+  color: #174f73 !important;
+
+  /* 初始化其下级标题的编号 */
+  counter-reset: toc-h2 toc-h3 toc-h4 toc-h5 toc-h6;
+}
+
+.markdown-body .md-toc .md-toc-content .md-toc-h1 .md-toc-inner,
+.markdown-body .md-toc .md-toc-content .md-toc-h1 .md-toc-item {
+  color: #174f73 !important;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* ==================== 二级目录：## ==================== */
+
+.markdown-body .md-toc .md-toc-content .md-toc-h2 {
+  display: block;
+  margin-top: 0.4em;
+
+  font-size: 10pt;
+  font-weight: 700;
+
+  counter-reset: toc-h3 toc-h4 toc-h5 toc-h6;
+}
+
+.markdown-body .md-toc .md-toc-content .md-toc-h2,
+.markdown-body .md-toc .md-toc-content .md-toc-h2 .md-toc-inner,
+.markdown-body .md-toc .md-toc-content .md-toc-h2 .md-toc-item {
+  color: #174f73 !important;
+}
+
+/* 自动编号：1、2、3…… */
+.markdown-body .md-toc .md-toc-content .md-toc-h2::before {
+  counter-increment: toc-h2;
+  content: counter(toc-h2);
+
+  display: inline-block;
+  min-width: 1.3em;
+  margin-right: 0.6em;
+
+  color: #087f78;
+  font-weight: 700;
+}
+
+/* ==================== 三级目录：### ==================== */
+
+.markdown-body .md-toc .md-toc-content .md-toc-h3 {
+  display: block;
+
+  font-size: 9.5pt;
+  font-weight: 400;
+
+  counter-reset: toc-h4 toc-h5 toc-h6;
+}
+
+.markdown-body .md-toc .md-toc-content .md-toc-h3,
+.markdown-body .md-toc .md-toc-content .md-toc-h3 .md-toc-inner,
+.markdown-body .md-toc .md-toc-content .md-toc-h3 .md-toc-item {
+  color: #087f78 !important;
+}
+
+/* 自动编号：1.1、1.2、2.1…… */
+.markdown-body .md-toc .md-toc-content .md-toc-h3::before {
+  counter-increment: toc-h3;
+  content: counter(toc-h2) '.' counter(toc-h3);
+
+  display: inline-block;
+  min-width: 3.2em;
+  margin-left: 1.5em;
+  margin-right: 0.4em;
+
+  color: #087f78;
+  font-weight: 500;
+}
+
+/* ==================== 四级目录：#### ==================== */
+
+.markdown-body .md-toc .md-toc-content .md-toc-h4 {
+  display: block;
+
+  font-size: 9pt;
+  font-weight: 400;
+
+  counter-reset: toc-h5 toc-h6;
+}
+
+.markdown-body .md-toc .md-toc-content .md-toc-h4,
+.markdown-body .md-toc .md-toc-content .md-toc-h4 .md-toc-inner,
+.markdown-body .md-toc .md-toc-content .md-toc-h4 .md-toc-item {
+  color: #367781 !important;
+}
+
+/* 自动编号：1.1.1、1.1.2…… */
+.markdown-body .md-toc .md-toc-content .md-toc-h4::before {
+  counter-increment: toc-h4;
+  content: counter(toc-h2) '.' counter(toc-h3) '.' counter(toc-h4);
+
+  display: inline-block;
+  min-width: 5em;
+  margin-left: 3em;
+  margin-right: 0.4em;
+
+  color: #367781;
+  font-weight: 400;
+}
+
+/* ==================== 五级目录：##### ==================== */
+
+.markdown-body .md-toc .md-toc-content .md-toc-h5 {
+  display: block;
+
+  font-size: 9pt;
+  font-weight: 400;
+
+  counter-reset: toc-h6;
+}
+
+.markdown-body .md-toc .md-toc-content .md-toc-h5,
+.markdown-body .md-toc .md-toc-content .md-toc-h5 .md-toc-inner,
+.markdown-body .md-toc .md-toc-content .md-toc-h5 .md-toc-item {
+  color: #38566b !important;
+}
+
+/* 自动编号：1.1.1.1…… */
+.markdown-body .md-toc .md-toc-content .md-toc-h5::before {
+  counter-increment: toc-h5;
+  content: counter(toc-h2) '.' counter(toc-h3) '.' counter(toc-h4) '.' counter(toc-h5);
+
+  display: inline-block;
+  min-width: 6.8em;
+  margin-left: 4.5em;
+  margin-right: 0.4em;
+
+  color: #38566b;
+  font-weight: 400;
+}
+
+/* ==================== 六级目录：###### ==================== */
+
+.markdown-body .md-toc .md-toc-content .md-toc-h6 {
+  display: block;
+
+  font-size: 9pt;
+  font-weight: 400;
+}
+
+.markdown-body .md-toc .md-toc-content .md-toc-h6,
+.markdown-body .md-toc .md-toc-content .md-toc-h6 .md-toc-inner,
+.markdown-body .md-toc .md-toc-content .md-toc-h6 .md-toc-item {
+  color: #38566b !important;
+}
+
+/* 自动编号：1.1.1.1.1…… */
+.markdown-body .md-toc .md-toc-content .md-toc-h6::before {
+  counter-increment: toc-h6;
+  content: counter(toc-h2) '.' counter(toc-h3) '.' counter(toc-h4) '.' counter(toc-h5) '.' counter(toc-h6);
+
+  display: inline-block;
+  min-width: 8.5em;
+  margin-left: 6em;
+  margin-right: 0.4em;
+
+  color: #38566b;
+  font-weight: 400;
+}
+
+/* ==================== 鼠标悬停效果 ==================== */
+
+@media screen {
+  .markdown-body .md-toc .md-toc-item:hover,
+  .markdown-body .md-toc .md-toc-inner:hover {
+    text-decoration: underline;
+    text-decoration-color: rgba(23, 79, 115, 0.45);
+    text-underline-offset: 3px;
+  }
+}
+
+/* ==================== PDF / 打印样式 ==================== */
+
+@media print {
+  .markdown-body .md-toc {
+    background-color: #feffff;
+
+    border-color: rgba(102, 204, 255, 0.25);
+    border-left-color: #39c5bb;
+
+    box-shadow: none !important;
+
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+
+    /* 允许目录过长时自然跨页 */
+    break-inside: auto;
+    page-break-inside: auto;
+
+    /* 目录结束后，正文另起一页 */
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .markdown-body .md-toc::before {
+    color: #174f73;
+    border-bottom-color: rgba(57, 197, 187, 0.3);
+  }
+
+  .markdown-body .md-toc .md-toc-item,
+  .markdown-body .md-toc .md-toc-inner {
+    text-decoration: none;
+  }
 }
 </style>
 
