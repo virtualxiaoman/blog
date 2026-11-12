@@ -1,6 +1,7 @@
 import { defineAsyncComponent, type Component } from 'vue';
 import HomeSection from './sections/HomeSection.vue';
 import DynamicSection from './sections/DynamicSection.vue';
+import FreebiesSection from './sections/FreebiesSection.vue';
 import ResourcesSection from './sections/ResourcesSection.vue';
 import LinksSection from './sections/LinksSection.vue';
 import PromptSection from './sections/PromptSection.vue';
@@ -41,6 +42,12 @@ export const ltySections: LtySection[] = [
     label: '动态',
     component: DynamicSection,
     description: '动态：洛天依 B 站动态归档，按月份日历浏览',
+  },
+  {
+    key: 'freebies',
+    label: '无料',
+    component: FreebiesSection,
+    description: '无料：洛天依无料作品展示与获取说明',
   },
   {
     key: 'resources',

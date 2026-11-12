@@ -1,11 +1,19 @@
 <template>
-  <div v-html="content" class="markdown-body" @click="onContentClick" @copy="onContentCopy"></div>
+  <div
+    v-html="content"
+    class="markdown-body"
+    @click="onContentClick"
+    @copy="onContentCopy"
+    @mouseover="onBracketOver"
+    @mouseout="onBracketOut"
+  ></div>
 </template>
 
 <script setup lang="ts">
 import { ref, watch } from 'vue';
 import { fetchMarkdown } from '../utils/markdownSource';
 import { scrollToElementStable } from '../utils/stableScroll';
+import { clearBracketHighlight, decorateBrackets, highlightBracketPair } from '../utils/bracketHighlight';
 import DOMPurify from 'dompurify';
 import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
@@ -21,6 +29,11 @@ const props = defineProps({
   source: {
     type: String,
     required: true,
+  },
+  /** 正文内 assets/ 图片的公共目录（public/ 下，如 lty/assets/）；不传按 Markdown 所在目录推断。 */
+  assetBase: {
+    type: String,
+    default: '',
   },
 });
 const emit = defineEmits(['contentLoaded']);
@@ -293,13 +306,15 @@ function showCopied(button: HTMLElement) {
 
 // 将文章内相对路径的图片（assets/xxx/...）重写为带 base 前缀的绝对路径，
 // 使图片在本地（/）和 GitHub Pages（/blog/）下都能正确加载
-function fixMarkdownImagePaths(html: string, source: string) {
+function fixMarkdownImagePaths(html: string, source: string, assetBaseOverride: string) {
   const tempDiv = document.createElement('div');
   tempDiv.innerHTML = html;
   const base = import.meta.env.BASE_URL;
-  const assetBase = source.startsWith('article/md/')
-    ? `${base}article/assets/`
-    : `${base}${source.slice(0, source.lastIndexOf('/') + 1)}assets/`;
+  const assetBase = assetBaseOverride
+    ? `${base}${assetBaseOverride.replace(/^\/+/, '').replace(/\/?$/, '/')}`
+    : source.startsWith('article/md/')
+      ? `${base}article/assets/`
+      : `${base}${source.slice(0, source.lastIndexOf('/') + 1)}assets/`;
   tempDiv.querySelectorAll('img').forEach((img) => {
     const src = img.getAttribute('src') || '';
     // 只处理 assets/ 开头的相对路径，跳过 http(s)、//、#、data: 和 / 开头的地址
@@ -397,8 +412,13 @@ function buildTocHtml(container: HTMLElement): string {
     );
   });
   if (!items.length) return '';
+  // 默认折叠：标题行是按钮，点击展开/收起；内容用 is-collapsed 控制显示
   return (
-    '<div class="md-toc" role="navigation" aria-label="目录">' +
+    '<div class="md-toc is-collapsed" role="navigation" aria-label="目录">' +
+    '<button class="md-toc-toggle" type="button" aria-expanded="false" aria-label="展开目录">' +
+    '<span class="md-toc-title">目录</span>' +
+    '<span class="md-toc-arrow" aria-hidden="true"></span>' +
+    '</button>' +
     `<div class="md-toc-content" role="list">${items.join('')}</div>` +
     '</div>'
   );
@@ -459,6 +479,24 @@ function autoNumberHeadings(html: string) {
   });
 }
 
+// 括号配对与彩虹层级：在消毒、标题处理、mermaid 渲染全部完成后再拆括号，
+// 避免后处理正则/序列化把刚插入的 span 弄乱。
+function decorateBracketHtml(html: string): string {
+  const container = document.createElement('div');
+  container.innerHTML = html;
+  decorateBrackets(container);
+  return container.innerHTML;
+}
+
+// 鼠标悬停括号时高亮配对的两个括号（事件委托，v-html 重建 DOM 后依然有效）
+function onBracketOver(event: MouseEvent) {
+  highlightBracketPair(event.currentTarget as HTMLElement, event.target);
+}
+
+function onBracketOut(event: MouseEvent) {
+  clearBracketHighlight(event.currentTarget as HTMLElement, event.target);
+}
+
 // 处理文章内点击：
 // 1. 代码块复制按钮 → 复制整个代码块（事件委托，按钮是 v-html 重建的 DOM，不能直接绑监听器）
 // 2. 页内锚点链接（如 [流形](#manifold-comment)）→ scrollIntoView 平滑滚动
@@ -466,6 +504,18 @@ function onContentClick(event: MouseEvent) {
   // 放行修饰键点击与非左键点击，保留用户"新标签页打开"等意图
   if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
   const target = event.target as Element | null;
+
+  // 目录折叠按钮
+  const tocToggle = target?.closest?.('.md-toc-toggle');
+  if (tocToggle) {
+    const toc = tocToggle.closest('.md-toc');
+    if (toc) {
+      const collapsed = toc.classList.toggle('is-collapsed');
+      tocToggle.setAttribute('aria-expanded', String(!collapsed));
+      tocToggle.setAttribute('aria-label', collapsed ? '展开目录' : '收起目录');
+    }
+    return;
+  }
 
   // 代码块复制按钮
   const copyBtn = target?.closest?.('.code-copy-btn');
@@ -580,7 +630,7 @@ async function loadContent(source: string) {
 
     const mdWithPlaceholders = md2katex(md);
     const { html, mermaidTexts, hasToc } = await md2html(mdWithPlaceholders);
-    let processedContent = fixMarkdownImagePaths(html, source); // 修复 Markdown 内图片路径
+    let processedContent = fixMarkdownImagePaths(html, source, props.assetBase); // 修复 Markdown 内图片路径
     processedContent = katex2html(processedContent);
     processedContent = generate_h_id(processedContent); // 为 h 标签生成唯一 id
     if (hasToc) processedContent = insertToc(processedContent); // [toc] → 正文目录
@@ -594,6 +644,8 @@ async function loadContent(source: string) {
     // 最后渲染 mermaid 图表（katex 与标题 id 处理完成后，避免图表 SVG 被这些正则误伤）
     processedContent = await renderMermaid(mermaidTexts, processedContent);
     if (id !== loadId) return; // await 之后再次检查竞态
+
+    processedContent = decorateBracketHtml(processedContent); // 括号配对与彩虹层级
 
     content.value = processedContent;
     emit('contentLoaded', content.value); // 触发 contentLoaded 事件并传递渲染后的内容
@@ -716,6 +768,97 @@ watch(() => props.source, (source) => { loadContent(source); }, { immediate: tru
   background-color: rgba(255, 248, 220, 0.3);
 }
 
+/* ==================== 括号配对与彩虹层级 ==================== */
+
+/* 正文括号只参与配对，颜色沿用正文 */
+.markdown-body .md-bracket {
+  border-radius: 2px;
+}
+
+/* 彩虹层级：仅代码块与公式中配对成功的括号带 color 类（每 4 级循环），
+   一层括号保持正文/代码原色；颜色取自站点配色中对比度较高的几种 */
+.markdown-body .md-bracket-color-1 {
+  color: #6b5aa8;
+}
+
+.markdown-body .md-bracket-color-2 {
+  color: #ee0000;
+}
+
+.markdown-body .md-bracket-color-3 {
+  color: #174f73;
+}
+
+.markdown-body .md-bracket-color-4 {
+  color: #087f78;
+}
+
+/* 公式配色：多对括号且不嵌套时统一 #66ccff；有嵌套时从内向外依次上色 */
+.markdown-body .md-bracket-formula-flat {
+  color: #66ccff;
+}
+
+.markdown-body .md-bracket-formula-nested-1 {
+  color: #ee0000;
+}
+
+.markdown-body .md-bracket-formula-nested-2 {
+  color: #39c5bb;
+}
+
+.markdown-body .md-bracket-formula-nested-3 {
+  color: #aa6680;
+}
+
+.markdown-body .md-bracket-formula-nested-4 {
+  color: #b2d8e8;
+}
+
+.markdown-body .md-bracket-formula-nested-5 {
+  color: #ffc0cb;
+}
+
+/* 悬停高亮：配对的两个括号同时加上背景与描边 */
+.markdown-body .md-bracket.is-bracket-active {
+  background-color: rgba(255, 214, 102, 0.55);
+  box-shadow: 0 0 0 1px rgba(214, 158, 0, 0.55);
+}
+
+/* 没有配对的括号：悬停时用偏红的提示色区分 */
+.markdown-body .md-bracket[data-bracket-unmatched='1'].is-bracket-active {
+  background-color: rgba(255, 120, 120, 0.35);
+  box-shadow: 0 0 0 1px rgba(220, 80, 80, 0.5);
+}
+
+/* github-markdown-css 在系统暗色下会把正文切成深色，彩虹色改用同一色系的高亮变体 */
+@media (prefers-color-scheme: dark) {
+  .markdown-body .md-bracket-color-1 {
+    color: #b39ddb;
+  }
+
+  .markdown-body .md-bracket-color-2 {
+    color: #d9534f;
+  }
+
+  .markdown-body .md-bracket-color-3 {
+    color: #66ccff;
+  }
+
+  .markdown-body .md-bracket-color-4 {
+    color: #39c5bb;
+  }
+
+  .markdown-body .md-bracket.is-bracket-active {
+    background-color: rgba(227, 179, 65, 0.3);
+    box-shadow: 0 0 0 1px rgba(227, 179, 65, 0.75);
+  }
+
+  .markdown-body .md-bracket[data-bracket-unmatched='1'].is-bracket-active {
+    background-color: rgba(248, 81, 73, 0.3);
+    box-shadow: 0 0 0 1px rgba(248, 81, 73, 0.7);
+  }
+}
+
 /* =========================================================
    正文目录 TOC（由 Markdown 中的 [toc] 生成）
    独立样式，不依赖外部主题变量
@@ -802,17 +945,21 @@ watch(() => props.source, (source) => { loadContent(source); }, { immediate: tru
   }
 }
 
-/* ==================== 目录标题 ==================== */
+/* ==================== 目录标题 / 折叠开关 ==================== */
 
-/* 自动生成“目录”，正文无需额外写标题 */
-.markdown-body .md-toc::before {
-  content: '目录';
-  display: block;
+/* 标题行本身就是按钮：沿用原“目录”标题的视觉，点击展开/收起 */
+.markdown-body .md-toc .md-toc-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
 
   margin: 0 0 0.8em;
   padding: 0 0 0.55em;
 
+  border: 0;
   border-bottom: 1px solid rgba(57, 197, 187, 0.3);
+  background: transparent;
 
   color: #174f73;
   font-family: '华文黑体', '微软雅黑', sans-serif;
@@ -820,6 +967,33 @@ watch(() => props.source, (source) => { loadContent(source); }, { immediate: tru
   font-weight: 700;
   letter-spacing: 0.12em;
   line-height: 1.5;
+  text-align: left;
+  cursor: pointer;
+}
+
+.markdown-body .md-toc .md-toc-toggle:hover {
+  color: #0f5f84;
+}
+
+/* 折叠箭头：收起时朝右，展开时朝下 */
+.markdown-body .md-toc .md-toc-arrow {
+  flex: none;
+  width: 0.45em;
+  height: 0.45em;
+  margin-right: 0.15em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 0.15s ease;
+}
+
+.markdown-body .md-toc:not(.is-collapsed) .md-toc-arrow {
+  transform: rotate(45deg);
+}
+
+/* 默认折叠：只保留标题行 */
+.markdown-body .md-toc.is-collapsed .md-toc-content {
+  display: none;
 }
 
 /* ==================== 目录内容容器 ==================== */
@@ -1060,9 +1234,14 @@ watch(() => props.source, (source) => { loadContent(source); }, { immediate: tru
     page-break-after: always;
   }
 
-  .markdown-body .md-toc::before {
+  .markdown-body .md-toc .md-toc-toggle {
     color: #174f73;
     border-bottom-color: rgba(57, 197, 187, 0.3);
+  }
+
+  /* 打印时始终输出完整目录，不受页面折叠状态影响 */
+  .markdown-body .md-toc .md-toc-content {
+    display: block !important;
   }
 
   .markdown-body .md-toc .md-toc-item,

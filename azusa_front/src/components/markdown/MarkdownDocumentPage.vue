@@ -7,7 +7,7 @@
     <main class="markdown-main">
       <h1 v-if="title" class="markdown-title">{{ title }}</h1>
       <div class="markdown-content">
-        <MarkdownViewer :source="source" @contentLoaded="updateContent" />
+        <MarkdownViewer :source="source" :asset-base="assetBase" @contentLoaded="updateContent" />
       </div>
     </main>
 
@@ -53,6 +53,8 @@ export interface MarkdownPageFeatures {
 const props = withDefaults(defineProps<{
   /** public/ 下的 Markdown 相对路径。 */
   source: string;
+  /** 正文内 assets/ 图片的公共目录（public/ 下，如 lty/assets/）；不传按 Markdown 所在目录推断。 */
+  assetBase?: string;
   /** 可选的页面标题；不传时只渲染正文。 */
   title?: string;
   /** 按功能自由组合页面，未列出的功能默认关闭。 */
@@ -60,6 +62,7 @@ const props = withDefaults(defineProps<{
   /** article 保留原文章布局，compact 用于嵌入其他栏目。 */
   variant?: 'article' | 'compact';
 }>(), {
+  assetBase: '',
   title: '',
   features: () => ({}),
   variant: 'compact',
