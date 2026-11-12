@@ -87,6 +87,7 @@
             </button>
           </div>
         </header>
+        <p class="format-hint">选中预览内容后复制，得到带 <code>$…$</code> 公式的 Markdown</p>
         <div class="preview-scroll">
           <p v-if="renderError" class="render-error">解析失败：{{ renderError }}</p>
           <div
@@ -94,6 +95,7 @@
             class="markdown-body preview-body"
             v-html="previewHtml"
             @click="onPreviewClick"
+            @copy="onPreviewCopy"
           ></div>
           <p v-else class="empty-hint">在左侧粘贴或输入 Markdown，右侧会按文章样式实时预览。</p>
         </div>
@@ -119,6 +121,8 @@ import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue';
 import 'github-markdown-css';
 import 'highlight.js/styles/github.css';
 import 'katex/dist/katex.min.css';
+import TurndownService from 'turndown';
+import { gfm } from 'turndown-plugin-gfm';
 import { copyText } from '../../../../utils/clipboard';
 import { normalizeFormulaDelimiters } from '../../../../utils/formulaNormalize';
 import { renderMarkdownPreview } from '../../../../utils/markdownPreview';
@@ -313,6 +317,49 @@ async function downloadPdf() {
     pdfBusy.value = false;
     pdfHtml.value = '';
   }
+}
+
+let copyConverter: TurndownService | null = null;
+
+function getCopyConverter(): TurndownService {
+  if (copyConverter) return copyConverter;
+  copyConverter = new TurndownService({
+    codeBlockStyle: 'fenced',
+    bulletListMarker: '-',
+    headingStyle: 'atx',
+    emDelimiter: '*',
+    strongDelimiter: '**',
+  });
+  copyConverter.use(gfm);
+  // KaTeX 渲染结果里同时有 MathML 与 HTML 两份文本，复制时用 data-src 还原成 $ 公式源码
+  copyConverter.addRule('katex', {
+    filter: (node: HTMLElement) => node.nodeName === 'SPAN' && node.classList.contains('katex-wrap'),
+    replacement: (_content: string, node: HTMLElement) => node.getAttribute('data-src') || '',
+  });
+  return copyConverter;
+}
+
+function onPreviewCopy(event: ClipboardEvent) {
+  const selection = window.getSelection();
+  if (!selection || selection.rangeCount === 0 || selection.isCollapsed) return;
+  if (!selection.toString().trim()) return;
+
+  const container = event.currentTarget as HTMLElement;
+  const range = selection.getRangeAt(0);
+  if (!container.contains(range.commonAncestorContainer)) return;
+
+  const holder = document.createElement('div');
+  holder.appendChild(range.cloneContents());
+  let markdown = getCopyConverter().turndown(holder.innerHTML);
+  // turndown 会转义标题里序号后的点（"1\."），还原成正常写法
+  markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
+
+  event.preventDefault();
+  if (event.clipboardData) {
+    event.clipboardData.setData('text/plain', markdown);
+    return;
+  }
+  copyText(markdown);
 }
 
 function onPreviewClick(event: MouseEvent) {
