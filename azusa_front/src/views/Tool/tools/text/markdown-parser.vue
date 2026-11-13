@@ -5,7 +5,8 @@
         <h2 class="tool-title">Markdown 解析器</h2>
         <p class="tool-desc">
           左侧编辑 Markdown，右侧按文章样式实时预览；复制与下载都会使用统一为
-          <code>$…$</code> / <code>$$…$$</code> 的规范公式。
+          <code>$…$</code> / <code>$$…$$</code> 的规范公式，并自动还原 GPT 输出里多余的
+          <code>\_</code>、<code>\\|</code> 等转义。
         </p>
       </div>
     </div>
@@ -124,6 +125,7 @@ import 'katex/dist/katex.min.css';
 import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 import { copyText } from '../../../../utils/clipboard';
+import { handleFormulaCopyClick, removeFormulaCopyButtons, stripFormulaCopyButtons } from '../../../../utils/formulaCopy';
 import { normalizeFormulaDelimiters } from '../../../../utils/formulaNormalize';
 import { renderMarkdownPreview } from '../../../../utils/markdownPreview';
 
@@ -282,7 +284,7 @@ async function downloadPdf() {
 
   pdfBusy.value = true;
   pdfError.value = '';
-  pdfHtml.value = previewHtml.value;
+  pdfHtml.value = stripFormulaCopyButtons(previewHtml.value);
   try {
     await nextTick();
     if (document.fonts) await document.fonts.ready;
@@ -350,6 +352,7 @@ function onPreviewCopy(event: ClipboardEvent) {
 
   const holder = document.createElement('div');
   holder.appendChild(range.cloneContents());
+  removeFormulaCopyButtons(holder);
   let markdown = getCopyConverter().turndown(holder.innerHTML);
   // turndown 会转义标题里序号后的点（"1\."），还原成正常写法
   markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
@@ -363,6 +366,11 @@ function onPreviewCopy(event: ClipboardEvent) {
 }
 
 function onPreviewClick(event: MouseEvent) {
+  if (handleFormulaCopyClick(event.target)) {
+    event.preventDefault();
+    return;
+  }
+
   const anchor = (event.target as Element | null)?.closest?.('a');
   if (!anchor) return;
 

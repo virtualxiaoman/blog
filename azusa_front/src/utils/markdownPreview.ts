@@ -2,6 +2,7 @@ import DOMPurify from 'dompurify';
 import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
 import katex from 'katex';
+import { appendFormulaCopyButtons } from './formulaCopy';
 
 /**
  * 把 Markdown 渲染成与文章正文一致的 HTML（marked + highlight.js + KaTeX）。
@@ -64,7 +65,9 @@ export function renderMarkdownPreview(markdown: string): string {
     img.setAttribute('decoding', 'async');
   });
 
-  return DOMPurify.sanitize(container.innerHTML, { ADD_ATTR: ['style'] });
+  container.innerHTML = DOMPurify.sanitize(container.innerHTML, { ADD_ATTR: ['style'] });
+  appendFormulaCopyButtons(container);
+  return container.innerHTML;
 }
 
 function encodeBase64(text: string): string {

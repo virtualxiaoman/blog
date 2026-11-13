@@ -44,11 +44,11 @@ export function normalizeFormulaDelimiters(source: string): NormalizeFormulaResu
 
   const inline = (inner: string) => {
     formulas += 1;
-    return `$${inner.trim()}$`;
+    return `$${cleanFormulaSource(inner)}$`;
   };
   const display = (inner: string, openStart: number, closeEnd: number) => {
     formulas += 1;
-    const body = inner.trim();
+    const body = cleanFormulaSource(inner);
     const block = isStandalone(text, openStart, closeEnd) || body.includes('\n');
     return block ? `$$\n${body}\n$$` : `$$${body}$$`;
   };
@@ -213,6 +213,68 @@ export function normalizeFormulaDelimiters(source: string): NormalizeFormulaResu
   const restore = new RegExp(`${escapeRegExp(token)}(\\d+)${escapeRegExp(token)}`, 'g');
   const result = out.join('').replace(restore, (_, index: string) => stash[Number(index)] ?? '');
   return { text: result, formulas, converted };
+}
+
+/**
+ * 清理聊天工具/GPT 输出在公式里残留的 Markdown 转义：
+ *   J\_{GRPO} → J_{GRPO}（Markdown 把 _ 转义了，KaTeX 会当成字面下划线）
+ *   \\|       → \|       （范数定界符被多转义了一层）
+ *   \*        → *        （KaTeX 未定义 \*，多为乘号被 Markdown 转义）
+ * \text{...} / \operatorname{...} 等文本命令里的 \_ 是合法字面量，先保护起来。
+ */
+function cleanFormulaSource(source: string): string {
+  const { text, groups } = protectTextModeGroups(source);
+  const cleaned = text
+    .replace(/\\_(?=\{|\p{L}|\\|\d)/gu, '_')
+    .replace(/\\\\\|/g, '\\|')
+    .replace(/\\\*/g, '*');
+
+  return cleaned
+    .replace(/\u0000T(\d+)\u0000/g, (_, index: string) => groups[Number(index)] ?? '')
+    .trim();
+}
+
+const TEXT_MODE_COMMAND = /\\(?:text|textrm|textnormal|textbf|textit|texttt|mbox|operatorname|mathrm)\s*\{/g;
+
+/** 把 \text{...} 等文本模式分组替换成占位符，避免清理 \_ 时误伤合法的字面下划线 */
+function protectTextModeGroups(source: string): { text: string; groups: string[] } {
+  const groups: string[] = [];
+  let result = '';
+  let last = 0;
+
+  TEXT_MODE_COMMAND.lastIndex = 0;
+  let match: RegExpExecArray | null;
+  while ((match = TEXT_MODE_COMMAND.exec(source))) {
+    const start = match.index;
+    const braceStart = start + match[0].length - 1;
+    let depth = 0;
+    let end = -1;
+
+    for (let i = braceStart; i < source.length; i += 1) {
+      const ch = source[i];
+      if (ch === '\\') {
+        i += 1;
+        continue;
+      }
+      if (ch === '{') depth += 1;
+      else if (ch === '}') {
+        depth -= 1;
+        if (depth === 0) {
+          end = i;
+          break;
+        }
+      }
+    }
+
+    if (end === -1) continue;
+
+    result += `${source.slice(last, start)}\u0000T${groups.length}\u0000`;
+    groups.push(source.slice(start, end + 1));
+    last = end + 1;
+    TEXT_MODE_COMMAND.lastIndex = end + 1;
+  }
+
+  return { text: result + source.slice(last), groups };
 }
 
 function isStandalone(text: string, start: number, end: number): boolean {

@@ -14,6 +14,7 @@ import { ref, watch } from 'vue';
 import { fetchMarkdown } from '../utils/markdownSource';
 import { scrollToElementStable } from '../utils/stableScroll';
 import { clearBracketHighlight, decorateBrackets, highlightBracketPair } from '../utils/bracketHighlight';
+import { appendFormulaCopyButtons, handleFormulaCopyClick, removeFormulaCopyButtons } from '../utils/formulaCopy';
 import DOMPurify from 'dompurify';
 import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
@@ -479,12 +480,13 @@ function autoNumberHeadings(html: string) {
   });
 }
 
-// 括号配对与彩虹层级：在消毒、标题处理、mermaid 渲染全部完成后再拆括号，
-// 避免后处理正则/序列化把刚插入的 span 弄乱。
+// 括号配对与彩虹层级 + 公式复制按钮：都在消毒、标题处理、mermaid 渲染全部完成后做，
+// 避免后处理正则/序列化把刚插入的节点弄乱；合并成一次 DOM 进出，避免大文章重复解析。
 function decorateBracketHtml(html: string): string {
   const container = document.createElement('div');
   container.innerHTML = html;
   decorateBrackets(container);
+  appendFormulaCopyButtons(container);
   return container.innerHTML;
 }
 
@@ -504,6 +506,12 @@ function onContentClick(event: MouseEvent) {
   // 放行修饰键点击与非左键点击，保留用户"新标签页打开"等意图
   if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
   const target = event.target as Element | null;
+
+  // 公式左上角的复制按钮
+  if (handleFormulaCopyClick(target)) {
+    event.preventDefault();
+    return;
+  }
 
   // 目录折叠按钮
   const tocToggle = target?.closest?.('.md-toc-toggle');
@@ -599,6 +607,7 @@ function onContentCopy(event: ClipboardEvent) {
   const frag = range.cloneContents();
   const holder = document.createElement('div');
   holder.appendChild(frag);
+  removeFormulaCopyButtons(holder);
   // turndown 的代码块规则按纯文本提取，先把代码内公式还原为源码，
   // 避免把 KaTeX 的 MathML 与 HTML 两份文本写进复制出的代码块。
   holder.querySelectorAll('code .katex-wrap').forEach((el) => {
@@ -645,7 +654,7 @@ async function loadContent(source: string) {
     processedContent = await renderMermaid(mermaidTexts, processedContent);
     if (id !== loadId) return; // await 之后再次检查竞态
 
-    processedContent = decorateBracketHtml(processedContent); // 括号配对与彩虹层级
+    processedContent = decorateBracketHtml(processedContent); // 括号配对与彩虹层级、公式复制按钮
 
     content.value = processedContent;
     emit('contentLoaded', content.value); // 触发 contentLoaded 事件并传递渲染后的内容
