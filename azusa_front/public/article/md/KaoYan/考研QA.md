@@ -507,7 +507,7 @@ PDF一般支持`Ctrl+F`搜索本文内容。在线博客额外支持`Ctrl+K`跨�
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
-        <img src="../../assets/考研QA/images/英语作文.png" style="width: 50%;"/>
+        <img src="assets/考研QA/images/英语作文.png" style="width: 50%;"/>
     </div>
 </div>
 
@@ -734,10 +734,10 @@ PDF一般支持`Ctrl+F`搜索本文内容。在线博客额外支持`Ctrl+K`跨�
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 45%; min-width: 200px;">
-        <img src="../../assets/考研QA/images/wx.png" style="width: 100%; height: auto; max-width: 500px;" alt="图1">
+        <img src="assets/考研QA/images/wx.png" style="width: 100%; height: auto; max-width: 500px;" alt="图1">
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; flex: 0 1 45%; min-width: 200px;">
-        <img src="../../assets/考研QA/images/zfb.jpg" style="width: 100%; height: auto; max-width: 500px;" alt="图2">
+        <img src="assets/考研QA/images/zfb.jpg" style="width: 100%; height: auto; max-width: 500px;" alt="图2">
     </div>
 </div>
 
