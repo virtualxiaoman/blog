@@ -239,23 +239,55 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         },
         {
           "level": 3,
-          "text": "1.11.2 SFT"
+          "text": "1.11.2 微调"
+        },
+        {
+          "level": 4,
+          "text": "1.11.2.1 SFT"
+        },
+        {
+          "level": 4,
+          "text": "1.11.2.2 LoRA"
+        },
+        {
+          "level": 5,
+          "text": "1.11.2.2.1 参数更新方式"
+        },
+        {
+          "level": 5,
+          "text": "1.11.2.2.2 优势"
+        },
+        {
+          "level": 5,
+          "text": "1.11.2.2.3 优化"
         },
         {
           "level": 3,
-          "text": "1.11.3 RLHF"
+          "text": "1.11.3 偏好对齐"
         },
         {
           "level": 4,
-          "text": "1.11.3.1 RM"
+          "text": "1.11.3.1 RLHF"
+        },
+        {
+          "level": 5,
+          "text": "1.11.3.1.1 RM"
+        },
+        {
+          "level": 5,
+          "text": "1.11.3.1.2 PPO"
         },
         {
           "level": 4,
-          "text": "1.11.3.2 PPO"
+          "text": "1.11.3.2 DPO"
         },
         {
           "level": 4,
-          "text": "1.11.3.3 DPO"
+          "text": "1.11.3.3 GRPO"
+        },
+        {
+          "level": 4,
+          "text": "1.11.3.4 KTO"
         },
         {
           "level": 1,
@@ -363,67 +395,71 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         },
         {
           "level": 2,
-          "text": "3.2 对抗攻击"
-        },
-        {
-          "level": 3,
-          "text": "3.2.1 如何攻击网络"
-        },
-        {
-          "level": 3,
-          "text": "3.2.2 如何防御网络"
+          "text": "3.2 AMP"
         },
         {
           "level": 2,
-          "text": "3.3 网络压缩"
+          "text": "3.3 对抗攻击"
         },
         {
           "level": 3,
-          "text": "3.3.1 网络剪枝 network pruning"
+          "text": "3.3.1 如何攻击网络"
         },
         {
           "level": 3,
-          "text": "3.3.2 知识蒸馏 knowledge distillation"
-        },
-        {
-          "level": 3,
-          "text": "3.3.3 参数量化 parameter quantization"
-        },
-        {
-          "level": 3,
-          "text": "3.3.4 网络架构设计 network architecture design"
-        },
-        {
-          "level": 3,
-          "text": "3.3.5 动态计算 dynamic computation"
+          "text": "3.3.2 如何防御网络"
         },
         {
           "level": 2,
-          "text": "3.4 终身学习"
+          "text": "3.4 网络压缩"
         },
         {
           "level": 3,
-          "text": "3.4.1 干什么"
+          "text": "3.4.1 网络剪枝 network pruning"
         },
         {
           "level": 3,
-          "text": "3.4.2 评估指标"
+          "text": "3.4.2 知识蒸馏 knowledge distillation"
         },
         {
           "level": 3,
-          "text": "3.4.3 解决方法"
+          "text": "3.4.3 参数量化 parameter quantization"
+        },
+        {
+          "level": 3,
+          "text": "3.4.4 网络架构设计 network architecture design"
+        },
+        {
+          "level": 3,
+          "text": "3.4.5 动态计算 dynamic computation"
         },
         {
           "level": 2,
-          "text": "3.5 可解释性人工智能"
+          "text": "3.5 终身学习"
         },
         {
           "level": 3,
-          "text": "3.5.1 局部解释"
+          "text": "3.5.1 干什么"
         },
         {
           "level": 3,
-          "text": "3.5.2 全局解释"
+          "text": "3.5.2 评估指标"
+        },
+        {
+          "level": 3,
+          "text": "3.5.3 解决方法"
+        },
+        {
+          "level": 2,
+          "text": "3.6 可解释性人工智能"
+        },
+        {
+          "level": 3,
+          "text": "3.6.1 局部解释"
+        },
+        {
+          "level": 3,
+          "text": "3.6.2 全局解释"
         },
         {
           "level": 1,
@@ -564,6 +600,10 @@ export const articleCategories: Record<string, ArticleInfo[]> = {
         {
           "level": 2,
           "text": "6.1 PyTorch的张量类型"
+        },
+        {
+          "level": 2,
+          "text": "6.2 参数复制Copy与参数共享Sharing"
         },
         {
           "level": 1,
