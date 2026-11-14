@@ -96,8 +96,16 @@ function generateUniqueId(text: string, i: number): string {
   return `${sanitizedText}_${i}`;
 }
 
-// 匹配标题开头的已有序号："1. " "1.1 " "1.1.1 " "一、 " "第一章 " 等
-const HEADING_ORDER_RE = /^\s*(\d+(?:[.．]\d+)*[.．]?\s+|\d+[、.]\s*|[一二三四五六七八九十]+[、.]\s*|第[一二三四五六七八九十百千]+[章节篇]\s+)/;
+// 匹配标题开头的已有序号："1. " "1.1 " "1.1.1 " "一、 " "第一章 " "（一）" 等
+// 判断前先取纯文本，避免 **一、...**、链接等行内标记导致漏判
+const HEADING_ORDER_RE = /^\s*(?:\d+(?:[.．]\d+)*[.．]?\s+|\d+[、.]\s*|[一二三四五六七八九十百千]+[、.]\s*|第[一二三四五六七八九十百千]+[章节篇]\s+|[（(]\d+[）)]\s*|[（(][一二三四五六七八九十百千]+[）)]\s*)/;
+
+// 提取标题的纯文本（去掉 <strong> 等行内标签、解码实体），用于判断是否已有编号
+function headingPlainText(inner: string): string {
+  const container = document.createElement('div');
+  container.innerHTML = inner;
+  return (container.textContent ?? '').replace(/\u00a0/g, ' ').trim();
+}
 
 // 自动为无序号标题补上层级式序号（1. / 1.1 / 1.1.1 ...）。
 // 已有序号的标题原样保留，只改标题显示文本，id 与 data-sec 保持不变。
@@ -105,7 +113,7 @@ function autoNumberHeadings(html: string): string {
   const counters = [0, 0, 0, 0, 0, 0, 0]; // 下标 1~6 对应 h1~h6
   return html.replace(/<(h[1-6])\s+id="([^"]+)"([^>]*)>(.*?)<\/\1>/gi, (_, tag: string, id: string, attrs: string, inner: string) => {
     const level = Number(tag[1]);
-    const text = inner.trim();
+    const text = headingPlainText(inner);
     if (HEADING_ORDER_RE.test(text)) return `<${tag} id="${id}"${attrs}>${inner}</${tag}>`;
 
     counters[level] += 1;

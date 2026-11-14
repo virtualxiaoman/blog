@@ -37,10 +37,22 @@ const circumference = 2 * Math.PI * 19;
 const progress = ref(0);
 let scrollRaf = 0;
 
+// 工具页可以把主滚动区域标记为 data-back-to-top-target（如解析器预览），
+// 按钮优先回到该区域顶部；文章页没有标记时回到整个页面顶部。
+const SCROLL_TARGET_SELECTOR = '[data-back-to-top-target]';
+
+function getScrollTarget(): HTMLElement | null {
+  return document.querySelector<HTMLElement>(SCROLL_TARGET_SELECTOR);
+}
+
 function updateProgress() {
-  const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+  const target = getScrollTarget();
+  const scrollable = target
+    ? target.scrollHeight - target.clientHeight
+    : document.documentElement.scrollHeight - window.innerHeight;
+  const scrollTop = target ? target.scrollTop : window.scrollY;
   progress.value = scrollable > 0
-    ? Math.min(1, Math.max(0, window.scrollY / scrollable))
+    ? Math.min(1, Math.max(0, scrollTop / scrollable))
     : 0;
 }
 
@@ -53,19 +65,25 @@ function onScroll() {
 }
 
 function scrollToTop() {
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  const target = getScrollTarget();
+  if (target) {
+    target.scrollTo({ top: 0, behavior: 'smooth' });
+  } else {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 }
 
 const dashOffset = computed(() => circumference * (1 - progress.value));
 
 onMounted(() => {
-  window.addEventListener('scroll', onScroll, { passive: true });
+  // capture 监听也能收到滚动容器内部（不冒泡的）scroll 事件
+  window.addEventListener('scroll', onScroll, { passive: true, capture: true });
   window.addEventListener('resize', updateProgress);
   updateProgress();
 });
 
 onUnmounted(() => {
-  window.removeEventListener('scroll', onScroll);
+  window.removeEventListener('scroll', onScroll, { capture: true });
   window.removeEventListener('resize', updateProgress);
   if (scrollRaf) cancelAnimationFrame(scrollRaf);
 });
@@ -81,6 +99,7 @@ watch(() => props.refreshKey, () => {
   right: 1vw;
   bottom: 28px;
   z-index: 90;
+  pointer-events: auto; /* 父级 ArticleNav 是 pointer-events:none，按钮需要单独恢复点击 */
   display: flex;
   align-items: center;
   justify-content: center;

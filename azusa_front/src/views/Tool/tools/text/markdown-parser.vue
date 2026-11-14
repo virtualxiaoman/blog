@@ -13,7 +13,19 @@
 
     <div class="panes-shell" :class="{ 'is-fullscreen': isFullscreen }">
       <div class="panes">
-      <section v-if="editorOpen" class="pane editor-pane">
+      <section v-if="isFullscreen" class="pane outline-pane">
+        <header class="pane-head">
+          <div class="pane-title-wrap">
+            <span class="pane-title">大纲</span>
+            <span class="pane-meta">{{ outlineCount }} 个标题</span>
+          </div>
+        </header>
+        <div class="outline-scroll">
+          <OutlineGenerator v-if="outlineCount" :content="previewHtml" />
+          <p v-else class="outline-empty">暂无可跳转的标题</p>
+        </div>
+      </section>
+      <section v-else-if="editorOpen" class="pane editor-pane">
         <header class="pane-head">
           <div class="pane-title-wrap">
             <span class="pane-title">Markdown 原文</span>
@@ -105,7 +117,7 @@
           </div>
         </header>
         <p class="format-hint">选中预览内容后复制，得到带 <code>$…$</code> 公式的 Markdown</p>
-        <div class="preview-scroll">
+        <div class="preview-scroll" data-back-to-top-target>
           <p v-if="renderError" class="render-error">解析失败：{{ renderError }}</p>
           <div
             v-else-if="hasContent"
@@ -143,6 +155,7 @@ import 'highlight.js/styles/github.css';
 import 'katex/dist/katex.min.css';
 import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
+import OutlineGenerator from '../../../../components/OutlineGenerator.vue';
 import { copyText } from '../../../../utils/clipboard';
 import { clearBracketHighlight, highlightBracketPair } from '../../../../utils/bracketHighlight';
 import { handleCodeCopyClick, removeCodeCopyButtons, stripCodeCopyButtons } from '../../../../utils/codeCopy';
@@ -205,6 +218,7 @@ const isFullscreen = ref(false);
 const pdfRoot = ref<HTMLElement | null>(null);
 
 const hasContent = computed(() => normalizedText.value.trim().length > 0);
+const outlineCount = computed(() => (previewHtml.value.match(/<h[1-6]\s+id="/gi) ?? []).length);
 
 let previewTimer = 0;
 let copiedTimer = 0;
@@ -644,6 +658,33 @@ onBeforeUnmount(() => {
   flex: 0 0 42px;
 }
 
+/* 全屏左侧大纲：替换编辑栏 */
+.outline-pane {
+  flex: 0 0 220px;
+}
+
+.outline-scroll {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 10px 12px;
+  background: #fff;
+  font-size: 14px;
+  overscroll-behavior: contain;
+}
+
+.outline-scroll :deep(p) {
+  cursor: pointer;
+}
+
+.outline-empty {
+  margin: 0;
+  padding: 24px 8px;
+  color: #8a969e;
+  font-size: 13px;
+  text-align: center;
+}
+
 .rail-btn {
   width: 100%;
   height: 100%;
@@ -1035,6 +1076,16 @@ onBeforeUnmount(() => {
 
   .panes-shell.is-fullscreen .pane {
     min-height: 45vh;
+  }
+
+  .panes-shell.is-fullscreen .outline-pane {
+    flex: 0 0 auto;
+    min-height: 160px;
+    max-height: 30vh;
+  }
+
+  .panes-shell.is-fullscreen .outline-scroll {
+    max-height: calc(30vh - 50px);
   }
 
   .panes-shell.is-fullscreen .preview-pane {

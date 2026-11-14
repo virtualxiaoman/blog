@@ -100,10 +100,6 @@ body.md-parser-fullscreen .article-nav {
   z-index: 80;
 }
 
-body.md-parser-fullscreen .back-to-top-button {
-  pointer-events: auto;
-}
-
 body.md-parser-fullscreen .tool-main > .breadcrumb,
 body.md-parser-fullscreen .markdown-parser > .tool-head {
   visibility: hidden;
