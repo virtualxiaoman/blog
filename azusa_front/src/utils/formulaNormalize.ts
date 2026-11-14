@@ -179,6 +179,7 @@ export function normalizeFormulaDelimiters(source: string): NormalizeFormulaResu
 
         const isDefinition = after === ':' && /^[ \t]*$/.test(linePrefix);
         const isReference = refIds.has(content.trim());
+        const isTocMarker = content.trim().toLowerCase() === 'toc';
         const isTask =
           /^(\s*|x|X|-|✓)$/.test(content) &&
           /^[ \t]*(?:[-*+]\s+|\d+[.)]\s+)$/.test(linePrefix) &&
@@ -187,6 +188,7 @@ export function normalizeFormulaDelimiters(source: string): NormalizeFormulaResu
           isImage ||
           isDefinition ||
           isReference ||
+          isTocMarker ||
           isTask ||
           content.startsWith('^') ||
           /^\d+$/.test(content.trim()) ||
@@ -222,7 +224,7 @@ export function normalizeFormulaDelimiters(source: string): NormalizeFormulaResu
  *   \*        → *        （KaTeX 未定义 \*，多为乘号被 Markdown 转义）
  * \text{...} / \operatorname{...} 等文本命令里的 \_ 是合法字面量，先保护起来。
  */
-function cleanFormulaSource(source: string): string {
+export function cleanFormulaSource(source: string): string {
   const { text, groups } = protectTextModeGroups(source);
   const cleaned = text
     .replace(/\\_(?=\{|\p{L}|\\|\d)/gu, '_')

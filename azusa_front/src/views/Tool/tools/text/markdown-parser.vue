@@ -11,7 +11,8 @@
       </div>
     </div>
 
-    <div class="panes">
+    <div class="panes-shell" :class="{ 'is-fullscreen': isFullscreen }">
+      <div class="panes">
       <section v-if="editorOpen" class="pane editor-pane">
         <header class="pane-head">
           <div class="pane-title-wrap">
@@ -79,6 +80,21 @@
             <button
               type="button"
               class="icon-btn"
+              :title="isFullscreen ? '退出全屏' : '全屏'"
+              :aria-label="isFullscreen ? '退出全屏' : '全屏'"
+              :aria-pressed="isFullscreen"
+              @click="toggleFullscreen"
+            >
+              <svg v-if="isFullscreen" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+                <path fill="currentColor" d="M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z" />
+              </svg>
+              <svg v-else viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+                <path fill="currentColor" d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z" />
+              </svg>
+            </button>
+            <button
+              type="button"
+              class="icon-btn"
               title="折叠预览栏"
               aria-label="折叠预览栏"
               :disabled="!editorOpen"
@@ -97,6 +113,8 @@
             v-html="previewHtml"
             @click="onPreviewClick"
             @copy="onPreviewCopy"
+            @mouseover="onPreviewBracketOver"
+            @mouseout="onPreviewBracketOut"
           ></div>
           <p v-else class="empty-hint">在左侧粘贴或输入 Markdown，右侧会按文章样式实时预览。</p>
         </div>
@@ -106,9 +124,10 @@
           预览
         </button>
       </section>
-    </div>
+      </div>
 
-    <p v-if="pdfError" class="pdf-error">{{ pdfError }}</p>
+      <p v-if="pdfError" class="pdf-error">{{ pdfError }}</p>
+    </div>
 
     <!-- PDF 排版容器：外层移到屏幕外，只把内层交给 html2pdf，避免克隆后仍带偏移样式 -->
     <div class="pdf-stage" aria-hidden="true" inert>
@@ -118,21 +137,26 @@
 </template>
 
 <script setup lang="ts">
-import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue';
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue';
 import 'github-markdown-css';
 import 'highlight.js/styles/github.css';
 import 'katex/dist/katex.min.css';
 import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 import { copyText } from '../../../../utils/clipboard';
+import { clearBracketHighlight, highlightBracketPair } from '../../../../utils/bracketHighlight';
+import { handleCodeCopyClick, removeCodeCopyButtons, stripCodeCopyButtons } from '../../../../utils/codeCopy';
 import { handleFormulaCopyClick, removeFormulaCopyButtons, stripFormulaCopyButtons } from '../../../../utils/formulaCopy';
+import { handleTocToggle } from '../../../../utils/markdownToc';
 import { normalizeFormulaDelimiters } from '../../../../utils/formulaNormalize';
 import { renderMarkdownPreview } from '../../../../utils/markdownPreview';
 
 const SAMPLE = [
   '# Markdown 解析器',
   '',
-  '左侧支持多种公式写法，右侧会**自动统一**为 `$...$` 与 `$$...$$`。',
+  '[toc]',
+  '',
+  '左侧支持多种公式写法，右侧会自动统一为规范的公式定界符。',
   '',
   '行内公式：$E = mc^2$，也可以写成 \\(a^2 + b^2 = c^2\\) 或 [x^2 + y^2 = r^2]。',
   '',
@@ -148,9 +172,18 @@ const SAMPLE = [
   '',
   '\\\\x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\\\\',
   '',
-  '> 代码块和行内代码里的 `$x$` 会保持原样。',
+  '> 代码块和行内代码里的公式也会渲染，复制源码时仍保持原始写法。',
+  '',
+  '## 代码与图表',
+  '',
+  '```mermaid',
+  'graph TD',
+  '  A[开始] --> B[解析]',
+  '  B --> C[完成]',
+  '```',
   '',
   '```python',
+  '# 面积公式：$S = \\pi r^2$',
   'def area(r):',
   '    return 3.14 * r ** 2',
   '```',
@@ -168,16 +201,21 @@ const pdfBusy = ref(false);
 const pdfError = ref('');
 const editorOpen = ref(true);
 const previewOpen = ref(true);
+const isFullscreen = ref(false);
 const pdfRoot = ref<HTMLElement | null>(null);
 
 const hasContent = computed(() => normalizedText.value.trim().length > 0);
 
 let previewTimer = 0;
 let copiedTimer = 0;
+let editorOpenBeforeFullscreen = true;
+let parserMermaidTexts: string[] = [];
+let previewRenderSeq = 0;
 
-function refreshPreview() {
+async function refreshPreview() {
   window.clearTimeout(previewTimer);
   previewTimer = 0;
+  const renderId = ++previewRenderSeq;
 
   const result = normalizeFormulaDelimiters(input.value);
   normalizedText.value = result.text;
@@ -186,14 +224,20 @@ function refreshPreview() {
 
   if (!result.text.trim()) {
     previewHtml.value = '';
+    parserMermaidTexts = [];
     renderError.value = '';
     return;
   }
 
   try {
-    previewHtml.value = renderMarkdownPreview(result.text);
+    const { html, mermaidTexts } = await renderMarkdownPreview(result.text);
+    parserMermaidTexts = mermaidTexts;
+
+    if (renderId !== previewRenderSeq) return;
+    previewHtml.value = html;
     renderError.value = '';
   } catch (error) {
+    if (renderId !== previewRenderSeq) return;
     previewHtml.value = '';
     renderError.value = error instanceof Error ? error.message : String(error);
   }
@@ -201,7 +245,7 @@ function refreshPreview() {
 
 function schedulePreview() {
   window.clearTimeout(previewTimer);
-  previewTimer = window.setTimeout(refreshPreview, 180);
+  previewTimer = window.setTimeout(() => { void refreshPreview(); }, 180);
 }
 
 watch(input, schedulePreview);
@@ -216,21 +260,49 @@ function togglePreview() {
   previewOpen.value = !previewOpen.value;
 }
 
+function setFullscreen(value: boolean) {
+  if (value === isFullscreen.value) return;
+
+  if (value) {
+    editorOpenBeforeFullscreen = editorOpen.value;
+    editorOpen.value = false;
+  } else {
+    editorOpen.value = editorOpenBeforeFullscreen;
+  }
+
+  isFullscreen.value = value;
+  document.body.classList.toggle('md-parser-fullscreen', value);
+}
+
+function toggleFullscreen() {
+  setFullscreen(!isFullscreen.value);
+}
+
+function onFullscreenKeydown(event: KeyboardEvent) {
+  if (event.key !== 'Escape' || !isFullscreen.value) return;
+  event.preventDefault();
+  setFullscreen(false);
+}
+
+onMounted(() => {
+  window.addEventListener('keydown', onFullscreenKeydown);
+});
+
 function loadSample() {
   if (input.value.trim() && !window.confirm('载入示例会覆盖当前内容，继续？')) return;
   input.value = SAMPLE;
-  refreshPreview();
+  void refreshPreview();
 }
 
 function clearInput() {
   if (!input.value) return;
   if (!window.confirm('清空当前内容？')) return;
   input.value = '';
-  refreshPreview();
+  void refreshPreview();
 }
 
 async function copyNormalized() {
-  refreshPreview();
+  await refreshPreview();
   if (!normalizedText.value.trim()) return;
 
   const ok = await copyText(normalizedText.value);
@@ -253,6 +325,51 @@ function buildPdfFilename(): string {
     .trim()
     .slice(0, 60);
   return title || 'markdown';
+}
+
+// html2canvas 对带 foreignObject 的内联 Mermaid SVG 支持不稳定，
+// 导出前先栅格化成 PNG 图片，保证 PDF 里能看到图表。
+async function rasterizeMermaidSvgs(root: HTMLElement) {
+  const svgs = Array.from(root.querySelectorAll<SVGSVGElement>('svg.mermaid-diagram'));
+  for (const svg of svgs) {
+    const rect = svg.getBoundingClientRect();
+    const width = Math.max(1, Math.round(rect.width));
+    const height = Math.max(1, Math.round(rect.height));
+    if (width <= 1 || height <= 1) continue;
+
+    const clone = svg.cloneNode(true) as SVGSVGElement;
+    clone.setAttribute('width', String(width));
+    clone.setAttribute('height', String(height));
+    clone.style.width = `${width}px`;
+    clone.style.height = `${height}px`;
+    clone.style.maxWidth = 'none';
+
+    const serialized = new XMLSerializer().serializeToString(clone);
+    const image = new Image();
+    image.src = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(serialized)}`;
+    try {
+      await image.decode();
+      const scale = 2;
+      const canvas = document.createElement('canvas');
+      canvas.width = width * scale;
+      canvas.height = height * scale;
+      const context = canvas.getContext('2d');
+      if (!context) continue;
+
+      context.fillStyle = '#ffffff';
+      context.fillRect(0, 0, canvas.width, canvas.height);
+      context.drawImage(image, 0, 0, canvas.width, canvas.height);
+
+      const replacement = document.createElement('img');
+      replacement.src = canvas.toDataURL('image/png');
+      replacement.className = 'mermaid-diagram';
+      replacement.style.width = `${width}px`;
+      replacement.style.height = `${height}px`;
+      svg.replaceWith(replacement);
+    } catch (error) {
+      console.error('mermaid 转图片失败：', error);
+    }
+  }
 }
 
 async function waitForImages(root: HTMLElement) {
@@ -279,22 +396,23 @@ async function waitForImages(root: HTMLElement) {
 }
 
 async function downloadPdf() {
-  refreshPreview();
+  await refreshPreview();
   if (!hasContent.value || !previewHtml.value || !pdfRoot.value) return;
 
   pdfBusy.value = true;
   pdfError.value = '';
-  pdfHtml.value = stripFormulaCopyButtons(previewHtml.value);
+  pdfHtml.value = stripFormulaCopyButtons(stripCodeCopyButtons(previewHtml.value));
   try {
     await nextTick();
     if (document.fonts) await document.fonts.ready;
+    await rasterizeMermaidSvgs(pdfRoot.value);
     await waitForImages(pdfRoot.value);
 
     const { default: html2pdf } = await import('html2pdf.js');
     const contentHeight = Math.max(1, pdfRoot.value.scrollHeight);
     const scale = Math.max(1, Math.min(2, 12000 / contentHeight));
     const options = {
-      margin: [10, 10, 12, 10],
+      margin: [10, 10, 8, 10],
       filename: `${buildPdfFilename()}.pdf`,
       image: { type: 'jpeg', quality: 0.95 },
       enableLinks: true,
@@ -338,6 +456,17 @@ function getCopyConverter(): TurndownService {
     filter: (node: HTMLElement) => node.nodeName === 'SPAN' && node.classList.contains('katex-wrap'),
     replacement: (_content: string, node: HTMLElement) => node.getAttribute('data-src') || '',
   });
+  copyConverter.addRule('mermaid', {
+    filter: (node: HTMLElement) =>
+      (node.nodeName === 'DIV' && node.classList.contains('mermaid-slot')) ||
+      (node.nodeName === 'SVG' && node.hasAttribute?.('data-idx') === true),
+    replacement: (content: string, node: HTMLElement) => {
+      const idx = node.getAttribute('data-idx');
+      return idx !== null && parserMermaidTexts[Number(idx)]
+        ? `\n\`\`\`mermaid\n${parserMermaidTexts[Number(idx)]}\n\`\`\`\n`
+        : content;
+    },
+  });
   return copyConverter;
 }
 
@@ -353,6 +482,10 @@ function onPreviewCopy(event: ClipboardEvent) {
   const holder = document.createElement('div');
   holder.appendChild(range.cloneContents());
   removeFormulaCopyButtons(holder);
+  removeCodeCopyButtons(holder);
+  holder.querySelectorAll('code .katex-wrap').forEach((el) => {
+    el.replaceWith(el.getAttribute('data-src') ?? '');
+  });
   let markdown = getCopyConverter().turndown(holder.innerHTML);
   // turndown 会转义标题里序号后的点（"1\."），还原成正常写法
   markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
@@ -365,8 +498,26 @@ function onPreviewCopy(event: ClipboardEvent) {
   copyText(markdown);
 }
 
+function onPreviewBracketOver(event: MouseEvent) {
+  highlightBracketPair(event.currentTarget as HTMLElement, event.target);
+}
+
+function onPreviewBracketOut(event: MouseEvent) {
+  clearBracketHighlight(event.currentTarget as HTMLElement, event.target);
+}
+
 function onPreviewClick(event: MouseEvent) {
   if (handleFormulaCopyClick(event.target)) {
+    event.preventDefault();
+    return;
+  }
+
+  if (handleTocToggle(event.target)) {
+    event.preventDefault();
+    return;
+  }
+
+  if (handleCodeCopyClick(event.target)) {
     event.preventDefault();
     return;
   }
@@ -391,6 +542,9 @@ function onPreviewClick(event: MouseEvent) {
 onBeforeUnmount(() => {
   window.clearTimeout(previewTimer);
   window.clearTimeout(copiedTimer);
+  previewRenderSeq += 1;
+  window.removeEventListener('keydown', onFullscreenKeydown);
+  document.body.classList.remove('md-parser-fullscreen');
 });
 </script>
 
@@ -429,6 +583,10 @@ onBeforeUnmount(() => {
   font-size: 0.92em;
 }
 
+.panes-shell {
+  min-width: 0;
+}
+
 .panes {
   display: flex;
   align-items: stretch;
@@ -436,6 +594,38 @@ onBeforeUnmount(() => {
   height: calc(100vh - 260px);
   min-height: 470px;
   max-height: 900px;
+}
+
+/* 全屏：只把编辑/预览区域铺满视口，外层标题与面包屑由 body 类隐藏 */
+.panes-shell.is-fullscreen {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  box-sizing: border-box;
+  background-color: #eaf8ff;
+  background-image:
+    radial-gradient(120% 90% at -10% 110%, rgba(102, 204, 255, 0.25) 30%, rgba(178, 216, 232, 0.35) 55%, transparent 75%),
+    radial-gradient(80% 70% at 65% 20%, rgba(57, 197, 187, 0.28) 10%, rgba(44, 70, 76, 0.08) 60%, transparent 80%);
+}
+
+.panes-shell.is-fullscreen .panes {
+  flex: 1 1 auto;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+}
+
+.panes-shell.is-fullscreen .pdf-error {
+  margin: 0;
+}
+
+/* 右侧导航栏在右上角悬浮，预览标题行给它让出位置，避免遮住全屏/折叠按钮 */
+.panes-shell.is-fullscreen .preview-pane .pane-head {
+  padding-right: 64px;
 }
 
 .pane {
@@ -569,10 +759,17 @@ onBeforeUnmount(() => {
 }
 
 .icon-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 28px;
   height: 28px;
   color: #409eff;
   font-size: 14px;
+}
+
+.icon-btn svg {
+  display: block;
 }
 
 .icon-btn:disabled {
@@ -769,6 +966,15 @@ onBeforeUnmount(() => {
   break-inside: avoid;
 }
 
+/* PDF 里始终展开目录，不受预览折叠状态影响 */
+.pdf-root :deep(.md-toc.is-collapsed .md-toc-content) {
+  display: block;
+}
+
+.pdf-root :deep(.md-toc.is-collapsed .md-toc-arrow) {
+  transform: rotate(45deg);
+}
+
 @media (max-width: 1100px) {
   .panes {
     flex-direction: column;
@@ -814,6 +1020,29 @@ onBeforeUnmount(() => {
 
   .preview-body {
     padding: 16px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .panes-shell.is-fullscreen {
+    overflow-y: auto;
+  }
+
+  .panes-shell.is-fullscreen .panes {
+    flex: 0 0 auto;
+    height: auto;
+  }
+
+  .panes-shell.is-fullscreen .pane {
+    min-height: 45vh;
+  }
+
+  .panes-shell.is-fullscreen .preview-pane {
+    min-height: 45vh;
+  }
+
+  .panes-shell.is-fullscreen .editor-textarea {
+    min-height: 200px;
   }
 }
 </style>
