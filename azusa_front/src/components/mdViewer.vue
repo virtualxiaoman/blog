@@ -16,6 +16,8 @@ import { scrollToElementStable } from '../utils/stableScroll';
 import { clearBracketHighlight, highlightBracketPair } from '../utils/bracketHighlight';
 import { handleFormulaCopyClick, removeFormulaCopyButtons } from '../utils/formulaCopy';
 import { handleCodeCopyClick, removeCodeCopyButtons } from '../utils/codeCopy';
+import { handleTableCopyClick, normalizeMarkdownTableSpacing, removeTableCopyButtons } from '../utils/tableCopy';
+import { handleMermaidCopyClick, removeMermaidCopyButtons } from '../utils/mermaidRender';
 import { handleTocToggle } from '../utils/markdownToc';
 import { renderMarkdownDocument } from '../utils/markdownDocument';
 import 'github-markdown-css';
@@ -92,6 +94,18 @@ function onContentClick(event: MouseEvent) {
 
   // 目录折叠按钮
   if (handleTocToggle(target)) return;
+
+  // 表格复制按钮
+  if (handleTableCopyClick(target)) {
+    event.preventDefault();
+    return;
+  }
+
+  // Mermaid 代码复制按钮
+  if (handleMermaidCopyClick(target, mermaidTexts)) {
+    event.preventDefault();
+    return;
+  }
 
   // 代码块复制按钮
   if (handleCodeCopyClick(target)) {
@@ -171,6 +185,8 @@ function onContentCopy(event: ClipboardEvent) {
   holder.appendChild(frag);
   removeFormulaCopyButtons(holder);
   removeCodeCopyButtons(holder);
+  removeTableCopyButtons(holder);
+  removeMermaidCopyButtons(holder);
   // turndown 的代码块规则按纯文本提取，先把代码内公式还原为源码，
   // 避免把 KaTeX 的 MathML 与 HTML 两份文本写进复制出的代码块。
   holder.querySelectorAll('code .katex-wrap').forEach((el) => {
@@ -179,6 +195,7 @@ function onContentCopy(event: ClipboardEvent) {
   let markdown = getMdConverter().turndown(holder.innerHTML);
   // 标题行首的数字序号点（如 "1\."）是 turndown 为避免有序列表歧义的转义，还原为 "1."
   markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
+  markdown = normalizeMarkdownTableSpacing(markdown);
 
   event.preventDefault();
   navigator.clipboard.writeText(markdown).catch(() => {

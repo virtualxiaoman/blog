@@ -2,6 +2,7 @@ import { marked } from 'marked';
 import hljs from 'highlight.js/lib/common';
 import katex from 'katex';
 import { cleanFormulaSource } from './formulaNormalize';
+import { createTableCopyButton } from './tableCopy';
 
 /**
  * 文章正文与 Markdown 解析器共用的 Markdown 核心渲染。
@@ -17,6 +18,8 @@ export interface MarkdownRenderOptions {
   mermaid?: boolean;
   /** 给代码块追加右上角复制按钮（文章正文开启）。 */
   codeCopyButtons?: boolean;
+  /** 给表格追加右上角复制按钮（文章正文开启）。 */
+  tableCopyButtons?: boolean;
   /** 把独占一行的 [toc] 换成目录占位元素（文章正文开启）。 */
   tocSlots?: boolean;
 }
@@ -210,6 +213,17 @@ function markdownToHtml(
     pre.appendChild(button);
   });
 
+  // 表格包一层定位容器，右上角放复制按钮；按钮点击逻辑同样由调用方事件委托处理。
+  if (options.tableCopyButtons) {
+    tempDiv.querySelectorAll('table').forEach((table) => {
+      const wrap = document.createElement('div');
+      wrap.className = 'table-wrap';
+      table.replaceWith(wrap);
+      wrap.appendChild(table);
+      wrap.appendChild(createTableCopyButton());
+    });
+  }
+
   return { html: tempDiv.innerHTML, mermaidTexts, hasToc };
 }
 
@@ -221,7 +235,7 @@ function restoreKatexHtml(html: string): string {
     .replace(/{{katex_block:(.*?)}}/g, (_, p1: string) => {
       const src = decodeBase64(p1);
       const rendered = katex.renderToString(src, { throwOnError: false, displayMode: true });
-      return `<span class="katex-wrap" data-src="${escapeAttr(`$$${src}$$`)}">${rendered}</span>`;
+      return `<span class="katex-wrap katex-wrap-block" data-src="${escapeAttr(`$$${src}$$`)}">${rendered}</span>`;
     })
     .replace(/{{katex_inline:(.*?)}}/g, (_, p1: string) => {
       const src = decodeBase64(p1);

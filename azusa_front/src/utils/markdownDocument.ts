@@ -30,6 +30,7 @@ export async function renderMarkdownDocument(
     codeFormulas: true,
     mermaid: true,
     codeCopyButtons: true,
+    tableCopyButtons: true,
     tocSlots: true,
   });
 

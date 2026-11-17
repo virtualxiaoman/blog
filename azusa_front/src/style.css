@@ -22,6 +22,15 @@ body {
   position: relative;
 }
 
+/* 行间公式：容器贴合公式宽度并整体居中，复制按钮才会贴在公式左上角而不是页面左侧 */
+.katex-wrap.katex-wrap-block {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .formula-copy-btn {
   position: absolute;
   top: -11px;
@@ -107,8 +116,10 @@ body.md-parser-fullscreen .markdown-parser > .tool-head {
 
 /* ==================== Markdown 正文共用样式：代码复制 / Mermaid / 目录 ==================== */
 
-/* 复制按钮：代码块内部右上角 */
-.code-copy-btn {
+/* 复制按钮：代码块 / 表格 / Mermaid 右上角 */
+.code-copy-btn,
+.table-copy-btn,
+.mermaid-copy-btn {
   position: absolute;
   top: 8px;
   right: 8px;
@@ -128,17 +139,47 @@ body.md-parser-fullscreen .markdown-parser > .tool-head {
   transition: opacity 0.2s ease, background-color 0.2s ease;
 }
 
-.markdown-body pre:hover .code-copy-btn {
+.markdown-body pre:hover .code-copy-btn,
+.table-wrap:hover .table-copy-btn,
+.mermaid-block:hover .mermaid-copy-btn {
   opacity: 1;
 }
 
-.code-copy-btn:hover {
+.code-copy-btn:hover,
+.table-copy-btn:hover,
+.mermaid-copy-btn:hover {
   background-color: rgba(102, 204, 255, 0.32);
 }
 
-.code-copy-btn.is-copied {
+.code-copy-btn.is-copied,
+.table-copy-btn.is-copied,
+.mermaid-copy-btn.is-copied {
   background-color: rgba(57, 197, 187, 0.25);
   color: #2eaaa0;
+}
+
+/* 表格与 Mermaid 的定位容器：复制按钮挂在右上角 */
+.table-wrap,
+.mermaid-block {
+  position: relative;
+}
+
+/* 表格按钮放到表格上沿外侧，避免遮住最后一个表头单元格 */
+.table-copy-btn {
+  top: -14px;
+  right: 0;
+}
+
+/* 容器贴合表格实际宽度，窄表格的复制按钮不会被推到页面最右侧 */
+.table-wrap {
+  width: fit-content;
+  max-width: 100%;
+}
+
+.mermaid-block {
+  width: fit-content;
+  max-width: 100%;
+  margin: 16px auto;
 }
 
 /* mermaid 图表：居中，水平方向可滚动避免窄屏挤压 */
@@ -147,6 +188,10 @@ body.md-parser-fullscreen .markdown-parser > .tool-head {
   display: block;
   margin: 16px auto;
   overflow-x: auto;
+}
+
+.mermaid-block .mermaid-diagram {
+  margin: 0 auto;
 }
 
 /* 渲染失败的兜底展示 */

@@ -5,8 +5,8 @@
         <h2 class="tool-title">Markdown 解析器</h2>
         <p class="tool-desc">
           左侧编辑 Markdown，右侧按文章样式实时预览；复制与下载都会使用统一为
-          <code>$…$</code> / <code>$$…$$</code> 的规范公式，并自动还原 GPT 输出里多余的
-          <code>\_</code>、<code>\\|</code> 等转义。
+          <code>$…$</code> / <code>$$…$$</code> 的规范公式，表格单元格左右空格统一为一个，
+          并自动还原 GPT 输出里多余的 <code>\_</code>、<code>\\|</code> 等转义。
         </p>
       </div>
     </div>
@@ -76,7 +76,7 @@
               class="action-btn"
               :class="{ 'is-copied': copied }"
               :disabled="!hasContent"
-              title="复制已统一为 $ / $$ 的 Markdown"
+              title="复制已统一公式与表格空格格式的 Markdown"
               @click="copyNormalized"
             >
               {{ copied ? '已复制' : '复制 Markdown' }}
@@ -116,7 +116,9 @@
             </button>
           </div>
         </header>
-        <p class="format-hint">选中预览内容后复制，得到带 <code>$…$</code> 公式的 Markdown</p>
+        <p class="format-hint">
+          选中预览内容后复制，得到带 <code>$…$</code> 公式的 Markdown；表格与 Mermaid 可用右上角按钮复制
+        </p>
         <div class="preview-scroll" data-back-to-top-target>
           <p v-if="renderError" class="render-error">解析失败：{{ renderError }}</p>
           <div
@@ -160,6 +162,17 @@ import { copyText } from '../../../../utils/clipboard';
 import { clearBracketHighlight, highlightBracketPair } from '../../../../utils/bracketHighlight';
 import { handleCodeCopyClick, removeCodeCopyButtons, stripCodeCopyButtons } from '../../../../utils/codeCopy';
 import { handleFormulaCopyClick, removeFormulaCopyButtons, stripFormulaCopyButtons } from '../../../../utils/formulaCopy';
+import {
+  handleTableCopyClick,
+  normalizeMarkdownTableSpacing,
+  removeTableCopyButtons,
+  stripTableCopyButtons,
+} from '../../../../utils/tableCopy';
+import {
+  handleMermaidCopyClick,
+  removeMermaidCopyButtons,
+  stripMermaidCopyButtons,
+} from '../../../../utils/mermaidRender';
 import { handleTocToggle } from '../../../../utils/markdownToc';
 import { normalizeFormulaDelimiters } from '../../../../utils/formulaNormalize';
 import { renderMarkdownPreview } from '../../../../utils/markdownPreview';
@@ -319,7 +332,7 @@ async function copyNormalized() {
   await refreshPreview();
   if (!normalizedText.value.trim()) return;
 
-  const ok = await copyText(normalizedText.value);
+  const ok = await copyText(normalizeMarkdownTableSpacing(normalizedText.value));
   if (!ok) return;
   copied.value = true;
   window.clearTimeout(copiedTimer);
@@ -415,7 +428,9 @@ async function downloadPdf() {
 
   pdfBusy.value = true;
   pdfError.value = '';
-  pdfHtml.value = stripFormulaCopyButtons(stripCodeCopyButtons(previewHtml.value));
+  pdfHtml.value = stripTableCopyButtons(
+    stripMermaidCopyButtons(stripFormulaCopyButtons(stripCodeCopyButtons(previewHtml.value)))
+  );
   try {
     await nextTick();
     if (document.fonts) await document.fonts.ready;
@@ -497,12 +512,15 @@ function onPreviewCopy(event: ClipboardEvent) {
   holder.appendChild(range.cloneContents());
   removeFormulaCopyButtons(holder);
   removeCodeCopyButtons(holder);
+  removeTableCopyButtons(holder);
+  removeMermaidCopyButtons(holder);
   holder.querySelectorAll('code .katex-wrap').forEach((el) => {
     el.replaceWith(el.getAttribute('data-src') ?? '');
   });
   let markdown = getCopyConverter().turndown(holder.innerHTML);
   // turndown 会转义标题里序号后的点（"1\."），还原成正常写法
   markdown = markdown.replace(/^(#{1,6}\s+\d+)\\\. /gm, '$1. ');
+  markdown = normalizeMarkdownTableSpacing(markdown);
 
   event.preventDefault();
   if (event.clipboardData) {
@@ -527,6 +545,16 @@ function onPreviewClick(event: MouseEvent) {
   }
 
   if (handleTocToggle(event.target)) {
+    event.preventDefault();
+    return;
+  }
+
+  if (handleTableCopyClick(event.target)) {
+    event.preventDefault();
+    return;
+  }
+
+  if (handleMermaidCopyClick(event.target, parserMermaidTexts)) {
     event.preventDefault();
     return;
   }
